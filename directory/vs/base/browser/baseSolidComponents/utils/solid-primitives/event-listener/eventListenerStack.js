@@ -1,0 +1,16 @@
+define(de[2191], he([1, 0, 302, 13, 898, 2]), function (ce, e, t, i, w, E) {
+			"use strict";
+			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$clb = C);
+			function C(d, m) {
+				if (E.isServer) return [() => () => {}, () => {}];
+				const { push: r, execute: u } = (0, t.$jkb)();
+				return [
+					(a, h, c) => {
+						const n = (0, w.$8kb)(d, a, h, c ?? m);
+						return r(n), n;
+					},
+					(0, i.onCleanup)(u),
+				];
+			}
+		}),
+		

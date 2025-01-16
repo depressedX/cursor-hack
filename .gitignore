@@ -1,0 +1,7 @@
+.vscode
+node_modules
+
+workbench.desktop.main.js
+workbench.desktop.main.formatted.js
+
+.idea

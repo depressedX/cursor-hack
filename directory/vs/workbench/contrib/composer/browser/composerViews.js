@@ -1,0 +1,7 @@
+define(de[506], he([1, 0, 5]), function (ce, e, t) {
+			"use strict";
+			Object.defineProperty(e, "__esModule", { value: !0 }),
+				(e.IComposerViewsService = void 0),
+				(e.IComposerViewsService = (0, t.$Mi)("composerViewsService"));
+		}),
+		

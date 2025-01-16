@@ -1,0 +1,63 @@
+define(de[2201], he([1, 0, 582, 583, 487]), function (ce, e, t, i, w) {
+			"use strict";
+			Object.defineProperty(e, "__esModule", { value: !0 }),
+				(e.$8lb = void 0),
+				(e.$7lb = E);
+			async function E(d, m) {
+				const { placement: r, platform: u, elements: a } = d,
+					h = await u.isRTL?.(a.floating),
+					c = (0, w.$Nlb)(r),
+					n = (0, t.$Llb)(r),
+					g = (0, i.$Olb)(r) === "x",
+					p = ["left", "top"].includes(c) ? -1 : 1,
+					o = h && g ? -1 : 1,
+					f = typeof m == "function" ? m(d) : m;
+				let {
+					mainAxis: b,
+					crossAxis: s,
+					alignmentAxis: l,
+				} = typeof f == "number"
+					? { mainAxis: f, crossAxis: 0, alignmentAxis: null }
+					: { mainAxis: 0, crossAxis: 0, alignmentAxis: null, ...f };
+				return (
+					n && typeof l == "number" && (s = n === "end" ? l * -1 : l),
+					g ? { x: s * o, y: b * p } : { x: b * p, y: s * o }
+				);
+			}
+			const C = (d = 0) => ({
+				name: "offset",
+				options: d,
+				async fn(m) {
+					const { x: r, y: u } = m,
+						a = await E(m, d);
+					return { x: r + a.x, y: u + a.y, data: a };
+				},
+			});
+			e.$8lb = C;
+		}),
+		define(
+			de[1495],
+			he([1, 0, 582, 1119, 583, 1121]),
+			function (ce, e, t, i, w, E) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Wlb = C);
+				function C(d, m, r = !1) {
+					const u = (0, t.$Llb)(d),
+						a = (0, w.$Olb)(d),
+						h = (0, i.$Mlb)(a);
+					let c =
+						a === "x"
+							? u === (r ? "end" : "start")
+								? "right"
+								: "left"
+							: u === "start"
+								? "bottom"
+								: "top";
+					return (
+						m.reference[h] > m.floating[h] && (c = (0, E.$Vlb)(c)),
+						{ main: c, cross: (0, E.$Vlb)(c) }
+					);
+				}
+			},
+		),
+		

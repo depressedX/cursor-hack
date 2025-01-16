@@ -1,0 +1,202 @@
+define(de[467], he([1, 0, 5]), function (ce, e, t) {
+			"use strict";
+			Object.defineProperty(e, "__esModule", { value: !0 }),
+				(e.$z9b = e.$y9b = void 0),
+				(e.$y9b = (0, t.$Mi)("notepadDataService")),
+				(e.$z9b = (0, t.$Mi)("notepadService"));
+		}),
+		define(
+			de[1743],
+			he([1, 0, 11, 558, 467, 14]),
+			function (ce, e, t, i, w, E) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }),
+					(e.$wAc = void 0);
+				class C extends t.$3X {
+					static {
+						this.ID = "workbench.action.createAndOpenNotepad";
+					}
+					static {
+						this.TITLE = "Notepad: Create and Open New Notepad";
+					}
+					constructor() {
+						super({
+							id: C.ID,
+							title: { value: C.TITLE, original: C.TITLE },
+							menu: { id: i.$C9b, group: "navigation", order: 10 },
+							icon: E.$ak.plus,
+							f1: !0,
+						});
+					}
+					async run(m) {
+						m.get(w.$z9b).createNotepad(void 0, { view: "editor" });
+					}
+				}
+				(e.$wAc = C), (0, t.$4X)(C);
+			},
+		),
+		define(
+			de[1744],
+			he([1, 0, 223, 14, 45, 3, 467, 9, 23]),
+			function (ce, e, t, i, w, E, C, d, m) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }),
+					(e.$7zc = e.$6zc = void 0);
+				class r extends t.$LO {
+					static {
+						this.TypeID = "workbench.input.notepad";
+					}
+					static {
+						this.EditorID = "workbench.editor.notepad";
+					}
+					constructor(h) {
+						super(), (this.notepad = h);
+					}
+					get typeId() {
+						return r.TypeID;
+					}
+					get editorId() {
+						return r.EditorID;
+					}
+					get resource() {
+						return d.URI.from({
+							scheme: m.Schemas.notepad,
+							path: this.notepad.id,
+						});
+					}
+					setName(h) {
+						(this.notepad.name = h), this.f.fire();
+					}
+					getName() {
+						return this.notepad.name || "Untitled Notepad";
+					}
+					getIcon() {
+						return i.$ak.book;
+					}
+					static create(h) {
+						return new r(h);
+					}
+					async resolve() {
+						return null;
+					}
+					toJSON() {
+						return { notepadId: this.notepad.id };
+					}
+					toUntyped() {
+						return { resource: this.resource, options: { override: r.TypeID } };
+					}
+					matches(h) {
+						return super.matches(h)
+							? !0
+							: h instanceof r
+								? h.notepad.id === this.notepad.id
+								: !1;
+					}
+				}
+				e.$6zc = r;
+				let u = class extends E.$1c {
+					constructor(h, c) {
+						super(), (this.a = h), (this.b = c);
+					}
+					canSerialize(h) {
+						return h instanceof r;
+					}
+					serialize(h) {
+						if (h instanceof r) return JSON.stringify(h.toJSON());
+					}
+					deserialize(h, c) {
+						const { notepadId: n } = JSON.parse(c),
+							g = this.a.getNotepadData(n);
+						if (g) return r.create(g);
+					}
+				};
+				(e.$7zc = u), (e.$7zc = u = Ne([j(0, C.$y9b), j(1, w.$0zb)], u));
+			},
+		),
+		define(
+			de[3120],
+			he([1, 0, 2, 2, 2, 2, 13, 2470]),
+			function (ce, e, t, i, w, E, C) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }),
+					(e.SparkleDivColor = void 0),
+					(e.$ged = u);
+				const d = (0, t.template)(
+						'<div class="sparkle-div-sparkle-button"><span aria-hidden="true" class="sparkle-div-particle-pen">',
+					),
+					m = (0, t.template)(
+						'<svg class="sparkle-div-particle" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.937 3.846L7.75 1L8.563 3.846C8.77313 4.58114 9.1671 5.25062 9.70774 5.79126C10.2484 6.3319 10.9179 6.72587 11.653 6.936L14.5 7.75L11.654 8.563C10.9189 8.77313 10.2494 9.1671 9.70874 9.70774C9.1681 10.2484 8.77413 10.9179 8.564 11.653L7.75 14.5L6.937 11.654C6.72687 10.9189 6.3329 10.2494 5.79226 9.70874C5.25162 9.1681 4.58214 8.77413 3.847 8.564L1 7.75L3.846 6.937C4.58114 6.72687 5.25062 6.3329 5.79126 5.79226C6.3319 5.25162 6.72587 4.58214 6.936 3.847L6.937 3.846Z" fill="black" stroke="black" stroke-linecap="round" stroke-linejoin="round">',
+					);
+				var r;
+				(function (a) {
+					(a.Red = "red"), (a.Green = "green");
+				})(r || (e.SparkleDivColor = r = {}));
+				function u(a) {
+					const h = new Array(17).fill(void 0),
+						c = (0, C.createMemo)(() => {
+							switch (a.color) {
+								case r.Red:
+									return "var(--vscode-testing-iconFailed)";
+								case r.Green:
+								default:
+									return "var(--vscode-testing-iconPassed)";
+							}
+						});
+					return (
+						(0, C.createEffect)(() => {
+							const n = (g, p) => Math.floor(Math.random() * (p - g + 1) + g);
+							h.forEach((g) => {
+								g !== void 0 &&
+									g.setAttribute(
+										"style",
+										`
+		--x: ${n(20, 80)};
+		--y: ${n(20, 80)};
+		--duration: ${n(6, 20)};
+		--delay: ${n(1, 10)};
+		--alpha: ${n(40, 90) / 100};
+		--origin-x: ${Math.random() > 0.5 ? n(300, 800) * -1 : n(300, 800)}%;
+		--origin-y: ${Math.random() > 0.5 ? n(300, 800) * -1 : n(300, 800)}%;
+		--size: ${n(40, 90) / 100};
+	`,
+									);
+							});
+						}),
+						(() => {
+							const n = d(),
+								g = n.firstChild;
+							return (
+								g.style.setProperty("pointer-events", "none"),
+								(0, E.insert)(g, () =>
+									h.map((p, o) =>
+										(() => {
+											const f = m(),
+												b = f.firstChild,
+												s = h[o];
+											return (
+												typeof s == "function" ? (0, i.use)(s, f) : (h[o] = f),
+												f.style.setProperty("overflow", "visible"),
+												(0, w.effect)(() =>
+													c() != null
+														? b.style.setProperty("fill", c())
+														: b.style.removeProperty("fill"),
+												),
+												f
+											);
+										})(),
+									),
+								),
+								(0, E.insert)(n, () => a.children, null),
+								(0, w.effect)(() =>
+									(a.active ? "1" : "0") != null
+										? g.style.setProperty("opacity", a.active ? "1" : "0")
+										: g.style.removeProperty("opacity"),
+								),
+								n
+							);
+						})()
+					);
+				}
+			},
+		),
+		
