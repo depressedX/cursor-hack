@@ -36,25 +36,4 @@ This modification adds a check after determining the TAG. If the TAG is empty (w
 This change ensures that even if there are no previous versions or if the version determination fails for some reason, the script will still proceed with a valid initial version number.${t.SPACE}`,
 				});
 		}),
-		define(
-			de[3044],
-			he([1, 0, 3035, 3034, 3040, 3041, 3042, 3043, 3036, 3037, 3038, 3039]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
-				"use strict";
-				Object.defineProperty(e, "__esModule", { value: !0 }),
-					(e.allComposerFakeStreamers = void 0),
-					(e.allComposerFakeStreamers = [
-						i.markdownHeaderTest,
-						t.jsxLanguageTest,
-						w.extraSpaceTest,
-						E.windowsNewlineTest,
-						C.markdownCodeblocksTest,
-						d.bashScriptCodeblocksTest,
-						m.rollbackTextTest,
-						r.tabTest,
-						u.pythonExplanationTest,
-						a.markdownCodeblocks2Test,
-					]);
-			},
-		),
 		

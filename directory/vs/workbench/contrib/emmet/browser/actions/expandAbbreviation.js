@@ -1,0 +1,36 @@
+define(
+			de[3672],
+			he([1, 0, 4, 3671, 46, 71, 27, 8, 43, 11]),
+			function (ce, e, t, i, w, E, C, d, m, r) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }), (t = mt(t));
+				class u extends i.$IXc {
+					constructor() {
+						super({
+							id: "editor.emmet.action.expandAbbreviation",
+							label: t.localize(5995, null),
+							alias: "Emmet: Expand Abbreviation",
+							precondition: E.EditorContextKeys.writable,
+							actionName: "expand_abbreviation",
+							kbOpts: {
+								primary: C.KeyCode.Tab,
+								kbExpr: d.$Kj.and(
+									E.EditorContextKeys.editorTextFocus,
+									E.EditorContextKeys.tabDoesNotMoveFocus,
+									d.$Kj.has("config.emmet.triggerExpansionOnTab"),
+								),
+								weight: m.KeybindingWeight.EditorContrib,
+							},
+							menuOpts: {
+								menuId: r.$XX.MenubarEditMenu,
+								group: "5_insert",
+								title: t.localize(5996, null),
+								order: 3,
+							},
+						});
+					}
+				}
+				(0, w.$ntb)(u);
+			},
+		),
+		

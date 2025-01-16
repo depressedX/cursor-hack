@@ -1,0 +1,63 @@
+define(
+			de[3972],
+			he([1, 0, 124, 59, 69, 42, 770, 90, 118, 241, 85]),
+			function (ce, e, t, i, w, E, C, d, m, r, u) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }),
+					(e.$S8b = void 0);
+				let a = class {
+					constructor(c, n, g, p, o, f) {
+						(this.b = c),
+							(this.c = n),
+							(this.d = g),
+							(this.e = p),
+							(this.f = o),
+							(this.g = f),
+							(this.a = new i.$Jc(10));
+					}
+					async call(c, n, g, p) {
+						if (!n)
+							throw new Error(
+								"No read chunk parameters provided. Need to give at least the path.",
+							);
+						const f = await this.b.getMagicURIForText(n.relativeWorkspacePath);
+						if (!f)
+							throw new Error(
+								`Could not find file ${n.relativeWorkspacePath} in the workspace.`,
+							);
+						let b;
+						try {
+							b = await this.c.createModelReference(f);
+							const s = b.object.textEditorModel.getValue(),
+								l = this.g.read({
+									resource: b.object.textEditorModel.uri,
+									severities: d.MarkerSeverity.Error,
+								}),
+								y = new t.$Yy({ contents: s, diagnostics: l.map(C.$P7b) });
+							this.a.set(c.toolformerId, y);
+						} finally {
+							b?.dispose();
+						}
+					}
+					async finish(c, n, g) {
+						const p = this.a.get(c.toolformerId);
+						if (!p) throw new Error("No read result found.");
+						return p;
+					}
+				};
+				(e.$S8b = a),
+					(e.$S8b = a =
+						Ne(
+							[
+								j(0, r.$q8b),
+								j(1, E.$MO),
+								j(2, m.$Nfc),
+								j(3, w.$k3),
+								j(4, u.$kZ),
+								j(5, d.$aM),
+							],
+							a,
+						));
+			},
+		),
+		

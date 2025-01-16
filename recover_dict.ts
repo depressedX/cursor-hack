@@ -7,7 +7,7 @@ const raw = readFileSync('./workbench.desktop.main.formatted.js', 'utf8');
 
 console.log('ok');
 
-const REG = /define\(de\[(\d+)\], he\((\[[^\]]+\])/g;
+const REG = /define\(\s*de\[(\d+)\],[\s\t]*he\((\[[^\]]+\])/g;
 
 
 

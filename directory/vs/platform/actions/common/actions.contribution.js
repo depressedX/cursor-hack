@@ -1,0 +1,11 @@
+define(
+			de[2895],
+			he([1, 0, 11, 2779, 1677, 20]),
+			function (ce, e, t, i, w, E) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }),
+					(0, E.$lK)(t.$YX, w.$Qyb, E.InstantiationType.Delayed),
+					(0, t.$4X)(i.$avc);
+			},
+		),
+		

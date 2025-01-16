@@ -1,0 +1,38 @@
+define(
+			de[4172],
+			he([1, 0, 4, 377, 11, 483, 63, 1972, 18, 10, 1068]),
+			function (ce, e, t, i, w, E, C, d, m, r, u) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }),
+					(t = mt(t)),
+					(i = mt(i)),
+					(0, w.$4X)(
+						class extends w.$3X {
+							constructor() {
+								super({
+									id: i.SearchCommandIds.QuickTextSearchActionId,
+									title: t.localize2(9264, "Quick Search"),
+									category: E.$oOc,
+									f1: !0,
+								});
+							}
+							async run(c, n) {
+								const g = c.get(C.$DJ),
+									p = a(c) ?? "";
+								g.quickAccess.show(d.$hPc + p, { preserveValue: !!p });
+							}
+						},
+					);
+				function a(h) {
+					const c = h.get(m.$IY),
+						n = h.get(r.$gj),
+						g = c.activeTextEditorControl;
+					return !g ||
+						!g.hasTextFocus() ||
+						!n.getValue("editor.find.seedSearchStringFromSelection")
+						? null
+						: (0, u.$fPc)(!1, g);
+				}
+			},
+		),
+		

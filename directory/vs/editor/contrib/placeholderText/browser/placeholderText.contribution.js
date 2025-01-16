@@ -1,0 +1,19 @@
+define(
+			de[2861],
+			he([1, 0, 46, 307, 4, 306, 1185, 1624, 2317]),
+			function (ce, e, t, i, w, E, C, d) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }),
+					(0, t.$qtb)(
+						C.$Ujc.ID,
+						(0, d.$_jc)(() => C.$Ujc),
+						t.EditorContributionInstantiation.Eager,
+					),
+					(0, E.$wP)(
+						"editor.placeholder.foreground",
+						i.$6T,
+						(0, w.localize)(1360, null),
+					);
+			},
+		),
+		

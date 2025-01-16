@@ -1,0 +1,61 @@
+define(
+			de[3607],
+			he([1, 0, 3, 56, 46, 38, 17, 785, 1218, 448, 601, 368]),
+			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+				"use strict";
+				Object.defineProperty(e, "__esModule", { value: !0 }),
+					(e.$xhc = void 0);
+				class h extends t.$1c {
+					static {
+						this.ID = "editor.contrib.colorContribution";
+					}
+					static {
+						this.RECOMPUTE_TIME = 1e3;
+					}
+					constructor(n) {
+						super(), (this.a = n), this.D(n.onMouseDown((g) => this.b(g)));
+					}
+					dispose() {
+						super.dispose();
+					}
+					b(n) {
+						const g = this.a.getOption(
+							E.EditorOption.colorDecoratorsActivatedOn,
+						);
+						if (g !== "click" && g !== "clickAndHover") return;
+						const p = n.target;
+						if (
+							p.type !== i.MouseTargetType.CONTENT_TEXT ||
+							!p.detail.injectedText ||
+							p.detail.injectedText.options.attachedData !== d.$XBb ||
+							!p.range
+						)
+							return;
+						const o = this.a.getContribution(r.$whc.ID);
+						if (o && !o.isColorPickerVisible) {
+							const f = new C.$iL(
+								p.range.startLineNumber,
+								p.range.startColumn + 1,
+								p.range.endLineNumber,
+								p.range.endColumn + 1,
+							);
+							o.showContentHover(
+								f,
+								u.HoverStartMode.Immediate,
+								u.HoverStartSource.Mouse,
+								!1,
+								!0,
+							);
+						}
+					}
+				}
+				(e.$xhc = h),
+					(0, w.$qtb)(
+						h.ID,
+						h,
+						w.EditorContributionInstantiation.BeforeFirstInteraction,
+					),
+					a.$5Bb.register(m.$$Bb);
+			},
+		),
+		
