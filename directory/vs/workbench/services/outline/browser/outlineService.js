@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/linkedList.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './outline.js';
+import '../../../../base/common/event.js';
 define(
 			de[3522],
 			he([1, 0, 3, 273, 20, 475, 6]),

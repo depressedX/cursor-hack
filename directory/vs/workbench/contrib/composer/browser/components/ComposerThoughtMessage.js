@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../aiMarkdown/browser/markdown.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/collapsible/collapsible.js';
+import '../hooks/useComposerDataHandle.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/components/ComposerThoughtMessage.js';
 define(
 			de[4280],
 			he([1, 0, 2, 2, 13, 338, 36, 696, 177, 2417]),

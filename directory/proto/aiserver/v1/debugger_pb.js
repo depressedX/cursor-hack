@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../../external/bufbuild/protobuf.js';
+import './chat_pb.js';
+import './utils_pb.js';
 define(de[2174], he([1, 0, 86, 126, 83]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

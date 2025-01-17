@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../editor/common/editorCommon.js';
+import '../model/mapping.js';
+import '../../../../../base/common/controlFlow.js';
 define(
 			de[3085],
 			he([1, 0, 3, 77, 98, 686, 1132]),

@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './model.js';
+import './resolverService.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/undoRedo/common/undoRedo.js';
+import '../model/editStack.js';
 define(
 			de[2875],
 			he([1, 0, 67, 42, 3, 155, 780]),

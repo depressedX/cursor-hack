@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './code.js';
+import './protocol-connect/code-string.js';
 define(de[213], he([1, 0, 202, 1387]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

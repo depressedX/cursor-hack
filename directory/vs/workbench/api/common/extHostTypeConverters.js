@@ -1,3 +1,37 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/dataTransfer.js';
+import '../../../base/common/functional.js';
+import '../../../base/common/htmlContent.js';
+import '../../../base/common/map.js';
+import '../../../base/common/marked/marked.js';
+import '../../../base/common/marshalling.js';
+import '../../../base/common/mime.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/prefixTree.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/themables.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import '../../../editor/common/config/editorOptions.js';
+import '../../../editor/common/core/range.js';
+import '../../../editor/common/encodedTokenAttributes.js';
+import '../../../editor/common/languages.js';
+import '../../../editor/common/model.js';
+import '../../../platform/markers/common/markers.js';
+import '../../../platform/progress/common/progress.js';
+import './extHostTestingPrivateApi.js';
+import '../../common/editor.js';
+import '../../contrib/chat/common/chatAgents.js';
+import '../../contrib/chat/common/languageModels.js';
+import '../../contrib/debug/common/debug.js';
+import '../../contrib/notebook/common/notebookCommon.js';
+import '../../contrib/testing/common/testId.js';
+import '../../contrib/testing/common/testTypes.js';
+import '../../services/editor/common/editorService.js';
+import './extHostTypes.js';
 define(
 			de[1836],
 			he([

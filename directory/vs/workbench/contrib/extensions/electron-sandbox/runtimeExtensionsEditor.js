@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../common/extensions.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/label/common/label.js';
+import './extensionsSlowActions.js';
+import '../../../services/environment/common/environmentService.js';
+import '../common/reportExtensionIssueAction.js';
+import '../browser/abstractRuntimeExtensionsEditor.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/profiling/common/profiling.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../services/extensionManagement/common/extensionFeatures.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[1295],
 			he([

@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../keyboardEvent.js';
+import '../../touch.js';
+import '../contextview/contextview.js';
+import '../hover/hoverDelegate2.js';
+import '../hover/hoverDelegateFactory.js';
+import '../../../common/actions.js';
+import '../../../common/event.js';
+import '../../../common/keyCodes.js';
+import '../../../../css!vs/base/browser/ui/dropdown/dropdown.js';
 define(
 			de[2674],
 			he([1, 0, 7, 114, 159, 276, 317, 95, 50, 6, 27, 1509]),

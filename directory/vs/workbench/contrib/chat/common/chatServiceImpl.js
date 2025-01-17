@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marshalling.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './chatAgents.js';
+import './chatContextKeys.js';
+import './chatModel.js';
+import './chatParserTypes.js';
+import './chatRequestParser.js';
+import './chatServiceTelemetry.js';
+import './chatSlashCommands.js';
+import './chatVariables.js';
+import './languageModels.js';
+import '../../../services/assignment/common/assignmentService.js';
+import '../../../services/extensions/common/extensions.js';
 define(
 			de[3572],
 			he([

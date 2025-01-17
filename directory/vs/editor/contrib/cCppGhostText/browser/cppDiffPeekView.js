@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../peekView/browser/peekView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/core/range.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../workbench/services/editor/common/editorService.js';
+import '../../../../base/common/color.js';
+import '../../../../workbench/services/editor/common/editorGroupsService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../browser/widget/diffEditor/diffEditorWidget.js';
+import '../../../common/services/model.js';
+import '../../../common/languages/language.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[1799],
 			he([1, 0, 255, 5, 17, 7, 35, 18, 97, 66, 45, 309, 67, 61, 9, 11, 92, 8]),

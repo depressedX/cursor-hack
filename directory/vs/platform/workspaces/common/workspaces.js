@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/extpath.js';
+import '../../../base/common/json.js';
+import '../../../base/common/jsonEdit.js';
+import '../../../base/common/labels.js';
+import '../../../base/common/network.js';
+import '../../../base/common/path.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
+import '../../instantiation/common/instantiation.js';
+import '../../remote/common/remoteHosts.js';
+import '../../workspace/common/workspace.js';
 define(
 			de[256],
 			he([1, 0, 249, 187, 586, 222, 23, 54, 12, 19, 9, 5, 438, 25]),

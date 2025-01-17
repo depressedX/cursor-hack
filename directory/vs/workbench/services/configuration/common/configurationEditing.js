@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/json.js';
+import '../../../../base/common/jsonEdit.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../textfile/common/textfiles.js';
+import './configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../editor/common/editorService.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../preferences/common/preferences.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../editor/common/core/selection.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../base/common/errors.js';
 define(
 			de[3779],
 			he([

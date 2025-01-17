@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../../common/strings.js';
+import '../../../../css!vs/base/browser/ui/countBadge/countBadge.js';
 define(de[495], he([1, 0, 7, 37, 2237]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

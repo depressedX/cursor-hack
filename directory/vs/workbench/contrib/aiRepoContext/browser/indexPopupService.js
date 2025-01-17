@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../services/ai/browser/modalService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './entrypoint.js';
 define(
 			de[4337],
 			he([1, 0, 445, 3, 20, 180, 5, 4336]),

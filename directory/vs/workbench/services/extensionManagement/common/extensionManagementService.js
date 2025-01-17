@@ -1,3 +1,37 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import './extensionManagement.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../nls.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/download/common/download.js';
+import '../../../../base/common/arrays.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../extensions/common/extensionManifestPropertiesService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/errors.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/extensionManagement/common/extensionsScannerService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/telemetry/common/telemetry.js';
 define(
 		de[4389],
 		he([

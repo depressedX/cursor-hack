@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/contrib/folding/browser/folding.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/common/languages.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../editor/common/model.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/cursorAsync.js';
+import './rgSearch.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../base/browser/hash.js';
 define(
 			de[1038],
 			he([

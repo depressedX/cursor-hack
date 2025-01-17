@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/assert.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uuid.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/parsers.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/files/common/files.js';
 define(
 		de[570],
 		he([

@@ -1,3 +1,30 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/arraysFind.js';
+import '../../../../../base/common/equals.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../base/common/types.js';
+import '../../../../common/core/editOperation.js';
+import '../../../../common/core/position.js';
+import '../../../../common/core/range.js';
+import '../../../../common/core/selection.js';
+import '../../../../common/core/textEdit.js';
+import '../../../../common/core/textLength.js';
+import '../../../../common/editorCommon.js';
+import '../../../../common/languages.js';
+import '../../../../common/languages/languageConfigurationRegistry.js';
+import '../../../../common/model.js';
+import './ghostText.js';
+import './inlineCompletionsSource.js';
+import './singleTextEdit.js';
+import '../utils.js';
+import '../../../snippet/browser/snippetController2.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[2922],
 			he([

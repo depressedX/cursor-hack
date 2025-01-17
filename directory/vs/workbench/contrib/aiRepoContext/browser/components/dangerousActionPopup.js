@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../services/ai/browser/modalService.js';
 define(
 			de[1966],
 			he([1, 0, 2, 2, 2, 2, 13, 36, 445]),

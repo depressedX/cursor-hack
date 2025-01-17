@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/encodedTokenAttributes.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../common/services/editorWorker.js';
 define(
 			de[2921],
 			he([1, 0, 15, 3, 46, 38, 171, 152, 64, 122, 200]),

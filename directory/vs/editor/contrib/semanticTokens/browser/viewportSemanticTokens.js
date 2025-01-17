@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorExtensions.js';
+import '../common/getSemanticTokens.js';
+import '../common/semanticTokensConfig.js';
+import '../../../common/services/semanticTokensProviderStyling.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/semanticTokensStyling.js';
 define(
 			de[956],
 			he([1, 0, 15, 3, 46, 1602, 1156, 1209, 10, 35, 391, 162, 69, 1180]),

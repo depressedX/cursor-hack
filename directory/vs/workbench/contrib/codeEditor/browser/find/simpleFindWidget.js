@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/widget.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../editor/contrib/find/browser/findState.js';
+import '../../../../../editor/contrib/find/browser/findWidget.js';
+import '../../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../platform/history/browser/historyWidgetKeybindingHint.js';
+import '../../../../../base/browser/ui/aria/aria.js';
+import '../../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../../base/browser/ui/sash/sash.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../css!vs/workbench/contrib/codeEditor/browser/find/simpleFindWidget.js';
 define(
 			de[1722],
 			he([

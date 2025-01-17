@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/event.js';
+import '../../../nls.js';
+import '../../log/common/log.js';
+import '../../workspace/common/workspace.js';
+import '../../environment/common/environment.js';
+import '../../../base/common/resources.js';
 define(
 			de[2890],
 			he([1, 0, 3, 6, 4, 34, 25, 113, 19]),

@@ -1,3 +1,28 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/worker/simpleWorker.js';
+import '../../../base/browser/defaultWorkerFactory.js';
+import '../../common/core/range.js';
+import '../../common/languages.js';
+import '../../common/languages/languageConfigurationRegistry.js';
+import '../../common/services/editorSimpleWorker.js';
+import '../../common/services/model.js';
+import '../../common/services/textResourceConfiguration.js';
+import '../../../base/common/arrays.js';
+import '../../../platform/log/common/log.js';
+import '../../../base/common/stopwatch.js';
+import '../../../base/common/errors.js';
+import '../../common/services/languageFeatures.js';
+import '../../common/diff/linesDiffComputer.js';
+import '../../common/diff/rangeMapping.js';
+import '../../common/core/lineRange.js';
+import '../../../base/browser/window.js';
+import '../../../base/browser/dom.js';
+import '../../../../proto/aiserver/v1/utils_pb.js';
+import '../../common/services/textModelSync/textModelSync.impl.js';
+import '../../common/services/editorWorkerHost.js';
 define(
 			de[2771],
 			he([

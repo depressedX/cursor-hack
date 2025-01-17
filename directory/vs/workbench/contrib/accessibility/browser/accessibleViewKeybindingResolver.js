@@ -1,3 +1,6 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/htmlContent.js';
 define(de[2953], he([1, 0, 94]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$F2c = i);

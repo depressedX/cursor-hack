@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/extpath.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../editor/common/services/getIconClasses.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './abstractSnippetsActions.js';
+import '../snippets.js';
+import '../snippetsFile.js';
+import '../../../../services/textfile/common/textfiles.js';
+import '../../../../services/userDataProfile/common/userDataProfile.js';
 define(
 			de[3760],
 			he([

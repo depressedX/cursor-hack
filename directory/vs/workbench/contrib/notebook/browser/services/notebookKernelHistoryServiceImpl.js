@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/map.js';
+import '../../../../../nls.js';
+import '../../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../common/notebookKernelService.js';
+import '../../common/notebookLoggingService.js';
 define(
 			de[3115],
 			he([1, 0, 3, 59, 4, 99, 11, 21, 243, 557]),

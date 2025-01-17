@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/errors.js';
+import '../../../core/cursorColumns.js';
+import './length.js';
+import './smallImmutableSet.js';
 define(
 			de[658],
 			he([1, 0, 29, 435, 492, 657]),

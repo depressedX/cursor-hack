@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/arrays.js';
+import '../model/lineRange.js';
+import '../utils.js';
+import './conflictActions.js';
+import './lineAlignment.js';
 define(
 			de[3087],
 			he([1, 0, 7, 24, 507, 508, 1740, 3084]),

@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../currentScopes.js';
+import '../integration.js';
 define(de[2109], he([1, 0, 80, 234, 316]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

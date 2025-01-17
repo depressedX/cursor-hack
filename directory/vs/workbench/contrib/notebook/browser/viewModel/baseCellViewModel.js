@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/mime.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/core/selection.js';
+import '../../../../../editor/common/editorCommon.js';
+import '../../../../../editor/common/model/textModelSearch.js';
+import '../../../codeEditor/browser/toggleWordWrap.js';
+import '../../../inlineChat/browser/inlineChatController.js';
+import '../notebookBrowser.js';
 define(
 			de[1959],
 			he([1, 0, 6, 3, 266, 17, 104, 98, 543, 1026, 427, 108]),

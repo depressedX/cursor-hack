@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../common/contextkeys.js';
+import './diffElementViewModel.js';
+import './notebookDiffEditorBrowser.js';
+import './notebookDiffEditor.js';
+import '../notebookIcons.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../platform/registry/common/platform.js';
+import '../../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../common/editor.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../common/notebookCommon.js';
+import '../../../../../editor/common/services/textResourceConfiguration.js';
+import './notebookMultiDiffEditor.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../platform/editor/common/editor.js';
 define(
 			de[4104],
 			he([

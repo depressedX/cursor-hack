@@ -1,3 +1,28 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/dataTransfer.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/hierarchicalKind.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/map.js';
+import '../../../base/common/marshalling.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/uri.js';
+import '../../../editor/common/languages.js';
+import '../../../editor/common/languages/language.js';
+import '../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../editor/common/services/languageFeatures.js';
+import '../../../editor/common/services/semanticTokensDto.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
+import './mainThreadBulkEdits.js';
+import '../common/extHostTypeConverters.js';
+import '../common/shared/dataTransferCache.js';
+import '../../contrib/callHierarchy/common/callHierarchy.js';
+import '../../contrib/search/common/search.js';
+import '../../contrib/typeHierarchy/common/typeHierarchy.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../common/extHost.protocol.js';
 define(
 			de[3484],
 			he([

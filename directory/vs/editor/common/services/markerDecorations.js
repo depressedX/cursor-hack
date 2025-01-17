@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../core/range.js';
 define(de[496], he([1, 0, 5, 17]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/common/process.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/issue/common/issue.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../common/issue.js';
+import '../../../../base/browser/window.js';
 define(
 			de[3286],
 			he([1, 0, 139, 344, 20, 769, 62, 51, 35, 151, 376, 75]),

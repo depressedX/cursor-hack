@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../common/chatAgents.js';
+import '../common/chatParserTypes.js';
 define(
 			de[1720],
 			he([1, 0, 7, 183, 94, 3, 4, 153, 329]),

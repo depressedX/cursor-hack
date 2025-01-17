@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../platform/actions/common/actions.js';
+import './inlineChatController.js';
+import './inlineChatActions.js';
+import '../common/inlineChat.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import './inlineChatNotebook.js';
+import '../../../common/contributions.js';
+import './inlineChatSavingServiceImpl.js';
+import './inlineChatAccessibleView.js';
+import './inlineChatSavingService.js';
+import './inlineChatSessionService.js';
+import './inlineChatSessionServiceImpl.js';
+import '../../../../platform/accessibility/browser/accessibleViewRegistry.js';
+import '../../chat/browser/actions/chatExecuteActions.js';
+import '../../../../nls.js';
+import '../../chat/common/chatContextKeys.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './inlineChatAccessibilityHelp.js';
+import './inlineChatCurrentLine.js';
 define(
 			de[4103],
 			he([

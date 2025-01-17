@@ -1,3 +1,23 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../platform/workspace/common/workspace.js';
+import '../../services/workspaces/common/workspaceEditing.js';
+import '../../services/editor/common/editorService.js';
+import '../../../platform/commands/common/commands.js';
+import './workspaceCommands.js';
+import '../../../platform/dialogs/common/dialogs.js';
+import '../../../platform/actions/common/actions.js';
+import '../../common/contextkeys.js';
+import '../../services/host/browser/host.js';
+import '../../../base/common/keyCodes.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../../services/environment/common/environmentService.js';
+import '../../../platform/workspaces/common/workspaces.js';
+import '../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../platform/contextkey/common/contextkeys.js';
+import '../../services/ai/browser/modalService.js';
+import '../../../platform/action/common/actionCommonCategories.js';
 define(
 			de[853],
 			he([

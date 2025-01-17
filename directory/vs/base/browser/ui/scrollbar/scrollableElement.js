@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../browser.js';
+import '../../dom.js';
+import '../../fastDomNode.js';
+import '../../mouseEvent.js';
+import './horizontalScrollbar.js';
+import './verticalScrollbar.js';
+import '../widget.js';
+import '../../../common/async.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/platform.js';
+import '../../../common/scrollable.js';
+import '../../../../css!vs/base/browser/ui/scrollbar/media/scrollbars.js';
 define(
 			de[203],
 			he([1, 0, 139, 7, 194, 168, 2679, 2680, 235, 15, 6, 3, 12, 195, 2251]),

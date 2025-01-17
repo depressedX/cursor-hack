@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../editor/common/model.js';
+import './editorModel.js';
+import '../../../editor/common/languages/language.js';
+import '../../../editor/common/services/model.js';
+import '../../../base/common/lifecycle.js';
+import '../../../editor/common/languages/modesRegistry.js';
+import '../../services/languageDetection/common/languageDetectionWorkerService.js';
+import '../../../base/common/async.js';
+import '../../../platform/accessibility/common/accessibility.js';
+import '../../../nls.js';
 define(
 			de[702],
 			he([1, 0, 64, 416, 61, 67, 3, 172, 474, 15, 91, 4]),

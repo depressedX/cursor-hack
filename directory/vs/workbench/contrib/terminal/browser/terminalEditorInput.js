@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/editor.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../../../common/editor/editorInput.js';
+import './terminal.js';
+import './terminalIcon.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../common/terminalContextKey.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/event.js';
 define(
 		de[833],
 		he([

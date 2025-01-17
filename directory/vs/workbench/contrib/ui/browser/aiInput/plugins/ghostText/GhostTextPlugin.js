@@ -1,3 +1,10 @@
+import '../../../../../../../../require.js';
+import '../../../../../../../../exports.js';
+import '../../../../../../../../external/lexical/lexical-solid/LexicalComposerContext.js';
+import '../../../../../../../../external/lexical/lexical-utils/api.js';
+import '../../../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../../../../external/solid/solid.js';
+import './GhostTextNode.js';
 define(
 			de[3190],
 			he([1, 0, 181, 304, 158, 13, 1775]),

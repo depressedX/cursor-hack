@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import '../utils/polymorphic.js';
+import '../utils/api.js';
+import './layer-stack.js';
+import '../../../../../external/solid/solid.js';
 define(
 			de[2629],
 			he([1, 0, 2, 2, 115, 13, 494, 115, 2628, 13]),

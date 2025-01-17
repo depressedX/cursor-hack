@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/contributions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import './configurationExportHelper.js';
 define(
 			de[3420],
 			he([1, 0, 55, 30, 5, 52, 151, 3307]),

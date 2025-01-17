@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
 define(
 			de[3031],
 			he([1, 0, 4, 7, 50, 9, 198]),

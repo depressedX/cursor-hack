@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/list/browser/listService.js';
+import '../common/files.js';
+import '../../../common/editor.js';
+import '../../../../base/browser/ui/list/listWidget.js';
+import '../common/explorerModel.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/browser/ui/tree/asyncDataTree.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[382],
 			he([1, 0, 9, 93, 220, 44, 278, 710, 24, 1170, 5, 7]),

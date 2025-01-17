@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/marshalling.js';
+import '../../../editor/browser/services/bulkEditService.js';
+import '../../../platform/log/common/log.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/bulkEdit/browser/bulkCellEdits.js';
+import '../../contrib/notebook/common/notebookCommon.js';
+import '../../services/ai/browser/aiMiscServices.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[1303],
 			he([1, 0, 76, 197, 199, 34, 68, 88, 572, 70, 137, 101]),

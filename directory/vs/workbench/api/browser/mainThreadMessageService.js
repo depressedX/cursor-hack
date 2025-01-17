@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/actions.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../platform/dialogs/common/dialogs.js';
+import '../../../platform/notification/common/notification.js';
+import '../../../base/common/event.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../services/extensions/common/extensions.js';
 define(
 			de[3359],
 			he([1, 0, 4, 50, 88, 101, 57, 40, 6, 31, 45, 53]),

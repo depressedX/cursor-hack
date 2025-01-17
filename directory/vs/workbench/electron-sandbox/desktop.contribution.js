@@ -1,3 +1,28 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../platform/registry/common/platform.js';
+import '../../nls.js';
+import '../../platform/actions/common/actions.js';
+import '../../platform/configuration/common/configurationRegistry.js';
+import '../../base/common/keyCodes.js';
+import '../../base/common/platform.js';
+import './actions/developerActions.js';
+import './actions/windowActions.js';
+import '../../platform/contextkey/common/contextkey.js';
+import '../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../platform/commands/common/commands.js';
+import '../../platform/contextkey/common/contextkeys.js';
+import '../../platform/native/common/native.js';
+import '../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import './actions/installActions.js';
+import '../common/contextkeys.js';
+import '../../platform/telemetry/common/telemetry.js';
+import '../../platform/configuration/common/configuration.js';
+import '../services/lifecycle/common/lifecycle.js';
+import './window.js';
+import '../../base/browser/dom.js';
+import '../common/configuration.js';
+import '../../platform/window/electron-sandbox/window.js';
 define(
 			de[4055],
 			he([

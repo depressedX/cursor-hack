@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './links.js';
+import './terminalLinkHelpers.js';
+import '../../../../../platform/terminal/common/terminal.js';
 define(
 			de[3162],
 			he([1, 0, 68, 25, 513, 562, 117]),

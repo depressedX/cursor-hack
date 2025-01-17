@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/path.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../common/contributions.js';
+import '../../../common/editor.js';
+import '../../../../platform/files/common/files.js';
+import '../common/files.js';
+import './editors/textFileEditorTracker.js';
+import './editors/textFileSaveErrorHandler.js';
+import './editors/fileEditorInput.js';
+import './editors/binaryFileEditor.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../base/common/platform.js';
+import './explorerViewlet.js';
+import '../../../browser/editor.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './explorerService.js';
+import '../../../services/textfile/common/encoding.js';
+import '../../../../base/common/network.js';
+import './workspaceWatcher.js';
+import '../../../../editor/common/config/editorConfigurationSchema.js';
+import '../common/dirtyFilesIndicator.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import './files.js';
+import './editors/fileEditorHandler.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './editors/textFileEditor.js';
 define(
 			de[4301],
 			he([

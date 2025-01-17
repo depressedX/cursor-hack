@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/files/common/diskFileSystemProvider.js';
+import '../../../../platform/files/common/diskFileSystemProviderClient.js';
+import './watcherClient.js';
+import '../../../../platform/log/common/logService.js';
 define(
 			de[3384],
 			he([1, 0, 4, 12, 2741, 1614, 3383, 1621]),

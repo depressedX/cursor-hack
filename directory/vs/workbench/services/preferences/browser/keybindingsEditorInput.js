@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/platform.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../common/editor/editorInput.js';
+import './keybindingsEditorModel.js';
 define(
 			de[1310],
 			he([1, 0, 14, 12, 4, 5, 79, 223, 1309]),

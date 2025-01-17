@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './bugbotDataCreation.js';
+import './constants.js';
+import '../../../../base/common/constants.js';
+import '../../../../../external/solid/store.js';
 define(
 			de[977],
 			he([1, 0, 3, 5, 21, 25, 45, 20, 3004, 789, 58, 193]),

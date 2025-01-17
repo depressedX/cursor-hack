@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import './editorPart.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/arrays.js';
+import './auxiliaryEditorPart.js';
+import '../../part.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../services/auxiliaryWindow/browser/auxiliaryWindowService.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[4226],
 			he([

@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/editor/diffEditorInput.js';
+import '../../webview/browser/webview.js';
+import './webviewEditor.js';
+import './webviewIconManager.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import './webviewEditorInput.js';
 define(
 			de[623],
 			he([

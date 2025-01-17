@@ -1,3 +1,11 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './metrics/instrument.js';
+import './metrics/browserMetrics.js';
+import './instrument/dom.js';
+import './instrument/history.js';
+import './getNativeImplementation.js';
+import './instrument/xhr.js';
 define(
 			de[641],
 			he([1, 0, 885, 2133, 2091, 2092, 2090, 2093]),

@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import './renderInlineGPT4HintViewZone.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[2753],
 			he([1, 0, 7, 3, 39, 2699, 5, 45]),

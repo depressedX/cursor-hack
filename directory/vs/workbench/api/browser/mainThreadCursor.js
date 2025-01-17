@@ -1,3 +1,41 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../../proto/aiserver/v1/shadow_workspace_connectweb.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../platform/telemetry/common/telemetry.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/aiReader/browser/aiReader.js';
+import '../../contrib/aiRequest/browser/aiRequestService.js';
+import '../../contrib/aiWebCmdK/browser/aiWebCmdKService.js';
+import '../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../services/ai/browser/diffingService.js';
+import '../../services/ai/browser/editHistoryService.js';
+import '../../services/ai/browser/lspSubgraphService.js';
+import '../../services/ai/browser/metricsService.js';
+import '../../services/ai/browser/repositoryService.js';
+import '../../services/ai/browser/rgSearch.js';
+import '../../services/cursorAuth/browser/authenticationService.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/shadowWorkspace/common/shadowWorkspaceServerService.js';
+import '../../services/shadowWorkspace/common/shadowWorkspaceService.js';
+import '../../../platform/log/common/log.js';
+import '../../services/ai/browser/connectRequestService.js';
+import '../../services/ai/browser/aiMiscServices.js';
+import '../../contrib/aiCpp/browser/cppEventLogger.js';
+import '../../services/ai/common/connectRequestServiceTypes.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/uuid.js';
+import '../../../base/common/asyncPromiseQueue.js';
+import '../../../../external/bufbuild/connect.js';
+import '../../../base/common/constants.js';
+import '../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../base/browser/window.js';
+import '../../../../external/solid/solid.js';
+import '../../../platform/tracing/common/tracing.js';
+import '../../../platform/tracing/common/tracingService.js';
 define(
 		de[3944],
 		he([

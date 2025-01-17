@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../composerData.js';
+import './ComposerToolbarSimpleButton.js';
+import '../../../ui/browser/AutoCollapseDivGroup.js';
+import '../../../controlCommon/browser/solid.js';
 define(
 			de[4284],
 			he([1, 0, 2, 13, 14, 225, 485, 1004, 36]),

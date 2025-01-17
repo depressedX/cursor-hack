@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/editorCommon.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[375],
 			he([

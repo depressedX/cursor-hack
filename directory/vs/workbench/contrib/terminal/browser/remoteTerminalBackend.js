@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/marshalling.js';
+import '../../../../base/common/performance.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './baseTerminalBackend.js';
+import './remotePty.js';
+import './terminal.js';
+import '../common/remote/remoteTerminalChannel.js';
+import '../common/terminal.js';
+import '../common/terminalStorageKeys.js';
+import '../../../services/configurationResolver/common/configurationResolver.js';
+import '../../../services/history/common/history.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../services/statusbar/browser/statusbar.js';
 define(
 			de[3637],
 			he([

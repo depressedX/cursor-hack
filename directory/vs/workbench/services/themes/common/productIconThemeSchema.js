@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../../platform/theme/common/iconRegistry.js';
 define(de[1322], he([1, 0, 4, 30, 250, 79]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

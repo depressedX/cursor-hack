@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/platform.js';
+import '../../../../css!vs/workbench/browser/parts/panel/media/panelpart.js';
 define(
 			de[1326],
 			he([

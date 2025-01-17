@@ -1,3 +1,47 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/canIUse.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/json.js';
+import '../../../../base/common/keybindingLabels.js';
+import '../../../../base/common/keybindingParser.js';
+import '../../../../base/common/keybindings.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../../platform/keybinding/common/abstractKeybindingService.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/keybinding/common/keybindingResolver.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/keybinding/common/resolvedKeybindingItem.js';
+import '../../../../platform/keyboardLayout/common/keyboardLayout.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/action/common/action.js';
+import '../../actions/common/menusExtensionPoint.js';
+import '../../extensions/common/extensions.js';
+import '../../extensions/common/extensionsRegistry.js';
+import '../../host/browser/host.js';
+import './unboundCommands.js';
+import '../common/keybindingIO.js';
+import '../../userDataProfile/common/userDataProfile.js';
 define(
 			de[3784],
 			he([

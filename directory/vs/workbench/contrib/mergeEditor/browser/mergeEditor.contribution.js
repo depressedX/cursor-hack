@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import '../../../common/contributions.js';
+import '../../../common/editor.js';
+import './commands/commands.js';
+import './commands/devCommands.js';
+import './mergeEditorInput.js';
+import './view/mergeEditor.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import './mergeEditorSerializer.js';
 define(
 			de[3869],
 			he([

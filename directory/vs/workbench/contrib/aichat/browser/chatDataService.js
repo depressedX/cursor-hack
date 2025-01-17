@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/editor.js';
+import '../../aiInterpreter/browser/interpreterUtils.js';
+import './aichat.js';
+import './chatDataCreation.js';
+import './currentFileService.js';
+import './utils.js';
+import '../../recentFilesTrackerService/browser/recentFilesTrackerService.js';
+import '../../terminal/browser/terminal.js';
+import '../../../services/ai/browser/aiFileInfoService.js';
+import '../../../services/ai/browser/fastContextService.js';
+import '../../../services/ai/browser/gitContextService.js';
+import '../../../services/ai/common/dataScrubbingService.js';
+import '../../../services/selectedContext/browser/selectedContext.js';
+import '../../../services/workspaces/browser/sourceFilesService.js';
 define(
 			de[337],
 			he([

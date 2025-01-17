@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../controlCommon/browser/solid.js';
+import './components/AiChat.js';
+import './chatData.js';
 define(
 			de[4406],
 			he([1, 0, 2, 36, 4405, 140]),

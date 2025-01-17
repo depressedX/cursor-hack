@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './getDocumentElement.js';
+import './is.js';
+import './node.js';
 define(de[1162], he([1, 0, 538, 324, 594]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ymb = E);

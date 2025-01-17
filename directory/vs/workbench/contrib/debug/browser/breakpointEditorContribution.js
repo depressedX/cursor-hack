@@ -1,3 +1,40 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/canIUse.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/mouseEvent.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/model.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../codeEditor/browser/editorLineNumberMenu.js';
+import './breakpointsView.js';
+import './breakpointWidget.js';
+import './debugIcons.js';
+import '../common/debug.js';
 define(
 		de[1331],
 		he([

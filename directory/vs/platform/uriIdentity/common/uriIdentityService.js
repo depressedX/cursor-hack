@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './uriIdentity.js';
+import '../../instantiation/common/extensions.js';
+import '../../files/common/files.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/skipList.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
 define(
 			de[2880],
 			he([1, 0, 68, 20, 22, 19, 2223, 6, 3]),

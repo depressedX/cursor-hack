@@ -1,3 +1,41 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/browser/dom.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../services/aiSettings/browser/aiSettingsService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/ai/browser/repositoryService.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../base/common/resources.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../../proto/aiserver/v1/lint_pb.js';
+import '../browser/aiWatcherHelpers.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import './aiLintBugHandler.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../services/ai/browser/aiUtilsService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../services/ai/browser/utils.js';
+import '../../../services/textfile/common/textfiles.js';
 define(
 			de[3943],
 			he([

@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/views.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../common/viewContainerModel.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../nls.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/lazy.js';
 define(
 			de[4058],
 			he([

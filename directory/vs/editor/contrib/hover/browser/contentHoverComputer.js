@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import './hoverOperation.js';
+import './hoverTypes.js';
+import '../../../../base/common/async.js';
 define(
 			de[2725],
 			he([1, 0, 24, 601, 368, 15]),

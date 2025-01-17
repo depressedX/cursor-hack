@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/map.js';
+import '../../../common/core/range.js';
+import './codelens.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[2892],
 			he([1, 0, 6, 59, 17, 1601, 20, 5, 21, 75, 7]),

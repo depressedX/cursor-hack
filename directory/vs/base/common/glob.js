@@ -1,3 +1,13 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './arrays.js';
+import './async.js';
+import './charCode.js';
+import './extpath.js';
+import './map.js';
+import './path.js';
+import './platform.js';
+import './strings.js';
 define(
 			de[215],
 			he([1, 0, 24, 15, 120, 249, 59, 54, 12, 37]),

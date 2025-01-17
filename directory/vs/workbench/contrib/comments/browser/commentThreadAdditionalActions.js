@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marshallingIds.js';
+import './commentFormActions.js';
+import '../../../../platform/keybinding/common/keybinding.js';
 define(
 			de[3032],
 			he([1, 0, 7, 3, 221, 1239, 39]),

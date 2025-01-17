@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/date.js';
+import '../../../../../base/common/htmlContent.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import '../../../../../platform/hover/browser/hover.js';
 define(
 			de[1761],
 			he([1, 0, 7, 15, 275, 94, 3, 4, 10, 49, 117, 72]),

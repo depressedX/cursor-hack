@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './charCode.js';
+import './path.js';
+import './platform.js';
+import './strings.js';
+import './types.js';
 define(
 			de[249],
 			he([1, 0, 120, 54, 12, 37, 28]),

@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../configuration/common/jsonEditing.js';
+import '../common/locale.js';
+import '../../../../platform/languagePacks/common/languagePacks.js';
+import '../../panecomposite/browser/panecomposite.js';
+import '../../../common/views.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../nls.js';
+import '../../../../base/common/actions.js';
+import '../../textfile/common/textfiles.js';
+import '../../../../base/common/jsonc.js';
+import '../../editor/common/editorService.js';
+import '../../host/browser/host.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[3705],
 			he([

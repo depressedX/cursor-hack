@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/keybindings.js';
+import '../../../base/common/platform.js';
+import '../../commands/common/commands.js';
+import '../../registry/common/platform.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/linkedList.js';
 define(
 			de[43],
 			he([1, 0, 343, 12, 31, 30, 3, 273]),

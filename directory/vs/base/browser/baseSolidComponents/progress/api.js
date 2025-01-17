@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './progress-fill.js';
+import './progress-label.js';
+import './progress-root.js';
+import './progress-track.js';
+import './progress-value-label.js';
 define(
 			de[2623],
 			he([1, 0, 2618, 2619, 2620, 2621, 2622]),

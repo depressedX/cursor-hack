@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/stableEditorScroll.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/editorContextKeys.js';
+import './codelens.js';
+import './codeLensCache.js';
+import './codelensWidget.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../common/services/languageFeatures.js';
 define(
 			de[1686],
 			he([

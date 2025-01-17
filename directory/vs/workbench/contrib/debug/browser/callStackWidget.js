@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../base/common/assert.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/uint.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../editor/browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/gotoSymbol/browser/link/clickLinkGesture.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../browser/labels.js';
+import './callStackEditorContribution.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../css!vs/workbench/contrib/debug/browser/media/callStackWidget.js';
 define(
 			de[1880],
 			he([

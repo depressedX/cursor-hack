@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/configuration/common/configurationModels.js';
+import '../common/configurationModels.js';
+import '../common/configuration.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/configuration/common/configurations.js';
 define(
 			de[3251],
 			he([

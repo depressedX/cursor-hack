@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import './colorThemeSchema.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/tokenClassificationRegistry.js';
+import './workbenchThemeService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/theme/common/theme.js';
 define(
 			de[1891],
 			he([1, 0, 4, 28, 30, 81, 1321, 51, 778, 333, 10, 12, 212]),

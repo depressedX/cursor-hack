@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../../external/solid/store.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/uuid.js';
+import '../../aichat/browser/components/Utils.js';
+import './constants.js';
+import '../../aiMarkdown/browser/markdown.js';
+import '../../ui/browser/scrollableDiv.js';
+import '../../controlCommon/browser/solid.js';
+import '../../../../css!vs/workbench/contrib/aiCursorHelp/browser/AiCursorHelpPane.js';
 define(
 			de[4234],
 			he([

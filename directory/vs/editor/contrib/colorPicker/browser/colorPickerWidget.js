@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/pixelRatio.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/globalPointerMoveMonitor.js';
+import '../../../../base/browser/ui/widget.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/themables.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../css!vs/editor/contrib/colorPicker/browser/colorPicker.js';
 define(
 			de[2836],
 			he([1, 0, 345, 7, 757, 235, 14, 97, 6, 3, 26, 4, 51, 79, 1136]),

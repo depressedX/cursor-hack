@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './snippets.js';
+import './snippetsService.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../../../../editor/contrib/suggest/browser/suggest.js';
+import '../../../../editor/common/editorContextKeys.js';
+import './snippetCompletionProvider.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../editor/contrib/editorState/browser/editorState.js';
+import '../../../../editor/common/services/languageFeatures.js';
 define(
 			de[714],
 			he([

@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/userDataSync/common/extensionsSync.js';
+import '../../../../platform/userDataSync/common/ignoredExtensions.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/userDataSync/common/userDataSyncStoreService.js';
+import '../../../services/authentication/common/authentication.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/extensions/common/extensionManifestPropertiesService.js';
+import '../../../services/remote/common/remoteAgentService.js';
 define(
 			de[4078],
 			he([

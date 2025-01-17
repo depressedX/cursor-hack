@@ -1,3 +1,5 @@
+import '../../../require.js';
+import '../../../exports.js';
 define(de[456], he([1, 0]), function (ce, e) {
 			"use strict";
 			var t;

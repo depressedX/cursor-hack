@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../services/textMate/common/TMGrammars.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/commands/common/commands.js';
 define(
 			de[3671],
 			he([1, 0, 46, 1877, 53, 31]),

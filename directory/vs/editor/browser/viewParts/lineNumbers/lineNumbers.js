@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/platform.js';
+import '../../view/dynamicViewOverlay.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/core/editorColorRegistry.js';
+import '../../../../css!vs/editor/browser/viewParts/lineNumbers/lineNumbers.js';
 define(
 			de[1664],
 			he([1, 0, 12, 591, 38, 48, 17, 35, 307, 2267]),

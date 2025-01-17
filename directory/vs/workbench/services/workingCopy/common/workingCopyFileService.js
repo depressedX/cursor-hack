@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/cancellation.js';
+import './workingCopyService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import './workingCopyFileOperationParticipant.js';
+import './storedFileWorkingCopySaveParticipant.js';
 define(
 			de[336],
 			he([1, 0, 5, 20, 6, 15, 24, 3, 22, 33, 227, 68, 3856, 3853]),

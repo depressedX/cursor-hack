@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[1875],
 			he([1, 0, 20, 5, 6, 117, 3]),

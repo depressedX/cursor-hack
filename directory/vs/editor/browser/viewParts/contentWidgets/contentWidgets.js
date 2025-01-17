@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../editorBrowser.js';
+import '../../view/viewPart.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/model.js';
 define(
 			de[2755],
 			he([1, 0, 7, 194, 56, 303, 38, 64]),

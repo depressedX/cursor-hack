@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/core/position.js';
+import '../../../../../editor/contrib/gotoSymbol/browser/goToSymbol.js';
+import '../../../../../editor/contrib/folding/browser/folding.js';
 define(
 			de[3238],
 			he([1, 0, 228, 3, 42, 25, 6, 19, 33, 204, 69, 17, 48, 414, 350]),

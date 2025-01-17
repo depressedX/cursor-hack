@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/repository_pb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../common/chunker.js';
+import '../common/dataScrubbingService.js';
+import '../../search/common/queryBuilder.js';
+import '../../search/common/search.js';
+import '../../textMate/browser/textMateTokenizationFeature.js';
+import '../../../../base/common/glob.js';
+import '../common/retrievalUtils.js';
+import '../../../../base/common/cancellation.js';
 define(
 			de[627],
 			he([

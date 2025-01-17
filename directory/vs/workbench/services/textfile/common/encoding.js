@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/stream.js';
+import '../../../../base/common/buffer.js';
+import '../../../../amdX.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/amd.js';
 define(
 			de[842],
 			he([1, 0, 408, 76, 536, 33, 24, 455]),

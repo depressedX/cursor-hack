@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/event.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/terminal/common/environmentVariable.js';
+import '../../../terminal/browser/terminalActions.js';
+import '../../../terminal/common/terminal.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[4042],
 			he([1, 0, 9, 6, 67, 42, 4, 5, 1654, 363, 145, 18]),

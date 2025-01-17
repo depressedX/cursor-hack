@@ -1,3 +1,6 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/core/range.js';
 define(de[2583], he([1, 0, 17]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$81b = void 0);

@@ -1,3 +1,18 @@
+import '../../require.js';
+import '../../exports.js';
+import '../solid/web.js';
+import '../solid/web.js';
+import '../solid/web.js';
+import '../solid/web.js';
+import '../solid/web.js';
+import '../solid/web.js';
+import '../solid/web.js';
+import '../solid/web.js';
+import '../solid/web.js';
+import '../solid/solid.js';
+import './drag-drop-context.js';
+import './style.js';
+import './layout.js';
 define(
 			de[2163],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 13, 580, 891, 579]),

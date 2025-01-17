@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/cancellation.js';
+import '../../../services/workingCopy/common/workingCopyHistory.js';
+import '../../../browser/parts/editor/editorCommands.js';
+import './localHistoryFileSystemProvider.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../common/editor.js';
+import '../../../../platform/files/common/files.js';
+import '../../../services/workingCopy/common/workingCopyService.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../editor/common/services/getIconClasses.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../base/common/arrays.js';
+import './localHistory.js';
+import '../../../services/path/common/pathService.js';
+import '../../../../base/common/map.js';
+import '../../../services/history/common/history.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[1341],
 			he([

@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../toggle/toggle.js';
+import '../inputbox/inputBox.js';
+import '../widget.js';
+import '../../../common/codicons.js';
+import '../../../common/event.js';
+import '../../../common/keyCodes.js';
+import '../../../../nls.js';
+import '../hover/hoverDelegateFactory.js';
+import '../../../../css!vs/base/browser/ui/findinput/findInput.js';
 define(
 			de[2687],
 			he([1, 0, 7, 268, 292, 235, 14, 6, 27, 4, 95, 1510]),

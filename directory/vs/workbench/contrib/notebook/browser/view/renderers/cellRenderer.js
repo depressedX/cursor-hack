@@ -1,3 +1,44 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/pixelRatio.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/fastDomNode.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../../editor/common/config/fontInfo.js';
+import '../../../../../../editor/common/editorContextKeys.js';
+import '../../../../../../editor/common/languages/modesRegistry.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../../platform/notification/common/notification.js';
+import '../cellPart.js';
+import '../cellParts/chat/cellChatPart.js';
+import '../cellParts/cellComments.js';
+import '../cellParts/cellContextKeys.js';
+import '../cellParts/cellDecorations.js';
+import '../cellParts/cellDnd.js';
+import '../cellParts/cellDragRenderer.js';
+import '../cellParts/cellEditorOptions.js';
+import '../cellParts/cellExecution.js';
+import '../cellParts/cellFocus.js';
+import '../cellParts/cellFocusIndicator.js';
+import '../cellParts/cellProgressBar.js';
+import '../cellParts/cellStatusPart.js';
+import '../cellParts/cellToolbars.js';
+import '../cellParts/codeCell.js';
+import '../cellParts/codeCellRunToolbar.js';
+import '../cellParts/collapsedCellInput.js';
+import '../cellParts/collapsedCellOutput.js';
+import '../cellParts/foldedCellHint.js';
+import '../cellParts/markupCell.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionStateService.js';
 define(
 			de[4097],
 			he([

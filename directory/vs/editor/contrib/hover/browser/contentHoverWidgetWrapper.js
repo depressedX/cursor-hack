@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/languages.js';
+import './hoverOperation.js';
+import './hoverTypes.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import './contentHoverWidget.js';
+import './contentHoverComputer.js';
+import './contentHoverTypes.js';
+import '../../../../base/common/event.js';
+import './contentHoverRendered.js';
+import './hoverUtils.js';
 define(
 			de[3606],
 			he([

@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './utils/convertOffsetParentRelativeRectToViewportRelativeRect.js';
+import './utils/getClippingRect.js';
+import './utils/getComputedStyle.js';
+import './utils/getDimensions.js';
+import './utils/getDocumentElement.js';
+import './utils/getOffsetParent.js';
+import './utils/getRectRelativeToOffsetParent.js';
+import './utils/getScale.js';
+import './utils/is.js';
 define(
 			de[1576],
 			he([1, 0, 2664, 2666, 662, 2659, 538, 2661, 2667, 929, 324]),

@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../common/editor.js';
+import '../../path/common/pathService.js';
+import './storedFileWorkingCopy.js';
+import './workingCopyHistory.js';
+import './workingCopyService.js';
+import '../../../../base/common/network.js';
+import '../../../common/resources.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/files/common/files.js';
 define(
 			de[3913],
 			he([

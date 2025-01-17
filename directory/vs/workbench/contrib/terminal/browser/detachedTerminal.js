@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/symbols.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/terminal/common/capabilities/terminalCapabilityStore.js';
+import './terminalExtensions.js';
+import './widgets/widgetManager.js';
+import '../common/terminal.js';
 define(
 			de[1769],
 			he([1, 0, 7, 15, 29, 3, 649, 5, 675, 378, 1760, 145]),

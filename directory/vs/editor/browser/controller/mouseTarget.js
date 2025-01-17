@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../editorBrowser.js';
+import '../editorDom.js';
+import '../view/viewPart.js';
+import '../viewParts/lines/viewLine.js';
+import '../../common/config/editorOptions.js';
+import '../../common/core/position.js';
+import '../../common/core/range.js';
+import '../../common/core/cursorColumns.js';
+import '../../../base/browser/dom.js';
+import '../../common/cursor/cursorAtomicMoveOperations.js';
+import '../../common/model.js';
+import '../../../base/common/lazy.js';
 define(
 			de[1662],
 			he([1, 0, 56, 777, 303, 1208, 38, 48, 17, 435, 7, 1528, 64, 149]),

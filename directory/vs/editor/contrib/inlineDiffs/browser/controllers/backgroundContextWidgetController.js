@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../browser/editorExtensions.js';
+import '../widgets/backgroundContextWidget.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[4118],
 			he([1, 0, 3, 46, 4117, 5, 45]),

@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/browser/window.js';
 define(
 		de[806],
 		he([1, 0, 14, 6, 3, 111, 10, 117, 51, 79, 26, 75]),

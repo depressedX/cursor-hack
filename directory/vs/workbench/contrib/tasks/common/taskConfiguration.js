@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uuid.js';
+import './problemMatcher.js';
+import './tasks.js';
+import './taskDefinitionRegistry.js';
+import './taskService.js';
 define(
 			de[1816],
 			he([1, 0, 4, 82, 12, 28, 47, 570, 424, 699, 419]),

@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../contrib/composer/browser/composer.js';
+import '../../../../contrib/composer/browser/composerDataService.js';
+import '../../../../contrib/terminal/browser/terminal.js';
+import '../../../../contrib/terminal/browser/terminalExecutionService.js';
+import '../repositoryService.js';
+import './toolsV2HandlerRegistryService.js';
 define(
 			de[3931],
 			he([1, 0, 167, 124, 3, 19, 9, 45, 219, 209, 107, 617, 226, 398]),

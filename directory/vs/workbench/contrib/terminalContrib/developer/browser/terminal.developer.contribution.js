@@ -1,3 +1,28 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/buffer.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../nls.js';
+import '../../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../terminal/browser/terminalActions.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import '../../../terminal/common/terminalContextKey.js';
+import '../common/terminal.developer.js';
+import '../../../../services/statusbar/browser/statusbar.js';
+import '../../../../../css!vs/workbench/contrib/terminalContrib/developer/browser/media/developer.js';
 define(
 			de[4041],
 			he([

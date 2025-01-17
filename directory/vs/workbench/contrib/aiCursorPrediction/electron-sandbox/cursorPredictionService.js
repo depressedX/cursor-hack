@@ -1,3 +1,46 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../../../../proto/aiserver/v1/cursor_prediction_connectweb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/ai/browser/backendClient.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/ai/browser/metricsService.js';
+import '../../aiCpp/electron-sandbox/cppTypeService.js';
+import '../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../../proto/aiserver/v1/cpp_pb.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/constants.js';
+import './CursorPredictionHintLineWidget.js';
+import './constants.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import './cursorPredictionOutOfRangeIndicator.js';
+import '../../../../../external/solid/store.js';
+import '../../aiCpp/browser/cppEventLogger.js';
+import '../../../../base/common/uuid.js';
+import './badCursorPredictionHeuristics.js';
+import '../../../../../proto/aiserver/v1/filesyncserver_pb.js';
+import './cursorPredictionNonVisibleEditorIndicator.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../base/browser/dom.js';
+import '../../../../css!vs/workbench/contrib/aiCursorPrediction/electron-sandbox/cursorPrediction.js';
 define(
 		de[3628],
 		he([

@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './commentService.js';
+import './simpleCommentEditor.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../editor/common/editorContextKeys.js';
+import './commentsController.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../platform/notification/common/notification.js';
+import '../common/commentContextKeys.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../common/commentCommandIds.js';
+import '../../../common/contributions.js';
+import './commentsInputContentProvider.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../css!vs/workbench/contrib/comments/browser/media/review.js';
 define(
 			de[3811],
 			he([

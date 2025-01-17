@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/touch.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../editor/common/config/editorOptions.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../composer/browser/constants.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../nls.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/aiEditorBox/aiEditorBoxHoverWidget.js';
 define(
 			de[3188],
 			he([1, 0, 7, 159, 6, 3, 56, 38, 31, 39, 45, 169, 5, 4, 2506]),

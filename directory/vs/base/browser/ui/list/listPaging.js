@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/arrays.js';
+import '../../../common/cancellation.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import './listWidget.js';
+import '../../dom.js';
+import '../../../../css!vs/base/browser/ui/list/list.js';
 define(
 			de[1578],
 			he([1, 0, 24, 33, 6, 3, 278, 7, 1512]),

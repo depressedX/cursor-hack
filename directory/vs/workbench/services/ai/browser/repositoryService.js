@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../proto/aiserver/v1/repository_connectweb.js';
+import '../../cursorAuth/browser/authenticationService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../proto/aiserver/v1/repository_pb.js';
+import '../../../../platform/opener/common/opener.js';
+import './cursorCredsService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/uri.js';
+import '../../../contrib/scm/common/scm.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../../external/bufbuild/connect.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../common/dataScrubbingService.js';
+import '../../search/common/search.js';
+import '../../search/common/queryBuilder.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../../base/common/uuid.js';
+import './utils.js';
+import '../../../../platform/actions/common/actions.js';
+import '../common/retrievalUtils.js';
+import '../../../../base/browser/window.js';
+import './backendClient.js';
+import '../../../../base/common/types.js';
 define(
 			de[226],
 			he([

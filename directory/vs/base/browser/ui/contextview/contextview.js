@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../canIUse.js';
+import '../../dom.js';
+import '../../../common/lifecycle.js';
+import '../../../common/platform.js';
+import '../../../common/range.js';
+import '../../../../css!vs/base/browser/ui/contextview/contextview.js';
 define(
 			de[276],
 			he([1, 0, 459, 7, 3, 12, 902, 2236]),

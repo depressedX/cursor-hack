@@ -1,3 +1,29 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/files/common/files.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../common/extHost.protocol.js';
+import '../../../nls.js';
+import '../../services/workingCopy/common/workingCopyFileService.js';
+import '../../../editor/browser/services/bulkEditService.js';
+import '../../../platform/progress/common/progress.js';
+import '../../../base/common/async.js';
+import '../../../base/common/cancellation.js';
+import '../../../platform/dialogs/common/dialogs.js';
+import '../../../base/common/severity.js';
+import '../../../platform/storage/common/storage.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../platform/log/common/log.js';
+import '../../../platform/environment/common/environment.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
+import './mainThreadBulkEdits.js';
+import '../../../base/common/glob.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/uri.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/files/common/watcher.js';
+import '../../../platform/workspace/common/workspace.js';
 define(
 		de[3899],
 		he([

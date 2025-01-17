@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../platform/opener/common/opener.js';
+import './PseudocodeRenderer.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../utils/browser/copyToClipboard.js';
+import '../../../../../css!vs/workbench/contrib/aiReader/browser/components/AiReaderPane.js';
 define(
 			de[4199],
 			he([

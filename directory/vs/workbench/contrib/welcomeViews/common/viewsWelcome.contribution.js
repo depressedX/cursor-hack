@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import './viewsWelcomeContribution.js';
+import './viewsWelcomeExtensionPoint.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[3443],
 			he([1, 0, 5, 52, 30, 55, 3316, 1786, 175]),

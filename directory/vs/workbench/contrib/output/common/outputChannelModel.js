@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/services/editorWorker.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/buffer.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/cancellation.js';
+import '../../../services/output/common/output.js';
+import '../../../../base/common/errors.js';
 define(
 			de[3525],
 			he([

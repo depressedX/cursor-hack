@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './debug-build.js';
+import './logger.js';
+import './worldwide.js';
+import './vendor/supportsHistory.js';
 define(
 			de[1433],
 			he([1, 0, 577, 527, 365, 2086]),

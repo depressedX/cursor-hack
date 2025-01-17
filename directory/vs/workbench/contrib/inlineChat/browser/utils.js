@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../editor/common/model.js';
+import '../../../../base/common/async.js';
+import '../../chat/common/chatWordCounter.js';
 define(
 			de[1734],
 			he([1, 0, 188, 64, 15, 790]),

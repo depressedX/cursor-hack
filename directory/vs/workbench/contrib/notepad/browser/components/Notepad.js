@@ -1,3 +1,31 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/ui/contextview/contextview.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/themables.js';
+import '../../../../common/theme.js';
+import '../../../composer/browser/hooks/useComposerHoverTooltip.js';
+import '../../../controlCommon/browser/solid.js';
+import './NotepadEditorPure.js';
+import '../constants.js';
+import '../../../ui/browser/hooks/useMeasureWidthHeight.js';
+import '../../../ui/browser/hooks/useThemeHooks.js';
+import '../../../ui/browser/menu/hooks.js';
+import './NotepadFileAdder.js';
+import './NotepadFilePickerMenu.js';
+import '../../../../../css!vs/workbench/contrib/notepad/browser/components/Notepad.js';
 define(
 			de[4327],
 			he([

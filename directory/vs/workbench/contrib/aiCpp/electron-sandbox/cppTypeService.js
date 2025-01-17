@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/ai/browser/gitContextService.js';
 define(
 			de[1300],
 			he([1, 0, 3, 42, 204, 20, 5, 45, 32, 25, 359]),

@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../host/browser/host.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/productService.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../common/extensionManagement.js';
 define(
 			de[1834],
 			he([

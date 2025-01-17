@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/parts/ipc/common/ipc.js';
+import '../../instantiation/common/descriptors.js';
+import '../../instantiation/common/extensions.js';
+import '../../instantiation/common/instantiation.js';
+import '../common/mainProcessService.js';
 define(
 			de[230],
 			he([1, 0, 305, 102, 20, 5, 371]),

@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/process.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/configurationResolver/common/configurationResolver.js';
+import '../../../services/history/common/history.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../common/terminal.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/objects.js';
+import '../../../../platform/terminal/common/terminalProfiles.js';
+import './terminal.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3566],
 			he([

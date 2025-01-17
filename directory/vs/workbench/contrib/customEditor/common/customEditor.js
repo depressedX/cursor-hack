@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/editor/common/editorResolverService.js';
 define(
 			de[625],
 			he([1, 0, 24, 4, 8, 5, 231]),

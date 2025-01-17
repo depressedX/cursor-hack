@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../encryption/common/encryptionService.js';
+import '../../instantiation/common/instantiation.js';
+import '../../storage/common/storage.js';
+import '../../../base/common/event.js';
+import '../../log/common/log.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/lazy.js';
 define(
 			de[783],
 			he([1, 0, 15, 1186, 5, 21, 6, 34, 3, 149]),

@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/keybindingLabel/keybindingLabel.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/platform.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/model.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../css!vs/editor/contrib/inlineEdit/browser/inlineEditHintsWidget.js';
 define(
 			de[2894],
 			he([

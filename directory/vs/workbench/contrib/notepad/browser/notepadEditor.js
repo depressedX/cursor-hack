@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/parts/editor/editorPane.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './renderNotepad.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[4329],
 			he([1, 0, 217, 32, 35, 21, 5, 4328, 45]),

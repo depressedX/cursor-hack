@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/icons/iconSelectBox.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
 define(
 			de[1896],
 			he([1, 0, 2685, 27, 7, 8, 43]),

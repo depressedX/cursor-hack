@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './aiReader.js';
+import './aiReaderEditor.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './components/renderAiReader.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[4201],
 			he([1, 0, 3, 20, 66, 18, 41, 31, 25, 788, 1710, 5, 4200, 45]),

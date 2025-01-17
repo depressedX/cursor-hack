@@ -1,3 +1,12 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/cancellation.js';
+import '../../../../../../base/common/uri.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/clipboard/common/clipboardService.js';
+import '../../../common/notebookKernelService.js';
+import '../../../common/notebookService.js';
 define(
 			de[3118],
 			he([1, 0, 33, 9, 4, 11, 121, 243, 161]),

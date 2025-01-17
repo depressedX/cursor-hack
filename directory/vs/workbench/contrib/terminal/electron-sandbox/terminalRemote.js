@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/network.js';
+import '../../../../nls.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../browser/terminalActions.js';
+import '../common/terminal.js';
+import '../../../services/history/common/history.js';
 define(
 			de[4037],
 			he([1, 0, 23, 4, 113, 211, 363, 145, 245]),

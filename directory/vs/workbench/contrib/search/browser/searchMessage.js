@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/linkedText.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/severityIcon/browser/severityIcon.js';
+import '../../../services/search/common/searchExtTypes.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/opener/browser/link.js';
+import '../../../../base/common/uri.js';
 define(
 		de[1863],
 		he([1, 0, 4, 7, 488, 111, 673, 1862, 23, 497, 9]),

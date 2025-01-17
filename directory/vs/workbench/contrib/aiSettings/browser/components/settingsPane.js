@@ -1,3 +1,24 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/themables.js';
+import '../../../controlCommon/browser/solid.js';
+import './settings/constants.js';
+import './settings/settingsFeaturesTab.js';
+import './settings/settingsGeneralTab.js';
+import './settings/settingsModelsTab.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../ui/browser/hooks/useThemeHooks.js';
+import './settings/settingsBetaTab.js';
+import './settings/hooks.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../css!vs/workbench/contrib/aiSettings/browser/components/settingsPane.js';
 define(
 			de[4351],
 			he([

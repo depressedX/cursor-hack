@@ -1,3 +1,22 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/instantiation/common/descriptors.js';
+import '../../../../../../platform/registry/common/platform.js';
+import '../../../../../common/views.js';
+import '../../../../debug/common/debug.js';
+import './notebookVariableContextKeys.js';
+import './notebookVariablesView.js';
+import '../../notebookBrowser.js';
+import '../../notebookIcons.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../common/notebookKernelService.js';
+import '../../../common/notebookService.js';
+import '../../../../../services/editor/common/editorService.js';
 define(
 			de[3832],
 			he([

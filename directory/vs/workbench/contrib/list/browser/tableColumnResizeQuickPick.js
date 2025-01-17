@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/common/quickInput.js';
 define(de[3071], he([1, 0, 3, 4, 63]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$t2c = void 0);

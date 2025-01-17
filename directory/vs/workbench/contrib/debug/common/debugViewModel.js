@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import './debug.js';
+import './debugUtils.js';
 define(de[3055], he([1, 0, 6, 112, 396]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$2Qc = void 0);

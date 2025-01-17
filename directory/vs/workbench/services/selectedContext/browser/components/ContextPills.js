@@ -1,3 +1,28 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../../contrib/controlCommon/browser/solid.js';
+import '../../../../contrib/ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../contrib/ui/browser/hooks/useVSHoverTooltip.js';
+import '../../../../contrib/ui/browser/aiInput/utils.js';
+import '../../../../contrib/ui/browser/hooks/useIsUsingFileIconTheme.js';
+import '../../../../../css!vs/workbench/services/selectedContext/browser/components/ContextPills.js';
 define(
 			de[573],
 			he([

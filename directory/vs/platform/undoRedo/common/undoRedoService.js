@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../../base/common/severity.js';
+import '../../../nls.js';
+import '../../dialogs/common/dialogs.js';
+import '../../instantiation/common/extensions.js';
+import '../../notification/common/notification.js';
+import './undoRedo.js';
 define(
 		de[2876],
 		he([1, 0, 29, 3, 23, 111, 4, 57, 20, 40, 155]),

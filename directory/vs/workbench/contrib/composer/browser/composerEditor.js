@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/editor/editorPane.js';
+import '../../../common/editor/editorInput.js';
+import './composer.js';
+import './composerDataService.js';
+import './renderComposerPane.js';
+import './composerViews.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[1076],
 			he([

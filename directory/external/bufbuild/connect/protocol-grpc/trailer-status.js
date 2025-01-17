@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../protobuf.js';
+import './gen/status_pb.js';
+import '../connect-error.js';
+import '../http-headers.js';
+import '../code.js';
+import './headers.js';
 define(
 			de[1411],
 			he([1, 0, 86, 2050, 213, 876, 202, 868]),

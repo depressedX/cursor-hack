@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../nls.js';
+import '../../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../common/contextkeys.js';
+import './chatActions.js';
+import './chatClear.js';
+import '../chat.js';
+import '../chatEditorInput.js';
+import '../../common/chatContextKeys.js';
+import '../../../../services/views/common/viewsService.js';
 define(
 			de[3806],
 			he([1, 0, 14, 27, 4, 184, 11, 8, 43, 100, 402, 1288, 208, 552, 207, 89]),

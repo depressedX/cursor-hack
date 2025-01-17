@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/types.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/languages/language.js';
+import '../../../browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import './provideSignatureHelp.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../css!vs/editor/contrib/parameterHints/browser/parameterHints.js';
 define(
 			de[2837],
 			he([

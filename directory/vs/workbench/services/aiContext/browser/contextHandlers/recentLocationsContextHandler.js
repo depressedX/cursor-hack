@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../contrib/aiFeatureStatusService/browser/aiFeatureStatusService.js';
+import '../../../ai/browser/fastContextService.js';
 define(
 			de[3994],
 			he([1, 0, 228, 25, 287, 400]),

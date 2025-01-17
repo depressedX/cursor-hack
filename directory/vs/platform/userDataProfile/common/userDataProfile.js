@@ -1,3 +1,22 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/hash.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../environment/common/environment.js';
+import '../../files/common/files.js';
+import '../../instantiation/common/instantiation.js';
+import '../../log/common/log.js';
+import '../../workspace/common/workspace.js';
+import '../../../base/common/map.js';
+import '../../uriIdentity/common/uriIdentity.js';
+import '../../../base/common/async.js';
+import '../../../base/common/uuid.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/types.js';
 define(
 			de[129],
 			he([

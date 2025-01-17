@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/iconLabels.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/themables.js';
+import '../../../../editor/contrib/quickAccess/browser/commandsQuickAccess.js';
+import '../../../../nls.js';
+import '../../../../platform/action/common/action.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/quickinput/browser/commandsQuickAccess.js';
+import '../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../../platform/quickinput/common/quickAccess.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../chat/browser/actions/chatActions.js';
+import '../../chat/browser/actions/chatQuickInputActions.js';
+import '../../chat/common/chatAgents.js';
+import '../../../services/aiRelatedInformation/common/aiRelatedInformation.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/preferences/browser/keybindingsEditorModel.js';
+import '../../../services/preferences/common/preferences.js';
 define(
 			de[4107],
 			he([

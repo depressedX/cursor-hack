@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../cppEventLogger.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/instantiation/common/extensions.js';
+import '../../../../../platform/clipboard/common/clipboardService.js';
 define(de[3223], he([1, 0, 332, 5, 20, 121]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

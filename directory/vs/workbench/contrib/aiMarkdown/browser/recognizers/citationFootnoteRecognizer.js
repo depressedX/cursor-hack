@@ -1,3 +1,6 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../markdownData.js';
 define(de[2984], he([1, 0, 236]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

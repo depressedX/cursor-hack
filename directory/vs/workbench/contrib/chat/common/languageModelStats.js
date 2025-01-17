@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../services/extensionManagement/common/extensionFeatures.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../nls.js';
 define(
 			de[1807],
 			he([1, 0, 6, 3, 5, 21, 109, 244, 30, 4]),

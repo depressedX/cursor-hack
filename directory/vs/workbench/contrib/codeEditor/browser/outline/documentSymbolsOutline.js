@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../services/outline/browser/outline.js';
+import '../../../../common/contributions.js';
+import '../../../../../platform/registry/common/platform.js';
+import '../../../../services/lifecycle/common/lifecycle.js';
+import './documentSymbolsTree.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../editor/common/editorCommon.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../nls.js';
+import '../../../../../editor/common/services/markerDecorations.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../editor/common/services/languageFeatures.js';
 define(
 			de[3519],
 			he([

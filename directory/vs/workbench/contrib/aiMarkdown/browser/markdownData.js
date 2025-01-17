@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../base/browser/dompurify/dompurify.js';
+import '../../../../base/browser/trustedTypes.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../css!vs/workbench/contrib/aiMarkdown/browser/katex.min.js';
+import '../../../../css!vs/workbench/contrib/aiMarkdown/browser/markdown.js';
 define(
 			de[236],
 			he([1, 0, 2, 920, 432, 14, 79, 1519, 1520]),

@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/strings.js';
+import '../cursorCommon.js';
+import './cursorDeleteOperations.js';
+import '../core/wordCharacterClassifier.js';
+import '../core/position.js';
+import '../core/range.js';
 define(
 			de[944],
 			he([1, 0, 120, 37, 346, 943, 747, 48, 17]),

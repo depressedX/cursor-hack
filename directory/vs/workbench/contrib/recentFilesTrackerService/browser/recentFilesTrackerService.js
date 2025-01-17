@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[560],
 			he([1, 0, 65, 3, 5, 20, 25, 45]),

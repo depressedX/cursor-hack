@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/arraysFind.js';
+import '../../../../../base/common/assert.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../editor/common/core/range.js';
+import '../utils.js';
+import './editing.js';
+import './lineRange.js';
+import './rangeUtils.js';
 define(
 			de[686],
 			he([1, 0, 24, 214, 229, 29, 17, 508, 1249, 507, 1739]),

@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/fonts.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/derived.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/observableCodeEditor.js';
+import '../../../browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../browser/widget/diffEditor/registrations.contribution.js';
+import '../../../browser/widget/diffEditor/utils.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/languages/modesRegistry.js';
+import '../../../common/model/textModel.js';
+import '../../contextmenu/browser/contextmenu.js';
+import '../../placeholderText/browser/placeholderTextContribution.js';
+import '../../suggest/browser/suggestController.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../css!vs/editor/contrib/inlineEdits/browser/inlineEditsWidget.js';
 define(
 			de[1693],
 			he([

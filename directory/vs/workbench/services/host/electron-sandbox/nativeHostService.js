@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../browser/host.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/label/common/label.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/window/common/window.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/native/common/nativeHostService.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../../platform/ipc/common/mainProcessService.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
 define(
 			de[3391],
 			he([

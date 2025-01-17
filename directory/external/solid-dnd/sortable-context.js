@@ -1,3 +1,10 @@
+import '../../require.js';
+import '../../exports.js';
+import '../solid/web.js';
+import '../solid/solid.js';
+import '../solid/store.js';
+import './drag-drop-context.js';
+import './move-array-item.js';
 define(
 			de[1465],
 			he([1, 0, 2, 13, 193, 580, 2153]),

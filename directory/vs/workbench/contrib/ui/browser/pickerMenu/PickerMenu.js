@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/platform.js';
+import '../../../controlCommon/browser/solid.js';
+import '../highlightedLabel/HighlightedLabel.js';
+import '../menu/hooks.js';
+import '../menu/menu.js';
+import '../scrollableDiv.js';
+import '../../../composer/browser/hooks/useAutoVerticalScroll.js';
+import '../../../../../base/common/async.js';
+import '../loadingSpinner/loadingSpinner.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/pickerMenu/pickerMenu2.js';
 define(
 			de[1982],
 			he([

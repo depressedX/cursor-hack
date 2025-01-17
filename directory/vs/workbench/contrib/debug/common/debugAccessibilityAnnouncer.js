@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './debug.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './debugModel.js';
 define(
 			de[3682],
 			he([1, 0, 112, 3, 34, 91, 10, 300]),

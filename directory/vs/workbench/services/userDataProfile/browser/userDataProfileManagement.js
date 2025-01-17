@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/objects.js';
+import '../../../../nls.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/request/common/request.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../environment/common/environmentService.js';
+import '../../extensions/common/extensions.js';
+import '../../host/browser/host.js';
+import '../common/userDataProfile.js';
 define(
 			de[3788],
 			he([

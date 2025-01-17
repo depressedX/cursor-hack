@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../code.js';
+import '../connect-error.js';
+import './async-iterable.js';
+import './signals.js';
 define(
 			de[2026],
 			he([1, 0, 202, 213, 575, 1082]),

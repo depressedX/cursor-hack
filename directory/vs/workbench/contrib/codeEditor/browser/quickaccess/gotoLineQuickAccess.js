@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../editor/contrib/quickAccess/browser/gotoLineQuickAccess.js';
+import '../../../../../platform/registry/common/platform.js';
+import '../../../../../platform/quickinput/common/quickAccess.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../services/editor/common/editorGroupsService.js';
 define(
 			de[3264],
 			he([1, 0, 4, 63, 18, 1666, 30, 348, 10, 11, 27, 43, 66]),

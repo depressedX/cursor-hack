@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../browser/editorExtensions.js';
+import '../../../../nls.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/editorContextKeys.js';
+import './stickyScrollController.js';
 define(
 			de[3611],
 			he([1, 0, 27, 46, 4, 99, 11, 10, 43, 8, 71, 1317]),

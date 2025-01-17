@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/model.js';
+import './color.js';
+import './colorDetector.js';
+import './colorPickerModel.js';
+import './colorPickerWidget.js';
+import '../../hover/browser/hoverTypes.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/browser/dom.js';
+import '../../../../nls.js';
 define(
 			de[1218],
 			he([

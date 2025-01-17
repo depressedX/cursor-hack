@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/async.js';
+import './hoverUtils.js';
+import './marginHoverWidget.js';
+import '../../../../css!vs/editor/contrib/hover/browser/hover.js';
 define(
 			de[603],
 			he([1, 0, 27, 3, 38, 5, 15, 937, 2775, 905]),

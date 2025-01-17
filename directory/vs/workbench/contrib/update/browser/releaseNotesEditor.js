@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/keybindingParser.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/common/languages/supports/tokenization.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../nls.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/request/common/request.js';
+import '../../markdown/browser/markdownDocumentRenderer.js';
+import '../../webviewPanel/browser/webviewWorkbenchService.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/common/lifecycle.js';
+import '../../markdown/browser/markdownSettingRenderer.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../base/common/marked/marked.js';
+import '../../../../css!vs/workbench/contrib/update/browser/media/releasenoteseditor.js';
 define(
 			de[3777],
 			he([

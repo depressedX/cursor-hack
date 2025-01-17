@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/views.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../browser/parts/views/viewPane.js';
+import './notepad.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './constants.js';
+import '../../../browser/parts/views/treeView.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import './notepadActions.js';
+import '../../../../platform/quickinput/common/quickInput.js';
 define(
 			de[4027],
 			he([

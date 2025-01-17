@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../nls.js';
+import './quickFix.js';
 define(de[3164], he([1, 0, 9, 4, 998]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

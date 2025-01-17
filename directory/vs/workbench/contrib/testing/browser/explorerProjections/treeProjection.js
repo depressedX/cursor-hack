@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/iterator.js';
+import '../../../../../base/common/lifecycle.js';
+import './index.js';
+import './testingViewState.js';
+import '../../common/getComputedState.js';
+import '../../common/testId.js';
+import '../../common/testResult.js';
+import '../../common/testResultService.js';
+import '../../common/testService.js';
+import '../../common/testTypes.js';
 define(
 			de[3184],
 			he([1, 0, 6, 103, 3, 811, 1265, 1773, 259, 421, 381, 379, 185]),

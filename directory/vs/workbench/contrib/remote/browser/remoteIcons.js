@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
 define(de[1256], he([1, 0, 4, 14, 79]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,39 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/path.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './baseDebugView.js';
+import '../common/debug.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/labels.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/async.js';
+import '../../../browser/labels.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/browser/ui/tree/tree.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/filters.js';
+import '../common/debugContentProvider.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/codicons.js';
+import '../../../common/views.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../services/path/common/pathService.js';
+import '../../../../base/browser/ui/tree/abstractTree.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[3823],
 			he([

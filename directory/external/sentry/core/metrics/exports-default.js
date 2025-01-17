@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './aggregator.js';
+import './exports.js';
 define(de[2125], he([1, 0, 2120, 1449]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

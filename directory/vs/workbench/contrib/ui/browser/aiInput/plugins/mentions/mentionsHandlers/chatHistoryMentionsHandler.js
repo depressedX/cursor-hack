@@ -1,3 +1,13 @@
+import '../../../../../../../../../require.js';
+import '../../../../../../../../../exports.js';
+import '../../../../../../../../../external/solid/web.js';
+import '../../../../../../../../../external/solid/web.js';
+import '../../../../../../../../../external/solid/web.js';
+import '../../../../../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../../../../../base/common/codicons.js';
+import '../../../../../../../../base/common/themables.js';
+import '../../../../../../../../base/common/uuid.js';
+import '../types.js';
 define(
 			de[3191],
 			he([1, 0, 2, 2, 2, 228, 14, 26, 47, 310]),

@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import './AIChatHistory.js';
+import './premium/PremiumAiChat.js';
+import '../../../controlCommon/browser/solid.js';
+import '../chatData.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/AiBubble.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/ChatHistory.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/UserBubble.js';
 define(
 			de[4405],
 			he([1, 0, 2, 2, 2, 2, 13, 7, 205, 4203, 4404, 36, 140, 907, 1141, 1142]),

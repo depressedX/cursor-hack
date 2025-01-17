@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/log/common/log.js';
+import '../../../../services/extensions/common/extensions.js';
+import '../../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[3332],
 			he([1, 0, 6, 3, 4, 34, 53, 175]),

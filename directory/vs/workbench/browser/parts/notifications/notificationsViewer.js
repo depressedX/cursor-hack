@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../common/notifications.js';
+import './notificationsActions.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/browser/ui/progressbar/progressbar.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/browser/ui/dropdown/dropdownActionViewItem.js';
+import '../../../../base/browser/event.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[2951],
 			he([

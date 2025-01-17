@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/registry/common/platform.js';
+import './configuration.js';
+import './externalUriOpenerService.js';
 define(
 			de[3556],
 			he([1, 0, 81, 20, 30, 1033, 1034]),

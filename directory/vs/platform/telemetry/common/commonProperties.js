@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/process.js';
+import '../../../base/common/uuid.js';
 define(de[1640], he([1, 0, 12, 344, 47]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

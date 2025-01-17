@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import '../utils/api.js';
+import './create-list-state.js';
 define(
 		de[2649],
 		he([1, 0, 115, 13, 115, 1569]),

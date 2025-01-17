@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(de[554], he([1, 0, 4, 8]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

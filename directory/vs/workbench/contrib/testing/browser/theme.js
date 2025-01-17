@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/color.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../common/testTypes.js';
 define(
 			de[1771],
 			he([1, 0, 97, 4, 51, 35, 185]),

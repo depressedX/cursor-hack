@@ -1,3 +1,41 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/editor/editorPane.js';
+import '../../../common/editor.js';
+import './controller/coreActions.js';
+import './services/notebookEditorService.js';
+import './viewParts/notebookKernelView.js';
+import '../common/notebookCommon.js';
+import '../common/notebookEditorInput.js';
+import '../common/notebookPerformance.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../extensions/browser/extensionsActions.js';
+import '../common/notebookService.js';
+import '../../extensions/common/extensions.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/workingCopy/common/workingCopyBackup.js';
+import '../../../../base/common/buffer.js';
+import '../../../../platform/log/common/log.js';
+import '../common/services/notebookWorkerService.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../../base/common/stopwatch.js';
 define(
 			de[1360],
 			he([

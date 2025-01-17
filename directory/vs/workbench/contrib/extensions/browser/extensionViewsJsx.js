@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/uri.js';
+import '../../ui/browser/simpleButton/simpleButton.js';
+import '../../controlCommon/browser/solid.js';
 define(
 			de[4296],
 			he([1, 0, 2, 2, 2, 13, 9, 147, 36]),

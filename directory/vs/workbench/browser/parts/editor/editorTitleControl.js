@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/themeService.js';
+import './breadcrumbsControl.js';
+import './multiEditorTabsControl.js';
+import './singleEditorTabsControl.js';
+import '../../../../base/common/lifecycle.js';
+import './multiRowEditorTabsControl.js';
+import './noEditorTabsControl.js';
+import '../../../../css!vs/workbench/browser/parts/editor/media/editortitlecontrol.js';
 define(
 			de[4012],
 			he([1, 0, 7, 5, 35, 1879, 1935, 4011, 3, 4009, 4010, 2344]),

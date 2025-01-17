@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../../base/common/strings.js';
+import '../../config/domFontInfo.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../../base/browser/ui/mouseCursor/mouseCursor.js';
 define(
 			de[2720],
 			he([1, 0, 7, 194, 37, 321, 38, 48, 17, 651]),

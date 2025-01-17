@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './legacyLinesDiffComputer.js';
+import './defaultLinesDiffComputer/defaultLinesDiffComputer.js';
 define(de[587], he([1, 0, 1533, 1532]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './popper-arrow.js';
+import './popper-context.js';
+import './popper-positioner.js';
+import './popper-root.js';
 define(
 		de[1164],
 		he([1, 0, 2642, 896, 2643, 2669]),

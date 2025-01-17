@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../platform/product/common/product.js';
+import '../../../base/common/platform.js';
+import '../../../platform/telemetry/common/telemetry.js';
+import '../../../platform/opener/common/opener.js';
+import '../../../base/common/uri.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../base/common/keyCodes.js';
+import '../../../platform/product/common/productService.js';
+import '../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../platform/action/common/actionCommonCategories.js';
 define(
 		de[2943],
 		he([1, 0, 4, 372, 12, 32, 41, 9, 11, 27, 62, 43, 99]),

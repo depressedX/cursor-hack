@@ -1,3 +1,6 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uuid.js';
 define(de[551], he([1, 0, 47]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../controlCommon/browser/solid.js';
 define(
 			de[4134],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 36]),

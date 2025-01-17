@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/async.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../core/lineRange.js';
+import '../tokenizationTextModelPart.js';
 define(
 			de[1176],
 			he([1, 0, 24, 15, 6, 3, 196, 916]),

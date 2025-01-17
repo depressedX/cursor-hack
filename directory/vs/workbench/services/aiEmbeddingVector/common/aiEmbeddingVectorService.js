@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../platform/log/common/log.js';
 define(
 			de[1793],
 			he([1, 0, 5, 15, 20, 162, 34]),

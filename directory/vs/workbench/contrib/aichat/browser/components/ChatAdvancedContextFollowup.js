@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../chatData.js';
+import '../../../aisearch/browser/components/AiSearch.js';
+import '../../../aiMarkdown/browser/markdownData.js';
+import '../../../controlCommon/browser/solid.js';
+import './Utils.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/ChatAdvancedContextFollowup.js';
 define(
 			de[4244],
 			he([

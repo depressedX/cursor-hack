@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/contributions.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../services/decorations/common/decorations.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3431],
 			he([1, 0, 55, 90, 472, 3, 4, 30, 51, 10, 81, 52]),

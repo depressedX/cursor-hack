@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/labels.js';
+import '../../../browser/parts/editor/editorWithViewState.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorInput.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/contrib/inlineDiffs/browser/widgets/inlineMultiDiffEditorWidget.js';
 define(
 			de[4212],
 			he([

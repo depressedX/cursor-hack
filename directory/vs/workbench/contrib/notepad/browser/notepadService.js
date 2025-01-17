@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import './notepad.js';
+import './notepadData.js';
+import '../../../services/selectedContext/browser/selectedContext.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../services/editor/common/editorService.js';
+import './notepadEditorInput.js';
+import '../../../../base/common/uuid.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../aichat/browser/chatData.js';
+import '../../../services/ai/browser/utils.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/network.js';
+import '../../ui/browser/aiEditorBox/aiEditorCodeBlock.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[4177],
 			he([

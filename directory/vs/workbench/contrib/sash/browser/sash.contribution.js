@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/configuration.js';
+import '../../../common/contributions.js';
+import './sash.js';
+import '../../../../base/common/platform.js';
 define(
 			de[3563],
 			he([1, 0, 4, 81, 52, 30, 224, 55, 3127, 12]),

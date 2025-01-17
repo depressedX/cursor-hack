@@ -1,3 +1,21 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './browser.js';
+import './canIUse.js';
+import './keyboardEvent.js';
+import './mouseEvent.js';
+import '../common/async.js';
+import '../common/errors.js';
+import '../common/event.js';
+import './dompurify/dompurify.js';
+import '../common/keyCodes.js';
+import '../common/lifecycle.js';
+import '../common/network.js';
+import '../common/platform.js';
+import '../common/uri.js';
+import '../common/hash.js';
+import './window.js';
+import '../common/numbers.js';
 define(
 			de[7],
 			he([

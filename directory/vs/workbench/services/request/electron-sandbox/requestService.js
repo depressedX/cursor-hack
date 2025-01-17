@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/request/browser/requestService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/request/common/request.js';
+import '../../../../platform/native/common/native.js';
 define(
 			de[3592],
 			he([1, 0, 10, 34, 2792, 20, 327, 110]),

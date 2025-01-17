@@ -1,3 +1,24 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './terminalLinkHelpers.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../services/environment/common/environmentService.js';
+import '../../../../services/host/browser/host.js';
+import '../../../../services/search/common/queryBuilder.js';
+import '../../../../services/search/common/search.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import './terminalLinkParsing.js';
+import '../../../../../platform/terminal/common/terminal.js';
 define(
 			de[3598],
 			he([

@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/aria/aria.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/htmlContent.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/themables.js';
+import '../../common/chatViewModel.js';
 define(
 			de[1721],
 			he([1, 0, 7, 127, 14, 94, 3, 26, 283]),

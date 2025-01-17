@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../common/notebookCommon.js';
+import '../common/notebookEditorInput.js';
+import '../common/notebookRange.js';
 define(de[108], he([1, 0, 70, 360, 442]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

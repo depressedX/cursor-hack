@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../utils/duplicateAsyncIterable.js';
+import '../../../../services/ai/browser/aiService.js';
 define(
 			de[3949],
 			he([1, 0, 148, 83, 3, 42, 25, 1234, 118]),

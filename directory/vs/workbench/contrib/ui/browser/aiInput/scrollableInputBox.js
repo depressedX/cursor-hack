@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import './aiInput2.js';
+import '../scrollableDiv.js';
 define(
 			de[4320],
 			he([1, 0, 2, 2, 13, 450, 135]),

@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/markdownRenderer.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import './chat.js';
+import '../common/chatContextKeys.js';
+import '../common/chatModel.js';
+import '../common/chatViewModel.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3550],
 			he([1, 0, 267, 94, 178, 130, 208, 207, 441, 283, 3]),

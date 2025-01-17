@@ -1,3 +1,21 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/ui/toolbar/toolbar.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/event.js';
+import '../../../../../../base/common/marshallingIds.js';
+import '../../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import './cellActionView.js';
+import '../cellPart.js';
+import './cellToolbarStickyScroll.js';
+import '../../../../../../platform/actions/browser/toolbar.js';
+import '../../../../../../base/browser/ui/hover/hoverDelegateFactory.js';
 define(
 			de[3098],
 			he([

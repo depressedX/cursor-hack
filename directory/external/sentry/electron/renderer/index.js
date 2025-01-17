@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../browser/index.js';
+import './integrations/scope-to-main.js';
+import './transport.js';
+import './sdk.js';
+import './stack-parse.js';
+import './metrics.js';
 define(
 		de[2151],
 		he([1, 0, 1105, 1460, 1462, 2150, 1461, 2149]),

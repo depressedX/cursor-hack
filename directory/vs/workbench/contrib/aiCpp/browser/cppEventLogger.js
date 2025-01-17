@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './cppDebouncingService.js';
+import '../common/cppUtils.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../../proto/aiserver/v1/cpp_pb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../../proto/aiserver/v1/cpp_connectweb.js';
+import '../../../services/ai/browser/backendClient.js';
+import '../../../../editor/common/services/resolverService.js';
 define(
 			de[332],
 			he([1, 0, 20, 5, 551, 971, 137, 32, 25, 367, 3, 1108, 285, 42]),

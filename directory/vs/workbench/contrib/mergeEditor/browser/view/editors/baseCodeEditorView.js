@@ -1,3 +1,18 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../../base/common/errors.js';
+import '../../../../../../base/common/observable.js';
+import '../../../../../../editor/common/model.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../utils.js';
+import '../colors.js';
+import '../editorGutter.js';
+import './codeEditorView.js';
 define(
 			de[3081],
 			he([1, 0, 7, 182, 29, 77, 64, 4, 11, 10, 5, 508, 989, 1251, 1252]),

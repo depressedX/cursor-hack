@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/iframe.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/amd.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../nls.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../environment/browser/environmentService.js';
+import '../common/extensionHostProtocol.js';
+import '../common/extensions.js';
 define(
 			de[3321],
 			he([

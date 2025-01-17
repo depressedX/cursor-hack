@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/ipc/common/mainProcessService.js';
+import '../../../../base/parts/ipc/common/ipc.mp.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/parts/ipc/common/ipc.js';
+import '../../../../base/common/uuid.js';
+import '../../../../base/parts/ipc/electron-sandbox/ipc.mp.js';
+import '../../../../platform/utilityProcess/common/utilityProcessWorkerService.js';
+import '../../../../base/common/async.js';
 define(
 			de[1904],
 			he([1, 0, 34, 3, 371, 1173, 5, 305, 47, 904, 2887, 15]),

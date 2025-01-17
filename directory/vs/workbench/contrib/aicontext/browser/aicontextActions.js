@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../nls.js';
+import '../../../services/ai/browser/aiContextService.js';
 define(
 			de[3959],
 			he([1, 0, 46, 71, 11, 8, 43, 4, 1347]),

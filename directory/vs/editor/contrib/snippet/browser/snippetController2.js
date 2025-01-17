@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/types.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/core/position.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/languages.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../common/services/languageFeatures.js';
+import '../../suggest/browser/suggest.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/log/common/log.js';
+import './snippetSession.js';
 define(
 			de[254],
 			he([1, 0, 27, 3, 28, 46, 48, 71, 74, 152, 69, 373, 4, 8, 43, 34, 1691]),

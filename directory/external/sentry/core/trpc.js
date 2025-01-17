@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../utils/index.js';
+import './currentScopes.js';
+import './exports.js';
+import './semanticAttributes.js';
+import './tracing/index.js';
 define(
 			de[2129],
 			he([1, 0, 80, 234, 734, 453, 640]),

@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../core/core.js';
+import './getScale.js';
+import './getVisualOffsets.js';
+import './getWindow.js';
+import './is.js';
+import './unwrapElement.js';
 define(
 			de[663],
 			he([1, 0, 899, 929, 1573, 537, 324, 1574]),

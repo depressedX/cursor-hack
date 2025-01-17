@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './errors.js';
+import './functional.js';
+import './lifecycle.js';
+import './linkedList.js';
+import './stopwatch.js';
 define(
 			de[6],
 			he([1, 0, 29, 288, 3, 273, 162]),

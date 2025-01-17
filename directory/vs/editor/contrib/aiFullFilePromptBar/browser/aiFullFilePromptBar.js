@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../workbench/contrib/controlCommon/browser/solid.js';
+import '../../../../base/common/resources.js';
+import '../../../../workbench/services/ai/browser/fastEditService.js';
+import './pureAIPromptBar.js';
+import '../../../../workbench/contrib/ui/browser/hooks/useKeyboardShortcut.js';
+import '../../inlineDiffs/browser/inlineDiffTypes.js';
+import '../../inlineDiffs/browser/controllers/inlineDiffController.js';
 define(
 			de[4220],
 			he([1, 0, 2, 13, 36, 19, 480, 4219, 385, 534, 851]),

@@ -1,3 +1,23 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../ui/browser/highlightedLabel/HighlightedLabel.js';
+import '../../../../ui/browser/menu/hooks.js';
+import '../../../../ui/browser/menu/menu.js';
+import '../../../../ui/browser/scrollableDiv.js';
+import '../../../../../../css!vs/workbench/contrib/semSearch/browser/components/picker/pickerMenu2.js';
 define(
 			de[4214],
 			he([

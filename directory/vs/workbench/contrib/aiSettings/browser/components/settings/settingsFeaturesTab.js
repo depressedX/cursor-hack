@@ -1,3 +1,29 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../../base/common/constants.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../aiCpp/browser/cppView.js';
+import '../../../../aiIndexingView/browser/components/indexingView.js';
+import './settingsFeaturesDocItem.js';
+import './settingsSection.js';
+import './settingsSectionDivider.js';
+import './settingsSubSection.js';
+import './settingsTab.js';
+import '../../../../composer/browser/composerCapabilities.js';
+import '../../../../ui/browser/badge/badge.js';
+import '../../../../ui/browser/info.js';
+import '../../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../ui/browser/inlineTextArea/inlineTextArea.js';
+import '../../../../ui/browser/tagEditor/tagEditor.js';
+import '../../../../ui/browser/dropdown/dropdown.js';
 define(
 		de[4350],
 		he([

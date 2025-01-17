@@ -1,3 +1,13 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './google/protobuf/descriptor_pb.js';
+import './private/assert.js';
+import './service-type.js';
+import './private/names.js';
+import './private/text-format.js';
+import './private/feature-set.js';
+import './scalar.js';
+import './is-message.js';
 define(
 			de[1409],
 			he([1, 0, 724, 451, 1408, 723, 2036, 2039, 429, 524]),

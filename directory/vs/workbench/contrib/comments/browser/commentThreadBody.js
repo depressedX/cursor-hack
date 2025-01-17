@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/languages.js';
+import '../../../../base/common/event.js';
+import './commentService.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/common/keyCodes.js';
+import './commentNode.js';
+import '../../../../editor/browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../editor/common/languages/language.js';
 define(
 			de[3764],
 			he([1, 0, 7, 4, 3, 74, 6, 447, 114, 27, 3763, 251, 41, 61]),

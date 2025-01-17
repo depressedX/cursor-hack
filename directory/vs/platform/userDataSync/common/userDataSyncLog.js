@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/resources.js';
+import '../../../nls.js';
+import '../../environment/common/environment.js';
+import '../../log/common/log.js';
+import './userDataSync.js';
 define(
 			de[2886],
 			he([1, 0, 19, 4, 113, 34, 150]),

@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../../part.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/opener/browser/link.js';
+import '../../../../base/common/event.js';
+import '../../../services/banner/browser/bannerService.js';
+import '../../../../editor/browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../common/contextkeys.js';
+import '../../../../css!vs/workbench/browser/parts/banner/media/bannerpart.js';
 define(
 			de[3401],
 			he([

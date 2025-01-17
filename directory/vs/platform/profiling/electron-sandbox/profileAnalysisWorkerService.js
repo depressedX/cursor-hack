@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/defaultWorkerFactory.js';
+import '../../instantiation/common/extensions.js';
+import '../../instantiation/common/instantiation.js';
+import '../../log/common/log.js';
+import '../common/profilingTelemetrySpec.js';
+import '../../telemetry/common/telemetry.js';
 define(
 			de[1651],
 			he([1, 0, 540, 20, 5, 34, 2747, 32]),

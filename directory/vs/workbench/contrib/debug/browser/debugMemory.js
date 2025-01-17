@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/numbers.js';
+import '../../../../base/common/assert.js';
+import '../../../../platform/files/common/files.js';
+import '../common/debug.js';
 define(
 			de[3051],
 			he([1, 0, 76, 6, 3, 201, 229, 22, 112]),

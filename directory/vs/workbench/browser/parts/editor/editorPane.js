@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../composite.js';
+import '../../../common/editor.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/types.js';
+import './editor.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/extpath.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[217],
 			he([1, 0, 1701, 44, 21, 59, 9, 6, 28, 548, 19, 249, 3, 7]),

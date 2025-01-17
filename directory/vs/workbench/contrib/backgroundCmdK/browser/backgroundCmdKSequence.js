@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uuid.js';
+import './backgroundCmdKGeneration.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../../external/solid/store.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/services/resolverService.js';
 define(
 			de[3222],
 			he([1, 0, 3, 47, 1717, 6, 5, 137, 193, 64, 42]),

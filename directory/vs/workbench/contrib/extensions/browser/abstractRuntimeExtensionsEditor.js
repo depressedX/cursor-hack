@@ -1,3 +1,44 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/date.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../nls.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/editor/editorPane.js';
+import './extensionsIcons.js';
+import '../common/extensions.js';
+import '../common/runtimeExtensionsInput.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/extensionManagement/common/extensionFeatures.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/extensions/common/extensionRunningLocation.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../css!vs/workbench/contrib/extensions/browser/media/runtimeExtensionsEditor.js';
 define(
 			de[1809],
 			he([

@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../keyboardEvent.js';
+import './actionViewItems.js';
+import '../hover/hoverDelegateFactory.js';
+import '../../../common/actions.js';
+import '../../../common/event.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../common/types.js';
+import '../../../../css!vs/base/browser/ui/actionbar/actionbar.js';
 define(
 			de[105],
 			he([1, 0, 7, 114, 198, 95, 50, 6, 27, 3, 28, 1508]),

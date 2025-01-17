@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../common/contributions.js';
+import '../../../../editor/browser/services/treeSitter/treeSitterParserService.js';
+import '../../../../editor/common/services/treeSitterParserService.js';
+import './treeSitterTokenizationFeature.js';
 define(
 			de[3743],
 			he([1, 0, 20, 55, 2797, 763, 3742]),

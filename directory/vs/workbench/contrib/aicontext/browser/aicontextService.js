@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/fuzzyScorer.js';
+import '../../../../base/common/map.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../search/browser/anythingQuickAccess.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../recentFilesTrackerService/browser/recentFilesTrackerService.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[1964],
 			he([1, 0, 148, 3, 33, 322, 59, 65, 22, 20, 5, 45, 721, 118, 560, 47, 25]),

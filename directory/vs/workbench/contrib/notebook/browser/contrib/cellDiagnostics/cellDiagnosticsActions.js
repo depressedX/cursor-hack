@@ -1,3 +1,16 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/keyCodes.js';
+import '../../../../../../editor/common/core/range.js';
+import '../../../../../../editor/contrib/codeAction/browser/codeActionController.js';
+import '../../../../../../editor/contrib/codeAction/common/types.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../controller/coreActions.js';
+import '../../viewModel/codeCellViewModel.js';
+import '../../../common/notebookContextKeys.js';
 define(
 			de[1960],
 			he([1, 0, 27, 17, 500, 291, 4, 11, 8, 43, 238, 482, 176]),

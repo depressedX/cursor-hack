@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../scalar.js';
+import '../is-message.js';
 define(de[1086], he([1, 0, 429, 524]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

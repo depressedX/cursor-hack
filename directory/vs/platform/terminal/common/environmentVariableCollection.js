@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/platform.js';
+import './environmentVariable.js';
 define(de[1655], he([1, 0, 12, 1654]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$fK = void 0);

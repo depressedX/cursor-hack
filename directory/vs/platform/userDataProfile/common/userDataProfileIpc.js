@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import './userDataProfile.js';
+import '../../../base/common/uriIpc.js';
 define(de[1696], he([1, 0, 6, 3, 129, 1172]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../contrib/search/browser/anythingQuickAccess.js';
+import '../../../../contrib/ui/browser/hooks/useEverythingSearch/utils.js';
+import '../../../../contrib/ui/browser/hooks/useEverythingSearch/utils.js';
+import './toolsV2HandlerRegistryService.js';
+import '../../../search/common/search.js';
+import '../../../../../base/common/path.js';
+import '../../../../contrib/aiFeatureStatusService/browser/aiFeatureStatusService.js';
 define(
 			de[4361],
 			he([1, 0, 124, 33, 3, 22, 5, 25, 721, 819, 819, 398, 186, 54, 287]),

@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../ui/browser/cardModal/cardModal.js';
+import '../../ui/browser/expandingTextArea/expandingTextArea.js';
+import '../../ui/browser/optionSection/optionSection.js';
+import '../../ui/browser/simpleButton/simpleButton.js';
+import '../../ui/browser/inlineTextArea/inlineTextArea.js';
+import '../../../../base/common/uri.js';
+import '../../controlCommon/browser/solid.js';
+import './utils.js';
+import '../../../../base/common/codicons.js';
 define(
 			de[4322],
 			he([1, 0, 2, 2, 2, 13, 4321, 3196, 3206, 147, 695, 9, 36, 1716, 14]),

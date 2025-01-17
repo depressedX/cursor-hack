@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../multiDiffEditor/browser/multiDiffEditorInput.js';
+import '../../../multiDiffEditor/browser/multiDiffSourceResolverService.js';
+import '../../common/notebookDiffEditorInput.js';
+import '../../common/notebookEditorInput.js';
+import '../../../../services/textfile/common/textfiles.js';
 define(
 			de[1319],
 			he([1, 0, 9, 42, 125, 5, 712, 800, 1305, 360, 85]),

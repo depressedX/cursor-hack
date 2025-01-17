@@ -1,3 +1,28 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../../platform/window/electron-sandbox/window.js';
+import '../../../platform/keybinding/common/keybinding.js';
+import '../../../base/browser/browser.js';
+import '../../../platform/files/common/files.js';
+import '../../../editor/common/services/model.js';
+import '../../../editor/common/languages/language.js';
+import '../../../platform/quickinput/common/quickInput.js';
+import '../../../editor/common/services/getIconClasses.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/native/common/native.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/themables.js';
+import '../../../platform/workspace/common/workspace.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../platform/action/common/actionCommonCategories.js';
+import '../../../base/common/keyCodes.js';
+import '../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../base/common/platform.js';
+import '../../../base/browser/dom.js';
+import '../../../platform/window/common/window.js';
+import '../../../css!vs/workbench/electron-sandbox/actions/media/actions.js';
 define(
 			de[3218],
 			he([

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/window/common/window.js';
+import '../../../../base/browser/browser.js';
 define(
 			de[96],
 			he([1, 0, 5, 180, 12, 75, 253, 139]),

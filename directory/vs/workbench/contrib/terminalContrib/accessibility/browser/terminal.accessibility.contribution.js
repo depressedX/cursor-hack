@@ -1,3 +1,33 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../accessibility/browser/accessibleViewActions.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/browser/terminalActions.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import '../../../terminal/common/terminalContextKey.js';
+import './bufferContentTracker.js';
+import './terminalAccessibilityHelp.js';
+import './textAreaSyncAddon.js';
+import '../../../../../editor/common/core/position.js';
+import './terminalAccessibleBufferProvider.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import '../../../../../base/common/event.js';
+import '../../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../common/terminalAccessibilityConfiguration.js';
+import '../common/terminal.accessibility.js';
+import '../../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../../base/common/platform.js';
 define(
 			de[4040],
 			he([

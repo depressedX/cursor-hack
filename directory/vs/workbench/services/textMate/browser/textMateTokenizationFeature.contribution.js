@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './textMateTokenizationFeature.js';
+import './textMateTokenizationFeatureImpl.js';
+import '../../../common/contributions.js';
 define(
 			de[3725],
 			he([1, 0, 20, 841, 3724, 55]),

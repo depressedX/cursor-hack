@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/quickinput/browser/commandsQuickAccess.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './aiSettings.js';
+import '../../../services/aiSettings/browser/aiSettingsService.js';
 define(
 			de[1998],
 			he([1, 0, 58, 27, 11, 31, 43, 679, 45, 1997, 315]),

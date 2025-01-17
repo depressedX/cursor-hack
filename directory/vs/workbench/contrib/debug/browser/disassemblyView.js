@@ -1,3 +1,39 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/pixelRatio.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/uint.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/config/domFontInfo.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/config/fontInfo.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/core/stringBuilder.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../browser/parts/editor/editorPane.js';
+import './callStackEditorContribution.js';
+import './debugIcons.js';
+import '../common/debug.js';
+import '../common/debugModel.js';
+import '../common/debugSource.js';
+import '../common/debugUtils.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[1881],
 			he([

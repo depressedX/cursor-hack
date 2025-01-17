@@ -1,3 +1,27 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/observableInternal/derived.js';
+import '../components/diffEditorSash.js';
+import '../utils.js';
+import '../utils/editorGutter.js';
+import '../../multiDiffEditor/utils.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/lineRange.js';
+import '../../../../common/core/offsetRange.js';
+import '../../../../common/core/range.js';
+import '../../../../common/core/textEdit.js';
+import '../../../../common/diff/rangeMapping.js';
+import '../../../../common/model/textModelText.js';
+import '../../../../../platform/actions/browser/toolbar.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/hover/browser/hover.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[2893],
 			he([

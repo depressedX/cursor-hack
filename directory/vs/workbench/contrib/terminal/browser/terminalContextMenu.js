@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/mouseEvent.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/marshallingIds.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
 define(
 			de[616],
 			he([1, 0, 168, 50, 24, 221, 92]),

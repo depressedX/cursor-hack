@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './accessibilityConfiguration.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import './unfocusedViewDimmingContribution.js';
+import './accessibilityStatus.js';
+import './editorAccessibilityHelp.js';
+import '../../accessibilitySignals/browser/saveAccessibilitySignal.js';
+import '../../accessibilitySignals/browser/openDiffEditorAnnouncement.js';
+import '../../speech/browser/speechAccessibilitySignal.js';
+import '../../../services/accessibility/common/accessibleViewInformationService.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import './accessibleView.js';
+import './accessibleViewContributions.js';
+import './extensionAccesibilityHelp.contribution.js';
 define(
 			de[3863],
 			he([

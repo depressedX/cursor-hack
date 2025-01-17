@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../notebookBrowser.js';
+import './baseCellViewModel.js';
+import '../../common/notebookCommon.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../notebookViewEvents.js';
 define(
 			de[855],
 			he([1, 0, 6, 47, 10, 108, 1959, 70, 42, 155, 65, 990]),

@@ -1,3 +1,10 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/ui/progressbar/progressbar.js';
+import '../../../../../../platform/theme/browser/defaultStyles.js';
+import '../cellPart.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionStateService.js';
 define(
 			de[3475],
 			he([1, 0, 436, 106, 294, 70, 190]),

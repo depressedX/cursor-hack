@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../base/common/async.js';
+import '../../../platform/workspace/common/editSessions.js';
+import '../common/extHost.protocol.js';
 define(
 			de[3348],
 			he([1, 0, 4, 5, 101, 15, 781, 88]),

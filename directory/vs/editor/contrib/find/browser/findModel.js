@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arraysFind.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uint.js';
+import '../../../common/commands/replaceCommand.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/cursorEvents.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/editorCommon.js';
+import '../../../common/model.js';
+import '../../../common/model/textModelSearch.js';
+import './findDecorations.js';
+import './replaceAllCommand.js';
+import './replacePattern.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[547],
 			he([

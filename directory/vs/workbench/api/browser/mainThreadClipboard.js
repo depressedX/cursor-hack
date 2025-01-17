@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../common/extHost.protocol.js';
+import '../../../platform/clipboard/common/clipboardService.js';
+import '../../../platform/tooltipService/common/tooltipService.js';
 define(
 			de[3340],
 			he([1, 0, 101, 88, 121, 308]),

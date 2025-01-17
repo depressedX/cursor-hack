@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import './backgroundCmdKSequence.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './backgroundCmdKGeneration.js';
+import '../../../../base/common/event.js';
+import './backends/hyperModeBackend.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import './backends/coalesceChainBackend.js';
+import './backends/regularCmdKBackend.js';
+import './backends/finetunedInstructionsBackend.js';
+import './backends/cursorMotionBackend.js';
+import './backends/chatAndApplyBackend.js';
 define(
 			de[3990],
 			he([

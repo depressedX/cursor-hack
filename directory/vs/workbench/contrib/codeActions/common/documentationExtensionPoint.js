@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../services/language/common/languageService.js';
 define(de[3397], he([1, 0, 4, 701]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

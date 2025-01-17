@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../editor/contrib/zoneWidget/browser/zoneWidget.js';
+import '../common/debug.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './linkDetector.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../css!vs/workbench/contrib/debug/browser/media/exceptionWidget.js';
 define(
 			de[3579],
 			he([1, 0, 4, 7, 680, 112, 15, 35, 26, 51, 5, 709, 38, 105, 50, 79, 2432]),

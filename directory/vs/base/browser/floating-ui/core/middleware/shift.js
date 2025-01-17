@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../detectOverflow.js';
+import '../utils/getCrossAxis.js';
+import '../utils/getMainAxisFromPlacement.js';
+import '../utils/getSide.js';
+import '../utils/within.js';
 define(
 			de[2209],
 			he([1, 0, 645, 2197, 583, 487, 1125]),

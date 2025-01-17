@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/languages.js';
+import '../../../common/services/getIconClasses.js';
+import '../../../common/services/model.js';
+import '../../../common/languages/language.js';
+import '../../../../nls.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import './suggestWidgetDetails.js';
 define(
 			de[2865],
 			he([

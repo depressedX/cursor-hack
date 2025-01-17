@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/parts/ipc/common/ipc.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/remote/common/remoteAgentConnection.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import './remoteAgentEnvironmentChannel.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/sign/common/sign.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/productService.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../../../platform/remote/common/remoteSocketFactoryService.js';
 define(
 			de[3786],
 			he([1, 0, 3, 305, 78, 604, 211, 3542, 6, 952, 34, 62, 133, 773]),

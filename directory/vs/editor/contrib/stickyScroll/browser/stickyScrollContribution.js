@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import './stickyScrollActions.js';
+import './stickyScrollController.js';
+import '../../../../platform/actions/common/actions.js';
 define(
 			de[3612],
 			he([1, 0, 46, 3611, 1317, 11]),

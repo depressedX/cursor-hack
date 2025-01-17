@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './lexicaReducerServiceImpl.js';
+import './lexicalReducerService.js';
 define(de[3409], he([1, 0, 20, 3408, 1298]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

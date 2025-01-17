@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/strings.js';
+import './ast.js';
+import './length.js';
+import './smallImmutableSet.js';
+import './tokenizer.js';
 define(
 			de[1537],
 			he([1, 0, 37, 658, 492, 657, 915]),

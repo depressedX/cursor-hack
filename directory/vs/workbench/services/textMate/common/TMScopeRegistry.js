@@ -1,3 +1,6 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/resources.js';
 define(de[3674], he([1, 0, 19]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

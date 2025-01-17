@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/workspace/common/editSessions.js';
+import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[1952],
 			he([1, 0, 76, 19, 9, 20, 5, 781, 25]),

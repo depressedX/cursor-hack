@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/uri.js';
+import '../../../common/editor/textResourceEditorInput.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/common/services/model.js';
+import '../../../services/timer/browser/timerService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../codeEditor/browser/toggleWordWrap.js';
+import '../../../../base/common/amd.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../base/common/platform.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../terminal/browser/terminal.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/editor/common/customEditorLabelService.js';
 define(
 			de[1892],
 			he([

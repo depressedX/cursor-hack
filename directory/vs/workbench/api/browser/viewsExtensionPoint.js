@@ -1,3 +1,30 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/strings.js';
+import '../../../nls.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../../../platform/extensions/common/extensions.js';
+import '../../../platform/instantiation/common/descriptors.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/registry/common/platform.js';
+import '../../../base/common/themables.js';
+import '../../browser/panecomposite.js';
+import '../../browser/parts/views/treeView.js';
+import '../../browser/parts/views/viewPaneContainer.js';
+import '../../common/contributions.js';
+import '../../common/views.js';
+import '../../contrib/debug/common/debug.js';
+import '../../contrib/files/common/files.js';
+import '../../contrib/remote/browser/remoteExplorer.js';
+import '../../contrib/scm/common/scm.js';
+import '../../contrib/webviewView/browser/webviewViewPane.js';
+import '../../services/extensions/common/extensions.js';
+import '../../services/extensions/common/extensionsRegistry.js';
+import '../../../platform/log/common/log.js';
+import '../../services/extensionManagement/common/extensionFeatures.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/htmlContent.js';
 define(
 			de[4029],
 			he([

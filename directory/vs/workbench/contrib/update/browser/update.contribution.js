@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import './update.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/product/common/product.js';
+import '../../../../platform/update/common/update.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/labels.js';
+import '../common/update.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/update/common/update.config.contribution.js';
 define(
 		de[3794],
 		he([

@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../common/chatAgents.js';
+import '../../extensions/browser/extensionsActions.js';
+import '../../extensions/browser/extensionsIcons.js';
+import '../../extensions/common/extensions.js';
 define(
 			de[1353],
 			he([1, 0, 7, 182, 33, 14, 6, 3, 23, 26, 9, 4, 153, 404, 466, 141]),

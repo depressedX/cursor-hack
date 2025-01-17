@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../nls.js';
+import './testResultService.js';
+import './testTypes.js';
+import './testingUri.js';
 define(
 			de[3186],
 			he([1, 0, 76, 3, 37, 61, 67, 42, 4, 381, 185, 813]),

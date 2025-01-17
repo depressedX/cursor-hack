@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/stream.js';
+import '../../../../base/parts/ipc/common/ipc.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/ipc/common/mainProcessService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/tunnel/common/tunnel.js';
+import '../browser/webviewElement.js';
+import './windowIgnoreMenuShortcutsManager.js';
+import '../../../services/environment/common/environmentService.js';
 define(
 			de[3281],
 			he([

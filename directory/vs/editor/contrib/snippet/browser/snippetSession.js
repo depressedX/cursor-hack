@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/charCode.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/editOperation.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './snippetParser.js';
+import './snippetVariables.js';
+import '../../../../css!vs/editor/contrib/snippet/browser/snippetSession.js';
 define(
 			de[1691],
 			he([

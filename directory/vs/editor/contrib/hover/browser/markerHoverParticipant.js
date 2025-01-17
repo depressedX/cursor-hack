@@ -1,3 +1,44 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/keybindings.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/resources.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/markerDecorations.js';
+import '../../codeAction/browser/codeAction.js';
+import '../../codeAction/browser/codeActionController.js';
+import '../../codeAction/common/types.js';
+import '../../gotoError/browser/gotoError.js';
+import './hoverTypes.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/markers/common/markerService.js';
+import './renderMarkerHover.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/languages/language.js';
+import '../../../../base/common/uuid.js';
+import '../../../../base/common/constants.js';
+import '../../../../workbench/contrib/composer/browser/composer.js';
+import '../../../../workbench/services/ai/browser/aiMiscServices.js';
+import '../../../../workbench/contrib/composer/browser/constants.js';
+import './utils.js';
+import '../../../../css!vs/editor/contrib/hover/browser/markerHoverParticipant.js';
 define(
 			de[4114],
 			he([

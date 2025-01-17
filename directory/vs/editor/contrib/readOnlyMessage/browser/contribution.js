@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../aiInterfaceAgent/browser/utils.js';
+import '../../message/browser/messageController.js';
+import '../../../../nls.js';
 define(
 			de[2812],
 			he([1, 0, 94, 3, 46, 38, 2696, 440, 4]),

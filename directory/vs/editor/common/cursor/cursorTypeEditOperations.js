@@ -1,3 +1,21 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/strings.js';
+import '../commands/replaceCommand.js';
+import '../commands/shiftCommand.js';
+import '../commands/surroundSelectionCommand.js';
+import '../cursorCommon.js';
+import '../core/wordCharacterClassifier.js';
+import '../core/range.js';
+import '../core/position.js';
+import '../languages/languageConfiguration.js';
+import '../languages/languageConfigurationRegistry.js';
+import '../config/editorOptions.js';
+import '../languages/supports.js';
+import '../languages/autoIndent.js';
+import '../languages/enterAction.js';
 define(
 			de[948],
 			he([

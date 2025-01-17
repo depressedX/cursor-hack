@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../codeEditor/browser/find/simpleFindWidget.js';
+import './webview.js';
 define(
 			de[3212],
 			he([1, 0, 8, 49, 72, 39, 1722, 355]),

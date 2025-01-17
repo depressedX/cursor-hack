@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/assert.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/marshallingIds.js';
+import '../../../../base/common/prefixTree.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './testId.js';
+import './testTypes.js';
 define(
 			de[379],
 			he([1, 0, 229, 33, 103, 221, 743, 5, 259, 185]),

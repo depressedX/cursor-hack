@@ -1,3 +1,23 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dnd.js';
+import '../../../base/browser/window.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/async.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/map.js';
+import '../../../base/common/marshalling.js';
+import '../../../base/common/network.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../dialogs/common/dialogs.js';
+import '../../files/browser/htmlFileSystemProvider.js';
+import '../../files/browser/webFileSystemAccess.js';
+import '../../files/common/files.js';
+import '../../instantiation/common/instantiation.js';
+import '../../opener/common/opener.js';
+import '../../registry/common/platform.js';
 define(
 			de[347],
 			he([

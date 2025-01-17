@@ -1,3 +1,45 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/iterator.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/marshallingIds.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/types.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/list/browser/listService.js';
+import '../../../../../platform/progress/common/progress.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import '../explorerProjections/testItemContextOverlay.js';
+import '../icons.js';
+import '../testMessageColorizer.js';
+import './testResultsSubject.js';
+import '../../common/constants.js';
+import '../../common/testCoverageService.js';
+import '../../common/testExplorerFilterState.js';
+import '../../common/testProfileService.js';
+import '../../common/testResult.js';
+import '../../common/testResultService.js';
+import '../../common/testTypes.js';
+import '../../common/testingContextKeys.js';
+import '../../common/testingStates.js';
+import '../../common/testingUri.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[3843],
 			he([

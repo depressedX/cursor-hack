@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../nls.js';
+import './authenticationAccessService.js';
+import '../common/authentication.js';
+import '../../environment/browser/environmentService.js';
+import '../../extensions/common/extensions.js';
 define(
 			de[830],
 			he([1, 0, 6, 3, 37, 28, 11, 20, 4, 621, 357, 286, 53]),

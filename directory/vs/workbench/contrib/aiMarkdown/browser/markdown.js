@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/constants.js';
+import '../../aiConfig/browser/aiConfigHelper.js';
+import '../../controlCommon/browser/solid.js';
+import '../../aiCpp/browser/cppDebouncingService.js';
+import './markdownData.js';
+import './recognizers/bulletListRecognizer.js';
+import './recognizers/orderedListRecognizer.js';
+import './recognizers/bashResponseRecognizer.js';
+import './recognizers/inlineCodeRecognizer.js';
+import './recognizers/blockCodeRecognizer.js';
+import './recognizers/boldTextRecognizer.js';
+import './recognizers/italicsTextRecognizer.js';
+import './recognizers/citationFootnoteRecognizer.js';
+import './recognizers/trueCitationFootnoteRecognizer.js';
+import './recognizers/citationLinkRecognizer.js';
+import './recognizers/linkRecognizer.js';
+import './recognizers/aiThoughtRecognizer.js';
+import './recognizers/aiToolRecognizer.js';
+import './recognizers/aiToolRawRecognizer.js';
+import './recognizers/removeLineNumberInCodeBlockRecognizer.js';
+import './recognizers/headerRecognizer.js';
+import './recognizers/componentRecognizer.js';
+import './recognizers/sectionRecognizer.js';
+import './recognizers/inlineLatexRecognizer.js';
+import './recognizers/blockLatexRecognizer.js';
+import '../../../../css!vs/workbench/contrib/aiMarkdown/browser/katex.min.js';
+import '../../../../css!vs/workbench/contrib/aiMarkdown/browser/markdown.js';
 define(
 			de[338],
 			he([

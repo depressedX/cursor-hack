@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/observableInternal/base.js';
+import '../../../../browser/editorExtensions.js';
+import '../../../../common/editorContextKeys.js';
+import './commandIds.js';
+import './inlineCompletionContextKeys.js';
+import './inlineCompletionsController.js';
+import '../../../inlineGPT4/browser/inlineGPT4Controller.js';
+import '../../../suggest/browser/suggest.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../workbench/contrib/aiReactiveContextKeys/browser/aiReactiveContextKeys.contribution.js';
+import '../../../../../workbench/services/ai/browser/aiMiscServices.js';
 define(
 			de[1928],
 			he([

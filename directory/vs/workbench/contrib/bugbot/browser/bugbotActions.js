@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageServiceImpl.js';
+import '../../aiServerConfigService/browser/aiServerConfigService.js';
+import './bugbot.js';
 define(
 			de[3225],
 			he([1, 0, 4, 11, 8, 45, 1679, 1009, 976]),

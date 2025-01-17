@@ -1,3 +1,13 @@
+import '../../require.js';
+import '../../exports.js';
+import '../solid/solid.js';
+import './create-draggable.js';
+import './create-droppable.js';
+import './combine-refs.js';
+import './sortable-context.js';
+import './drag-drop-context.js';
+import './layout.js';
+import './style.js';
 define(
 			de[2164],
 			he([1, 0, 13, 2159, 2160, 2152, 1465, 580, 579, 891]),

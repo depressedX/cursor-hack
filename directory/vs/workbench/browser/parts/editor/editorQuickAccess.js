@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../common/editor.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/services/getIconClasses.js';
+import '../../../../base/common/fuzzyScorer.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../css!vs/workbench/browser/parts/editor/media/editorquickaccess.js';
 define(
 			de[1015],
 			he([1, 0, 4, 63, 392, 66, 44, 18, 67, 61, 252, 322, 14, 26, 2341]),

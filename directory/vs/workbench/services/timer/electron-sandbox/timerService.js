@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/native/common/native.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/update/common/update.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../editor/common/editorService.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../browser/timerService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../layout/browser/layoutService.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../panecomposite/browser/panecomposite.js';
 define(
 			de[3739],
 			he([

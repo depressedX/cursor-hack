@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import './bugbotEditorInput.js';
+import './bugbotEditor.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../common/editor.js';
 define(
 			de[4263],
 			he([1, 0, 30, 192, 1719, 4262, 102, 44]),

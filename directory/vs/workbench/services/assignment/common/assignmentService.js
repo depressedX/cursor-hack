@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/memento.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/assignment/common/assignmentService.js';
+import '../../../common/configuration.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/environment/common/environment.js';
 define(
 			de[708],
 			he([1, 0, 4, 5, 282, 32, 21, 20, 10, 62, 30, 2816, 224, 81, 113]),

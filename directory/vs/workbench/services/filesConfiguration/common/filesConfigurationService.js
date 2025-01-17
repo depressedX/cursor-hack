@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/resources.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../base/common/map.js';
+import '../../../common/editor/editorInput.js';
+import '../../../common/editor.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
 define(
 			de[170],
 			he([

@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/event.js';
+import '../../../common/contributions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/labels.js';
+import '../../../../platform/label/common/label.js';
+import '../../extensions/common/extensionsRegistry.js';
+import '../../../../base/common/glob.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../path/common/pathService.js';
+import '../../extensions/common/extensions.js';
+import '../../../../base/common/platform.js';
+import '../../remote/common/remoteAgentService.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/memento.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[3585],
 			he([

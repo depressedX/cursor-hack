@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../composerCapabilities.js';
+import '../composerCapabilitySchemas.js';
+import '../composer.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../composerDataService.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../composerData.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../composerCapabilityDecorators.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../editor/browser/services/inlineDiffService.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/browser/services/inlineDiffServiceUtils.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../services/ai/browser/utils.js';
+import '../../../../services/ai/browser/aiService.js';
+import '../components/ComposerDiffReviewMessage.js';
+import '../../../../../editor/common/core/position.js';
 define(
 			de[4283],
 			he([

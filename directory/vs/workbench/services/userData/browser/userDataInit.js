@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/contributions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../extensions/common/extensions.js';
+import '../../../../base/common/performance.js';
 define(
 			de[1041],
 			he([1, 0, 5, 55, 30, 52, 12, 53, 240]),

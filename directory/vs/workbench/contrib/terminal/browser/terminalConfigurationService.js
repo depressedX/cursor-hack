@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './terminal.js';
+import '../common/terminal.js';
 define(
 			de[3168],
 			he([1, 0, 6, 3, 38, 10, 107, 145]),

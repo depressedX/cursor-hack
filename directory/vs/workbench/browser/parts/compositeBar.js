@@ -1,3 +1,19 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/actions.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../base/browser/ui/actionbar/actionbar.js';
+import './compositeBarActions.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/mouseEvent.js';
+import '../../../platform/contextview/browser/contextView.js';
+import '../../../base/browser/ui/widget.js';
+import '../../../base/common/types.js';
+import '../../../base/common/event.js';
+import '../../common/views.js';
+import '../dnd.js';
+import '../../../base/browser/touch.js';
 define(
 			de[4007],
 			he([1, 0, 4, 50, 5, 105, 1349, 7, 168, 49, 235, 28, 6, 60, 362, 159]),

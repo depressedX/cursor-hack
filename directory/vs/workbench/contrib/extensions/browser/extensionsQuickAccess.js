@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../../nls.js';
+import '../common/extensions.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/log/common/log.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../../../common/views.js';
 define(
 			de[3527],
 			he([1, 0, 392, 4, 141, 119, 40, 34, 142, 60]),

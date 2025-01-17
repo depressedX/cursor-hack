@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/browser/ui/selectBox/selectBox.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/commands/common/commands.js';
+import '../common/debug.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/lifecycle.js';
+import './debugCommands.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import './debugIcons.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../../accessibility/common/accessibilityCommands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[1332],
 			he([

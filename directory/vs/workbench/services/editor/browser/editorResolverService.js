@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../common/editor.js';
+import '../common/editorGroupsService.js';
+import '../../../../base/common/network.js';
+import '../common/editorResolverService.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../nls.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/log/common/log.js';
+import '../common/editorGroupFinder.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/editor/sideBySideEditorInput.js';
+import '../../../../base/common/event.js';
 define(
 			de[3578],
 			he([

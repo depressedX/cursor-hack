@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './renderProjectPane.js';
+import '../../../services/js/browser/jsService.js';
+import './types.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../services/ai/browser/modalService.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../services/cursorAuth/browser/authenticationService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../services/aiSettings/browser/aiSettingsService.js';
+import '../../../services/ai/browser/cursorCredsService.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../base/browser/window.js';
 define(
 			de[4252],
 			he([

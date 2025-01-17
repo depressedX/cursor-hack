@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/browser/dom.js';
+import '../common/scm.js';
+import '../../../../base/browser/ui/countBadge/countBadge.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/actions.js';
+import './util.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../css!vs/workbench/contrib/scm/browser/media/scm.js';
 define(
 			de[1257],
 			he([

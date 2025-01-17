@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/actions.js';
+import '../../../base/common/themables.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/linkedList.js';
+import '../../commands/common/commands.js';
+import '../../contextkey/common/contextkey.js';
+import '../../instantiation/common/instantiation.js';
+import '../../keybinding/common/keybindingsRegistry.js';
 define(
 			de[11],
 			he([1, 0, 50, 26, 6, 3, 273, 31, 8, 5, 43]),

@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/configuration.js';
+import '../../../common/editor/sideBySideEditorInput.js';
+import '../../../services/editor/common/editorResolverService.js';
+import '../../../services/textfile/common/textEditorService.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/files/common/files.js';
+import './settingsFilesystemProvider.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[3886],
 			he([

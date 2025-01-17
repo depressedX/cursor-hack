@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../repositoryService.js';
+import './readFileHelper.js';
+import './toolsV2HandlerRegistryService.js';
 define(
 			de[3644],
 			he([1, 0, 124, 22, 134, 25, 226, 1284, 398]),

@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/extensionManagement/common/extensionEnablementService.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/userDataProfile/common/userDataProfileStorageService.js';
+import '../../../common/views.js';
+import '../common/userDataProfile.js';
 define(
 			de[1902],
 			he([

@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/types.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorOptions.js';
+import '../../../common/editor/textResourceEditorInput.js';
+import '../../../common/editor/textEditorModel.js';
+import '../../../services/untitled/common/untitledTextEditorInput.js';
+import './textCodeEditor.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/model.js';
+import '../../../../platform/files/common/files.js';
 define(
 			de[1917],
 			he([

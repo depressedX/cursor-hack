@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/toggle/toggle.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
 define(
 			de[2946],
 			he([1, 0, 7, 268, 14, 6, 3, 4, 106]),

@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/network.js';
+import '../../../common/services/treeSitterParserService.js';
+import '../../../common/services/model.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/platform.js';
+import '../../../../amdX.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../base/common/amd.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/observableInternal/promise.js';
 define(
 			de[2797],
 			he([

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/charCode.js';
+import '../../../../base/common/strings.js';
+import '../../model.js';
+import './pieceTreeBase.js';
+import './pieceTreeTextBuffer.js';
 define(
 			de[1195],
 			he([1, 0, 120, 37, 64, 1628, 1194]),

@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './chatActions.js';
+import '../chat.js';
+import '../../common/chatAgents.js';
+import '../../common/chatContextKeys.js';
+import '../../common/chatParserTypes.js';
+import '../../common/chatService.js';
 define(
 			de[1047],
 			he([1, 0, 14, 27, 4, 11, 8, 43, 402, 208, 153, 207, 329, 218]),

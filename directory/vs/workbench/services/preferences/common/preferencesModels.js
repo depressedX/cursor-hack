@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/json.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/core/selection.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/editor/editorModel.js';
+import './preferences.js';
+import '../../configuration/common/configuration.js';
+import './preferencesValidation.js';
 define(
 			de[838],
 			he([

@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/resources.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/extensionManagement/common/extensionGalleryService.js';
+import '../../../../base/common/json.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/extensions/common/extensionValidator.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../platform/userDataProfile/common/userDataProfileStorageService.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/uuid.js';
 define(
 			de[1897],
 			he([

@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './errors.js';
+import './utils.js';
+import './hubextensions.js';
+import './idleSpan.js';
+import './sentrySpan.js';
+import './sentryNonRecordingSpan.js';
+import './spanstatus.js';
+import './spanstatus.js';
+import './trace.js';
+import './dynamicSamplingContext.js';
+import './measurement.js';
+import './sampling.js';
+import './logSpans.js';
 define(
 			de[640],
 			he([

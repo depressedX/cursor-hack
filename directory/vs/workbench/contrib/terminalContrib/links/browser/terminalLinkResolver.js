@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './terminalLinkParsing.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/browser/window.js';
 define(
 			de[3160],
 			he([1, 0, 997, 9, 23, 12, 22, 54, 75]),

@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './_asyncNullishCoalesce.js';
+import './_asyncOptionalChain.js';
+import './_asyncOptionalChainDelete.js';
+import './_nullishCoalesce.js';
+import './_optionalChain.js';
+import './_optionalChainDelete.js';
 define(
 			de[2066],
 			he([1, 0, 2064, 1418, 2063, 1419, 1420, 2065]),

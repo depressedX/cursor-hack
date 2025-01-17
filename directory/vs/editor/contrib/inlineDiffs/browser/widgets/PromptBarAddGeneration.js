@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import './MenuPickerWrapper.js';
+import '../../../../../workbench/contrib/ui/browser/menu/hooks.js';
 define(
 			de[4184],
 			he([1, 0, 2, 2, 2, 2, 2, 14, 26, 1976, 364]),

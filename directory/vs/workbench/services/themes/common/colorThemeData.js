@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/json.js';
+import '../../../../base/common/color.js';
+import './workbenchThemeService.js';
+import './themeCompatibility.js';
+import '../../../../nls.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/jsonErrorMessages.js';
+import './plistParser.js';
+import '../../../../platform/theme/common/tokenClassificationRegistry.js';
+import './textMateScopeMatcher.js';
+import '../../../../base/common/charCode.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/theme/common/theme.js';
 define(
 			de[3727],
 			he([

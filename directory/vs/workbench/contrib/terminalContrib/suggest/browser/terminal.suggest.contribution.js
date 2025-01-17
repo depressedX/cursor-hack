@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../nls.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import '../../../../../platform/terminal/common/xterm/shellIntegrationAddon.js';
+import '../../../terminal/browser/terminalActions.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import '../../../terminal/common/terminal.js';
+import '../../../terminal/common/terminalContextKey.js';
+import './terminalSuggestAddon.js';
+import '../common/terminal.suggest.js';
+import '../common/terminalSuggestConfiguration.js';
 define(
 			de[4045],
 			he([

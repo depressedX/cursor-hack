@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../registry/common/platform.js';
+import '../../../base/common/lifecycle.js';
+import '../../keybinding/common/keybinding.js';
+import '../common/quickAccess.js';
+import '../common/quickInput.js';
 define(
 			de[2782],
 			he([1, 0, 4, 30, 3, 39, 348, 63]),

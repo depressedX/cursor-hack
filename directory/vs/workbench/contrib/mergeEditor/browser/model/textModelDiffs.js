@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/lifecycle.js';
+import './mapping.js';
+import './editing.js';
+import './lineRange.js';
+import '../../../../../base/common/controlFlow.js';
+import '../../../../../base/common/observable.js';
 define(
 			de[3079],
 			he([1, 0, 24, 29, 3, 686, 1249, 507, 1132, 77]),

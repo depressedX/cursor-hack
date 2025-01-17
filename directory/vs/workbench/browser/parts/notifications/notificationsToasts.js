@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../common/notifications.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './notificationsList.js';
+import '../../../../base/common/event.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../common/theme.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/scrollable.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/host/browser/host.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/types.js';
+import '../../../common/contextkeys.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/constants.js';
+import '../../../../css!vs/workbench/browser/parts/notifications/media/notificationsToasts.js';
 define(
 			de[3410],
 			he([

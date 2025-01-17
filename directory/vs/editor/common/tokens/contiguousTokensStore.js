@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../core/position.js';
+import './contiguousTokensEditing.js';
+import './lineTokens.js';
+import '../encodedTokenAttributes.js';
 define(
 			de[2574],
 			he([1, 0, 24, 48, 1544, 388, 171]),

@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/bufbuild/connect.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/common/constants.js';
 define(de[1286], he([1, 0, 340, 83, 58]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Q6b = void 0);

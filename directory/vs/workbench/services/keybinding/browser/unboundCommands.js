@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/arrays.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../platform/actions/common/actions.js';
 define(de[1824], he([1, 0, 31, 24, 46, 11]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$pvc = C);

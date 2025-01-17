@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/htmlContent.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../browser/editorBrowser.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/range.js';
+import '../../../../common/languages/language.js';
+import '../../../hover/browser/hoverTypes.js';
+import '../controller/inlineCompletionsController.js';
+import './inlineCompletionsHintsWidget.js';
+import '../../../../browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../../nls.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
 define(
 			de[2929],
 			he([

@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './hoverTypes.js';
+import '../../../../base/common/lifecycle.js';
+import './contentHoverStatusBar.js';
+import '../../../common/model/textModel.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../../base/browser/dom.js';
+import './markdownHoverParticipant.js';
+import '../../colorPicker/browser/colorHoverParticipant.js';
+import '../../../../nls.js';
+import '../../inlayHints/browser/inlayHintsHover.js';
+import '../../../../base/common/errors.js';
 define(
 			de[3605],
 			he([1, 0, 368, 3, 1616, 122, 48, 17, 7, 820, 1218, 4, 1868, 29]),

@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import './debug.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/network.js';
+import './debugUtils.js';
+import '../../../../platform/editor/common/editor.js';
 define(
 			de[826],
 			he([1, 0, 4, 9, 54, 19, 112, 18, 23, 396, 116]),

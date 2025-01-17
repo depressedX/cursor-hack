@@ -1,3 +1,33 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/trustedTypes.js';
+import '../../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/themables.js';
+import '../../../config/domFontInfo.js';
+import '../utils.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/lineRange.js';
+import '../../../../common/core/offsetRange.js';
+import '../../../../common/core/position.js';
+import '../../../../common/core/range.js';
+import '../../../../common/diff/rangeMapping.js';
+import '../../../../common/languages/language.js';
+import '../../../../common/tokens/lineTokens.js';
+import '../../../../common/viewLayout/viewLineRenderer.js';
+import '../../../../common/viewModel.js';
+import '../../../../../nls.js';
+import '../../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../../css!vs/editor/browser/widget/diffEditor/components/accessibleDiffViewer.js';
 define(
 			de[1660],
 			he([

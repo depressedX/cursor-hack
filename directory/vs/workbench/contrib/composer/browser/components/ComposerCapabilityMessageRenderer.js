@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import './ComposerCapabilitiesMessage.js';
+import '../hooks/useComposerDataHandle.js';
 define(
 			de[2008],
 			he([1, 0, 2, 13, 36, 4397, 177]),

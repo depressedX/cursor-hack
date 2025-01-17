@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './getComputedStyle.js';
+import './getParentNode.js';
+import './getWindow.js';
+import './is.js';
+import './node.js';
 define(
 			de[2661],
 			he([1, 0, 662, 1162, 537, 324, 594]),

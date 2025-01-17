@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import './untitledFileWorkingCopy.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/network.js';
+import './workingCopyService.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/log/common/log.js';
+import './workingCopyBackup.js';
+import '../../../../platform/files/common/files.js';
+import './abstractFileWorkingCopyManager.js';
+import '../../../../base/common/map.js';
 define(
 			de[3896],
 			he([1, 0, 3, 9, 1925, 6, 23, 227, 73, 34, 335, 22, 1911, 59]),

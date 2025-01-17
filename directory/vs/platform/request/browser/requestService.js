@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/parts/request/browser/request.js';
+import '../../configuration/common/configuration.js';
+import '../../log/common/log.js';
+import '../common/request.js';
 define(
 			de[2792],
 			he([1, 0, 2228, 10, 34, 327]),

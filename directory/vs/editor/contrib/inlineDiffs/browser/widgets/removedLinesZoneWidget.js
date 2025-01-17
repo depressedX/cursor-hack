@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/constants.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/languages/language.js';
+import '../../../../common/tokens/lineTokens.js';
+import '../../../../common/viewLayout/lineDecorations.js';
+import '../../../../common/viewModel.js';
+import '../../../inlineCompletions/browser/view/ghostTextView.js';
+import '../../../zoneWidget/browser/zoneWidget.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/theme/common/themeService.js';
 define(
 			de[2934],
 			he([1, 0, 58, 38, 61, 388, 533, 290, 947, 680, 10, 35]),

@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/label/common/label.js';
+import '../../../services/views/common/viewsService.js';
+import '../common/constants.js';
+import './searchModel.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import './searchActionsBase.js';
+import '../../../../base/common/platform.js';
 define(
 			de[4165],
 			he([1, 0, 4, 121, 73, 89, 377, 405, 11, 43, 27, 483, 12]),

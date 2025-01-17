@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../protobuf.js';
+import '../code.js';
+import '../connect-error.js';
+import './code-string.js';
 define(
 			de[1089],
 			he([1, 0, 86, 202, 213, 1387]),

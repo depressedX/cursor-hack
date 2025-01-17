@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/files/common/files.js';
+import './terminalRemote.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../base/common/lifecycle.js';
+import '../browser/terminal.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[4038],
 			he([1, 0, 320, 9, 22, 4037, 143, 110, 3, 107, 7]),

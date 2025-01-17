@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../platform/instantiation/common/extensions.js';
+import '../../common/notebookSearch.js';
+import './notebookSearchService.js';
 define(de[3597], he([1, 0, 20, 1749, 3596]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$3Nc = E);

@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../utils/getAlignment.js';
+import '../utils/getLengthFromAxis.js';
+import '../utils/getMainAxisFromPlacement.js';
+import '../utils/getPaddingObject.js';
+import '../utils/within.js';
 define(
 			de[2208],
 			he([1, 0, 582, 1119, 583, 1122, 1125]),

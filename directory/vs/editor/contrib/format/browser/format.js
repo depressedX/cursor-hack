@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/linkedList.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../editorState/browser/editorState.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/editorCommon.js';
+import '../../../common/services/editorWorker.js';
+import '../../../common/services/resolverService.js';
+import './formattingEdit.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
 define(
 			de[674],
 			he([

@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/services/bulkEditService.js';
+import '../../notebook/browser/notebookBrowser.js';
+import '../../notebook/common/notebookCommon.js';
+import '../../notebook/common/notebookEditorModelResolverService.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[572],
 			he([1, 0, 24, 37, 28, 9, 199, 108, 70, 509, 18]),

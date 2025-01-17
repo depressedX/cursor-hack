@@ -1,3 +1,12 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './cookie.js';
+import './debug-build.js';
+import './is.js';
+import './logger.js';
+import './normalize.js';
+import './url.js';
+import './vendor/getIpAddress.js';
 define(
 			de[2083],
 			he([1, 0, 2068, 577, 430, 527, 882, 1427, 2075]),

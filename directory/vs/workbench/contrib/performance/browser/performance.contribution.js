@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../common/contributions.js';
+import '../../../common/editor.js';
+import './perfviewEditor.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/instantiation/common/instantiationService.js';
+import '../../../../base/common/event.js';
+import './inputLatencyContrib.js';
 define(
 			de[3733],
 			he([1, 0, 4, 11, 5, 52, 30, 99, 55, 44, 1892, 18, 1615, 6, 3267]),

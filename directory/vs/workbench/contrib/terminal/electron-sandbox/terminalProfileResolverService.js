@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../browser/terminal.js';
+import '../browser/terminalProfileResolverService.js';
+import '../common/terminal.js';
+import '../../../services/configurationResolver/common/configurationResolver.js';
+import '../../../services/history/common/history.js';
+import '../../../services/remote/common/remoteAgentService.js';
 define(
 			de[3568],
 			he([1, 0, 29, 10, 117, 25, 107, 3566, 145, 358, 245, 143]),

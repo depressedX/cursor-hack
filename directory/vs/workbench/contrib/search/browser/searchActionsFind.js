@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/resources.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import '../common/constants.js';
+import '../../searchEditor/browser/constants.js';
+import './searchModel.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../services/search/common/queryBuilder.js';
+import '../../files/browser/files.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../files/common/files.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../../../../base/common/errors.js';
+import './searchActionsBase.js';
+import '../../../services/configurationResolver/common/configurationResolver.js';
+import '../../../services/history/common/history.js';
+import '../../../../base/common/network.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[1970],
 			he([

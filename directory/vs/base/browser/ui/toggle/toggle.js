@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../actionbar/actionViewItems.js';
+import '../widget.js';
+import '../../../common/codicons.js';
+import '../../../common/themables.js';
+import '../../../common/event.js';
+import '../../../common/keyCodes.js';
+import '../../dom.js';
+import '../hover/hoverDelegateFactory.js';
+import '../hover/hoverDelegate2.js';
+import '../../../../css!vs/base/browser/ui/toggle/toggle.js';
 define(
 			de[268],
 			he([1, 0, 198, 235, 14, 26, 6, 27, 7, 95, 317, 2257]),

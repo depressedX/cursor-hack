@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/themables.js';
+import '../../../base/common/severity.js';
+import '../../../css!vs/platform/severityIcon/browser/media/severityIcon.js';
 define(de[673], he([1, 0, 14, 26, 111, 2330]), function (ce, e, t, i, w) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),

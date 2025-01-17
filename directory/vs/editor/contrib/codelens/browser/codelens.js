@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../common/services/model.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../common/services/languageFeatures.js';
 define(
 			de[1601],
 			he([1, 0, 33, 29, 3, 28, 9, 67, 31, 69]),

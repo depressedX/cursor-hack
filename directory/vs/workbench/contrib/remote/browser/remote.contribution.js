@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/contributions.js';
+import '../../../../platform/registry/common/platform.js';
+import './showCandidate.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import './tunnelFactory.js';
+import './remote.js';
+import './remoteIndicator.js';
+import './remoteExplorer.js';
+import './remoteConnectionHealth.js';
 define(
 			de[4032],
 			he([1, 0, 55, 30, 3590, 52, 3591, 4031, 3634, 1058, 3561]),

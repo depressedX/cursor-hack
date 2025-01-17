@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes2.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../aiDiff/browser/tokenStreamingDiffService.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../services/ai/browser/utils.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../../services/utils/browser/generateImageProtos.js';
+import '../../../../platform/files/common/files.js';
 define(
 			de[1346],
 			he([

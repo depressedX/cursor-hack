@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../magicLink/browser/magicLinkService.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/browser/services/simpleInlineDiffService.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../editor/common/core/position.js';
 define(
 			de[3969],
 			he([1, 0, 124, 42, 241, 17, 545, 90, 25, 31, 48]),

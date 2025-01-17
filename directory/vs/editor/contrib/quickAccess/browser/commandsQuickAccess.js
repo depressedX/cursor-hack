@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/iconLabels.js';
+import '../../../../platform/action/common/action.js';
+import '../../../../platform/quickinput/browser/commandsQuickAccess.js';
 define(de[2900], he([1, 0, 274, 599, 679]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$NMc = void 0);

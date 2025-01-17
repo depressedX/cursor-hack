@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/htmlContent.js';
+import '../../../base/common/map.js';
+import '../../../base/common/mime.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/uuid.js';
+import '../../../platform/extensions/common/extensions.js';
+import '../../../platform/files/common/files.js';
+import '../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../contrib/notebook/common/notebookCommon.js';
 define(
 			de[1028],
 			he([1, 0, 24, 29, 94, 59, 266, 37, 28, 9, 47, 109, 22, 211, 70]),

@@ -1,3 +1,37 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../browser/terminal.js';
+import '../common/terminal.js';
+import '../common/terminalStorageKeys.js';
+import './localPty.js';
+import '../../../services/configurationResolver/common/configurationResolver.js';
+import '../../../services/environment/electron-sandbox/shellEnvironmentService.js';
+import '../../../services/history/common/history.js';
+import '../common/terminalEnvironment.js';
+import '../../../../platform/product/common/productService.js';
+import '../common/environmentVariable.js';
+import '../browser/baseTerminalBackend.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../base/parts/ipc/common/ipc.mp.js';
+import '../../../../base/parts/ipc/electron-sandbox/ipc.mp.js';
+import '../../../../base/parts/ipc/common/ipc.js';
+import '../../../../base/common/performance.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../base/common/async.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../../platform/terminal/common/terminalEnvironment.js';
 define(
 			de[3638],
 			he([

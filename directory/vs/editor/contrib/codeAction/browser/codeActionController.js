@@ -1,3 +1,39 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/core/position.js';
+import '../../../common/editorCommon.js';
+import '../../../common/languages.js';
+import '../../../common/model/textModel.js';
+import '../../../common/services/languageFeatures.js';
+import './codeAction.js';
+import './codeActionKeybindingResolver.js';
+import './codeActionMenu.js';
+import './lightBulbWidget.js';
+import '../../message/browser/messageController.js';
+import '../../../../nls.js';
+import '../../../../platform/actionWidget/browser/actionWidget.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/theme.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/event.js';
+import '../common/types.js';
+import './codeActionModel.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../common/config/editorOptions.js';
 define(
 			de[500],
 			he([

@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/modelService.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../path/common/pathService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[3586],
 			he([1, 0, 67, 960, 125, 10, 20, 155, 165, 5]),

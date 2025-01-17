@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../platform/native/common/native.js';
+import '../../services/editor/common/editorService.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../platform/action/common/actionCommonCategories.js';
+import '../../services/environment/common/environmentService.js';
+import '../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../platform/contextkey/common/contextkeys.js';
+import '../../../base/common/keyCodes.js';
+import '../../../platform/files/common/files.js';
+import '../../services/environment/electron-sandbox/environmentService.js';
+import '../../../base/common/uri.js';
+import '../../../base/browser/dom.js';
 define(
 			de[3290],
 			he([1, 0, 4, 110, 18, 11, 99, 78, 43, 179, 27, 22, 151, 9, 7]),

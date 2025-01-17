@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../constants.js';
+import '../../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/components/ComposerGeneralStatusIndicator.js';
 define(
 			de[565],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 311, 169, 160, 2410]),

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/objects.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/event.js';
 define(
 			de[699],
 			he([1, 0, 4, 28, 82, 175, 8, 6]),

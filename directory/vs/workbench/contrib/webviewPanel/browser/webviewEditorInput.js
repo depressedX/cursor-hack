@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorInput.js';
 define(
 			de[566],
 			he([1, 0, 23, 9, 47, 44, 223]),

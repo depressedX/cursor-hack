@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/observable.js';
+import '../../../../nls.js';
 define(de[443], he([1, 0, 77, 4]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

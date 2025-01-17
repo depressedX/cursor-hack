@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './browser.js';
+import './debug-build.js';
+import './is.js';
+import './logger.js';
+import './string.js';
 define(
 			de[528],
 			he([1, 0, 1429, 577, 430, 527, 881]),

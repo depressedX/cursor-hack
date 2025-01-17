@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/resources.js';
+import '../../aichat/browser/components/InputBoxImage.js';
+import '../../aichat/browser/components/Utils.js';
+import '../../ui/browser/aiInput/aiInput2.js';
+import '../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../ui/browser/aiInput/plugins/mentions/types.js';
+import '../../ui/browser/simpleButton/simpleButton.js';
+import '../../controlCommon/browser/solid.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[4315],
 			he([

@@ -1,3 +1,34 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../platform/action/common/actionCommonCategories.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../services/layout/browser/layoutService.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/platform.js';
+import '../../../platform/contextkey/common/contextkeys.js';
+import '../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../../common/views.js';
+import '../../services/views/common/viewsService.js';
+import '../../../platform/quickinput/common/quickInput.js';
+import '../../../platform/dialogs/common/dialogs.js';
+import '../../services/panecomposite/browser/panecomposite.js';
+import '../parts/auxiliarybar/auxiliaryBarActions.js';
+import '../parts/panel/panelActions.js';
+import '../../../platform/commands/common/commands.js';
+import '../../common/contextkeys.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/themables.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/theme/common/iconRegistry.js';
+import '../../../base/browser/window.js';
+import '../../../platform/keybinding/common/keybinding.js';
+import '../../../platform/window/common/window.js';
+import '../../../base/common/constants.js';
+import '../../services/preferences/common/preferences.js';
 define(
 			de[716],
 			he([

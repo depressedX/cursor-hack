@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import './hooks.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/menu/menu.js';
 define(
 			de[484],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 364, 13, 36, 2, 2521]),

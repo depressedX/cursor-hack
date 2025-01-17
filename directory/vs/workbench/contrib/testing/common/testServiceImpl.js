@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/observable/common/platformObservableUtils.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import './configuration.js';
+import './mainThreadTestCollection.js';
+import './observableValue.js';
+import './storedValue.js';
+import './testExclusions.js';
+import './testId.js';
+import './testingContextKeys.js';
+import './testProfileService.js';
+import './testResultService.js';
+import './testTypes.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[3271],
 			he([

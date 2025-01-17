@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../css!vs/workbench/contrib/aisearch/browser/components/InputBox.js';
 define(
 			de[3001],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 2384]),

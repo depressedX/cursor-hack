@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../../platform/opener/common/opener.js';
+import '../../../platform/product/common/productService.js';
+import '../common/extHost.protocol.js';
+import '../common/extHostWebviewMessaging.js';
+import '../../services/extensions/common/proxyIdentifier.js';
 define(
 			de[831],
 			he([1, 0, 3, 23, 12, 37, 9, 4, 41, 62, 88, 3374, 622]),

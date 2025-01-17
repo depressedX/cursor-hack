@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/constants.js';
+import '../inlineDiffTypes.js';
+import '../../../../../platform/theme/common/theme.js';
+import '../../../../../workbench/contrib/aiConfig/browser/aiConfigHelper.js';
+import '../../../../../css!vs/editor/contrib/inlineDiffs/browser/widgets/inlineDiffWidget.js';
 define(
 			de[2956],
 			he([1, 0, 2, 2, 2, 13, 58, 534, 212, 270, 906]),

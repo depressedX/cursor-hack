@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/assert.js';
+import '../../../../../base/common/types.js';
+import '../../../../../editor/common/core/position.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/core/textLength.js';
+import '../model/mapping.js';
+import '../model/rangeUtils.js';
 define(
 			de[3084],
 			he([1, 0, 24, 229, 28, 48, 17, 458, 686, 1739]),

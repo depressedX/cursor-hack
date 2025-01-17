@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/views.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../output/common/output.js';
+import '../../../../base/common/map.js';
+import '../../../../nls.js';
+import '../../../../base/common/lazy.js';
 define(
 			de[3799],
 			he([

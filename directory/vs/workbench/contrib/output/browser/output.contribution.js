@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './outputServices.js';
+import '../../../services/output/common/output.js';
+import './outputView.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../platform/log/common/log.js';
+import '../../logs/common/defaultLogLevels.js';
 define(
 			de[4028],
 			he([

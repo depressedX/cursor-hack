@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/errorMessage.js';
+import '../../../base/common/event.js';
+import '../../../base/common/hash.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/map.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import '../../contextkey/common/contextkey.js';
+import '../../instantiation/common/instantiation.js';
 define(
 			de[34],
 			he([1, 0, 4, 163, 6, 136, 3, 59, 12, 19, 28, 9, 8, 5]),

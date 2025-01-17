@@ -1,3 +1,47 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/browser/reducerService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../aichat/browser/chatDataService.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../../proto/aiserver/v1/interpreter_pb.js';
+import '../../../services/ai/browser/promptBarService.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../aichat/browser/chatData.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/lifecycle.js';
+import '../../notebook/common/notebookCommon.js';
+import '../../../../base/common/resources.js';
+import '../browser/interpreterPythonIde.js';
+import '../../notebook/common/notebookExecutionService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../notebook/common/notebookKernelService.js';
+import '../browser/interpreterUtils.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../editor/common/services/model.js';
+import '../../../services/ai/browser/utils.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../../proto/aiserver/v1/interpreter_connectweb.js';
+import '../../../services/ai/browser/repositoryService.js';
+import '../../cursoreval/browser/cursorEvalService.js';
+import '../../notebook/common/notebookService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../terminal/browser/terminal.js';
+import '../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../notebook/browser/viewParts/notebookKernelQuickPickStrategy.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/aiAssert/browser/aiAssertService.js';
 define(
 			de[3942],
 			he([

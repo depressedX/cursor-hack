@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/editor/textEditorModel.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../base/common/event.js';
+import '../../workingCopy/common/workingCopyBackup.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../workingCopy/common/workingCopyService.js';
+import '../../workingCopy/common/workingCopy.js';
+import '../../textfile/common/textfiles.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../editor/common/core/wordHelper.js';
+import '../../editor/common/editorService.js';
+import '../../../../base/common/strings.js';
+import '../../textfile/common/encoding.js';
+import '../../../../base/common/buffer.js';
+import '../../languageDetection/common/languageDetectionWorkerService.js';
+import '../../../../platform/accessibility/common/accessibility.js';
 define(
 			de[1339],
 			he([

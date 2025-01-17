@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../nls.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../browser/parts/editor/editorCommands.js';
+import '../../../common/views.js';
+import '../common/userDataProfile.js';
 define(
 			de[1924],
 			he([1, 0, 76, 4, 22, 5, 34, 68, 129, 247, 60, 133]),

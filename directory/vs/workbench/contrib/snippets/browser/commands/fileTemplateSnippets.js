@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../../../../../nls.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import './abstractSnippetsActions.js';
+import '../snippets.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[1289],
 			he([1, 0, 24, 37, 56, 61, 254, 4, 63, 994, 510, 18]),

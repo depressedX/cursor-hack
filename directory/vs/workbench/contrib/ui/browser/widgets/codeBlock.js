@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../codeEditor/browser/menuPreventer.js';
+import '../../../../../editor/contrib/contextmenu/browser/contextmenu.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../platform/tooltipService/common/tooltipService.js';
+import '../../../../../editor/contrib/dropOrPasteInto/browser/copyPasteController.js';
+import '../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../editor/contrib/semanticTokens/browser/viewportSemanticTokens.js';
 define(
 			de[312],
 			he([

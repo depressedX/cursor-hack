@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import './trustedDomainService.js';
+import './trustedDomains.js';
+import '../../../services/editor/common/editorService.js';
 define(
 		de[3279],
 		he([

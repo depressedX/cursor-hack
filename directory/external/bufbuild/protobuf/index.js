@@ -1,3 +1,34 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './proto3.js';
+import './proto2.js';
+import './proto-double.js';
+import './proto-int64.js';
+import './proto-base64.js';
+import './proto-delimited.js';
+import './codegen-info.js';
+import './message.js';
+import './is-message.js';
+import './scalar.js';
+import './extension-accessor.js';
+import './service-type.js';
+import './binary-encoding.js';
+import './create-descriptor-set.js';
+import './create-registry.js';
+import './create-registry-from-desc.js';
+import './to-plain-message.js';
+import './google/protobuf/compiler/plugin_pb.js';
+import './google/protobuf/api_pb.js';
+import './google/protobuf/any_pb.js';
+import './google/protobuf/descriptor_pb.js';
+import './google/protobuf/duration_pb.js';
+import './google/protobuf/empty_pb.js';
+import './google/protobuf/field_mask_pb.js';
+import './google/protobuf/source_context_pb.js';
+import './google/protobuf/struct_pb.js';
+import './google/protobuf/timestamp_pb.js';
+import './google/protobuf/type_pb.js';
+import './google/protobuf/wrappers_pb.js';
 define(
 		de[2043],
 		he([

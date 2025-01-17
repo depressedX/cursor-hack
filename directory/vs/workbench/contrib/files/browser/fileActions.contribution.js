@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import './fileActions.js';
+import './editors/textFileSaveErrorHandler.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/keyCodes.js';
+import './fileCommands.js';
+import './fileConstants.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../common/files.js';
+import '../../../browser/actions/workspaceCommands.js';
+import '../../../browser/parts/editor/editorCommands.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../base/common/network.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
+import './files.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../composer/browser/constants.js';
+import '../../composer/browser/composerContextKeys.js';
 define(
 			de[1993],
 			he([

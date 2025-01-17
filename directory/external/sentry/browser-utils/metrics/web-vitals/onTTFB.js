@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../types.js';
+import './lib/bindReporter.js';
+import './lib/getActivationStart.js';
+import './lib/getNavigationEntry.js';
+import './lib/initMetric.js';
+import './lib/whenActivated.js';
 define(
 			de[2099],
 			he([1, 0, 366, 635, 728, 883, 637, 730]),

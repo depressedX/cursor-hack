@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/map.js';
+import '../../../base/common/uri.js';
+import './mainThreadDocuments.js';
+import '../../contrib/notebook/common/notebookCommon.js';
+import '../../contrib/notebook/common/notebookEditorModelResolverService.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
+import '../common/extHost.protocol.js';
+import './mainThreadNotebookDto.js';
+import '../../services/extensions/common/proxyIdentifier.js';
 define(
 			de[3900],
 			he([1, 0, 3, 59, 9, 1342, 70, 509, 68, 88, 1027, 622]),

@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/extensions.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../terminal/browser/terminalActions.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import '../../../terminal/common/terminalContextKey.js';
+import './quickFix.js';
+import './quickFixAddon.js';
+import './terminalQuickFixBuiltinActions.js';
+import './terminalQuickFixService.js';
+import '../../../../../css!vs/workbench/contrib/terminalContrib/quickFix/browser/media/terminalQuickFix.js';
 define(
 			de[4044],
 			he([

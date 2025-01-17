@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/selection.js';
+import '../../../common/languages.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/progress/common/progress.js';
+import '../common/types.js';
+import './codeAction.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/common/stopwatch.js';
 define(
 			de[1642],
 			he([1, 0, 15, 29, 6, 3, 19, 38, 48, 104, 74, 8, 84, 291, 393, 318, 162]),

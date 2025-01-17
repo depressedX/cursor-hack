@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../core/range.js';
+import '../../core/editorColorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
 define(
 			de[2854],
 			he([1, 0, 6, 3, 17, 307, 35]),

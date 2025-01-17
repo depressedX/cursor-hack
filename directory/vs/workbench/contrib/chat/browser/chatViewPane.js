@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../common/memento.js';
+import '../../../common/theme.js';
+import '../../../common/views.js';
+import './chatWidget.js';
+import '../common/chatAgents.js';
+import '../common/chatParticipantContribTypes.js';
+import '../common/chatModel.js';
+import '../common/chatService.js';
 define(
 			de[4067],
 			he([

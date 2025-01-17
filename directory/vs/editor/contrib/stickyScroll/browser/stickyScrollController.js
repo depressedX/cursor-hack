@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/editorCommon.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/config/editorOptions.js';
+import './stickyScrollWidget.js';
+import './stickyScrollProvider.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/editorContextKeys.js';
+import '../../gotoSymbol/browser/link/clickLinkGesture.js';
+import '../../../common/core/range.js';
+import '../../gotoSymbol/browser/goToSymbol.js';
+import '../../inlayHints/browser/inlayHintsLocations.js';
+import '../../../common/core/position.js';
+import '../../../../base/common/cancellation.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../../base/browser/dom.js';
+import './stickyScrollElement.js';
+import '../../../../base/browser/mouseEvent.js';
+import '../../folding/browser/folding.js';
+import '../../folding/browser/foldingModel.js';
 define(
 			de[1317],
 			he([

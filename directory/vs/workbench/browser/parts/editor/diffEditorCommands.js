@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './textDiffEditor.js';
+import '../../../common/contextkeys.js';
+import '../../../common/editor/diffEditorInput.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[1916],
 			he([1, 0, 27, 19, 9, 125, 4, 11, 8, 43, 1338, 100, 296, 18]),

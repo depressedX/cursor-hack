@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../base/common/uri.js';
+import '../composer.js';
+import '../composerCapabilities.js';
+import '../composerCapabilityDecorators.js';
+import '../composerCapabilitySchemas.js';
+import '../composerData.js';
+import '../composerDataService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../services/ai/browser/repositoryService.js';
+import '../../../../../platform/files/common/files.js';
+import '../utils.js';
+import '../../../../services/selectedContext/browser/selectedContext.js';
 define(
 			de[3922],
 			he([

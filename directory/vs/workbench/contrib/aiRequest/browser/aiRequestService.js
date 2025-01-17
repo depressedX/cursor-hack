@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/bufbuild/connect.js';
+import '../../../../../external/bufbuild/protobuf/google/protobuf/any_pb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[2995],
 			he([1, 0, 340, 875, 83, 3, 42, 204, 20, 5]),

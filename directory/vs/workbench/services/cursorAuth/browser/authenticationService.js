@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/url/common/url.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/buffer.js';
+import '../../ai/browser/cursorCredsService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../proto/aiserver/v1/dashboard_connectweb.js';
+import '../../../../../proto/aiserver/v1/auth_connectweb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../../proto/aiserver/v1/dashboard_pb.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../ai/browser/utils.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/event.js';
+import '../../../../base/browser/window.js';
+import '../../../../../proto/aiserver/v1/auth_pb.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../ai/browser/backendClient.js';
+import '../../../contrib/aiCpp/browser/cppDebouncingService.js';
+import '../../ai/browser/connectRequestService.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/tracing/common/tracing.js';
 define(
 			de[232],
 			he([

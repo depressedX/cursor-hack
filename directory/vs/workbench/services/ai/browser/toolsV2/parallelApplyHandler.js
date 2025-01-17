@@ -1,3 +1,28 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './toolsV2HandlerRegistryService.js';
+import '../../../../contrib/composer/browser/composer.js';
+import '../../../../contrib/composer/browser/composerDataService.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import './errors.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../contrib/composer/browser/composerUtilsService.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../backendClient.js';
+import '../../../../../../proto/aiserver/v1/chat_connectweb.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../utils.js';
+import '../../../../../base/common/uuid.js';
+import '../aiService.js';
+import '../../../../../platform/markers/common/markers.js';
+import './linterErrorHandler.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../textfile/common/textfiles.js';
+import '../../../../contrib/prettyDialog/browser/prettyDialog.js';
 define(
 			de[3978],
 			he([

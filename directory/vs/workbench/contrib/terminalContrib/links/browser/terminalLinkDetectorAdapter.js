@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './links.js';
+import './terminalLink.js';
 define(
 			de[3158],
 			he([1, 0, 6, 3, 4, 5, 513, 3157]),

@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import './notebookCellTextModel.js';
+import '../notebookCommon.js';
+import '../../../../../platform/undoRedo/common/undoRedo.js';
+import './cellEdit.js';
+import '../../../../../base/common/diff/diff.js';
+import '../../../../../base/common/hash.js';
+import './notebookCellOutputTextModel.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../editor/common/model/textModel.js';
+import '../../../../../base/common/types.js';
+import '../../../../services/languageDetection/common/languageDetectionWorkerService.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/model/textModelSearch.js';
 define(
 			de[3479],
 			he([

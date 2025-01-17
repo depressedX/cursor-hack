@@ -1,3 +1,43 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/arraysFind.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/derived.js';
+import '../../editorExtensions.js';
+import '../../services/codeEditorService.js';
+import '../../stableEditorScroll.js';
+import '../codeEditor/codeEditorWidget.js';
+import './components/accessibleDiffViewer.js';
+import './components/diffEditorDecorations.js';
+import './components/diffEditorSash.js';
+import './components/diffEditorViewZones/diffEditorViewZones.js';
+import './features/gutterFeature.js';
+import './features/hideUnchangedRegionsFeature.js';
+import './features/movedBlocksLinesFeature.js';
+import './features/overviewRulerFeature.js';
+import './features/revertButtonsFeature.js';
+import './utils.js';
+import '../../../../base/common/hotReloadHelpers.js';
+import '../../../../platform/observable/common/platformObservableUtils.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/cursorEvents.js';
+import '../../../common/editorCommon.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/progress/common/progress.js';
+import './components/diffEditorEditors.js';
+import './delegatingEditorImpl.js';
+import './diffEditorOptions.js';
+import './diffEditorViewModel.js';
+import '../../../../css!vs/editor/browser/widget/diffEditor/style.js';
 define(
 			de[309],
 			he([

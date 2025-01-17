@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/htmlContent.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../platform/log/common/log.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../chatWidget.js';
+import '../../common/chatVariables.js';
 define(
 			de[1060],
 			he([1, 0, 24, 94, 3, 19, 9, 17, 42, 4, 11, 31, 73, 34, 63, 481, 503]),

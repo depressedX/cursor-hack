@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/fuzzyScorer.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../aiApplyToFileActionsService/browser/aiApplyToFileActionsService.js';
+import '../../aichat/browser/chatData.js';
+import '../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../ui/browser/info.js';
+import '../../controlCommon/browser/solid.js';
+import './commandCodeBlock.js';
+import '../../composer/browser/utils.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/platform.js';
+import '../../ui/browser/AutoCollapseDivGroup.js';
+import '../../ui/browser/menu/hooks.js';
+import '../../ui/browser/menu/menu.js';
+import '../../ui/browser/menu/menuItem.js';
 define(
 		de[1373],
 		he([

@@ -1,3 +1,28 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/arrays.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/observable.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../base/common/types.js';
+import '../../../../config/domFontInfo.js';
+import '../../registrations.contribution.js';
+import '../../diffEditorViewModel.js';
+import './inlineDiffDeletedCodeMargin.js';
+import './renderLines.js';
+import '../../utils.js';
+import '../../../../../common/config/editorOptions.js';
+import '../../../../../common/core/lineRange.js';
+import '../../../../../common/core/position.js';
+import '../../../../../common/editorCommon.js';
+import '../../../../../common/tokenizationTextModelPart.js';
+import '../../../../../common/viewModel.js';
+import '../../../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../common/core/range.js';
 define(
 			de[1216],
 			he([

@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../base/common/filters.js';
+import '../../../../../base/browser/ui/highlightedlabel/highlightedLabel.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/model/textModel.js';
+import './bulkEditPreview.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../nls.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../editor/common/languages/modesRegistry.js';
+import '../../../../../editor/contrib/snippet/browser/snippetParser.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[3486],
 			he([

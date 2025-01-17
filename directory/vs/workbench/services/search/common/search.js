@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/extpath.js';
+import '../../../../base/common/strings.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/errors.js';
+import './searchExtTypes.js';
+import '../../../../base/common/async.js';
 define(
 			de[186],
 			he([1, 0, 24, 215, 82, 249, 37, 5, 54, 29, 1862, 15]),

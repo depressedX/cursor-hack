@@ -1,3 +1,12 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/trustedTypes.js';
+import '../../../../config/domFontInfo.js';
+import '../../../../../common/config/editorOptions.js';
+import '../../../../../common/core/stringBuilder.js';
+import '../../../../../common/viewLayout/lineDecorations.js';
+import '../../../../../common/viewLayout/viewLineRenderer.js';
+import '../../../../../common/viewModel.js';
 define(
 			de[1606],
 			he([1, 0, 432, 321, 38, 462, 533, 598, 290]),

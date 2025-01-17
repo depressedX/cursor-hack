@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/json.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/getIconClasses.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../nls.js';
+import '../../configuration/common/jsonEditing.js';
+import '../../../../base/common/map.js';
 define(
 			de[828],
 			he([1, 0, 24, 6, 187, 3, 252, 22, 20, 5, 25, 63, 67, 61, 4, 423, 59]),

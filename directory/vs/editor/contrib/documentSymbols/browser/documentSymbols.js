@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../common/services/resolverService.js';
+import './outlineModel.js';
+import '../../../../platform/commands/common/commands.js';
 define(
 			de[2740],
 			he([1, 0, 33, 28, 9, 42, 204, 31]),

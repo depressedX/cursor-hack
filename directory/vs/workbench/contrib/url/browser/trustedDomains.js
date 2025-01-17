@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/environment/browser/environmentService.js';
 define(
 			de[1018],
 			he([1, 0, 9, 4, 62, 21, 18, 286]),

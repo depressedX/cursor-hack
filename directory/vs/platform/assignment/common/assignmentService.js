@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../telemetry/common/telemetry.js';
+import '../../telemetry/common/telemetryUtils.js';
+import './assignment.js';
+import '../../../amdX.js';
 define(
 			de[2816],
 			he([1, 0, 32, 269, 2702, 536]),

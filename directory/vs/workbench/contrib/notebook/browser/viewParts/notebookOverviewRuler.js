@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/fastDomNode.js';
+import '../../../../../base/browser/pixelRatio.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../notebookBrowser.js';
 define(
 			de[3504],
 			he([1, 0, 7, 194, 345, 35, 108]),

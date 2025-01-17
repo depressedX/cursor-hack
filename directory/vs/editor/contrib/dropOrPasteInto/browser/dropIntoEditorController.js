@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/dataTransfer.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/dnd.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/treeViewsDnd.js';
+import '../../../common/services/treeViewsDndService.js';
+import '../../editorState/browser/editorState.js';
+import '../../inlineProgress/browser/inlineProgress.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/dnd/browser/dnd.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './edit.js';
+import './postEditWidget.js';
 define(
 			de[962],
 			he([

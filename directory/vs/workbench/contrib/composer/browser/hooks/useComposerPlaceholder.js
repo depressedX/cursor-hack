@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/constants.js';
+import '../constants.js';
+import './useComposerDataHandle.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/hooks/useKeyboardShortcut.js';
 define(
 			de[4183],
 			he([1, 0, 13, 58, 169, 177, 36, 385]),

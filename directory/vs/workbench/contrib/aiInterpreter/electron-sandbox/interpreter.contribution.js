@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './interpreterService.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/constants.js';
+import './interpreterActionService.js';
+import '../browser/interpreterService.js';
+import '../../aichat/browser/chatDataService.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../aichat/browser/aichat.js';
 define(
 			de[3986],
 			he([1, 0, 20, 3942, 11, 58, 3985, 1230, 337, 27, 43, 8, 418]),

@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/event.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../browser/labels.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../base/common/path.js';
+import '../../../../../nls.js';
+import '../../common/chatService.js';
+import '../../../../../platform/opener/common/opener.js';
 define(
 			de[3679],
 			he([1, 0, 7, 3, 6, 5, 233, 9, 22, 17, 54, 4, 218, 41]),

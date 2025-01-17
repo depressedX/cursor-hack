@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/errorMessage.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/stream.js';
+import '../../../base/common/uuid.js';
+import './files.js';
+import './watcher.js';
 define(
 			de[1614],
 			he([1, 0, 76, 163, 29, 6, 3, 408, 47, 22, 938]),

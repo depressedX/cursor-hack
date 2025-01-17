@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../base/common/codiconsLibrary.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../services/userDataProfile/browser/iconSelectBox.js';
 define(
 			de[3752],
 			he([1, 0, 7, 160, 1506, 149, 3, 72, 5, 106, 79, 1896]),

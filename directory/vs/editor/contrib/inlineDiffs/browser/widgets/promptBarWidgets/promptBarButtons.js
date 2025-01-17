@@ -1,3 +1,25 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../workbench/contrib/ui/browser/simpleButton/simpleButton.js';
+import '../../../../../../base/common/constants.js';
+import '../../../../cHintLine/browser/hintLineWidget.js';
+import '../../inlineDiffTypes.js';
+import '../../../../../../workbench/contrib/aichat/browser/components/slowPool/SlowPoolGenerationIndicator.js';
+import '../../../../../../workbench/contrib/aichat/browser/components/Utils.js';
+import '../../../../../../workbench/contrib/aichat/browser/components/slowPool/usagePricingConfirmation.js';
+import '../../../../../../workbench/contrib/controlCommon/browser/solid.js';
+import '../../../../../../workbench/contrib/ui/browser/modelToggle.js';
+import '../../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../../workbench/contrib/ui/browser/hooks/useKeyboardShortcut.js';
+import '../../../../../../css!vs/editor/contrib/inlineDiffs/browser/widgets/promptBarWidgets/promptBarWidgets.js';
 define(
 			de[4250],
 			he([

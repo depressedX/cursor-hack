@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../detectOverflow.js';
+import '../utils/getAlignmentSides.js';
+import '../utils/getExpandedPlacements.js';
+import '../utils/getOppositeAxisPlacements.js';
+import '../utils/getOppositePlacement.js';
+import '../utils/getSide.js';
 define(
 			de[2204],
 			he([1, 0, 645, 1495, 2198, 2202, 1121, 487]),

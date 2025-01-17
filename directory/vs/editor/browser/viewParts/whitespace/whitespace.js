@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../view/dynamicViewOverlay.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/charCode.js';
+import '../../../common/viewLayout/viewLineRenderer.js';
+import '../../../common/core/position.js';
+import '../../../common/core/editorColorRegistry.js';
+import '../../../../css!vs/editor/browser/viewParts/whitespace/whitespace.js';
 define(
 			de[2852],
 			he([1, 0, 591, 38, 37, 120, 598, 48, 307, 2278]),

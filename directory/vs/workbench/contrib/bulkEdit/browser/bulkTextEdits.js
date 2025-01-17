@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/common/services/editorWorker.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../editor/common/model/editStack.js';
+import '../../../../base/common/map.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/browser/services/bulkEditService.js';
+import '../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../../../../editor/contrib/snippet/browser/snippetParser.js';
 define(
 			de[3005],
 			he([1, 0, 3, 188, 17, 42, 200, 155, 780, 59, 67, 199, 254, 389]),

@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/errors.js';
+import '../../../nls.js';
 define(de[2704], he([1, 0, 120, 29, 4]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

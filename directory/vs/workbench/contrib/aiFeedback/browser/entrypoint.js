@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../controlCommon/browser/solid.js';
+import './components/feedbackPane.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/uuid.js';
 define(
 			de[4311],
 			he([1, 0, 2, 36, 4310, 58, 47]),

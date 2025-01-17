@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../fastDomNode.js';
+import '../../globalPointerMoveMonitor.js';
+import './scrollbarArrow.js';
+import './scrollbarVisibilityController.js';
+import '../widget.js';
+import '../../../common/platform.js';
 define(
 			de[1577],
 			he([1, 0, 7, 194, 757, 1166, 2676, 235, 12]),

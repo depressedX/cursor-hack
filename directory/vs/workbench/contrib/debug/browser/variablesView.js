@@ -1,3 +1,44 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/highlightedlabel/highlightedLabel.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/themables.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../common/views.js';
+import './baseDebugView.js';
+import './debugCommands.js';
+import './linkDetector.js';
+import '../common/debug.js';
+import '../common/debugContext.js';
+import '../common/debugModel.js';
+import '../common/debugVisualizers.js';
+import '../../extensions/common/extensions.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/extensions/common/extensions.js';
 define(
 			de[1334],
 			he([

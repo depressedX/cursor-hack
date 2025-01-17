@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/commands/shiftCommand.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/encodedTokenAttributes.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../common/languages/supports/indentRules.js';
+import '../../../common/services/model.js';
+import '../common/indentUtils.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../common/languages/autoIndent.js';
+import '../common/indentation.js';
+import '../../../common/tokens/lineTokens.js';
 define(
 			de[1644],
 			he([

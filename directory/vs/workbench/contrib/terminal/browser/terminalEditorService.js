@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/terminal/common/terminal.js';
+import './terminal.js';
+import './terminalEditorInput.js';
+import './terminalUri.js';
+import '../common/terminalContextKey.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3438],
 			he([1, 0, 6, 3, 9, 8, 116, 5, 117, 107, 833, 690, 237, 66, 18, 52]),

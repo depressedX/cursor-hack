@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../common/hostColorSchemeService.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/types.js';
 define(
 			de[3729],
 			he([1, 0, 6, 110, 20, 3, 1888, 151, 21, 28]),

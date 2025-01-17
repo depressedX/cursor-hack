@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/contrib/folding/browser/folding.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../editor/common/config/editorConfigurationSchema.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[3428],
 			he([1, 0, 3, 350, 4, 30, 55, 81, 602, 52, 53, 10]),

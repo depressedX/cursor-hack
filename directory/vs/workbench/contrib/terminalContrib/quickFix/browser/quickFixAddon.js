@@ -1,3 +1,28 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../nls.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../terminal/browser/xterm/decorationStyles.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../services/extensions/common/extensions.js';
+import '../../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../../platform/actionWidget/browser/actionWidget.js';
+import '../../../../../platform/terminal/common/capabilities/commandDetectionCapability.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../base/common/network.js';
+import './quickFix.js';
+import '../../../../../platform/actionWidget/browser/actionList.js';
+import '../../../../../editor/contrib/codeAction/common/types.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../platform/commands/common/commands.js';
 define(
 			de[3315],
 			he([

@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './simpleCommentEditor.js';
+import '../common/commentContextKeys.js';
+import '../../../../nls.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../common/commentCommandIds.js';
+import '../../../../editor/contrib/toggleTabFocusMode/browser/toggleTabFocusMode.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[1900],
 			he([1, 0, 8, 5, 846, 505, 4, 130, 1238, 1635, 178, 3]),

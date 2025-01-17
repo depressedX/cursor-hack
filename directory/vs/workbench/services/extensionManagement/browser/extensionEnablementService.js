@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../common/extensionManagement.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/extensionManagement/common/extensionEnablementService.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/userDataSync/common/userDataSyncAccount.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../host/browser/host.js';
+import './extensionBisect.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../extensions/common/extensionManifestPropertiesService.js';
+import '../../../../platform/workspace/common/virtualWorkspace.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[4388],
 			he([

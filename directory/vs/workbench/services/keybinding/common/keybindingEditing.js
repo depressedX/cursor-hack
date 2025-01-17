@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/json.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/jsonEdit.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/core/selection.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../textfile/common/textfiles.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../userDataProfile/common/userDataProfile.js';
 define(
 			de[1324],
 			he([

@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../base/common/hash.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../editor/common/config/editorOptions.js';
+import '../../../../../nls.js';
+import '../model/modifiedBaseRange.js';
+import './fixedZoneWidget.js';
 define(
 			de[1740],
 			he([1, 0, 7, 182, 136, 3, 77, 38, 4, 1250, 3083]),

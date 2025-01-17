@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/severity.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/dialogs/common/dialogs.js';
+import '../../../../services/authentication/browser/authenticationAccessService.js';
+import '../../../../services/authentication/browser/authenticationUsageService.js';
+import '../../../../services/authentication/common/authentication.js';
 define(
 		de[3245],
 		he([1, 0, 111, 4, 11, 57, 621, 822, 357]),

@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/ui/progressbar/progressbar.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../editor/browser/widget/diffEditor/diffEditorWidget.js';
+import '../../../../../editor/contrib/hover/browser/diffCodeBlock.js';
+import '../../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../../platform/progress/common/progress.js';
+import './utilities.js';
+import './icons.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../services/progress/browser/progressIndicator.js';
 define(
 			de[4140],
 			he([

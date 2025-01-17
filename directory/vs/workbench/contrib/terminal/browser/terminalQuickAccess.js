@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../../base/common/filters.js';
+import './terminal.js';
+import '../../../../platform/commands/common/commands.js';
+import '../common/terminal.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import './terminalIcons.js';
+import './terminalIcon.js';
+import '../common/terminalStrings.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1802],
 			he([1, 0, 4, 392, 132, 107, 31, 145, 35, 26, 689, 514, 469, 117, 18, 5]),

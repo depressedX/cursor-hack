@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../magicLink/browser/magicLinkService.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../common/toolformerHandlerRegistryService.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/instantiation/common/extensions.js';
+import '../runTestService.js';
 define(
 			de[3980],
 			he([1, 0, 241, 124, 1011, 5, 20, 1887]),

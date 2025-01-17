@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/characterClassifier.js';
+import '../../../common/core/range.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/services/editorWorker.js';
+import '../../../common/services/languageFeatures.js';
+import './format.js';
+import './formattingEdit.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/progress/common/progress.js';
 define(
 			de[1649],
 			he([

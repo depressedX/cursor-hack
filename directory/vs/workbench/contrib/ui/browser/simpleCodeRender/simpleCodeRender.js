@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/config/editorOptions.js';
+import '../../../aichat/browser/components/icons.js';
+import '../widgets/codeBlock.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../editor/common/model.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/simpleCodeRender/simpleCodeRender.js';
 define(
 			de[865],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 26, 9, 38, 502, 312, 36, 64, 2529]),

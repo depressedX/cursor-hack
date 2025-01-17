@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/list/listWidget.js';
+import '../../../../base/common/uri.js';
+import '../../../common/editor.js';
+import '../../../services/editor/common/editorGroupsService.js';
 define(
 			de[1014],
 			he([1, 0, 7, 278, 9, 44, 66]),

@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/standaloneStrings.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import './accessibleViewActions.js';
+import '../../chat/common/chatContextKeys.js';
+import '../../comments/browser/commentsAccessibility.js';
+import '../../comments/common/commentContextKeys.js';
+import '../../files/browser/fileConstants.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import './accessibilityConfiguration.js';
 define(
 			de[1901],
 			he([

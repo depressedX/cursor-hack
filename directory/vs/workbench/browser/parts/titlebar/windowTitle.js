@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/editor.js';
+import '../../../services/environment/browser/environmentService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/labels.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/workspace/common/virtualWorkspace.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[1327],
 			he([

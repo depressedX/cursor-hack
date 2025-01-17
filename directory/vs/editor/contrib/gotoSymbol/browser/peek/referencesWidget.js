@@ -1,3 +1,44 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/sash/sash.js';
+import '../../../../../base/browser/ui/splitview/splitview.js';
+import '../../../../../base/common/color.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/resources.js';
+import '../../../../browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../../common/core/range.js';
+import '../../../../common/editorCommon.js';
+import '../../../../common/model.js';
+import '../../../../common/model/textModel.js';
+import '../../../../common/languages.js';
+import '../../../../common/languages/modesRegistry.js';
+import '../../../../common/services/resolverService.js';
+import './referencesTree.js';
+import '../../../peekView/browser/peekView.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../platform/list/browser/listService.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../referencesModel.js';
+import '../../../documentSymbols/browser/outlineModel.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../workbench/contrib/notebook/browser/viewModel/notebookOutlineEntryFactory.js';
+import '../../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../workbench/contrib/composer/browser/composer.js';
+import '../../../../../workbench/services/selectedContext/browser/selectedContextData.js';
+import '../../../../../workbench/contrib/aichat/browser/codeSelections.js';
+import '../../../../../workbench/services/ai/common/dataScrubbingService.js';
+import '../../../../../workbench/contrib/composer/browser/constants.js';
+import '../../../../../css!vs/editor/contrib/gotoSymbol/browser/peek/referencesWidget.js';
 define(
 			de[3604],
 			he([

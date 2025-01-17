@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/lifecycle.js';
+import './diffElementViewModel.js';
+import './notebookDiffEditorBrowser.js';
+import '../notebookBrowser.js';
+import '../../common/notebookService.js';
+import '../../../../../base/common/themables.js';
+import '../notebookIcons.js';
+import '../../../../../base/browser/keyboardEvent.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
 define(
 			de[3496],
 			he([1, 0, 7, 4, 3, 706, 556, 108, 161, 26, 284, 114, 27, 63]),

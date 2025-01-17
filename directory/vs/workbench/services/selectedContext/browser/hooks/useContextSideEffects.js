@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/uri.js';
+import '../../../../contrib/controlCommon/browser/solid.js';
+import '../../../../contrib/ui/browser/aiInput/plugins/mentions/types.js';
 define(
 			de[2011],
 			he([1, 0, 13, 23, 9, 36, 310]),

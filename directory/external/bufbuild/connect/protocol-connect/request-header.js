@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../protobuf.js';
+import './headers.js';
+import './version.js';
+import './content-type.js';
 define(
 			de[2047],
 			he([1, 0, 86, 574, 1080, 1079]),

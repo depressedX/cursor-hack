@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../common/core/range.js';
+import '../../../base/common/lifecycle.js';
+import '../../common/core/lineRange.js';
+import '../../../base/common/uuid.js';
+import '../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../common/diff/linesDiffComputers.js';
+import '../../common/model.js';
+import './inlineDiffUndoRedoElement.js';
+import '../../../workbench/services/aiContext/browser/aiContext.js';
+import './inlineDiffServiceUtils.js';
+import '../../../base/common/event.js';
 define(
 			de[3235],
 			he([1, 0, 17, 3, 196, 47, 45, 587, 64, 779, 471, 1190, 6]),

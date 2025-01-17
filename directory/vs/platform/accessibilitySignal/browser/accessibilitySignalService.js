@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/cache.js';
+import '../../../base/common/equals.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../../base/common/observable.js';
+import '../../../base/common/observableInternal/utils.js';
+import '../../../nls.js';
+import '../../accessibility/common/accessibility.js';
+import '../../configuration/common/configuration.js';
+import '../../instantiation/common/instantiation.js';
+import '../../observable/common/platformObservableUtils.js';
+import '../../telemetry/common/telemetry.js';
 define(
 			de[184],
 			he([1, 0, 744, 433, 3, 23, 77, 457, 4, 91, 10, 5, 326, 32]),

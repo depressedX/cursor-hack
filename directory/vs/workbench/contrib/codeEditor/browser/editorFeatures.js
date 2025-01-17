@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/editorFeatures.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/contributions.js';
 define(
 			de[3415],
 			he([1, 0, 29, 3, 65, 588, 5, 55]),

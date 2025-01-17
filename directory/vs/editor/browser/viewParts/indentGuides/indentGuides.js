@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../view/dynamicViewOverlay.js';
+import '../../../common/core/editorColorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/types.js';
+import '../../../common/model/guidesTextModelPart.js';
+import '../../../common/textModelGuides.js';
+import '../../../../css!vs/editor/browser/viewParts/indentGuides/indentGuides.js';
 define(
 			de[2848],
 			he([1, 0, 591, 307, 35, 38, 48, 24, 28, 1543, 1150, 2266]),

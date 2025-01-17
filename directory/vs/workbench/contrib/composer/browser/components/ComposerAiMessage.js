@@ -1,3 +1,37 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../composerData.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import './ComposerReferenceComponents.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
+import '../../../aiMarkdown/browser/markdown.js';
+import './ComposerMessageCodeblock.js';
+import './ComposerMessageToolCallPill.js';
+import './ComposerMessageCodePill.js';
+import './ComposerMessageToolCallBlock.js';
+import './ComposerMessageContextPickingCodeBlock.js';
+import '../constants.js';
+import './ComposerMessageAutoContextCodeBlock.js';
+import './ComposerCapabilityMessageRenderer.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../aichat/browser/components/Utils.js';
+import '../hooks/useComposerDataHandle.js';
+import '../../../ui/browser/delayedLoad.js';
+import '../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../platform/tracing/common/tracing.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../hooks/useComposerHoverTooltip.js';
 define(
 			de[4398],
 			he([

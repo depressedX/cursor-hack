@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../ui/browser/widgets/codeBlock.js';
+import '../../../services/selectedContext/browser/selectedContextData.js';
+import '../../../../base/common/codicons.js';
+import '../../../../../proto/aiserver/v1/tools_pb.js';
 define(
 			de[225],
 			he([1, 0, 2, 2, 13, 126, 167, 9, 47, 116, 41, 21, 25, 312, 298, 14, 124]),

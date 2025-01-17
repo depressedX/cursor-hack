@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/actions/browser/toolbar.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../view/cellParts/cellActionView.js';
 define(
 			de[3110],
 			he([1, 0, 7, 3, 173, 11, 49, 5, 801]),

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../nls.js';
+import '../../search/browser/searchModel.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../css!vs/workbench/contrib/searchEditor/browser/media/searchEditor.js';
 define(
 			de[1067],
 			he([1, 0, 24, 17, 4, 405, 85, 908]),

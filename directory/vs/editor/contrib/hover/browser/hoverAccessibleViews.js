@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../common/editorContextKeys.js';
+import './contentHoverController2.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/languages.js';
+import './hoverActionIds.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import './markdownHoverParticipant.js';
 define(
 			de[3608],
 			he([

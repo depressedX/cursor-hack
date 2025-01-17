@@ -1,3 +1,17 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/types.js';
+import '../../../../../../base/browser/touch.js';
+import '../../../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../../platform/theme/common/themeService.js';
+import '../../../../../../platform/hover/browser/hover.js';
 define(
 			de[801],
 			he([1, 0, 7, 28, 159, 95, 182, 26, 92, 11, 49, 39, 35, 72]),

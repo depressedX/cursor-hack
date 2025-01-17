@@ -1,3 +1,7 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/workspace/common/workspace.js';
 define(de[3237], he([1, 0, 42, 25]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$IZc = void 0);

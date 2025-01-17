@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/uuid.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/editor/editorPane.js';
+import '../../webview/browser/webviewWindowDragMonitor.js';
+import './webviewEditorInput.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/host/browser/host.js';
+import '../../../services/layout/browser/layoutService.js';
 define(
 			de[1025],
 			he([

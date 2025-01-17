@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../core/range.js';
+import '../../languages/supports.js';
+import '../../languages/supports/richEditBrackets.js';
+import './bracketPairsTree/bracketPairsTree.js';
 define(
 			de[2693],
 			he([1, 0, 24, 6, 3, 17, 748, 934, 2572]),

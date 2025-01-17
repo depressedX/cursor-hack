@@ -1,3 +1,24 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/keyCodes.js';
+import '../../../../../../base/common/network.js';
+import '../../../../../../base/common/resources.js';
+import '../../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../../editor/common/config/editorOptions.js';
+import '../../../../../../editor/common/editorContextKeys.js';
+import '../../../../../../editor/contrib/find/browser/findController.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './notebookFindWidget.js';
+import '../../controller/coreActions.js';
+import '../../notebookBrowser.js';
+import '../../notebookEditorExtensions.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookContextKeys.js';
+import '../../../../../services/editor/common/editorService.js';
+import '../../../../../../css!vs/workbench/contrib/notebook/browser/contrib/find/media/notebookFind.js';
 define(
 			de[3494],
 			he([

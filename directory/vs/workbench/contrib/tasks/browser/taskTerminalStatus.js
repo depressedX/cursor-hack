@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/severity.js';
+import '../common/problemCollectors.js';
+import '../common/tasks.js';
+import '../common/taskService.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
 define(
 		de[3329],
 		he([1, 0, 4, 14, 3, 111, 1814, 424, 419, 90, 79, 184]),

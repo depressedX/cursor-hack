@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './getAlignment.js';
+import './getLengthFromAxis.js';
+import './getMainAxisFromPlacement.js';
+import './getOppositePlacement.js';
 define(
 			de[1495],
 			he([1, 0, 582, 1119, 583, 1121]),

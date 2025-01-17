@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/htmlContent.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../editorState/browser/editorState.js';
+import '../../../../browser/editorBrowser.js';
+import '../../../../browser/editorExtensions.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/range.js';
+import '../../../../common/languages/language.js';
+import '../../../../common/services/resolverService.js';
+import './clickLinkGesture.js';
+import '../../../peekView/browser/peekView.js';
+import '../../../../../nls.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../goToCommands.js';
+import '../goToSymbol.js';
+import '../../../../common/services/languageFeatures.js';
+import '../../../../common/model/textModel.js';
+import '../../../../../css!vs/editor/contrib/gotoSymbol/browser/link/goToDefinitionAtPosition.js';
 define(
 			de[1037],
 			he([

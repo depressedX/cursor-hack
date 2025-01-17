@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/semver/semver.js';
+import '../../../base/common/types.js';
 define(de[2884], he([1, 0, 82, 464, 28]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

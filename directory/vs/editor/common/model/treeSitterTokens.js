@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../languages.js';
+import '../tokens/lineTokens.js';
+import '../encodedTokenAttributes.js';
+import './tokens.js';
 define(
 			de[2694],
 			he([1, 0, 74, 388, 171, 1176]),

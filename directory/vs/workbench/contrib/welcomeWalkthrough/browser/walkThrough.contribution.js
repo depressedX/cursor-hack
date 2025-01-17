@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import './walkThroughInput.js';
+import './walkThroughPart.js';
+import './walkThroughActions.js';
+import '../common/walkThroughContentProvider.js';
+import './editor/editorWalkThrough.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/editor.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../common/contributions.js';
+import '../../../browser/editor.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
 define(
 			de[3873],
 			he([1, 0, 4, 1277, 1811, 3317, 1276, 3283, 30, 44, 102, 11, 55, 192, 43]),

@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uuid.js';
+import './codeEditorService.js';
+import '../../common/core/range.js';
+import '../../common/model.js';
+import '../../common/services/resolverService.js';
+import '../../../platform/instantiation/common/extensions.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../platform/undoRedo/common/undoRedo.js';
 define(
 			de[545],
 			he([1, 0, 3, 47, 65, 17, 64, 42, 20, 5, 45, 155]),

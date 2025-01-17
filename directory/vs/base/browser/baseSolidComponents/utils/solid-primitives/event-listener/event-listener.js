@@ -1,3 +1,11 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import './eventListener.js';
+import './eventListenerMap.js';
+import './components.js';
+import './eventListenerStack.js';
+import './callbackWrappers.js';
+import './types.js';
 define(
 		de[2213],
 		he([1, 0, 898, 2190, 2212, 2191, 2183, 2184]),

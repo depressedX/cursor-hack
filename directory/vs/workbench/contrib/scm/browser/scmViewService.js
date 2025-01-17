@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../common/scm.js';
+import '../../../../base/common/iterator.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './menus.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/decorators.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/comparers.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/arrays.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/extensions/common/extensions.js';
 define(
 			de[1810],
 			he([1, 0, 3, 6, 258, 103, 5, 3130, 21, 138, 25, 535, 19, 24, 10, 8, 53]),

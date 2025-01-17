@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/actions.js';
+import '../common/extensions.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/arrays.js';
+import './extensionsList.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/browser/mouseEvent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import './extensionsViews.js';
 define(
 			de[4297],
 			he([

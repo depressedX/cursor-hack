@@ -1,3 +1,26 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../aichat/browser/components/Utils.js';
+import '../ComposerGeneralStatusIndicator.js';
+import '../ComposerToolbarSimpleButton.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../ui/browser/badge/badge.js';
+import '../../../../ui/browser/loadingSpinner/loadingSpinner.js';
+import '../../../../ui/browser/scrollableDiv.js';
+import '../../../../ui/browser/simpleCodeRender/simpleCodeRender.js';
+import './ComposerToolCallBlockContainer.js';
+import '../../../../../../platform/tracing/common/tracing.js';
+import '../../../../../../css!vs/workbench/contrib/composer/browser/components/toolCalls/ComposerTerminalToolCallBlock.js';
 define(
 			de[4342],
 			he([

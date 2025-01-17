@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../editorBrowser.js';
+import '../../view/viewPart.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../base/browser/dom.js';
+import '../../../../css!vs/editor/browser/viewParts/overlayWidgets/overlayWidgets.js';
 define(
 			de[2716],
 			he([1, 0, 194, 56, 303, 38, 7, 2273]),

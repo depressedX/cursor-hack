@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../services/host/browser/host.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../browser/parts/titlebar/titlebarPart.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/window/common/window.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import './menubarControl.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/browser/window.js';
 define(
 			de[4053],
 			he([

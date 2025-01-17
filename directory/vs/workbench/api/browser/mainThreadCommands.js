@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/marshalling.js';
+import '../../../platform/commands/common/commands.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/extensions/common/extensions.js';
+import '../../services/extensions/common/proxyIdentifier.js';
+import '../common/extHost.protocol.js';
+import '../../../base/common/types.js';
 define(
 			de[3341],
 			he([1, 0, 3, 197, 31, 101, 53, 622, 88, 28]),

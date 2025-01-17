@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/window.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/linkedList.js';
+import '../../../base/common/map.js';
+import '../../../base/common/marshalling.js';
+import '../../../base/common/network.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
+import './codeEditorService.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../platform/editor/common/editor.js';
+import '../../../platform/opener/common/opener.js';
 define(
 			de[2745],
 			he([1, 0, 7, 75, 33, 273, 59, 197, 23, 19, 9, 65, 31, 116, 41]),

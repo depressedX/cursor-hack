@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../assert.js';
+import '../equals.js';
+import '../lifecycle.js';
+import './base.js';
+import './debugName.js';
+import './logging.js';
 define(
 			de[319],
 			he([1, 0, 229, 433, 3, 407, 648, 742]),

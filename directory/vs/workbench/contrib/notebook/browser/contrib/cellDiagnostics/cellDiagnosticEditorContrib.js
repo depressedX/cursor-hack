@@ -1,3 +1,15 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../platform/markers/common/markers.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../common/notebookCommon.js';
+import '../../notebookEditorExtensions.js';
+import '../../../../../../base/common/iterator.js';
+import '../../viewModel/codeCellViewModel.js';
+import '../../../../../../base/common/event.js';
+import '../../../../chat/common/chatAgents.js';
 define(
 			de[4092],
 			he([1, 0, 3, 90, 190, 10, 70, 330, 103, 482, 6, 153]),

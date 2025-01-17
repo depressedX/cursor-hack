@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './multiEditorTabsControl.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/editor/filteredEditorGroupModel.js';
 define(
 			de[4009],
 			he([1, 0, 7, 5, 1935, 3, 1700]),

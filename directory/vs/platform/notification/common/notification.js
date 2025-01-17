@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/severity.js';
+import '../../instantiation/common/instantiation.js';
 define(de[40], he([1, 0, 6, 111, 5]), function (ce, e, t, i, w) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),

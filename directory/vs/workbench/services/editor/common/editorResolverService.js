@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../../nls.js';
+import '../../../common/configuration.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/registry/common/platform.js';
 define(
 			de[231],
 			he([1, 0, 215, 23, 54, 19, 4, 224, 81, 5, 30]),

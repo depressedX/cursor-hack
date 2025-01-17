@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../common/issue.js';
+import '../common/issue.contribution.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/quickinput/common/quickAccess.js';
+import '../browser/issueQuickAccess.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './issueService.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import './nativeIssueFormService.js';
+import './issueMainService.js';
+import '../browser/issueTroubleshoot.js';
 define(
 			de[3755],
 			he([

@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../editor.js';
+import './editorInput.js';
+import './sideBySideEditorInput.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/registry/common/platform.js';
+import '../../../base/common/arrays.js';
 define(
 			de[1287],
 			he([1, 0, 6, 44, 223, 313, 5, 10, 3, 30, 24]),

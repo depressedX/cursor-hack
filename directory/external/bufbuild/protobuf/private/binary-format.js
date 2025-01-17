@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../binary-encoding.js';
+import './field-wrapper.js';
+import './scalars.js';
+import './assert.js';
+import './reflect.js';
+import '../scalar.js';
+import '../is-message.js';
 define(
 			de[2034],
 			he([1, 0, 1085, 1086, 526, 451, 1399, 429, 524]),

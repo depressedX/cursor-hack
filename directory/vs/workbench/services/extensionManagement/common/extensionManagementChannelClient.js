@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/extensionManagement/common/extensionManagementIpc.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/strings.js';
 define(
 			de[1808],
 			he([1, 0, 109, 2786, 6, 24, 37]),

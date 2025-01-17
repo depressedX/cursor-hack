@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../nls.js';
+import './searchModel.js';
+import '../../../services/search/common/search.js';
 define(de[483], he([1, 0, 7, 4, 405, 186]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

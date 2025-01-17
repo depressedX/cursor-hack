@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './multiFileHighlightWidget.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../inlineDiffs/browser/utils.js';
 define(
 			de[2860],
 			he([1, 0, 46, 3, 5, 2859, 45, 1554]),

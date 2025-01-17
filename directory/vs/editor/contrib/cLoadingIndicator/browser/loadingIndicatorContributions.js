@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lazy.js';
+import './loadingIndicatorWidget.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[2858],
 			he([1, 0, 3, 5, 149, 2857, 45, 8]),

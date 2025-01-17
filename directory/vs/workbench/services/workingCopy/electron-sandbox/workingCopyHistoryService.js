@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../common/workingCopyHistoryService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../common/workingCopyHistory.js';
 define(de[3917], he([1, 0, 3914, 20, 717]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

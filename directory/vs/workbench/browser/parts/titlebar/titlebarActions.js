@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/activity.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/window/common/window.js';
 define(
 			de[3403],
 			he([1, 0, 4, 10, 21, 96, 11, 8, 968, 100, 253]),

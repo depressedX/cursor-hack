@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './extensionRecommendations.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../services/extensionRecommendations/common/extensionRecommendations.js';
+import '../../../../base/common/platform.js';
 define(
 			de[3298],
 			he([1, 0, 553, 62, 314, 12]),

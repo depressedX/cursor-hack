@@ -1,3 +1,7 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/ui/hover/hoverDelegate2.js';
+import '../../../../../../external/solid/solid.js';
 define(de[422], he([1, 0, 317, 13]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$z$b = w);

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/editorFeatures.js';
+import '../../../common/services/editorWorker.js';
 define(
 		de[1599],
 		he([1, 0, 97, 3, 69, 588, 200]),

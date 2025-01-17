@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/event.js';
+import '../../../base/common/iterator.js';
+import '../../../base/common/map.js';
+import '../../../base/common/network.js';
+import '../../../base/common/uri.js';
+import './markers.js';
 define(
 			de[667],
 			he([1, 0, 24, 6, 103, 59, 23, 9, 90]),

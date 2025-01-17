@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../common/core/lineRange.js';
+import '../../../../common/core/offsetRange.js';
 define(
 			de[2690],
 			he([1, 0, 7, 3, 77, 196, 289]),

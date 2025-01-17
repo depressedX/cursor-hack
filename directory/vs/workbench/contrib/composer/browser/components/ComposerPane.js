@@ -1,3 +1,37 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../common/theme.js';
+import './ComposerBelowChatHistory.js';
+import './ComposerFullInputBox.js';
+import './ComposerHistory.js';
+import './ComposerMessages.js';
+import './ComposerToolbar.js';
+import '../hooks/useComposerDataHandle.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/hooks/useThemeHooks.js';
+import '../../../../../platform/tracing/common/tracing.js';
+import '../../../ui/browser/delayedLoad.js';
+import './ComposerToolbarSimpleButton.js';
+import '../../../../../base/common/codicons.js';
+import '../constants.js';
+import '../../../../../base/common/constants.js';
+import '../../../ui/browser/hooks/useMeasureWidthHeight.js';
+import '../../../../../base/common/actions.js';
+import '../hooks/useComposerChatStatus.js';
+import './ComposerGeneralStatusIndicator.js';
+import '../../../../../base/browser/floating-ui/core/utils/within.js';
+import '../../../../../base/browser/floating-ui/dom/utils/getBoundingClientRect.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/components/ComposerPane.js';
 define(
 			de[4413],
 			he([

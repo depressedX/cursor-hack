@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../aiMarkdown/browser/useMarkdownHover.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
 define(
 			de[4275],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 694, 36, 147]),

@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/list/list.js';
+import '../../../../base/browser/ui/list/listView.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/codicons.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../common/views.js';
+import './baseDebugView.js';
+import './debugIcons.js';
+import './linkDetector.js';
+import './variablesView.js';
+import '../common/debug.js';
+import '../common/debugModel.js';
 define(
 			de[3829],
 			he([

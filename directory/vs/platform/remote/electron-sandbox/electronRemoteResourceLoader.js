@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/mime.js';
+import '../../../base/common/network.js';
+import '../../../base/common/uri.js';
+import '../../files/common/files.js';
+import '../../ipc/common/mainProcessService.js';
+import '../common/electronRemoteResources.js';
 define(
 			de[2787],
 			he([1, 0, 76, 3, 266, 23, 9, 22, 371, 2783]),

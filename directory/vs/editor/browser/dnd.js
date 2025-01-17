@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/browser/dnd.js';
+import '../../base/common/dataTransfer.js';
+import '../../base/common/mime.js';
+import '../../base/common/uri.js';
+import '../../platform/dnd/browser/dnd.js';
 define(
 			de[1197],
 			he([1, 0, 323, 489, 266, 9, 347]),

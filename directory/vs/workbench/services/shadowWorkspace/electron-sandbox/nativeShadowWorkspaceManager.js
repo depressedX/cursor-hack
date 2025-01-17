@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../workspaces/common/workspaceEditing.js';
+import '../../../../platform/product/common/productService.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../common/shadowWorkspaceService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/files/common/files.js';
+import '../../workspaces/browser/workspaces.js';
 define(
 			de[1950],
 			he([

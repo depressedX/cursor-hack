@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/log/common/log.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/tunnel/common/tunnel.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/remote/common/sharedProcessTunnelService.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[3744],
 			he([1, 0, 34, 78, 20, 374, 3, 1637, 52, 211, 5, 151, 12, 10]),

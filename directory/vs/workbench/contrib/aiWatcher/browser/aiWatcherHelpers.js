@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/cppUtils/diff/line.js';
 define(de[975], he([1, 0, 17, 3, 901]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

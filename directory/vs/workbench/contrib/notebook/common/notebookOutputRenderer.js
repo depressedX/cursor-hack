@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/resources.js';
+import './notebookCommon.js';
 define(
 			de[3505],
 			he([1, 0, 215, 103, 19, 70]),

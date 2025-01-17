@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/comparers.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../labels.js';
+import './breadcrumbs.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../nls.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../css!vs/workbench/browser/parts/editor/media/breadcrumbscontrol.js';
 define(
 			de[3678],
 			he([

@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../common/contextkeys.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import './debugActionViewItems.js';
+import './debugCommands.js';
+import './debugIcons.js';
+import './debugToolBar.js';
+import './welcomeView.js';
+import '../common/debug.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../css!vs/workbench/contrib/debug/browser/media/debugViewlet.js';
 define(
 			de[1943],
 			he([

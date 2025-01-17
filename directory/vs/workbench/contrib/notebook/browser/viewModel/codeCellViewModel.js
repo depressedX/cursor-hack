@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../editor/common/model/prefixSumComputer.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/undoRedo/common/undoRedo.js';
+import '../notebookBrowser.js';
+import './cellOutputViewModel.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookService.js';
+import './baseCellViewModel.js';
 define(
 			de[482],
 			he([

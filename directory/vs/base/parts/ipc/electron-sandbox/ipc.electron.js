@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/buffer.js';
+import '../../../common/event.js';
+import '../common/ipc.js';
+import '../common/ipc.electron.js';
+import '../../sandbox/electron-sandbox/globals.js';
 define(
 			de[2688],
 			he([1, 0, 76, 6, 305, 2227, 320]),

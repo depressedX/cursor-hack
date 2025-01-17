@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/date.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[3219],
 			he([1, 0, 4, 275, 12, 121, 57, 34, 110, 62, 320, 7]),

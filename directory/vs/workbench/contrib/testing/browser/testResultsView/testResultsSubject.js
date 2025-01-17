@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/marshallingIds.js';
+import '../../../../../editor/common/core/range.js';
+import '../../common/testId.js';
+import '../../common/testTypes.js';
+import '../../common/testingUri.js';
 define(
 			de[1002],
 			he([1, 0, 221, 17, 259, 185, 813]),

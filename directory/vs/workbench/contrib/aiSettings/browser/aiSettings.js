@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/aiSettings/browser/aiSettingsService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../services/editor/common/editorService.js';
+import './aiSettingsEditor.js';
 define(
 			de[1997],
 			he([1, 0, 5, 315, 3, 30, 55, 52, 8, 41, 18, 1383]),

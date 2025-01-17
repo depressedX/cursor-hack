@@ -1,3 +1,22 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/common/constants.js';
+import '../../chatData.js';
+import '../InEditorTopBar.js';
+import './PremiumChatList.js';
+import '../../hooks/useCurrentTab.js';
+import '../../../../controlCommon/browser/solid.js';
+import './PremiumChatHistory.js';
+import '../../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../ui/browser/dropdown/dropdown.js';
+import '../../../../ui/browser/hooks/useKeyboardShortcut.js';
+import './PremiumPinnedContextContainer.js';
+import './PremiumInputBox.js';
 define(
 			de[4404],
 			he([

@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/common/labels.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/functional.js';
+import '../../../../base/parts/contextmenu/electron-sandbox/contextmenu.js';
+import '../../../../platform/window/common/window.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextview/browser/contextMenuService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/iconLabels.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/browser/ui/contextview/contextview.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3253],
 			he([

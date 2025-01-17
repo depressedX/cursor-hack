@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/editorContextKeys.js';
+import './markerNavigationService.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import './gotoErrorWidget.js';
+import '../../../../base/common/constants.js';
 define(
 			de[857],
 			he([

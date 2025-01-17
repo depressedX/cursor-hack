@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../services/ai/browser/modalService.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './entrypoint.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../../proto/aiserver/v1/uploadserver_pb.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/dom.js';
+import '../../aiCpp/browser/cppDebouncingService.js';
+import '../../../../../external/bufbuild/connect.js';
 define(
 			de[4125],
 			he([1, 0, 3, 8, 3, 20, 445, 180, 5, 45, 4124, 118, 735, 7, 7, 551, 340]),

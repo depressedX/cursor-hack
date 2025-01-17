@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/environment/common/environment.js';
+import '../../../platform/product/common/productService.js';
+import '../../../platform/telemetry/common/telemetry.js';
+import '../../../platform/telemetry/common/telemetryUtils.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../common/extHost.protocol.js';
 define(
 			de[3370],
 			he([1, 0, 3, 10, 113, 62, 32, 269, 101, 88]),

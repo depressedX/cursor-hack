@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import './chatViewModel.js';
+import './annotations.js';
 define(
 			de[3016],
 			he([1, 0, 3, 59, 23, 9, 17, 61, 64, 42, 283, 982]),

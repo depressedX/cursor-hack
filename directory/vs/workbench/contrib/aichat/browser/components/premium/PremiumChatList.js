@@ -1,3 +1,31 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../editor/common/config/editorOptions.js';
+import '../CodeInterpreterBubble.js';
+import '../../utils.js';
+import '../../../../composer/browser/hooks/useAutoVerticalScroll.js';
+import '../../../../ui/browser/widgets/codeBlock.js';
+import '../../../../ui/browser/scrollableDiv.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../chatData.js';
+import './PremiumAiBubble.js';
+import './PremiumUserBubble.js';
+import '../../hooks/useCurrentTab.js';
+import '../../../../ui/browser/hooks/useKeyboardShortcut.js';
+import '../../chatData.js';
+import '../../hooks/useIsTabExecuting.js';
+import '../../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../../../base/common/constants.js';
+import '../../../../../../base/common/platform.js';
 define(
 			de[4403],
 			he([

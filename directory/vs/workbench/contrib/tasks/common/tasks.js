@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/objects.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './taskDefinitionRegistry.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[424],
 			he([1, 0, 4, 28, 19, 82, 8, 699, 10]),

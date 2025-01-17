@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/editorContextKeys.js';
+import '../../../browser/editorExtensions.js';
+import './inlineGPT4Controller.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './cancel/renderInlineGPT4CancelVZ.js';
+import '../../../../css!vs/editor/contrib/inlineGPT4/browser/inlineGPT4Widget.js';
 define(
 			de[3934],
 			he([1, 0, 71, 46, 1344, 27, 43, 1595, 2310]),

@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/languagePacks/common/languagePacks.js';
+import '../../../services/localization/common/locale.js';
+import '../../extensions/common/extensions.js';
 define(
 			de[3457],
 			he([1, 0, 4, 63, 33, 3, 11, 672, 704, 141]),

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../view/dynamicViewOverlay.js';
+import '../../view/renderingContext.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../../css!vs/editor/browser/viewParts/decorations/decorations.js';
 define(
 			de[2715],
 			he([1, 0, 591, 746, 38, 17, 2264]),

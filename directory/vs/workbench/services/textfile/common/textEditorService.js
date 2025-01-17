@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/editor.js';
+import '../../untitled/common/untitledTextEditorService.js';
+import '../../../../base/common/network.js';
+import '../../../common/editor/diffEditorInput.js';
+import '../../../common/editor/sideBySideEditorInput.js';
+import '../../../common/editor/textResourceEditorInput.js';
+import '../../untitled/common/untitledTextEditorInput.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/files/common/files.js';
+import '../../editor/common/editorResolverService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[719],
 			he([

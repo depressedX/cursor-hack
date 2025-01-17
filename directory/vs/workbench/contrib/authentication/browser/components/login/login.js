@@ -1,3 +1,15 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../css!vs/workbench/contrib/authentication/browser/components/login/login.js';
 define(
 			de[1987],
 			he([1, 0, 2, 2, 2, 2, 13, 14, 79, 147, 36, 2385]),

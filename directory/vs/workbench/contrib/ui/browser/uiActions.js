@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../platform/actions/common/actions.js';
+import '../common/constants.js';
+import './aiEditorBox/aiEditorCodeBlock.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/opener/common/opener.js';
 define(
 			de[4357],
 			he([1, 0, 65, 48, 11, 1780, 1369, 41, 69, 33, 41]),

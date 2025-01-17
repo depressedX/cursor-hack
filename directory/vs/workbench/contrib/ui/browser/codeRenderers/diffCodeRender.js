@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/browser/widget/diffEditor/diffEditorWidget.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/codeRenderers/diffCodeRender.js';
 define(
 			de[4180],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 9, 309, 36, 27, 2513]),

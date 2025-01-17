@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uri.js';
+import '../../../platform/terminal/common/capabilities/capabilities.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/terminal/browser/terminal.js';
+import '../../services/environment/common/environmentService.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../common/extHostTypes.js';
 define(
 			de[3465],
 			he([1, 0, 6, 3, 9, 189, 88, 107, 78, 101, 1028]),

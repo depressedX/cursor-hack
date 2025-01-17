@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/types.js';
+import './debug.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/configurationResolver/common/configurationResolver.js';
+import '../../../services/configurationResolver/common/configurationResolverUtils.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/network.js';
+import './debugUtils.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/objects.js';
 define(
 			de[3280],
 			he([1, 0, 4, 28, 112, 10, 358, 1796, 125, 9, 23, 396, 269, 78, 8, 82]),

@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './constants.js';
+import './notepad.js';
+import './notepadData.js';
 define(
 			de[3618],
 			he([1, 0, 3, 20, 21, 25, 558, 467, 1870]),

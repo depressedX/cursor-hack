@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/keyboardEvent.js';
+import '../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../base/browser/ui/dropdown/dropdownActionViewItem.js';
+import '../../../base/common/keyCodes.js';
+import './menuEntryActionViewItem.js';
+import '../../contextkey/common/contextkey.js';
+import '../../keybinding/common/keybinding.js';
+import '../../notification/common/notification.js';
+import '../../theme/common/themeService.js';
+import '../../accessibility/common/accessibility.js';
 define(
 			de[607],
 			he([1, 0, 7, 114, 198, 437, 27, 92, 8, 39, 40, 35, 91]),

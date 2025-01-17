@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/objects.js';
+import '../../services/codeEditorService.js';
+import './codeEditorWidget.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/tooltipService/common/tooltipService.js';
 define(
 			de[281],
 			he([1, 0, 82, 65, 206, 152, 69, 91, 31, 8, 5, 40, 35, 308]),

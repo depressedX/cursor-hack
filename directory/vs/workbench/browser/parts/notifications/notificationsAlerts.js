@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../nls.js';
+import '../../../common/notifications.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/event.js';
 define(
 			de[2949],
 			he([1, 0, 127, 4, 610, 3, 163, 40, 6]),

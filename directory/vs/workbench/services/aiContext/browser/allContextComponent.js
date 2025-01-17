@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/types.js';
+import '../../../contrib/aichat/browser/components/InputBoxSelectionContainer.js';
+import '../../../contrib/ui/browser/scrollableDiv.js';
+import '../../../contrib/controlCommon/browser/solid.js';
 define(
 			de[4365],
 			he([1, 0, 2, 2, 2, 13, 228, 54, 28, 1365, 135, 36]),

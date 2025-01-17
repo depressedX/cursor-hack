@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/network.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/remote/common/remoteAgentConnection.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../services/dialogs/browser/simpleFileDialog.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 			de[3582],
 			he([

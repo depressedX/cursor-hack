@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import './telemStartupService.js';
+import '../../aiWatcher/electron-sandbox/aiWatcherService.js';
+import './cppService.js';
+import '../../aiCursorPrediction/electron-sandbox/cursorPredictionService.js';
+import '../../aiImportPrediction/electron-sandbox/importPredictionService.js';
+import './telemService.js';
+import '../../../../css!vs/workbench/contrib/aiCpp/electron-sandbox/cpp.js';
+import '../../aiDiff/browser/tokenStreamingDiffService.js';
+import './cppActions.js';
 define(
 			de[4188],
 			he([

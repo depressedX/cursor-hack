@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/common/editorContextKeys.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../../../../../nls.js';
+import '../../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './abstractSnippetsActions.js';
+import '../snippetPicker.js';
+import '../snippets.js';
+import '../snippetsFile.js';
 define(
 			de[3137],
 			he([1, 0, 71, 61, 254, 4, 121, 5, 994, 1753, 510, 805]),

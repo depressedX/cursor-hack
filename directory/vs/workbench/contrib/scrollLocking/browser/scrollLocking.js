@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../browser/parts/editor/sideBySideEditor.js';
+import '../../../common/editor.js';
+import '../../../../base/common/controlFlow.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/statusbar/browser/statusbar.js';
 define(
 			de[3635],
 			he([1, 0, 3, 4, 99, 11, 39, 825, 44, 1132, 18, 166]),

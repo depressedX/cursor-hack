@@ -1,3 +1,43 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import './hoverActionIds.js';
+import '../../../common/core/range.js';
+import '../../../common/languages/language.js';
+import './hoverTypes.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/languages.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/errors.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../base/common/async.js';
+import './getHover.js';
+import '../../../../platform/commands/common/commands.js';
+import './utils.js';
+import '../../../../workbench/contrib/composer/browser/constants.js';
+import '../../../../workbench/contrib/composer/browser/composer.js';
+import '../../../../workbench/services/ai/browser/aiMiscServices.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/common/platform.js';
+import '../../gotoSymbol/browser/goToSymbol.js';
+import '../../gotoSymbol/browser/goToSymbol.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/constants.js';
 define(
 			de[820],
 			he([

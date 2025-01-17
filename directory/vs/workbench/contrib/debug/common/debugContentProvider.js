@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../editor/common/services/languagesAssociations.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/services/resolverService.js';
+import './debug.js';
+import './debugSource.js';
+import '../../../../editor/common/services/editorWorker.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../../../base/common/errors.js';
 define(
 			de[1800],
 			he([1, 0, 4, 671, 67, 61, 42, 112, 826, 200, 188, 17, 33, 172, 29]),

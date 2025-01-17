@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/strings.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/editorContextKeys.js';
+import './codeAction.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../common/types.js';
+import './codeActionController.js';
+import './codeActionModel.js';
 define(
 			de[2907],
 			he([1, 0, 318, 27, 37, 46, 71, 393, 4, 8, 43, 291, 500, 1642]),

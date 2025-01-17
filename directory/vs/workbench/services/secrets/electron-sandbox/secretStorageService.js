@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/functional.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/severity.js';
+import '../../../../nls.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/encryption/common/encryptionService.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/secrets/common/secrets.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../configuration/common/jsonEditing.js';
 define(
 		de[3602],
 		he([1, 0, 288, 12, 111, 4, 57, 1186, 113, 20, 34, 40, 41, 783, 21, 423]),

@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/contributions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/network.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/arrays.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/remote/common/remoteAgentConnection.js';
+import '../../../../platform/download/common/download.js';
+import '../../../../platform/download/common/downloadIpc.js';
+import '../../../../platform/log/common/logIpc.js';
 define(
 			de[3562],
 			he([

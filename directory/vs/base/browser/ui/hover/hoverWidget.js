@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../keyboardEvent.js';
+import '../scrollbar/scrollableElement.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../css!vs/base/browser/ui/hover/hoverWidget.js';
 define(
 			de[160],
 			he([1, 0, 7, 114, 203, 27, 3, 4, 2239]),

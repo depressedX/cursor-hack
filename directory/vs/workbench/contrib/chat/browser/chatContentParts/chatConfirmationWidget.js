@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/button/button.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/htmlContent.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../../css!vs/workbench/contrib/chat/browser/chatContentParts/media/chatConfirmationWidget.js';
 define(
 			de[3007],
 			he([1, 0, 7, 183, 6, 94, 3, 251, 5, 106, 2390]),

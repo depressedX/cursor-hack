@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../composerData.js';
+import '../../../../../base/common/codicons.js';
+import './ComposerMessageToolCallPill.js';
+import './ComposerReferenceComponents.js';
+import '../../../../../base/common/uri.js';
+import '../hooks/useComposerDataHandle.js';
 define(
 			de[4286],
 			he([1, 0, 2, 2, 2, 2, 13, 36, 225, 14, 1379, 1975, 9, 177]),

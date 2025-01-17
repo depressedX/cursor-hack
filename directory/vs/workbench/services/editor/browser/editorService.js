@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorInput.js';
+import '../../../common/editor/sideBySideEditorInput.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/resources.js';
+import '../../../common/editor/diffEditorInput.js';
+import '../../../browser/parts/editor/sideBySideEditor.js';
+import '../common/editorGroupsService.js';
+import '../common/editorService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/arrays.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/types.js';
+import '../../../browser/parts/editor/editorsObserver.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/extpath.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../common/editorResolverService.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../host/browser/host.js';
+import '../common/editorGroupFinder.js';
+import '../../textfile/common/textEditorService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../contrib/aiHallucinatedFunctions/browser/hallucinatedFunctionsDataService.js';
 define(
 			de[1051],
 			he([

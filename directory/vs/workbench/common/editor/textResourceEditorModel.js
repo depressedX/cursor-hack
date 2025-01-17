@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './textEditorModel.js';
+import '../../../editor/common/languages/language.js';
+import '../../../editor/common/services/model.js';
+import '../../services/languageDetection/common/languageDetectionWorkerService.js';
+import '../../../platform/accessibility/common/accessibility.js';
 define(
 			de[1827],
 			he([1, 0, 702, 61, 67, 474, 91]),

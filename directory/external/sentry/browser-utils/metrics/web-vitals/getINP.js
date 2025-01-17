@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../types.js';
+import './lib/bindReporter.js';
+import './lib/initMetric.js';
+import './lib/observe.js';
+import './lib/onHidden.js';
+import './lib/polyfills/interactionCountPolyfill.js';
+import './lib/whenActivated.js';
 define(
 			de[2095],
 			he([1, 0, 366, 635, 637, 576, 729, 2057, 730]),

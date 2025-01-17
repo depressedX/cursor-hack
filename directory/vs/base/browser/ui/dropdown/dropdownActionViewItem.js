@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../dom.js';
+import '../../keyboardEvent.js';
+import '../actionbar/actionViewItems.js';
+import './dropdown.js';
+import '../../../common/actions.js';
+import '../../../common/codicons.js';
+import '../../../common/themables.js';
+import '../../../common/event.js';
+import '../../../common/keyCodes.js';
+import '../hover/hoverDelegateFactory.js';
+import '../hover/hoverDelegate2.js';
+import '../../../../css!vs/base/browser/ui/dropdown/dropdown.js';
 define(
 			de[437],
 			he([1, 0, 4, 7, 114, 198, 2674, 50, 14, 26, 6, 27, 95, 317, 1509]),

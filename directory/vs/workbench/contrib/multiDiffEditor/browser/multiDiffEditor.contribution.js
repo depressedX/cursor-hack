@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import '../../../common/contributions.js';
+import '../../../common/editor.js';
+import './multiDiffEditor.js';
+import './multiDiffEditorInput.js';
+import './actions.js';
+import './multiDiffSourceResolverService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './scmMultiDiffSourceResolver.js';
 define(
 			de[1918],
 			he([

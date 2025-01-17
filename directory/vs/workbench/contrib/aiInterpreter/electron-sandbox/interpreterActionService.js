@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../base/common/json.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/browser/services/inlineDiffService.js';
+import '../../../../editor/common/diff/linesDiffComputers.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../browser/interpreterService.js';
+import '../../aichat/browser/chatDataService.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../services/ai/browser/fastEditService.js';
+import '../../../services/ai/browser/repositoryService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/textfile/common/textfiles.js';
 define(
 			de[3985],
 			he([

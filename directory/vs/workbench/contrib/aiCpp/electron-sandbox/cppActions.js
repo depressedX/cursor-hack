@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/uri.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../base/common/constants.js';
+import '../../../../editor/contrib/cCppGhostText/browser/cppDiffPeekView.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../external/solid/store.js';
+import '../common/cppUtils.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/contrib/cCppGhostText/browser/cppGhostTextController.js';
+import '../../../../platform/opener/common/opener.js';
 define(
 			de[3938],
 			he([

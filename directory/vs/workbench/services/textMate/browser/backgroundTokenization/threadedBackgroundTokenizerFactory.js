@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/amd.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/environment/common/environment.js';
+import '../../../../../platform/extensionResourceLoader/common/extensionResourceLoader.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import './worker/textMateWorkerHost.js';
+import './textMateWorkerTokenizerController.js';
+import '../../../../../base/browser/defaultWorkerFactory.js';
 define(
 			de[3662],
 			he([1, 0, 455, 3, 23, 12, 9, 61, 10, 113, 546, 40, 32, 3661, 3660, 540]),

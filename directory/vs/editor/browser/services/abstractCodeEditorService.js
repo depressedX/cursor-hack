@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/linkedList.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/uri.js';
+import '../../common/editorCommon.js';
+import '../../common/model.js';
+import '../../../platform/theme/common/themeService.js';
 define(
 			de[2842],
 			he([1, 0, 7, 6, 3, 273, 37, 9, 98, 64, 35]),

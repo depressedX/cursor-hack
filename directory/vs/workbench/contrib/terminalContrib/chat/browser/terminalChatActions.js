@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../nls.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../inlineChat/browser/inlineChatActions.js';
+import '../../../inlineChat/common/inlineChat.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/browser/terminalActions.js';
+import '../../../terminal/common/terminalContextKey.js';
+import './terminalChat.js';
+import './terminalChatController.js';
 define(
 			de[4383],
 			he([1, 0, 14, 27, 4, 8, 43, 1061, 257, 107, 363, 237, 692, 867]),

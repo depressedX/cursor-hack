@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../core/eolCounter.js';
 define(
 			de[2575],
 			he([1, 0, 120, 48, 17, 531]),

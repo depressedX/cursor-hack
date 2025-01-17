@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/common/scrollable.js';
+import '../../controlCommon/browser/solid.js';
+import '../../../../css!vs/workbench/contrib/ui/browser/scrollableDiv.js';
 define(
 			de[135],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 13, 7, 203, 195, 36, 2527]),

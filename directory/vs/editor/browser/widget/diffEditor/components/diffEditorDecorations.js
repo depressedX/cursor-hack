@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import './diffEditorViewZones/diffEditorViewZones.js';
+import '../features/movedBlocksLinesFeature.js';
+import '../registrations.contribution.js';
+import '../utils.js';
 define(
 			de[2902],
 			he([1, 0, 3, 77, 1216, 1587, 608, 370]),

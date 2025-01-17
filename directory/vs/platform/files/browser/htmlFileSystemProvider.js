@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../../base/common/path.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/stream.js';
+import '../common/files.js';
+import './webFileSystemAccess.js';
 define(
 			de[2730],
 			he([1, 0, 4, 9, 76, 6, 3, 23, 54, 12, 19, 408, 22, 762]),

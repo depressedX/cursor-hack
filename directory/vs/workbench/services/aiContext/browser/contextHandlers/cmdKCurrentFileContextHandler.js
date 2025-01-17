@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../base/common/event.js';
+import '../../../ai/browser/simpleChunkingService.js';
+import '../../../../../base/common/result.js';
+import '../simpleSerialProcessor.js';
+import '../../../../../base/common/resources.js';
+import '../../../../contrib/notebook/common/notebookCommon.js';
+import '../../../../contrib/notebook/common/notebookEditorModelResolverService.js';
 define(
 			de[3666],
 			he([1, 0, 3, 42, 25, 6, 1038, 529, 1012, 19, 70, 509]),

@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/types.js';
+import '../../../common/editor/editorOptions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../editor/common/editorCommon.js';
+import './textEditor.js';
 define(
 			de[1337],
 			he([1, 0, 4, 28, 549, 8, 19, 206, 98, 718]),

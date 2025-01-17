@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/map.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/log/common/log.js';
+import '../../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../notebook/common/notebookService.js';
+import './searchNotebookHelpers.js';
+import '../../../../services/search/common/search.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/types.js';
+import '../../../../services/editor/common/editorResolverService.js';
+import '../../../notebook/browser/services/notebookEditorService.js';
+import '../../../../services/search/common/queryBuilder.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[3596],
 			he([1, 0, 33, 59, 10, 34, 68, 161, 1865, 186, 24, 28, 231, 293, 361, 5]),

@@ -1,3 +1,37 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/iterator.js';
+import '../../../../../base/common/lazy.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../editor/browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../../../editor/browser/widget/diffEditor/diffEditorWidget.js';
+import '../../../../../editor/browser/widget/diffEditor/embeddedDiffEditorWidget.js';
+import '../../../../../editor/browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../editor/contrib/peekView/browser/peekView.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../platform/terminal/common/capabilities/terminalCapabilityStore.js';
+import '../../../../../platform/terminal/common/terminalStrings.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../common/editor/editorModel.js';
+import '../../../../common/theme.js';
+import '../../../../common/views.js';
+import '../../../terminal/browser/detachedTerminal.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/browser/xterm/xtermTerminal.js';
+import '../../../terminal/common/terminalColorRegistry.js';
+import '../testMessageColorizer.js';
+import './testResultsSubject.js';
+import '../../common/constants.js';
+import '../../common/observableValue.js';
+import '../../common/testResult.js';
+import '../../common/testTypes.js';
 define(
 			de[3440],
 			he([

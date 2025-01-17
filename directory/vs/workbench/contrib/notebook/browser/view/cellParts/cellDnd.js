@@ -1,3 +1,14 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/platform.js';
+import '../../notebookBrowser.js';
+import '../cellPart.js';
+import '../../../common/model/notebookCellTextModel.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookRange.js';
 define(
 			de[1848],
 			he([1, 0, 7, 15, 3, 12, 108, 294, 1029, 70, 442]),

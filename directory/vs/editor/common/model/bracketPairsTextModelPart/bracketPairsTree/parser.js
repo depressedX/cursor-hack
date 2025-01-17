@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './ast.js';
+import './beforeEditPositionMapper.js';
+import './smallImmutableSet.js';
+import './length.js';
+import './concat23Trees.js';
+import './nodeReader.js';
+import './tokenizer.js';
 define(
 			de[1538],
 			he([1, 0, 658, 914, 657, 492, 2563, 2562, 915]),

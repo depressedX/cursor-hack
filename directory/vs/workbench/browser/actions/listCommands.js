@@ -1,3 +1,24 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/keyCodes.js';
+import '../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/ui/list/listWidget.js';
+import '../../../platform/list/browser/listService.js';
+import '../../../base/browser/ui/list/listPaging.js';
+import '../../../base/common/arrays.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../../../base/browser/ui/tree/objectTree.js';
+import '../../../base/browser/ui/tree/asyncDataTree.js';
+import '../../../base/browser/ui/tree/dataTree.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../base/browser/ui/table/tableWidget.js';
+import '../../../base/browser/ui/tree/abstractTree.js';
+import '../../../base/browser/dom.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../nls.js';
+import '../../../platform/hover/browser/hover.js';
 define(
 			de[2944],
 			he([

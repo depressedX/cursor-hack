@@ -1,3 +1,36 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/performance.js';
+import '../../../../../base/common/types.js';
+import '../../../../services/path/common/pathService.js';
+import '../../../../../base/common/actions.js';
+import '../../common/files.js';
+import '../../../../services/textfile/common/textfiles.js';
+import '../../../../browser/parts/editor/textCodeEditor.js';
+import '../../../../common/editor.js';
+import '../../../../common/editor/editorOptions.js';
+import '../../../../common/editor/binaryEditorModel.js';
+import './fileEditorInput.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../editor/common/editorCommon.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../services/editor/common/editorGroupsService.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../files.js';
+import '../../../../services/panecomposite/browser/panecomposite.js';
+import '../../../../common/views.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../services/preferences/common/preferences.js';
+import '../../../../services/host/browser/host.js';
+import '../../../../services/filesConfiguration/common/filesConfigurationService.js';
 define(
 			de[3865],
 			he([

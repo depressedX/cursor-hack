@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../textfile/common/textEditorService.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../environment/common/environmentService.js';
+import '../../filesConfiguration/common/filesConfigurationService.js';
+import '../../path/common/pathService.js';
+import './untitledTextEditorInput.js';
+import '../../workingCopy/common/workingCopy.js';
+import '../../workingCopy/common/workingCopyEditorService.js';
+import './untitledTextEditorService.js';
 define(
 			de[3888],
 			he([1, 0, 23, 3, 9, 719, 19, 172, 78, 170, 165, 628, 334, 403, 631]),

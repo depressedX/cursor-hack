@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/lifecycle.js';
+import '../common/files.js';
+import '../common/explorerModel.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../editor/browser/services/bulkEditService.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/async.js';
+import '../../../services/host/browser/host.js';
+import '../../../common/resources.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
 define(
 			de[3687],
 			he([

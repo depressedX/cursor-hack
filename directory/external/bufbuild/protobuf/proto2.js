@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './private/proto-runtime.js';
+import './private/field-list.js';
+import './private/field-normalize.js';
 define(de[874], he([1, 0, 1400, 1396, 1397]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

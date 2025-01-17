@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/strings.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/contrib/suggest/browser/suggest.js';
+import '../../../../nls.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/files/common/files.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './snippetsFile.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
+import '../../../services/language/common/languageService.js';
+import './snippetCompletionProvider.js';
+import '../../../../platform/extensionResourceLoader/common/extensionResourceLoader.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[1898],
 			he([

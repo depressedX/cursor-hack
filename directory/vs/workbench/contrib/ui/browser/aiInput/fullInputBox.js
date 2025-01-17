@@ -1,3 +1,38 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/lexical/lexical-history/api.js';
+import '../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/browser/services/genericUndoRedoElement.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../aichat/browser/components/premium/PremiumLexicalContent.js';
+import '../../../composer/browser/hooks/useAutoHorizontalScroll.js';
+import '../../../controlCommon/browser/solid.js';
+import './aiInput2.js';
+import './fullInputBoxPlugins.js';
+import './plugins/mentions/types.js';
+import './scrollableInputBox.js';
+import './utils.js';
+import '../hooks/useVSHoverTooltip.js';
+import '../menu/hooks.js';
+import '../pickerMenu/PickerMenu.js';
+import '../scrollableDiv.js';
+import '../../../../services/selectedContext/browser/components/ContextPillPreview.js';
+import '../../../../services/selectedContext/browser/components/ContextPills.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/aiInput/FullInputBox.js';
 define(
 			de[2009],
 			he([

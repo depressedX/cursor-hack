@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/editor.js';
+import '../../editor.js';
+import './editorWithViewState.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/files/common/files.js';
 define(
 			de[718],
 			he([

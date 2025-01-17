@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/resources.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/virtualWorkspace.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../files/common/files.js';
 define(
 			de[3700],
 			he([

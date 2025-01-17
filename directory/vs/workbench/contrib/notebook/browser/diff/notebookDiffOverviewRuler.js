@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/fastDomNode.js';
+import '../../../../../base/browser/pixelRatio.js';
+import '../../../../../base/common/color.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../platform/theme/common/themeService.js';
 define(
 			de[3091],
 			he([1, 0, 7, 194, 345, 97, 3, 51, 35]),

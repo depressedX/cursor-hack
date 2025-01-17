@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/button/button.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../common/chatModel.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[3262],
 			he([1, 0, 7, 183, 3, 4, 32, 441, 18]),

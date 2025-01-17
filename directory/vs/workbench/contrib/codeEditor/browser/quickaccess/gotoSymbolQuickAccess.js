@@ -1,3 +1,30 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../platform/registry/common/platform.js';
+import '../../../../../platform/quickinput/common/quickAccess.js';
+import '../../../../../editor/contrib/quickAccess/browser/gotoSymbolQuickAccess.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/fuzzyScorer.js';
+import '../../../../../editor/common/languages.js';
+import '../../../../../base/common/filters.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../services/outline/browser/outline.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../services/editor/common/editorGroupsService.js';
+import '../../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../../base/common/iconLabels.js';
 define(
 			de[1313],
 			he([

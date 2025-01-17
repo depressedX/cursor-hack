@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/color.js';
+import '../../../../../base/common/decorators.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../terminal/common/terminal.js';
+import '../common/terminalTypeAheadConfiguration.js';
 define(
 			de[3173],
 			he([1, 0, 15, 97, 138, 6, 3, 37, 10, 32, 145, 1264]),

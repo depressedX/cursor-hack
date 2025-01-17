@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../base/common/keyCodes.js';
+import '../browser/files.js';
+import '../../../services/editor/common/editorService.js';
+import './fileCommands.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../common/contextkeys.js';
+import '../browser/fileActions.contribution.js';
+import '../../../common/editor.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../services/editor/common/editorGroupsService.js';
 define(
 			de[4302],
 			he([

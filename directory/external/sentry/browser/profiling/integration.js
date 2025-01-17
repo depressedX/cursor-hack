@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../core/index.js';
+import '../../utils/index.js';
+import '../debug-build.js';
+import './startProfileForSpan.js';
+import './utils.js';
+import './utils.js';
 define(
 			de[2139],
 			he([1, 0, 144, 80, 452, 2138, 1103, 1103]),

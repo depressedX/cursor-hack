@@ -1,3 +1,32 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/browser/browser.js';
+import '../../base/browser/dom.js';
+import '../../base/browser/event.js';
+import '../../base/browser/deviceAccess.js';
+import '../../base/common/async.js';
+import '../../base/common/event.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/network.js';
+import '../../base/common/platform.js';
+import '../../base/common/severity.js';
+import '../../base/common/uri.js';
+import '../../nls.js';
+import '../../platform/commands/common/commands.js';
+import '../../platform/dialogs/common/dialogs.js';
+import '../../platform/instantiation/common/instantiation.js';
+import '../../platform/label/common/label.js';
+import '../../platform/opener/common/opener.js';
+import '../../platform/product/common/productService.js';
+import '../services/environment/browser/environmentService.js';
+import '../services/layout/browser/layoutService.js';
+import '../services/lifecycle/common/lifecycle.js';
+import '../services/host/browser/host.js';
+import '../services/driver/browser/driver.js';
+import '../../base/browser/window.js';
+import '../../base/common/functional.js';
+import '../../platform/configuration/common/configuration.js';
+import '../services/environment/common/environmentService.js';
 define(
 		de[1833],
 		he([

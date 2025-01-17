@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/memento.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../common/gettingStartedContent.js';
+import '../../../services/assignment/common/assignmentService.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/linkedText.js';
+import './gettingStartedExtensionPoint.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/arrays.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../../nls.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../services/extensions/common/workspaceContains.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/cancellation.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
 define(
 			de[3850],
 			he([

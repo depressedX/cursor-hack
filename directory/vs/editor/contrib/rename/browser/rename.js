@@ -1,3 +1,37 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/bulkEditService.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/textResourceConfiguration.js';
+import '../../editorState/browser/editorState.js';
+import '../../message/browser/messageController.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './renameWidget.js';
 define(
 			de[2863],
 			he([

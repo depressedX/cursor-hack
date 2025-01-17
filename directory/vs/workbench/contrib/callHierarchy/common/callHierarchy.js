@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../editor/common/languageFeatureRegistry.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/resolverService.js';
 define(
 			de[978],
 			he([1, 0, 33, 945, 9, 48, 24, 29, 3, 31, 28, 67, 42]),

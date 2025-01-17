@@ -1,3 +1,30 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/commands/common/commands.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/hover/browser/hover.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../../platform/list/browser/listService.js';
+import '../../../../../../platform/opener/common/opener.js';
+import '../../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../../platform/theme/common/themeService.js';
+import '../../../../../browser/parts/views/viewPane.js';
+import '../../../../../common/views.js';
+import '../../../../debug/common/debug.js';
+import './notebookVariablesDataSource.js';
+import './notebookVariablesTree.js';
+import '../../notebookBrowser.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../common/notebookKernelService.js';
+import '../../../../../services/editor/common/editorService.js';
 define(
 			de[3831],
 			he([

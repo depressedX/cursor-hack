@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/performance.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[3267],
 			he([1, 0, 1127, 15, 6, 3, 32, 18]),

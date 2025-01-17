@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/selection.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/contrib/codeAction/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './commands/fileTemplateSnippets.js';
+import './commands/surroundWithSnippet.js';
+import './snippets.js';
 define(
 			de[3268],
 			he([1, 0, 3, 104, 69, 291, 4, 10, 5, 1289, 1754, 510]),

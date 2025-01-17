@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/uploadserver_connectweb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/contrib/cHintLine/browser/hintLineWidget.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/ipc/common/mainProcessService.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../services/ai/browser/utils.js';
+import '../../../services/aiErrors/browser/aiErrorService.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../aichat/browser/aichat.js';
+import '../../aichat/browser/chatData.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../scm/common/scm.js';
+import '../../../../base/common/codicons.js';
+import '../../../services/cursorAuth/browser/authenticationService.js';
 define(
 			de[3940],
 			he([

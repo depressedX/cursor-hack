@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './dom.js';
+import '../common/event.js';
+import '../common/lifecycle.js';
 define(de[345], he([1, 0, 7, 6, 3]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$sjb = void 0);

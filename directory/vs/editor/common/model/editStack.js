@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/errors.js';
+import '../core/selection.js';
+import '../model.js';
+import '../../../platform/undoRedo/common/undoRedo.js';
+import '../../../base/common/uri.js';
+import '../core/textChange.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/resources.js';
+import '../core/position.js';
 define(
 			de[780],
 			he([1, 0, 4, 29, 104, 64, 155, 9, 1589, 76, 19, 48]),

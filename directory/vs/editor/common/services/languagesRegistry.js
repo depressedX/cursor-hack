@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/strings.js';
+import './languagesAssociations.js';
+import '../encodedTokenAttributes.js';
+import '../languages/modesRegistry.js';
+import '../../../platform/configuration/common/configurationRegistry.js';
+import '../../../platform/registry/common/platform.js';
 define(
 			de[2773],
 			he([1, 0, 6, 3, 37, 671, 171, 172, 81, 30]),

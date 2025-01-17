@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../panecomposite.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../common/theme.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../base/common/types.js';
+import '../../../common/views.js';
+import '../../../common/component.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import './renderSidebarPart2.js';
+import './types.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../css!vs/workbench/browser/parts/sidebar/media/sidebarpart.js';
+import '../../../../css!vs/workbench/browser/parts/sidebar/SidebarPart2.js';
+import './sidebarActions.js';
 define(
 			de[4121],
 			he([

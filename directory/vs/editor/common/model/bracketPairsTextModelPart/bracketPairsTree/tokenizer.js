@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/errors.js';
+import '../../../encodedTokenAttributes.js';
+import './ast.js';
+import './length.js';
+import './smallImmutableSet.js';
 define(
 			de[915],
 			he([1, 0, 29, 171, 658, 492, 657]),

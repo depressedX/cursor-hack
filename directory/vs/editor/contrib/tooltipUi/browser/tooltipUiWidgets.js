@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../browser/editorBrowser.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../css!vs/editor/contrib/tooltipUi/browser/tooltipUiWidgets.js';
 define(
 			de[1610],
 			he([1, 0, 7, 56, 3, 65, 58, 31, 38, 2323]),

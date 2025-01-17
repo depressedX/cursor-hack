@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../browser/parts/editor/binaryEditor.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../platform/theme/common/themeService.js';
+import './fileEditorInput.js';
+import '../../common/files.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../../../../services/editor/common/editorResolverService.js';
+import '../../../../common/editor.js';
+import '../../../../common/editor/diffEditorInput.js';
 define(
 			de[3864],
 			he([1, 0, 4, 1336, 32, 35, 844, 220, 21, 116, 231, 44, 296]),

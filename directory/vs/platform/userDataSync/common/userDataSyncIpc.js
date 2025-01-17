@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uri.js';
+import '../../configuration/common/configuration.js';
+import '../../product/common/productService.js';
+import '../../storage/common/storage.js';
+import './userDataSyncStoreService.js';
 define(
 			de[2940],
 			he([1, 0, 6, 3, 9, 10, 62, 21, 966]),

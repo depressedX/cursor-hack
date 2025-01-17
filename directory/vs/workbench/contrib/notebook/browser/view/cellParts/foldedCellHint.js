@@ -1,3 +1,16 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../nls.js';
+import '../../controller/foldingController.js';
+import '../../notebookBrowser.js';
+import '../cellPart.js';
+import '../../notebookIcons.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../common/notebookCommon.js';
+import '../../../../../../base/common/lifecycle.js';
 define(
 			de[3499],
 			he([1, 0, 7, 14, 26, 4, 1031, 108, 294, 284, 190, 70, 3]),

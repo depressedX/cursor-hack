@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../common/notebookContextKeys.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/browser/services/codeEditorService.js';
 define(
 			de[3558],
 			he([1, 0, 176, 4, 178, 130, 18, 65]),

@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../services/ai/browser/aiService.js';
+import '../../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../services/shadowWorkspace/common/shadowWorkspaceService.js';
+import '../../../../../../proto/aiserver/v1/shadow_workspace_pb.js';
+import '../../../../services/ai/browser/repositoryService.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../base/common/cancellation.js';
 define(
 			de[3948],
 			he([1, 0, 3, 42, 25, 118, 148, 83, 626, 454, 226, 126, 19, 280, 134, 33]),

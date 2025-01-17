@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/assert.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/severity.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../nls.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorModel.js';
+import './mergeMarkers/mergeMarkersController.js';
+import './model/diffComputer.js';
+import './model/mergeEditorModel.js';
+import '../common/mergeEditor.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/textfile/common/textfiles.js';
 define(
 		de[3689],
 		he([

@@ -1,3 +1,20 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/ui/button/button.js';
+import '../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../base/common/actions.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/themables.js';
+import '../../../nls.js';
+import './menuEntryActionViewItem.js';
+import '../common/actions.js';
+import '../../contextkey/common/contextkey.js';
+import '../../contextview/browser/contextView.js';
+import '../../hover/browser/hover.js';
+import '../../keybinding/common/keybinding.js';
+import '../../telemetry/common/telemetry.js';
 define(
 			de[1675],
 			he([1, 0, 183, 95, 50, 14, 6, 3, 26, 4, 92, 11, 8, 49, 72, 39, 32]),

@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import './storedValue.js';
+import './testingContextKeys.js';
+import './testService.js';
+import '../../../../base/common/event.js';
+import './testId.js';
+import '../../../../base/common/prefixTree.js';
+import './testProfileService.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[1268],
 			he([1, 0, 33, 3, 8, 5, 21, 515, 380, 379, 6, 259, 743, 420, 24]),

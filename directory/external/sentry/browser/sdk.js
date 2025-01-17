@@ -1,3 +1,21 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../core/index.js';
+import '../core/index.js';
+import '../core/index.js';
+import '../utils/index.js';
+import '../browser-utils/index.js';
+import '../core/index.js';
+import './client.js';
+import './debug-build.js';
+import './helpers.js';
+import './integrations/breadcrumbs.js';
+import './integrations/browserapierrors.js';
+import './integrations/globalhandlers.js';
+import './integrations/httpcontext.js';
+import './integrations/linkederrors.js';
+import './stack-parsers.js';
+import './transports/fetch.js';
 define(
 			de[2142],
 			he([

@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../nls.js';
+import '../../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import './coreActions.js';
+import '../notebookBrowser.js';
+import '../services/notebookEditorService.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookContextKeys.js';
+import '../../common/notebookService.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../services/preferences/common/preferences.js';
 define(
 			de[3534],
 			he([

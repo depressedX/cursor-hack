@@ -1,3 +1,11 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/browser/dom.js';
+import '../../base/browser/globalPointerMoveMonitor.js';
+import '../../base/browser/mouseEvent.js';
+import '../../base/common/async.js';
+import '../../base/common/lifecycle.js';
+import '../../platform/theme/common/colorRegistry.js';
 define(
 			de[777],
 			he([1, 0, 7, 757, 168, 15, 3, 51]),

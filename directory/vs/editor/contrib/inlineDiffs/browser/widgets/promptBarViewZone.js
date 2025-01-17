@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../browser/services/codeEditorService.js';
+import '../../../../common/editorContextKeys.js';
+import './renderPromptBarViewZone.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes2.js';
+import '../../../../../workbench/services/editor/common/editorService.js';
+import '../../../../../css!vs/editor/contrib/inlineDiffs/browser/widgets/inlineDiffWidget.js';
 define(
 			de[2001],
 			he([1, 0, 7, 3, 65, 71, 4366, 31, 8, 5, 39, 45, 205, 670, 18, 906]),

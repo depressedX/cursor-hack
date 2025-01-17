@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
 define(
 			de[3778],
 			he([1, 0, 4, 99, 11, 129, 133]),

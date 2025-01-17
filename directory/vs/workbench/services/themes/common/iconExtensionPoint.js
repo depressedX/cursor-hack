@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../extensions/common/extensionsRegistry.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/path.js';
 define(
 			de[3710],
 			he([1, 0, 4, 175, 79, 30, 26, 19, 54]),

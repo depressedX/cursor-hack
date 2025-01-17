@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/common/scrollable.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../common/views.js';
+import './aicontext.js';
+import './contextPaneData.js';
+import './entrypoint.js';
+import '../../../services/ai/browser/aiContextService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../css!vs/workbench/contrib/aicontext/browser/aicontextPane.js';
 define(
 			de[4205],
 			he([

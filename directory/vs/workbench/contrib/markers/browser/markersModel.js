@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/strings.js';
+import '../../../../platform/markers/common/markerService.js';
 define(
 			de[988],
 			he([1, 0, 19, 17, 90, 24, 59, 6, 136, 37, 667]),

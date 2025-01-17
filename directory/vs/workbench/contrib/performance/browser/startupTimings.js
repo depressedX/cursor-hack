@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/update/common/update.js';
+import '../../files/common/files.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../../../common/views.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../services/environment/browser/environmentService.js';
+import '../../../services/timer/browser/timerService.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/hash.js';
 define(
 			de[3734],
 			he([

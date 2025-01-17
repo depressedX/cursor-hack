@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './enum.js';
+import './scalars.js';
+import '../scalar.js';
+import '../is-message.js';
 define(
 			de[2037],
 			he([1, 0, 1083, 526, 429, 524]),

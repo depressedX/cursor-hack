@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../commands/shiftCommand.js';
+import '../commands/surroundSelectionCommand.js';
+import '../cursorCommon.js';
+import './cursorTypeEditOperations.js';
 define(
 			de[949],
 			he([1, 0, 771, 1527, 346, 948]),

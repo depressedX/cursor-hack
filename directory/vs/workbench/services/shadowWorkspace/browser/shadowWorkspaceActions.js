@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/opener/common/opener.js';
 define(
 			de[3619],
 			he([1, 0, 58, 11, 10, 57, 40, 41]),

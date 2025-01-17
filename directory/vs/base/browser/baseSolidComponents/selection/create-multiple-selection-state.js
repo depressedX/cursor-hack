@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import './create-controllable-selection-signal.js';
+import './types.js';
 define(
 		de[2645],
 		he([1, 0, 115, 13, 2644, 739]),

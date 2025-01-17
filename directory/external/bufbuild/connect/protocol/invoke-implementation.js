@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../protobuf.js';
+import '../connect-error.js';
+import '../code.js';
+import './normalize.js';
+import '../interceptor.js';
 define(
 			de[1090],
 			he([1, 0, 86, 213, 202, 1393, 1386]),

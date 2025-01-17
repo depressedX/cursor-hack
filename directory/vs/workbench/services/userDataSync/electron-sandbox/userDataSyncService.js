@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/ipc/electron-sandbox/services.js';
+import '../../../../platform/userDataSync/common/userDataSyncServiceIpc.js';
+import '../../../../platform/userDataSync/common/userDataSyncMachines.js';
+import '../../../../platform/userDataSync/common/userDataSyncIpc.js';
+import '../../../../platform/userDataSync/common/userDataSyncAccount.js';
 define(
 			de[3798],
 			he([1, 0, 150, 230, 2939, 965, 2940, 1212]),

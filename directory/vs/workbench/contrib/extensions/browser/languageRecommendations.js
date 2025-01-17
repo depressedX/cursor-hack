@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './extensionRecommendations.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../services/extensionRecommendations/common/extensionRecommendations.js';
 define(de[3297], he([1, 0, 553, 62, 314]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$KTc = void 0);

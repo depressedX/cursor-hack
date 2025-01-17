@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/log/common/log.js';
+import '../../../services/host/browser/host.js';
+import '../../../../base/common/async.js';
+import '../common/speechService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
+import '../../../services/extensions/common/extensions.js';
 define(
 			de[3389],
 			he([1, 0, 4, 24, 33, 6, 3, 8, 34, 87, 15, 511, 32, 10, 175, 53]),

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/tokenClassificationRegistry.js';
 define(
 			de[1321],
 			he([1, 0, 4, 30, 250, 51, 778]),

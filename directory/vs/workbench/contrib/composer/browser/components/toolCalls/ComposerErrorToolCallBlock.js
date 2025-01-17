@@ -1,3 +1,12 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import './ComposerToolCallBlockContainer.js';
+import '../../../../ui/browser/hooks/useVSHoverTooltip.js';
+import '../../../../../../base/browser/ui/hover/hoverWidget.js';
 define(
 			de[3203],
 			he([1, 0, 2, 2, 2, 2, 792, 422, 160]),

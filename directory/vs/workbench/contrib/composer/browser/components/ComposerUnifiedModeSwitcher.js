@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/platform.js';
+import '../constants.js';
+import '../hooks/useComposerDataHandle.js';
+import '../utils.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/dropdown/dropdownInput.js';
+import '../../../ui/browser/hooks/useKeyboardShortcut.js';
 define(
 			de[4189],
 			he([1, 0, 2, 2, 2, 2, 13, 12, 169, 177, 246, 36, 1979, 385]),

@@ -1,3 +1,40 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/event.js';
+import '../common/userDataProfile.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../textfile/common/textfiles.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import './settingsResource.js';
+import './keybindingsResource.js';
+import './snippetsResource.js';
+import './tasksResource.js';
+import './extensionsResource.js';
+import './globalStateResource.js';
+import '../../../../platform/files/common/inMemoryFilesystemProvider.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/request/common/request.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/async.js';
+import '../../../../css!vs/workbench/services/userDataProfile/browser/media/userDataProfileView.js';
 define(
 		de[3895],
 		he([

@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/findinput/findInputToggles.js';
+import '../../../../base/browser/ui/widget.js';
+import '../../../../base/common/async.js';
+import '../../../browser/editorBrowser.js';
+import './findModel.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../css!vs/editor/contrib/find/browser/findOptionsWidget.js';
 define(
 			de[2912],
 			he([1, 0, 7, 1581, 235, 15, 56, 547, 51, 95, 2295]),

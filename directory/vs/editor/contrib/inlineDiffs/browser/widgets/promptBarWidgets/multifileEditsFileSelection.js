@@ -1,3 +1,14 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../workbench/contrib/ui/browser/simpleButton/simpleButton.js';
+import '../../inlineDiffTypes.js';
+import '../../inlineDiffTypes.js';
+import '../../../../../../css!vs/editor/contrib/inlineDiffs/browser/widgets/promptBarWidgets/promptBarWidgets.js';
 define(
 			de[4222],
 			he([1, 0, 2, 2, 2, 2, 13, 147, 534, 534, 1137]),

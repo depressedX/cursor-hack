@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorConfigurationSchema.js';
+import './codeActionCommands.js';
+import './codeActionController.js';
+import './lightBulbWidget.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/registry/common/platform.js';
 define(
 			de[2908],
 			he([1, 0, 46, 602, 2907, 500, 1685, 4, 81, 30]),

@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/keyCodes.js';
+import '../../editorExtensions.js';
+import '../../services/codeEditorService.js';
+import './diffEditorWidget.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './registrations.contribution.js';
 define(
 			de[1217],
 			he([1, 0, 7, 14, 27, 46, 65, 309, 71, 4, 11, 10, 8, 43, 608]),

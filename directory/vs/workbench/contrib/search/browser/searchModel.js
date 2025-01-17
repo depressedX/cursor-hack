@@ -1,3 +1,45 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/comparers.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/ternarySearchTree.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../notebook/browser/contrib/find/findMatchDecorationModel.js';
+import '../../notebook/browser/notebookEditorWidget.js';
+import '../../notebook/browser/services/notebookEditorService.js';
+import '../../notebook/common/notebookCommon.js';
+import './replace.js';
+import './notebookSearch/searchNotebookHelpers.js';
+import '../common/notebookSearch.js';
+import '../common/searchNotebookHelpers.js';
+import '../../../services/search/common/replace.js';
+import '../../../services/search/common/search.js';
+import '../../../services/search/common/searchHelpers.js';
+import '../common/cellSearchModel.js';
+import '../../notebook/browser/contrib/find/findModel.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[405],
 			he([

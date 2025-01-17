@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../browser/parts/views/viewPane.js';
+import '../../../../browser/dnd.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../common/views.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../platform/hover/browser/hover.js';
 define(
 			de[4021],
 			he([

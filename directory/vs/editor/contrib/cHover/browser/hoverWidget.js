@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../cHintLine/browser/hintLineWidget.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../workbench/services/aiCmdK/browser/cmdKActions.js';
+import '../../../../base/common/platform.js';
+import '../../../../css!vs/editor/contrib/cHover/browser/hoverWidget.js';
 define(
 			de[866],
 			he([1, 0, 7, 159, 58, 6, 3, 56, 38, 499, 4, 31, 39, 45, 4369, 12, 2288]),

@@ -1,3 +1,27 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../nls.js';
+import '../../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../terminalIcons.js';
+import './decorationStyles.js';
+import '../../common/terminalColorRegistry.js';
+import '../../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3439],
 			he([

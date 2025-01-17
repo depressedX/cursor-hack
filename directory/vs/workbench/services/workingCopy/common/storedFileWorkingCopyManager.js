@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import './storedFileWorkingCopy.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/files/common/files.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/resources.js';
+import './workingCopyFileService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../base/common/cancellation.js';
+import './workingCopyBackup.js';
+import './abstractFileWorkingCopyManager.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../editor/common/editorService.js';
+import '../../files/common/elevatedFileService.js';
+import '../../filesConfiguration/common/filesConfigurationService.js';
+import './workingCopyEditorService.js';
+import './workingCopyService.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/errors.js';
+import './fileWorkingCopy.js';
+import '../../../../platform/progress/common/progress.js';
 define(
 			de[3910],
 			he([

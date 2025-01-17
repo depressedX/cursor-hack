@@ -1,3 +1,15 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/actions.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../editorBrowser.js';
+import '../../../../../common/config/editorOptions.js';
+import '../../../../../common/model.js';
+import '../../../../../../nls.js';
 define(
 			de[2758],
 			he([1, 0, 7, 50, 14, 3, 12, 26, 56, 38, 64, 4]),

@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../utils/utils.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import '../utils/polymorphic.js';
+import '../utils/create-tag-name.js';
 define(
 			de[2656],
 			he([1, 0, 2, 2, 369, 115, 13, 494, 1161]),

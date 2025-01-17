@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/arraysFind.js';
+import '../cursorCommon.js';
+import './oneCursor.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../core/selection.js';
 define(
 			de[2761],
 			he([1, 0, 24, 214, 346, 2760, 48, 17, 104]),

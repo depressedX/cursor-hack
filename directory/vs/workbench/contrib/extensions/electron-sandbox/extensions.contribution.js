@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../common/contributions.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../browser/editor.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import './runtimeExtensionsEditor.js';
+import './debugExtensionHostAction.js';
+import '../../../common/editor.js';
+import '../../../common/contextkeys.js';
+import '../common/runtimeExtensionsInput.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './extensionsActions.js';
+import '../../../../platform/extensionRecommendations/common/extensionRecommendations.js';
+import '../../../../platform/ipc/electron-sandbox/services.js';
+import '../../../../platform/extensionRecommendations/common/extensionRecommendationsIpc.js';
+import '../../../../base/common/codicons.js';
+import './remoteExtensionsInit.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './extensionProfileService.js';
+import './extensionsAutoProfiler.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[4079],
 			he([

@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/browser.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/window.js';
+import '../../../base/parts/sandbox/electron-sandbox/globals.js';
+import '../common/window.js';
 define(
 			de[676],
 			he([1, 0, 139, 7, 75, 320, 253]),

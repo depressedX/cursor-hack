@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/platform.js';
+import '../../../browser/controller/textAreaInput.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/editorCommon.js';
+import '../../../common/editorContextKeys.js';
+import '../../dropOrPasteInto/browser/copyPasteController.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
 define(
 			de[787],
 			he([

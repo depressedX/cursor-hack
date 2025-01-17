@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/severity.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/storage/common/storage.js';
+import './debugCommands.js';
+import '../../markers/common/markers.js';
+import '../../tasks/common/tasks.js';
+import '../../tasks/common/taskService.js';
+import '../../../services/views/common/viewsService.js';
 define(
 		de[3820],
 		he([

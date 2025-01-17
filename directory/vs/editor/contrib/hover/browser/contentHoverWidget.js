@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import './hoverOperation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import './resizableContentWidget.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../common/model.js';
+import '../../../../base/common/event.js';
 define(
 			de[2768],
 			he([1, 0, 7, 56, 38, 601, 39, 2726, 8, 10, 91, 71, 160, 64, 6]),

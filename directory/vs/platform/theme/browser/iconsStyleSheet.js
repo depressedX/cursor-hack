@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/themables.js';
+import '../common/iconRegistry.js';
 define(
 			de[1661],
 			he([1, 0, 7, 6, 3, 26, 79]),

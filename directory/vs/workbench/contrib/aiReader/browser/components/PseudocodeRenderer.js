@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../../../../../platform/opener/common/opener.js';
+import './pseudocodeBlock.js';
+import '../../../aichat/browser/components/icons.js';
+import '../../../controlCommon/browser/solid.js';
 define(
 			de[4133],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 26, 9, 17, 116, 41, 3020, 502, 36]),

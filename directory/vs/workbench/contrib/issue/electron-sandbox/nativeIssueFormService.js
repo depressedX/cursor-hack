@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/product/common/product.js';
+import '../browser/issueFormService.js';
+import './issueReporterService2.js';
+import '../../../services/auxiliaryWindow/browser/auxiliaryWindowService.js';
+import '../../../services/host/browser/host.js';
+import '../../../../css!vs/workbench/contrib/issue/electron-sandbox/media/newIssueReporter.js';
 define(
 		de[3449],
 		he([1, 0, 11, 8, 57, 113, 5, 34, 110, 372, 3448, 3070, 703, 87, 2447]),

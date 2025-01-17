@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import './terminalGroup.js';
+import './terminalUri.js';
+import '../common/terminal.js';
+import '../common/terminalContextKey.js';
+import '../../../../platform/tooltipService/common/tooltipService.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[4060],
 			he([1, 0, 15, 6, 3, 8, 5, 60, 89, 63, 4059, 690, 145, 237, 308, 24]),

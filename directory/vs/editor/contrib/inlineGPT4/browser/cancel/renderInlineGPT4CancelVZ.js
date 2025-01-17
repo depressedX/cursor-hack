@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/keybindings.js';
+import '../../../../../base/common/platform.js';
+import '../../../../common/standalone/standaloneEnums.js';
 define(
 			de[1595],
 			he([1, 0, 2, 2, 2, 13, 27, 343, 12, 1542]),

@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/contrib/peekView/browser/peekView.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/storage/common/storage.js';
+import './typeHierarchyPeek.js';
+import '../common/typeHierarchy.js';
 define(
 			de[3273],
 			he([

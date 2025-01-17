@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../services/ai/browser/backendClient.js';
+import '../../../../../../proto/aiserver/v1/dashboard_connectweb.js';
+import '../../../../../../proto/aiserver/v1/dashboard_pb.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../../base/common/constants.js';
+import '../../../../services/ai/browser/utils.js';
 define(
 			de[242],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 36, 14, 285, 1107, 894, 147, 58, 191]),

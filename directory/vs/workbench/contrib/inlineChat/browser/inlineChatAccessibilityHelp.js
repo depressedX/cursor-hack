@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../chat/browser/actions/chatAccessibilityHelp.js';
+import '../../chat/common/chatContextKeys.js';
+import '../common/inlineChat.js';
 define(
 			de[3557],
 			he([1, 0, 65, 178, 8, 1857, 207, 257]),

@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/contrib/zoneWidget/browser/zoneWidget.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../common/inlineChat.js';
+import './inlineChatWidget.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/browser/stableEditorScroll.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../chat/common/chatViewModel.js';
 define(
 			de[4081],
 			he([

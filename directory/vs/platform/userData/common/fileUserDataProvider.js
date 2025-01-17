@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../files/common/files.js';
+import '../../../base/common/ternarySearchTree.js';
+import '../../../base/common/map.js';
 define(
 			de[2883],
 			he([1, 0, 6, 3, 22, 387, 59]),

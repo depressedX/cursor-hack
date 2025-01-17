@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../nls.js';
+import '../../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../common/editor/editorModel.js';
+import './lineRange.js';
+import './mapping.js';
+import './textModelDiffs.js';
+import '../utils.js';
+import './modifiedBaseRange.js';
 define(
 			de[3080],
 			he([1, 0, 24, 29, 77, 17, 61, 4, 155, 416, 507, 686, 3079, 508, 1250]),

@@ -1,3 +1,19 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/actions.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../../nls.js';
+import '../../../platform/notification/common/notification.js';
+import '../../../platform/opener/common/opener.js';
+import '../../../platform/storage/common/storage.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/externalUriOpener/common/configuration.js';
+import '../../contrib/externalUriOpener/common/contributedOpeners.js';
+import '../../contrib/externalUriOpener/common/externalUriOpenerService.js';
+import '../../services/extensions/common/extensions.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3555],
 			he([1, 0, 50, 29, 3, 23, 4, 40, 41, 21, 88, 1033, 3554, 1034, 53, 101]),

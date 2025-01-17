@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/config/editorConfigurationSchema.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/contrib/codeAction/browser/codeAction.js';
+import '../../../../editor/contrib/codeAction/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/registry/common/platform.js';
 define(
 			de[3017],
 			he([1, 0, 6, 318, 3, 602, 69, 393, 291, 4, 81, 39, 30]),

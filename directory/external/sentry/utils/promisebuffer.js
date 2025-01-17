@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './error.js';
+import './syncpromise.js';
 define(de[1426], he([1, 0, 1092, 1425]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

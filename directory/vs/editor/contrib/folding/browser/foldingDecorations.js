@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
 define(
 			de[1219],
 			he([1, 0, 14, 64, 122, 4, 51, 79, 35, 26]),

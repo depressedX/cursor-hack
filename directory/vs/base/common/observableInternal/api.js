@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../equals.js';
+import './base.js';
+import './debugName.js';
+import './lazyObservableValue.js';
 define(
 			de[2221],
 			he([1, 0, 433, 407, 648, 2220]),

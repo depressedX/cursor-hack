@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/fuzzyScorer.js';
+import '../../../../../base/common/map.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../composerMarkdownCodeblockHeader.js';
+import '../constants.js';
+import '../markdownData.js';
+import '../markdownCodeblockHeader.js';
+import '../../../composer/browser/composerData.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/partialApplyHover/partialApplyHoverContributions.js';
+import '../../../ui/browser/widgets/codeBlock.js';
+import '../../../composer/browser/components/ComposerDataHandlerProvider.js';
+import '../../../composer/browser/constants.js';
 define(
 			de[4233],
 			he([

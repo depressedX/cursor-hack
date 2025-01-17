@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../base/browser/ui/contextview/contextview.js';
+import '../../../../base/browser/ui/dropdown/dropdownActionViewItem.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/iterator.js';
+import '../../../../nls.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/themables.js';
+import '../../codeEditor/browser/suggestEnabledInput/suggestEnabledInput.js';
+import './icons.js';
+import '../common/storedValue.js';
+import '../common/testExplorerFilterState.js';
+import '../common/testService.js';
+import '../common/testTypes.js';
 define(
 			de[3776],
 			he([

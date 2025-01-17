@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../composer.js';
+import '../composerCapabilities.js';
+import '../composerCapabilityDecorators.js';
+import '../composerCapabilitySchemas.js';
+import '../composerDataService.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/model.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../common/editor.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/uuid.js';
+import '../composerViews.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/capabilities/editTrail.js';
 define(
 			de[3923],
 			he([

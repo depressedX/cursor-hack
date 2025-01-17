@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../common/editor.js';
+import '../../../../base/common/buffer.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../../proto/aiserver/v1/interface_agent_pb.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../base/common/map.js';
+import '../../../services/ai/common/simpleTestService.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../editor/common/languages.js';
+import '../../../../base/common/cancellation.js';
+import '../../../services/aiTasks/browser/aiTaskServiceInterface.js';
+import '../../../services/ai/browser/utils.js';
 define(
 			de[3941],
 			he([

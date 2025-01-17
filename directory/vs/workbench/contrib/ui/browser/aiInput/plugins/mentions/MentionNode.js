@@ -1,3 +1,8 @@
+import '../../../../../../../../require.js';
+import '../../../../../../../../exports.js';
+import '../../../../../../../../external/lexical/lexical/api.js';
+import '../../../../../../../../proto/aiserver/v1/context_pb.js';
+import './types.js';
 define(de[816], he([1, 0, 164, 228, 310]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,6 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../observe.js';
 define(de[2057], he([1, 0, 576]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

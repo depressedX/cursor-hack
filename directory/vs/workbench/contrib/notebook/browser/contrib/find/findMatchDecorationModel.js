@@ -1,3 +1,9 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../editor/contrib/find/browser/findDecorations.js';
+import '../../../../../../platform/theme/common/colorRegistry.js';
+import '../../notebookBrowser.js';
 define(
 			de[1844],
 			he([1, 0, 3, 1688, 51, 108]),

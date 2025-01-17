@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[3255],
 			he([

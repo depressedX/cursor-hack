@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/decorators.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/terminal/common/environmentVariableCollection.js';
+import '../../../../platform/terminal/common/environmentVariableShared.js';
+import './terminalStorageKeys.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3313],
 			he([1, 0, 6, 138, 21, 53, 1655, 774, 691, 3]),

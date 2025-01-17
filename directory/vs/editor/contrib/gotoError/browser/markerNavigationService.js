@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/linkedList.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/uri.js';
+import '../../../common/core/range.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[1622],
 			he([1, 0, 24, 6, 3, 273, 37, 9, 17, 20, 5, 90, 10]),

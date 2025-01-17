@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/common/actions.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../actions/browser/menuEntryActionViewItem.js';
+import '../../actions/common/actions.js';
+import '../../contextkey/common/contextkey.js';
+import '../../keybinding/common/keybinding.js';
+import '../../notification/common/notification.js';
+import '../../telemetry/common/telemetry.js';
+import './contextMenuHandler.js';
+import './contextView.js';
 define(
 			de[2896],
 			he([1, 0, 7, 50, 6, 3, 92, 11, 8, 39, 40, 32, 2835, 49]),

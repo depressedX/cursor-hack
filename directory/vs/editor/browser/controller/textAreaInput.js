@@ -1,3 +1,21 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/browser.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/event.js';
+import '../../../base/browser/keyboardEvent.js';
+import '../../../base/browser/performance.js';
+import '../../../base/common/async.js';
+import '../../../base/common/event.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/mime.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/strings.js';
+import './textAreaState.js';
+import '../../common/core/selection.js';
+import '../../../platform/accessibility/common/accessibility.js';
+import '../../../platform/log/common/log.js';
 define(
 			de[942],
 			he([

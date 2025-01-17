@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../nls.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../terminalContrib/developer/common/terminal.developer.js';
 define(
 			de[1873],
 			he([1, 0, 6, 3, 23, 4, 166, 1765]),

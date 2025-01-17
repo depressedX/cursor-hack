@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../hover/hoverDelegate2.js';
+import '../hover/hoverDelegateFactory.js';
+import '../list/listWidget.js';
+import '../splitview/splitview.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/scrollable.js';
+import '../../../../css!vs/base/browser/ui/table/table.js';
 define(
 			de[1167],
 			he([1, 0, 7, 317, 95, 278, 279, 6, 3, 195, 2256]),

@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/map.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../base/common/uri.js';
+import '../../common/notebookService.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../base/common/marshallingIds.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/browser/dom.js';
 define(
 			de[3119],
 			he([1, 0, 6, 3, 59, 21, 9, 161, 11, 8, 221, 23, 7]),

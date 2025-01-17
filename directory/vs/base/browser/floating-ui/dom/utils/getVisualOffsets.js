@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../window.js';
+import './getWindow.js';
+import './is.js';
 define(de[1573], he([1, 0, 75, 537, 324]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$vmb = C);

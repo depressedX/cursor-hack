@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../base/browser/ui/keybindingLabel/keybindingLabel.js';
+import '../../../../base/browser/ui/widget.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../editor/common/editorCommon.js';
+import './preferencesWidgets.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../css!vs/workbench/contrib/preferences/browser/media/keybindings.js';
 define(
 			de[1804],
 			he([

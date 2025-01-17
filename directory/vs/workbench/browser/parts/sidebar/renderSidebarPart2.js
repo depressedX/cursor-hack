@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import './types.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/uri.js';
+import './compositeComponent.js';
+import '../../../../base/common/codicons.js';
+import './sidebarMenu.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/browser/ui/contextview/contextview.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../contrib/controlCommon/browser/solid.js';
+import '../../../../css!vs/workbench/browser/parts/sidebar/SidebarPart2.js';
 define(
 			de[4120],
 			he([

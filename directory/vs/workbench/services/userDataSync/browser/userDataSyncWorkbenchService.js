@@ -1,3 +1,44 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../common/userDataSync.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../authentication/browser/authenticationService.js';
+import '../../authentication/common/authentication.js';
+import '../../../../platform/userDataSync/common/userDataSyncAccount.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/productService.js';
+import '../../extensions/common/extensions.js';
+import '../../../../nls.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../base/common/uri.js';
+import '../../../common/views.js';
+import '../../views/common/viewsService.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/userDataSync/common/userDataSyncStoreService.js';
+import '../../../../platform/userDataSync/common/globalStateSync.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../editor/common/editorService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../common/editor.js';
+import '../../environment/browser/environmentService.js';
+import '../../userData/browser/userDataInit.js';
+import '../../../../platform/secrets/common/secrets.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/strings.js';
+import '../../../../platform/userDataSync/common/userDataSyncMachines.js';
 define(
 			de[3852],
 			he([

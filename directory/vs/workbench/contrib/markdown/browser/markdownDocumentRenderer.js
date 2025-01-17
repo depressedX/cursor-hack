@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/dompurify/dompurify.js';
+import '../../../../base/browser/markdownRenderer.js';
+import '../../../../base/common/marked/marked.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/strings.js';
+import '../../../../editor/common/languages/textToHtmlTokenizer.js';
 define(
 			de[1738],
 			he([1, 0, 7, 920, 267, 434, 23, 37, 597]),

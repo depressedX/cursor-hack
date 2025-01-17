@@ -1,3 +1,18 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../platform/registry/common/platform.js';
+import './composite.js';
+import '../../platform/instantiation/common/instantiation.js';
+import '../../base/common/actions.js';
+import '../../platform/actions/common/actions.js';
+import '../../platform/contextview/browser/contextView.js';
+import '../../platform/storage/common/storage.js';
+import '../../platform/telemetry/common/telemetry.js';
+import '../../platform/theme/common/themeService.js';
+import '../../platform/workspace/common/workspace.js';
+import './parts/views/viewPaneContainer.js';
+import '../services/extensions/common/extensions.js';
+import './parts/views/viewPane.js';
 define(
 			de[1056],
 			he([1, 0, 30, 1701, 5, 50, 11, 49, 21, 32, 35, 25, 239, 53, 146]),

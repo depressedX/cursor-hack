@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/glob.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookKernelService.js';
+import '../../common/notebookService.js';
 define(
 			de[3470],
 			he([1, 0, 215, 9, 31, 70, 243, 161]),

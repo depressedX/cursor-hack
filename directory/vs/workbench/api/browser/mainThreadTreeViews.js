@@ -1,3 +1,19 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../common/extHost.protocol.js';
+import '../../common/views.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../base/common/arrays.js';
+import '../../../platform/notification/common/notification.js';
+import '../../../base/common/types.js';
+import '../../../platform/registry/common/platform.js';
+import '../../services/extensions/common/extensions.js';
+import '../../../platform/log/common/log.js';
+import '../../../base/common/dataTransfer.js';
+import '../common/shared/dataTransferCache.js';
+import '../common/extHostTypeConverters.js';
+import '../../services/views/common/viewsService.js';
 define(
 			de[3801],
 			he([1, 0, 3, 88, 60, 101, 24, 40, 28, 30, 53, 34, 489, 1697, 1836, 89]),

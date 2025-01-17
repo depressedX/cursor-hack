@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../base/common/lazy.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import './partialApplyHoverWidget.js';
+import '../../../../../base/common/network.js';
 define(
 			de[1934],
 			he([1, 0, 46, 149, 3, 69, 8, 5, 90, 45, 10, 3987, 23]),

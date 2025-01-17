@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/severity.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/product.js';
+import './issueReporterPage.js';
+import './issueReporterService.js';
+import '../../../services/auxiliaryWindow/browser/auxiliaryWindowService.js';
+import '../../../services/host/browser/host.js';
+import '../../../../css!vs/workbench/contrib/issue/browser/media/issueReporter.js';
 define(
 		de[3448],
 		he([

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './lib/bindReporter.js';
+import './lib/initMetric.js';
+import './lib/observe.js';
+import './lib/onHidden.js';
+import './lib/runOnce.js';
+import './onFCP.js';
 define(
 			de[2098],
 			he([1, 0, 635, 637, 576, 729, 1091, 2097]),

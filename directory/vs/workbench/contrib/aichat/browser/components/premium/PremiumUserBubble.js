@@ -1,3 +1,27 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/themables.js';
+import '../ChatError.js';
+import './PremiumLexicalContent.js';
+import '../../hooks/useBubblePills.js';
+import '../../hooks/useCurrentTab.js';
+import '../../hooks/useIsBubbleSelected.js';
+import '../../../../aiMarkdown/browser/useMarkdownHover.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../chatData.js';
+import './PremiumBubble.js';
+import '../../../../../services/selectedContext/browser/components/ContextPills.js';
+import './PremiumInputBox.js';
+import '../../../../../../css!vs/workbench/contrib/aichat/browser/components/premium/PremiumUserBubble.js';
 define(
 			de[4402],
 			he([

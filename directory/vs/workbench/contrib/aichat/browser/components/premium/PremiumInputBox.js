@@ -1,3 +1,40 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/common/constants.js';
+import '../../../../../../editor/contrib/cHover/browser/hoverWidget.js';
+import '../../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../chatData.js';
+import '../../hooks/useBubblePills.js';
+import '../../hooks/useTabBubbleMentionSideEffects.js';
+import '../../utils.js';
+import '../../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../composer/browser/constants.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../ui/browser/aiInput/fullInputBox.js';
+import '../../../../ui/browser/hooks/useKeyboardShortcut.js';
+import '../../../../../services/selectedContext/browser/components/ContextPills.js';
+import '../../../../../services/selectedContext/browser/selectedContextData.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../ui/browser/modelToggle.js';
+import '../../../../../../base/common/uuid.js';
+import '../../../../ui/browser/aiInput/fullInputBoxAdvancedCodebaseMenu.js';
+import '../../../../ui/browser/menu/hooks.js';
+import '../../../../../../base/common/platform.js';
+import '../../hooks/usePremiumPickerMenuProps.js';
+import '../../../../../../platform/keybinding/common/keybindingResolver.js';
+import '../../../../../../base/browser/keyboardEvent.js';
+import '../../../../../services/selectedContext/browser/hooks/useAltAddSuggestedPills.js';
 define(
 			de[2012],
 			he([

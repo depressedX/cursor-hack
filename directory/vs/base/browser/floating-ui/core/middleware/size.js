@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../detectOverflow.js';
+import '../utils/getAlignment.js';
+import '../utils/getMainAxisFromPlacement.js';
+import '../utils/getSide.js';
+import '../utils/math.js';
 define(
 			de[2207],
 			he([1, 0, 645, 582, 583, 487, 1123]),

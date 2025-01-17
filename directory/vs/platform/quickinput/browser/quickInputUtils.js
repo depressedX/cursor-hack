@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/event.js';
+import '../../../base/common/event.js';
+import '../../../base/browser/keyboardEvent.js';
+import '../../../base/browser/touch.js';
+import '../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../base/common/idGenerator.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/linkedText.js';
+import '../../../nls.js';
+import '../../../css!vs/platform/quickinput/browser/media/quickInput.js';
 define(
 			de[1625],
 			he([1, 0, 7, 265, 6, 114, 159, 182, 584, 27, 488, 4, 1138]),

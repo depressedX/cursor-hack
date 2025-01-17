@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/extpath.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/environment/common/environmentService.js';
 define(
 			de[286],
 			he([1, 0, 23, 19, 9, 113, 138, 29, 249, 34, 28, 5, 1178]),

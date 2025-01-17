@@ -1,3 +1,40 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/mime.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/core/selection.js';
+import '../../../../../editor/common/cursor/cursor.js';
+import '../../../../../editor/common/editorContextKeys.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../../editor/common/model.js';
+import '../../../../../editor/common/services/getIconClasses.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../../editor/contrib/comment/browser/lineCommentCommand.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../../platform/dialogs/common/dialogs.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../inlineChat/browser/inlineChatController.js';
+import '../../../inlineChat/common/inlineChat.js';
+import './cellOperations.js';
+import './coreActions.js';
+import './notebookIndentationActions.js';
+import '../notebookBrowser.js';
+import '../notebookIcons.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookContextKeys.js';
+import '../../common/notebookExecutionStateService.js';
+import '../../common/notebookKernelService.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../services/languageDetection/common/languageDetectionWorkerService.js';
 define(
 			de[1957],
 			he([

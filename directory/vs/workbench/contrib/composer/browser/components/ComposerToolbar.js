@@ -1,3 +1,41 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../composerData.js';
+import '../../../aichat/browser/components/Utils.js';
+import '../constants.js';
+import '../hooks/useComposerCollectedStatuses.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import './ComposerToolbarSimpleButton.js';
+import '../../../ui/browser/AutoCollapseDivGroup.js';
+import '../hooks/useComposerChatStatus.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../base/common/types.js';
+import '../hooks/useShouldShowChatToolbar.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../../../base/common/path.js';
+import './ComposerGeneralStatusIndicator.js';
+import '../utils.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../hooks/useComposerDataHandle.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../ui/browser/hooks/useIsUsingFileIconTheme.js';
+import '../hooks/useShouldShowApplyLastMessage.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/components/ComposerToolbar.js';
 define(
 			de[4288],
 			he([

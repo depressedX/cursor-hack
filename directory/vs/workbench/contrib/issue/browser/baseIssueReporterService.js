@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/collections.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/browser/iconsStyleSheet.js';
+import '../../../../platform/theme/common/themeService.js';
+import './issueReporterModel.js';
+import '../common/issue.js';
+import '../common/issueReporterUtil.js';
 define(
 			de[1735],
 			he([

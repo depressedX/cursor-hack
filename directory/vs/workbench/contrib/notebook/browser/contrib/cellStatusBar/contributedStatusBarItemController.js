@@ -1,3 +1,11 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/cancellation.js';
+import '../../../../../../base/common/lifecycle.js';
+import './notebookVisibleCellObserver.js';
+import '../../notebookEditorExtensions.js';
+import '../../../common/notebookCellStatusBarService.js';
 define(
 			de[3117],
 			he([1, 0, 15, 33, 3, 1742, 330, 991]),

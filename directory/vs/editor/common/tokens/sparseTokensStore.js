@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import './lineTokens.js';
+import '../encodedTokenAttributes.js';
 define(de[2576], he([1, 0, 24, 388, 171]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

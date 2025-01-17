@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './customEditorInput.js';
+import '../common/customEditor.js';
+import '../../notebook/common/notebookEditorInput.js';
+import '../../webview/browser/webview.js';
+import '../../webviewPanel/browser/webviewEditorInputSerializer.js';
+import '../../webviewPanel/browser/webviewWorkbenchService.js';
+import '../../../services/workingCopy/common/workingCopyBackup.js';
+import '../../../services/workingCopy/common/workingCopyEditorService.js';
 define(
 			de[3877],
 			he([1, 0, 3, 23, 19, 9, 5, 849, 625, 360, 355, 1831, 623, 335, 403]),

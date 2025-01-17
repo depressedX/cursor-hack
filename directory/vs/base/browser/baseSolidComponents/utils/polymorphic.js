@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import './utils.js';
+import './solid-primitives/props/props.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../../external/solid/web.js';
 define(
 			de[494],
 			he([1, 0, 2, 2, 369, 1493, 13, 2]),

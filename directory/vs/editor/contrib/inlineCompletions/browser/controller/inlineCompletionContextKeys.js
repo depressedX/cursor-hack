@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/strings.js';
+import '../../../../common/core/cursorColumns.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
 define(
 			de[765],
 			he([1, 0, 77, 37, 435, 8, 3, 4]),

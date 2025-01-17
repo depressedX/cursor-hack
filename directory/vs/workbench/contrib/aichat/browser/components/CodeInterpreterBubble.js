@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../chatData.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../aiMarkdown/browser/markdown.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../../../base/common/path.js';
+import './Utils.js';
+import '../../../../../../proto/aiserver/v1/ai_project_pb.js';
+import '../../../ui/browser/widgets/codeBlock.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../../../../services/ai/browser/aiProjectService.js';
+import '../../../aiSettings/browser/components/settings/hooks.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/AiBubble.js';
 define(
 			de[4245],
 			he([

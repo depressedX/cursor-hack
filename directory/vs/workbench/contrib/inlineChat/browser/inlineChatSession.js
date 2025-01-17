@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../editor/common/model.js';
+import '../common/inlineChat.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../editor/common/diff/rangeMapping.js';
+import './inlineChatSessionService.js';
+import '../../../../editor/common/services/editorWorker.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/extensions/common/extensions.js';
 define(
 			de[1244],
 			he([

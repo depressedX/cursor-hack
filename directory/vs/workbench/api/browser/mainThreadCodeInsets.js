@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
+import '../../../editor/browser/services/codeEditorService.js';
+import './mainThreadWebviews.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/webview/browser/webview.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3375],
 			he([1, 0, 7, 3, 19, 9, 65, 831, 88, 355, 101]),

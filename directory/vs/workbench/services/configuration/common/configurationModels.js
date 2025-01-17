@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/objects.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/configuration/common/configurationModels.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[1794],
 			he([1, 0, 82, 10, 950, 28, 24]),

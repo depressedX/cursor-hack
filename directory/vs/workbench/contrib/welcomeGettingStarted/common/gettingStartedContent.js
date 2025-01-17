@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './media/theme_picker.js';
+import './media/notebookProfile.js';
+import '../../../../nls.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../notebook/common/notebookCommon.js';
+import '../../../../platform/accessibility/common/accessibility.js';
 define(
 		de[3723],
 		he([1, 0, 3722, 3215, 4, 14, 79, 70, 91]),

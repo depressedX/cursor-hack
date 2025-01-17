@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/path.js';
+import '../../../base/common/ternarySearchTree.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
+import '../../instantiation/common/instantiation.js';
+import '../../../base/common/network.js';
 define(
 			de[25],
 			he([1, 0, 4, 54, 387, 19, 9, 5, 23]),

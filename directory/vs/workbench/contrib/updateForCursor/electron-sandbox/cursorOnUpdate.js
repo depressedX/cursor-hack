@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../common/cursorOnUpdate.js';
 define(
 			de[3210],
 			he([1, 0, 20, 5, 41, 62, 21, 1782]),

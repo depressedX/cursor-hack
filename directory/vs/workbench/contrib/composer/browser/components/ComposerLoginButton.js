@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../../../controlCommon/browser/solid.js';
 define(
 			de[4148],
 			he([1, 0, 2, 2, 13, 311, 36]),

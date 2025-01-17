@@ -1,3 +1,6 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './computeCoordsFromPlacement.js';
 define(de[2200], he([1, 0, 2199]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$bmb = void 0);

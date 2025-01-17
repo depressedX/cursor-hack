@@ -1,3 +1,24 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/keyboardEvent.js';
+import '../../../base/browser/ui/toggle/toggle.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/async.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/event.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/severity.js';
+import '../../../base/common/themables.js';
+import '../../../nls.js';
+import '../common/quickInput.js';
+import './quickInputUtils.js';
+import '../../configuration/common/configuration.js';
+import '../../hover/browser/hover.js';
+import '../../contextkey/common/contextkey.js';
+import '../../../css!vs/platform/quickinput/browser/media/quickInput.js';
 define(
 		de[1189],
 		he([

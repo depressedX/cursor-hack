@@ -1,3 +1,31 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/map.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../nls.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../platform/list/browser/listService.js';
+import '../../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../../../platform/quickinput/common/quickAccess.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../searchIcons.js';
+import '../searchModel.js';
+import '../searchView.js';
+import '../../common/search.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../services/search/common/queryBuilder.js';
+import '../../../../services/search/common/search.js';
+import '../../../../../base/common/event.js';
+import '../../../../browser/quickaccess.js';
+import '../../../../services/views/common/viewsService.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/codicons.js';
 define(
 			de[1972],
 			he([

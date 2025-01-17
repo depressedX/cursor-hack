@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../editor/common/editorService.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../common/configurationResolver.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../browser/baseConfigurationResolverService.js';
+import '../../../../platform/label/common/label.js';
+import '../../environment/electron-sandbox/shellEnvironmentService.js';
+import '../../path/common/pathService.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 			de[3581],
 			he([1, 0, 151, 10, 31, 25, 18, 63, 358, 20, 3252, 73, 1020, 165, 53, 21]),

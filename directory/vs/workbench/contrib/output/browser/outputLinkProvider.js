@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/output/common/output.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../base/browser/defaultWorkerFactory.js';
+import '../../../../editor/common/services/textModelSync/textModelSync.impl.js';
 define(
 			de[3524],
 			he([1, 0, 15, 67, 25, 297, 3, 69, 540, 935]),

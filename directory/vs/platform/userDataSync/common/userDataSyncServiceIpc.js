@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uri.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import './userDataSync.js';
 define(
 			de[2939],
 			he([1, 0, 6, 3, 9, 129, 150]),

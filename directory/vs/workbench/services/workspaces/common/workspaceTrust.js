@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/linkedList.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/remote/common/remoteHosts.js';
+import '../../../../platform/workspace/common/virtualWorkspace.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../common/memento.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/async.js';
 define(
 			de[1059],
 			he([

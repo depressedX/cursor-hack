@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './create-collection.js';
+import './create-controllable-signal.js';
+import './create-disclosure-state.js';
+import './create-dom-collection.js';
+import './create-escape-key-down.js';
+import './create-focus-scope.js';
+import './create-form-reset-listener.js';
+import './create-presence.js';
+import './create-prevent-scroll.js';
+import './create-tag-name.js';
+import './create-toggle-state.js';
+import './polymorphic.js';
+import './events.js';
+import './scroll-into-view.js';
+import './focus.js';
+import './tabbable.js';
+import './utils.js';
+import './solid-primitives/utils/utils.js';
+import './solid-primitives/event-listener/event-listener.js';
+import './solid-primitives/props/props.js';
+import './solid-primitives/refs/refs.js';
+import './solid-primitives/keyed/keyed.js';
 define(
 		de[115],
 		he([

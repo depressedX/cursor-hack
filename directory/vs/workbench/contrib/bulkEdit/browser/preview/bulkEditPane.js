@@ -1,3 +1,33 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/ui/button/button.js';
+import '../../../../../base/common/cache.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/dialogs/common/dialogs.js';
+import '../../../../../platform/hover/browser/hover.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../platform/list/browser/listService.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../browser/labels.js';
+import '../../../../browser/parts/views/viewPane.js';
+import '../../../../common/views.js';
+import './bulkEditPreview.js';
+import './bulkEditTree.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../css!vs/workbench/contrib/bulkEdit/browser/preview/bulkEdit.js';
 define(
 			de[3805],
 			he([

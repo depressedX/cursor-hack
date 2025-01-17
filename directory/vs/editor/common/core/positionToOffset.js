@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arraysFind.js';
+import './offsetRange.js';
+import './position.js';
+import './range.js';
+import './textLength.js';
 define(
 			de[2549],
 			he([1, 0, 214, 289, 48, 17, 458]),

@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/theme.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/notifications.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './notificationsCommands.js';
+import './notificationsList.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../nls.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import './notificationsActions.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/common/types.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../base/browser/ui/dropdown/dropdownActionViewItem.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../css!vs/workbench/browser/parts/notifications/media/notificationsCenter.js';
+import '../../../../css!vs/workbench/browser/parts/notifications/media/notificationsActions.js';
 define(
 			de[3402],
 			he([

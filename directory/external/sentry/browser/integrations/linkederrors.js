@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../core/index.js';
+import '../../utils/index.js';
+import '../eventbuilder.js';
 define(de[1458], he([1, 0, 144, 80, 889]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

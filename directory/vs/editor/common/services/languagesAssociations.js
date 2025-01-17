@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/glob.js';
+import '../../../base/common/mime.js';
+import '../../../base/common/network.js';
+import '../../../base/common/path.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/strings.js';
+import '../languages/modesRegistry.js';
 define(
 			de[671],
 			he([1, 0, 215, 266, 23, 54, 19, 37, 172]),

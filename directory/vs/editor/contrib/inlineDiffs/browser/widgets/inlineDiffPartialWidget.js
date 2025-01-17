@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/touch.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../browser/editorBrowser.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './renderInlineDiffPartialWidget.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../browser/services/inlineDiffService.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../workbench/services/ai/browser/aiMiscServices.js';
+import '../../../../../css!vs/editor/contrib/inlineDiffs/browser/widgets/inlineDiffWidget.js';
 define(
 			de[3981],
 			he([1, 0, 7, 159, 3, 56, 39, 31, 45, 2956, 35, 383, 10, 137, 906]),

@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/folding/browser/folding.js';
+import '../../../../editor/contrib/folding/browser/indentRangeProvider.js';
+import '../../../../editor/contrib/folding/browser/syntaxRangeProvider.js';
+import '../../../../editor/contrib/gotoSymbol/browser/goToSymbol.js';
+import '../../../../editor/contrib/gotoSymbol/browser/referencesModel.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../contrib/search/browser/symbolsQuickAccess.js';
+import '../../../../editor/common/core/range.js';
 define(
 			de[1290],
 			he([

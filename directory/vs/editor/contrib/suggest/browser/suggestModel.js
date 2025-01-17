@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/cursorEvents.js';
+import '../../../common/core/selection.js';
+import '../../../common/languages.js';
+import '../../../common/services/editorWorker.js';
+import './wordDistance.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './completionModel.js';
+import './suggest.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/types.js';
+import '../../inlineCompletions/browser/controller/inlineCompletionContextKeys.js';
+import '../../snippet/browser/snippetController2.js';
+import '../../../../platform/environment/common/environment.js';
 define(
 			de[1221],
 			he([

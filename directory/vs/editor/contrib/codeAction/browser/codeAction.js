@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../browser/services/bulkEditService.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/model.js';
+import '../../editorState/browser/editorState.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../common/types.js';
+import '../../../../base/common/hierarchicalKind.js';
 define(
 			de[393],
 			he([

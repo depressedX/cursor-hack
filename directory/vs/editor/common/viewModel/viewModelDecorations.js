@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../model.js';
+import '../viewModel.js';
+import '../config/editorOptions.js';
+import '../encodedTokenAttributes.js';
 define(
 			de[1631],
 			he([1, 0, 48, 17, 64, 290, 38, 171]),

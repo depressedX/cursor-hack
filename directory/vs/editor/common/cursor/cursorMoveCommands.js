@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/types.js';
+import '../cursorCommon.js';
+import './cursorMoveOperations.js';
+import './cursorWordOperations.js';
+import '../core/position.js';
+import '../core/range.js';
 define(
 			de[1193],
 			he([1, 0, 28, 346, 1192, 944, 48, 17]),

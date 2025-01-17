@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../common/chatParticipantContribTypes.js';
 define(de[208], he([1, 0, 4, 5, 981]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

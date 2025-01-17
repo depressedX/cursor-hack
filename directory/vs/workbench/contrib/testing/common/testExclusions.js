@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/storage/common/storage.js';
+import './observableValue.js';
+import './storedValue.js';
 define(
 			de[3177],
 			he([1, 0, 103, 3, 21, 810, 515]),

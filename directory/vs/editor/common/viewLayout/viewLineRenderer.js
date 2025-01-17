@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/strings.js';
+import '../core/stringBuilder.js';
+import './lineDecorations.js';
+import '../viewModel.js';
+import './linePart.js';
 define(
 			de[598],
 			he([1, 0, 4, 120, 37, 462, 533, 290, 1545]),

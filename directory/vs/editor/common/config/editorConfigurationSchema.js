@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './diffEditor.js';
+import './editorOptions.js';
+import '../core/textModelDefaults.js';
+import '../../../nls.js';
+import '../../../platform/configuration/common/configurationRegistry.js';
+import '../../../platform/registry/common/platform.js';
 define(
 			de[602],
 			he([1, 0, 1525, 38, 910, 4, 81, 30]),

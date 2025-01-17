@@ -1,3 +1,21 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/browser/ui/hover/hoverWidget.js';
+import './ComposerToolCallBlockContainer.js';
+import '../../composerCapabilities.js';
+import '../../../../ui/browser/collapsible/collapsible.js';
+import '../../../../ui/browser/contextDisplay/listContextDisplay.js';
+import '../../../../ui/browser/hooks/useVSHoverTooltip.js';
+import '../../../../ui/browser/scrollableDiv.js';
+import '../../../../ui/browser/hooks/useMeasureWidthHeight.js';
+import '../../../../../../platform/tracing/common/tracing.js';
 define(
 			de[861],
 			he([

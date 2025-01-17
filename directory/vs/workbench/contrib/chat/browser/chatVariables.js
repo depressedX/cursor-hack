@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import './chat.js';
+import './contrib/chatDynamicVariables.js';
+import '../common/chatAgents.js';
+import '../common/chatParserTypes.js';
+import './contrib/chatContextAttachments.js';
+import '../../../services/views/common/viewsService.js';
+import '../common/languageModelToolsService.js';
+import '../../../../base/common/themables.js';
 define(
 			de[4071],
 			he([1, 0, 54, 24, 29, 103, 3, 9, 208, 1060, 153, 329, 1355, 89, 569, 26]),

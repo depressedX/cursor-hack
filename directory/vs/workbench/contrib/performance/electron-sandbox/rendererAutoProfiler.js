@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/profiling/electron-sandbox/profileAnalysisWorkerService.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../services/extensions/common/extensionDevOptions.js';
+import '../../../services/timer/browser/timerService.js';
 define(
 			de[3735],
 			he([1, 0, 15, 76, 19, 47, 10, 22, 34, 110, 1651, 151, 698, 520]),

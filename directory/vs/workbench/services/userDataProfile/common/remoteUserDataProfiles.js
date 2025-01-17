@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../remote/common/remoteAgentService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/log/common/log.js';
+import './userDataProfile.js';
+import '../../../../base/common/arrays.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/userDataProfile/common/userDataProfileIpc.js';
 define(
 			de[1044],
 			he([1, 0, 3, 20, 5, 129, 143, 21, 34, 133, 24, 78, 1696]),

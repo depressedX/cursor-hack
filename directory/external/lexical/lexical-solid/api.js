@@ -1,3 +1,31 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './LexicalComposer.js';
+import './LexicalComposerContext.js';
+import './LexicalComposerContext.js';
+import './LexicalContentEditable.js';
+import './LexicalContextMenuPlugin.js';
+import './LexicalErrorBoundary.js';
+import './LexicalOnChangePlugin.js';
+import './LexicalPlainTextPlugin.js';
+import './LexicalAutoFocusPlugin.js';
+import './LexicalBlockWithAlignableContents.js';
+import './LexicalDecoratorBlockNode.js';
+import './useLexicalNodeSelection.js';
+import './LexicalCharacterLimitPlugin.js';
+import './LexicalCheckListPlugin.js';
+import './LexicalClearEditorPlugin.js';
+import './LexicalHorizontalRuleNode.js';
+import './LexicalHorizontalRulePlugin.js';
+import './LexicalListPlugin.js';
+import './LexicalNodeEventPlugin.js';
+import './LexicalNodeMenuPlugin.js';
+import './useLexicalIsContentEmpty.js';
+import './LexicalNestedComposer.js';
+import './LexicalTabIndentationPlugin.js';
+import './LexicalTypeaheadMenuPlugin.js';
+import './useLexicalSubscription.js';
+import './LexicalHistoryPlugin.js';
 define(
 		de[4112],
 		he([

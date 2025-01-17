@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/trustedTypes.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/types.js';
+import '../config/domFontInfo.js';
+import '../../common/config/editorOptions.js';
+import '../../common/core/stringBuilder.js';
+import '../../common/modelLineProjectionData.js';
+import '../../common/textModelEvents.js';
 define(
 			de[2762],
 			he([1, 0, 432, 120, 37, 28, 321, 38, 462, 1629, 590]),

@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../services/views/common/viewsService.js';
+import './searchIcons.js';
+import '../common/constants.js';
+import '../common/searchHistoryService.js';
+import './searchModel.js';
+import '../../../services/search/common/search.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import '../common/search.js';
+import './searchActionsBase.js';
 define(
 			de[4167],
 			he([1, 0, 4, 93, 89, 561, 377, 1258, 405, 186, 8, 11, 43, 27, 568, 483]),

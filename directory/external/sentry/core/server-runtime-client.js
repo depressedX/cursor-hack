@@ -1,3 +1,14 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../utils/index.js';
+import './baseclient.js';
+import './checkin.js';
+import './currentScopes.js';
+import './debug-build.js';
+import './sessionflusher.js';
+import './tracing/index.js';
+import './utils/spanOnScope.js';
+import './utils/spanUtils.js';
 define(
 			de[2128],
 			he([1, 0, 80, 1451, 1436, 234, 263, 1443, 640, 731, 301]),

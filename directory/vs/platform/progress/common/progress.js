@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/lifecycle.js';
+import '../../instantiation/common/extensions.js';
+import '../../instantiation/common/instantiation.js';
 define(
 			de[84],
 			he([1, 0, 15, 33, 3, 20, 5]),

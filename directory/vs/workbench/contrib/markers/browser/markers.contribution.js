@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../nls.js';
+import './markersModel.js';
+import './markersView.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../common/markers.js';
+import './messages.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../common/contextkeys.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../services/activity/common/activity.js';
+import '../../../browser/parts/views/viewFilter.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../common/configuration.js';
+import './markersFileDecorations.js';
 define(
 		de[4026],
 		he([

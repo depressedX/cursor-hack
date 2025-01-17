@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../services/textfile/common/textfiles.js';
+import '../../../../services/lifecycle/common/lifecycle.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../services/host/browser/host.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../base/common/async.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../common/files.js';
+import '../../../../../base/common/network.js';
+import '../../../../services/untitled/common/untitledTextEditorInput.js';
+import '../../../../services/workingCopy/common/workingCopyEditorService.js';
+import '../../../../common/editor.js';
 define(
 			de[3855],
 			he([1, 0, 85, 52, 3, 24, 87, 18, 15, 65, 170, 220, 23, 628, 403, 44]),

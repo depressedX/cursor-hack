@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/constants.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/services/languageFeatures.js';
+import '../../gotoSymbol/browser/goToSymbol.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../workbench/contrib/composer/browser/constants.js';
+import '../../../common/core/position.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../common/services/resolverService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[1241],
 			he([1, 0, 33, 58, 46, 65, 71, 69, 414, 11, 31, 169, 48, 126, 42, 3, 25]),

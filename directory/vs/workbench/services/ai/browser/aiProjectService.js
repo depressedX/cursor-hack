@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './cursorCredsService.js';
+import '../../cursorAuth/browser/authenticationService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../aiSettings/browser/aiSettingsService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../../../proto/aiserver/v1/ai_project_pb.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../aiTasks/browser/aiTaskServiceInterface.js';
+import '../../../contrib/aichat/browser/chatData.js';
+import '../../../contrib/aichat/browser/aichat.js';
+import './aiService.js';
+import '../common/toolformerHandlerRegistryService.js';
+import '../../../contrib/aichat/browser/chatDataService.js';
+import './utils.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../contrib/composer/browser/utils.js';
 define(
 			de[1932],
 			he([

@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/keyboardLayout/common/keyboardLayout.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/ipc/common/mainProcessService.js';
+import '../../../../base/parts/ipc/common/ipc.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1826],
 			he([1, 0, 3, 1188, 6, 12, 371, 305, 5]),

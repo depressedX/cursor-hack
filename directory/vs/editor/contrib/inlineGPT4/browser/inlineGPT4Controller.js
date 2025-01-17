@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../workbench/services/ai/browser/aiService.js';
+import '../../../browser/services/inlineGPT4Service.js';
+import '../../../common/model.js';
+import '../../../../base/common/event.js';
+import '../../../common/core/position.js';
+import './loading/inlineGPT4LoadingVZ.js';
+import './hint/inlineGPT4HintViewZone.js';
+import './cancel/inlineGPT4CancelVZ.js';
 define(
 			de[1344],
 			he([1, 0, 3, 71, 5, 45, 118, 2874, 64, 6, 48, 2754, 2753, 2752]),

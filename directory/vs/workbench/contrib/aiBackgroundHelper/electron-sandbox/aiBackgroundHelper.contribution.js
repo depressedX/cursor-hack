@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../editor/common/core/range.js';
+import '../../../services/aiSettings/browser/aiSettingsService.js';
+import '../../../../editor/browser/services/inlineDiffService.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/cppUtils/diff/line.js';
 define(
 			de[3982],
 			he([1, 0, 65, 118, 30, 55, 52, 110, 17, 315, 383, 42, 137, 3, 20, 901]),

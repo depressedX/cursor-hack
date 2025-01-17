@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../instantiation/common/instantiation.js';
+import '../../registry/common/platform.js';
+import './theme.js';
 define(
 			de[35],
 			he([1, 0, 14, 6, 3, 5, 30, 212]),

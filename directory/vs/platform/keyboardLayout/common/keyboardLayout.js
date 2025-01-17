@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/keyCodes.js';
+import '../../instantiation/common/instantiation.js';
 define(de[1188], he([1, 0, 27, 5]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,40 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../nls.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './editorQuickAccess.js';
+import './sideBySideEditor.js';
+import './textDiffEditor.js';
+import '../../../common/contextkeys.js';
+import '../../../common/editor.js';
+import '../../../common/editor/diffEditorInput.js';
+import '../../../common/editor/sideBySideEditorInput.js';
+import '../../../services/editor/common/editorGroupColumn.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorResolverService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/path/common/pathService.js';
+import '../../../services/untitled/common/untitledTextEditorService.js';
+import './diffEditorCommands.js';
+import './editorCommandsContext.js';
 define(
 			de[247],
 			he([

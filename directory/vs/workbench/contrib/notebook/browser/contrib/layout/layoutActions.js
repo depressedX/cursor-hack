@@ -1,3 +1,10 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../controller/coreActions.js';
+import '../../../common/notebookCommon.js';
 define(
 			de[3495],
 			he([1, 0, 4, 11, 10, 238, 70]),

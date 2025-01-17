@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/lifecycle.js';
+import '../common/taskService.js';
+import '../common/tasks.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/log/common/log.js';
 define(
 			de[3328],
 			he([1, 0, 4, 19, 3, 419, 424, 63, 11, 174, 10, 6, 34]),

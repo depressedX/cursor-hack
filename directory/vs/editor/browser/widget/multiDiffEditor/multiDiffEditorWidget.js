@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/hotReloadHelpers.js';
+import './multiDiffEditorWidgetImpl.js';
+import './multiDiffEditorViewModel.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './diffEditorItemTemplate.js';
+import '../../../../base/common/event.js';
+import './colors.js';
 define(
 			de[1683],
 			he([1, 0, 3, 77, 755, 2906, 1681, 5, 1682, 6, 2832]),

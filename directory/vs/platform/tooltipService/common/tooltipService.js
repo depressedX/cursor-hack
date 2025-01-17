@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../instantiation/common/extensions.js';
+import '../../instantiation/common/instantiation.js';
+import '../../../base/common/lifecycle.js';
+import '../../storage/common/storage.js';
+import './tooltipPipelines.js';
+import '../../../base/common/hash.js';
+import '../../commands/common/commands.js';
+import '../../../base/common/constants.js';
+import '../../actions/common/actions.js';
 define(
 			de[308],
 			he([1, 0, 20, 5, 3, 21, 2869, 136, 31, 58, 11]),

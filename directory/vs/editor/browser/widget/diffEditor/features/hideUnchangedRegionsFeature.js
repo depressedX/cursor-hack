@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/htmlContent.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/observableInternal/derived.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/types.js';
+import '../../../observableCodeEditor.js';
+import '../diffEditorViewModel.js';
+import '../utils.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/lineRange.js';
+import '../../../../common/core/position.js';
+import '../../../../common/core/range.js';
+import '../../../../common/cursorEvents.js';
+import '../../../../common/languages.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1641],
 			he([

@@ -1,3 +1,35 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/common/event.js';
+import '../../../base/browser/ui/tree/tree.js';
+import '../../../nls.js';
+import '../../instantiation/common/instantiation.js';
+import '../../list/browser/listService.js';
+import '../../theme/common/themeService.js';
+import '../../../base/common/lifecycle.js';
+import '../common/quickInput.js';
+import '../../../base/browser/keyboardEvent.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/decorators.js';
+import '../../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../../base/browser/ui/keybindingLabel/keybindingLabel.js';
+import '../../../base/browser/ui/actionbar/actionbar.js';
+import '../../theme/common/theme.js';
+import '../../../base/common/uri.js';
+import './quickInputUtils.js';
+import '../../../base/common/lazy.js';
+import '../../../base/common/iconLabels.js';
+import '../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../base/common/comparers.js';
+import '../../../base/common/strings.js';
+import '../../../base/browser/ui/tree/abstractTree.js';
+import '../../../base/common/async.js';
+import '../../../base/common/errors.js';
+import '../../accessibility/common/accessibility.js';
+import '../../../base/common/observable.js';
+import '../../../base/common/arrays.js';
 define(
 			de[2866],
 			he([

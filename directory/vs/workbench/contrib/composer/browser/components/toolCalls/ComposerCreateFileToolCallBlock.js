@@ -1,3 +1,9 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import './ComposerSingleFileToolCallBlock.js';
+import '../../../../../../platform/tracing/common/tracing.js';
 define(de[4292], he([1, 0, 2, 2, 1380, 216]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

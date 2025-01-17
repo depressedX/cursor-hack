@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../contextGraph/browser/gitGraphService.js';
+import '../../recentFilesTrackerService/browser/recentFilesTrackerService.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/hash.js';
+import '../../../services/ai/browser/repositoryService.js';
+import '../../../../base/common/map.js';
+import '../../../services/selectedContext/browser/selectedContext.js';
+import '../../aiFeatureStatusService/browser/aiFeatureStatusService.js';
 define(
 			de[1053],
 			he([

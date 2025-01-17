@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/lifecycle.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/ipc/electron-sandbox/services.js';
+import '../../../../platform/telemetry/common/telemetryIpc.js';
+import '../../../../platform/storage/common/storage.js';
+import '../common/workbenchCommonProperties.js';
+import '../../../../platform/telemetry/common/telemetryService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
 define(
 			de[3657],
 			he([1, 0, 32, 269, 10, 3, 151, 62, 230, 2815, 21, 3656, 2819, 20, 320]),

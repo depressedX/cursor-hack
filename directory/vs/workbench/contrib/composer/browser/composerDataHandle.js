@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/aiAssert/browser/aiAssertService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './composerDataCreation.js';
+import '../../../../base/common/uri.js';
 define(
 			de[3617],
 			he([1, 0, 3, 668, 21, 45, 1318, 9]),

@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/browser/ui/widget.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../platform/hover/browser/hover.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/terminal/common/terminal.js';
 define(
 			de[3146],
 			he([1, 0, 3, 235, 7, 72, 10, 117]),

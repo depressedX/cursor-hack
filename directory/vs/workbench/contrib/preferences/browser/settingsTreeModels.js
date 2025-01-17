@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './settingsLayout.js';
+import '../common/preferences.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/configuration/common/configuration.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/product/common/productService.js';
 define(
 			de[1042],
 			he([

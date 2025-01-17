@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../common/languages.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../css!vs/editor/contrib/wordHighlighter/browser/highlightDecorations.js';
 define(
 			de[1695],
 			he([1, 0, 64, 122, 74, 4, 51, 35, 2326]),

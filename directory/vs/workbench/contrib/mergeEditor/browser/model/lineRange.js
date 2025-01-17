@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/uint.js';
+import '../../../../../editor/common/core/range.js';
 define(de[507], he([1, 0, 24, 29, 210, 17]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$bZb = void 0);

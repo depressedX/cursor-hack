@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import './inlineChatController.js';
+import './inlineChatSessionService.js';
+import '../../notebook/browser/services/notebookEditorService.js';
+import '../../notebook/common/notebookCommon.js';
+import '../../../services/editor/common/editorService.js';
+import '../../notebook/browser/diff/notebookDiffEditor.js';
+import '../../notebook/browser/diff/notebookMultiDiffEditor.js';
 define(
 			de[4102],
 			he([1, 0, 29, 3, 23, 19, 427, 798, 293, 70, 18, 1361, 1320]),

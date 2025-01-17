@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/editor.js';
+import '../common/variableResolver.js';
 define(
 			de[3252],
 			he([1, 0, 15, 59, 23, 28, 56, 4, 10, 21, 25, 44, 1797]),

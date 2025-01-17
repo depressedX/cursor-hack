@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../editor/common/config/editorOptions.js';
+import '../../../editor/common/core/range.js';
+import '../../../editor/common/core/selection.js';
+import '../../../editor/common/editorCommon.js';
+import '../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../common/extHost.protocol.js';
+import '../../../base/common/arrays.js';
+import '../../../editor/contrib/editorState/browser/editorState.js';
+import '../../../editor/contrib/snippet/browser/snippetParser.js';
 define(
 			de[1820],
 			he([1, 0, 6, 3, 38, 17, 104, 98, 254, 88, 24, 439, 389]),

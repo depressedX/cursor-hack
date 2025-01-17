@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/memento.js';
+import './chatAgents.js';
+import './chatParticipantContribTypes.js';
 define(
 			de[1235],
 			he([1, 0, 6, 5, 21, 282, 153, 981]),

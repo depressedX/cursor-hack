@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../common/editor/editorOptions.js';
+import './simpleCommentEditor.js';
 define(
 			de[3768],
 			he([1, 0, 3, 23, 65, 98, 61, 67, 42, 549, 846]),

@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/derived.js';
+import '../../../browser/observableCodeEditor.js';
+import '../../../../base/common/hotReloadHelpers.js';
+import '../../../common/core/selection.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../common/services/languageFeatures.js';
+import './consts.js';
+import './inlineEditsModel.js';
+import './inlineEditsWidget.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/observable/common/platformObservableUtils.js';
 define(
 			de[1694],
 			he([

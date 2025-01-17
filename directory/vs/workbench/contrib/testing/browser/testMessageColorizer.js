@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/markdownRenderer.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../css!vs/workbench/contrib/testing/browser/media/testMessageColorizer.js';
 define(
 			de[999],
 			he([1, 0, 267, 3, 37, 48, 17, 2500]),

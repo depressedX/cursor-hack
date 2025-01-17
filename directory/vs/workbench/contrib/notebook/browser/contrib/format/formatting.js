@@ -1,3 +1,33 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../nls.js';
+import '../../../../../../base/common/cancellation.js';
+import '../../../../../../base/common/keyCodes.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../editor/browser/editorExtensions.js';
+import '../../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../../editor/common/editorContextKeys.js';
+import '../../../../../../editor/common/services/editorWorker.js';
+import '../../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../../editor/common/services/resolverService.js';
+import '../../../../../../editor/contrib/format/browser/format.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../../platform/progress/common/progress.js';
+import '../../controller/coreActions.js';
+import '../../notebookBrowser.js';
+import '../../../common/notebookContextKeys.js';
+import '../../../../../services/editor/common/editorService.js';
+import '../../../common/notebookExecutionService.js';
+import '../../../common/notebookCommon.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../services/lifecycle/common/lifecycle.js';
+import '../../../../../../platform/registry/common/platform.js';
+import '../../../../../common/contributions.js';
+import '../../../common/notebookService.js';
+import '../saveParticipants/saveParticipants.js';
 define(
 			de[3909],
 			he([

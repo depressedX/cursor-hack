@@ -1,3 +1,13 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './cancellation.js';
+import './errors.js';
+import './event.js';
+import './lifecycle.js';
+import './resources.js';
+import './platform.js';
+import './symbols.js';
+import './lazy.js';
 define(
 			de[15],
 			he([1, 0, 33, 29, 6, 3, 19, 12, 649, 149]),

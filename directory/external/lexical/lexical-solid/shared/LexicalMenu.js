@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../solid/web.js';
+import '../LexicalComposerContext.js';
+import '../../lexical-utils/api.js';
+import '../../lexical/api.js';
+import '../../../solid/solid.js';
+import '../../../../vs/base/browser/dom.js';
+import '../../../../vs/base/browser/window.js';
 define(
 			de[925],
 			he([1, 0, 2, 181, 304, 164, 13, 7, 75]),

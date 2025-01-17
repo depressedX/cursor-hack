@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/severity.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../services/statusbar/browser/statusbar.js';
 define(
 		de[3627],
 		he([1, 0, 3, 6, 111, 4, 91, 31, 10, 40, 166]),

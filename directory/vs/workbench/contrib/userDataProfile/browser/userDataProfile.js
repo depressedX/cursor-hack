@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../tags/common/workspaceTags.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import '../../../common/editor.js';
+import './userDataProfilesEditor.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/url/common/url.js';
+import '../../../services/environment/browser/environmentService.js';
 define(
 			de[3893],
 			he([

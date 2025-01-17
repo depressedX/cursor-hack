@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/hotReload.js';
+import '../../../base/common/hotReloadHelpers.js';
+import '../../../base/common/observable.js';
+import '../../instantiation/common/instantiation.js';
 define(
 			de[1624],
 			he([1, 0, 1559, 755, 77, 5]),

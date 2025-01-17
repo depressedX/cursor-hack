@@ -1,3 +1,18 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../../base/browser/window.js';
+import './settingsTab.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../composer/browser/composerCapabilities.js';
+import '../../../../../../../proto/aiserver/v1/utils_pb.js';
+import './settingsSubSection.js';
+import '../../../../ui/browser/checkbox/checkbox.js';
+import '../../../../../../css!vs/workbench/contrib/aiSettings/browser/components/settings/settingsBetaTab.js';
 define(
 			de[4138],
 			he([1, 0, 2, 2, 2, 13, 148, 75, 974, 36, 262, 83, 1064, 1006, 2371]),

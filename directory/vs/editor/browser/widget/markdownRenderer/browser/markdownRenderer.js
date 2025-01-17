@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/markdownRenderer.js';
+import '../../../../../base/browser/trustedTypes.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../config/domFontInfo.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/languages/language.js';
+import '../../../../common/languages/modesRegistry.js';
+import '../../../../common/languages/textToHtmlTokenizer.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../css!vs/editor/browser/widget/markdownRenderer/browser/renderedMarkdown.js';
 define(
 			de[251],
 			he([1, 0, 267, 432, 29, 6, 3, 321, 38, 61, 172, 597, 41, 2282]),

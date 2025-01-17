@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/browser/coreCommands.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/core/selection.js';
 define(
 			de[3021],
 			he([1, 0, 4, 11, 10, 8, 65, 38, 498, 48, 104]),

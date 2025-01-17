@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './dom.js';
+import '../common/lifecycle.js';
+import '../common/mime.js';
 define(de[323], he([1, 0, 7, 3, 266]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

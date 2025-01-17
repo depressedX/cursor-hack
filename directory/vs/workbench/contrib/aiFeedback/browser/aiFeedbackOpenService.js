@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[1705],
 			he([1, 0, 20, 5, 31, 180, 3]),

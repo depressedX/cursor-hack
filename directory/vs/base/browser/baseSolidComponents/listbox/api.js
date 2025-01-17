@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './listbox-item.js';
+import './listbox-item-description.js';
+import './listbox-item-indicator.js';
+import './listbox-item-label.js';
+import './listbox-root.js';
+import './listbox-section.js';
 define(
 			de[1571],
 			he([1, 0, 2650, 2638, 2639, 2640, 2651, 2641]),

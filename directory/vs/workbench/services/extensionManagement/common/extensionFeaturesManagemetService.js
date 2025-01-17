@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import './extensionFeatures.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../nls.js';
+import '../../extensions/common/extensions.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/objects.js';
 define(
 			de[3320],
 			he([1, 0, 6, 109, 3, 244, 20, 21, 30, 28, 57, 4, 53, 24, 82]),

@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './is.js';
+import './memo.js';
+import './object.js';
+import './stacktrace.js';
 define(
 			de[882],
 			he([1, 0, 430, 1422, 528, 725]),

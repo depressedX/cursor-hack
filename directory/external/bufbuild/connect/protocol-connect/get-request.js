@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../protobuf.js';
+import './headers.js';
+import './version.js';
 define(de[2046], he([1, 0, 86, 574, 1080]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

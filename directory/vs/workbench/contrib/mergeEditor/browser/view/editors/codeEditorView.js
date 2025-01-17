@@ -1,3 +1,19 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/event.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/observable.js';
+import '../../../../../../editor/browser/editorExtensions.js';
+import '../../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../../editor/common/core/selection.js';
+import '../../../../../../editor/contrib/codelens/browser/codelensController.js';
+import '../../../../../../editor/contrib/folding/browser/folding.js';
+import '../../../../../../platform/actions/browser/toolbar.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../browser/parts/editor/editor.js';
+import '../../utils.js';
+import '../../../../../../platform/observable/common/platformObservableUtils.js';
 define(
 			de[1252],
 			he([1, 0, 7, 6, 3, 77, 46, 206, 104, 1686, 350, 173, 5, 548, 508, 326]),

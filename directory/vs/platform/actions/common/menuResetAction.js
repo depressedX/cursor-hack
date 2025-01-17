@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../action/common/actionCommonCategories.js';
+import './actions.js';
+import '../../log/common/log.js';
 define(de[2779], he([1, 0, 4, 99, 11, 34]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$avc = void 0);

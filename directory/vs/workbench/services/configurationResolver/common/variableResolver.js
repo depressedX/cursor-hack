@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/process.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/labels.js';
+import '../../../../nls.js';
+import './configurationResolver.js';
+import '../../../../base/common/strings.js';
 define(
 			de[1797],
 			he([1, 0, 54, 344, 28, 82, 12, 222, 4, 358, 37]),

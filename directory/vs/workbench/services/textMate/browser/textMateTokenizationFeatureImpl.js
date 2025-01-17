@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../amdX.js';
+import '../../../../base/common/amd.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/encodedTokenAttributes.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/languages/supports/tokenization.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/extensionResourceLoader/common/extensionResourceLoader.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../environment/common/environmentService.js';
+import './tokenizationSupport/textMateTokenizationSupport.js';
+import './tokenizationSupport/tokenizationSupportWithLineLimit.js';
+import './backgroundTokenization/threadedBackgroundTokenizerFactory.js';
+import '../common/TMGrammarFactory.js';
+import '../common/TMGrammars.js';
+import '../../themes/common/workbenchThemeService.js';
 define(
 			de[3724],
 			he([

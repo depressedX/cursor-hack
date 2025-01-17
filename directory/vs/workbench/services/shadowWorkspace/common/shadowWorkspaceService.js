@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/shadow_workspace_pb.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../environment/common/environmentService.js';
+import '../../lifecycle/common/lifecycle.js';
 define(
 			de[626],
 			he([1, 0, 454, 58, 3, 12, 9, 10, 20, 5, 25, 78, 52]),

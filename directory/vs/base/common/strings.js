@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './cache.js';
+import './charCode.js';
+import './lazy.js';
+import './uint.js';
 define(
 			de[37],
 			he([1, 0, 744, 120, 149, 210]),

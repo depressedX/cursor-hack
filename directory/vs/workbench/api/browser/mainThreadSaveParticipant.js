@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../editor/common/model.js';
+import '../../../nls.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/textfile/common/textfiles.js';
+import '../common/extHost.protocol.js';
+import '../../../base/common/async.js';
 define(
 			de[3677],
 			he([1, 0, 64, 4, 5, 101, 85, 88, 15]),

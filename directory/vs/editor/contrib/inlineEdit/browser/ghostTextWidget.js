@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/languages/language.js';
+import '../../../common/model.js';
+import '../../../common/viewLayout/lineDecorations.js';
+import '../../../common/viewModel.js';
+import '../../inlineCompletions/browser/view/ghostTextView.js';
+import '../../inlineCompletions/browser/utils.js';
+import '../../../browser/widget/diffEditor/registrations.contribution.js';
+import '../../../../css!vs/editor/contrib/inlineEdit/browser/inlineEdit.js';
 define(
 			de[2914],
 			he([1, 0, 3, 77, 48, 17, 61, 64, 533, 290, 947, 753, 608, 2306]),

@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/chat/common/languageModelToolsService.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(de[3354], he([1, 0, 3, 88, 569, 101]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Hmc = void 0);

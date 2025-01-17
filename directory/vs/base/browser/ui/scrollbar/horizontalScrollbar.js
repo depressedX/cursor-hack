@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../mouseEvent.js';
+import './abstractScrollbar.js';
+import './scrollbarArrow.js';
+import './scrollbarState.js';
+import '../../../common/codicons.js';
+import '../../../common/scrollable.js';
 define(
 			de[2679],
 			he([1, 0, 168, 1577, 1166, 1128, 14, 195]),

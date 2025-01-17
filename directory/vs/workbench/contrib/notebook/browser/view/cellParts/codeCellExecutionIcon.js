@@ -1,3 +1,13 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../nls.js';
+import '../../../../../../base/common/themables.js';
+import '../../notebookIcons.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionStateService.js';
 define(
 			de[3476],
 			he([1, 0, 7, 182, 3, 4, 26, 284, 70, 190]),

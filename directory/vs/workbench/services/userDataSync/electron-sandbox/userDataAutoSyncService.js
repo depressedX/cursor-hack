@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/ipc/electron-sandbox/services.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/extensions.js';
 define(de[3797], he([1, 0, 150, 230, 6, 20]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 });

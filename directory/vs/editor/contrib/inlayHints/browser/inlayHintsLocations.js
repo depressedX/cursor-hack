@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/uuid.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/services/resolverService.js';
+import '../../gotoSymbol/browser/goToCommands.js';
+import '../../peekView/browser/peekView.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
 define(
 			de[1867],
 			he([1, 0, 7, 50, 33, 47, 38, 17, 42, 1036, 255, 11, 31, 8, 49, 5, 40]),

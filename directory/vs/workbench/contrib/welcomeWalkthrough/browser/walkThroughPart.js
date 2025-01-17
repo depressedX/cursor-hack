@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/common/scrollable.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/parts/editor/editorPane.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './walkThroughInput.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../nls.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/keybindingLabels.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/objects.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/browser/dom.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../common/walkThroughUtils.js';
+import '../../../../css!vs/workbench/contrib/welcomeWalkthrough/browser/media/walkThroughPart.js';
 define(
 			de[1811],
 			he([

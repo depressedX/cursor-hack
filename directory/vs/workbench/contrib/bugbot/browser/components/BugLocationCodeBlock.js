@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../ui/browser/widgets/codeBlock.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../../../base/common/path.js';
+import '../../../../services/selectedContext/browser/utils.js';
+import '../../../../services/workspaces/browser/sourceFilesService.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../../proto/aiserver/v1/bugbot_pb.js';
+import '../../../../../base/common/keyCodes.js';
+import '../utils.js';
+import '../../../ui/browser/codeRenderers/diffCodeRender.js';
+import '../../../ui/browser/hooks/useIsUsingFileIconTheme.js';
 define(
 			de[4182],
 			he([

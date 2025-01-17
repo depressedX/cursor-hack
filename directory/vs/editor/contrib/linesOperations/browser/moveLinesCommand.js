@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/strings.js';
+import '../../../common/commands/shiftCommand.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/languages/languageConfiguration.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../common/languages/supports/indentRules.js';
+import '../../indentation/common/indentUtils.js';
+import '../../../common/languages/autoIndent.js';
+import '../../../common/languages/enterAction.js';
 define(
 			de[2778],
 			he([1, 0, 37, 771, 38, 17, 104, 532, 152, 912, 1553, 1184, 1198]),

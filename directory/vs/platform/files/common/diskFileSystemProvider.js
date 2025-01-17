@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/async.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/extpath.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/path.js';
+import './watcher.js';
+import '../../log/common/log.js';
 define(
 			de[2741],
 			he([1, 0, 24, 15, 29, 6, 249, 3, 54, 938, 34]),

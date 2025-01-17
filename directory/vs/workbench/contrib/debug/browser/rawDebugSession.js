@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/errorMessage.js';
+import '../common/debugUtils.js';
+import '../../../../platform/debug/common/extensionHostDebug.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/network.js';
 define(
 			de[3054],
 			he([1, 0, 4, 6, 82, 50, 29, 163, 396, 767, 9, 41, 3, 40, 57, 23]),

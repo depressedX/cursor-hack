@@ -1,3 +1,44 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/codeAction/browser/codeAction.js';
+import '../../../../editor/contrib/codeAction/common/types.js';
+import '../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../aiCpp/browser/cppEventLogger.js';
+import '../../aiCpp/electron-sandbox/cppTypeService.js';
+import '../../../services/ai/browser/backendClient.js';
+import '../../../services/ai/browser/metricsService.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './importPredictionWidget.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/contrib/editorState/browser/editorState.js';
+import '../../aiFeatureStatusService/browser/aiFeatureStatusService.js';
+import '../../aiCpp/electron-sandbox/cppService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/cursorAsync.js';
+import '../../../../editor/contrib/folding/browser/folding.js';
+import '../../../../platform/aiAssert/browser/aiAssertService.js';
+import '../../../../css!vs/workbench/contrib/aiImportPrediction/electron-sandbox/importPrediction.js';
 define(
 			de[4187],
 			he([

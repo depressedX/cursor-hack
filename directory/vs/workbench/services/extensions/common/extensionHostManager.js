@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../nls.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../editor/common/editorService.js';
+import '../../environment/common/environmentService.js';
+import './extHostCustomers.js';
+import './extensionHostKind.js';
+import './extensions.js';
+import './rpcProtocol.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/notification/common/notification.js';
 define(
 			de[1822],
 			he([

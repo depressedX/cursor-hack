@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './combobox-content.js';
+import './combobox-input.js';
+import './combobox-listbox.js';
+import './combobox-portal.js';
+import '../form-control/api.js';
+import '../listbox/api.js';
+import '../popper/api.js';
+import './combobox-control.js';
+import './combobox-hidden-select.js';
+import './combobox-icon.js';
+import './combobox-root.js';
+import './combobox-trigger.js';
 define(
 			de[2673],
 			he([

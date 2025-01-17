@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/contributions.js';
+import './bugbot.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './bugbotDataService.js';
+import './bugbotService.js';
+import './bugbotEditorContribution.js';
+import './bugbotActions.js';
 define(
 			de[4266],
 			he([1, 0, 55, 976, 45, 977, 4265, 4263, 3225]),

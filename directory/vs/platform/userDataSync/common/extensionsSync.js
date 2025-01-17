@@ -1,3 +1,32 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/jsonFormatter.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/strings.js';
+import '../../configuration/common/configuration.js';
+import '../../environment/common/environment.js';
+import '../../extensionManagement/common/extensionEnablementService.js';
+import '../../extensionManagement/common/extensionManagement.js';
+import '../../extensionManagement/common/extensionManagementUtil.js';
+import '../../extensionManagement/common/extensionStorage.js';
+import '../../extensions/common/extensions.js';
+import '../../files/common/files.js';
+import '../../instantiation/common/instantiation.js';
+import '../../instantiation/common/serviceCollection.js';
+import '../../log/common/log.js';
+import '../../storage/common/storage.js';
+import '../../telemetry/common/telemetry.js';
+import '../../uriIdentity/common/uriIdentity.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import './abstractSynchronizer.js';
+import './extensionsMerge.js';
+import './ignoredExtensions.js';
+import './userDataSync.js';
+import '../../userDataProfile/common/userDataProfileStorageService.js';
 define(
 			de[2936],
 			he([

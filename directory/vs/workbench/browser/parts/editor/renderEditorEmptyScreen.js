@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../contrib/ui/browser/simpleButton/simpleButton.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/labels.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../contrib/controlCommon/browser/solid.js';
+import '../../actions/windowActions.js';
+import '../../../contrib/extensions/common/extensions.js';
+import '../../../common/views.js';
+import '../../../../css!vs/workbench/browser/parts/editor/renderEditorEmptyScreen.js';
 define(
 			de[4223],
 			he([1, 0, 2, 2, 2, 13, 147, 14, 222, 73, 256, 36, 571, 141, 60, 2347]),

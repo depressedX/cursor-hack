@@ -1,3 +1,41 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/keyboardEvent.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../base/browser/ui/splitview/splitview.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/browser/floatingMenu.js';
+import '../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../platform/actions/browser/toolbar.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../debug/browser/callStackWidget.js';
+import '../icons.js';
+import './testMessageStack.js';
+import './testResultsOutput.js';
+import './testResultsSubject.js';
+import './testResultsTree.js';
+import '../../common/constants.js';
+import '../../common/testProfileService.js';
+import '../../common/testResult.js';
+import '../../common/testService.js';
+import '../../common/testTypes.js';
+import '../../common/testingContextKeys.js';
+import '../../../../../css!vs/workbench/contrib/testing/browser/testResultsView/testResultsViewContent.js';
 define(
 			de[3844],
 			he([

@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/charCode.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/strings.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../common/services/unicodeTextModelHighlighter.js';
+import '../../../common/services/editorWorker.js';
+import '../../../common/languages/language.js';
+import '../../../common/viewModel/viewModelDecorations.js';
+import '../../hover/browser/hoverTypes.js';
+import '../../hover/browser/markdownHoverParticipant.js';
+import './bannerController.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../../css!vs/editor/contrib/unicodeHighlighter/browser/unicodeHighlighter.js';
 define(
 			de[3221],
 			he([

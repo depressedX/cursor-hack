@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './breadcrumbs.js';
+import './currentScopes.js';
+import './exports.js';
 define(de[2126], he([1, 0, 1442, 234, 734]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

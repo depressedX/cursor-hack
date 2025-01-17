@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/extensionManagement/common/extensionStorage.js';
+import '../../../../platform/extensionManagement/common/unsupportedExtensionsMigration.js';
+import '../../../../platform/log/common/log.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
 define(
 			de[3292],
 			he([1, 0, 119, 677, 2818, 34, 157]),

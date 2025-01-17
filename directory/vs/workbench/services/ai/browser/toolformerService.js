@@ -1,3 +1,40 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/bufbuild/connect.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../base/common/event.js';
+import '../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './aiService.js';
+import './toolformer/addTestHandler.js';
+import './toolformer/createRmFilesHandler.js';
+import './toolformer/deleteTestHandler.js';
+import './toolformer/editHandler.js';
+import './toolformer/endHandler.js';
+import './toolformer/getSymbolsHandler.js';
+import './toolformer/getTestsHandler.js';
+import './toolformer/goToDefHandler.js';
+import './toolformer/newEditHandler.js';
+import './toolformer/newFileHandler.js';
+import './toolformer/projectStructureHandler.js';
+import './toolformer/readChunkHandler.js';
+import './toolformer/saveFileHandler.js';
+import './toolformer/searchHandler.js';
+import './toolformer/semanticSearchHandler.js';
+import './toolformer/undoEditHandler.js';
+import '../common/toolformerHandlerRegistryService.js';
+import '../../aiErrors/browser/aiErrorService.js';
+import './toolformer/readWithLinterHandler.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import './utils.js';
+import '../../../../base/common/uuid.js';
 define(
 			de[1054],
 			he([

@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../base/common/lifecycle.js';
+import './statusBarExtensionPoint.js';
+import '../../services/statusbar/browser/statusbar.js';
 define(
 			de[3622],
 			he([1, 0, 88, 101, 3, 1872, 166]),

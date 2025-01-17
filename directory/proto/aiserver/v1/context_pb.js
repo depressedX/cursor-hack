@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../../external/bufbuild/protobuf.js';
+import './utils_pb.js';
+import './cpp_pb.js';
+import './lsp_subgraph_pb.js';
 define(
 			de[228],
 			he([1, 0, 86, 83, 367, 1477]),

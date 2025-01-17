@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/actions/common/actions.js';
 define(
 			de[141],
 			he([1, 0, 5, 3, 154, 8, 11]),

@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import './snippets.js';
+import './snippetsFile.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[1753],
 			he([1, 0, 4, 510, 805, 63, 14, 26, 6, 3]),

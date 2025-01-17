@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../services/output/common/output.js';
+import '../../terminal/browser/terminal.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/strings.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../../debug/common/debug.js';
 define(
 			de[3836],
 			he([

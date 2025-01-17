@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/editor.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[568],
 			he([1, 0, 29, 25, 44, 18, 33, 22, 17, 28, 8, 37, 24]),

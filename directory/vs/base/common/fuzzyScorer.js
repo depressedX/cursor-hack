@@ -1,3 +1,12 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './charCode.js';
+import './comparers.js';
+import './filters.js';
+import './hash.js';
+import './path.js';
+import './platform.js';
+import './strings.js';
 define(
 			de[322],
 			he([1, 0, 120, 535, 132, 136, 54, 12, 37]),

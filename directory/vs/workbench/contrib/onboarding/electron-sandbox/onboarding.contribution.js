@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/contributions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../services/ai/browser/onboardingService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../aiproject/electron-sandbox/utils.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/platform.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../services/aiSettings/browser/aiSettingsService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/native/common/native.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../aiFeatureStatusService/browser/aiFeatureStatusService.js';
+import '../../updateForCursor/common/cursorOnUpdate.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/cursorAsync.js';
+import './onboardingActions.js';
 define(
 			de[3956],
 			he([

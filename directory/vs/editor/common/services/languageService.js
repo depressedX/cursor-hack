@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import './languagesRegistry.js';
+import '../../../base/common/arrays.js';
+import '../languages.js';
+import '../languages/modesRegistry.js';
+import '../../../base/common/observable.js';
 define(
 			de[2774],
 			he([1, 0, 6, 3, 2773, 24, 74, 172, 77]),

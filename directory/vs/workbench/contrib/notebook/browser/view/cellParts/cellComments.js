@@ -1,3 +1,15 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/arrays.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../editor/common/config/editorOptions.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/theme/common/themeService.js';
+import '../../../../comments/browser/commentService.js';
+import '../../../../comments/browser/commentThreadWidget.js';
+import '../cellPart.js';
 define(
 			de[3773],
 			he([1, 0, 24, 3, 38, 10, 8, 5, 35, 447, 1899, 294]),

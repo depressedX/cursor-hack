@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import './actions/signOutOfAccountAction.js';
+import '../../../services/authentication/common/authentication.js';
+import '../../../services/environment/browser/environmentService.js';
+import '../../../services/extensionManagement/common/extensionFeatures.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
+import './actions/manageTrustedExtensionsForAccountAction.js';
 define(
 			de[3412],
 			he([

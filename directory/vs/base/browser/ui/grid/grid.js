@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../sash/sash.js';
+import '../../../common/arrays.js';
+import '../../../common/lifecycle.js';
+import './gridview.js';
+import './gridview.js';
+import '../../../../css!vs/base/browser/ui/grid/gridview.js';
 define(
 			de[759],
 			he([1, 0, 277, 24, 3, 1579, 1579, 1511]),

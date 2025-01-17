@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/path.js';
+import '../../../controlCommon/browser/solid.js';
+import '../aiInput/plugins/mentions/searchHooks.js';
 define(
 			de[1996],
 			he([1, 0, 13, 33, 3, 54, 36, 1381]),

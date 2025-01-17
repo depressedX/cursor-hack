@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/files/common/files.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../../base/common/buffer.js';
+import '../../../../platform/log/common/log.js';
 define(
 			de[3536],
 			he([1, 0, 29, 3, 23, 9, 22, 131, 6, 30, 250, 76, 34]),

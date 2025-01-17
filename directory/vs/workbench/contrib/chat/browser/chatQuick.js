@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/sash/sash.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import './chat.js';
+import './chatWidget.js';
+import '../common/chatAgents.js';
+import '../common/chatService.js';
+import '../../../services/views/common/viewsService.js';
 define(
 			de[4066],
 			he([

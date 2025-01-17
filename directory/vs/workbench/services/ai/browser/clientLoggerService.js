@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../../proto/aiserver/v1/client_logger_pb.js';
+import './backendClient.js';
+import '../../../../../proto/aiserver/v1/client_logger_connectweb.js';
+import '../../cursorAuth/browser/authenticationService.js';
+import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[3642],
 			he([1, 0, 5, 3, 1470, 285, 1471, 232, 20]),

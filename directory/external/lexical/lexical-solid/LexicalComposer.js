@@ -1,3 +1,11 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../solid/web.js';
+import '../../solid/web.js';
+import './LexicalComposerContext.js';
+import '../lexical/api.js';
+import '../../solid/solid.js';
+import '../../../vs/workbench/contrib/controlCommon/browser/solid.js';
 define(
 			de[1063],
 			he([1, 0, 2, 2, 181, 164, 13, 36]),

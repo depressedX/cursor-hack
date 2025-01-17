@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[396],
 			he([1, 0, 37, 9, 54, 82, 23, 17, 33, 24]),

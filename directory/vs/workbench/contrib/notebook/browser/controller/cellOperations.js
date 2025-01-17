@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../editor/common/core/position.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/model.js';
+import '../../../../../editor/common/languages/modesRegistry.js';
+import '../../../bulkEdit/browser/bulkCellEdits.js';
+import '../notebookBrowser.js';
+import '../../common/model/notebookCellTextModel.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookRange.js';
+import '../../../../../nls.js';
 define(
 			de[624],
 			he([1, 0, 199, 48, 17, 64, 172, 572, 108, 1029, 70, 442, 4]),

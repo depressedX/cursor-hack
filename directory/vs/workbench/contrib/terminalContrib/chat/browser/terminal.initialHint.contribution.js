@@ -1,3 +1,31 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/browser/ui/keybindingLabel/keybindingLabel.js';
+import '../../../../../base/browser/formattedTextRenderer.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/product/common/productService.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../base/browser/ui/aria/aria.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './terminalChat.js';
+import '../../../terminal/browser/terminalInstance.js';
+import '../common/terminalInitialHintConfiguration.js';
+import '../../../chat/common/chatAgents.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../base/browser/mouseEvent.js';
+import '../../../../../css!vs/workbench/contrib/terminalContrib/chat/browser/media/terminalInitialHint.js';
 define(
 			de[4376],
 			he([

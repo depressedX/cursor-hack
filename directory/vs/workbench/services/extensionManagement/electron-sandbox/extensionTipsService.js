@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/ipc/electron-sandbox/services.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/extensionManagement/common/extensionTipsService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/network.js';
 define(
 			de[3293],
 			he([1, 0, 20, 230, 119, 2897, 22, 62, 23]),

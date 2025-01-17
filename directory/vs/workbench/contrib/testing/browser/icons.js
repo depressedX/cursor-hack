@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import './theme.js';
+import '../common/testTypes.js';
 define(
 			de[470],
 			he([1, 0, 14, 4, 79, 35, 26, 1771, 185]),

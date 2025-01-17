@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../common/commentModel.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/htmlContent.js';
 define(
 			de[983],
 			he([1, 0, 24, 9, 4, 1240, 3, 94]),

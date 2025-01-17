@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/map.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../aiService.js';
+import '../../../search/common/queryBuilder.js';
+import '../../../search/common/search.js';
 define(
 			de[3974],
 			he([1, 0, 124, 33, 59, 5, 25, 118, 361, 186]),

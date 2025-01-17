@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../composerCapabilities.js';
+import '../../../../services/selectedContext/browser/components/ContextPills.js';
+import './ComposerConstantSizeStatusIndicator.js';
 define(
 			de[4397],
 			he([1, 0, 2, 2, 2, 13, 262, 573, 3205]),

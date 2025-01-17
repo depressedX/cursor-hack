@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/countBadge/countBadge.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/path.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './searchModel.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../common/constants.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[4168],
 			he([

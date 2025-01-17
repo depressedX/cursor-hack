@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/list/listWidget.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/list/browser/listService.js';
+import '../../../../../platform/theme/common/themeService.js';
+import './notebookDiffEditorBrowser.js';
+import './diffComponents.js';
+import '../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../editor/browser/widget/diffEditor/diffEditorWidget.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../view/cellParts/cellActionView.js';
+import '../../../../../editor/common/config/fontInfo.js';
+import '../../../../../base/browser/pixelRatio.js';
+import '../../../../../platform/actions/browser/toolbar.js';
+import './diffCellEditorOptions.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../nls.js';
+import '../../../../../css!vs/workbench/contrib/notebook/browser/diff/notebookDiff.js';
 define(
 			de[3772],
 			he([

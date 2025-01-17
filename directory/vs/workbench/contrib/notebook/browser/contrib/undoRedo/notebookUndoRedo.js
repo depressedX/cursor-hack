@@ -1,3 +1,11 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../common/contributions.js';
+import '../../../common/notebookCommon.js';
+import '../../../../../services/editor/common/editorService.js';
+import '../../notebookBrowser.js';
+import '../../../../../../editor/browser/editorExtensions.js';
 define(
 			de[3491],
 			he([1, 0, 3, 55, 70, 18, 108, 46]),

@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/core/editorColorRegistry.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../common/theme.js';
 define(de[512], he([1, 0, 307, 4, 51, 123]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../browser.js';
+import '../../touch.js';
+import '../../dom.js';
+import '../../keyboardEvent.js';
+import '../../mouseEvent.js';
+import '../actionbar/actionbar.js';
+import '../actionbar/actionViewItems.js';
+import '../contextview/contextview.js';
+import '../scrollbar/scrollableElement.js';
+import '../../../common/actions.js';
+import '../../../common/async.js';
+import '../../../common/codicons.js';
+import '../../../common/codiconsUtil.js';
+import '../../../common/themables.js';
+import '../../../common/iconLabels.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../common/platform.js';
+import '../../../common/scrollable.js';
+import '../../../common/strings.js';
 define(
 			de[1168],
 			he([

@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/derived.js';
+import '../../../../base/common/uri.js';
+import '../../../browser/observableCodeEditor.js';
+import '../../../browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../browser/widget/diffEditor/diffProviderFactoryService.js';
+import '../../../browser/widget/diffEditor/registrations.contribution.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/languages/modesRegistry.js';
+import '../../../common/model/textModel.js';
+import '../../../common/services/model.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../css!vs/editor/contrib/inlineEdit/browser/inlineEditSideBySideWidget.js';
 define(
 			de[2915],
 			he([

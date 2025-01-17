@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../common/scm.js';
+import '../../../services/activity/common/activity.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../common/editor.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../base/common/iterator.js';
+import '../../../services/title/browser/titleService.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import './util.js';
+import '../../../../base/common/observable.js';
+import '../../../../platform/observable/common/platformObservableUtils.js';
+import '../../../../base/common/observableInternal/utils.js';
 define(
 			de[3741],
 			he([

@@ -1,3 +1,4 @@
+import '../../../../exports.js';
 define(de[434], he([0]), e)
 				: typeof exports == "object" && typeof module < "u"
 					? e(exports)

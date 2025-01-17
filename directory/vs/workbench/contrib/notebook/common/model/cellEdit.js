@@ -1,3 +1,6 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../platform/undoRedo/common/undoRedo.js';
 define(de[3112], he([1, 0, 155]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

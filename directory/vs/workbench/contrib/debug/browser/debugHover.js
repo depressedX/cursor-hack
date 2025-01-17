@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/numbers.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/scrollable.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import './baseDebugView.js';
+import './linkDetector.js';
+import './variablesView.js';
+import '../common/debug.js';
+import '../common/debugModel.js';
+import '../common/debugUtils.js';
 define(
 			de[3828],
 			he([

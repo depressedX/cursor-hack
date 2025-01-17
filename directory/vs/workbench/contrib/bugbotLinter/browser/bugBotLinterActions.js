@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/actions/common/actions.js';
+import './bugBotLinterService.js';
+import '../../../../base/common/constants.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/editor/browser/editorService.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
+import './bugBotLinterPreviewBoxController.js';
 define(
 			de[4270],
 			he([1, 0, 11, 850, 58, 46, 46, 56, 8, 1051, 43, 27, 71, 27, 179, 1989]),

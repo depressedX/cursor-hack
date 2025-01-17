@@ -1,3 +1,6 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
 define(de[2565], he([1, 0, 24]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$bV = void 0);

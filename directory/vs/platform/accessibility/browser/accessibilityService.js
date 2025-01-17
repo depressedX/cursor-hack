@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/ui/aria/aria.js';
+import '../../../base/browser/window.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../common/accessibility.js';
+import '../../configuration/common/configuration.js';
+import '../../contextkey/common/contextkey.js';
+import '../../layout/browser/layoutService.js';
 define(
 			de[2739],
 			he([1, 0, 7, 127, 75, 6, 3, 91, 10, 8, 180]),

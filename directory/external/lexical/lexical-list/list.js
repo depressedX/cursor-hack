@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../lexical/api.js';
+import '../lexical-utils/api.js';
+import '../lexical/api.js';
 define(de[923], he([1, 0, 164, 304, 164]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

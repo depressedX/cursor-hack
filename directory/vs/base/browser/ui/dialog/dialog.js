@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../keyboardEvent.js';
+import '../actionbar/actionbar.js';
+import '../button/button.js';
+import '../toggle/toggle.js';
+import '../inputbox/inputBox.js';
+import '../../../common/actions.js';
+import '../../../common/codicons.js';
+import '../../../common/themables.js';
+import '../../../common/keyCodes.js';
+import '../../../common/labels.js';
+import '../../../common/lifecycle.js';
+import '../../../common/platform.js';
+import '../../../../nls.js';
+import '../../../../css!vs/base/browser/ui/dialog/dialog.js';
 define(
 			de[1583],
 			he([

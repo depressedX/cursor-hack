@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../observableCodeEditor.js';
+import '../features/overviewRulerFeature.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/position.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
 define(
 			de[2846],
 			he([1, 0, 6, 3, 77, 542, 1663, 38, 48, 4, 5, 39]),

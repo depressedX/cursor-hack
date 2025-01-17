@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../lexical-history/api.js';
+import '../../../solid/solid.js';
 define(de[1565], he([1, 0, 922, 13]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

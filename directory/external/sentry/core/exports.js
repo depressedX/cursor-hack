@@ -1,3 +1,11 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../utils/index.js';
+import './constants.js';
+import './currentScopes.js';
+import './debug-build.js';
+import './session.js';
+import './utils/prepareEvent.js';
 define(
 			de[734],
 			he([1, 0, 80, 879, 234, 263, 887, 1101]),

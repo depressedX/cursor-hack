@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './event.js';
+import './lifecycle.js';
+import '../../nls.js';
 define(de[50], he([1, 0, 6, 3, 4]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

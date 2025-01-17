@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/errors.js';
+import '../../../common/services/model.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/services/semanticTokensProviderStyling.js';
+import '../common/getSemanticTokens.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/semanticTokensStyling.js';
+import '../../../common/editorFeatures.js';
+import '../common/semanticTokensConfig.js';
 define(
 			de[2864],
 			he([

@@ -1,3 +1,10 @@
+import '../require.js';
+import '../exports.js';
+import './base/common/amd.js';
+import './base/common/network.js';
+import './base/common/platform.js';
+import './base/common/types.js';
+import './base/common/uri.js';
 define(
 			de[536],
 			he([1, 0, 455, 23, 12, 28, 9]),

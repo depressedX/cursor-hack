@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/strings.js';
+import '../core/editOperation.js';
+import '../core/range.js';
+import '../encodedTokenAttributes.js';
 define(
 			de[1148],
 			he([1, 0, 37, 188, 17, 171]),

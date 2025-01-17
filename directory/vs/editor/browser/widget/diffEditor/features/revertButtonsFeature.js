@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../common/core/lineRange.js';
+import '../../../../common/core/range.js';
+import '../../../../common/diff/rangeMapping.js';
+import '../../../../common/model.js';
+import '../../../../../nls.js';
 define(
 			de[2759],
 			he([1, 0, 7, 182, 14, 3, 77, 196, 17, 342, 64, 4]),

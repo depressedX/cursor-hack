@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/editor.js';
+import '../../../services/views/common/viewsService.js';
+import '../../search/browser/searchActionsBase.js';
+import './searchEditorInput.js';
+import './searchEditorSerialization.js';
+import '../../../services/configurationResolver/common/configurationResolver.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/history/common/history.js';
+import '../../../../css!vs/workbench/contrib/searchEditor/browser/media/searchEditor.js';
 define(
 			de[1971],
 			he([

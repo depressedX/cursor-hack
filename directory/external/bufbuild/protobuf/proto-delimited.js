@@ -1,3 +1,6 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './binary-encoding.js';
 define(de[2031], he([1, 0, 1085]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

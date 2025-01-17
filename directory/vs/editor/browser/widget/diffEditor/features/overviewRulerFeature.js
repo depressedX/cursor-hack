@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/fastDomNode.js';
+import '../../../../../base/browser/ui/scrollbar/scrollbarState.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../utils.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/position.js';
+import '../../../../common/viewModel/overviewZoneManager.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../platform/theme/common/themeService.js';
 define(
 			de[1663],
 			he([1, 0, 7, 194, 1128, 3, 77, 370, 38, 48, 1546, 51, 35]),

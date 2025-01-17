@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../languages/language.js';
+import '../../../platform/theme/common/themeService.js';
+import '../../../platform/log/common/log.js';
+import './semanticTokensProviderStyling.js';
+import './semanticTokensStyling.js';
+import '../../../platform/instantiation/common/extensions.js';
 define(
 			de[2856],
 			he([1, 0, 3, 61, 35, 34, 1209, 1180, 20]),

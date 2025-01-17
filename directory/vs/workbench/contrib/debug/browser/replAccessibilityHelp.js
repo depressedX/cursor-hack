@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/lifecycle.js';
+import './repl.js';
+import '../../../services/views/common/viewsService.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../nls.js';
 define(
 			de[3825],
 			he([1, 0, 178, 8, 3, 847, 89, 130, 4]),

@@ -1,3 +1,36 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/uri.js';
+import './ComposerFullInputBox.js';
+import './ComposerLexicalRenderer.js';
+import '../constants.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../utils.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/utils.js';
+import '../../../../services/selectedContext/browser/components/ContextPills.js';
+import '../../../../services/selectedContext/browser/hooks/useContextPills.js';
+import './ComposerCapabilityMessageRenderer.js';
+import './ComposerContextChunkSection.js';
+import '../hooks/useComposerDataHandle.js';
+import '../../../ui/browser/hooks/useThemeHooks.js';
+import '../../../../common/theme.js';
+import './ComposerIndexingStatusUI.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/components/ComposerHumanMessage.js';
 define(
 			de[4411],
 			he([

@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/uri.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../css!vs/editor/contrib/linkedEditing/browser/linkedEditing.js';
 define(
 			de[2920],
 			he([

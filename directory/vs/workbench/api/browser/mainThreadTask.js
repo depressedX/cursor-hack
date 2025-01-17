@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/uuid.js';
+import '../../../base/common/types.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/workspace/common/workspace.js';
+import '../../contrib/tasks/common/tasks.js';
+import '../../contrib/tasks/common/taskService.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../common/extHost.protocol.js';
+import '../../services/configurationResolver/common/configurationResolver.js';
+import '../../../base/common/errors.js';
 define(
 			de[3369],
 			he([1, 0, 4, 9, 47, 28, 12, 3, 25, 424, 419, 101, 88, 358, 29]),

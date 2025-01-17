@@ -1,3 +1,15 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/uri.js';
+import '../../../../../../platform/registry/common/platform.js';
+import '../../../../../common/contributions.js';
+import '../../../../debug/common/debug.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionService.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3468],
 			he([1, 0, 15, 3, 9, 30, 55, 112, 70, 611, 190, 52]),

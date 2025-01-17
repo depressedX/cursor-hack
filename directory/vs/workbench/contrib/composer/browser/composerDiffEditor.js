@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/types.js';
+import '../../../browser/parts/editor/textEditor.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorOptions.js';
+import '../../../common/editor/diffEditorInput.js';
+import '../../../common/editor/textDiffEditorModel.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/uri.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/files/common/files.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../editor/browser/widget/diffEditor/diffEditorWidget.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/contrib/aiFullFilePromptBar/browser/aiFullFilePromptBarContribution.js';
+import '../../../../editor/contrib/cHintLine/browser/hintLineContributions.js';
+import '../../../../editor/contrib/inlineDiffs/browser/controllers/inlineDiffController.js';
+import '../../../../editor/contrib/cHover/browser/hoverContributions.js';
+import '../../../../platform/tracing/common/tracing.js';
 define(
 			de[4371],
 			he([

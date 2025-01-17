@@ -1,3 +1,28 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/keyboardEvent.js';
+import '../../../../../../base/browser/ui/iconLabel/simpleIconLabel.js';
+import '../../../../../../base/common/errorMessage.js';
+import '../../../../../../base/common/event.js';
+import '../../../../../../base/common/iconLabels.js';
+import '../../../../../../base/common/keyCodes.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/marshallingIds.js';
+import '../../../../../../editor/common/editorCommon.js';
+import '../../../../../../platform/commands/common/commands.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/notification/common/notification.js';
+import '../../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../../platform/theme/common/themeService.js';
+import '../../notebookBrowser.js';
+import '../cellPart.js';
+import './cellWidgets.js';
+import '../../viewModel/codeCellViewModel.js';
+import '../../../common/notebookCommon.js';
+import '../../../../../../platform/hover/browser/hover.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../base/browser/ui/hover/hoverWidget.js';
 define(
 			de[4095],
 			he([

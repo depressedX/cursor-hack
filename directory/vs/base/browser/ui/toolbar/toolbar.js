@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../actionbar/actionbar.js';
+import '../dropdown/dropdownActionViewItem.js';
+import '../../../common/actions.js';
+import '../../../common/codicons.js';
+import '../../../common/themables.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../../nls.js';
+import '../hover/hoverDelegateFactory.js';
+import '../../../../css!vs/base/browser/ui/toolbar/toolbar.js';
 define(
 			de[461],
 			he([1, 0, 105, 437, 50, 14, 26, 6, 3, 4, 95, 2258]),

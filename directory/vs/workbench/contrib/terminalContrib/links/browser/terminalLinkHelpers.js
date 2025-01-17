@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/path.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
 define(de[562], he([1, 0, 12, 54, 189]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

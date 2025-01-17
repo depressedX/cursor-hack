@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/extpath.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../browser/view/mergeEditor.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[3870],
 			he([1, 0, 76, 14, 249, 9, 61, 4, 11, 121, 113, 22, 63, 1050, 18]),

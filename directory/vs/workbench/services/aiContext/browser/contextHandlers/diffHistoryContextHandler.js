@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../ai/browser/aiService.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../contrib/aiFeatureStatusService/browser/aiFeatureStatusService.js';
 define(
 			de[3992],
 			he([1, 0, 42, 118, 45, 280, 134, 287]),

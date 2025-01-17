@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../common/commentModel.js';
+import './commentService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../browser/labels.js';
+import './commentsTreeViewer.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../common/views.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import './comments.js';
+import './commentsViewActions.js';
+import '../../../common/memento.js';
+import '../../../../platform/storage/common/storage.js';
+import './commentsFilterOptions.js';
+import '../../../../editor/common/languages.js';
+import './commentsController.js';
+import '../../../browser/actions/widgetNavigationCommands.js';
+import './commentsModel.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../../accessibility/browser/accessibleViewActions.js';
+import '../../../services/path/common/pathService.js';
+import '../../../../css!vs/workbench/contrib/comments/browser/media/panel.js';
 define(
 			de[1330],
 			he([

@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/contributions.js';
+import '../../../../platform/actions/common/actions.js';
+import './listResizeColumnAction.js';
 define(de[3430], he([1, 0, 8, 55, 11, 3072]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$v2c = void 0);

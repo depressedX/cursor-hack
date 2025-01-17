@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/views.js';
+import '../../../services/remote/common/remoteExplorerService.js';
+import '../../../services/remote/common/tunnelModel.js';
+import './tunnelView.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import './urlFinder.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../terminal/browser/terminal.js';
+import '../../debug/common/debug.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/tunnel/common/tunnel.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../services/activity/common/activity.js';
+import './remoteIcons.js';
+import '../../../../base/common/event.js';
+import '../../externalUriOpener/common/externalUriOpenerService.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/log/common/log.js';
+import '../../../services/configuration/common/configuration.js';
+import '../../../../base/common/actions.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 		de[1058],
 		he([

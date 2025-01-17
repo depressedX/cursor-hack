@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../core/characterClassifier.js';
 define(de[1535], he([1, 0, 120, 654]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

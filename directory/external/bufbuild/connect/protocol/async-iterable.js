@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../code.js';
+import '../connect-error.js';
+import './envelope.js';
+import './limit-io.js';
+import '../uint8arraylist/index.js';
 define(
 			de[575],
 			he([1, 0, 202, 213, 2020, 1081, 2025]),

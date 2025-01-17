@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/product/common/product.js';
+import '../../../../base/common/async.js';
 define(
 		de[3302],
 		he([1, 0, 109, 6, 54, 3, 372, 15]),

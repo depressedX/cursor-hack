@@ -1,3 +1,6 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './position.js';
 define(de[17], he([1, 0, 48]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$iL = void 0);

@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marshalling.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/theme/common/colorUtils.js';
+import './chat.js';
+import './chatAgentHover.js';
+import '../common/chatAgents.js';
+import '../common/chatColors.js';
+import '../common/chatParserTypes.js';
+import '../common/chatService.js';
+import '../common/annotations.js';
+import '../common/chatVariables.js';
+import '../common/languageModelToolsService.js';
 define(
 			de[1354],
 			he([

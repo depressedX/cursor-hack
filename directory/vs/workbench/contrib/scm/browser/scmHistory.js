@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/colors/chartsColors.js';
+import '../../../../platform/theme/common/colorUtils.js';
+import '../../../../base/common/numbers.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[1747],
 			he([1, 0, 4, 24, 82, 26, 51, 1658, 306, 201, 7]),

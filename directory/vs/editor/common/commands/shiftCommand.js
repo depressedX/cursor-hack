@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/strings.js';
+import '../core/cursorColumns.js';
+import '../core/range.js';
+import '../core/selection.js';
+import '../languages/enterAction.js';
+import '../languages/languageConfigurationRegistry.js';
 define(
 			de[771],
 			he([1, 0, 120, 37, 435, 17, 104, 1198, 152]),

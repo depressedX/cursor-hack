@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/mouseEvent.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/browser/ui/sash/sash.js';
+import '../../../../base/browser/ui/splitview/paneview.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../actions.js';
+import '../../dnd.js';
+import '../../../common/component.js';
+import '../../../common/theme.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../common/contextkeys.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../css!vs/workbench/browser/parts/views/media/paneviewlet.js';
 define(
 			de[239],
 			he([

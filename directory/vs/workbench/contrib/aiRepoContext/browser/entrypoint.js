@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import './components/customChoicePopup.js';
+import './components/dangerousActionPopup.js';
+import '../../controlCommon/browser/solid.js';
 define(
 			de[4336],
 			he([1, 0, 2, 4335, 1966, 36]),

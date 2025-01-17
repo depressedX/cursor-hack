@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errors.js';
+import './offsetRange.js';
+import './range.js';
+import '../../../base/common/arraysFind.js';
 define(de[196], he([1, 0, 29, 289, 17, 214]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

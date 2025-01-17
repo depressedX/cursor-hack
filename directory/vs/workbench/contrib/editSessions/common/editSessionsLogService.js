@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/resources.js';
+import '../../../../nls.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/log/common/log.js';
+import './editSessions.js';
 define(
 			de[3059],
 			he([1, 0, 19, 4, 113, 34, 685]),

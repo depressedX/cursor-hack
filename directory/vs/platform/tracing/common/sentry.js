@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../../external/sentry/core/index.js';
+import '../../../../external/sentry/core/semanticAttributes.js';
+import '../../../../external/sentry/electron/common/envelope.js';
+import '../../../../external/sentry/utils/error.js';
+import '../../../../external/sentry/utils/misc.js';
+import '../../../../external/sentry/utils/promisebuffer.js';
 define(
 		de[1668],
 		he([1, 0, 144, 453, 2146, 1092, 727, 1426]),

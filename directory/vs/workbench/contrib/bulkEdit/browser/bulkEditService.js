@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/linkedList.js';
+import '../../../../base/common/map.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/browser/services/bulkEditService.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import './bulkCellEdits.js';
+import './bulkFileEdits.js';
+import './bulkTextEdits.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/workingCopy/common/workingCopyService.js';
 define(
 			de[3904],
 			he([

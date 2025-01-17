@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/buffer.js';
+import './extHost.protocol.js';
 define(de[3374], he([1, 0, 76, 88]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

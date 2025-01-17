@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import './tooltipUiWidgets.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../workbench/contrib/terminal/common/terminal.js';
 define(
 		de[3166],
 		he([1, 0, 3, 1610, 31, 5, 145]),

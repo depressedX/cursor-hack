@@ -1,3 +1,20 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/network.js';
+import '../../../../../../editor/browser/editorExtensions.js';
+import '../../../../../../platform/commands/common/commands.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/hover/browser/hover.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../../platform/product/common/productService.js';
+import '../../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../codeEditor/browser/emptyTextEditorHint/emptyTextEditorHint.js';
+import '../../notebookBrowser.js';
+import '../../../../../services/editor/common/editorGroupsService.js';
+import '../../../../../services/editor/common/editorService.js';
 define(
 			de[3984],
 			he([1, 0, 23, 46, 31, 10, 8, 49, 72, 39, 62, 45, 32, 1933, 108, 66, 18]),

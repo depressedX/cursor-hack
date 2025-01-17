@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/lexical/lexical-history/api.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../browser/editorExtensions.js';
+import '../../../../browser/services/codeEditorService.js';
+import '../../../../browser/services/inlineDiffService.js';
+import '../../../../common/editorContextKeys.js';
+import '../../../../common/model.js';
+import '../widgets/promptBarViewZone.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../workbench/services/editor/common/editorService.js';
+import '../../../../../workbench/services/aiCmdK/browser/cmdKService.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../base/common/resources.js';
+import '../../../inlineCompletions/browser/controller/commands.js';
+import '../../../../../platform/configuration/common/configuration.js';
 define(
 			de[2002],
 			he([

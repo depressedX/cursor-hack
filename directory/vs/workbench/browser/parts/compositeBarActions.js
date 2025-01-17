@@ -1,3 +1,25 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/actions.js';
+import '../../../base/browser/dom.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/contextview/browser/contextView.js';
+import '../../../platform/theme/common/themeService.js';
+import '../../services/activity/common/activity.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../base/browser/dnd.js';
+import '../../../platform/keybinding/common/keybinding.js';
+import '../../../base/common/event.js';
+import '../dnd.js';
+import '../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/themables.js';
+import '../../../platform/hover/browser/hover.js';
+import '../../../base/common/async.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/theme/common/colorRegistry.js';
 define(
 			de[1349],
 			he([

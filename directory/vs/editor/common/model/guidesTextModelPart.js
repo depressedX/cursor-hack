@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arraysFind.js';
+import '../../../base/common/strings.js';
+import '../core/cursorColumns.js';
+import '../core/range.js';
+import './textModelPart.js';
+import './utils.js';
+import '../textModelGuides.js';
+import '../../../base/common/errors.js';
 define(
 			de[1543],
 			he([1, 0, 214, 37, 435, 17, 1539, 1149, 1150, 29]),

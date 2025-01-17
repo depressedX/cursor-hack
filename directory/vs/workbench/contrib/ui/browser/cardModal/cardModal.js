@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../modal/modal.js';
+import '../simpleButton/simpleButton.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/cardModal/cardModal.js';
 define(
 			de[4321],
 			he([1, 0, 2, 2, 2, 2, 13, 1374, 147, 2511]),

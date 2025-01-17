@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../common/extensionManagementService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../common/extensionManagement.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/download/common/download.js';
+import '../../../../platform/product/common/productService.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../extensions/common/extensionManifestPropertiesService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/log/common/log.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../../../platform/extensionManagement/common/extensionsScannerService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
 define(
 			de[4390],
 			he([

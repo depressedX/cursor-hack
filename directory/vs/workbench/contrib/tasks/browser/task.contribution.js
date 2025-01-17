@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/actions/common/actions.js';
+import '../common/problemMatcher.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../services/output/common/output.js';
+import '../common/tasks.js';
+import '../common/taskService.js';
+import '../../../common/contributions.js';
+import './runAutomaticTasks.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import '../common/jsonSchema_v1.js';
+import '../common/jsonSchema_v2.js';
+import './abstractTaskService.js';
+import '../../../services/configuration/common/configuration.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/quickinput/common/quickAccess.js';
+import './tasksQuickAccess.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../common/taskDefinitionRegistry.js';
+import '../../terminal/browser/terminalMenus.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/async.js';
 define(
 		de[3839],
 		he([

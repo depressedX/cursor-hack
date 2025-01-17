@@ -1,3 +1,27 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/browser/ui/actionbar/actionbar.js';
+import '../../services/activity/common/activity.js';
+import '../../services/layout/browser/layoutService.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../base/common/lifecycle.js';
+import './compositeBar.js';
+import '../../../base/browser/dom.js';
+import '../../../platform/storage/common/storage.js';
+import '../../services/extensions/common/extensions.js';
+import '../../../base/common/uri.js';
+import './compositeBarActions.js';
+import '../../common/views.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../../../base/common/types.js';
+import '../../services/environment/common/environmentService.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/themables.js';
+import '../../../base/common/actions.js';
+import '../../../base/common/hash.js';
+import '../../../platform/telemetry/common/telemetry.js';
+import '../../../platform/configuration/common/configuration.js';
 define(
 			de[1937],
 			he([

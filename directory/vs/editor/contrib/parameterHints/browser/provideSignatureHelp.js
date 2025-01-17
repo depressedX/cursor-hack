@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../common/core/position.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/resolverService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[1182],
 			he([1, 0, 33, 29, 28, 9, 48, 74, 69, 42, 31, 8]),

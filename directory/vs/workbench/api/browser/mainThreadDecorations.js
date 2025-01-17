@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/decorations/common/decorations.js';
+import '../../../base/common/cancellation.js';
 define(
 			de[3343],
 			he([1, 0, 9, 6, 3, 88, 101, 472, 33]),

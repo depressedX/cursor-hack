@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/arrays.js';
+import '../../../common/async.js';
+import '../../../common/buffer.js';
+import '../../../common/cancellation.js';
+import '../../../common/decorators.js';
+import '../../../common/errors.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/marshalling.js';
+import '../../../common/strings.js';
+import '../../../common/types.js';
 define(
 			de[305],
 			he([1, 0, 24, 15, 76, 33, 138, 29, 6, 3, 197, 37, 28]),

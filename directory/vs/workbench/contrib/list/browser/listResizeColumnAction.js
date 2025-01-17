@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './tableColumnResizeQuickPick.js';
+import '../../../../base/browser/ui/table/tableWidget.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../nls.js';
 define(
 			de[3072],
 			he([1, 0, 3071, 1167, 5, 93, 11, 4]),

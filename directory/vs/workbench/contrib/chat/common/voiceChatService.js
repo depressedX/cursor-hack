@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './chatAgents.js';
+import './chatParserTypes.js';
+import '../../speech/common/speechService.js';
 define(
 			de[1755],
 			he([1, 0, 4, 6, 3, 37, 8, 5, 153, 329, 511]),

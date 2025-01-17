@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../event.js';
+import '../../formattedTextRenderer.js';
+import '../actionbar/actionbar.js';
+import '../aria/aria.js';
+import '../contextview/contextview.js';
+import '../hover/hoverDelegate2.js';
+import '../hover/hoverDelegateFactory.js';
+import '../scrollbar/scrollableElement.js';
+import '../widget.js';
+import '../../../common/event.js';
+import '../../../common/history.js';
+import '../../../common/objects.js';
+import '../../../common/scrollable.js';
+import '../../../../nls.js';
+import '../../../../css!vs/base/browser/ui/inputbox/inputBox.js';
 define(
 			de[292],
 			he([

@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../terminal/browser/terminal.js';
+import '../common/terminalAccessibilityConfiguration.js';
 define(
 			de[3570],
 			he([1, 0, 6, 3, 67, 178, 10, 8, 189, 130, 107, 996]),

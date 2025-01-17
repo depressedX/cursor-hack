@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/charCode.js';
+import '../../../../base/common/search.js';
 define(de[1550], he([1, 0, 120, 1507]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

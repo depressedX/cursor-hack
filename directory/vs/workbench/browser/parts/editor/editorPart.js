@@ -1,3 +1,37 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../part.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/browser/ui/grid/grid.js';
+import '../../../common/editor.js';
+import '../../../common/theme.js';
+import '../../../../base/common/arrays.js';
+import './editor.js';
+import './editorGroupView.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/editor/editorGroupModel.js';
+import './editorDropTarget.js';
+import '../../../../base/common/color.js';
+import '../../../../base/browser/ui/centered/centeredViewLayout.js';
+import '../../../../base/common/errors.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../base/common/types.js';
+import '../../dnd.js';
+import '../../../../base/common/async.js';
+import '../../../services/editor/common/editorGroupFinder.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../common/contextkeys.js';
+import '../../../../base/browser/window.js';
 define(
 			de[1985],
 			he([

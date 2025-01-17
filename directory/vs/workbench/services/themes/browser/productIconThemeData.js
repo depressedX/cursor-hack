@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/json.js';
+import '../common/workbenchThemeService.js';
+import '../../../../base/common/jsonErrorMessages.js';
+import '../../../../platform/storage/common/storage.js';
+import '../common/productIconThemeSchema.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/themables.js';
 define(
 			de[1890],
 			he([1, 0, 4, 54, 19, 187, 333, 754, 21, 1322, 28, 79, 26]),

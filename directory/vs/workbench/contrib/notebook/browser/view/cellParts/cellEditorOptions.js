@@ -1,3 +1,17 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/event.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/registry/common/platform.js';
+import '../../../../../common/contextkeys.js';
+import '../../controller/coreActions.js';
+import '../../../common/notebookContextKeys.js';
+import '../cellPart.js';
+import '../../../common/notebookCommon.js';
 define(
 			de[836],
 			he([1, 0, 6, 4, 11, 10, 81, 8, 30, 100, 238, 176, 294, 70]),

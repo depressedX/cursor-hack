@@ -1,3 +1,43 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../nls.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/ui/toolbar/toolbar.js';
+import '../../../../../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../../../../../base/common/event.js';
+import '../../../../../../base/common/filters.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../editor/common/services/getIconClasses.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/markers/common/markers.js';
+import '../../../../../../platform/registry/common/platform.js';
+import '../../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../../platform/theme/common/themeService.js';
+import '../../../../../common/contributions.js';
+import '../../notebookBrowser.js';
+import '../../notebookEditor.js';
+import '../../../common/notebookCommon.js';
+import '../../../../../services/editor/common/editorService.js';
+import '../../../../../services/lifecycle/common/lifecycle.js';
+import '../../../../../services/outline/browser/outline.js';
+import '../../../../../../base/common/cancellation.js';
+import '../../../../../../editor/common/core/range.js';
+import '../../../../../../base/browser/window.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../../base/common/async.js';
+import '../../../../outline/browser/outline.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../common/notebookContextKeys.js';
+import '../../viewModel/notebookOutlineEntryFactory.js';
+import '../../viewModel/notebookOutlineDataSourceFactory.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../../../../editor/common/services/languageFeatures.js';
 define(
 			de[1958],
 			he([

@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/jsonc.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/contributions.js';
+import '../../../services/configuration/common/jsonEditing.js';
+import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3425],
 			he([1, 0, 12, 3426, 113, 22, 30, 21, 55, 423, 52]),

@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import './composerCapabilitySchemas.js';
+import '../../../../base/common/lifecycle.js';
+import './composerData.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../../external/solid/store.js';
+import '../../../../../proto/aiserver/v1/composer_pb.js';
+import './composerCapabilitySchemas.js';
+import './composerCapabilitySchemas.js';
+import '../../../../base/common/types.js';
 define(
 			de[262],
 			he([1, 0, 14, 351, 3, 225, 126, 13, 193, 167, 351, 351, 28]),

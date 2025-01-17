@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import './actions.js';
+import '../../commands/common/commands.js';
+import '../../contextkey/common/contextkey.js';
+import '../../../base/common/actions.js';
+import '../../storage/common/storage.js';
+import '../../../base/common/arrays.js';
+import '../../../nls.js';
+import '../../keybinding/common/keybinding.js';
 define(
 			de[1677],
 			he([1, 0, 15, 6, 3, 11, 31, 8, 50, 21, 24, 4, 39]),

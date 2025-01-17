@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/platform.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/constants.js';
+import '../../accessibility/common/accessibilityCommands.js';
+import '../../terminalContrib/accessibility/common/terminal.accessibility.js';
+import '../../terminalContrib/find/common/terminal.find.js';
+import '../../terminalContrib/suggest/common/terminal.suggest.js';
 define(
 			de[145],
 			he([1, 0, 12, 4, 5, 58, 417, 995, 1263, 1768]),

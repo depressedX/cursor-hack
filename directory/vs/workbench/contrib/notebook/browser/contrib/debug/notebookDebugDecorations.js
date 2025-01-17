@@ -1,3 +1,17 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../editor/common/core/range.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../debug/browser/breakpointEditorContribution.js';
+import '../../../../debug/browser/callStackEditorContribution.js';
+import '../../../../debug/common/debug.js';
+import '../../notebookBrowser.js';
+import '../../notebookEditorExtensions.js';
+import '../../notebookEditorWidget.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionStateService.js';
 define(
 			de[4101],
 			he([1, 0, 15, 3, 17, 10, 1331, 796, 112, 108, 330, 856, 70, 190]),

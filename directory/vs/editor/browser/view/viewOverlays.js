@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/fastDomNode.js';
+import '../config/domFontInfo.js';
+import './viewLayer.js';
+import './viewPart.js';
+import '../../common/config/editorOptions.js';
 define(
 			de[2713],
 			he([1, 0, 194, 321, 1183, 303, 38]),

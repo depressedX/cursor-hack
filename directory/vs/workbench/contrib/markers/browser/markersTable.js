@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../base/browser/ui/highlightedlabel/highlightedLabel.js';
+import './markersModel.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/severityIcon/browser/severityIcon.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../platform/label/common/label.js';
+import './markersFilterOptions.js';
+import '../../../../platform/opener/browser/link.js';
+import '../../../../platform/opener/common/opener.js';
+import './markersViewActions.js';
+import '../../../../base/browser/event.js';
+import './messages.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../platform/markers/common/markerService.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 		de[3075],
 		he([

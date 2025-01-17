@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../css!vs/editor/contrib/cMultiFileHighlight/browser/multiFileHighlightWidget.js';
 define(
 			de[2859],
 			he([1, 0, 7, 159, 97, 3, 56, 38, 35, 2290]),

@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import './ComposerGeneralStatusIndicator.js';
+import '../../../ui/browser/loadingSpinner/loadingSpinner.js';
 define(
 			de[3205],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 565, 295]),

@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/browser/dom.js';
+import './types.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../services/progress/browser/progressIndicator.js';
+import '../../../../base/browser/ui/progressbar/progressbar.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/progress/common/progress.js';
 define(
 			de[3595],
 			he([1, 0, 2, 2, 2, 2, 2, 13, 7, 1035, 128, 105, 707, 436, 106, 84]),

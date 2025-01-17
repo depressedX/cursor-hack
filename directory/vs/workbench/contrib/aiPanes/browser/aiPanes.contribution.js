@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../common/views.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../common/contributions.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../common/views.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import './panes/semanticSearchView.js';
+import '../../../services/views/common/viewsService.js';
+import '../../aiHyperMode/browser/renderAiHyperModePane.js';
+import './panes/aiBackgroundCmdKEval.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../bugbot/browser/renderBugbotPane.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './panes/aiWatcherBugActions.js';
 define(
 			de[1988],
 			he([

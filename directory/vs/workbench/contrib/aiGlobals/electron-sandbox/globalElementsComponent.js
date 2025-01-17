@@ -1,3 +1,43 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../controlCommon/browser/solid.js';
+import '../../../../../external/solid/solid.js';
+import '../../ui/browser/modal/modal.js';
+import '../../ui/browser/inlineTextArea/inlineTextArea.js';
+import '../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../base/browser/solidComponents/switch/switch.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/constants.js';
+import '../../ui/browser/loadingSpinner/loadingSpinner.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/common/uuid.js';
+import '../../../../../proto/aiserver/v1/uploadserver_connectweb.js';
+import '../../../services/ai/browser/utils.js';
+import '../../aiWebCmdK/browser/renderAiWebCmdK.js';
+import '../../ui/browser/loadingStateButton/loadingStateButton.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/common/uri.js';
+import './components/inviteModal.js';
+import '../../ui/browser/hooks/useThemeHooks.js';
+import '../../aichat/browser/components/ChatError.js';
+import '../../../../../external/bufbuild/connect.js';
+import '../../../services/aiErrors/browser/aiErrorService.js';
+import './components/TrialEndedModal.js';
+import '../../ui/browser/checkbox/checkbox.js';
+import '../../../../css!vs/workbench/contrib/aiGlobals/electron-sandbox/globalElementsComponent.js';
 define(
 		de[4332],
 		he([

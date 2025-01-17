@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/editorColorRegistry.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/model.js';
+import './findModel.js';
+import './findOptionsWidget.js';
+import './findState.js';
+import './findWidget.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../workbench/services/ai/browser/aiMiscServices.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../base/common/event.js';
 define(
 			de[618],
 			he([

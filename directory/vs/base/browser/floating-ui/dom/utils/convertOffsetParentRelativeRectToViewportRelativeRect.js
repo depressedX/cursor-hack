@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './getBoundingClientRect.js';
+import './getDocumentElement.js';
+import './getNodeScroll.js';
+import './getScale.js';
+import './is.js';
+import './node.js';
 define(
 			de[2664],
 			he([1, 0, 663, 538, 928, 929, 324, 594]),

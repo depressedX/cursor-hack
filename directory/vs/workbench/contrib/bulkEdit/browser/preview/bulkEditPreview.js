@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../../editor/common/model/textModel.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/core/editOperation.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../base/common/event.js';
+import '../conflicts.js';
+import '../../../../../base/common/map.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/contrib/snippet/browser/snippetParser.js';
+import '../../../../../base/common/symbols.js';
 define(
 			de[1843],
 			he([

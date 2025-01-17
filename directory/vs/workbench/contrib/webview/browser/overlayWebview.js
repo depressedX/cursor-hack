@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/layout/browser/layoutService.js';
+import './webview.js';
 define(
 			de[3406],
 			he([1, 0, 7, 194, 6, 3, 47, 8, 96, 355]),

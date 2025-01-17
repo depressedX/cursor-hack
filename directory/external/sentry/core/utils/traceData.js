@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../asyncContext/index.js';
+import '../carrier.js';
+import '../currentScopes.js';
+import '../exports.js';
+import '../tracing/index.js';
+import './spanUtils.js';
 define(
 			de[1452],
 			he([1, 0, 80, 733, 578, 234, 734, 640, 301]),

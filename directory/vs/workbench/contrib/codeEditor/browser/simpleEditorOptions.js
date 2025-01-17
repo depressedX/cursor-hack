@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/contrib/contextmenu/browser/contextmenu.js';
+import '../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../../../../editor/contrib/suggest/browser/suggestController.js';
+import './menuPreventer.js';
+import './selectionClipboard.js';
+import '../../snippets/browser/tabCompletion.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/theme/common/colorRegistry.js';
 define(
 			de[521],
 			he([1, 0, 375, 254, 328, 394, 504, 714, 46, 35, 51]),

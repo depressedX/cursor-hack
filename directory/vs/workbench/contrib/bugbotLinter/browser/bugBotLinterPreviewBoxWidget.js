@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './bugBotLinterService.js';
+import './renderBugBotLinterPreviewBox.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../css!vs/workbench/contrib/bugbotLinter/browser/bugBotLinterStyles.js';
 define(
 			de[4269],
 			he([1, 0, 7, 3, 56, 5, 850, 4268, 45, 13, 1522]),

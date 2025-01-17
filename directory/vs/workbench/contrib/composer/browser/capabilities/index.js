@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './loopOnLints.js';
+import './loopOnCommand.js';
+import './megaPlanner.js';
+import './toolCall.js';
+import './diffReview.js';
+import './editTrail.js';
+import './contextPicking.js';
+import './autoContext.js';
+import './contextPlanner.js';
+import './diffHistory.js';
+import './rememberThis.js';
+import './usesCodebase.js';
+import './toolFormer.js';
 define(
 			de[4345],
 			he([

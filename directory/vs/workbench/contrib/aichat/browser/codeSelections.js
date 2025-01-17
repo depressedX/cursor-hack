@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/core/selection.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../ui/browser/aiInput/plugins/mentions/types.js';
 define(
 			de[354],
 			he([1, 0, 9, 56, 17, 104, 83, 310]),

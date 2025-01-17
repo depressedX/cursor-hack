@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[1279],
 			he([1, 0, 45, 3, 8, 137, 20, 58, 10]),

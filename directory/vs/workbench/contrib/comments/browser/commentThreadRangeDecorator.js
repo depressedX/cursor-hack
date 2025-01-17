@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/common/model/textModel.js';
 define(de[3030], he([1, 0, 3, 74, 122]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$opc = void 0);

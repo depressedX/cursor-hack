@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/editor/editor.js';
+import '../../../common/theme.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/performance.js';
+import '../../../../base/common/types.js';
+import './splash.js';
+import '../../../../base/browser/window.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/window/common/window.js';
 define(
 			de[3435],
 			he([

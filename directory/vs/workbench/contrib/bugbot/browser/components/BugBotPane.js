@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/scrollableDiv.js';
+import './BugBotSimpleButton.js';
+import '../../../../../base/common/codicons.js';
+import './BugBotStatusIndicator.js';
+import '../../../ui/browser/ModalComponent.js';
+import '../../../ui/browser/badge/badge.js';
+import '../../../ui/browser/hooks/useMeasureWidthHeight.js';
+import '../../../../../css!vs/workbench/contrib/bugbot/browser/components/BugBotPane.js';
 define(
 			de[4259],
 			he([

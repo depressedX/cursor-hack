@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/list/listWidget.js';
+import '../../../../base/browser/ui/tree/abstractTree.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import './settingsTree.js';
+import './settingsTreeModels.js';
+import '../common/settingsEditorColorRegistry.js';
+import '../../../services/environment/common/environmentService.js';
 define(
 			de[4354],
 			he([

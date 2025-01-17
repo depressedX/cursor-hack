@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../base/common/lazy.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/config/editorOptions.js';
+import '../../../../../editor/common/editorContextKeys.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import './aiEditorBoxHoverWidget.js';
 define(
 			de[3189],
 			he([1, 0, 46, 149, 3, 38, 71, 69, 8, 5, 90, 45, 10, 3188]),

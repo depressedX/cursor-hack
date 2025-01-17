@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../list/listWidget.js';
+import './selectBoxCustom.js';
+import './selectBoxNative.js';
+import '../widget.js';
+import '../../../common/platform.js';
+import '../../../../css!vs/base/browser/ui/selectBox/selectBox.js';
 define(
 			de[596],
 			he([1, 0, 278, 2684, 2677, 235, 12, 2252]),

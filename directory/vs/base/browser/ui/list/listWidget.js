@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../event.js';
+import '../../keyboardEvent.js';
+import '../../touch.js';
+import '../aria/aria.js';
+import './splice.js';
+import '../../../common/arrays.js';
+import '../../../common/async.js';
+import '../../../common/color.js';
+import '../../../common/decorators.js';
+import '../../../common/event.js';
+import '../../../common/filters.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../common/numbers.js';
+import '../../../common/platform.js';
+import '../../../common/types.js';
+import './list.js';
+import './listView.js';
+import '../../mouseEvent.js';
+import '../../../common/observable.js';
+import '../../../../css!vs/base/browser/ui/list/list.js';
 define(
 			de[278],
 			he([

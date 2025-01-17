@@ -1,3 +1,11 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../common/component.js';
+import '../../base/browser/dom.js';
+import '../../base/common/event.js';
+import '../../base/common/types.js';
+import '../../base/common/lifecycle.js';
+import '../../css!vs/workbench/browser/media/part.js';
 define(
 			de[550],
 			he([1, 0, 969, 7, 6, 28, 3, 2332]),

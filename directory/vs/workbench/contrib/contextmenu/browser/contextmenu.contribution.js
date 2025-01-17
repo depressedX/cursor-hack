@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3421],
 			he([1, 0, 3, 49, 180, 30, 55, 52]),

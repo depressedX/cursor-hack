@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../contrib/ui/browser/aiInput/plugins/mentions/types.js';
+import '../../../../../proto/aiserver/v1/repository_pb.js';
 define(de[298], he([1, 0, 9, 310, 272]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

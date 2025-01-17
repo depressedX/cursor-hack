@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import '../utils/api.js';
+import '../selection/api.js';
+import './list-collection.js';
 define(
 		de[1569],
 		he([1, 0, 115, 13, 115, 927, 1490]),

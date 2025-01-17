@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/solidComponents/switch/switch.js';
+import '../../../../base/common/path.js';
+import '../../aichat/browser/components/Utils.js';
+import './constants.js';
+import '../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../ui/browser/scrollableDiv.js';
+import '../../ui/browser/simpleButton/simpleButton.js';
+import '../../controlCommon/browser/solid.js';
 define(
 			de[4295],
 			he([1, 0, 2, 2, 2, 2, 13, 7, 650, 54, 242, 1728, 156, 135, 147, 36]),

@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './LexicalComposerContext.js';
+import '../lexical/api.js';
+import '../../solid/solid.js';
+import '../lexical-utils/api.js';
 define(
 			de[2604],
 			he([1, 0, 181, 164, 13, 304]),

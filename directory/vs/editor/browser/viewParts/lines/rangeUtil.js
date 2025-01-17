@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uint.js';
+import '../../view/renderingContext.js';
 define(de[2544], he([1, 0, 210, 746]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Dub = void 0);

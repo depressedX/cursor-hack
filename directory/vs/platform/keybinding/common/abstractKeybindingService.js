@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/async.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/ime.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/lifecycle.js';
+import '../../../nls.js';
+import './keybindingResolver.js';
 define(
 			de[2735],
 			he([1, 0, 24, 15, 29, 6, 1502, 27, 3, 4, 390]),

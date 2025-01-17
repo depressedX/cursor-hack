@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../platform/extensionManagement/common/implicitActivationEvents.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[53],
 			he([1, 0, 6, 9, 154, 1200, 109, 5]),

@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/strings.js';
+import '../commands/replaceCommand.js';
+import '../cursorCommon.js';
+import '../core/cursorColumns.js';
+import './cursorMoveOperations.js';
+import '../core/range.js';
+import '../core/position.js';
 define(
 			de[943],
 			he([1, 0, 37, 655, 346, 435, 1192, 17, 48]),

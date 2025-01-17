@@ -1,3 +1,21 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/observable.js';
+import '../../../base/common/prefixTree.js';
+import '../../../base/common/uri.js';
+import '../../../editor/common/core/range.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../contrib/testing/common/testCoverage.js';
+import '../../contrib/testing/common/testId.js';
+import '../../contrib/testing/common/testProfileService.js';
+import '../../contrib/testing/common/testResult.js';
+import '../../contrib/testing/common/testResultService.js';
+import '../../contrib/testing/common/testService.js';
+import '../../contrib/testing/common/testTypes.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../common/extHost.protocol.js';
 define(
 			de[3371],
 			he([

@@ -1,3 +1,46 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/grid/grid.js';
+import '../../../../../base/browser/ui/splitview/splitview.js';
+import '../../../../../base/common/color.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/types.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../editor/common/editorCommon.js';
+import '../../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../../nls.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../browser/parts/editor/textEditor.js';
+import '../../../../common/editor.js';
+import '../../../../common/editor/editorOptions.js';
+import '../../../codeEditor/browser/toggleWordWrap.js';
+import '../mergeEditorInput.js';
+import '../utils.js';
+import '../../../../../platform/observable/common/platformObservableUtils.js';
+import './editors/baseCodeEditorView.js';
+import './scrollSynchronizer.js';
+import './viewModel.js';
+import './viewZones.js';
+import '../../common/mergeEditor.js';
+import '../../../preferences/common/settingsEditorColorRegistry.js';
+import '../../../../services/editor/common/editorGroupsService.js';
+import '../../../../services/editor/common/editorResolverService.js';
+import '../../../../services/editor/common/editorService.js';
+import './editors/inputCodeEditorView.js';
+import './editors/resultCodeEditorView.js';
+import '../../../../../css!vs/workbench/contrib/mergeEditor/browser/view/media/mergeEditor.js';
+import './colors.js';
 define(
 			de[1050],
 			he([

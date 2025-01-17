@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './contextHandlers/dummyContextHandler.js';
+import './contextHandlers/cmdKCurrentFileContextHandler.js';
+import './contextHandlers/cmdKQueryEtcContextHandler.js';
+import './contextHandlers/cmdkDefinitionsContextHandler.js';
+import './contextHandlers/lintsContextHandler.js';
+import './contextHandlers/visibleTabsContextHandler.js';
+import './contextHandlers/recentLocationsContextHandler.js';
+import './contextHandlers/chatHistoryContextHandler.js';
+import './contextHandlers/fileContextHandler.js';
+import './contextHandlers/terminalCmdKDefaultsContextHandler.js';
+import './contextHandlers/terminalContextHandler.js';
+import './contextHandlers/codeSelectionContextHandler.js';
+import './contextHandlers/lspSubgraphContextHandler.js';
+import './contextHandlers/commitNotesContextHandler.js';
+import './contextHandlers/diffHistoryContextHandler.js';
+import './contextHandlers/cmdkMessagesInDiffConversationContextHandler.js';
 define(
 			de[3995],
 			he([

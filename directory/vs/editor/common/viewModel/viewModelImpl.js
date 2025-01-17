@@ -1,3 +1,32 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/async.js';
+import '../../../base/common/color.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/strings.js';
+import '../config/editorOptions.js';
+import '../cursor/cursor.js';
+import '../cursorCommon.js';
+import '../cursorEvents.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../editorCommon.js';
+import '../model.js';
+import '../textModelEvents.js';
+import '../languages.js';
+import '../encodedTokenAttributes.js';
+import '../languages/modesRegistry.js';
+import '../languages/textToHtmlTokenizer.js';
+import '../viewEvents.js';
+import '../viewLayout/viewLayout.js';
+import './minimapTokensColorTracker.js';
+import '../viewModel.js';
+import './viewModelDecorations.js';
+import '../viewModelEventDispatcher.js';
+import './viewModelLines.js';
+import './glyphLanesModel.js';
 define(
 			de[2904],
 			he([

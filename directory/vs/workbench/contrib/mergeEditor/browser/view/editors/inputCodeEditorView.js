@@ -1,3 +1,27 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../../base/browser/ui/toggle/toggle.js';
+import '../../../../../../base/common/actions.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/numbers.js';
+import '../../../../../../base/common/observable.js';
+import '../../../../../../base/common/strings.js';
+import '../../../../../../base/common/types.js';
+import '../../../../../../editor/common/model.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/theme/browser/defaultStyles.js';
+import '../../model/modifiedBaseRange.js';
+import '../../utils.js';
+import '../colors.js';
+import '../editorGutter.js';
+import './codeEditorView.js';
 define(
 			de[3082],
 			he([

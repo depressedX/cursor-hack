@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/services/bulkEditService.js';
+import '../../../common/model.js';
+import './edit.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../css!vs/editor/contrib/dropOrPasteInto/browser/postEditWidget.js';
 define(
 			de[1632],
 			he([

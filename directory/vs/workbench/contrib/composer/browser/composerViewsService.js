@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../common/views.js';
+import './composerChatViewPane.js';
+import './composerContextKeys.js';
+import './composerDataService.js';
+import './composerEditor.js';
+import './composerViewPane.js';
+import './composerViews.js';
+import './constants.js';
+import './renderComposerPane.js';
+import '../../terminal/browser/terminal.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../services/views/common/viewsService.js';
 define(
 			de[2014],
 			he([

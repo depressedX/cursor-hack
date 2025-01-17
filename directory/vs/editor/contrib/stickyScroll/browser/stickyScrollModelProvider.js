@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/services/languageFeatures.js';
+import '../../documentSymbols/browser/outlineModel.js';
+import '../../../../base/common/async.js';
+import '../../folding/browser/folding.js';
+import '../../folding/browser/syntaxRangeProvider.js';
+import '../../folding/browser/indentRangeProvider.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../../base/common/errors.js';
+import './stickyScrollElement.js';
+import '../../../../base/common/iterator.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/config/editorOptions.js';
 define(
 			de[2923],
 			he([1, 0, 3, 69, 204, 15, 350, 660, 752, 152, 29, 1557, 103, 5, 38]),

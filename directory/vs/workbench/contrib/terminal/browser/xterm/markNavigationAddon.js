@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../base/common/async.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../common/terminalColorRegistry.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../terminalContrib/stickyScroll/common/terminalStickyScrollConfiguration.js';
 define(
 			de[3165],
 			he([1, 0, 24, 3, 189, 15, 35, 512, 7, 10, 808]),

@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/views.js';
+import '../../../../nls.js';
+import '../../../browser/parts/views/treeView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/uri.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/userDataSync/common/userDataSync.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../common/editor.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../services/accessibility/common/accessibleViewInformationService.js';
 define(
 			de[4049],
 			he([

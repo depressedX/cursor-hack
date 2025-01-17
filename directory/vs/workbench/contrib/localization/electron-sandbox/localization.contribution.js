@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../extensions/common/extensions.js';
+import './minimalTranslations.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/common/cancellation.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../../../common/views.js';
+import '../../../services/localization/common/locale.js';
+import '../../../../platform/product/common/productService.js';
+import '../common/localization.contribution.js';
 define(
 		de[3529],
 		he([

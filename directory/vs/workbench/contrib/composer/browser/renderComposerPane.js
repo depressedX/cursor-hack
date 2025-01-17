@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../controlCommon/browser/solid.js';
+import './composerData.js';
+import './components/ComposerPane.js';
+import '../../../../../external/solid/solid.js';
+import '../../ui/browser/loadingSpinner/loadingSpinner.js';
+import './hooks/useComposerLocation.js';
+import './hooks/useForceModeComposerHandle.js';
+import '../../../../platform/tracing/common/tracing.js';
 define(
 			de[1075],
 			he([1, 0, 2, 2, 2, 36, 225, 4413, 13, 295, 1969, 4153, 216]),

@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../debug-build.js';
+import '../utils/hasTracingEnabled.js';
+import '../utils/parseSampleRate.js';
 define(
 			de[1444],
 			he([1, 0, 80, 263, 638, 1098]),

@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/objects.js';
+import '../common/tasks.js';
+import '../../../../base/common/types.js';
+import '../common/taskService.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../terminal/browser/terminalIcon.js';
+import '../../../../platform/quickinput/browser/quickPickPin.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 			de[1815],
 			he([

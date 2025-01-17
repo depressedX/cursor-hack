@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../currentScopes.js';
+import '../debug-build.js';
+import '../envelope.js';
+import '../metrics/metric-summary.js';
+import '../semanticAttributes.js';
+import '../utils/spanUtils.js';
+import './dynamicSamplingContext.js';
+import './logSpans.js';
+import './measurement.js';
+import './utils.js';
 define(
 			de[1447],
 			he([1, 0, 80, 234, 263, 1099, 1095, 453, 301, 639, 1100, 1446, 1096]),

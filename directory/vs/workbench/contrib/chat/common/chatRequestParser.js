@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/core/offsetRange.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/core/range.js';
+import './chatAgents.js';
+import './chatParserTypes.js';
+import './chatSlashCommands.js';
+import './chatVariables.js';
+import './languageModelToolsService.js';
 define(
 			de[1022],
 			he([1, 0, 289, 48, 17, 153, 329, 829, 503, 569]),

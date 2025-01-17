@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/toggle/toggle.js';
+import '../../../../base/common/platform.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../platform/terminal/common/terminalEnvironment.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/common/themables.js';
+import './terminalIcons.js';
+import '../common/history.js';
+import '../common/terminalStorageKeys.js';
+import '../common/terminalStrings.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/date.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/quickinput/browser/quickPickPin.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3567],
 			he([

@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/equals.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/derived.js';
+import '../../../../base/common/uri.js';
+import '../../../browser/widget/diffEditor/diffProviderFactoryService.js';
+import '../../../common/core/lineRange.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/model.js';
+import '../../inlineCompletions/browser/model/provideInlineCompletions.js';
+import './inlineEditsWidget.js';
 define(
 			de[2931],
 			he([

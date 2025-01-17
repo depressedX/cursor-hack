@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../ui/browser/scrollableDiv.js';
+import '../../controlCommon/browser/solid.js';
+import '../../aiMarkdown/browser/markdown.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../base/common/scrollable.js';
+import '../../../../../external/solid/store.js';
+import '../../../../base/common/constants.js';
+import '../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../css!vs/workbench/contrib/aiReview/browser/aiReviewPeekBody.js';
 define(
 			de[4239],
 			he([

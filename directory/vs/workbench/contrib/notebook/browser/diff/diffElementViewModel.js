@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/hash.js';
+import '../../../../../base/common/jsonFormatter.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/widget/diffEditor/diffEditorWidget.js';
+import './diffCellEditorOptions.js';
+import './diffNestedCellViewModel.js';
+import './eventDispatcher.js';
+import './notebookDiffEditorBrowser.js';
+import '../notebookBrowser.js';
 define(
 			de[706],
 			he([1, 0, 6, 136, 585, 3, 309, 1253, 3478, 1254, 556, 108]),

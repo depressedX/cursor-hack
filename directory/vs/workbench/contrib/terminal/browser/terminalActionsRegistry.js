@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/actions/workspaceCommands.js';
+import '../../../../nls.js';
 define(de[1948], he([1, 0, 633, 4]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

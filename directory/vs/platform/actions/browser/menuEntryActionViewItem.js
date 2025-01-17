@@ -1,3 +1,32 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/keyboardEvent.js';
+import '../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../base/browser/ui/dropdown/dropdownActionViewItem.js';
+import '../../../base/common/actions.js';
+import '../../../base/common/keybindingLabels.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import '../../../nls.js';
+import '../common/actions.js';
+import '../../action/common/action.js';
+import '../../contextkey/common/contextkey.js';
+import '../../contextview/browser/contextView.js';
+import '../../instantiation/common/instantiation.js';
+import '../../keybinding/common/keybinding.js';
+import '../../notification/common/notification.js';
+import '../../storage/common/storage.js';
+import '../../theme/common/themeService.js';
+import '../../../base/common/themables.js';
+import '../../theme/common/theme.js';
+import '../../../base/common/types.js';
+import '../../theme/common/colorRegistry.js';
+import '../../theme/browser/defaultStyles.js';
+import '../../accessibility/common/accessibility.js';
+import '../../../base/common/constants.js';
+import '../../../css!vs/platform/actions/browser/menuEntryActionViewItem.js';
 define(
 			de[92],
 			he([

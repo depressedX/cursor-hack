@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/dataTransfer.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/mime.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/uuid.js';
+import '../../../browser/controller/textAreaInput.js';
+import '../../../browser/dnd.js';
+import '../../../browser/services/bulkEditService.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/editorCommon.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import './defaultProviders.js';
+import './edit.js';
+import '../../editorState/browser/editorState.js';
+import '../../inlineProgress/browser/inlineProgress.js';
+import '../../message/browser/messageController.js';
+import '../../../../nls.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import './postEditWidget.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/tooltipService/common/tooltipService.js';
+import '../../../../base/common/errors.js';
 define(
 			de[609],
 			he([

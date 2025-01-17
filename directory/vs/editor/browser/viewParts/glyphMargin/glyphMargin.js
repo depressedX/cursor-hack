@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../../base/common/arrays.js';
+import '../../view/dynamicViewOverlay.js';
+import '../../view/viewPart.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/model.js';
+import '../../../../css!vs/editor/browser/viewParts/glyphMargin/glyphMargin.js';
 define(
 			de[1191],
 			he([1, 0, 194, 24, 591, 303, 38, 48, 17, 64, 2265]),

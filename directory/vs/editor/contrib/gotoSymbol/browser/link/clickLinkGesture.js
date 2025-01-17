@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/platform.js';
+import '../../../../common/config/editorOptions.js';
 define(
 			de[766],
 			he([1, 0, 6, 27, 3, 12, 38]),

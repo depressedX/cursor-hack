@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './abstractTree.js';
+import './objectTreeModel.js';
+import './tree.js';
+import '../../../common/iterator.js';
 define(
 			de[1582],
 			he([1, 0, 411, 931, 264, 103]),

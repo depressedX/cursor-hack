@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arraysFind.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../config/elementSizeObserver.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/core/textLength.js';
 define(
 			de[370],
 			he([1, 0, 214, 33, 3, 77, 1585, 48, 17, 458]),

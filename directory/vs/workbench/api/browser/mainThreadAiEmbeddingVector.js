@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../common/extHost.protocol.js';
+import '../../services/aiEmbeddingVector/common/aiEmbeddingVectorService.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3336],
 			he([1, 0, 3, 88, 1793, 101]),

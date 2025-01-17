@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/ternarySearchTree.js';
+import '../../../common/languages.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 			de[1673],
 			he([1, 0, 15, 3, 59, 387, 74, 10, 20, 5, 21]),

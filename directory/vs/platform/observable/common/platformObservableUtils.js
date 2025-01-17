@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/observable.js';
+import '../../../base/common/observableInternal/utils.js';
 define(de[326], he([1, 0, 77, 457]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

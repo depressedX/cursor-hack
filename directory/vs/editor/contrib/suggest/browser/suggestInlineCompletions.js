@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/editorFeatures.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import './completionModel.js';
+import './suggest.js';
+import './suggestMemory.js';
+import './suggestModel.js';
+import './wordDistance.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
 define(
 			de[2927],
 			he([

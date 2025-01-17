@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/network.js';
+import '../../../multiDiffEditor/browser/multiDiffSourceResolverService.js';
+import './diffElementViewModel.js';
+import './notebookDiffEditorBrowser.js';
+import '../../common/notebookCommon.js';
 define(
 			de[1847],
 			he([1, 0, 6, 3, 23, 800, 706, 556, 70]),

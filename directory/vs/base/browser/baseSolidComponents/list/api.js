@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './create-list-state.js';
+import './create-selectable-list.js';
+import './create-single-select-list-state.js';
+import './list-collection.js';
+import './list-keyboard-delegate.js';
 define(
 		de[1570],
 		he([1, 0, 1569, 2648, 2649, 1490, 1491]),

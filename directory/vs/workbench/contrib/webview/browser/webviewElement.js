@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/tunnel/common/tunnel.js';
+import '../../../../platform/webview/common/webviewPortMapping.js';
+import '../../../../base/browser/iframe.js';
+import './resourceLoading.js';
+import './webview.js';
+import './webviewFindWidget.js';
+import '../common/webview.js';
+import '../../../services/environment/common/environmentService.js';
 define(
 			de[1805],
 			he([

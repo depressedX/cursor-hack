@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../aiMarkdown/browser/markdown.js';
+import '../../../ui/browser/hooks/errorHooks.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/ChatError.js';
 define(
 			de[862],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 147, 14, 26, 36, 338, 3197, 2375]),

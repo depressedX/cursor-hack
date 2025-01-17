@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/contributions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import './userDataSync.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../base/common/platform.js';
+import './userDataSyncTrigger.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../services/host/browser/host.js';
+import '../../../services/userDataSync/common/userDataSync.js';
 define(
 			de[4052],
 			he([

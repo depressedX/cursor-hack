@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './charCode.js';
+import './marshallingIds.js';
+import './path.js';
+import './platform.js';
 define(de[9], he([1, 0, 120, 221, 54, 12]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

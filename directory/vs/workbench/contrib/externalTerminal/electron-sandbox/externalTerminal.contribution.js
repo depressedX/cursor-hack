@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/path.js';
+import '../../../../platform/externalTerminal/common/externalTerminal.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../services/history/common/history.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../../platform/externalTerminal/electron-sandbox/externalTerminalService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../terminal/common/terminalContextKey.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3427],
 			he([

@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/stopwatch.js';
+import '../../../../../editor/common/encodedTokenAttributes.js';
+import '../../../../../editor/common/languages.js';
 define(
 			de[3669],
 			he([1, 0, 6, 3, 162, 171, 74]),

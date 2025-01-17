@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/scrollable.js';
+import '../../../../base/common/strings.js';
+import '../../../browser/config/domFontInfo.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/editorCommon.js';
+import '../../../common/languages/language.js';
+import '../../hover/browser/renderMarkerHover.js';
+import '../../peekView/browser/peekView.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/severityIcon/browser/severityIcon.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../css!vs/editor/contrib/gotoError/browser/media/gotoErrorWidget.js';
 define(
 			de[4113],
 			he([

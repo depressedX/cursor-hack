@@ -1,3 +1,22 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../carrier.js';
+import '../currentScopes.js';
+import '../asyncContext/index.js';
+import '../debug-build.js';
+import '../semanticAttributes.js';
+import '../utils/handleCallbackErrors.js';
+import '../utils/hasTracingEnabled.js';
+import '../utils/spanOnScope.js';
+import '../utils/spanUtils.js';
+import './dynamicSamplingContext.js';
+import './logSpans.js';
+import './sampling.js';
+import './sentryNonRecordingSpan.js';
+import './sentrySpan.js';
+import './spanstatus.js';
+import './utils.js';
 define(
 			de[1448],
 			he([

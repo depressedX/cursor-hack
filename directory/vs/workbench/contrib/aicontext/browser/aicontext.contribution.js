@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './aicontext.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../services/ai/browser/aiService.js';
+import './aicontextService.js';
+import './aicontextActions.js';
 define(
 			de[4109],
 			he([1, 0, 1713, 30, 81, 14, 79, 118, 1964, 3959]),

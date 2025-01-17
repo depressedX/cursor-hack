@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/strings.js';
+import '../../../common/core/range.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import './keybindingCancellation.js';
 define(
 			de[439],
 			he([1, 0, 37, 17, 33, 3, 2806]),

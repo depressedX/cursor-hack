@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/actions.js';
+import './notificationsCommands.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/themables.js';
+import '../../../../css!vs/workbench/browser/parts/notifications/media/notificationsActions.js';
 define(
 			de[1227],
 			he([1, 0, 4, 50, 682, 31, 121, 14, 79, 26, 1516]),

@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import '../selection/api.js';
+import './list-keyboard-delegate.js';
 define(
 		de[2648],
 		he([1, 0, 115, 13, 927, 1491]),

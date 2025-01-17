@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../nls.js';
+import './terminal.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/terminal/common/terminalPlatformConfiguration.js';
+import '../../../common/configuration.js';
+import '../../terminalContrib/accessibility/common/terminalAccessibilityConfiguration.js';
+import '../../terminalContrib/commandGuide/common/terminalCommandGuideConfiguration.js';
+import '../../terminalContrib/chat/common/terminalInitialHintConfiguration.js';
+import '../../terminalContrib/stickyScroll/common/terminalStickyScrollConfiguration.js';
+import '../../terminalContrib/suggest/common/terminalSuggestConfiguration.js';
+import '../../terminalContrib/typeAhead/common/terminalTypeAheadConfiguration.js';
+import '../../terminalContrib/zoom/common/terminal.zoom.js';
 define(
 			de[1859],
 			he([

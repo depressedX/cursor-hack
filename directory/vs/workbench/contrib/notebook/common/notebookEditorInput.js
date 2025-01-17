@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/glob.js';
+import '../../../common/editor.js';
+import './notebookService.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import './notebookEditorModelResolverService.js';
+import './notebookCommon.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/files/common/files.js';
+import '../../../common/editor/resourceEditorInput.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/buffer.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../nls.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../services/editor/common/customEditorLabelService.js';
 define(
 			de[360],
 			he([

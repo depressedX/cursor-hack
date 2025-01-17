@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../terminal/browser/terminal.js';
+import './terminalChatController.js';
+import '../../../terminal/browser/terminalContribExports.js';
 define(
 			de[4382],
 			he([1, 0, 178, 130, 107, 867, 1384]),

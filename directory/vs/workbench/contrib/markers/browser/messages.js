@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/markers/common/markers.js';
 define(de[799], he([1, 0, 4, 19, 90]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (t = mt(t));

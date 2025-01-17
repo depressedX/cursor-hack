@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/output/common/output.js';
+import './outputLinkProvider.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/views/common/viewsService.js';
+import '../common/outputChannelModelService.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../logs/common/logsActions.js';
+import '../../logs/common/defaultLogLevels.js';
 define(
 			de[3835],
 			he([

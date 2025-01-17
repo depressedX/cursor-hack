@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cppUtils/diff/character.js';
+import '../../../../base/common/cppUtils/diff/word.js';
+import '../../../common/viewLayout/lineDecorations.js';
+import '../../../common/viewModel.js';
 define(
 			de[1153],
 			he([1, 0, 1498, 1130, 533, 290]),

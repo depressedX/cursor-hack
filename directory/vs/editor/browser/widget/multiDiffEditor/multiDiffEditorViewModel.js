@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/utils.js';
+import '../diffEditor/diffEditorOptions.js';
+import '../diffEditor/diffEditorViewModel.js';
+import '../diffEditor/utils.js';
+import '../../../common/services/model.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1681],
 			he([1, 0, 3, 77, 457, 1680, 954, 370, 67, 5]),

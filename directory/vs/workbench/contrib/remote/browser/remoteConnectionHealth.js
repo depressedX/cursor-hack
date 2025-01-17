@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../nls.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/remote/common/remoteHosts.js';
+import '../../../services/banner/browser/bannerService.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/severity.js';
 define(
 		de[3561],
 		he([1, 0, 143, 78, 4, 12, 32, 438, 823, 41, 87, 21, 62, 57, 14, 111]),

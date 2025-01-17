@@ -1,3 +1,41 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/stringBuilder.js';
+import '../../../common/model.js';
+import '../../../../nls.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/strings.js';
+import '../../../common/tokens/lineTokens.js';
+import '../../../common/viewLayout/viewLineRenderer.js';
+import '../../../browser/config/domFontInfo.js';
+import '../../../common/languages/language.js';
+import '../../../../base/browser/trustedTypes.js';
+import '../../../common/core/range.js';
+import '../../../../base/common/cppUtils/utils.js';
+import '../common/cppGhostTextUtils.js';
+import '../../../../workbench/contrib/aiFeatureStatusService/browser/aiFeatureStatusService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../common/services/model.js';
+import '../../../../workbench/services/ai/browser/aiMiscServices.js';
+import '../../../../base/common/uuid.js';
+import './cppDiffPeekView.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import './previewBox.js';
+import './utils.js';
+import '../../../browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../workbench/contrib/codeEditor/browser/menuPreventer.js';
+import '../../../browser/editorExtensions.js';
+import '../../../../css!vs/editor/contrib/cCppGhostText/browser/cppGhostTextWidget.js';
 define(
 			de[3936],
 			he([

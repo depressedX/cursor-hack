@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/strings.js';
+import './scanner.js';
+import '../../instantiation/common/instantiation.js';
+import '../../../nls.js';
+import '../../../base/common/errors.js';
 define(
 			de[8],
 			he([1, 0, 120, 12, 37, 2704, 5, 4, 29]),

@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../nls.js';
+import '../../../../platform/native/common/native.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/network.js';
 define(
 			de[3288],
 			he([1, 0, 50, 4, 110, 151, 22, 19, 23]),

@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../common/notifications.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../nls.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './notificationsTelemetry.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/arrays.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
 define(
 			de[682],
 			he([

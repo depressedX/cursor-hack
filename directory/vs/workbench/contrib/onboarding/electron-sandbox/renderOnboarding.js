@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/uri.js';
+import '../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../base/common/codicons.js';
+import '../../ui/browser/dropdown/dropdown.js';
+import '../../controlCommon/browser/solid.js';
+import '../../ui/browser/inlineTextArea/inlineTextArea.js';
+import '../../ui/browser/loadingStateButton/loadingStateButton.js';
+import '../../../../base/common/platform.js';
+import './onboardingActions.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/browser/solidComponents/switch/switch.js';
+import '../../ui/browser/scrollableDiv.js';
+import '../../../../platform/product/common/product.js';
+import '../../../../base/common/themables.js';
+import '../browser/components/sparkleDiv.js';
+import '../../aichat/browser/components/Utils.js';
+import '../../aiCursorHelp/browser/AiCursorHelpPane.js';
+import '../../authentication/browser/components/login/login.js';
+import '../../../../css!vs/workbench/contrib/onboarding/electron-sandbox/Onboarding.js';
+import '../../../../css!vs/workbench/contrib/onboarding/electron-sandbox/onboardingLogin.js';
 define(
 		de[4339],
 		he([

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/assert.js';
+import './testTypes.js';
+import './testId.js';
 define(
 			de[3180],
 			he([1, 0, 15, 6, 3, 229, 185, 259]),

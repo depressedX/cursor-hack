@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/types.js';
+import '../../remote/common/remoteHosts.js';
+import './commonProperties.js';
+import './telemetry.js';
 define(
 			de[269],
 			he([1, 0, 82, 28, 438, 1640, 32]),

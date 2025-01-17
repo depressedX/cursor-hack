@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/cursorEvents.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../chat/common/chatAgents.js';
+import './inlineChatController.js';
+import '../common/inlineChat.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/core/position.js';
+import './inlineChatActions.js';
+import '../../../../editor/common/editorContextKeys.js';
 define(
 			de[4084],
 			he([1, 0, 3, 248, 4, 8, 153, 427, 257, 46, 188, 17, 48, 1061, 71]),

@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/marshalling.js';
+import '../../../../editor/common/core/offsetRange.js';
+import './chatAgents.js';
 define(de[329], he([1, 0, 197, 289, 153]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../event.js';
+import '../../keyboardEvent.js';
+import '../actionbar/actionbar.js';
+import '../findinput/findInput.js';
+import '../inputbox/inputBox.js';
+import '../list/listView.js';
+import '../list/listWidget.js';
+import '../toggle/toggle.js';
+import './indexTreeModel.js';
+import './tree.js';
+import '../../../common/actions.js';
+import '../../../common/arrays.js';
+import '../../../common/async.js';
+import '../../../common/codicons.js';
+import '../../../common/themables.js';
+import '../../../common/map.js';
+import '../../../common/event.js';
+import '../../../common/filters.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../common/numbers.js';
+import '../../../common/types.js';
+import '../../../../nls.js';
+import '../hover/hoverDelegateFactory.js';
+import '../../../common/observable.js';
+import '../aria/aria.js';
+import '../../../../css!vs/base/browser/ui/tree/media/tree.js';
 define(
 			de[411],
 			he([

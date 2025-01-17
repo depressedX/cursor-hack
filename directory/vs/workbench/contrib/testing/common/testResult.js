@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/platform.js';
+import '../../../../nls.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './getComputedState.js';
+import './testId.js';
+import './testingStates.js';
+import './testTypes.js';
 define(
 			de[421],
 			he([1, 0, 15, 76, 6, 149, 3, 77, 12, 4, 32, 1773, 259, 563, 185]),

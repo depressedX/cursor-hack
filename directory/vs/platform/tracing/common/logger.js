@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './global.js';
+import './tracing.js';
 define(de[2871], he([1, 0, 1210, 216]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$U8c = void 0);

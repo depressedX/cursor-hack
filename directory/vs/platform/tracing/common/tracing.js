@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/errors.js';
+import './global.js';
+import './sentry.js';
 define(
 			de[216],
 			he([1, 0, 15, 29, 1210, 1668]),

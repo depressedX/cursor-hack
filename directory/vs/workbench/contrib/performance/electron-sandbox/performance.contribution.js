@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import './startupProfiler.js';
+import './startupTimings.js';
+import './rendererAutoProfiler.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../nls.js';
+import '../../../common/configuration.js';
 define(
 			de[3738],
 			he([1, 0, 52, 30, 55, 3736, 3737, 3735, 81, 4, 224]),

@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/glob.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/path.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/uri.js';
+import './files.js';
 define(
 			de[938],
 			he([1, 0, 215, 3, 54, 12, 9, 22]),

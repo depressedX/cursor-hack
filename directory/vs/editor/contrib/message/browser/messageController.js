@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/markdownRenderer.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/core/range.js';
+import '../../../common/editorCommon.js';
+import '../../../common/model.js';
+import '../../../browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/browser/dom.js';
+import '../../../../css!vs/editor/contrib/message/browser/messageController.js';
 define(
 			de[440],
 			he([

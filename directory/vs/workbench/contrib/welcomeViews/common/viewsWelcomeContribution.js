@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './viewsWelcomeExtensionPoint.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/views.js';
+import '../../../services/extensions/common/extensions.js';
 define(
 			de[3316],
 			he([1, 0, 4, 3, 8, 1786, 30, 60, 53]),

@@ -1,3 +1,13 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../../external/bufbuild/protobuf.js';
+import './shadow_workspace_pb.js';
+import './cpp_pb.js';
+import './utils_pb.js';
+import './context_pb.js';
+import './repository_pb.js';
+import './context_ast_pb.js';
+import './chat_pb.js';
 define(
 			de[2176],
 			he([1, 0, 86, 454, 367, 83, 228, 272, 1472, 126]),

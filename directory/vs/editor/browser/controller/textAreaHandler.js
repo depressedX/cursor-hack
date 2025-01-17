@@ -1,3 +1,33 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/browser/browser.js';
+import '../../../base/browser/fastDomNode.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/strings.js';
+import '../config/domFontInfo.js';
+import './textAreaInput.js';
+import './textAreaState.js';
+import '../view/viewPart.js';
+import '../viewParts/lineNumbers/lineNumbers.js';
+import '../viewParts/margin/margin.js';
+import '../../common/config/editorOptions.js';
+import '../../common/core/wordCharacterClassifier.js';
+import '../../common/core/position.js';
+import '../../common/core/range.js';
+import '../../common/core/selection.js';
+import '../../common/editorCommon.js';
+import '../../common/model.js';
+import '../../common/viewEvents.js';
+import '../../../platform/accessibility/common/accessibility.js';
+import '../../../base/browser/ui/mouseCursor/mouseCursor.js';
+import '../../common/languages.js';
+import '../../common/encodedTokenAttributes.js';
+import '../../../base/common/color.js';
+import '../../../base/common/ime.js';
+import '../../../platform/keybinding/common/keybinding.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../css!vs/editor/browser/controller/textAreaHandler.js';
 define(
 			de[2849],
 			he([

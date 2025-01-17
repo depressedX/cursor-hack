@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './indexTreeModel.js';
+import './tree.js';
+import '../../../common/iterator.js';
 define(de[931], he([1, 0, 1165, 264, 103]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$xpb = void 0);

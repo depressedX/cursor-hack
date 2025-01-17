@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../base/browser/ui/widget.js';
+import '../../../../base/browser/ui/contextview/contextview.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../nls.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../css!vs/editor/browser/services/hoverService/hover.js';
 define(
 			de[2770],
 			he([

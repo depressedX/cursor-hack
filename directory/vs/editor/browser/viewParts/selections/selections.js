@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../view/dynamicViewOverlay.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../css!vs/editor/browser/viewParts/selections/selections.js';
 define(
 			de[2845],
 			he([1, 0, 591, 51, 35, 38, 2276]),

@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/collections.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/numbers.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/model.js';
+import '../../../../../editor/common/model/editStack.js';
+import '../../../../../editor/common/model/intervalTree.js';
+import '../../../../../editor/common/model/textModel.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/undoRedo/common/undoRedo.js';
+import '../contrib/find/findModel.js';
+import '../notebookBrowser.js';
+import '../notebookViewEvents.js';
+import './cellSelectionCollection.js';
+import './codeCellViewModel.js';
+import './markupCellViewModel.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookExecutionStateService.js';
+import '../../common/notebookRange.js';
 define(
 			de[4098],
 			he([

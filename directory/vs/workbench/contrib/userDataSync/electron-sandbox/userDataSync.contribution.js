@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/contributions.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/ipc/electron-sandbox/services.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../nls.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../services/userDataSync/common/userDataSync.js';
+import '../../../../base/common/network.js';
+import '../../../../base/parts/ipc/common/ipc.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3795],
 			he([1, 0, 55, 150, 230, 11, 4, 113, 22, 110, 40, 522, 23, 305, 3]),

@@ -1,3 +1,32 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/browser/dnd.js';
+import '../../base/browser/dom.js';
+import '../../base/common/arrays.js';
+import '../../base/common/dataTransfer.js';
+import '../../base/common/event.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/marshalling.js';
+import '../../base/common/mime.js';
+import '../../base/common/network.js';
+import '../../base/common/platform.js';
+import '../../base/common/resources.js';
+import '../../base/common/uri.js';
+import '../../platform/dnd/browser/dnd.js';
+import '../../platform/files/common/files.js';
+import '../../platform/instantiation/common/instantiation.js';
+import '../../platform/label/common/label.js';
+import '../../platform/opener/common/opener.js';
+import '../../platform/registry/common/platform.js';
+import '../../platform/workspace/common/workspace.js';
+import '../../platform/workspaces/common/workspaces.js';
+import '../common/editor.js';
+import '../services/editor/common/editorService.js';
+import '../services/host/browser/host.js';
+import '../services/textfile/common/textfiles.js';
+import '../services/workspaces/common/workspaceEditing.js';
+import '../../base/browser/window.js';
+import '../../base/browser/broadcast.js';
 define(
 			de[362],
 			he([

@@ -1,3 +1,6 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './selectedContext.js';
 define(de[4001], he([1, 0, 271]), function (ce, e) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 });

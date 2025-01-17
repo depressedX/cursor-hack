@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/browser/ui/list/listWidget.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/list/browser/listService.js';
+import '../common/debug.js';
+import '../common/debugModel.js';
+import '../../extensions/common/extensions.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './breakpointsView.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/platform.js';
+import '../common/debugUtils.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../common/loadedScriptsPicker.js';
+import './debugSessionPicker.js';
+import '../../files/common/files.js';
+import '../../chat/common/chatContextKeys.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[425],
 			he([

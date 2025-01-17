@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/themables.js';
+import './icons.js';
+import './utilities.js';
+import '../../../ui/browser/widgets/codeBlock.js';
+import '../../../controlCommon/browser/solid.js';
 define(
 			de[1363],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 26, 502, 1232, 312, 36]),

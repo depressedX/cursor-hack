@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/services/languageFeatures.js';
+import './hoverWidget.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[2003],
 			he([1, 0, 46, 149, 3, 38, 71, 69, 866, 8, 5, 90, 45, 10]),

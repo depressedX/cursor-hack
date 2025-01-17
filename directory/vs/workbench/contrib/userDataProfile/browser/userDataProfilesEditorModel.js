@@ -1,3 +1,40 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/themables.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/objects.js';
+import '../../../common/editor/editorModel.js';
+import '../../../services/userDataProfile/browser/extensionsResource.js';
+import '../../../services/userDataProfile/browser/settingsResource.js';
+import '../../../services/userDataProfile/browser/keybindingsResource.js';
+import '../../../services/userDataProfile/browser/tasksResource.js';
+import '../../../services/userDataProfile/browser/snippetsResource.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/files/common/inMemoryFilesystemProvider.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/uuid.js';
+import '../../../../base/common/async.js';
+import '../../../services/host/browser/host.js';
+import '../../../../base/common/cancellation.js';
+import '../../../browser/parts/editor/editorCommands.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../common/configuration.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/opener/common/opener.js';
 define(
 			de[3891],
 			he([

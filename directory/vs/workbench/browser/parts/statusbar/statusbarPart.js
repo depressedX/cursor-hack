@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../part.js';
+import '../../../../base/browser/touch.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/theme.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/browser/mouseEvent.js';
+import '../../actions/layoutActions.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/theme/common/theme.js';
+import '../../../../base/common/hash.js';
+import '../../../../platform/hover/browser/hover.js';
+import './statusbarActions.js';
+import './statusbarModel.js';
+import './statusbarItem.js';
+import '../../../common/contextkeys.js';
+import '../../../../base/common/event.js';
+import '../../../../css!vs/workbench/browser/parts/statusbar/media/statusbarpart.js';
 define(
 			de[3802],
 			he([

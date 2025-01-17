@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../common/issue.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/issue/common/issue.js';
+import '../../../../platform/notification/common/notification.js';
+import './processService.js';
+import './issueMainService.js';
 define(
 			de[3287],
 			he([1, 0, 4, 11, 376, 31, 99, 113, 57, 110, 84, 769, 40, 3286, 1736]),

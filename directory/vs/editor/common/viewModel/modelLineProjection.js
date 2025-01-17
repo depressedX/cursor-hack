@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../tokens/lineTokens.js';
+import '../core/position.js';
+import '../model.js';
+import '../textModelEvents.js';
+import '../viewModel.js';
 define(
 			de[2766],
 			he([1, 0, 388, 48, 64, 590, 290]),

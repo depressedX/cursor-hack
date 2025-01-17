@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/browser/ui/aria/aria.js';
+import '../../../../../editor/common/standaloneStrings.js';
+import '../../../../../css!vs/workbench/contrib/codeEditor/browser/accessibility/accessibility.js';
 define(
 			de[3551],
 			he([1, 0, 4, 10, 91, 11, 130, 43, 27, 127, 761, 2396]),

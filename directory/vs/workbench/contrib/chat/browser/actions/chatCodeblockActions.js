@@ -1,3 +1,43 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/editorContextKeys.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../editor/contrib/clipboard/browser/clipboard.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/progress/common/progress.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import './chatActions.js';
+import '../chat.js';
+import '../codeBlockPart.js';
+import '../../common/chatContextKeys.js';
+import '../../common/chatService.js';
+import '../../common/chatViewModel.js';
+import '../../../notebook/browser/controller/cellOperations.js';
+import '../../../notebook/common/notebookCommon.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../services/textfile/common/textfiles.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../base/common/charCode.js';
+import '../../../inlineChat/browser/inlineChatController.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/async.js';
 define(
 			de[4082],
 			he([

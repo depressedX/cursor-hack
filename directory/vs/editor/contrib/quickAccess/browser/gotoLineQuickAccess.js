@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/editorCommon.js';
+import './editorNavigationQuickAccess.js';
+import '../../../../nls.js';
 define(
 			de[1666],
 			he([1, 0, 3, 56, 38, 98, 1665, 4]),

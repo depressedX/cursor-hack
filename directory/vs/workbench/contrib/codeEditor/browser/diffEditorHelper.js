@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/widget/diffEditor/embeddedDiffEditorWidget.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibility/browser/accessibleViewRegistry.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/codeeditor.js';
+import '../../../common/configuration.js';
+import './diffEditorAccessibilityHelp.js';
 define(
 			de[3767],
 			he([1, 0, 3, 77, 46, 784, 125, 4, 412, 5, 40, 30, 824, 224, 3766]),

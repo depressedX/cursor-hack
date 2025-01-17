@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../utils/index.js';
+import '../utils/index.js';
+import './tracing/dynamicSamplingContext.js';
+import './utils/spanUtils.js';
 define(
 			de[1099],
 			he([1, 0, 80, 80, 639, 301]),

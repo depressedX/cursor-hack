@@ -1,3 +1,16 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/fuzzyScorer.js';
+import '../../../../../../base/common/map.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../../../base/common/resources.js';
+import '../../../../../../base/common/uri.js';
+import '../../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../common/editor.js';
+import './constants.js';
+import './types.js';
+import './utils.js';
+import '../../../../../services/workspaces/browser/sourceFilesService.js';
 define(
 			de[3919],
 			he([1, 0, 322, 59, 12, 19, 9, 63, 44, 1271, 444, 819, 632]),

@@ -1,3 +1,6 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './diffEditorModel.js';
 define(de[1226], he([1, 0, 1699]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$FVb = void 0);

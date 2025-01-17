@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/files/common/files.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../common/views.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import './semSearchService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/dom.js';
+import '../../../services/ai/browser/repositoryService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import './floatingPicker.js';
+import '../../../../base/common/path.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import './constants.js';
+import '../../../services/ai/browser/aiMiscServices.js';
 define(
 			de[4217],
 			he([

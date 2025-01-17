@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../../base/common/async.js';
+import '../common/search.js';
+import '../../../../editor/common/languages.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/contrib/find/browser/findController.js';
+import '../../../../base/common/fuzzyScorer.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
 define(
 			de[827],
 			he([

@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/actionWidget/browser/actionList.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/browser/ui/codicons/codiconStyles.js';
+import '../../symbolIcons/browser/symbolIcons.js';
 define(
 			de[2834],
 			he([1, 0, 14, 291, 4, 1206, 318, 1135, 1205]),

@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import './InputBoxSelection.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../services/utils/browser/isPureClick.js';
+import '../../../ui/browser/hooks/useThemeHooks.js';
 define(
 			de[1365],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 13, 4143, 36, 26, 14, 1046, 331]),

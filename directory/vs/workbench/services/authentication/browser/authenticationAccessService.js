@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 			de[621],
 			he([1, 0, 6, 3, 20, 5, 62, 21]),

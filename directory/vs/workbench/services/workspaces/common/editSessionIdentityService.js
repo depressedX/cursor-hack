@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/workspace/common/editSessions.js';
+import '../../extensions/common/extensions.js';
 define(
 			de[4005],
 			he([1, 0, 24, 3, 20, 34, 781, 53]),

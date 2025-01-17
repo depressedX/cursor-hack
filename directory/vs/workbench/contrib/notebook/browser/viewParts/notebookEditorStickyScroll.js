@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/touch.js';
+import '../../../../../base/browser/mouseEvent.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../notebookBrowser.js';
+import '../../common/notebookCommon.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../editor/contrib/folding/browser/foldingDecorations.js';
+import '../controller/foldingController.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../viewModel/notebookOutlineDataSourceFactory.js';
 define(
 			de[3521],
 			he([

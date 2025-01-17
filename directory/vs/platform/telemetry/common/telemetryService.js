@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/strings.js';
+import '../../../nls.js';
+import '../../configuration/common/configuration.js';
+import '../../configuration/common/configurationRegistry.js';
+import '../../product/common/product.js';
+import '../../product/common/productService.js';
+import '../../registry/common/platform.js';
+import './telemetry.js';
+import './telemetryUtils.js';
 define(
 		de[2819],
 		he([1, 0, 3, 82, 12, 37, 4, 10, 81, 372, 62, 30, 32, 269]),

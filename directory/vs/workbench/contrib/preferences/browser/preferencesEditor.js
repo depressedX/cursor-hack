@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './preferencesRenderers.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../services/preferences/common/preferencesModels.js';
 define(
 			de[3758],
 			he([1, 0, 3, 10, 5, 25, 3757, 131, 838]),

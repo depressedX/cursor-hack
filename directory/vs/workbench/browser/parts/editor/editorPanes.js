@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/editor.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/progress/common/progress.js';
+import './editor.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import './editorPlaceholder.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../services/host/browser/host.js';
 define(
 		de[3860],
 		he([

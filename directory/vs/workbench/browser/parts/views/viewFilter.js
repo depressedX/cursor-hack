@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/history/browser/historyWidgetKeybindingHint.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../base/browser/ui/widget.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
 define(
 			de[1224],
 			he([

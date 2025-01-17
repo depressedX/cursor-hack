@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/themables.js';
 define(
 			de[3653],
 			he([1, 0, 7, 325, 14, 6, 132, 3, 26]),

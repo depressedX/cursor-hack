@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/json.js';
+import '../common/workbenchThemeService.js';
+import '../../../../base/common/jsonErrorMessages.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/browser/window.js';
 define(
 			de[1889],
 			he([1, 0, 4, 54, 19, 187, 333, 754, 7, 21, 75]),

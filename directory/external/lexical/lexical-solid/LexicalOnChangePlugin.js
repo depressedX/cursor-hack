@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../solid/solid.js';
+import './LexicalComposerContext.js';
 define(de[2155], he([1, 0, 13, 181]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

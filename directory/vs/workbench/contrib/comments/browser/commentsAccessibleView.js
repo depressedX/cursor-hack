@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marshallingIds.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import './commentsTreeViewer.js';
+import './commentsView.js';
+import '../../../services/views/common/viewsService.js';
 define(
 			de[3813],
 			he([1, 0, 3, 221, 178, 11, 8, 130, 683, 1330, 89]),

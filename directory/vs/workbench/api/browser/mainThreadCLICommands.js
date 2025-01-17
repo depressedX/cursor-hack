@@ -1,3 +1,22 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/network.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../platform/extensionManagement/common/extensionManagementCLI.js';
+import '../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/instantiation/common/serviceCollection.js';
+import '../../../platform/label/common/label.js';
+import '../../../platform/log/common/log.js';
+import '../../../platform/opener/common/opener.js';
+import '../../services/environment/common/environmentService.js';
+import '../../services/extensionManagement/common/extensionManagement.js';
+import '../../services/extensions/common/extensionManifestPropertiesService.js';
 define(
 			de[4063],
 			he([

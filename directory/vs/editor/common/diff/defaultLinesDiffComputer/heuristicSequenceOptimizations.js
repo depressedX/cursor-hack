@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../core/offsetRange.js';
+import './algorithms/diffAlgorithm.js';
 define(de[1530], he([1, 0, 24, 289, 656]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

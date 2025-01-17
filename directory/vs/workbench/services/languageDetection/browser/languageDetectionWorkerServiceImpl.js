@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../common/languageDetectionWorkerService.js';
+import '../../../../base/common/network.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/diagnostics/common/diagnostics.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../editor/common/editorService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/amd.js';
+import '../../../../base/browser/defaultWorkerFactory.js';
+import '../../../../editor/common/services/textModelSync/textModelSync.impl.js';
+import './languageDetectionWorker.protocol.js';
 define(
 			de[3399],
 			he([

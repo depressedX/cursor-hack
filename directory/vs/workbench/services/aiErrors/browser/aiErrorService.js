@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/bufbuild/connect.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './errors.js';
+import '../../aiSettings/browser/aiSettingsService.js';
+import '../../cursorAuth/browser/authenticationService.js';
+import '../../../../base/common/constants.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
 define(
 			de[401],
 			he([1, 0, 340, 83, 31, 57, 20, 5, 180, 40, 45, 1286, 315, 232, 58, 148]),

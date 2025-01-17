@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../common/basePty.js';
+import '../../../services/remote/common/remoteAgentService.js';
 define(
 			de[3565],
 			he([1, 0, 15, 117, 1762, 143]),

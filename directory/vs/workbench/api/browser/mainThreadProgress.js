@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../platform/progress/common/progress.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../base/common/actions.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../nls.js';
 define(
 			de[3361],
 			he([1, 0, 84, 88, 101, 50, 31, 4]),

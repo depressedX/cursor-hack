@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/themables.js';
+import '../../../controlCommon/browser/solid.js';
+import './Utils.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/common/uri.js';
+import '../chatData.js';
+import './icons.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import './SimpleCodeSelection.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/ChunkContext.js';
 define(
 			de[1986],
 			he([

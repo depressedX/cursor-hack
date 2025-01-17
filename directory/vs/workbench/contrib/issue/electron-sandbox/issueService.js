@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/issue/common/issue.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../common/theme.js';
+import '../common/issue.js';
+import '../../../services/assignment/common/assignmentService.js';
+import '../../../services/authentication/common/authentication.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/integrity/common/integrity.js';
 define(
 			de[3573],
 			he([

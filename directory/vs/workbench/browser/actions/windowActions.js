@@ -1,3 +1,35 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../platform/dialogs/common/dialogs.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../base/common/keyCodes.js';
+import '../../common/contextkeys.js';
+import '../../../platform/contextkey/common/contextkeys.js';
+import '../../../platform/action/common/actionCommonCategories.js';
+import '../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../platform/quickinput/common/quickInput.js';
+import '../../../platform/workspace/common/workspace.js';
+import '../../../platform/label/common/label.js';
+import '../../../platform/keybinding/common/keybinding.js';
+import '../../../editor/common/services/model.js';
+import '../../../editor/common/languages/language.js';
+import '../../../platform/workspaces/common/workspaces.js';
+import '../../../editor/common/services/getIconClasses.js';
+import '../../../platform/files/common/files.js';
+import '../../../base/common/labels.js';
+import '../../../base/common/platform.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../quickaccess.js';
+import '../../services/host/browser/host.js';
+import '../../../base/common/map.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/themables.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/backup/common/backup.js';
+import '../../services/ai/browser/aiMiscServices.js';
+import '../../../base/browser/dom.js';
 define(
 			de[571],
 			he([

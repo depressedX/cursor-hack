@@ -1,3 +1,42 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import '../../../common/editor.js';
+import '../../../../base/common/marshalling.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../notebook/common/notebookCommon.js';
+import './replEditor.js';
+import './replEditorInput.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/contributions.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/workingCopy/common/workingCopyEditorService.js';
+import '../../../../base/common/resources.js';
+import '../../notebook/common/notebookService.js';
+import '../../../services/editor/common/editorResolverService.js';
+import '../../notebook/common/notebookEditorModelResolverService.js';
+import '../../../../base/common/strings.js';
+import '../../../../editor/browser/services/bulkEditService.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../bulkEdit/browser/bulkCellEdits.js';
+import '../../interactive/browser/interactiveHistoryService.js';
+import '../../notebook/browser/services/notebookEditorService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../debug/browser/repl.js';
+import '../../debug/common/debug.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../nls.js';
+import '../../notebook/browser/controller/coreActions.js';
+import '../../notebook/browser/notebookIcons.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[4162],
 			he([

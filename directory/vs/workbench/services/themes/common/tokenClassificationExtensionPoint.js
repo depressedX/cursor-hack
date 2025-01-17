@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../extensions/common/extensionsRegistry.js';
+import '../../../../platform/theme/common/tokenClassificationRegistry.js';
 define(de[3715], he([1, 0, 4, 175, 778]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

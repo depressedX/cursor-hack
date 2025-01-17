@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/workspace/common/workspaceTrust.js';
+import '../viewParts/notebookKernelQuickPickStrategy.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookExecutionStateService.js';
+import '../../common/notebookKernelService.js';
+import '../../common/notebookLoggingService.js';
 define(
 			de[3531],
 			he([1, 0, 3, 4, 31, 174, 1308, 70, 190, 243, 557]),

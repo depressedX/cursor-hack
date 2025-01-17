@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../lexical-html/api.js';
+import '../lexical-selection/api.js';
+import '../lexical-utils/api.js';
+import '../lexical/api.js';
+import '../shared/invariant.js';
 define(
 		de[2597],
 		he([1, 0, 2594, 921, 304, 164, 1417]),

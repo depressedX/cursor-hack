@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../editor/common/core/selection.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../ai/browser/aiService.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../ai/browser/aiUtilsService.js';
+import '../../aiSettings/browser/aiSettingsService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../contrib/cursoreval/browser/cursorEvalService.js';
+import '../../ai/browser/fastContextService.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../ai/browser/promptBarService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../aiContext/browser/aiContext.js';
+import '../../../../../proto/aiserver/v1/cmdk_pb.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../ai/browser/utils.js';
+import '../../cursorAuth/browser/authenticationService.js';
+import '../../../../platform/files/common/files.js';
+import '../../utils/browser/generateImageProtos.js';
+import '../../../contrib/aiFeatureStatusService/browser/aiFeatureStatusService.js';
 define(
 			de[479],
 			he([

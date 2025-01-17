@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/json.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/languages/languageConfiguration.js';
+import '../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../base/common/jsonErrorMessages.js';
+import '../../../../platform/extensionResourceLoader/common/extensionResourceLoader.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3306],
 			he([1, 0, 4, 187, 28, 532, 152, 61, 250, 30, 53, 754, 546, 136, 3]),

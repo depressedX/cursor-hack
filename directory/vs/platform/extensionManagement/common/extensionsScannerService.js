@@ -1,3 +1,36 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/async.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/json.js';
+import '../../../base/common/jsonErrorMessages.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../../base/common/path.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/semver/semver.js';
+import '../../../base/common/severity.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../environment/common/environment.js';
+import './extensionManagementUtil.js';
+import '../../extensions/common/extensions.js';
+import '../../extensions/common/extensionValidator.js';
+import '../../files/common/files.js';
+import '../../instantiation/common/instantiation.js';
+import '../../log/common/log.js';
+import '../../product/common/productService.js';
+import '../../../base/common/event.js';
+import '../../../base/common/marshalling.js';
+import './extensionsProfileScannerService.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../uriIdentity/common/uriIdentity.js';
+import './extensionNls.js';
 define(
 		de[958],
 		he([

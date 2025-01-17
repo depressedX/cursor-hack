@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/ternarySearchTree.js';
+import '../../../base/common/path.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../instantiation/common/instantiation.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/network.js';
+import '../../../base/common/lazy.js';
 define(
 			de[22],
 			he([1, 0, 387, 54, 37, 28, 9, 4, 5, 12, 23, 149]),

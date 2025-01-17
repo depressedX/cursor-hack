@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../uint8arrays/alloc.js';
+import '../uint8arrays/concat.js';
+import '../uint8arrays/equals.js';
 define(de[2025], he([1, 0, 1394, 2024, 2022]), function (ce, e, t, i, w) {
 			"use strict";
 			var E;

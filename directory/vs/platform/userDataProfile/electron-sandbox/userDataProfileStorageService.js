@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../common/userDataProfileStorageService.js';
+import '../../instantiation/common/extensions.js';
+import '../../storage/common/storage.js';
+import '../../log/common/log.js';
+import '../common/userDataProfile.js';
+import '../../ipc/common/mainProcessService.js';
 define(
 			de[2935],
 			he([1, 0, 681, 20, 21, 34, 129, 371]),

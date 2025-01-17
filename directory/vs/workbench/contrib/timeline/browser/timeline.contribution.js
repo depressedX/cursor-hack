@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/views.js';
+import '../../files/browser/explorerViewlet.js';
+import '../common/timeline.js';
+import '../common/timelineService.js';
+import './timelinePane.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../files/common/files.js';
+import '../../../common/contextkeys.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
 define(
 			de[4307],
 			he([

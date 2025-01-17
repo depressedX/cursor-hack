@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(de[2727], he([1, 0, 38, 8]), function (ce, e, t, i) {
 			"use strict";
 			var w;

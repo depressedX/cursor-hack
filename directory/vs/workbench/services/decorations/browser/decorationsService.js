@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../common/decorations.js';
+import '../../../../base/common/ternarySearchTree.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/linkedList.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/strings.js';
+import '../../../../nls.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/hash.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../base/common/arrays.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/iconRegistry.js';
 define(
 			de[3254],
 			he([

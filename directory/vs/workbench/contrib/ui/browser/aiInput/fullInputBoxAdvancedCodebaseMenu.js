@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../../proto/aiserver/v1/repository_pb.js';
+import '../../../aichat/browser/chatData.js';
+import '../../../../services/selectedContext/browser/components/AdvancedCodebaseControls.js';
+import '../dropdown/dropdown.js';
+import '../menu/menu.js';
+import '../../../controlCommon/browser/solid.js';
 define(
 			de[4395],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 272, 140, 2007, 523, 484, 36]),

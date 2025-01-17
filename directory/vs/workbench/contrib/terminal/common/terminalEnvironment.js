@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/processes.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/terminal/common/terminalEnvironment.js';
+import '../../../../base/common/types.js';
 define(
 			de[1262],
 			he([1, 0, 54, 9, 919, 117, 12, 775, 28]),

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './bracketPairsTree/ast.js';
+import './bracketPairsTree/brackets.js';
+import './bracketPairsTree/length.js';
+import './bracketPairsTree/parser.js';
+import './bracketPairsTree/smallImmutableSet.js';
+import './bracketPairsTree/tokenizer.js';
 define(
 			de[2564],
 			he([1, 0, 658, 1537, 492, 1538, 657, 915]),

@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/browser/ui/dialog/dialog.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../base/common/date.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/keybinding/common/keybindingResolver.js';
 define(
 		de[2945],
 		he([

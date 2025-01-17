@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/network.js';
+import '../../files/common/files.js';
+import '../../request/common/request.js';
 define(de[2791], he([1, 0, 33, 23, 22, 327]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$qfb = void 0);

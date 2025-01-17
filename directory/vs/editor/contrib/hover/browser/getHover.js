@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/services/languageFeatures.js';
 define(
 			de[1643],
 			he([1, 0, 15, 33, 29, 46, 69]),

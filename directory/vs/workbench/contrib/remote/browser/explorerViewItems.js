@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../services/remote/common/remoteExplorerService.js';
+import '../../../../base/common/types.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/actions/common/actions.js';
+import './remoteExplorer.js';
+import '../../../../platform/workspace/common/virtualWorkspace.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[4030],
 			he([1, 0, 4, 519, 28, 78, 21, 8, 11, 1058, 349, 25, 3]),

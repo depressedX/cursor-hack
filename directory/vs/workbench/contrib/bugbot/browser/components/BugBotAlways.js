@@ -1,3 +1,24 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import './BugBotSimpleButton.js';
+import '../constants.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/ModalComponent.js';
+import '../../../ui/browser/modelToggle.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../hooks/useBugBotPickerMenuProps.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../ui/browser/collapsible/collapsible.js';
+import './BugBotDiffSelection.js';
 define(
 			de[4257],
 			he([

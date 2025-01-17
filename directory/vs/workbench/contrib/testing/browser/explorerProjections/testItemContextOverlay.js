@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../common/testProfileService.js';
+import '../../common/testId.js';
+import '../../common/testingContextKeys.js';
 define(de[1267], he([1, 0, 420, 259, 380]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$UKc = void 0);

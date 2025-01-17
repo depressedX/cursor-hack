@@ -1,3 +1,28 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/date.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import './chatClear.js';
+import '../chat.js';
+import '../chatEditorInput.js';
+import '../../common/chatContextKeys.js';
+import '../../common/chatService.js';
+import '../../common/chatViewModel.js';
+import '../../common/chatWidgetHistoryService.js';
+import '../../../../services/editor/common/editorGroupsService.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../services/views/common/viewsService.js';
 define(
 			de[402],
 			he([

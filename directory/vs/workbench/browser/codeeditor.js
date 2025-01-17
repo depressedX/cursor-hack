@@ -1,3 +1,20 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/event.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/resources.js';
+import '../../editor/browser/editorBrowser.js';
+import '../../editor/browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../editor/common/config/editorOptions.js';
+import '../../editor/common/cursorEvents.js';
+import '../../editor/common/model.js';
+import '../../editor/common/model/textModel.js';
+import '../../platform/actions/browser/floatingMenu.js';
+import '../../platform/actions/common/actions.js';
+import '../../platform/contextkey/common/contextkey.js';
+import '../../platform/instantiation/common/instantiation.js';
+import '../../platform/keybinding/common/keybinding.js';
+import '../services/editor/common/editorService.js';
 define(
 			de[824],
 			he([1, 0, 6, 3, 19, 56, 281, 38, 248, 64, 122, 1676, 11, 8, 5, 39, 18]),

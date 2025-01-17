@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/stream.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/types.js';
+import './workingCopy.js';
 define(
 			de[1912],
 			he([1, 0, 19, 9, 24, 82, 15, 22, 59, 408, 76, 3, 34, 23, 136, 28, 334]),

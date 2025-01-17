@@ -1,3 +1,21 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/event.js';
+import '../../../base/common/map.js';
+import '../../../base/common/uri.js';
+import './extensionManagement.js';
+import './extensionManagementUtil.js';
+import '../../files/common/files.js';
+import '../../instantiation/common/instantiation.js';
+import '../../log/common/log.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../uriIdentity/common/uriIdentity.js';
+import '../../../base/common/types.js';
+import '../../../base/common/errors.js';
+import '../../telemetry/common/telemetry.js';
 define(
 			de[1214],
 			he([1, 0, 15, 76, 3, 6, 59, 9, 119, 154, 22, 5, 34, 129, 68, 28, 29, 32]),

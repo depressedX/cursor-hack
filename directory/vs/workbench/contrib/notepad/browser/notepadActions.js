@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/actions/common/actions.js';
+import './constants.js';
+import './notepad.js';
+import '../../../../base/common/codicons.js';
 define(
 			de[1743],
 			he([1, 0, 11, 558, 467, 14]),

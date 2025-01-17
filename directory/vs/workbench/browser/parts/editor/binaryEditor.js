@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../common/editor/binaryEditorModel.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/files/common/files.js';
+import './editorPlaceholder.js';
 define(
 			de[1336],
 			he([1, 0, 4, 6, 1225, 21, 22, 1914]),

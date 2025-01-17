@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../editor/common/services/languagesAssociations.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/services/languageService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/files/common/files.js';
+import '../../extensions/common/extensions.js';
+import '../../extensions/common/extensionsRegistry.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/lifecycle.js';
+import '../../extensionManagement/common/extensionFeatures.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/types.js';
 define(
 			de[701],
 			he([

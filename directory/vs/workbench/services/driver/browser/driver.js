@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/languagePacks/common/localizedStrings.js';
+import '../../../../platform/log/browser/log.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../lifecycle/common/lifecycle.js';
 define(
 		de[1832],
 		he([1, 0, 7, 75, 24, 12, 113, 22, 2738, 2743, 34, 30, 55, 52]),

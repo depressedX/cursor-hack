@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/uri.js';
+import './notebookCommon.js';
+import './notebookEditorModel.js';
+import '../../../../base/common/lifecycle.js';
+import './notebookService.js';
+import '../../../../base/common/event.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../base/common/map.js';
+import '../../../services/workingCopy/common/fileWorkingCopyManager.js';
+import '../../../../base/common/network.js';
+import './notebookProvider.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './notebookLoggingService.js';
 define(
 			de[3912],
 			he([

@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/download/common/download.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/uuid.js';
+import '../common/extensionManagementChannelClient.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../environment/electron-sandbox/environmentService.js';
 define(
 			de[3781],
 			he([1, 0, 68, 133, 19, 23, 34, 665, 22, 47, 1808, 109, 151]),

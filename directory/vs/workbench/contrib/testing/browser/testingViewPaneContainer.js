@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../common/views.js';
+import '../common/constants.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/layout/browser/layoutService.js';
 define(
 			de[4047],
 			he([1, 0, 4, 10, 49, 5, 21, 32, 35, 25, 239, 60, 353, 53, 96]),

@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../aichat/browser/chatData.js';
+import './constants.js';
+import '../../../services/selectedContext/browser/selectedContextData.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/platform.js';
 define(
 			de[246],
 			he([1, 0, 83, 58, 47, 116, 41, 140, 169, 298, 7, 12]),

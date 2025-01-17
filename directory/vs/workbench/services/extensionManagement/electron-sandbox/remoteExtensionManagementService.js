@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../nls.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/async.js';
+import '../../extensions/common/extensionManifestPropertiesService.js';
+import '../../../../platform/files/common/files.js';
+import '../common/remoteExtensionManagementService.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../userDataProfile/common/remoteUserDataProfiles.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/extensions/common/extensionValidator.js';
 define(
 			de[4391],
 			he([

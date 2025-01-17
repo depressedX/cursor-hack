@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/color.js';
+import '../../terminal/common/terminalColorRegistry.js';
 define(de[3150], he([1, 0, 97, 512]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

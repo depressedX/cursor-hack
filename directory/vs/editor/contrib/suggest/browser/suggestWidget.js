@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/list/listWidget.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/numbers.js';
+import '../../../../base/common/strings.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../common/config/editorOptions.js';
+import './suggestWidgetStatus.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/theme.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/browser/ui/resizable/resizable.js';
+import './suggest.js';
+import './suggestWidgetDetails.js';
+import './suggestWidgetRenderer.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/browser/ui/codicons/codiconStyles.js';
+import '../../../../css!vs/editor/contrib/suggest/browser/media/suggest.js';
+import '../../symbolIcons/browser/symbolIcons.js';
 define(
 			de[1692],
 			he([

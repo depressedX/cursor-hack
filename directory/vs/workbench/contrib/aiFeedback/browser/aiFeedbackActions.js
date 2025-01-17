@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './aiFeedbackOpenService.js';
 define(
 			de[2969],
 			he([1, 0, 58, 27, 11, 43, 1705]),

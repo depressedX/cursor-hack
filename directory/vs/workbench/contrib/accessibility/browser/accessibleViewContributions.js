@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import './accessibilityConfiguration.js';
+import './accessibleViewActions.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/accessibility/browser/accessibleViewRegistry.js';
 define(
 			de[3544],
 			he([1, 0, 3, 130, 1032, 178, 412]),

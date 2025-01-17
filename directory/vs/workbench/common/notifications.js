@@ -1,3 +1,14 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../platform/notification/common/notification.js';
+import '../../base/common/errorMessage.js';
+import '../../base/common/event.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/errors.js';
+import '../../base/common/actions.js';
+import '../../base/common/arrays.js';
+import '../../base/common/linkedText.js';
+import '../../base/common/map.js';
 define(
 			de[610],
 			he([1, 0, 40, 163, 6, 3, 29, 50, 24, 488, 59]),

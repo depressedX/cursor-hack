@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/url/common/url.js';
+import '../../host/browser/host.js';
+import '../common/extensions.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../common/contributions.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/errors.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../environment/common/environmentService.js';
 define(
 			de[1835],
 			he([

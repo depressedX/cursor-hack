@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../layout/browser/layoutService.js';
+import '../browser/auxiliaryWindowService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/performance.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../host/browser/host.js';
+import '../../../../platform/window/electron-sandbox/window.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/dom.js';
+import '../../environment/common/environmentService.js';
+import '../../../../base/common/platform.js';
 define(
 			de[3450],
 			he([

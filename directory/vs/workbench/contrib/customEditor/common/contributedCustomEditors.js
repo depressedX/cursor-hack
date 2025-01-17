@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/memento.js';
+import './customEditor.js';
+import './extensionPoint.js';
+import '../../../services/editor/common/editorResolverService.js';
 define(
 			de[3577],
 			he([1, 0, 6, 3, 4, 21, 282, 625, 3576, 231]),

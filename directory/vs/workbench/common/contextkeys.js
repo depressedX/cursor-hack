@@ -1,3 +1,15 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/lifecycle.js';
+import '../../nls.js';
+import '../../platform/contextkey/common/contextkey.js';
+import '../../base/common/resources.js';
+import '../../editor/common/languages/language.js';
+import '../../platform/files/common/files.js';
+import '../../editor/common/services/model.js';
+import '../../base/common/network.js';
+import './editor.js';
+import '../../base/common/platform.js';
 define(
 			de[100],
 			he([1, 0, 3, 4, 8, 19, 61, 22, 67, 23, 44, 12]),

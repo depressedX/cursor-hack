@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/core/editOperation.js';
+import '../../../common/core/range.js';
 define(de[2589], he([1, 0, 188, 17]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Tic = void 0);

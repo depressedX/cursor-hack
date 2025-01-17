@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/languageSelector.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[3129],
 			he([1, 0, 3, 19, 933, 6, 68]),

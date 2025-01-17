@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../external/bufbuild/connect.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './promptBarService.js';
+import '../../aiErrors/browser/aiErrorService.js';
+import '../../../../platform/reactivestorage/browser/reducerService.js';
+import '../../aiTasks/browser/aiTaskServiceInterface.js';
+import './aiService.js';
+import './aiUtilsService.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import './utils.js';
+import '../../aiSettings/browser/aiSettingsService.js';
 define(
 			de[1931],
 			he([

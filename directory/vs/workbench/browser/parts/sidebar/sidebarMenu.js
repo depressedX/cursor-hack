@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import './types.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/uri.js';
+import '../../../common/theme.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/hash.js';
+import '../../../../../external/solid-dnd/drag-drop-context.js';
+import '../../../../../external/solid-dnd/drag-drop-sensors.js';
+import '../../../../../external/solid-dnd/sortable-context.js';
+import '../../../../../external/solid-dnd/create-sortable.js';
+import '../../../../../external/solid-dnd/drag-overlay.js';
+import '../../../../../external/solid-dnd/collision.js';
+import '../../../../base/common/types.js';
+import '../../../contrib/controlCommon/browser/solid.js';
+import '../../../services/views/browser/viewsService.js';
+import '../../../../../external/solid/web.js';
+import '../../../../base/common/platform.js';
+import '../../../contrib/ui/browser/loadingSpinner/loadingSpinner.js';
+import '../../../../css!vs/workbench/browser/parts/sidebar/SidebarPart2.js';
 define(
 			de[4119],
 			he([

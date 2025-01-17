@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/model.js';
+import '../../../common/editor/textResourceEditorModel.js';
+import '../../textfile/common/textfiles.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../textfile/common/textFileEditorModel.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../editor/common/services/modelUndoRedoParticipant.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../untitled/common/untitledTextEditorModel.js';
 define(
 			de[3875],
 			he([

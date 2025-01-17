@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/markdownRenderer.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/marked/marked.js';
+import '../../../../../editor/common/model.js';
+import '../../../../../editor/contrib/folding/browser/foldingRanges.js';
+import '../../../../../editor/contrib/folding/browser/syntaxRangeProvider.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookRange.js';
 define(
 			de[1841],
 			he([1, 0, 267, 6, 3, 434, 64, 659, 660, 70, 442]),

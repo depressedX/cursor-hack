@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
 define(de[3028], he([1, 0, 11, 92]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$22b = void 0);

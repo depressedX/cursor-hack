@@ -1,3 +1,28 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../base/browser/ui/button/button.js';
+import '../../../base/browser/ui/countBadge/countBadge.js';
+import '../../../base/browser/ui/progressbar/progressbar.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/event.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/severity.js';
+import '../../../base/common/types.js';
+import '../../../nls.js';
+import '../common/quickInput.js';
+import './quickInputBox.js';
+import './quickInput.js';
+import '../../layout/browser/layoutService.js';
+import '../../../base/browser/window.js';
+import '../../instantiation/common/instantiation.js';
+import './quickInputTree.js';
+import '../../contextkey/common/contextkey.js';
+import './renderQuickInputPreviewBox.js';
+import '../../reactivestorage/browser/reactiveStorageService.js';
+import './quickInputActions.js';
 define(
 		de[2867],
 		he([

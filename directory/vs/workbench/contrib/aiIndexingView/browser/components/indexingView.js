@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/browser/baseSolidComponents/progress/api.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/browser/solidComponents/switch/switch.js';
+import '../../../aisearch/browser/components/AiSearch.js';
+import '../../../aichat/browser/components/Utils.js';
+import '../../../../../base/common/uuid.js';
+import '../../../ui/browser/loadingStateButton/loadingStateButton.js';
+import '../../../../../base/common/buffer.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../contextGraph/browser/ContextGraphPane.js';
+import '../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../ui/browser/dropdown/dropdown.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../css!vs/workbench/contrib/aiIndexingView/browser/components/indexingView.js';
 define(
 			de[4334],
 			he([

@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorInput.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
 define(
 			de[1243],
 			he([1, 0, 23, 9, 4, 44, 223, 154, 54, 14, 79]),

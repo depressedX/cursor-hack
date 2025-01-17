@@ -1,3 +1,39 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/files/common/files.js';
+import '../../../common/editor.js';
+import '../../environment/common/environmentService.js';
+import '../../path/common/pathService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import './storedFileWorkingCopy.js';
+import './storedFileWorkingCopyManager.js';
+import './untitledFileWorkingCopy.js';
+import './untitledFileWorkingCopyManager.js';
+import './workingCopyFileService.js';
+import './fileWorkingCopy.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../editor/common/editorService.js';
+import '../../files/common/elevatedFileService.js';
+import '../../filesConfiguration/common/filesConfigurationService.js';
+import '../../lifecycle/common/lifecycle.js';
+import './workingCopyBackup.js';
+import './workingCopyEditorService.js';
+import './workingCopyService.js';
+import '../../../../base/common/network.js';
+import '../../decorations/common/decorations.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/progress/common/progress.js';
 define(
 			de[3911],
 			he([

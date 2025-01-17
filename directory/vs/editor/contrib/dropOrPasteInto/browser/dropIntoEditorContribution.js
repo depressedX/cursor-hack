@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorConfigurationSchema.js';
+import '../../../common/editorFeatures.js';
+import './defaultProviders.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import './dropIntoEditorController.js';
 define(
 			de[2919],
 			he([1, 0, 27, 46, 602, 588, 1213, 4, 81, 43, 30, 962]),

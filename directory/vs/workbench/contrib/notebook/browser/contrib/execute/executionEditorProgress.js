@@ -1,3 +1,11 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/decorators.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../notebookEditorExtensions.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../../../services/userActivity/common/userActivityService.js';
 define(
 			de[3750],
 			he([1, 0, 138, 3, 330, 70, 190, 1040]),

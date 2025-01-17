@@ -1,3 +1,24 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/diff/diff.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../languages/linkComputer.js';
+import '../languages/supports/inplaceReplaceSupport.js';
+import './editorBaseApi.js';
+import './editorWorkerHost.js';
+import '../../../base/common/stopwatch.js';
+import './unicodeTextModelHighlighter.js';
+import '../diff/legacyLinesDiffComputer.js';
+import '../diff/linesDiffComputers.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/network.js';
+import '../../../base/common/errors.js';
+import '../diff/defaultLinesDiffComputer/wordDiff.js';
+import '../../../../proto/aiserver/v1/utils_pb.js';
+import '../languages/defaultDocumentColorsComputer.js';
+import './findSectionHeaders.js';
+import './textModelSync/textModelSync.impl.js';
 define(
 			de[2764],
 			he([

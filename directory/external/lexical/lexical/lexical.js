@@ -1,3 +1,11 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../shared/canUseDOM.js';
+import '../shared/environment.js';
+import '../shared/invariant.js';
+import '../../../vs/base/browser/dom.js';
+import '../../../vs/base/browser/window.js';
+import '../../../vs/base/common/platform.js';
 define(
 		de[158],
 		he([1, 0, 1415, 1416, 1417, 7, 75, 12]),

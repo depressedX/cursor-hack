@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/scrollable.js';
+import '../config/editorOptions.js';
+import '../editorCommon.js';
+import './linesLayout.js';
+import '../viewModel.js';
+import '../viewModelEventDispatcher.js';
 define(
 			de[2724],
 			he([1, 0, 6, 3, 195, 38, 98, 2577, 290, 751]),

@@ -1,3 +1,10 @@
+import '../../require.js';
+import '../../exports.js';
+import '../solid/web.js';
+import '../solid/solid.js';
+import '../solid/store.js';
+import './collision.js';
+import './layout.js';
 define(
 			de[580],
 			he([1, 0, 2, 13, 193, 1463, 579]),

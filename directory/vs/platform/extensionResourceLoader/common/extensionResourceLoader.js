@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/uri.js';
+import '../../instantiation/common/instantiation.js';
+import '../../externalServices/common/serviceMachineId.js';
+import '../../telemetry/common/telemetry.js';
+import '../../telemetry/common/telemetryUtils.js';
+import '../../../base/common/network.js';
+import '../../extensions/common/extensions.js';
 define(
 			de[546],
 			he([1, 0, 12, 37, 9, 5, 678, 32, 269, 23, 109]),

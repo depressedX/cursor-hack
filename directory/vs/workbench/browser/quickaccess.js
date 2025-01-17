@@ -1,3 +1,13 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../nls.js';
+import '../../platform/contextkey/common/contextkey.js';
+import '../../platform/keybinding/common/keybinding.js';
+import '../../platform/quickinput/common/quickInput.js';
+import '../../base/common/lifecycle.js';
+import '../../editor/browser/editorBrowser.js';
+import '../services/editor/common/editorGroupsService.js';
+import '../services/editor/common/editorService.js';
 define(
 			de[473],
 			he([1, 0, 4, 8, 39, 63, 3, 56, 66, 18]),

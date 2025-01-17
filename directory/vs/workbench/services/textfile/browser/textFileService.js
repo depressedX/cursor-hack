@@ -1,3 +1,43 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../common/textfiles.js';
+import '../../../common/editor.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/path.js';
+import '../../environment/common/environmentService.js';
+import '../../untitled/common/untitledTextEditorService.js';
+import '../../untitled/common/untitledTextEditorModel.js';
+import '../common/textFileEditorModelManager.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/buffer.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../filesConfiguration/common/filesConfigurationService.js';
+import '../../../common/editor/textEditorModel.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../path/common/pathService.js';
+import '../../workingCopy/common/workingCopyFileService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../common/encoding.js';
+import '../../../../base/common/stream.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/cancellation.js';
+import '../../files/common/elevatedFileService.js';
+import '../../decorations/common/decorations.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[3906],
 			he([

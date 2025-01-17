@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/canIUse.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../base/browser/ui/toggle/toggle.js';
+import '../../../../base/browser/ui/inputbox/inputBox.js';
+import '../../../../base/browser/ui/selectBox/selectBox.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import './preferencesIcons.js';
+import '../common/settingsEditorColorRegistry.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../css!vs/workbench/contrib/preferences/browser/media/settingsWidgets.js';
 define(
 			de[3123],
 			he([

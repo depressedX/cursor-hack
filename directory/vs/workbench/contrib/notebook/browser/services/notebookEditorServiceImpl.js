@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/map.js';
+import '../notebookEditorWidget.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../services/editor/common/editorGroupsService.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../common/notebookEditorInput.js';
+import '../../../../../base/common/event.js';
+import '../../../../common/editor.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../common/notebookContextKeys.js';
+import '../../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../../platform/progress/common/progress.js';
 define(
 			de[4105],
 			he([1, 0, 59, 856, 3, 66, 5, 360, 6, 44, 18, 8, 176, 128, 84]),

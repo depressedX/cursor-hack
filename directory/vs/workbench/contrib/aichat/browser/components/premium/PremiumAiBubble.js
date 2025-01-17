@@ -1,3 +1,36 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../chatData.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../ui/browser/simpleButton/simpleButton.js';
+import '../ContextStep.js';
+import '../ChunkContext.js';
+import '../slowPool/usagePricingConfirmation.js';
+import '../../../../aiInterpreter/browser/interpreterResultComponent.js';
+import '../ChatAdvancedContextFollowup.js';
+import '../ControlsAndFeedback.js';
+import '../../../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../../../base/common/constants.js';
+import '../../../../composer/browser/constants.js';
+import '../../hooks/useIsBubbleSelected.js';
+import './PremiumBubble.js';
+import '../constants.js';
+import '../../../../aiMarkdown/browser/markdownData.js';
+import '../../../../aiMarkdown/browser/markdown.js';
+import '../slowPool/SlowPoolGenerationIndicator.js';
+import '../Utils.js';
+import '../../../../../../css!vs/workbench/contrib/aichat/browser/components/premium/PremiumAiBubble.js';
 define(
 			de[4316],
 			he([

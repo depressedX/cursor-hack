@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/objects.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
 define(
 			de[3027],
 			he([1, 0, 82, 4, 11, 31, 34, 40]),

@@ -1,3 +1,26 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/ui/list/listPaging.js';
+import '../../../base/browser/ui/list/listWidget.js';
+import '../../../base/browser/ui/table/tableWidget.js';
+import '../../../base/browser/ui/tree/abstractTree.js';
+import '../../../base/browser/ui/tree/asyncDataTree.js';
+import '../../../base/browser/ui/tree/dataTree.js';
+import '../../../base/browser/ui/tree/objectTree.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../nls.js';
+import '../../configuration/common/configuration.js';
+import '../../configuration/common/configurationRegistry.js';
+import '../../contextkey/common/contextkey.js';
+import '../../contextkey/common/contextkeys.js';
+import '../../contextview/browser/contextView.js';
+import '../../instantiation/common/instantiation.js';
+import '../../keybinding/common/keybinding.js';
+import '../../keybinding/common/keybindingResolver.js';
+import '../../registry/common/platform.js';
+import '../../theme/browser/defaultStyles.js';
 define(
 			de[93],
 			he([

@@ -1,3 +1,13 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../platform/theme/common/themeService.js';
+import '../common/theme.js';
+import '../../base/common/platform.js';
+import '../../base/browser/dom.js';
+import '../../base/browser/browser.js';
+import '../../platform/theme/common/colorRegistry.js';
+import '../../base/browser/window.js';
+import '../../css!vs/workbench/browser/media/style.js';
 define(
 			de[2952],
 			he([1, 0, 35, 123, 12, 7, 139, 51, 75, 2333]),

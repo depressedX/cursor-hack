@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './reactiveStorageService.js';
+import './reactiveStorageTypes.js';
+import '../../../../external/solid/store.js';
+import '../../../base/common/lifecycle.js';
+import '../../storage/common/storage.js';
+import '../../instantiation/common/instantiation.js';
+import '../../../base/common/map.js';
+import '../../../base/common/uuid.js';
+import '../../../base/common/constants.js';
+import '../../../../external/solid/solid.js';
+import '../../log/common/log.js';
+import '../../devOnlyRedisStorage/browser/devOnlyRedisStorageService.js';
+import '../../../base/common/event.js';
 define(
 			de[1679],
 			he([1, 0, 45, 205, 193, 3, 21, 5, 59, 47, 58, 13, 34, 2729, 6]),

@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../simpleButton/simpleButton.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/loadingStateButton/loadingStateButton.js';
 define(
 			de[1073],
 			he([1, 0, 2, 2, 2, 2, 2, 13, 147, 58, 14, 2520]),

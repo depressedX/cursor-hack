@@ -1,3 +1,32 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../editor/browser/editorBrowser.js';
+import '../../../editor/browser/services/codeEditorService.js';
+import '../../../editor/common/model.js';
+import '../../../editor/common/services/model.js';
+import '../../../editor/common/services/resolverService.js';
+import '../../../platform/files/common/files.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import './mainThreadDocuments.js';
+import './mainThreadEditor.js';
+import './mainThreadEditors.js';
+import '../common/extHost.protocol.js';
+import '../../browser/parts/editor/textEditor.js';
+import '../../services/editor/common/editorGroupColumn.js';
+import '../../services/editor/common/editorService.js';
+import '../../services/editor/common/editorGroupsService.js';
+import '../../services/textfile/common/textfiles.js';
+import '../../services/environment/common/environmentService.js';
+import '../../services/workingCopy/common/workingCopyFileService.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../platform/clipboard/common/clipboardService.js';
+import '../../services/path/common/pathService.js';
+import '../../../base/common/collections.js';
+import '../../services/panecomposite/browser/panecomposite.js';
+import '../../common/views.js';
+import '../../../platform/configuration/common/configuration.js';
 define(
 			de[3898],
 			he([

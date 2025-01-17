@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lazy.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../search/browser/searchActionsFind.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/browser/terminalActions.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import '../../../terminal/common/terminalContextKey.js';
+import './terminalFindWidget.js';
+import '../common/terminal.find.js';
+import '../../../../../css!vs/workbench/contrib/terminalContrib/find/browser/media/terminalFind.js';
 define(
 			de[4176],
 			he([

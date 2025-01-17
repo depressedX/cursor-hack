@@ -1,3 +1,22 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/strings.js';
+import './cursorCollection.js';
+import '../cursorCommon.js';
+import './cursorContext.js';
+import './cursorDeleteOperations.js';
+import '../cursorEvents.js';
+import './cursorTypeOperations.js';
+import './cursorTypeEditOperations.js';
+import '../core/range.js';
+import '../core/selection.js';
+import '../editorCommon.js';
+import '../model.js';
+import '../textModelEvents.js';
+import '../viewEvents.js';
+import '../../../base/common/lifecycle.js';
+import '../viewModelEventDispatcher.js';
 define(
 			de[1199],
 			he([

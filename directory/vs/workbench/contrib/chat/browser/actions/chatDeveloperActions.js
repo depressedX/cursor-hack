@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../nls.js';
+import '../../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../chat.js';
 define(
 			de[3012],
 			he([1, 0, 14, 4, 99, 11, 208]),

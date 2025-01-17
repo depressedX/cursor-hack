@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/assert.js';
+import '../../../../../editor/common/services/editorWorker.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import './lineRange.js';
+import './mapping.js';
+import '../../../../../platform/observable/common/platformObservableUtils.js';
 define(
 			de[3078],
 			he([1, 0, 229, 200, 10, 507, 686, 326]),

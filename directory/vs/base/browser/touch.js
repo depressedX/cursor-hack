@@ -1,3 +1,12 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './dom.js';
+import './window.js';
+import '../common/arrays.js';
+import '../common/decorators.js';
+import '../common/event.js';
+import '../common/lifecycle.js';
+import '../common/linkedList.js';
 define(
 			de[159],
 			he([1, 0, 7, 75, 24, 138, 6, 3, 273]),

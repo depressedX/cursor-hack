@@ -1,3 +1,24 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/ui/aria/aria.js';
+import '../../../../../../base/common/keyCodes.js';
+import '../../../../../../base/common/lazy.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/strings.js';
+import '../../../../../../editor/contrib/find/browser/findModel.js';
+import '../../../../../../editor/contrib/find/browser/findState.js';
+import '../../../../../../editor/contrib/find/browser/findWidget.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/hover/browser/hover.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import './findModel.js';
+import './notebookFindReplaceWidget.js';
+import '../../notebookBrowser.js';
+import '../../../common/notebookContextKeys.js';
 define(
 			de[1304],
 			he([

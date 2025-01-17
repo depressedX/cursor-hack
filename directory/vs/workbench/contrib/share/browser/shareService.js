@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/languageSelector.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/telemetry/common/telemetry.js';
 define(
 			de[3136],
 			he([1, 0, 65, 933, 4, 8, 73, 63, 32]),

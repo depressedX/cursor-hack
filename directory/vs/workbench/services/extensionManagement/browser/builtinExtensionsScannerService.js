@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../base/common/platform.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/extensionResourceLoader/common/extensionResourceLoader.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/extensionManagement/common/extensionNls.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/browser/window.js';
 define(
 			de[3291],
 			he([1, 0, 109, 12, 78, 68, 20, 154, 23, 9, 546, 62, 1598, 34, 75]),

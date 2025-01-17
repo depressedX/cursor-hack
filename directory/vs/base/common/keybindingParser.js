@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './keyCodes.js';
+import './keybindings.js';
 define(de[918], he([1, 0, 27, 343]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Xpb = void 0);

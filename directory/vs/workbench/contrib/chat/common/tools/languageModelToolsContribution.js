@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../nls.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/log/common/log.js';
+import '../languageModelToolsService.js';
+import '../../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[3325],
 			he([1, 0, 3, 19, 26, 4, 8, 34, 569, 175]),

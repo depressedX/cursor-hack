@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../is.js';
+import '../object.js';
+import '../supports.js';
+import '../time.js';
+import '../worldwide.js';
+import './handlers.js';
 define(
 			de[2087],
 			he([1, 0, 430, 528, 1433, 1093, 365, 726]),

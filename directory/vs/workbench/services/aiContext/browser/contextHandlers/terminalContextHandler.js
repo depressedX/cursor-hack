@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../ai/browser/simpleChunkingService.js';
+import '../../../../../base/common/result.js';
+import '../simpleSerialProcessor.js';
+import '../../../../../base/common/uri.js';
+import '../../../../contrib/terminal/browser/terminal.js';
+import '../../../ai/browser/fastContextService.js';
 define(
 			de[1876],
 			he([1, 0, 228, 3, 42, 25, 1038, 529, 1012, 9, 107, 400]),

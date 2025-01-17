@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../nls.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../base/common/lifecycle.js';
+import './explorerViewer.js';
+import '../files.js';
+import '../../../../../base/common/errorMessage.js';
 define(
 			de[4022],
 			he([1, 0, 6, 4, 25, 51, 3, 1945, 382, 163]),

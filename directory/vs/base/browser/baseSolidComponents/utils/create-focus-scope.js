@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './utils.js';
+import './solid-primitives/utils/utils.js';
+import './focus.js';
+import './tabbable.js';
+import '../../../../../external/solid/solid.js';
 define(
 		de[2624],
 		he([1, 0, 369, 302, 1567, 926, 13]),

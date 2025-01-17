@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../hover/browser/hoverTypes.js';
+import './inlayHintsController.js';
+import './inlayHintsHover.js';
 define(
 			de[3610],
 			he([1, 0, 46, 368, 1316, 1868]),

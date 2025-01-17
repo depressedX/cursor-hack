@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/product/common/productService.js';
+import '../common/issue.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../services/extensionManagement/browser/extensionBisect.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/uri.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
 define(
 			de[3754],
 			he([

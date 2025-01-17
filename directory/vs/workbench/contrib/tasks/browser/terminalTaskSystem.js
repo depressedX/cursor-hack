@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/extpath.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../markers/common/markers.js';
+import '../common/problemMatcher.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/terminal/common/terminalStrings.js';
+import '../../../common/views.js';
+import './taskTerminalStatus.js';
+import '../common/problemCollectors.js';
+import '../common/taskConfiguration.js';
+import '../common/taskSystem.js';
+import '../common/tasks.js';
+import '../../terminal/browser/terminalEscapeSequences.js';
+import '../../terminal/browser/terminalProcessExtHostProxy.js';
+import '../../terminal/common/terminal.js';
 define(
 		de[1817],
 		he([

@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../coreCommands.js';
+import '../../common/core/position.js';
+import '../../common/config/editorOptions.js';
+import '../../../base/common/platform.js';
 define(de[2798], he([1, 0, 498, 48, 38, 12]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

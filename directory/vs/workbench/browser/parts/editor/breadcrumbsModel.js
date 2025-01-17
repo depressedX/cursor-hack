@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './breadcrumbs.js';
+import '../../../services/outline/browser/outline.js';
 define(
 			de[3517],
 			he([1, 0, 33, 29, 6, 3, 23, 19, 10, 22, 25, 1223, 475]),

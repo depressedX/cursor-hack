@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/arraysFind.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/base.js';
+import '../../../../base/common/scrollable.js';
+import '../diffEditor/utils.js';
+import '../../../common/core/offsetRange.js';
+import '../../../common/core/selection.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import './diffEditorItemTemplate.js';
+import './objectPool.js';
+import '../../../../nls.js';
+import '../../../../css!vs/editor/browser/widget/multiDiffEditor/style.js';
 define(
 			de[2906],
 			he([

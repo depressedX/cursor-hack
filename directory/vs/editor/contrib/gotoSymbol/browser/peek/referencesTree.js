@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/countBadge/countBadge.js';
+import '../../../../../base/browser/ui/highlightedlabel/highlightedLabel.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../../../../base/common/filters.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/resources.js';
+import '../../../../common/services/resolverService.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../platform/theme/browser/defaultStyles.js';
+import '../referencesModel.js';
 define(
 			de[2833],
 			he([1, 0, 7, 495, 410, 325, 132, 3, 19, 42, 4, 5, 39, 73, 106, 541]),

@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/ui/widget.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import './menuEntryActionViewItem.js';
+import '../common/actions.js';
+import '../../contextkey/common/contextkey.js';
+import '../../instantiation/common/instantiation.js';
+import '../../theme/common/colorRegistry.js';
 define(
 			de[1676],
 			he([1, 0, 7, 235, 6, 3, 92, 11, 8, 5, 51]),

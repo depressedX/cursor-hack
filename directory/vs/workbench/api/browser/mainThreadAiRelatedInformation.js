@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/lifecycle.js';
+import '../common/extHost.protocol.js';
+import '../../services/aiRelatedInformation/common/aiRelatedInformation.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3337],
 			he([1, 0, 33, 3, 88, 1013, 101]),

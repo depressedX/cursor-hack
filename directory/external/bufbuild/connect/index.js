@@ -1,3 +1,17 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './connect-error.js';
+import './code.js';
+import './http-headers.js';
+import './callback-client.js';
+import './promise-client.js';
+import './router.js';
+import './implementation.js';
+import './cors.js';
+import './context-values.js';
+import './any-client.js';
+import './implementation.js';
+import './router-transport.js';
 define(
 			de[2055],
 			he([

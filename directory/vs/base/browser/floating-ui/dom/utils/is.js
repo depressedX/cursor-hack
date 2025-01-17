@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './getComputedStyle.js';
+import './getWindow.js';
+import './node.js';
 define(de[324], he([1, 0, 662, 537, 594]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

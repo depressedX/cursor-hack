@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../common/views.js';
+import './chat.js';
+import './chatViewPane.js';
+import '../common/chatAgents.js';
+import '../common/chatContextKeys.js';
+import '../../extensions/browser/extensionsActions.js';
+import '../../extensions/common/extensions.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[4068],
 			he([

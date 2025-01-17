@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/review_pb.js';
+import '../../../../../proto/aiserver/v1/server_config_connectweb.js';
+import '../../../../../proto/aiserver/v1/server_config_pb.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../bugbot/browser/constants.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../services/ai/browser/backendClient.js';
 define(
 			de[1009],
 			he([1, 0, 736, 1489, 1488, 6, 3, 11, 20, 5, 45, 134, 21, 789, 137, 285]),

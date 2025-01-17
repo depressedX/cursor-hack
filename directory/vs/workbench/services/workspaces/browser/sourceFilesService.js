@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../utils/common/ignore.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/common/services/languagesAssociations.js';
+import '../../search/common/search.js';
+import '../../../../base/common/cancellation.js';
+import '../../ai/browser/gitContextService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 		de[632],
 		he([1, 0, 22, 20, 25, 1325, 5, 671, 186, 33, 359, 45, 21]),

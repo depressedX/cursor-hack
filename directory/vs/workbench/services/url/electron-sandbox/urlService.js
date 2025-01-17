@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/url/common/url.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/ipc/common/mainProcessService.js';
+import '../../../../platform/url/common/urlIpc.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/parts/ipc/common/ipc.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/url/common/urlService.js';
+import '../../../../platform/log/common/log.js';
 define(
 			de[3746],
 			he([1, 0, 465, 9, 371, 2881, 41, 23, 62, 20, 305, 110, 2882, 34]),

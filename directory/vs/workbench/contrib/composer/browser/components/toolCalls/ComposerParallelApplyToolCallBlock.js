@@ -1,3 +1,15 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../ComposerMessageCodeblock.js';
+import '../../../../../../platform/tracing/common/tracing.js';
+import '../../../../ui/browser/badge/badge.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../css!vs/workbench/contrib/composer/browser/components/toolCalls/ComposerParallelApplyToolCallBlock.js';
 define(
 			de[4291],
 			he([1, 0, 2, 2, 2, 2, 13, 1378, 216, 564, 36, 2420]),

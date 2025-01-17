@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../platform/product/common/product.js';
+import '../../../platform/dialogs/common/dialogs.js';
+import '../../../platform/native/common/native.js';
+import '../../../base/common/errorMessage.js';
+import '../../../platform/product/common/productService.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/errors.js';
 define(
 		de[3217],
 		he([1, 0, 4, 11, 372, 57, 110, 163, 62, 12, 29]),

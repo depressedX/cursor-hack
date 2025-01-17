@@ -1,3 +1,21 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/browser.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/platform.js';
+import './elementSizeObserver.js';
+import './fontMeasurements.js';
+import './migrateOptions.js';
+import './tabFocus.js';
+import '../../common/config/editorOptions.js';
+import '../../common/config/editorZoom.js';
+import '../../common/config/fontInfo.js';
+import '../../../platform/accessibility/common/accessibility.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/pixelRatio.js';
 define(
 			de[1607],
 			he([

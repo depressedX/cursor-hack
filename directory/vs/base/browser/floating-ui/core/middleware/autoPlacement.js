@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../detectOverflow.js';
+import '../enums.js';
+import '../utils/getAlignment.js';
+import '../utils/getAlignmentSides.js';
+import '../utils/getOppositeAlignmentPlacement.js';
+import '../utils/getSide.js';
 define(
 			de[2203],
 			he([1, 0, 645, 1494, 582, 1495, 1120, 487]),

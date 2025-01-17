@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/progressbar/progressbar.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/resources.js';
+import '../../../common/views.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './outlineViewState.js';
+import '../../../services/outline/browser/outline.js';
+import '../../../common/editor.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/browser/ui/tree/abstractTree.js';
+import './outline.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../css!vs/workbench/contrib/outline/browser/outlinePane.js';
 define(
 			de[3834],
 			he([

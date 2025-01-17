@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './connect-error.js';
+import './code.js';
+import './protocol/signals.js';
+import './context-values.js';
 define(
 			de[634],
 			he([1, 0, 213, 202, 1082, 1078]),

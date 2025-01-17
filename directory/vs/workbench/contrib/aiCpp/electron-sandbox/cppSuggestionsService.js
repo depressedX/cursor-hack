@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import './utils.js';
 define(
 			de[2964],
 			he([1, 0, 47, 20, 5, 45, 155, 1229]),

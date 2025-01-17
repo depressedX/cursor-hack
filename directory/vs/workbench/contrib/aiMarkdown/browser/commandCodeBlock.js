@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/extpath.js';
+import '../../../../platform/terminal/common/terminal.js';
 define(
 			de[1708],
 			he([1, 0, 19, 9, 12, 249, 117]),

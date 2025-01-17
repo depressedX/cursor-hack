@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './getComputedStyle.js';
+import './getDocumentElement.js';
+import './getNodeScroll.js';
+import './getWindowScrollBarX.js';
+import './math.js';
 define(
 			de[2665],
 			he([1, 0, 662, 538, 928, 1575, 900]),

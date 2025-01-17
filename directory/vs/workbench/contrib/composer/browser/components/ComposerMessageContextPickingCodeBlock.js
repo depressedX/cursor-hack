@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../composerData.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
+import './ComposerMessageToolCallPill.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../../../base/common/path.js';
+import '../../../../services/selectedContext/browser/utils.js';
+import '../hooks/useComposerDataHandle.js';
 define(
 			de[4287],
 			he([

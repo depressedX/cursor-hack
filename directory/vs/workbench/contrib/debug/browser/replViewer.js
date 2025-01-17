@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/countBadge/countBadge.js';
+import '../../../../base/browser/ui/highlightedlabel/highlightedLabel.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/list/list.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/themables.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/theme/common/themeService.js';
+import './baseDebugView.js';
+import './debugANSIHandling.js';
+import './debugIcons.js';
+import '../common/debug.js';
+import '../common/debugModel.js';
+import '../common/replModel.js';
+import '../../../services/editor/common/editorService.js';
 define(
 		de[3824],
 		he([

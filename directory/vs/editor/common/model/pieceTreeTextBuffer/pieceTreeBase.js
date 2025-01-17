@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/charCode.js';
+import '../../core/position.js';
+import '../../core/range.js';
+import '../../model.js';
+import './rbTreeBase.js';
+import '../textModelSearch.js';
 define(
 			de[1628],
 			he([1, 0, 120, 48, 17, 64, 2567, 543]),

@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/process.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../base/common/uri.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/path.js';
 define(
 			de[1314],
 			he([1, 0, 344, 3, 59, 10, 22, 5, 21, 117, 9, 143, 23, 12, 54]),

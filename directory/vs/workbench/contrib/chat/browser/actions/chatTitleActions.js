@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/marked/marked.js';
+import '../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../bulkEdit/browser/bulkCellEdits.js';
+import './chatActions.js';
+import '../chat.js';
+import '../../common/chatContextKeys.js';
+import '../../common/chatService.js';
+import '../../common/chatViewModel.js';
+import '../../../inlineChat/common/inlineChat.js';
+import '../../../notebook/common/notebookCommon.js';
+import '../../../notebook/common/notebookContextKeys.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[1328],
 			he([

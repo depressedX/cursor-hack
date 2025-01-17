@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../core/core.js';
+import './getBoundingClientRect.js';
+import './getComputedStyle.js';
+import './getDocumentElement.js';
+import './getDocumentRect.js';
+import './getOverflowAncestors.js';
+import './getParentNode.js';
+import './getScale.js';
+import './getViewportRect.js';
+import './getVisualOffsets.js';
+import './is.js';
+import './math.js';
+import './node.js';
 define(
 			de[2666],
 			he([

@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../common/extHost.protocol.js';
+import '../../../base/common/async.js';
+import '../../services/workingCopy/common/workingCopyFileService.js';
+import '../../contrib/notebook/common/notebookEditorModel.js';
 define(
 			de[3908],
 			he([1, 0, 4, 5, 101, 88, 15, 336, 1343]),

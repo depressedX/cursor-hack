@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../services/themes/common/workbenchThemeService.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/telemetry/browser/errorTelemetry.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/services/languagesAssociations.js';
+import '../../../../base/common/hash.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../../../common/views.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../base/common/types.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../extensions/common/extensions.js';
+import '../../chat/common/chatService.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
 define(
 		de[3775],
 		he([

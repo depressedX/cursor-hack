@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorInput.js';
+import './interactiveDocumentService.js';
+import './interactiveHistoryService.js';
+import '../../notebook/common/notebookCommon.js';
+import '../../notebook/common/notebookEditorInput.js';
+import '../../notebook/common/notebookService.js';
 define(
 			de[1302],
 			he([

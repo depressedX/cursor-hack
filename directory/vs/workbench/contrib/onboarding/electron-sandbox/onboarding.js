@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/editor/common/editorService.js';
+import './renderOnboarding.js';
+import '../../../services/js/browser/jsService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/ai/browser/onboardingService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/files/common/files.js';
+import '../../../services/host/browser/host.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/native/common/native.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../base/common/constants.js';
 define(
 			de[4340],
 			he([

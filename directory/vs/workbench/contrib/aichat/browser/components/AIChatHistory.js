@@ -1,3 +1,28 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../utils.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../controlCommon/browser/solid.js';
+import '../chatData.js';
+import '../../../ui/browser/menu/hooks.js';
+import '../../../../../base/browser/dom.js';
+import '../../../composer/browser/hooks/useAutoVerticalScroll.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/AiBubble.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/ChatHistory.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/UserBubble.js';
 define(
 			de[4203],
 			he([

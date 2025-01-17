@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../browser/webview.js';
+import './webviewCommands.js';
+import './webviewService.js';
 define(
 			de[3721],
 			he([1, 0, 11, 20, 355, 3213, 3720]),

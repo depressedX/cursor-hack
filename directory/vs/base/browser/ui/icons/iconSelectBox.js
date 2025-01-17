@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../aria/aria.js';
+import '../inputbox/inputBox.js';
+import '../scrollbar/scrollableElement.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/themables.js';
+import '../../../../nls.js';
+import '../../../common/scrollable.js';
+import '../highlightedlabel/highlightedLabel.js';
+import '../../../../css!vs/base/browser/ui/icons/iconSelectBox.js';
 define(
 			de[2685],
 			he([1, 0, 7, 127, 292, 203, 6, 3, 26, 4, 195, 410, 2241]),

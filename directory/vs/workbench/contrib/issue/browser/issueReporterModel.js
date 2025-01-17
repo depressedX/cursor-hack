@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/diagnostics/common/diagnostics.js';
+import '../common/issue.js';
 define(de[3066], he([1, 0, 75, 768, 376]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$o6c = void 0);

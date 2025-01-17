@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../services/selectedContext/browser/hooks/useContextSideEffects.js';
+import '../../../../services/selectedContext/browser/selectedContextData.js';
 define(
 			de[4410],
 			he([1, 0, 13, 36, 2011, 298]),

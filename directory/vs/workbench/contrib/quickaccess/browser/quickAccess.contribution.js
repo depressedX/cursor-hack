@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/common/quickAccess.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/quickinput/browser/helpQuickAccess.js';
+import './viewQuickAccess.js';
+import './commandsQuickAccess.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../browser/quickaccess.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../editor/common/editorContextKeys.js';
 define(
 			de[4108],
 			he([1, 0, 4, 348, 30, 2782, 3836, 4107, 11, 27, 8, 473, 43, 71]),

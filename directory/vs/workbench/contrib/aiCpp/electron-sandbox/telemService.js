@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/uuid.js';
+import '../../../../../proto/aiserver/v1/cpp_pb.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/cppUtils/utils.js';
+import '../../../../editor/common/services/model.js';
+import '../../../services/ai/browser/metricsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../services/ai/common/dataScrubbingService.js';
+import '../../../services/cursorAuth/browser/authenticationService.js';
+import '../../../services/ai/browser/backendClient.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/ai/browser/cursorCredsService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../base/common/path.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/services/resolverService.js';
 define(
 			de[3639],
 			he([

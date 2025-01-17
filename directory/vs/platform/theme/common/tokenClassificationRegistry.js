@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/color.js';
+import '../../../base/common/event.js';
+import '../../../nls.js';
+import '../../jsonschemas/common/jsonContributionRegistry.js';
+import '../../registry/common/platform.js';
 define(
 			de[778],
 			he([1, 0, 15, 97, 6, 4, 250, 30]),

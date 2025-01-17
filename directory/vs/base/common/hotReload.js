@@ -1,3 +1,6 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './process.js';
 define(de[1559], he([1, 0, 344]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

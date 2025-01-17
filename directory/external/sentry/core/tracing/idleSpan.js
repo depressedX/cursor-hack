@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../currentScopes.js';
+import '../debug-build.js';
+import '../semanticAttributes.js';
+import '../utils/hasTracingEnabled.js';
+import '../utils/spanOnScope.js';
+import '../utils/spanUtils.js';
+import './sentryNonRecordingSpan.js';
+import './spanstatus.js';
+import './trace.js';
 define(
 			de[2123],
 			he([1, 0, 80, 234, 263, 453, 638, 731, 301, 888, 636, 1448]),

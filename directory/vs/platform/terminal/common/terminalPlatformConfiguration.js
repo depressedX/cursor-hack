@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/platform.js';
+import '../../../nls.js';
+import '../../configuration/common/configurationRegistry.js';
+import '../../registry/common/platform.js';
+import './terminal.js';
+import './terminalProfiles.js';
 define(
 			de[1201],
 			he([1, 0, 14, 12, 4, 81, 30, 117, 955]),

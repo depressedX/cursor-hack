@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './private/proto-runtime.js';
+import './private/field-list.js';
+import './private/scalars.js';
+import './private/field-normalize.js';
 define(
 			de[406],
 			he([1, 0, 1400, 1396, 526, 1397]),

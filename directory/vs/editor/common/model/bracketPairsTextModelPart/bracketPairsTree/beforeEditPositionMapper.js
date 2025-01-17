@@ -1,3 +1,7 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../core/range.js';
+import './length.js';
 define(de[914], he([1, 0, 17, 492]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

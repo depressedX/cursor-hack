@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/model.js';
+import './colorHoverParticipant.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../hover/browser/contentHoverStatusBar.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/common/event.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './defaultDocumentColorProvider.js';
+import '../../../../base/browser/dom.js';
+import '../../../common/services/editorWorker.js';
+import '../../../../css!vs/editor/contrib/colorPicker/browser/colorPicker.js';
 define(
 			de[2910],
 			he([

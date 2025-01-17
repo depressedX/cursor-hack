@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/files/common/files.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../base/common/resources.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/output/common/output.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import './defaultLogLevels.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[1852],
 			he([1, 0, 4, 50, 34, 63, 9, 22, 78, 19, 18, 297, 269, 1019, 14, 26, 3]),

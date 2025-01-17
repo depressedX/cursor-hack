@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/services/editorWorker.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/format/browser/format.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../scm/browser/dirtydiffDecorator.js';
+import '../../scm/common/quickDiff.js';
 define(
 			de[1885],
 			he([1, 0, 24, 33, 46, 17, 71, 64, 200, 42, 674, 4, 8, 5, 84, 1884, 803]),

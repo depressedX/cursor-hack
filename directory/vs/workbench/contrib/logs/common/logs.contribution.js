@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import './logsActions.js';
+import '../../../common/contributions.js';
+import '../../../../platform/files/common/files.js';
+import '../../../services/output/common/output.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/log/common/log.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/event.js';
+import '../../../services/log/common/logConstants.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import './defaultLogLevels.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../base/common/network.js';
 define(
 			de[3523],
 			he([

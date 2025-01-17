@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../common/commentCommandIds.js';
 define(
 			de[1239],
 			he([1, 0, 183, 3, 106, 1238]),

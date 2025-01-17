@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/iterator.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/marshallingIds.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/ternarySearchTree.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../commands/common/commands.js';
+import '../../configuration/common/configuration.js';
+import '../common/contextkey.js';
 define(
 			de[2728],
 			he([1, 0, 6, 103, 3, 221, 82, 387, 9, 4, 31, 10, 8]),

@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/common/async.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/parts/ipc/common/ipc.net.js';
+import '../common/remoteAuthorityResolver.js';
+import '../../../base/browser/window.js';
 define(
 			de[2785],
 			he([1, 0, 7, 15, 76, 6, 3, 760, 211, 75]),

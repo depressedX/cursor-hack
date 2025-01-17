@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/assert.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/map.js';
+import '../../../../../base/common/errors.js';
+import '../../../../common/core/position.js';
+import '../../../../common/core/range.js';
+import '../../../../common/model/bracketPairsTextModelPart/fixBrackets.js';
+import '../../../../common/core/textEdit.js';
+import '../utils.js';
+import '../../../snippet/browser/snippetParser.js';
 define(
 			de[1594],
 			he([1, 0, 229, 15, 33, 59, 29, 48, 17, 2564, 490, 753, 389]),

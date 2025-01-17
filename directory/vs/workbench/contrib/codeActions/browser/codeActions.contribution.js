@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../common/codeActionsExtensionPoint.js';
+import '../common/documentationExtensionPoint.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import './codeActionsContribution.js';
+import './documentationContribution.js';
 define(
 			de[3414],
 			he([1, 0, 81, 5, 30, 55, 3396, 3397, 175, 52, 3017, 3018]),

@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../ai/browser/lspSubgraphService.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../ai/browser/aiService.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[3993],
 			he([1, 0, 1281, 42, 118, 45]),

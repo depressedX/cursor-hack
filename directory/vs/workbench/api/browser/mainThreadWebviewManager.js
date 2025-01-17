@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import './mainThreadCustomEditors.js';
+import './mainThreadWebviewPanels.js';
+import './mainThreadWebviews.js';
+import './mainThreadWebviewViews.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3902],
 			he([1, 0, 3, 5, 3897, 3442, 831, 3376, 88, 101]),

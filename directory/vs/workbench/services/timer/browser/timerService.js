@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/performance.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/update/common/update.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../editor/common/editorService.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/common/async.js';
+import '../../layout/browser/layoutService.js';
+import '../../panecomposite/browser/panecomposite.js';
+import '../../../common/views.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/browser/defaultWorkerFactory.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/terminal/common/terminal.js';
 define(
 			de[520],
 			he([

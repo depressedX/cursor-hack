@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../../external/solid/store.js';
+import '../../../../base/browser/dom.js';
+import '../../../services/search/common/search.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 			de[1035],
 			he([1, 0, 2, 13, 193, 7, 186, 21]),

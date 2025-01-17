@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/lifecycle.js';
+import '../common/debug.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../../platform/commands/common/commands.js';
 define(
 			de[3817],
 			he([1, 0, 4, 132, 3, 112, 63, 89, 31]),

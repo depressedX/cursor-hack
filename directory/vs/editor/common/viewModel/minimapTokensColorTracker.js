@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../core/rgba.js';
+import '../languages.js';
+import '../encodedTokenAttributes.js';
 define(
 			de[1592],
 			he([1, 0, 6, 3, 1526, 74, 171]),

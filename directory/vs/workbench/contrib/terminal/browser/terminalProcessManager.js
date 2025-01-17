@@ -1,3 +1,42 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/platform.js';
+import '../../../../nls.js';
+import '../../../../platform/terminal/common/terminalStrings.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/remote/common/remoteHosts.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../platform/terminal/common/capabilities/naiveCwdDetectionCapability.js';
+import '../../../../platform/terminal/common/capabilities/terminalCapabilityStore.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../platform/terminal/common/terminalRecorder.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './environmentVariableInfo.js';
+import './terminal.js';
+import '../common/environmentVariable.js';
+import '../../../../platform/terminal/common/environmentVariableCollection.js';
+import '../../../../platform/terminal/common/environmentVariableShared.js';
+import '../common/terminal.js';
+import '../common/terminalEnvironment.js';
+import '../../../services/configurationResolver/common/configurationResolver.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/history/common/history.js';
+import '../../../services/path/common/pathService.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../tasks/common/tasks.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/uuid.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/terminal/common/terminalEnvironment.js';
+import '../../terminalContrib/suggest/common/terminalSuggestConfiguration.js';
 define(
 		de[3580],
 		he([

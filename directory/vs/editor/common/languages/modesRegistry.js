@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/event.js';
+import '../../../platform/registry/common/platform.js';
+import '../../../base/common/mime.js';
+import '../../../platform/configuration/common/configurationRegistry.js';
 define(
 			de[172],
 			he([1, 0, 4, 6, 30, 266, 81]),

@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/base.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../common/editorContextKeys.js';
+import './consts.js';
+import './inlineEditsController.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[2932],
 			he([1, 0, 14, 27, 77, 407, 46, 281, 71, 1604, 1694, 4, 11, 8]),

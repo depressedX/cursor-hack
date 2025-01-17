@@ -1,3 +1,7 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/common/core/position.js';
+import '../../../../../editor/common/core/textLength.js';
 define(de[1739], he([1, 0, 48, 458]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

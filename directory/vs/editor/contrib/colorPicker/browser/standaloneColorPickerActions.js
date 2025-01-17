@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../nls.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './standaloneColorPickerWidget.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../css!vs/editor/contrib/colorPicker/browser/colorPicker.js';
 define(
 			de[2911],
 			he([1, 0, 46, 27, 4, 43, 2910, 71, 11, 1136]),

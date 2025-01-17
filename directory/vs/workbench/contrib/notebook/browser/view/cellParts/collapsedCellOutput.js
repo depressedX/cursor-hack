@@ -1,3 +1,12 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../../notebookBrowser.js';
+import '../cellPart.js';
 define(
 			de[3498],
 			he([1, 0, 7, 14, 26, 4, 39, 108, 294]),

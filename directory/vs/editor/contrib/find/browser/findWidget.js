@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/browser/ui/toggle/toggle.js';
+import '../../../../base/browser/ui/sash/sash.js';
+import '../../../../base/browser/ui/widget.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/strings.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import './findModel.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import '../../../../platform/history/browser/historyWidgetKeybindingHint.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/theme/common/theme.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../css!vs/editor/contrib/find/browser/findWidget.js';
 define(
 			de[961],
 			he([

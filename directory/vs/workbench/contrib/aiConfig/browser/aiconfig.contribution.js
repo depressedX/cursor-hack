@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/constants.js';
 define(
 			de[2957],
 			he([1, 0, 58, 81, 134, 30, 58]),

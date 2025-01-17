@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../common/extHost.protocol.js';
+import '../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../base/common/lifecycle.js';
+import '../../services/environment/common/environmentService.js';
 define(
 			de[3364],
 			he([1, 0, 101, 88, 211, 3, 78]),

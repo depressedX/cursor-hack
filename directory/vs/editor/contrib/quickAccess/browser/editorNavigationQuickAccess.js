@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/functional.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/editorCommon.js';
+import '../../../common/model.js';
+import '../../../common/core/editorColorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../platform/editor/common/editor.js';
 define(
 			de[1665],
 			he([1, 0, 288, 3, 56, 98, 64, 307, 35, 127, 116]),

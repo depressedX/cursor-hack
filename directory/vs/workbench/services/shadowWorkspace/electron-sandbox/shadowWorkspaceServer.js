@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/shadow_workspace_pb.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../textfile/common/textfiles.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/cursorAsync.js';
+import '../../../../editor/common/services/editorWorker.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../editor/contrib/codeAction/common/types.js';
+import '../../../../editor/contrib/codeAction/browser/codeAction.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/common/languages.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../editor/browser/services/bulkEditService.js';
+import '../../../../editor/common/languages/language.js';
+import '../../editor/common/editorService.js';
+import '../../../../platform/files/common/files.js';
 define(
 			de[3706],
 			he([

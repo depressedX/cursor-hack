@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../browser/textFileService.js';
+import '../common/textfiles.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../untitled/common/untitledTextEditorService.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/common/services/model.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../filesConfiguration/common/filesConfigurationService.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../path/common/pathService.js';
+import '../../workingCopy/common/workingCopyFileService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../editor/common/languages/language.js';
+import '../../files/common/elevatedFileService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/async.js';
+import '../../decorations/common/decorations.js';
 define(
 			de[3907],
 			he([

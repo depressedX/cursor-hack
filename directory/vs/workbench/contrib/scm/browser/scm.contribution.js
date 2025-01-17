@@ -1,3 +1,39 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import './dirtydiffDecorator.js';
+import '../common/scm.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/actions/common/actions.js';
+import './activity.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../common/scmService.js';
+import '../../../common/views.js';
+import './scmViewPaneContainer.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import './scmViewPane.js';
+import './scmViewService.js';
+import './scmRepositoriesViewPane.js';
+import '../../../../editor/contrib/suggest/browser/suggest.js';
+import '../../workspace/common/workspace.js';
+import '../common/quickDiff.js';
+import '../common/quickDiffService.js';
+import '../../../../base/browser/dom.js';
+import './workingSet.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../../platform/list/browser/listService.js';
+import './util.js';
+import './scmHistoryViewPane.js';
 define(
 			de[4035],
 			he([

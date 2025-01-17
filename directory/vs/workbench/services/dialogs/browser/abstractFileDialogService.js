@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/window/common/window.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../history/common/history.js';
+import '../../environment/common/environmentService.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/path.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './simpleFileDialog.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../host/browser/host.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/strings.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/label/common/label.js';
+import '../../path/common/pathService.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../editor/common/editorService.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 		de[3583],
 		he([

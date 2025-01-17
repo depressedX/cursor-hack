@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/uriIpc.js';
+import './extensionManagement.js';
 define(
 			de[2786],
 			he([1, 0, 6, 3, 82, 9, 1172, 119]),

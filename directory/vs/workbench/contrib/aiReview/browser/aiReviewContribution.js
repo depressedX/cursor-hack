@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import './aiReviewService.js';
 define(
 			de[4243],
 			he([1, 0, 30, 55, 52, 137, 4242]),

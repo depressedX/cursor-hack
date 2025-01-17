@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/progress/common/progress.js';
+import './files.js';
+import '../common/files.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/browser/services/bulkEditService.js';
+import '../common/explorerModel.js';
+import '../../../../base/common/uri.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/dnd/browser/dnd.js';
+import '../../../services/workspaces/common/workspaceEditing.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/labels.js';
+import '../../../../base/common/stream.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/functional.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/errors.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/browser/webFileSystemAccess.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 			de[1944],
 			he([

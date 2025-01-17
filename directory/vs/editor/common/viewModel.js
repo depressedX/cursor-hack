@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/arrays.js';
+import '../../base/common/strings.js';
+import './core/range.js';
 define(de[290], he([1, 0, 24, 37, 17]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

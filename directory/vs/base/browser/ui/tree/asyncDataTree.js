@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../list/listView.js';
+import './abstractTree.js';
+import './indexTreeModel.js';
+import './objectTree.js';
+import './tree.js';
+import '../../../common/async.js';
+import '../../../common/codicons.js';
+import '../../../common/themables.js';
+import '../../../common/errors.js';
+import '../../../common/event.js';
+import '../../../common/iterator.js';
+import '../../../common/lifecycle.js';
+import '../../../common/types.js';
 define(
 			de[1170],
 			he([1, 0, 539, 411, 1165, 1169, 264, 15, 14, 26, 29, 6, 103, 3, 28]),

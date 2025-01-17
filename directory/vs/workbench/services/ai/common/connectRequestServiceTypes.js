@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/ai_project_connectweb.js';
+import '../../../../../proto/aiserver/v1/aibranch_connectweb.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../../../../proto/aiserver/v1/auth_connectweb.js';
+import '../../../../../proto/aiserver/v1/cmdk_connectweb.js';
+import '../../../../../proto/aiserver/v1/cpp_connectweb.js';
+import '../../../../../proto/aiserver/v1/dashboard_connectweb.js';
+import '../../../../../proto/aiserver/v1/debugger_connectweb.js';
+import '../../../../../proto/aiserver/v1/fastsearch_connectweb.js';
+import '../../../../../proto/aiserver/v1/hallucinated_functions_connectweb.js';
+import '../../../../../proto/aiserver/v1/interpreter_connectweb.js';
+import '../../../../../proto/aiserver/v1/repository_connectweb.js';
+import '../../../../../proto/aiserver/v1/shadow_workspace_connectweb.js';
+import '../../../../../proto/aiserver/v1/uploadserver_connectweb.js';
+import '../../../../../proto/aiserver/v1/telemetry_connectweb.js';
+import '../../../../../proto/aiserver/v1/lint_connectweb.js';
+import '../../../../../proto/aiserver/v1/experiments_connectweb.js';
+import '../../../../../proto/aiserver/v1/client_logger_connectweb.js';
+import '../../../../../proto/aiserver/v1/admin_connectweb.js';
+import '../../../../../proto/aiserver/v1/autopilot_connectweb.js';
+import '../../../../../proto/aiserver/v1/cursor_prediction_connectweb.js';
+import '../../../../../proto/aiserver/v1/review_connectweb.js';
+import '../../../../../proto/aiserver/v1/fastapply_connectweb.js';
+import '../../../../../proto/aiserver/v1/server_config_connectweb.js';
+import '../../../../../proto/aiserver/v1/chat_connectweb.js';
+import '../../../../../proto/aiserver/v1/analytics_connectweb.js';
 define(
 			de[3233],
 			he([

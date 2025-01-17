@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/label/common/label.js';
+import '../../../common/editor.js';
+import '../../interactive/browser/interactiveHistoryService.js';
+import '../../notebook/common/notebookCommon.js';
+import '../../notebook/common/notebookEditorInput.js';
+import '../../notebook/common/notebookEditorModelResolverService.js';
+import '../../notebook/common/notebookService.js';
+import '../../../services/editor/common/customEditorLabelService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
 define(
 			de[1850],
 			he([

@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../interceptor.js';
+import '../connect-error.js';
+import './signals.js';
+import './normalize.js';
 define(
 			de[2021],
 			he([1, 0, 1386, 213, 1082, 1393]),

@@ -1,3 +1,29 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/log/common/log.js';
+import '../common/extHost.protocol.js';
+import '../../common/editor.js';
+import '../../common/editor/diffEditorInput.js';
+import '../../common/editor/editorGroupModel.js';
+import '../../common/editor/sideBySideEditorInput.js';
+import '../../common/editor/textResourceEditorInput.js';
+import '../../contrib/chat/browser/chatEditorInput.js';
+import '../../contrib/customEditor/browser/customEditorInput.js';
+import '../../contrib/interactive/browser/interactiveEditorInput.js';
+import '../../contrib/mergeEditor/browser/mergeEditorInput.js';
+import '../../contrib/multiDiffEditor/browser/multiDiffEditorInput.js';
+import '../../contrib/notebook/common/notebookEditorInput.js';
+import '../../contrib/terminal/browser/terminalEditorInput.js';
+import '../../contrib/webviewPanel/browser/webviewEditorInput.js';
+import '../../services/editor/common/editorGroupColumn.js';
+import '../../services/editor/common/editorGroupsService.js';
+import '../../services/editor/common/editorService.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3876],
 			he([

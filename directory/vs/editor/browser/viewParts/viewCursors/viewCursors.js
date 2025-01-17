@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../../base/common/async.js';
+import '../../view/viewPart.js';
+import './viewCursor.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/editorColorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/theme/common/theme.js';
+import '../../../common/cursorEvents.js';
+import '../../../../base/browser/dom.js';
+import '../../../../css!vs/editor/browser/viewParts/viewCursors/viewCursors.js';
 define(
 			de[2851],
 			he([1, 0, 194, 15, 303, 2720, 38, 307, 35, 212, 248, 7, 2277]),

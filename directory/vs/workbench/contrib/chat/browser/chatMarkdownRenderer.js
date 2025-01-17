@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../url/browser/trustedDomainService.js';
 define(
 			de[3277],
 			he([1, 0, 95, 3, 251, 61, 72, 41, 1292]),

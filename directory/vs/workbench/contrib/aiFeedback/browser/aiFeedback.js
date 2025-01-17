@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import './entrypoint.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/commands/common/commands.js';
+import './aiFeedbackOpenService.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[4312],
 			he([1, 0, 5, 180, 3, 30, 4311, 55, 52, 31, 1705, 18]),

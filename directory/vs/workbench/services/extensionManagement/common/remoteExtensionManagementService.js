@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../userDataProfile/common/remoteUserDataProfiles.js';
+import './extensionManagementChannelClient.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
 define(
 			de[3789],
 			he([1, 0, 68, 1044, 1808, 133, 129]),

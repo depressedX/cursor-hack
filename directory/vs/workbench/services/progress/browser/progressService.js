@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../statusbar/browser/statusbar.js';
+import '../../../../base/common/async.js';
+import '../../activity/common/activity.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../base/browser/ui/dialog/dialog.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/linkedText.js';
+import '../../../common/views.js';
+import '../../views/common/viewsService.js';
+import '../../panecomposite/browser/panecomposite.js';
+import '../../../../base/common/iconLabels.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/keybinding/common/keybindingResolver.js';
+import '../../../../base/common/constants.js';
+import '../../userActivity/common/userActivityService.js';
+import '../../../../css!vs/workbench/services/progress/browser/media/progressService.js';
 define(
 			de[3851],
 			he([

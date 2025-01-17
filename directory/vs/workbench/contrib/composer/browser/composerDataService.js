@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/path.js';
+import '../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './composerCapabilities.js';
+import './composerData.js';
+import '../../contextGraph/browser/gitGraphService.js';
+import '../../../services/selectedContext/browser/utils.js';
+import '../../../../../proto/aiserver/v1/composer_pb.js';
+import './composerDataCreation.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../base/common/constants.js';
+import '../../recentFilesTrackerService/browser/recentFilesTrackerService.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/files/common/files.js';
+import './utils.js';
+import '../../../../base/common/platform.js';
+import '../../../../editor/common/services/resolverService.js';
+import './composerDataHandle.js';
+import '../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../platform/tracing/common/tracing.js';
+import '../../../services/selectedContext/browser/selectedContext.js';
 define(
 			de[209],
 			he([

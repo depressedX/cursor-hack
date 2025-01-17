@@ -1,3 +1,22 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/common/path.js';
+import '../../../../../../platform/tracing/common/tracing.js';
+import '../ComposerToolbarSimpleButton.js';
+import './ComposerToolCallBlockContainer.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../../ui/browser/hooks/useVSHoverTooltip.js';
+import '../../../../ui/browser/loadingSpinner/loadingSpinner.js';
+import '../../../../ui/browser/hooks/useIsUsingFileIconTheme.js';
+import '../../../../../../css!vs/workbench/contrib/composer/browser/components/toolCalls/ComposerSingleFileToolCallBlock.js';
 define(
 			de[1380],
 			he([

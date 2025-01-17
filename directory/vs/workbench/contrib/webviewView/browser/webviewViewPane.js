@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../common/memento.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
+import '../../webview/browser/webview.js';
+import '../../webview/browser/webviewWindowDragMonitor.js';
+import './webviewViewService.js';
+import '../../../services/activity/common/activity.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[3849],
 			he([

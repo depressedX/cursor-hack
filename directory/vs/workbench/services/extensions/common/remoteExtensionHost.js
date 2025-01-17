@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/debug/common/extensionHostDebug.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/remote/common/remoteAgentConnection.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/remote/common/remoteSocketFactoryService.js';
+import '../../../../platform/sign/common/sign.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../environment/common/environmentService.js';
+import './extensionDevOptions.js';
+import './extensionHostProtocol.js';
+import './extensions.js';
 define(
 			de[3379],
 			he([

@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../../proto/aiserver/v1/repository_pb.js';
+import '../../../../../base/common/constants.js';
+import '../../../../contrib/controlCommon/browser/solid.js';
+import '../../../../contrib/ui/browser/hooks/useKeyboardShortcut.js';
+import '../selectedContextData.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
 define(
 			de[2007],
 			he([1, 0, 2, 2, 2, 13, 272, 58, 36, 385, 298, 83]),

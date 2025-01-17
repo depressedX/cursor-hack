@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './errors.js';
+import './lifecycle.js';
 define(de[408], he([1, 0, 29, 3]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/tunnel/common/tunnel.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../environment/common/environmentService.js';
+import '../../extensions/common/extensions.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/objects.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[839],
 			he([

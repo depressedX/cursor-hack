@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/extensionManagement/common/implicitActivationEvents.js';
+import '../../../../platform/extensions/common/extensionsApiProposals.js';
 define(
 		de[175],
 		he([1, 0, 4, 29, 111, 119, 250, 30, 109, 62, 1200, 1179]),

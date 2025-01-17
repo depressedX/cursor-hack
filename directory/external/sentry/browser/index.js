@@ -1,3 +1,16 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './exports.js';
+import './integrations/reportingobserver.js';
+import './integrations/httpclient.js';
+import './integrations/contextlines.js';
+import '../core/index.js';
+import './metrics.js';
+import './tracing/request.js';
+import './tracing/browserTracingIntegration.js';
+import '../core/index.js';
+import './transports/offline.js';
+import './profiling/integration.js';
 define(
 		de[1105],
 		he([1, 0, 2145, 2136, 2135, 2134, 144, 2137, 1459, 2141, 144, 2143, 2139]),

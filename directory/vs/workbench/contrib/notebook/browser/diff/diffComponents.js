@@ -1,3 +1,45 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/network.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './diffElementViewModel.js';
+import './notebookDiffEditorBrowser.js';
+import '../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../common/notebookCommon.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../view/cellParts/cellActionView.js';
+import '../notebookIcons.js';
+import './diffElementOutputs.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../editor/contrib/contextmenu/browser/contextmenu.js';
+import '../../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../../../../../editor/contrib/suggest/browser/suggestController.js';
+import '../../../codeEditor/browser/menuPreventer.js';
+import '../../../codeEditor/browser/selectionClipboard.js';
+import '../../../snippets/browser/tabCompletion.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../platform/actions/browser/toolbar.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import './diffCellEditorOptions.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../editor/browser/widget/diffEditor/diffEditorWidget.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/event.js';
+import '../../../../../editor/common/services/textResourceConfiguration.js';
 define(
 			de[3771],
 			he([

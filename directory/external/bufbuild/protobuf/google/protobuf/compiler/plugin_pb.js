@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../message.js';
+import '../../../proto2.js';
+import '../descriptor_pb.js';
 define(de[2038], he([1, 0, 339, 874, 724]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

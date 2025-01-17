@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './algorithms/diffAlgorithm.js';
+import '../rangeMapping.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/arraysFind.js';
+import '../../../../base/common/map.js';
+import '../../core/lineRange.js';
+import './linesSliceCharSequence.js';
+import './utils.js';
+import './algorithms/myersDiffAlgorithm.js';
+import '../../core/range.js';
 define(
 			de[2554],
 			he([1, 0, 656, 342, 24, 214, 59, 196, 1531, 911, 1529, 17]),

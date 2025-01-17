@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../browser/services/codeEditorService.js';
+import './controller/inlineCompletionContextKeys.js';
+import './controller/inlineCompletionsController.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[2930],
 			he([1, 0, 6, 65, 765, 501, 178, 8, 3]),

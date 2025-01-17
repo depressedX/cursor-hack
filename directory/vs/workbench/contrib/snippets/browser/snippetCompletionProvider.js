@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/strings.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/contrib/snippet/browser/snippetParser.js';
+import '../../../../nls.js';
+import './snippets.js';
+import './snippetsFile.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../platform/commands/common/commands.js';
 define(
 			de[1752],
 			he([1, 0, 94, 37, 48, 17, 74, 61, 389, 4, 510, 805, 132, 162, 152, 31]),

@@ -1,3 +1,6 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './codiconsUtil.js';
 define(de[1506], he([1, 0, 903]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

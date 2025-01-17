@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/extpath.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../common/elevatedFileService.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../nls.js';
 define(
 			de[3382],
 			he([1, 0, 249, 23, 9, 22, 20, 110, 174, 151, 700, 12, 73, 4]),

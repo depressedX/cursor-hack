@@ -1,3 +1,20 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/uri.js';
+import '../../../editor/browser/services/codeEditorService.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../platform/editor/common/editor.js';
+import '../common/extHost.protocol.js';
+import '../../services/editor/common/editorGroupColumn.js';
+import '../../services/editor/common/editorService.js';
+import '../../services/editor/common/editorGroupsService.js';
+import '../../../platform/environment/common/environment.js';
+import '../../services/workingCopy/common/workingCopyService.js';
+import '../../../editor/browser/editorBrowser.js';
+import '../../../platform/configuration/common/configuration.js';
 define(
 			de[1913],
 			he([1, 0, 29, 3, 82, 9, 65, 31, 116, 88, 446, 18, 66, 113, 227, 56, 10]),

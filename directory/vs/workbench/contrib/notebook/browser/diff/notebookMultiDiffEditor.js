@@ -1,3 +1,32 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../common/services/notebookWorkerService.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../editor/common/config/fontInfo.js';
+import '../../../../../base/browser/pixelRatio.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../browser/parts/editor/editorPane.js';
+import '../../common/notebookCommon.js';
+import '../../../../../editor/browser/config/fontMeasurements.js';
+import '../notebookOptions.js';
+import '../../common/notebookService.js';
+import './notebookMultiDiffEditorInput.js';
+import '../../../../../editor/browser/widget/multiDiffEditor/multiDiffEditorWidget.js';
+import '../../../../browser/labels.js';
+import '../../../../services/notebook/common/notebookDocumentService.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/network.js';
+import '../../../../../editor/common/services/getIconClasses.js';
+import './notebookDiffViewModel.js';
+import './eventDispatcher.js';
+import './notebookDiffEditorBrowser.js';
+import '../../../../../base/common/observable.js';
 define(
 			de[1320],
 			he([

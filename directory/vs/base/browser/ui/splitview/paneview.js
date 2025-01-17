@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../browser.js';
+import '../../dnd.js';
+import '../../dom.js';
+import '../../event.js';
+import '../../keyboardEvent.js';
+import '../../touch.js';
+import '../sash/sash.js';
+import '../../../common/color.js';
+import '../../../common/event.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../../nls.js';
+import './splitview.js';
+import '../../../../css!vs/base/browser/ui/splitview/paneview.js';
 define(
 			de[1580],
 			he([1, 0, 139, 323, 7, 265, 114, 159, 277, 97, 6, 27, 3, 4, 279, 2254]),

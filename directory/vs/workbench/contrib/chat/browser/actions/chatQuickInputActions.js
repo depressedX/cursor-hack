@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../editor/common/core/selection.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './chatActions.js';
+import '../chat.js';
+import '../../common/chatContextKeys.js';
+import '../../../inlineChat/browser/inlineChatController.js';
 define(
 			de[1358],
 			he([1, 0, 14, 27, 65, 104, 4, 11, 43, 402, 208, 207, 427]),

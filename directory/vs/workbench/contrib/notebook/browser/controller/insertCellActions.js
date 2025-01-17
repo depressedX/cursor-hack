@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './cellOperations.js';
+import './coreActions.js';
+import '../../common/notebookContextKeys.js';
+import '../../common/notebookCommon.js';
+import './chat/notebookChatContext.js';
 define(
 			de[1846],
 			he([1, 0, 14, 27, 61, 4, 11, 8, 179, 43, 624, 238, 176, 70, 688]),

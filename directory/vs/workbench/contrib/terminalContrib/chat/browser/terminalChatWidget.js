@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/symbols.js';
+import '../../../../../nls.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../chat/common/chatAgents.js';
+import '../../../inlineChat/browser/inlineChatWidget.js';
+import './terminalChat.js';
+import '../../stickyScroll/browser/terminalStickyScrollContribution.js';
+import '../../../../../css!vs/workbench/contrib/terminalContrib/chat/browser/media/terminalChatWidget.js';
 define(
 			de[4377],
 			he([1, 0, 7, 6, 3, 649, 4, 8, 5, 153, 1357, 692, 2004, 2495]),

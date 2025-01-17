@@ -1,3 +1,19 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../editor.js';
+import './resourceEditorInput.js';
+import '../../services/textfile/common/textfiles.js';
+import '../../services/editor/common/editorService.js';
+import '../../../platform/files/common/files.js';
+import '../../../platform/label/common/label.js';
+import '../../../base/common/network.js';
+import '../../../base/common/resources.js';
+import '../../../editor/common/services/resolverService.js';
+import './textResourceEditorModel.js';
+import '../../../editor/common/model/textModel.js';
+import '../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../editor/common/services/textResourceConfiguration.js';
+import '../../services/editor/common/customEditorLabelService.js';
 define(
 			de[478],
 			he([

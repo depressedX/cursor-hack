@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../floating-ui/dom/dom.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import './popper-context.js';
+import './utils.js';
+import '../../window.js';
 define(
 			de[2669],
 			he([1, 0, 2, 2668, 115, 13, 896, 2179, 75]),

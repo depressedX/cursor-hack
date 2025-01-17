@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../files/browser/explorerFileContrib.js';
+import './codeCoverageDisplayUtils.js';
+import '../common/configuration.js';
+import '../common/testCoverageService.js';
 define(
 			de[1335],
 			he([

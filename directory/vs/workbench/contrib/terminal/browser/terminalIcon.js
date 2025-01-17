@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../platform/theme/common/theme.js';
+import '../../../../base/common/themables.js';
+import '../common/terminal.js';
+import '../common/terminalColorRegistry.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[514],
 			he([1, 0, 136, 9, 79, 212, 26, 145, 512, 7, 3]),

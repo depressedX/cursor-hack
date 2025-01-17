@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../message.js';
+import './type_pb.js';
+import './source_context_pb.js';
+import '../../proto3.js';
 define(
 			de[2040],
 			he([1, 0, 339, 1406, 1088, 406]),

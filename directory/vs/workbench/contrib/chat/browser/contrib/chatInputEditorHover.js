@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/contrib/hover/browser/hoverTypes.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../chat.js';
+import '../chatAgentHover.js';
+import './editorHoverWrapper.js';
+import '../../common/chatParserTypes.js';
+import '../../../../../nls.js';
 define(
 			de[4074],
 			he([1, 0, 3, 17, 368, 31, 5, 208, 1353, 3011, 329, 4]),

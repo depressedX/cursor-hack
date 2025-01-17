@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../common/debug.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/host/browser/host.js';
+import '../../../services/title/browser/titleService.js';
 define(de[3740], he([1, 0, 112, 3, 87, 713]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$6Qc = void 0);

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/charCode.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/keybindings.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/keybinding/common/baseResolvedKeybinding.js';
 define(
 			de[3394],
 			he([1, 0, 120, 27, 343, 12, 1187]),

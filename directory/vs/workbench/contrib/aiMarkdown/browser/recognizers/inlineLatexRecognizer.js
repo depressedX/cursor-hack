@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/katex/katex.js';
+import '../markdownData.js';
 define(de[2987], he([1, 0, 2, 2981, 236]), function (ce, e, t, i, w) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),

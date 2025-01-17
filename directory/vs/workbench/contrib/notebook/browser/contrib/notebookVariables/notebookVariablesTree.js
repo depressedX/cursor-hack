@@ -1,3 +1,11 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/hover/browser/hover.js';
+import '../../../../../../platform/list/browser/listService.js';
+import '../../../../debug/browser/baseDebugView.js';
 define(
 			de[3830],
 			he([1, 0, 7, 3, 4, 72, 93, 629]),

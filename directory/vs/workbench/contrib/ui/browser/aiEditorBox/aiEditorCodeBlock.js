@@ -1,3 +1,40 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/event.js';
+import '../../../../../editor/common/languages.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../codeEditor/browser/menuPreventer.js';
+import '../../../../../editor/contrib/contextmenu/browser/contextmenu.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/tooltipService/common/tooltipService.js';
+import '../../../../../editor/contrib/dropOrPasteInto/browser/copyPasteController.js';
+import '../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../editor/contrib/semanticTokens/browser/viewportSemanticTokens.js';
+import '../../../../../editor/contrib/suggest/browser/suggestController.js';
+import '../../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../../../../../editor/common/core/range.js';
+import '../../common/constants.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/common/model.js';
+import '../../common/suggestionProvider.js';
+import '../../../../../editor/contrib/suggest/browser/suggest.js';
+import './aiEditorBoxHoverContributions.js';
+import '../../../../../editor/contrib/gotoSymbol/browser/peek/referencesController.js';
+import '../../../../../editor/contrib/find/browser/findController.js';
+import '../../../../../editor/contrib/gotoError/browser/gotoError.js';
+import '../../../../../editor/contrib/gotoSymbol/browser/link/goToDefinitionAtPosition.js';
+import '../../../../../editor/common/services/model.js';
 define(
 			de[1369],
 			he([

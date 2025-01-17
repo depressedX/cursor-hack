@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/observable/common/platformObservableUtils.js';
+import './configuration.js';
+import './constants.js';
+import './testResultService.js';
+import './testingContextKeys.js';
+import '../../../services/views/common/viewsService.js';
 define(
 			de[630],
 			he([1, 0, 33, 103, 3, 77, 10, 8, 5, 326, 443, 353, 381, 380, 89]),

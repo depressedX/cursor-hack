@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/memento.js';
 define(
 			de[355],
 			he([1, 0, 24, 19, 47, 8, 5, 21, 282]),

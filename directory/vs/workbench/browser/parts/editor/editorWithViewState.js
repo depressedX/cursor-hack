@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../common/editor.js';
+import './editorPane.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[1016],
 			he([1, 0, 6, 44, 217, 21, 5, 32, 35, 125, 66, 18, 3]),

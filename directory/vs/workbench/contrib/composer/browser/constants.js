@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/keyCodes.js';
 define(de[169], he([1, 0, 167, 14, 58, 27]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

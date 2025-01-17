@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/languages.js';
+import '../../../common/services/resolverService.js';
+import '../../snippet/browser/snippetParser.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import '../../../common/encodedTokenAttributes.js';
 define(
 			de[373],
 			he([

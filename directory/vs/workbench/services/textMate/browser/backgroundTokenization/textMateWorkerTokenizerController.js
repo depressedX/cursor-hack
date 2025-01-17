@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../amdX.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../editor/common/core/eolCounter.js';
+import '../../../../../editor/common/core/lineRange.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/model/textModelTokens.js';
+import '../../../../../editor/common/tokens/contiguousMultilineTokensBuilder.js';
+import '../../../../../platform/observable/common/platformObservableUtils.js';
+import '../arrayOperation.js';
 define(
 			de[3660],
 			he([1, 0, 536, 3, 77, 531, 196, 17, 1590, 1152, 326, 3659]),

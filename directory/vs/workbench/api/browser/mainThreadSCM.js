@@ -1,3 +1,26 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/event.js';
+import '../../../base/common/observable.js';
+import '../../../base/common/lifecycle.js';
+import '../../contrib/scm/common/scm.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/marshallingIds.js';
+import '../../../base/common/themables.js';
+import '../../contrib/scm/common/quickDiff.js';
+import '../../../base/common/resourceTree.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../platform/workspace/common/workspace.js';
+import '../../../base/common/resources.js';
+import '../../services/ai/browser/gitContextService.js';
+import '../../../editor/common/languages/language.js';
+import '../../../editor/common/services/model.js';
+import '../../../editor/common/services/resolverService.js';
+import '../../../base/common/network.js';
 define(
 			de[3446],
 			he([

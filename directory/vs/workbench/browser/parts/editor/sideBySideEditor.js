@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/editor.js';
+import '../../../common/editor/sideBySideEditorInput.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../base/browser/ui/splitview/splitview.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './editor.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/theme.js';
+import './editorWithViewState.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../css!vs/workbench/browser/parts/editor/media/sidebysideeditor.js';
 define(
 			de[825],
 			he([

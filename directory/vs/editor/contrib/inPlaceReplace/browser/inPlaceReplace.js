@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/keyCodes.js';
+import '../../editorState/browser/editorState.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/model/textModel.js';
+import '../../../common/services/editorWorker.js';
+import '../../../../nls.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './inPlaceReplaceCommand.js';
+import '../../../../css!vs/editor/contrib/inPlaceReplace/browser/inPlaceReplace.js';
 define(
 			de[2913],
 			he([1, 0, 15, 29, 27, 439, 46, 17, 104, 71, 122, 200, 4, 43, 2586, 2302]),

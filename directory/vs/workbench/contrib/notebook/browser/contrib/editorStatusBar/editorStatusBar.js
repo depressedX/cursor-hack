@@ -1,3 +1,23 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../nls.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/network.js';
+import '../../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/log/common/log.js';
+import '../../../../../common/contributions.js';
+import '../navigation/arrow.js';
+import '../../controller/coreActions.js';
+import '../../controller/editActions.js';
+import '../../notebookBrowser.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookKernelService.js';
+import '../../../../../services/editor/common/editorService.js';
+import '../../../../../services/statusbar/browser/statusbar.js';
+import '../../../../../services/editor/common/editorGroupsService.js';
+import '../../../../../../base/common/event.js';
 define(
 			de[4088],
 			he([

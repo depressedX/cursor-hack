@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/uuid.js';
+import '../../../aiConfig/browser/aiConfigHelper.js';
+import './useComposerDataHandle.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../services/selectedContext/browser/hooks/useContextPills.js';
+import '../../../../services/utils/browser/isPureClick.js';
 define(
 			de[4400],
 			he([1, 0, 13, 7, 58, 12, 47, 270, 177, 36, 1385, 1046]),

@@ -1,3 +1,47 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../editor/browser/widget/diffEditor/components/accessibleDiffViewer.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/core/lineRange.js';
+import '../../../../editor/common/core/selection.js';
+import '../../../../editor/common/diff/rangeMapping.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/actions/browser/buttonbar.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../../accessibility/common/accessibilityCommands.js';
+import '../../chat/browser/actions/chatTitleActions.js';
+import '../../chat/browser/chatListRenderer.js';
+import '../../chat/browser/chatWidget.js';
+import '../../chat/common/chatAgents.js';
+import '../../chat/common/chatColors.js';
+import '../../chat/common/chatContextKeys.js';
+import '../../chat/common/chatModel.js';
+import '../../chat/common/chatService.js';
+import '../../chat/common/chatViewModel.js';
+import '../common/inlineChat.js';
+import '../../../../css!vs/workbench/contrib/inlineChat/browser/media/inlineChat.js';
 define(
 			de[1357],
 			he([

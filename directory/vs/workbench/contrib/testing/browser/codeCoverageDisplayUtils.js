@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/assert.js';
+import '../../../../base/common/numbers.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/colorUtils.js';
+import '../common/configuration.js';
+import '../common/testCoverage.js';
 define(
 			de[1266],
 			he([1, 0, 229, 201, 4, 51, 306, 443, 1e3]),

@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/codicons.js';
+import '../../../nls.js';
+import '../../storage/common/storage.js';
+import '../../../base/common/themables.js';
+import '../../../base/common/lifecycle.js';
 define(
 			de[1678],
 			he([1, 0, 14, 4, 21, 26, 3]),

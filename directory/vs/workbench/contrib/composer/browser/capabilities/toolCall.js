@@ -1,3 +1,27 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../composer.js';
+import '../composerCapabilities.js';
+import '../composerCapabilityDecorators.js';
+import '../composerCapabilitySchemas.js';
+import '../composerData.js';
+import '../composerDataService.js';
+import '../constants.js';
+import '../../../../services/ai/browser/aiService.js';
+import '../../../../services/ai/browser/repositoryService.js';
+import '../../../../services/selectedContext/browser/utils.js';
+import '../utils.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../base/common/errors.js';
 define(
 			de[3953],
 			he([

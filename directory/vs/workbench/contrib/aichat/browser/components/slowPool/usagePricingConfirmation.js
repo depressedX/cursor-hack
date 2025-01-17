@@ -1,3 +1,18 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../../../external/bufbuild/connect.js';
+import '../../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../../services/aiErrors/browser/aiErrorService.js';
+import './SlowPoolGenerationIndicator.js';
+import '../../../../../../base/common/constants.js';
 define(
 			de[1072],
 			he([1, 0, 2, 2, 2, 2, 2, 13, 36, 134, 340, 147, 401, 863, 58]),

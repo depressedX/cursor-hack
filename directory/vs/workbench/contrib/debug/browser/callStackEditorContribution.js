@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uint.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/model.js';
+import '../../../../nls.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import './debugIcons.js';
+import '../common/debug.js';
+import '../../../../css!vs/workbench/contrib/debug/browser/media/callStackEditorContribution.js';
 define(
 			de[796],
 			he([1, 0, 24, 6, 3, 210, 17, 64, 4, 34, 51, 35, 26, 68, 352, 112, 2426]),

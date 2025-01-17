@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/hash.js';
+import '../../../base/common/map.js';
+import '../../../base/common/numbers.js';
+import '../../../platform/environment/common/environment.js';
+import '../../../platform/instantiation/common/extensions.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/log/common/log.js';
+import '../../../base/common/network.js';
 define(
 			de[391],
 			he([1, 0, 136, 59, 201, 113, 20, 5, 34, 23]),

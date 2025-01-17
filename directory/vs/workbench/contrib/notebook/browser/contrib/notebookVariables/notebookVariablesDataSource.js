@@ -1,3 +1,8 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/cancellation.js';
+import '../../../../../../nls.js';
+import '../../../common/notebookKernelService.js';
 define(de[3113], he([1, 0, 33, 4, 243]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$UGc = void 0);

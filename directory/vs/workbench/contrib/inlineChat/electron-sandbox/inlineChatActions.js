@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../browser/inlineChatActions.js';
+import '../../../../base/common/async.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../chat/electron-sandbox/actions/voiceChatActions.js';
+import '../common/inlineChat.js';
+import '../../speech/common/speechService.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[4379],
 			he([1, 0, 27, 8, 43, 1061, 15, 71, 31, 39, 2005, 257, 511, 4, 10]),

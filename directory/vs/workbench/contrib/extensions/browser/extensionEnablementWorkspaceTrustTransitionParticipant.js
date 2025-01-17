@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/host/browser/host.js';
 define(
 			de[3385],
 			he([1, 0, 4, 3, 174, 78, 157, 53, 87]),

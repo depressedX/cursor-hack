@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../controlCommon/browser/solid.js';
+import '../../ui/browser/scrollableDiv.js';
+import '../../ui/browser/simpleCodeRender/simpleCodeRender.js';
+import '../../ui/browser/utils.js';
+import '../../ui/browser/widgets/codeBlock.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/contrib/stickyScroll/browser/stickyScrollController.js';
+import '../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../ui/browser/hooks/useIsUsingFileIconTheme.js';
+import './utils.js';
+import '../../../../css!vs/workbench/contrib/quickInput2/browser/QuickInputBoxPreviewBoxMain.js';
 define(
 			de[4346],
 			he([

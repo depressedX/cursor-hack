@@ -1,3 +1,21 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/map.js';
+import '../../../../../../editor/common/languages/language.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../../platform/registry/common/platform.js';
+import '../../../../../common/contributions.js';
+import '../../notebookBrowser.js';
+import '../../../common/notebookCellStatusBarService.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookKernelService.js';
+import '../../../common/notebookService.js';
+import '../../../../../services/languageDetection/common/languageDetectionWorkerService.js';
+import '../../../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3487],
 			he([

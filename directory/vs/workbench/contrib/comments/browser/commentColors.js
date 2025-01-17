@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/contrib/peekView/browser/peekView.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/colorRegistry.js';
 define(de[1237], he([1, 0, 74, 255, 4, 51]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

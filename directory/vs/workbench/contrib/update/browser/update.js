@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../services/activity/common/activity.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/update/common/update.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../services/environment/browser/environmentService.js';
+import './releaseNotesEditor.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../base/common/async.js';
+import '../../../services/userDataSync/common/userDataSync.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/actions.js';
 define(
 		de[3793],
 		he([

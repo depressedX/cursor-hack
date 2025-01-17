@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../notebookBrowser.js';
+import '../../common/notebookContextKeys.js';
+import '../../common/notebookExecutionStateService.js';
+import '../../common/notebookKernelService.js';
+import '../../../../services/extensions/common/extensions.js';
 define(
 			de[3503],
 			he([1, 0, 7, 3, 8, 108, 176, 190, 243, 53]),

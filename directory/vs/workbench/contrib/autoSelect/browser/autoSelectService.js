@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/contrib/folding/browser/folding.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
 define(
 			de[1930],
 			he([1, 0, 5, 350, 20, 118, 3, 83, 42, 25, 148]),

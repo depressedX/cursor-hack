@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/theme/common/iconRegistry.js';
 define(
 			de[1246],
 			he([1, 0, 4, 14, 12, 8, 79]),

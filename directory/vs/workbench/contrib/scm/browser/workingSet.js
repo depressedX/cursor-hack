@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/observable/common/platformObservableUtils.js';
+import '../../../../platform/storage/common/storage.js';
+import './util.js';
+import '../common/scm.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/layout/browser/layoutService.js';
 define(
 			de[3404],
 			he([1, 0, 3, 77, 10, 326, 21, 614, 258, 66, 96]),

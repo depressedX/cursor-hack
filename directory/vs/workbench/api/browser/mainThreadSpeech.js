@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/log/common/log.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/speech/common/speechService.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3367],
 			he([1, 0, 15, 6, 3, 34, 88, 511, 101]),

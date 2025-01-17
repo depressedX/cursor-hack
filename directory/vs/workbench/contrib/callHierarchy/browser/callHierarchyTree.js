@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../common/callHierarchy.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../../../editor/common/languages.js';
+import '../../../../base/common/strings.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../nls.js';
+import '../../../../base/common/themables.js';
 define(
 			de[3006],
 			he([1, 0, 978, 33, 132, 325, 74, 37, 17, 4, 26]),

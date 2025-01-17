@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/sash/sash.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/idGenerator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/objects.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/editorCommon.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../../css!vs/editor/contrib/zoneWidget/browser/zoneWidget.js';
 define(
 			de[680],
 			he([1, 0, 7, 277, 97, 584, 3, 82, 38, 17, 98, 64, 122, 2327]),

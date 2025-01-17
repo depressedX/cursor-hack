@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../editor/common/languages/modesRegistry.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../contrib/interactive/browser/interactiveDocumentService.js';
 define(
 			de[3352],
 			he([1, 0, 3, 172, 88, 101, 1245]),

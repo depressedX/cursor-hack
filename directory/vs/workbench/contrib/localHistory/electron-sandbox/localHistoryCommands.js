@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../services/workingCopy/common/workingCopyHistory.js';
+import '../../../../platform/actions/common/actions.js';
+import '../browser/localHistory.js';
+import '../browser/localHistoryCommands.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/network.js';
+import '../../../common/contextkeys.js';
 define(
 			de[3882],
 			he([1, 0, 4, 717, 11, 1246, 1341, 12, 110, 8, 23, 100]),

@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../common/callHierarchy.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './callHierarchyPeek.js';
+import '../../../../base/common/event.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../editor/contrib/peekView/browser/peekView.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/errors.js';
 define(
 			de[3261],
 			he([

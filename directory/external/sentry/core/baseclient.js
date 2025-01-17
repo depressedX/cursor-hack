@@ -1,3 +1,16 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../utils/index.js';
+import './api.js';
+import './currentScopes.js';
+import './debug-build.js';
+import './envelope.js';
+import './integration.js';
+import './integration.js';
+import './session.js';
+import './tracing/dynamicSamplingContext.js';
+import './utils/parseSampleRate.js';
+import './utils/prepareEvent.js';
 define(
 			de[1451],
 			he([1, 0, 80, 1094, 234, 263, 1099, 316, 316, 887, 639, 1098, 1101]),

@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import './workingCopy.js';
+import './fileWorkingCopy.js';
+import '../../../../base/common/lifecycle.js';
+import './workingCopyService.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/log/common/log.js';
+import './workingCopyBackup.js';
+import '../../../../base/common/stream.js';
 define(
 			de[1925],
 			he([1, 0, 6, 334, 848, 3, 227, 33, 15, 34, 335, 408]),

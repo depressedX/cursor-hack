@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './collections.js';
+import './navigator.js';
 define(de[647], he([1, 0, 456, 2219]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

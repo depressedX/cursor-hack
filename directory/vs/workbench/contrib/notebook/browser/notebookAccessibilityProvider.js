@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../nls.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../../accessibility/common/accessibilityCommands.js';
+import '../common/notebookCommon.js';
+import '../common/notebookExecutionStateService.js';
 define(
 			de[3559],
 			he([1, 0, 6, 3, 77, 4, 130, 417, 70, 190]),

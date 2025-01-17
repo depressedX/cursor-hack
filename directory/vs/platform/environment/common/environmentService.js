@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/date.js';
+import '../../../base/common/decorators.js';
+import '../../../base/common/network.js';
+import '../../../base/common/path.js';
+import '../../../base/common/process.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
 define(
 			de[1178],
 			he([1, 0, 275, 138, 23, 54, 344, 19, 9]),

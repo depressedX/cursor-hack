@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/assert.js';
+import '../../core/lineRange.js';
+import '../../core/offsetRange.js';
+import '../../core/range.js';
+import './algorithms/diffAlgorithm.js';
+import './algorithms/dynamicProgrammingDiffing.js';
+import './algorithms/myersDiffAlgorithm.js';
+import './computeMovedLines.js';
+import './heuristicSequenceOptimizations.js';
+import './lineSequence.js';
+import './linesSliceCharSequence.js';
+import '../linesDiffComputer.js';
+import './algorithms/streamingDPDiffing.js';
+import '../rangeMapping.js';
 define(
 			de[1532],
 			he([

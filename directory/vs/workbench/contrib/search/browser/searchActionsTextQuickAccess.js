@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../common/constants.js';
+import '../../../../platform/actions/common/actions.js';
+import './searchActionsBase.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import './quickTextSearch/textSearchQuickAccess.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './searchView.js';
 define(
 			de[4172],
 			he([1, 0, 4, 377, 11, 483, 63, 1972, 18, 10, 1068]),

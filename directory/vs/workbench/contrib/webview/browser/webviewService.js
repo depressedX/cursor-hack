@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './themeing.js';
+import './webviewElement.js';
+import './overlayWebview.js';
 define(
 			de[3719],
 			he([1, 0, 6, 3, 5, 3718, 1805, 3406]),

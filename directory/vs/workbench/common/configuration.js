@@ -1,3 +1,17 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../nls.js';
+import '../../platform/configuration/common/configurationRegistry.js';
+import '../../platform/registry/common/platform.js';
+import '../../platform/workspace/common/workspace.js';
+import '../../platform/configuration/common/configuration.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/event.js';
+import '../services/remote/common/remoteAgentService.js';
+import '../../base/common/platform.js';
+import '../../base/common/objects.js';
+import '../../base/common/async.js';
+import '../../platform/userDataProfile/common/userDataProfile.js';
 define(
 			de[224],
 			he([1, 0, 4, 81, 30, 25, 10, 3, 6, 143, 12, 82, 15, 129]),

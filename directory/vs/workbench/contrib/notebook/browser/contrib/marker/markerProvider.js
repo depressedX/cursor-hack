@@ -1,3 +1,16 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../common/contributions.js';
+import '../../../../../../editor/contrib/gotoError/browser/markerNavigationService.js';
+import '../../../common/notebookCommon.js';
+import '../../../../../../platform/markers/common/markers.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../notebookBrowser.js';
+import '../../notebookEditorExtensions.js';
+import '../../../../../../base/common/decorators.js';
+import '../../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../../base/common/resources.js';
 define(
 			de[3489],
 			he([1, 0, 55, 1622, 70, 90, 10, 3, 108, 330, 138, 51, 19]),

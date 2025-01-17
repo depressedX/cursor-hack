@@ -1,3 +1,12 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/fuzzyScorer.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/resources.js';
+import '../../../../../../platform/quickinput/common/quickInput.js';
+import './constants.js';
+import './types.js';
+import './utils.js';
 define(
 			de[3202],
 			he([1, 0, 322, 3, 19, 63, 1271, 444, 819]),

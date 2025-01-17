@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './is.js';
+import './misc.js';
+import './normalize.js';
+import './object.js';
 define(
 			de[2081],
 			he([1, 0, 430, 727, 882, 528]),

@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/htmlContent.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../nls.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/tunnel/common/tunnel.js';
+import './links.js';
+import './terminalExternalLinkDetector.js';
+import './terminalLinkDetectorAdapter.js';
+import './terminalLinkOpeners.js';
+import './terminalLocalLinkDetector.js';
+import './terminalUriLinkDetector.js';
+import './terminalWordLinkDetector.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/browser/widgets/terminalHoverWidget.js';
+import '../../../terminal/common/terminal.js';
+import './terminalLinkHelpers.js';
+import '../../../../../base/common/async.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import './terminalMultiLineLinkDetector.js';
+import '../../../../../platform/notification/common/notification.js';
 define(
 			de[3599],
 			he([

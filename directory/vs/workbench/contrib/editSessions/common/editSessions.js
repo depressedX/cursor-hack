@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/codicons.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/hash.js';
 define(
 			de[685],
 			he([1, 0, 76, 14, 4, 8, 5, 79, 136]),

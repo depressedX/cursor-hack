@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/url/common/url.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../contrib/aichat/browser/chatDataService.js';
 define(
 			de[241],
 			he([1, 0, 3, 59, 9, 69, 42, 22, 20, 5, 45, 465, 25, 337]),

@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../services/languageDetection/common/languageDetectionWorkerService.js';
+import '../../../../base/common/async.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../notebook/common/notebookContextKeys.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[3632],
 			he([

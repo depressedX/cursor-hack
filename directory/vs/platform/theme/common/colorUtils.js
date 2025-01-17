@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/assert.js';
+import '../../../base/common/async.js';
+import '../../../base/common/color.js';
+import '../../../base/common/event.js';
+import '../../jsonschemas/common/jsonContributionRegistry.js';
+import '../../registry/common/platform.js';
+import '../../../nls.js';
 define(
 			de[306],
 			he([1, 0, 229, 15, 97, 6, 250, 30, 4]),

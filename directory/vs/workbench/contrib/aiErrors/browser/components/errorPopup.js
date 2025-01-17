@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/browser/solidComponents/switch/switch.js';
+import '../../../../services/aiErrors/browser/errors.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../base/common/constants.js';
+import '../../../authentication/browser/components/login/login.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../css!vs/workbench/contrib/aiErrors/browser/components/errorPopup.js';
 define(
 			de[4253],
 			he([

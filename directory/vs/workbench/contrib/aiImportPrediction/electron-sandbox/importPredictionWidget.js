@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[2973],
 			he([1, 0, 3, 56, 7, 35, 51, 47, 10, 38, 45]),

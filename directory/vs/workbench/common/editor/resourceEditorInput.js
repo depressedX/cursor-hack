@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../editor.js';
+import './editorInput.js';
+import '../../../platform/files/common/files.js';
+import '../../../platform/label/common/label.js';
+import '../../../base/common/resources.js';
+import '../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../editor/common/services/textResourceConfiguration.js';
+import '../../services/editor/common/customEditorLabelService.js';
 define(
 			de[1296],
 			he([1, 0, 44, 223, 22, 73, 19, 170, 10, 125, 399]),

@@ -1,3 +1,24 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/mime.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/uuid.js';
+import '../../configuration/common/configuration.js';
+import '../../environment/common/environment.js';
+import '../../files/common/files.js';
+import '../../product/common/productService.js';
+import '../../request/common/request.js';
+import '../../externalServices/common/serviceMachineId.js';
+import '../../storage/common/storage.js';
+import './userDataSync.js';
 define(
 			de[966],
 			he([

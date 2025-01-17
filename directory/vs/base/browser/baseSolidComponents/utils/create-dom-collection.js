@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './utils.js';
+import './solid-primitives/utils/utils.js';
+import '../../../../../external/solid/solid.js';
+import './create-controllable-signal.js';
 define(
 			de[2615],
 			he([1, 0, 369, 302, 13, 897]),

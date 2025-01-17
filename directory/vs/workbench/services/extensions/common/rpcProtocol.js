@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/charCode.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marshallingIds.js';
+import '../../../../base/common/uriIpc.js';
+import './lazyPromise.js';
+import './proxyIdentifier.js';
 define(
 			de[1821],
 			he([1, 0, 15, 76, 33, 120, 29, 6, 3, 221, 1172, 3335, 622]),

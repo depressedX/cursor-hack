@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/environment/browser/environmentService.js';
+import '../../../services/remote/common/remoteExplorerService.js';
 define(de[3590], he([1, 0, 3, 286, 519]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$oXc = void 0);

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[834],
 			he([1, 0, 76, 59, 23, 20, 5]),

@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../view/viewPart.js';
+import '../../../common/editorCommon.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/config/editorOptions.js';
 define(
 			de[2844],
 			he([1, 0, 7, 194, 203, 303, 98, 35, 38]),

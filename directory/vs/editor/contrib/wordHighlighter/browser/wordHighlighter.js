@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/cursorEvents.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/model.js';
+import '../../../common/services/languageFeatures.js';
+import './highlightDecorations.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/map.js';
+import '../../../common/languageSelector.js';
+import '../../../../base/common/resources.js';
+import './textualHighlightProvider.js';
+import '../../../common/editorFeatures.js';
 define(
 			de[964],
 			he([

@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/browser/dom.js';
+import './renderQuickInputBoxPreviewBox.js';
+import '../../../services/ai/browser/aiMiscServices.js';
 define(
 			de[4348],
 			he([1, 0, 20, 3, 5, 45, 7, 4347, 137]),

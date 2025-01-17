@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/uri.js';
+import '../../../common/editor.js';
+import '../../editor/common/editorService.js';
+import '../common/history.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../editor/common/editorGroupsService.js';
+import '../../search/common/search.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../layout/browser/layoutService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/arrays.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/errors.js';
+import '../../../common/resources.js';
+import '../../path/common/pathService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/log/common/log.js';
+import '../../../browser/parts/editor/textEditor.js';
+import '../../../../base/browser/window.js';
+import '../../../contrib/aiFeatureStatusService/browser/aiFeatureStatusService.js';
 define(
 			de[3999],
 			he([

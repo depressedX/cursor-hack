@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './minimapCharSheet.js';
+import '../../../../base/common/uint.js';
 define(de[2545], he([1, 0, 1145, 210]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Avb = void 0);

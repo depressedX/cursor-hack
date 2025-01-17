@@ -1,3 +1,41 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/themables.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/contrib/codeAction/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../browser/codeeditor.js';
+import './preferencesIcons.js';
+import './preferencesWidgets.js';
+import '../../../services/configuration/common/configuration.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../services/preferences/common/preferencesModels.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
 define(
 			de[3757],
 			he([

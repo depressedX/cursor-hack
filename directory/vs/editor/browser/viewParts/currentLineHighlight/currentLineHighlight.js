@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../view/dynamicViewOverlay.js';
+import '../../../common/core/editorColorRegistry.js';
+import '../../../../base/common/arrays.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/core/selection.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../platform/theme/common/theme.js';
+import '../../../common/core/position.js';
+import '../../../../css!vs/editor/browser/viewParts/currentLineHighlight/currentLineHighlight.js';
 define(
 			de[2847],
 			he([1, 0, 591, 307, 24, 35, 104, 38, 212, 48, 2263]),

@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './LexicalComposerContext.js';
+import './shared/useHistory.js';
+import '../lexical-history/api.js';
 define(de[2610], he([1, 0, 181, 1565, 922]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

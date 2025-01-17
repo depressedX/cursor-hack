@@ -1,3 +1,13 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/lexical/lexical-solid/LexicalComposerContext.js';
+import '../../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/common/buffer.js';
+import '../../../../../../base/common/network.js';
+import '../../../../../../base/common/resources.js';
+import '../../../../../../base/common/uuid.js';
+import '../../../../controlCommon/browser/solid.js';
 define(
 			de[4178],
 			he([1, 0, 181, 158, 13, 76, 23, 19, 47, 36]),

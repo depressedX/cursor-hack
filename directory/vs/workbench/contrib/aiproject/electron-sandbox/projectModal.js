@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './renderProjectModal.js';
+import '../../../services/js/browser/jsService.js';
+import './types.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../services/ai/browser/modalService.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1995],
 			he([1, 0, 3, 8, 4322, 832, 1715, 3, 20, 445, 180, 151, 110, 5]),

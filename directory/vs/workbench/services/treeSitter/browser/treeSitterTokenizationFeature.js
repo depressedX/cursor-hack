@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/encodedTokenAttributes.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/common/services/treeSitterParserService.js';
+import '../../../../editor/contrib/inlineCompletions/browser/utils.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/themeService.js';
 define(
 			de[3742],
 			he([1, 0, 6, 3, 23, 171, 74, 763, 753, 10, 22, 20, 5, 35]),

@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/browser/ui/keybindingLabel/keybindingLabel.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import './interactiveCommon.js';
 define(
 			de[1858],
 			he([1, 0, 7, 127, 460, 6, 3, 12, 56, 38, 4, 10, 39, 130, 986]),

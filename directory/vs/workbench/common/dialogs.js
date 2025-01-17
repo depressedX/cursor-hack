@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/async.js';
+import '../../base/common/event.js';
+import '../../base/common/lifecycle.js';
 define(de[2948], he([1, 0, 15, 6, 3]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$hvc = void 0);

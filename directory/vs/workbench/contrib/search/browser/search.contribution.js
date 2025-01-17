@@ -1,3 +1,42 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/platform.js';
+import '../../../../editor/contrib/quickAccess/browser/gotoLineQuickAccess.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/quickinput/common/quickAccess.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/parts/views/viewPaneContainer.js';
+import '../../../browser/quickaccess.js';
+import '../../../common/views.js';
+import '../../codeEditor/browser/quickaccess/gotoSymbolQuickAccess.js';
+import './anythingQuickAccess.js';
+import './replaceContributions.js';
+import './notebookSearch/notebookSearchContributions.js';
+import './searchIcons.js';
+import './searchView.js';
+import './searchWidget.js';
+import './symbolsQuickAccess.js';
+import '../common/searchHistoryService.js';
+import './searchModel.js';
+import '../../../services/search/common/search.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/types.js';
+import '../common/search.js';
+import '../common/constants.js';
+import './quickTextSearch/textSearchQuickAccess.js';
+import '../../../common/configuration.js';
+import './searchActionsCopy.js';
+import './searchActionsFind.js';
+import './searchActionsNav.js';
+import './searchActionsRemoveReplace.js';
+import './searchActionsSymbol.js';
+import './searchActionsTopBar.js';
+import './searchActionsTextQuickAccess.js';
 define(
 			de[4173],
 			he([

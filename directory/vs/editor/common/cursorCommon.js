@@ -1,3 +1,12 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './config/editorOptions.js';
+import './core/position.js';
+import './core/range.js';
+import './core/selection.js';
+import './languages/supports.js';
+import './core/cursorColumns.js';
+import './core/indentation.js';
 define(
 			de[346],
 			he([1, 0, 38, 48, 17, 104, 748, 435, 1146]),

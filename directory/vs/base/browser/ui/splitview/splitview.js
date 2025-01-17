@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../event.js';
+import '../sash/sash.js';
+import '../scrollbar/scrollableElement.js';
+import '../../../common/arrays.js';
+import '../../../common/color.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/numbers.js';
+import '../../../common/scrollable.js';
+import '../../../common/types.js';
+import '../sash/sash.js';
+import '../../../../css!vs/base/browser/ui/splitview/splitview.js';
 define(
 			de[279],
 			he([1, 0, 7, 265, 277, 203, 24, 97, 6, 3, 201, 195, 28, 277, 2255]),

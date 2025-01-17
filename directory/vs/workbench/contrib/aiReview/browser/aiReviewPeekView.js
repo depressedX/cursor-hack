@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/browser/dom.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../editor/contrib/peekView/browser/peekView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/theme/common/themeService.js';
+import './renderAiReviewPeekBody.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import './renderAiReviewPeekHead.js';
 define(
 			de[4241],
 			he([1, 0, 97, 3, 17, 7, 98, 255, 5, 45, 35, 4240, 66, 18, 4136]),

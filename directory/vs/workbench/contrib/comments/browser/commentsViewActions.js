@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/event.js';
+import './comments.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './commentsTreeViewer.js';
+import '../../../common/contextkeys.js';
+import '../../../browser/parts/views/viewFilter.js';
+import '../../../../base/common/codicons.js';
 define(
 			de[3812],
 			he([1, 0, 27, 3, 4, 8, 6, 1724, 11, 146, 43, 683, 100, 1224, 14]),

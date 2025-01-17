@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../aichat/browser/components/ChunkContext.js';
+import '../../../aichat/browser/components/Utils.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/contextDisplay/listContextDisplay.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../ui/browser/collapsible/collapsible.js';
 define(
 			de[4273],
 			he([1, 0, 2, 2, 2, 2, 13, 126, 1986, 242, 36, 1070, 41, 116, 135, 696]),

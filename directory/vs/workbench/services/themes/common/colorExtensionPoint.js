@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../extensions/common/extensionsRegistry.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/common/color.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/lifecycle.js';
+import '../../extensionManagement/common/extensionFeatures.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../base/common/htmlContent.js';
 define(
 			de[3709],
 			he([1, 0, 4, 175, 51, 97, 30, 3, 244, 102, 94]),

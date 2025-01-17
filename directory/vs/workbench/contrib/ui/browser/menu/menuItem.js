@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/themables.js';
+import '../../../controlCommon/browser/solid.js';
+import '../hooks/useThemeHooks.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/menu/menuItem.js';
 define(
 			de[1372],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 13, 26, 36, 331, 2522]),

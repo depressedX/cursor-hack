@@ -1,3 +1,25 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../../base/common/arrays.js';
+import '../../../../../../base/common/errors.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/observable.js';
+import '../../../../../../editor/common/model.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/label/common/label.js';
+import '../../model/lineRange.js';
+import '../../utils.js';
+import '../colors.js';
+import '../editorGutter.js';
+import '../../../common/mergeEditor.js';
+import './codeEditorView.js';
 define(
 			de[3088],
 			he([

@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/ui/tree/tree.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/iterator.js';
+import '../../../../../base/common/marshallingIds.js';
+import './testingViewState.js';
+import '../../common/testTypes.js';
 define(
 			de[811],
 			he([1, 0, 264, 6, 103, 221, 1265, 185]),

@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './renderInlineGPT4LoadingVZ.js';
 define(
 			de[2754],
 			he([1, 0, 7, 3, 39, 45, 2700]),

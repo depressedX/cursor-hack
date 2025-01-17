@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/views.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../browser/parts/views/treeView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/uri.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/date.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/actions.js';
+import '../../../services/userDataSync/common/userDataSync.js';
+import '../../../../platform/userDataSync/common/userDataSyncMachines.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/resources.js';
+import '../../../browser/parts/editor/editorCommands.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import './userDataSyncConflictsView.js';
 define(
 			de[4050],
 			he([

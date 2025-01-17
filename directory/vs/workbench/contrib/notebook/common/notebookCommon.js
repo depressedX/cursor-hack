@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/mime.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/notebook/common/notebookDocumentService.js';
 define(
 			de[70],
 			he([1, 0, 76, 215, 103, 266, 23, 54, 12, 8, 834]),

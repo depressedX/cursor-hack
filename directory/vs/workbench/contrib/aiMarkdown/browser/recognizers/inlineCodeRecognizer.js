@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/constants.js';
+import '../markdownData.js';
+import '../../../../services/selectedContext/browser/utils.js';
 define(
 			de[3616],
 			he([1, 0, 2, 2, 13, 58, 236, 299]),

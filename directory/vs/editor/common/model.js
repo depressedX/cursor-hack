@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/objects.js';
+import '../../platform/reactivestorage/common/reactiveStorageTypes2.js';
 define(de[64], he([1, 0, 82, 670]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

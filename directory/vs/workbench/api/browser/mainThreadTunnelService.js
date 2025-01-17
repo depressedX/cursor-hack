@@ -1,3 +1,20 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../common/extHost.protocol.js';
+import '../common/extHostTunnelService.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/remote/common/remoteExplorerService.js';
+import '../../../platform/tunnel/common/tunnel.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/notification/common/notification.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/log/common/log.js';
+import '../../services/remote/common/remoteAgentService.js';
+import '../../../platform/registry/common/platform.js';
+import '../../../platform/configuration/common/configurationRegistry.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../../services/remote/common/tunnelModel.js';
 define(
 			de[3589],
 			he([

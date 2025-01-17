@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../utils/spanUtils.js';
+import './constants.js';
+import './envelope.js';
+import './instance.js';
+import './utils.js';
 define(
 			de[2121],
 			he([1, 0, 80, 301, 880, 1439, 1440, 886]),

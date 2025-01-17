@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../core/index.js';
+import '../../utils/index.js';
+import '../debug-build.js';
+import './instrument.js';
+import './utils.js';
+import './web-vitals/lib/onHidden.js';
 define(
 			de[2131],
 			he([1, 0, 144, 80, 878, 885, 1102, 729]),

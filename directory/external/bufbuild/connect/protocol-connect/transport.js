@@ -1,3 +1,21 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../protobuf.js';
+import './request-header.js';
+import './headers.js';
+import './validate-response.js';
+import './trailer-mux.js';
+import './error-json.js';
+import './end-stream.js';
+import './get-request.js';
+import '../code.js';
+import '../connect-error.js';
+import '../http-headers.js';
+import '../protocol/async-iterable.js';
+import '../protocol/create-method-url.js';
+import '../protocol/run-call.js';
+import '../protocol/serialization.js';
+import '../context-values.js';
 define(
 			de[2049],
 			he([

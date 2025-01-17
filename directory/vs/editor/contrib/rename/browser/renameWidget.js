@@ -1,3 +1,36 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/browser/ui/hover/hoverDelegate2.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/browser/ui/list/listWidget.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../base/common/types.js';
+import '../../../browser/config/domFontInfo.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/editorCommon.js';
+import '../../../common/languages.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../css!vs/editor/contrib/rename/browser/renameWidget.js';
 define(
 			de[2862],
 			he([

@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../common/terminal.js';
+import './terminal.js';
+import '../../../../nls.js';
+import '../../../../base/common/codicons.js';
+import './terminalStatusList.js';
+import '../../../../base/common/severity.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../services/extensions/common/extensions.js';
 define(
 		de[3312],
 		he([1, 0, 145, 107, 4, 14, 806, 111, 31, 53]),

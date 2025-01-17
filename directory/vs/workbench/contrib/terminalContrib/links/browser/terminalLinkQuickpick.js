@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/event.js';
+import '../../../../../nls.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/async.js';
+import '../../../../browser/quickaccess.js';
+import './terminalLinkParsing.js';
+import './links.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/accessibility/browser/accessibleView.js';
 define(
 			de[3270],
 			he([1, 0, 7, 6, 4, 63, 107, 3, 15, 473, 997, 513, 73, 19, 5, 178]),

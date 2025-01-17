@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arraysFind.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/editorCommon.js';
+import '../../../../../nls.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../model/lineRange.js';
+import '../../../../../platform/observable/common/platformObservableUtils.js';
 define(
 			de[3086],
 			he([1, 0, 214, 3, 77, 17, 98, 4, 10, 40, 507, 326]),

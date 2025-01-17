@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/browser/services/abstractCodeEditorService.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../common/editorService.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../common/editor/editorOptions.js';
 define(
 			de[3274],
 			he([1, 0, 56, 2842, 98, 35, 18, 65, 20, 19, 10, 549]),

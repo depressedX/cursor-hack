@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../common/views.js';
+import './outlinePane.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../files/browser/explorerViewlet.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../services/outline/browser/outline.js';
+import './outline.js';
+import './outlineActions.js';
 define(
 			de[4303],
 			he([1, 0, 4, 60, 3834, 30, 81, 864, 102, 14, 79, 475, 802, 3833]),

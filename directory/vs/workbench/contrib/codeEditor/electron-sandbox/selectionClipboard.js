@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../editor/common/model.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../browser/selectionClipboard.js';
+import '../../../common/contributions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/event.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[3418],
 			he([

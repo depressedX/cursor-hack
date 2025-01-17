@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../event.js';
+import '../../keyboardEvent.js';
+import '../../markdownRenderer.js';
+import '../contextview/contextview.js';
+import '../hover/hoverDelegate2.js';
+import '../hover/hoverDelegateFactory.js';
+import '../list/listWidget.js';
+import '../../../common/arrays.js';
+import '../../../common/event.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../common/platform.js';
+import '../../../common/scrollable.js';
+import '../../../../nls.js';
+import '../../../../css!vs/base/browser/ui/selectBox/selectBoxCustom.js';
 define(
 			de[2684],
 			he([

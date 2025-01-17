@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../textModelBracketPairs.js';
+import './ast.js';
+import './beforeEditPositionMapper.js';
+import './brackets.js';
+import './length.js';
+import './parser.js';
+import './smallImmutableSet.js';
+import './tokenizer.js';
+import '../../../tokenizationTextModelPart.js';
+import '../../../../../base/common/arrays.js';
+import './combineTextEditInfos.js';
 define(
 			de[2572],
 			he([

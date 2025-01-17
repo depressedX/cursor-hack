@@ -1,3 +1,35 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/domObservable.js';
+import '../../../../../base/browser/ui/aria/aria.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/observableInternal/derived.js';
+import '../../../../../base/common/observableInternal/utils.js';
+import '../../../../../base/common/types.js';
+import '../../../../browser/coreCommands.js';
+import '../../../../browser/observableCodeEditor.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/position.js';
+import '../../../../common/cursorEvents.js';
+import '../../../../common/services/languageFeatureDebounce.js';
+import '../../../../common/services/languageFeatures.js';
+import './commandIds.js';
+import '../view/ghostTextView.js';
+import './inlineCompletionContextKeys.js';
+import '../hintsWidget/inlineCompletionsHintsWidget.js';
+import '../model/inlineCompletionsModel.js';
+import '../model/suggestWidgetAdaptor.js';
+import '../../../../../nls.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
 define(
 			de[501],
 			he([

@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../utils/index.js';
+import './asyncContext/index.js';
+import './carrier.js';
+import './scope.js';
 define(
 			de[234],
 			he([1, 0, 80, 733, 578, 732]),

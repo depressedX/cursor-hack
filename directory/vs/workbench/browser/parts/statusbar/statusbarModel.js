@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/event.js';
 define(
 			de[3626],
 			he([1, 0, 3, 166, 7, 21, 6]),

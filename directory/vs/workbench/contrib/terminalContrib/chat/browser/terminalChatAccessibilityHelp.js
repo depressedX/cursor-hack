@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../terminal/browser/terminal.js';
+import './terminalChat.js';
+import './terminalChatController.js';
 define(
 			de[4381],
 			he([1, 0, 4, 178, 39, 130, 107, 692, 867]),

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../services/log/common/logConstants.js';
 define(
 			de[3460],
 			he([1, 0, 4, 11, 39, 99, 31, 705]),

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import './debug.js';
+import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3423],
 			he([1, 0, 4, 10, 57, 112, 52]),

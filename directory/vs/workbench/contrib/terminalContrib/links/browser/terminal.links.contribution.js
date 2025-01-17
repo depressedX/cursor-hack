@@ -1,3 +1,27 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/extensions.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/browser/terminalActions.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import '../../../terminal/common/terminal.js';
+import '../../../terminal/common/terminalContextKey.js';
+import '../../../terminal/common/terminalStrings.js';
+import './links.js';
+import './terminalLinkManager.js';
+import './terminalLinkProviderService.js';
+import './terminalLinkQuickpick.js';
+import './terminalLinkResolver.js';
+import '../common/terminal.links.js';
+import '../../../../../platform/accessibility/browser/accessibleView.js';
 define(
 			de[4043],
 			he([

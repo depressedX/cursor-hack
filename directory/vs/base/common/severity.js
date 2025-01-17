@@ -1,3 +1,6 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './strings.js';
 define(de[111], he([1, 0, 37]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (t = mt(t));

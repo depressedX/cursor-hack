@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/editorFeatures.js';
+import './copyPasteController.js';
+import './defaultProviders.js';
+import '../../../../nls.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
 define(
 			de[2918],
 			he([1, 0, 318, 27, 46, 71, 588, 609, 1213, 4, 43]),

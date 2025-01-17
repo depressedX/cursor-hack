@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../configuration/common/jsonEditing.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/files/common/files.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/labels.js';
+import '../../textfile/common/textfiles.js';
+import '../../host/browser/host.js';
+import '../../../../base/common/network.js';
+import '../../../common/editor.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../configuration/common/configuration.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3918],
 			he([

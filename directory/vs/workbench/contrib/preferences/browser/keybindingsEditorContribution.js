@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../common/smartSnippetInserter.js';
+import './keybindingWidgets.js';
+import '../../../../base/common/json.js';
+import '../../../services/keybinding/common/windowsKeyboardMapper.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../editor/common/core/editorColorRegistry.js';
+import '../../../../editor/common/model.js';
+import '../../../../base/common/keybindingParser.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/resources.js';
+import '../../../services/userDataProfile/common/userDataProfile.js';
+import '../../../services/preferences/common/preferences.js';
 define(
 			de[3756],
 			he([

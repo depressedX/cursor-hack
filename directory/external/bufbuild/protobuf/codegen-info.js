@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './private/names.js';
+import './private/field-wrapper.js';
+import './private/scalars.js';
+import './private/reify-wkt.js';
 define(
 			de[2033],
 			he([1, 0, 723, 1086, 526, 2032]),

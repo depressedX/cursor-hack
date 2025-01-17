@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../core/index.js';
+import '../../../utils/index.js';
+import '../../common/scope.js';
+import '../ipc.js';
 define(
 			de[1460],
 			he([1, 0, 144, 80, 2147, 890]),

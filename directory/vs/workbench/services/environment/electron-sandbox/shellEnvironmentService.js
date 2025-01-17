@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
+import '../../../../platform/instantiation/common/extensions.js';
 define(de[1020], he([1, 0, 5, 320, 20]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

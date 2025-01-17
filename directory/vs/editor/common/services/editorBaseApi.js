@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/event.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/uri.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../core/selection.js';
+import '../languages.js';
+import '../standalone/standaloneEnums.js';
 define(
 			de[2695],
 			he([1, 0, 33, 6, 27, 9, 48, 17, 104, 74, 1542]),

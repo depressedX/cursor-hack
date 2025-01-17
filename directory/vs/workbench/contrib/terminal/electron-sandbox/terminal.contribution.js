@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/ipc/electron-sandbox/services.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../common/contributions.js';
+import '../common/terminal.js';
+import './terminalNativeContribution.js';
+import './terminalProfileResolverService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import './localTerminalBackend.js';
+import './terminalExecutionService.js';
 define(
 			de[4039],
 			he([1, 0, 20, 230, 30, 117, 55, 145, 4038, 3568, 52, 3638, 3958]),

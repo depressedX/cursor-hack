@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/themeService.js';
+import './baseIssueReporterService.js';
+import '../common/issue.js';
 define(
 			de[3069],
 			he([1, 0, 4, 35, 1735, 376]),

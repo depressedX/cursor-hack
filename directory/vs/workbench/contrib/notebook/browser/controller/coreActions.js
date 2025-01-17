@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../notebookBrowser.js';
+import '../../common/notebookContextKeys.js';
+import '../../common/notebookRange.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../common/editor.js';
+import '../services/notebookEditorService.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../base/common/marshallingIds.js';
+import '../../../../../base/common/resources.js';
 define(
 			de[238],
 			he([1, 0, 9, 4, 11, 8, 43, 108, 176, 442, 18, 44, 293, 32, 221, 19]),

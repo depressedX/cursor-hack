@@ -1,3 +1,37 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/cancellation.js';
+import '../../../../../../base/common/event.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/map.js';
+import '../../../../../../base/common/network.js';
+import '../../../../../../base/common/numbers.js';
+import '../../../../../../base/common/resources.js';
+import '../../../../../../base/common/stopwatch.js';
+import '../../../../../../base/common/types.js';
+import '../../../../../../base/common/uri.js';
+import '../../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../../editor/common/core/selection.js';
+import '../../../../../../editor/common/languages.js';
+import '../../../../../../editor/common/languages/language.js';
+import '../../../../../../editor/common/services/editorWorker.js';
+import '../../../../../../editor/common/services/model.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/storage/common/storage.js';
+import '../../../../chat/common/chatAgents.js';
+import '../../../../chat/common/chatService.js';
+import '../../../../chat/common/chatWordCounter.js';
+import '../../../../inlineChat/browser/inlineChatWidget.js';
+import '../../../../inlineChat/browser/utils.js';
+import '../cellOperations.js';
+import './notebookChatContext.js';
+import '../../notebookEditorExtensions.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionStateService.js';
 define(
 			de[1359],
 			he([

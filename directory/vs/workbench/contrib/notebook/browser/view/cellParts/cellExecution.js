@@ -1,3 +1,12 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/numbers.js';
+import '../cellPart.js';
+import '../../viewModel/codeCellViewModel.js';
+import '../../../common/notebookExecutionStateService.js';
 define(
 			de[4094],
 			he([1, 0, 7, 15, 3, 201, 294, 482, 190]),

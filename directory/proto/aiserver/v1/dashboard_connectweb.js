@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './dashboard_pb.js';
+import '../../../external/bufbuild/protobuf.js';
 define(de[1107], he([1, 0, 894, 86]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

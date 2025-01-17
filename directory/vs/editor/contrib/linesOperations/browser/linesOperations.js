@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../browser/coreCommands.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/commands/replaceCommand.js';
+import '../../../common/commands/trimTrailingWhitespaceCommand.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/cursor/cursorTypeOperations.js';
+import '../../../common/cursor/cursorTypeEditOperations.js';
+import '../../../common/core/editOperation.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/editorContextKeys.js';
+import './copyLinesCommand.js';
+import './moveLinesCommand.js';
+import './sortLinesCommand.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[1645],
 			he([

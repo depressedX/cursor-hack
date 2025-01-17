@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import './terminalChatAccessibleView.js';
+import './terminalChatController.js';
+import '../../../../../platform/accessibility/browser/accessibleViewRegistry.js';
+import './terminalChatAccessibilityHelp.js';
+import '../../../../common/contributions.js';
+import './terminalChatEnabler.js';
+import './terminalChatActions.js';
 define(
 			de[4385],
 			he([1, 0, 378, 4382, 867, 412, 4381, 55, 4384, 4383]),

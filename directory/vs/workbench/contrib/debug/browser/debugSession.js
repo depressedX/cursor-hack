@@ -1,3 +1,45 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/labels.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/views.js';
+import './rawDebugSession.js';
+import '../common/debug.js';
+import '../common/debugModel.js';
+import '../common/debugSource.js';
+import '../common/debugUtils.js';
+import '../common/replModel.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/host/browser/host.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/types.js';
+import '../../testing/common/testService.js';
+import '../../testing/common/testResultService.js';
+import '../../../../platform/accessibility/common/accessibility.js';
 define(
 		de[3685],
 		he([

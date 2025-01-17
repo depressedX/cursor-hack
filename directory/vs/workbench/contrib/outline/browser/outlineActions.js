@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './outline.js';
 define(
 			de[3833],
 			he([1, 0, 4, 14, 11, 146, 8, 802]),

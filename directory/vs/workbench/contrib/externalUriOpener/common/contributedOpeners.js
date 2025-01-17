@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/memento.js';
+import './configuration.js';
+import '../../../services/extensions/common/extensions.js';
 define(
 			de[3554],
 			he([1, 0, 3, 21, 282, 1033, 53]),

@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../../external/solid/solid.js';
+import '../../../../external/solid/store.js';
+import '../../../../external/solid/web.js';
+import '../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uuid.js';
+import '../../contextkey/common/contextkey.js';
+import '../../instantiation/common/instantiation.js';
+import './stateMigrations.js';
+import '../common/reactiveStorageTypes.js';
+import './reactiveStorageTypes.js';
+import '../../../../proto/aiserver/v1/utils_pb.js';
 define(
 			de[45],
 			he([1, 0, 13, 193, 2, 148, 3, 47, 8, 5, 1626, 134, 205, 83]),

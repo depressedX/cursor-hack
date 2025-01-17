@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import '../button/api.js';
+import '../form-control/api.js';
+import './combobox-context.js';
 define(
 			de[2637],
 			he([1, 0, 2, 2, 2, 115, 13, 2626, 593, 486]),

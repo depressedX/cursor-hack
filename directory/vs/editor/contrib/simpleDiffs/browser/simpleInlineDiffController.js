@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/store.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/simpleInlineDiffService.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/languages/language.js';
+import '../../../common/model.js';
+import '../../inlineCompletions/browser/view/ghostTextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import './simpleDiffConstants.js';
+import './simpleDiffTopViewZone.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/keybinding/common/keybinding.js';
 define(
 			de[2879],
 			he([

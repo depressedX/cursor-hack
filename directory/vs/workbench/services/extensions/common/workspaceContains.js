@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../search/common/queryBuilder.js';
+import '../../search/common/search.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/async.js';
 define(
 			de[1315],
 			he([1, 0, 19, 9, 33, 29, 5, 361, 186, 25, 15]),

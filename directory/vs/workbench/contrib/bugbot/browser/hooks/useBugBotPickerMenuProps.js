@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/common/uri.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../ui/browser/pickerMenu/renderFolderStructurePickerMenuPreview.js';
 define(
 			de[4192],
 			he([1, 0, 2, 13, 54, 9, 36, 156, 860]),

@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/contrib/format/browser/format.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../../editor/common/config/editorConfigurationSchema.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../services/languageStatus/common/languageStatusService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/uuid.js';
 define(
 			de[1830],
 			he([

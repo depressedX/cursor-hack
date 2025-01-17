@@ -1,3 +1,24 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/mouseEvent.js';
+import '../../../base/browser/ui/toolbar/toolbar.js';
+import '../../../base/common/actions.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/collections.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/iterator.js';
+import '../../../base/common/lifecycle.js';
+import '../../../nls.js';
+import './menuEntryActionViewItem.js';
+import '../common/actions.js';
+import '../common/menuService.js';
+import '../../commands/common/commands.js';
+import '../../contextkey/common/contextkey.js';
+import '../../contextview/browser/contextView.js';
+import '../../keybinding/common/keybinding.js';
+import '../../telemetry/common/telemetry.js';
 define(
 			de[173],
 			he([

@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/uri.js';
+import '../../../platform/registry/common/platform.js';
+import '../../../platform/configuration/common/configurationRegistry.js';
+import '../../../platform/workspace/common/workspace.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/environment/common/environment.js';
 define(
 			de[3342],
 			he([1, 0, 9, 30, 81, 25, 88, 101, 10, 113]),

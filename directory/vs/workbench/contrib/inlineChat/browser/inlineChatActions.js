@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/widget/diffEditor/embeddedDiffEditorWidget.js';
+import '../../../../editor/browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../../editor/common/editorContextKeys.js';
+import './inlineChatController.js';
+import '../common/inlineChat.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../../platform/log/common/log.js';
+import '../../chat/common/chatService.js';
+import '../../chat/common/chatContextKeys.js';
 define(
 			de[1061],
 			he([

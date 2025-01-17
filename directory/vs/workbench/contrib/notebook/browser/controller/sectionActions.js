@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../contrib/outline/notebookOutline.js';
+import './foldingController.js';
+import '../notebookBrowser.js';
+import '../notebookIcons.js';
+import '../../common/notebookCommon.js';
+import '../../../../services/outline/browser/outline.js';
 define(
 			de[4090],
 			he([1, 0, 4, 11, 8, 1958, 1031, 108, 284, 70, 475]),

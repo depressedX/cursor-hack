@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/network.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../common/contextkeys.js';
+import '../../tasks/common/taskService.js';
+import '../common/terminal.js';
+import '../common/terminalContextKey.js';
+import '../common/terminalStrings.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[1017],
 			he([1, 0, 50, 14, 23, 4, 11, 8, 117, 100, 419, 145, 237, 469, 18]),

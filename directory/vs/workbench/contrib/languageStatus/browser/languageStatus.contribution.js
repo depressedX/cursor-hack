@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/severity.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/themables.js';
+import '../../../common/contributions.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/languageStatus/common/languageStatusService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../../base/common/linkedText.js';
+import '../../../../platform/opener/browser/link.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../base/common/event.js';
+import '../../../../css!vs/workbench/contrib/languageStatus/browser/media/languageStatus.js';
 define(
 		de[3633],
 		he([

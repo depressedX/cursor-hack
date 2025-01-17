@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/lifecycle.js';
+import './descriptors.js';
+import './graph.js';
+import './instantiation.js';
+import './serviceCollection.js';
+import '../../../base/common/linkedList.js';
 define(
 			de[1615],
 			he([1, 0, 15, 29, 3, 102, 2708, 5, 128, 273]),

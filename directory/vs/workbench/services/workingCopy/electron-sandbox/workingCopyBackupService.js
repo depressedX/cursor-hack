@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../common/workingCopyBackupService.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../common/workingCopyBackup.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/log/common/log.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../common/contributions.js';
+import '../../lifecycle/common/lifecycle.js';
+import './workingCopyBackupTracker.js';
 define(
 			de[3916],
 			he([1, 0, 4, 1912, 9, 20, 335, 22, 34, 151, 55, 52, 3915]),

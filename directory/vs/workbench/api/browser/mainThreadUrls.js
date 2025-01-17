@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../platform/url/common/url.js';
+import '../../services/extensions/browser/extensionUrlHandler.js';
+import '../../../platform/extensions/common/extensions.js';
 define(
 			de[3452],
 			he([1, 0, 88, 101, 465, 1835, 109]),

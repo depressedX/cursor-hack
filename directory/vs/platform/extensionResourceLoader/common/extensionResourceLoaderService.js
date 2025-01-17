@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../instantiation/common/extensions.js';
+import '../../files/common/files.js';
+import '../../product/common/productService.js';
+import '../../request/common/request.js';
+import '../../storage/common/storage.js';
+import '../../environment/common/environment.js';
+import '../../configuration/common/configuration.js';
+import '../../../base/common/cancellation.js';
+import './extensionResourceLoader.js';
 define(
 			de[2898],
 			he([1, 0, 20, 22, 62, 327, 21, 113, 10, 33, 546]),

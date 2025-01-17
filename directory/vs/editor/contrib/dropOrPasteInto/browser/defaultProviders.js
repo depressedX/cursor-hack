@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/dataTransfer.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/mime.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../nls.js';
+import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[1213],
 			he([1, 0, 24, 489, 318, 3, 266, 23, 19, 9, 74, 69, 4, 25]),

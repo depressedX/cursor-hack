@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './getCssDimensions.js';
+import './is.js';
+import './math.js';
+import './unwrapElement.js';
 define(
 			de[929],
 			he([1, 0, 1572, 324, 900, 1574]),

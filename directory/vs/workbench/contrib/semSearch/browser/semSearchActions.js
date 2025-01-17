@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../nls.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
 define(
 			de[3135],
 			he([1, 0, 11, 27, 4, 43, 179]),

@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './computePosition.js';
+import './detectOverflow.js';
+import './middleware/arrow.js';
+import './middleware/autoPlacement.js';
+import './middleware/flip.js';
+import './middleware/hide.js';
+import './middleware/inline.js';
+import './middleware/offset.js';
+import './middleware/shift.js';
+import './middleware/size.js';
+import './utils/rectToClientRect.js';
 define(
 			de[899],
 			he([

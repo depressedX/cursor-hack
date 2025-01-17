@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/repository_pb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../aichat/browser/aichat.js';
+import '../../aichat/browser/chatData.js';
+import '../../aichat/browser/chatDataService.js';
+import './ctxEvalData.js';
+import './types.js';
+import '../../composer/browser/utils.js';
 define(
 			de[3927],
 			he([1, 0, 272, 83, 3, 47, 5, 45, 418, 140, 337, 3045, 1729, 246]),

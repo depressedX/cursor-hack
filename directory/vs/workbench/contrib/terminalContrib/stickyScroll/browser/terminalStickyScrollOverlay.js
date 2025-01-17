@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../amdX.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/decorators.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/browser/terminalContextMenu.js';
+import '../../../terminal/common/terminal.js';
+import '../../../terminal/common/terminalStrings.js';
+import '../common/terminalStickyScrollConfiguration.js';
+import './terminalStickyScrollColorRegistry.js';
+import '../../../../../css!vs/workbench/contrib/terminalContrib/stickyScroll/browser/media/stickyScroll.js';
 define(
 			de[3172],
 			he([

@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/strings.js';
+import '../../../../common/core/position.js';
+import '../../../../common/core/range.js';
+import '../../../../common/core/textEdit.js';
 define(
 			de[917],
 			he([1, 0, 24, 37, 48, 17, 490]),

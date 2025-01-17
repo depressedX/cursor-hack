@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import './debugModel.js';
+import '../../../services/textfile/common/textfiles.js';
 define(
 			de[3683],
 			he([1, 0, 3, 77, 9, 34, 21, 68, 300, 85]),

@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../ui/browser/hooks/useVSHoverTooltip.js';
 define(de[694], he([1, 0, 160, 422]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$G$b = w);

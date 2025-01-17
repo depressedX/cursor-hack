@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/uuid.js';
+import './contextHandlerRegistry.js';
+import '../../../../../external/solid/solid.js';
+import './aiContext.js';
+import './contextHandler.js';
+import '../../../../../external/solid/store.js';
+import '../../../../base/common/result.js';
+import '../../ai/browser/utils.js';
 define(
 			de[3996],
 			he([1, 0, 5, 20, 3, 45, 47, 3995, 13, 471, 3236, 193, 529, 191]),

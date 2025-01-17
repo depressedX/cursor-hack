@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../services/extensionRecommendations/common/extensionRecommendations.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import './exeBasedRecommendations.js';
+import './workspaceRecommendations.js';
+import './fileBasedRecommendations.js';
+import './keymapRecommendations.js';
+import './languageRecommendations.js';
+import './configBasedRecommendations.js';
+import '../../../../platform/extensionRecommendations/common/extensionRecommendations.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/uri.js';
+import './webRecommendations.js';
+import '../common/extensions.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import './remoteRecommendations.js';
+import '../../../../platform/remote/common/remoteExtensionsScanner.js';
+import '../../../services/userData/browser/userDataInit.js';
+import '../../../../base/common/types.js';
 define(
 			de[3751],
 			he([

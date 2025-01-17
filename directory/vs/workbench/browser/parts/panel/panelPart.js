@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../common/contextkeys.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './panelActions.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/theme.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/types.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../common/views.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../platform/actions/common/actions.js';
+import '../paneCompositePart.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../css!vs/workbench/browser/parts/panel/media/panelpart.js';
 define(
 			de[1939],
 			he([

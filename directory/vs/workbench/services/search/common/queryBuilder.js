@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/collections.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/labels.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/model/textModelSearch.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../editor/common/editorGroupsService.js';
+import '../../path/common/pathService.js';
+import './search.js';
 define(
 			de[361],
 			he([

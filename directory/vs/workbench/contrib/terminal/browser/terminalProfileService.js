@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../platform/terminal/common/terminalPlatformConfiguration.js';
+import '../../../../platform/terminal/common/terminalProfiles.js';
+import './terminal.js';
+import './terminalActions.js';
+import '../common/terminalContextKey.js';
+import '../common/terminalExtensionPoints.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/remote/common/remoteAgentService.js';
 define(
 			de[4036],
 			he([

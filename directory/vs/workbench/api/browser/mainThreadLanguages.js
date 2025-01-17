@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/uri.js';
+import '../../../editor/common/languages/language.js';
+import '../../../editor/common/services/model.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../editor/common/core/range.js';
+import '../../../editor/common/services/resolverService.js';
+import '../../services/languageStatus/common/languageStatusService.js';
+import '../../../base/common/lifecycle.js';
 define(
 			de[3400],
 			he([1, 0, 9, 61, 67, 88, 101, 17, 42, 1024, 3]),

@@ -1,3 +1,43 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../nls.js';
+import '../../editor.js';
+import '../../../common/editor.js';
+import '../../../common/contextkeys.js';
+import '../../../common/editor/sideBySideEditorInput.js';
+import './textResourceEditor.js';
+import './sideBySideEditor.js';
+import '../../../common/editor/diffEditorInput.js';
+import '../../../services/untitled/common/untitledTextEditorInput.js';
+import '../../../common/editor/textResourceEditorInput.js';
+import './textDiffEditor.js';
+import './binaryDiffEditor.js';
+import './editorStatus.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../base/common/keyCodes.js';
+import './editorActions.js';
+import './editorCommands.js';
+import './diffEditorCommands.js';
+import '../../quickaccess.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/platform.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../codeeditor.js';
+import '../../../common/contributions.js';
+import './editorAutoSave.js';
+import '../../../../platform/quickinput/common/quickAccess.js';
+import './editorQuickAccess.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../services/untitled/common/untitledTextEditorHandler.js';
+import './editorConfiguration.js';
+import '../../actions/layoutActions.js';
+import '../../../../editor/common/editorContextKeys.js';
 define(
 			de[3889],
 			he([

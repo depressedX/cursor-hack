@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/types.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/uuid.js';
+import './useComposerDataHandle.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../notepad/browser/constants.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../ui/browser/hooks/useEverythingSearch/types.js';
+import '../../../ui/browser/hooks/useEverythingSearch/useEverythingSearch.js';
+import '../../../ui/browser/pickerMenu/renderFolderStructurePickerMenuPreview.js';
+import '../../../ui/browser/utils.js';
+import '../../../../services/selectedContext/browser/utils.js';
 define(
 			de[4193],
 			he([

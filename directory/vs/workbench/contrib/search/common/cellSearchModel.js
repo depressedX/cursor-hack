@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/model/pieceTreeTextBuffer/pieceTreeTextBufferBuilder.js';
+import '../../../../editor/common/model/textModelSearch.js';
 define(
 			de[3133],
 			he([1, 0, 3, 17, 64, 1195, 543]),

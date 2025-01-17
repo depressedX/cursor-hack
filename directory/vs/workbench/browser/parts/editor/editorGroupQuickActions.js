@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../common/editor.js';
+import './renderEditorEmptyScreen.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[4224],
 			he([1, 0, 3, 39, 32, 25, 52, 10, 7, 31, 8, 143, 18, 44, 4223, 5]),

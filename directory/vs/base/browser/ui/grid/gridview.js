@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../sash/sash.js';
+import '../splitview/splitview.js';
+import '../../../common/arrays.js';
+import '../../../common/color.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/numbers.js';
+import '../../../common/types.js';
+import '../sash/sash.js';
+import '../splitview/splitview.js';
+import '../../../../css!vs/base/browser/ui/grid/gridview.js';
 define(
 			de[1579],
 			he([1, 0, 7, 277, 279, 24, 97, 6, 3, 201, 28, 277, 279, 1511]),

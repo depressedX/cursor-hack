@@ -1,3 +1,40 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/common/async.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../../base/common/path.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/uuid.js';
+import '../../../nls.js';
+import '../../../platform/dialogs/common/dialogs.js';
+import '../../../platform/files/common/files.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/label/common/label.js';
+import '../../../platform/storage/common/storage.js';
+import '../../../platform/undoRedo/common/undoRedo.js';
+import './mainThreadWebviews.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/customEditor/browser/customEditorInput.js';
+import '../../contrib/customEditor/common/customEditor.js';
+import '../../contrib/customEditor/common/customTextEditorModel.js';
+import '../../contrib/webview/browser/webview.js';
+import '../../contrib/webviewPanel/browser/webviewWorkbenchService.js';
+import '../../services/editor/common/editorGroupColumn.js';
+import '../../services/editor/common/editorGroupsService.js';
+import '../../services/editor/common/editorService.js';
+import '../../services/environment/common/environmentService.js';
+import '../../services/extensions/common/extensions.js';
+import '../../services/path/common/pathService.js';
+import '../../services/workingCopy/common/resourceWorkingCopy.js';
+import '../../services/workingCopy/common/workingCopy.js';
+import '../../services/workingCopy/common/workingCopyFileService.js';
+import '../../services/workingCopy/common/workingCopyService.js';
 define(
 			de[3897],
 			he([

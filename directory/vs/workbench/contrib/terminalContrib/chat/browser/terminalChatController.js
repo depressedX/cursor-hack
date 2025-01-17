@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lazy.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../chat/browser/chat.js';
+import '../../../chat/common/chatService.js';
+import '../../../terminal/browser/terminal.js';
+import './terminalChatWidget.js';
+import '../../../../../base/common/htmlContent.js';
+import './terminalChat.js';
+import '../../../../services/views/common/viewsService.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../base/common/types.js';
+import '../../../../../base/common/async.js';
+import '../../../chat/common/chatAgents.js';
 define(
 			de[867],
 			he([

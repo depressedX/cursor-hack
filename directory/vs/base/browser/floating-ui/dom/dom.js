@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../core/core.js';
+import './platform.js';
+import './autoUpdate.js';
+import './platform.js';
+import './utils/getOverflowAncestors.js';
+import '../core/core.js';
 define(
 			de[2668],
 			he([1, 0, 899, 1576, 2663, 1576, 1163, 899]),

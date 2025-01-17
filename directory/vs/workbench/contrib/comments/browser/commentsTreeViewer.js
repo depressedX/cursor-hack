@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../nls.js';
+import '../../../../base/browser/markdownRenderer.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/opener/common/opener.js';
+import '../common/commentModel.js';
+import '../../../../base/browser/ui/tree/tree.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './timestamp.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import './commentColors.js';
+import '../../../../editor/common/languages.js';
+import './commentsFilterOptions.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import './commentsModel.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/marshallingIds.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[683],
 			he([

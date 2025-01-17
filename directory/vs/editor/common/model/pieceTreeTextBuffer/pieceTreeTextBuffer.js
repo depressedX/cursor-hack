@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/strings.js';
+import '../../core/range.js';
+import '../../model.js';
+import './pieceTreeBase.js';
+import '../../core/eolCounter.js';
+import '../../core/textChange.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[1194],
 			he([1, 0, 6, 37, 17, 64, 1628, 531, 1589, 3]),

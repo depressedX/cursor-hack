@@ -1,3 +1,15 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/observable.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import './cellDiagnosticsActions.js';
+import '../cellStatusBar/executionStatusBarItemController.js';
+import '../../notebookEditorExtensions.js';
+import '../../viewModel/codeCellViewModel.js';
+import '../../../common/notebookCommon.js';
 define(
 			de[4099],
 			he([1, 0, 3, 77, 4, 5, 39, 1960, 1062, 330, 482, 70]),

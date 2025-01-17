@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../common/notebookContextKeys.js';
+import '../notebookBrowser.js';
+import '../viewModel/foldingModel.js';
+import '../../common/notebookCommon.js';
+import '../notebookEditorExtensions.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../services/editor/common/editorService.js';
+import './coreActions.js';
+import '../../../../../nls.js';
 define(
 			de[1031],
 			he([1, 0, 3, 176, 108, 1841, 70, 330, 11, 8, 179, 27, 43, 18, 238, 4]),

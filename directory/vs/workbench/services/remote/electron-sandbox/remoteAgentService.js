@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../common/remoteAgentService.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../platform/product/common/productService.js';
+import '../common/abstractRemoteAgentService.js';
+import '../../../../platform/sign/common/sign.js';
+import '../../../../platform/log/common/log.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../common/contributions.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../../../platform/remote/common/remoteSocketFactoryService.js';
 define(
 			de[3787],
 			he([

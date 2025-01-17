@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/views.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../nls.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../browser/panecomposite.js';
+import '../../layout/browser/layoutService.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../editor/common/editorGroupsService.js';
+import '../../../browser/parts/views/viewsViewlet.js';
+import '../../panecomposite/browser/panecomposite.js';
+import '../../editor/common/editorService.js';
+import '../common/viewsService.js';
 define(
 			de[1352],
 			he([

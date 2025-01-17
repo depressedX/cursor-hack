@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/parts/ipc/common/ipc.net.js';
+import '../../../platform/remote/common/managedSocket.js';
+import '../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../platform/remote/common/remoteSocketFactoryService.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3358],
 			he([1, 0, 6, 3, 760, 2784, 211, 773, 88, 101]),

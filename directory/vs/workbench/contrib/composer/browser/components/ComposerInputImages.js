@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../controlCommon/browser/solid.js';
+import '../hooks/useComposerDataHandle.js';
 define(
 			de[4206],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 9, 23, 26, 14, 135, 36, 177]),

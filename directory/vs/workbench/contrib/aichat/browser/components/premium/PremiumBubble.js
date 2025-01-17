@@ -1,3 +1,15 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../../../base/common/constants.js';
+import '../../hooks/useIsBubbleSelected.js';
+import '../../utils.js';
+import '../../chatData.js';
 define(
 			de[1967],
 			he([1, 0, 2, 2, 2, 2, 36, 270, 58, 1233, 397, 140]),

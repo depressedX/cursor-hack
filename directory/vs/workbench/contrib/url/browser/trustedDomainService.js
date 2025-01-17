@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import './trustedDomains.js';
+import '../common/urlGlob.js';
 define(
 			de[1292],
 			he([1, 0, 7, 75, 3, 9, 5, 21, 1018, 1783]),

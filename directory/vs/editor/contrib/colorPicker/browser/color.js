@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/uri.js';
+import '../../../common/core/range.js';
+import '../../../common/services/model.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../common/services/languageFeatures.js';
+import './defaultDocumentColorProvider.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[1603],
 			he([1, 0, 33, 29, 9, 17, 67, 31, 69, 1599, 10]),

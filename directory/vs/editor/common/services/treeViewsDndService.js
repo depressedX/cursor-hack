@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../platform/instantiation/common/extensions.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import './treeViewsDnd.js';
 define(de[764], he([1, 0, 20, 5, 749]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

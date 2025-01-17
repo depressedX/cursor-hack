@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import '../../../common/editor.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import './inlineMultiDiffEditor.js';
+import '../../../services/editor/common/editorResolverService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[4213],
 			he([1, 0, 30, 192, 44, 102, 4212, 231, 5, 3, 55, 52]),

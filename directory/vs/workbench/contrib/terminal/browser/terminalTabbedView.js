@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/splitview/splitview.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './terminal.js';
+import './terminalTabsList.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../nls.js';
+import './terminalContextMenu.js';
+import '../common/terminalStorageKeys.js';
+import '../common/terminalContextKey.js';
+import './terminalTooltip.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[3698],
 			he([

@@ -1,3 +1,36 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/fonts.js';
+import '../../../../../base/browser/ui/widget.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/history.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/objects.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../editor/common/core/editOperation.js';
+import '../../../../../editor/common/core/position.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/core/wordHelper.js';
+import '../../../../../editor/common/languages.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../../editor/contrib/contextmenu/browser/contextmenu.js';
+import '../../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../../../../../editor/contrib/suggest/browser/suggestController.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../menuPreventer.js';
+import '../selectionClipboard.js';
+import '../simpleEditorOptions.js';
+import '../../../../../css!vs/workbench/contrib/codeEditor/browser/suggestEnabledInput/suggestEnabledInput.js';
 define(
 			de[1043],
 			he([

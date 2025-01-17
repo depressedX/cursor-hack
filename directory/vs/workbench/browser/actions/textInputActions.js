@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/actions.js';
+import '../../../nls.js';
+import '../../services/layout/browser/layoutService.js';
+import '../../../platform/contextview/browser/contextView.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/browser/dom.js';
+import '../../common/contributions.js';
+import '../../../base/common/platform.js';
+import '../../../platform/clipboard/common/clipboardService.js';
+import '../../../base/browser/mouseEvent.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lazy.js';
 define(
 			de[3411],
 			he([1, 0, 50, 4, 96, 49, 3, 7, 55, 12, 121, 168, 6, 149]),

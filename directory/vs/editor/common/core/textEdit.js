@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/assert.js';
+import '../../../base/common/errors.js';
+import './position.js';
+import './positionToOffset.js';
+import './range.js';
+import './textLength.js';
 define(
 			de[490],
 			he([1, 0, 229, 29, 48, 2549, 17, 458]),

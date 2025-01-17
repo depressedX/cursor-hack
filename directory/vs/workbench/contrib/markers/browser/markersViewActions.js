@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import './messages.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../common/markers.js';
+import '../../../../css!vs/workbench/contrib/markers/browser/markersViewActions.js';
 define(
 		de[1248],
 		he([1, 0, 7, 50, 49, 799, 3, 6, 14, 26, 198, 555, 2449]),

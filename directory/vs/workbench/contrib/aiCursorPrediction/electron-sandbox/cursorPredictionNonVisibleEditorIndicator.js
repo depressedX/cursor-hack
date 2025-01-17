@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/services/getIconClasses.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../ui/browser/widgets/codeBlock.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/selectedContext/browser/utils.js';
 define(
 			de[3615],
 			he([

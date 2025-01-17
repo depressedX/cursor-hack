@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../common/inlineChat.js';
+import '../../chat/browser/chatWidget.js';
+import '../../chat/common/chatAgents.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../chat/common/chatModel.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../css!vs/workbench/contrib/inlineChat/browser/media/inlineChatContentWidget.js';
 define(
 			de[4080],
 			he([

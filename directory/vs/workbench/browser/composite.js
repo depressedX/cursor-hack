@@ -1,3 +1,11 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/actions.js';
+import '../common/component.js';
+import '../../base/common/event.js';
+import '../../base/browser/dom.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/types.js';
 define(
 			de[1701],
 			he([1, 0, 50, 969, 6, 7, 3, 28]),

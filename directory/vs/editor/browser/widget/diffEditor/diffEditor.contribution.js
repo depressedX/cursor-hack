@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import './commands.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './registrations.contribution.js';
 define(
 			de[2905],
 			he([1, 0, 14, 1217, 71, 4, 11, 31, 8, 608]),

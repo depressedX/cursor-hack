@@ -1,3 +1,28 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../browser/services/codeEditorService.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/position.js';
+import '../../../../common/core/range.js';
+import '../../../peekView/browser/peekView.js';
+import '../../../../../nls.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../platform/list/browser/listService.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../referencesModel.js';
+import './referencesWidget.js';
+import '../../../../common/editorContextKeys.js';
+import '../../../../../platform/contextkey/common/contextkeys.js';
 define(
 			de[840],
 			he([

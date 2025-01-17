@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../extensions/common/extensions.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/async.js';
 define(
 			de[3319],
 			he([1, 0, 5, 31, 53, 6, 3, 34, 20, 15]),

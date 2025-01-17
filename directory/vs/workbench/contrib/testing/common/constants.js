@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/iconLabels.js';
+import '../../../../nls.js';
+import './testTypes.js';
 define(de[353], he([1, 0, 274, 4, 185]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

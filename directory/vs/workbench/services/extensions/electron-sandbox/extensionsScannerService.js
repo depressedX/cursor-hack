@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/extensionManagement/common/extensionsProfileScannerService.js';
+import '../../../../platform/extensionManagement/common/extensionsScannerService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../userDataProfile/common/userDataProfile.js';
 define(
 			de[3783],
 			he([1, 0, 9, 113, 1214, 958, 22, 20, 5, 34, 62, 68, 129, 133]),

@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/editorContextKeys.js';
+import './bracketSelections.js';
+import './wordSelections.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/resolverService.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
 define(
 			de[1646],
 			he([

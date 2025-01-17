@@ -1,3 +1,12 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './trustedTypes.js';
+import '../common/errors.js';
+import '../common/network.js';
+import '../common/worker/simpleWorker.js';
+import '../common/lifecycle.js';
+import '../common/arrays.js';
+import '../../nls.js';
 define(
 			de[540],
 			he([1, 0, 432, 29, 23, 1584, 3, 24, 4]),

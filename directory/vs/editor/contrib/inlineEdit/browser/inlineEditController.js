@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../common/core/editOperation.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import './ghostTextWidget.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../base/common/cancellation.js';
+import '../../inlineCompletions/browser/model/ghostText.js';
+import '../../../../platform/commands/common/commands.js';
+import './inlineEditHintsWidget.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/observableInternal/derived.js';
+import './inlineEditSideBySideWidget.js';
+import '../../../browser/widget/diffEditor/diffProviderFactoryService.js';
+import '../../../common/services/model.js';
 define(
 			de[1690],
 			he([

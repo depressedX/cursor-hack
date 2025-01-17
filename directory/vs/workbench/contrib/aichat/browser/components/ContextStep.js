@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../aiMarkdown/browser/markdown.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../controlCommon/browser/solid.js';
+import './Utils.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../../../base/common/path.js';
 define(
 			de[4246],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 41, 338, 135, 36, 242, 156, 54]),

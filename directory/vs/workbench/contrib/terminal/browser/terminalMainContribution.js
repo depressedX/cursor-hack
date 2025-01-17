@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/terminal/common/terminal.js';
+import './terminal.js';
+import './terminalUri.js';
+import '../common/terminalStrings.js';
+import '../../../services/editor/common/editorResolverService.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/terminal/common/embedderTerminalService.js';
 define(
 			de[3658],
 			he([1, 0, 3, 23, 73, 117, 107, 690, 469, 231, 78, 52, 1875]),

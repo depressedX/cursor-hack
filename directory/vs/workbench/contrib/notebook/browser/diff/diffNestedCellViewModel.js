@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/common/model/prefixSumComputer.js';
+import '../viewModel/cellOutputViewModel.js';
+import '../../common/notebookService.js';
 define(
 			de[3478],
 			he([1, 0, 6, 3, 47, 589, 1840, 161]),

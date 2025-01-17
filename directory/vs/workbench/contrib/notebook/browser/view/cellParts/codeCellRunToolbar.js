@@ -1,3 +1,21 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/ui/toolbar/toolbar.js';
+import '../../../../../../base/common/actions.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/marshallingIds.js';
+import '../../../../../../editor/common/editorContextKeys.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/browser/dropdownWithPrimaryActionViewItem.js';
+import '../../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../cellPart.js';
+import './cellToolbarStickyScroll.js';
+import '../../../common/notebookContextKeys.js';
 define(
 			de[3480],
 			he([

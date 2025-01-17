@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/actions/browser/dropdownWithPrimaryActionViewItem.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/editor/editorPane.js';
+import './terminal.js';
+import './terminalMenus.js';
+import '../common/terminal.js';
+import './terminalContextMenu.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3405],
 			he([

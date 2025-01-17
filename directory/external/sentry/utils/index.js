@@ -1,3 +1,46 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './aggregate-errors.js';
+import './array.js';
+import './breadcrumb-log-level.js';
+import './browser.js';
+import './dsn.js';
+import './error.js';
+import './worldwide.js';
+import './instrument/index.js';
+import './is.js';
+import './isBrowser.js';
+import './logger.js';
+import './memo.js';
+import './misc.js';
+import './node.js';
+import './normalize.js';
+import './object.js';
+import './path.js';
+import './promisebuffer.js';
+import './requestdata.js';
+import './severity.js';
+import './stacktrace.js';
+import './node-stack-trace.js';
+import './string.js';
+import './supports.js';
+import './syncpromise.js';
+import './time.js';
+import './tracing.js';
+import './env.js';
+import './envelope.js';
+import './clientreport.js';
+import './ratelimit.js';
+import './baggage.js';
+import './url.js';
+import './cache.js';
+import './eventbuilder.js';
+import './anr.js';
+import './lru.js';
+import './buildPolyfills/index.js';
+import './propagationContext.js';
+import './vercelWaitUntil.js';
+import './version.js';
 define(
 		de[80],
 		he([

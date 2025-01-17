@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/editorContextKeys.js';
+import './moveCaretCommand.js';
+import '../../../../nls.js';
 define(de[2801], he([1, 0, 46, 71, 2580, 4]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (E = mt(E));

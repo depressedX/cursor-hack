@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/platform.js';
+import '../hooks/useComposerDataHandle.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../../../controlCommon/browser/solid.js';
 define(
 			de[4150],
 			he([1, 0, 2, 2, 2, 13, 12, 177, 311, 36]),

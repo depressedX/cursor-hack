@@ -1,3 +1,24 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../base/common/uri.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/log/common/log.js';
+import '../../../platform/terminal/common/terminal.js';
+import '../../../platform/terminal/common/terminalDataBuffering.js';
+import '../../contrib/terminal/browser/terminal.js';
+import '../../contrib/terminal/browser/terminalProcessExtHostProxy.js';
+import '../../contrib/terminal/common/environmentVariable.js';
+import '../../../platform/terminal/common/environmentVariableShared.js';
+import '../../contrib/terminal/common/terminal.js';
+import '../../services/remote/common/remoteAgentService.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/async.js';
+import '../../contrib/terminalContrib/links/browser/links.js';
+import '../../contrib/terminalContrib/quickFix/browser/quickFix.js';
+import '../../../platform/terminal/common/capabilities/capabilities.js';
 define(
 			de[3543],
 			he([

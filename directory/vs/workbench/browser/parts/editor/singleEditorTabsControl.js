@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/editor.js';
+import './editorTabsControl.js';
+import '../../labels.js';
+import '../../../common/theme.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/browser/dom.js';
+import './editorCommands.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import './breadcrumbsControl.js';
+import '../../../../css!vs/workbench/browser/parts/editor/media/singleeditortabscontrol.js';
 define(
 			de[4011],
 			he([

@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../services/views/common/viewsService.js';
+import '../../extensions/common/extensions.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/host/browser/host.js';
+import '../../../services/preferences/browser/keybindingsEditorInput.js';
+import '../../../services/preferences/common/preferencesEditorInput.js';
 define(
 			de[3848],
 			he([1, 0, 6, 3, 12, 19, 129, 150, 89, 141, 18, 87, 1310, 1312]),

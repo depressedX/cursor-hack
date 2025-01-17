@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../lifecycle/common/lifecycle.js';
+import './workingCopyHistoryTracker.js';
+import '../../../../base/common/lifecycle.js';
+import './workingCopyHistory.js';
+import '../../../../platform/files/common/files.js';
+import '../../remote/common/remoteAgentService.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/resources.js';
+import '../../environment/common/environmentService.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/extpath.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../base/common/buffer.js';
+import '../../../../platform/log/common/log.js';
+import '../../../common/editor.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/strings.js';
 define(
 			de[3914],
 			he([

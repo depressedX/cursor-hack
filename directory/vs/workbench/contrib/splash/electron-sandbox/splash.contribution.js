@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/contributions.js';
+import '../browser/splash.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../browser/partsSplash.js';
 define(
 			de[3436],
 			he([1, 0, 55, 1756, 110, 20, 3435]),

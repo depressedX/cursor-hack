@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/json.js';
+import '../../../../nls.js';
+import '../../../../base/common/path.js';
+import '../../../../editor/contrib/snippet/browser/snippetParser.js';
+import '../../../../editor/contrib/snippet/browser/snippetVariables.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[805],
 			he([1, 0, 187, 4, 54, 389, 1672, 19, 28, 24, 103, 7]),

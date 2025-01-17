@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../common/contributions.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[1026],
 			he([1, 0, 7, 75, 14, 6, 27, 3, 46, 65, 38, 71, 4, 11, 8, 43, 55, 18]),

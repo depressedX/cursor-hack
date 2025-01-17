@@ -1,3 +1,30 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../base/common/uri.js';
+import '../../../../contrib/aichat/browser/codeSelections.js';
+import '../../../../contrib/aichat/browser/components/InputBoxCodeSelection.js';
+import '../../../../contrib/aichat/browser/components/InputBoxDiffSelection.js';
+import '../../../../contrib/aichat/browser/components/InputBoxDocSelection.js';
+import '../../../../contrib/aichat/browser/components/InputBoxFileSelection.js';
+import '../../../../contrib/aichat/browser/components/InputBoxImage.js';
+import '../../../../contrib/aichat/browser/components/InputBoxQuoteSelection.js';
+import '../../../../contrib/controlCommon/browser/solid.js';
+import '../../../../contrib/ui/browser/AutoCollapseDivGroup.js';
+import '../../../../contrib/ui/browser/scrollableDiv.js';
+import '../../../../contrib/ui/browser/simpleCodeRender/simpleCodeRender.js';
+import './AdvancedCodebaseControls.js';
+import './ContextPills.js';
+import '../selectedContextData.js';
 define(
 			de[4399],
 			he([

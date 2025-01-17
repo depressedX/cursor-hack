@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/languages.js';
+import '../../../common/services/languageFeatures.js';
+import './parameterHintsModel.js';
+import './provideSignatureHelp.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './parameterHintsWidget.js';
 define(
 			de[1207],
 			he([1, 0, 27, 149, 3, 46, 71, 74, 69, 1608, 1182, 4, 8, 5, 43, 2837]),

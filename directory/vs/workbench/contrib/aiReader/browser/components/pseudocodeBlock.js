@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../codeEditor/browser/menuPreventer.js';
+import '../../../../../editor/contrib/contextmenu/browser/contextmenu.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../platform/tooltipService/common/tooltipService.js';
+import '../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
 define(
 			de[3020],
 			he([1, 0, 46, 65, 8, 5, 31, 394, 375, 35, 40, 91, 152, 69, 308, 206]),

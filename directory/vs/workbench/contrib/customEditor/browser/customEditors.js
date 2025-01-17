@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../common/editor.js';
+import '../../../common/editor/diffEditorInput.js';
+import '../common/customEditor.js';
+import '../common/customEditorModelManager.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorResolverService.js';
+import '../../../services/editor/common/editorService.js';
+import '../common/contributedCustomEditors.js';
+import './customEditorInput.js';
+import '../../../../css!vs/workbench/contrib/customEditor/browser/media/customEditor.js';
 define(
 			de[3878],
 			he([

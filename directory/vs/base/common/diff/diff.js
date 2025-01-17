@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './diffChange.js';
+import '../hash.js';
+import '../uint.js';
 define(de[745], he([1, 0, 2216, 136, 210]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,13 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../css!vs/workbench/contrib/aichat/browser/components/premium/PremiumUserBubble.js';
 define(
 			de[4248],
 			he([1, 0, 2, 2, 2, 13, 2, 147, 36, 1521]),

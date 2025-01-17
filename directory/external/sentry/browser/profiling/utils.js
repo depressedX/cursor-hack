@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../core/index.js';
+import '../../utils/index.js';
+import '../debug-build.js';
+import '../helpers.js';
 define(
 			de[1103],
 			he([1, 0, 144, 80, 452, 386]),

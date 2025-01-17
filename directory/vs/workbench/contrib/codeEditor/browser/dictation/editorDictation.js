@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../speech/common/speechService.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../editor/common/config/editorOptions.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../editor/common/editorContextKeys.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../editor/common/core/editOperation.js';
+import '../../../../../editor/common/core/selection.js';
+import '../../../../../editor/common/core/position.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../base/common/types.js';
+import '../../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../css!vs/workbench/contrib/codeEditor/browser/dictation/editorDictation.js';
 define(
 			de[1259],
 			he([

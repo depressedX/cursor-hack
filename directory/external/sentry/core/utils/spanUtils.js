@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../asyncContext/index.js';
+import '../carrier.js';
+import '../currentScopes.js';
+import '../metrics/metric-summary.js';
+import '../semanticAttributes.js';
+import '../tracing/spanstatus.js';
+import './spanOnScope.js';
 define(
 			de[301],
 			he([1, 0, 80, 733, 578, 234, 1095, 453, 636, 731]),

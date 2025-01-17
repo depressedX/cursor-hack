@@ -1,3 +1,46 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/types.js';
+import '../../extensions/common/extensions.js';
+import '../common/workbenchThemeService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../base/common/errors.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../common/colorThemeData.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/event.js';
+import '../common/fileIconThemeSchema.js';
+import '../../../../base/common/lifecycle.js';
+import './fileIconThemeData.js';
+import '../../../../base/browser/dom.js';
+import '../../environment/browser/environmentService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/resources.js';
+import '../common/colorThemeSchema.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/remote/common/remoteHosts.js';
+import '../../layout/browser/layoutService.js';
+import '../../../../platform/extensionResourceLoader/common/extensionResourceLoader.js';
+import '../common/themeExtensionPoints.js';
+import '../common/themeConfiguration.js';
+import './productIconThemeData.js';
+import '../common/productIconThemeSchema.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/theme/common/theme.js';
+import '../common/hostColorSchemeService.js';
+import '../../../../base/common/async.js';
+import '../../userData/browser/userDataInit.js';
+import '../../../../platform/theme/browser/iconsStyleSheet.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[1895],
 			he([

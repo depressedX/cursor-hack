@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/event.js';
 define(
 			de[3248],
 			he([1, 0, 121, 9, 12, 20, 110, 76, 6]),

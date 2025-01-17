@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/htmlContent.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../chatWidget.js';
+import './chatDynamicVariables.js';
+import '../../common/chatAgents.js';
+import '../../common/chatColors.js';
+import '../../common/chatParserTypes.js';
+import '../../common/chatRequestParser.js';
 define(
 			de[4073],
 			he([1, 0, 94, 3, 65, 17, 5, 51, 35, 481, 1060, 153, 980, 329, 1022]),

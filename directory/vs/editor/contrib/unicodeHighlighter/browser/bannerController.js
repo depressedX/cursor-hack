@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/opener/browser/link.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/themables.js';
+import '../../../../css!vs/editor/contrib/unicodeHighlighter/browser/bannerController.js';
 define(
 			de[2838],
 			he([1, 0, 7, 105, 50, 3, 251, 5, 497, 79, 26, 2324]),

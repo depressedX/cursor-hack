@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/window.js';
+import '../../../common/event.js';
+import '../../../common/uuid.js';
+import '../../sandbox/electron-sandbox/globals.js';
 define(de[904], he([1, 0, 75, 6, 47, 320]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$lrb = C);

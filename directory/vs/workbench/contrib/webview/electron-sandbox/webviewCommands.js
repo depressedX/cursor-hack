@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/ipc/common/mainProcessService.js';
+import './windowIgnoreMenuShortcutsManager.js';
+import '../../../../base/common/constants.js';
 define(
 			de[3213],
 			he([1, 0, 4, 7, 99, 11, 110, 10, 371, 1785, 58]),

@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../editor/common/config/editorOptions.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../aiApplyToFileActionsService/browser/aiApplyToFileActionsService.js';
+import '../../../../../base/common/path.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/partialApplyHover/partialApplyHoverWidget.js';
 define(
 			de[3987],
 			he([1, 0, 7, 6, 3, 56, 31, 39, 45, 5, 38, 61, 67, 852, 54, 25, 2525]),

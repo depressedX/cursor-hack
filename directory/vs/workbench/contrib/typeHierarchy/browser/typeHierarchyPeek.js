@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/splitview/splitview.js';
+import '../../../../base/browser/ui/tree/tree.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/peekView/browser/peekView.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/theme/common/themeService.js';
+import './typeHierarchyTree.js';
+import '../common/typeHierarchy.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../css!vs/workbench/contrib/typeHierarchy/browser/media/typeHierarchy.js';
 define(
 			de[3272],
 			he([

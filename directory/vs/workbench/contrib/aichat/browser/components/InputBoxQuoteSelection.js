@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../base/browser/baseSolidComponents/utils/tabbable.js';
+import '../../../../../base/browser/dom.js';
+import '../../../aiMarkdown/browser/markdownData.js';
+import '../../../aiMarkdown/browser/markdown.js';
 define(
 			de[4247],
 			he([1, 0, 2, 2, 2, 2, 2, 926, 7, 236, 338]),

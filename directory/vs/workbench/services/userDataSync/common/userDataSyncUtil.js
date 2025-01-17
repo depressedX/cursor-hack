@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
 define(
 			de[3796],
 			he([1, 0, 39, 150, 20, 42, 125]),

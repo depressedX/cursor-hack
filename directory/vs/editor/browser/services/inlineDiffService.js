@@ -1,3 +1,45 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/event.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../common/core/range.js';
+import '../../../base/common/lifecycle.js';
+import '../../common/core/lineRange.js';
+import '../../../platform/instantiation/common/extensions.js';
+import '../../common/services/resolverService.js';
+import '../../../base/common/uuid.js';
+import '../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../common/diff/linesDiffComputers.js';
+import '../../common/model.js';
+import './inlineDiffUndoRedoElement.js';
+import '../../../platform/undoRedo/common/undoRedo.js';
+import '../../common/core/position.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../../common/editorContextKeys.js';
+import './genericUndoRedoElement.js';
+import '../../../workbench/services/editor/common/editorService.js';
+import '../editorBrowser.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../platform/telemetry/common/telemetry.js';
+import '../../../workbench/services/ai/browser/aiService.js';
+import '../../../../proto/aiserver/v1/fastapply_pb.js';
+import '../../../workbench/services/aiCmdK/browser/cmdKService.js';
+import '../../../workbench/services/aiContext/browser/aiContext.js';
+import './codeEditorService.js';
+import '../../../base/common/resources.js';
+import '../../../../external/solid/solid.js';
+import '../../../workbench/contrib/aiCpp/browser/cppEventLogger.js';
+import './multiInlineFileDiffService.js';
+import './inlineDiffServiceUtils.js';
+import '../../common/services/model.js';
+import '../../common/languages/language.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../base/common/constants.js';
+import '../../../workbench/services/ai/browser/backendClient.js';
+import '../../../../proto/aiserver/v1/fastapply_connectweb.js';
+import '../../../workbench/services/ai/browser/utils.js';
+import '../../../workbench/services/textfile/common/textfiles.js';
 define(
 			de[383],
 			he([

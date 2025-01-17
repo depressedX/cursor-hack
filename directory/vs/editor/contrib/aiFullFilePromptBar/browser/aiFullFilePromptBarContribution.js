@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/common/event.js';
+import './aiFullFilePromptBar.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../workbench/services/editor/common/editorService.js';
+import '../../peekView/browser/peekView.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[1983],
 			he([1, 0, 46, 149, 3, 56, 5, 45, 7, 159, 6, 4220, 25, 18, 255, 8]),

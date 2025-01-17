@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cppUtils/utils.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/result.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/services/editorWorker.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../aiCpp/browser/cppTypes.js';
+import '../../../services/ai/browser/diffingService.js';
+import '../../../services/aiContext/browser/simpleSerialProcessor.js';
 define(
 			de[3243],
 			he([1, 0, 646, 3, 529, 65, 17, 64, 200, 155, 1704, 1010, 1012]),

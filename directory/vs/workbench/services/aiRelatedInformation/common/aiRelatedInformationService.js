@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../platform/log/common/log.js';
+import './aiRelatedInformation.js';
 define(
 			de[3244],
 			he([1, 0, 15, 20, 162, 34, 1013]),

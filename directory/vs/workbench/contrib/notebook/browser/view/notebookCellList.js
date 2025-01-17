@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/list/list.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../editor/common/model.js';
+import '../../../../../editor/common/model/prefixSumComputer.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/list/browser/listService.js';
+import '../notebookBrowser.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookRange.js';
+import '../../common/notebookContextKeys.js';
+import '../../../../../base/common/numbers.js';
+import '../../../../../base/browser/fastDomNode.js';
+import '../viewModel/markupCellViewModel.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './notebookCellListView.js';
+import '../../common/notebookExecutionStateService.js';
+import './notebookCellAnchor.js';
+import '../viewParts/notebookViewZones.js';
 define(
 			de[1962],
 			he([

@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../base/common/lazy.js';
+import './hintLineWidget.js';
+import '../../inlineDiffs/browser/utils.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../inlineCompletions/browser/controller/inlineCompletionContextKeys.js';
+import '../../../../base/common/resources.js';
+import '../../../../workbench/services/aiCmdK/browser/cmdKService.js';
+import '../../../../base/common/constants.js';
 define(
 			de[1348],
 			he([1, 0, 46, 3, 8, 5, 38, 149, 499, 1554, 45, 765, 19, 479, 58]),

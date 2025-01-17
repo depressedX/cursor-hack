@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/network.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
+import '../languages/modesRegistry.js';
+import '../../../platform/files/common/files.js';
+import '../../../base/common/themables.js';
 define(
 			de[252],
 			he([1, 0, 23, 19, 9, 172, 22, 26]),

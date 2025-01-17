@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../common/accessibilityCommands.js';
+import './accessibilityConfiguration.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/contrib/inlineCompletions/browser/controller/inlineCompletionsController.js';
 define(
 			de[1032],
 			he([1, 0, 14, 27, 46, 4, 11, 8, 43, 417, 130, 178, 65, 501]),

@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/lifecycle/common/lifecycle.js';
+import '../common/lifecycle.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
+import '../../../../platform/log/common/log.js';
+import '../common/lifecycleService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/cancellation.js';
 define(
 			de[3456],
 			he([1, 0, 1619, 52, 21, 320, 34, 3455, 20, 110, 15, 163, 33]),

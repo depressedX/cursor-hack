@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/platform.js';
+import '../../controlCommon/browser/solid.js';
+import '../../../services/aiSettings/browser/aiSettingsService.js';
+import './dropdown/dropdownInput.js';
 define(
 			de[859],
 			he([1, 0, 2, 2, 2, 13, 58, 12, 36, 315, 1979]),

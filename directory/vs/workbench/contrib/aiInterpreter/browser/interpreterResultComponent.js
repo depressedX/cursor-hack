@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../aichat/browser/chatData.js';
+import '../../aichat/browser/components/Utils.js';
+import '../../ui/browser/aiInput/aiInput2.js';
+import '../../controlCommon/browser/solid.js';
+import '../../ui/browser/hooks/useKeyboardShortcut.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/uri.js';
+import '../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../base/common/resources.js';
+import '../../../../css!vs/workbench/contrib/aiInterpreter/browser/interpreter.js';
 define(
 			de[4314],
 			he([

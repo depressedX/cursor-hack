@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import '../../environment/common/environment.js';
+import '../../storage/common/storage.js';
+import '../../telemetry/common/telemetry.js';
+import './userDataSync.js';
 define(
 			de[2938],
 			he([1, 0, 6, 3, 12, 113, 21, 32, 150]),

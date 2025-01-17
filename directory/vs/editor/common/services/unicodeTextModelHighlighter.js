@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../core/range.js';
+import '../model/textModelSearch.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/assert.js';
+import '../core/wordHelper.js';
 define(
 			de[1630],
 			he([1, 0, 17, 543, 37, 229, 409]),

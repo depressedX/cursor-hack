@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/fastDomNode.js';
+import '../../../base/browser/trustedTypes.js';
+import '../../../base/common/errors.js';
+import '../../common/config/editorOptions.js';
+import '../../common/core/stringBuilder.js';
 define(
 			de[1183],
 			he([1, 0, 194, 432, 29, 38, 462]),

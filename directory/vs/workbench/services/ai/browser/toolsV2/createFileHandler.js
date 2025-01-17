@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './toolsV2HandlerRegistryService.js';
+import '../../../magicLink/browser/magicLinkService.js';
+import '../../../../contrib/aiFeatureStatusService/browser/aiFeatureStatusService.js';
+import '../../../../../base/common/buffer.js';
 define(
 			de[3975],
 			he([1, 0, 124, 22, 25, 398, 241, 287, 76]),

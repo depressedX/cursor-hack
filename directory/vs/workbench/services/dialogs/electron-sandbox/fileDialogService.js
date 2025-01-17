@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../host/browser/host.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../history/common/history.js';
+import '../../environment/common/environmentService.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/native/common/native.js';
+import '../browser/abstractFileDialogService.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../platform/label/common/label.js';
+import '../../path/common/pathService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../editor/common/editorService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[3584],
 			he([

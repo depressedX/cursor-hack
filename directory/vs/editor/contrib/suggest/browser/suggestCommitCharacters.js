@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/characterClassifier.js';
+import './suggestModel.js';
 define(
 			de[2926],
 			he([1, 0, 24, 3, 38, 654, 1221]),

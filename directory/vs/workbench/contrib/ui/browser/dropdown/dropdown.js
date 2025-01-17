@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/browser/ui/selectBox/selectBox.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../menu/hooks.js';
+import '../menu/menu.js';
+import './utils.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/dropdown/dropdown.js';
 define(
 			de[523],
 			he([

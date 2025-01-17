@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/tracing/common/tracing.js';
+import './prettyDialog.js';
+import '../../../../base/common/lifecycle.js';
+import './renderPrettyDialog.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../base/common/event.js';
 define(
 			de[4305],
 			he([1, 0, 20, 45, 216, 559, 3, 4304, 5, 7, 180, 6]),

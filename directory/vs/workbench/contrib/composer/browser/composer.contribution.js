@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/editor.js';
+import './composerEditor.js';
+import './composerEditor.js';
+import '../../../browser/editor.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../common/views.js';
+import './composerViewsService.js';
+import './composerService.js';
+import './composerActions.js';
+import './composerViewsService.js';
+import './composerUtilsService.js';
+import './composerDiffEditorContribution.js';
+import './composerCapabilities.js';
+import './capabilities/index.js';
 define(
 			de[4417],
 			he([

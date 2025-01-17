@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './errors.js';
+import './iconLabels.js';
+import './resources.js';
+import './strings.js';
+import './uri.js';
 define(
 			de[94],
 			he([1, 0, 29, 274, 19, 37, 9]),

@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/lexical/lexical-solid/LexicalComposer.js';
+import '../../../../../../external/lexical/lexical-solid/LexicalComposerContext.js';
+import '../../../../../../external/lexical/lexical-solid/LexicalContentEditable.js';
+import '../../../../../../external/lexical/lexical-solid/LexicalErrorBoundary.js';
+import '../../../../../../external/lexical/lexical-solid/LexicalPlainTextPlugin.js';
+import '../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../ui/browser/aiInput/aiInput2.js';
 define(
 			de[4318],
 			he([1, 0, 2, 1063, 181, 1362, 1106, 1160, 158, 13, 450]),

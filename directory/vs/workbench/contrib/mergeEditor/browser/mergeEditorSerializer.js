@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/marshalling.js';
+import './mergeEditorInput.js';
 define(de[3690], he([1, 0, 29, 197, 711]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$hSc = void 0);

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './create-multiple-selection-state.js';
+import './create-selectable-collection.js';
+import './create-selectable-item.js';
+import './create-type-select.js';
+import './selection-manager.js';
+import './types.js';
 define(
 		de[927],
 		he([1, 0, 2645, 2647, 2646, 1568, 2180, 739]),

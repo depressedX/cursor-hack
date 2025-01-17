@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/keyboardLayout/common/keyboardLayout.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/keyboardLayout/common/keyboardMapper.js';
+import '../common/windowsKeyboardMapper.js';
+import '../common/fallbackKeyboardMapper.js';
+import '../common/macLinuxKeyboardMapper.js';
+import '../../../../platform/keyboardLayout/common/keyboardConfig.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './nativeKeyboardLayoutService.js';
+import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[3395],
 			he([1, 0, 3, 1188, 6, 12, 2737, 1825, 3392, 3394, 2780, 10, 1826, 20]),

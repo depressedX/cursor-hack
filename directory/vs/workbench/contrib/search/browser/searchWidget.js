@@ -1,3 +1,43 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../base/browser/ui/inputbox/inputBox.js';
+import '../../../../base/browser/ui/widget.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/contrib/find/browser/findModel.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import './searchActionsBase.js';
+import '../common/constants.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/browser/ui/toggle/toggle.js';
+import '../../../services/views/common/viewsService.js';
+import './searchIcons.js';
+import '../../searchEditor/browser/constants.js';
+import '../../../../platform/history/browser/historyWidgetKeybindingHint.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../notebook/browser/contrib/find/findFilters.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../services/editor/common/editorService.js';
+import '../../notebook/common/notebookEditorInput.js';
+import '../../../common/editor.js';
+import './searchFindInput.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/common/lifecycle.js';
+import '../../notebook/common/notebookCommon.js';
 define(
 			de[1367],
 			he([

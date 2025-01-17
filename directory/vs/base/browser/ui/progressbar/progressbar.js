@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import './progressAccessibilitySignal.js';
+import '../../../common/async.js';
+import '../../../common/lifecycle.js';
+import '../../../common/types.js';
+import '../../../../css!vs/base/browser/ui/progressbar/progressbar.js';
 define(
 			de[436],
 			he([1, 0, 7, 1496, 15, 3, 28, 2248]),

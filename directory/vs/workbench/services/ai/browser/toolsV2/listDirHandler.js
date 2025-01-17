@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './listDirHelper.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './toolsV2HandlerRegistryService.js';
+import '../../../selectedContext/browser/selectedContext.js';
 define(
 			de[3929],
 			he([1, 0, 1790, 22, 25, 398, 271]),

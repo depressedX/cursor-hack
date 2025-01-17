@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/editorExtensions.js';
+import './bugBotLinterPreviewBoxController.js';
+import './bugBotLinterService.js';
+import './bugBotLinterActions.js';
 define(
 			de[4271],
 			he([1, 0, 46, 46, 1989, 850, 4270]),

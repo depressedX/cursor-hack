@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/resources.js';
+import '../../../controlCommon/browser/solid.js';
+import '../aiInput/plugins/mentions/pureIcon.js';
+import '../badge/badge.js';
+import '../highlightedLabel/HighlightedLabel.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/contextDisplay/listContextDisplay.js';
 define(
 			de[1070],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 13, 19, 36, 156, 564, 818, 2515]),

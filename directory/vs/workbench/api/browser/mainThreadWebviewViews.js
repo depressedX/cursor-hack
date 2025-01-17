@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uuid.js';
+import './mainThreadWebviews.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/webviewView/browser/webviewViewService.js';
+import '../../../platform/telemetry/common/telemetry.js';
 define(
 			de[3376],
 			he([1, 0, 29, 3, 47, 831, 88, 1275, 32]),

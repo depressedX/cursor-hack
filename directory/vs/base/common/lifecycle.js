@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './arrays.js';
+import './collections.js';
+import './map.js';
+import './functional.js';
+import './iterator.js';
 define(
 			de[3],
 			he([1, 0, 24, 456, 59, 288, 103]),

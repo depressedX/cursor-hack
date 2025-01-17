@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keybindings.js';
+import '../../../../platform/keybinding/common/usLayoutResolvedKeybinding.js';
 define(de[3392], he([1, 0, 343, 2736]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$y4c = void 0);

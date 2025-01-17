@@ -1,3 +1,10 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/collections.js';
+import '../../../../../../base/common/event.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/types.js';
+import '../../../common/notebookRange.js';
 define(
 			de[1742],
 			he([1, 0, 456, 6, 3, 28, 442]),

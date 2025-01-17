@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './inlineChatController.js';
+import '../common/inlineChat.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/browser/markdownRenderer.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
 define(
 			de[4083],
 			he([1, 0, 427, 257, 65, 8, 178, 94, 267, 130]),

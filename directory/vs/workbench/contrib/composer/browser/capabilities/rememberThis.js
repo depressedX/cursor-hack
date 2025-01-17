@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../composer.js';
+import '../composerCapabilities.js';
+import '../composerCapabilityDecorators.js';
+import '../composerCapabilitySchemas.js';
+import '../composerDataService.js';
 define(
 			de[3926],
 			he([1, 0, 126, 167, 45, 219, 262, 395, 351, 209]),

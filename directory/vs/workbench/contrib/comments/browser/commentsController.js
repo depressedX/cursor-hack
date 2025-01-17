@@ -1,3 +1,44 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/arraysFind.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/languages.js';
+import '../../../../nls.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import './commentGlyphWidget.js';
+import './commentService.js';
+import './commentThreadZoneWidget.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../services/views/common/viewsService.js';
+import './commentsTreeViewer.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../common/commentsConfiguration.js';
+import './commentReply.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './commentThreadRangeDecorator.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../common/commentContextKeys.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../../accessibility/common/accessibilityCommands.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../base/common/uri.js';
+import './commentsModel.js';
+import '../../../../css!vs/workbench/contrib/comments/browser/media/review.js';
 define(
 			de[1048],
 			he([

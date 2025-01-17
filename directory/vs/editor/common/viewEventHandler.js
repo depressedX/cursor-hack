@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/lifecycle.js';
+import './viewEvents.js';
 define(de[750], he([1, 0, 3, 493]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

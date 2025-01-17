@@ -1,3 +1,17 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/observable.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../controller/chat/notebookChatController.js';
+import '../../notebookBrowser.js';
+import '../cellPart.js';
+import '../../viewModel/codeCellViewModel.js';
+import '../../viewModel/markupCellViewModel.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookContextKeys.js';
+import '../../../common/notebookExecutionStateService.js';
 define(
 			de[1961],
 			he([1, 0, 3, 77, 8, 5, 1359, 108, 294, 482, 855, 70, 176, 190]),

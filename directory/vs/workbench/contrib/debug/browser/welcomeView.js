@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../nls.js';
+import '../common/debug.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/views.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../common/contextkeys.js';
+import '../../../browser/actions/workspaceActions.js';
+import '../../../../base/common/platform.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/common/lifecycle.js';
+import './debugCommands.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[1942],
 			he([

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import './tooltipUiController.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../browser/services/codeEditorService.js';
 define(
 			de[3167],
 			he([1, 0, 46, 3166, 58, 11, 65]),

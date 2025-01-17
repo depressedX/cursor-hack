@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './composerData.js';
+import '../../../../../external/solid/store.js';
+import '../../../../base/common/uuid.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../base/common/uri.js';
+import '../../../services/selectedContext/browser/utils.js';
+import '../../../services/selectedContext/browser/selectedContextData.js';
+import '../../aichat/browser/chatData.js';
+import '../../../../base/common/types.js';
+import '../../../../../proto/aiserver/v1/repository_pb.js';
+import '../../aichat/browser/aichat.js';
+import './utils.js';
 define(
 			de[1318],
 			he([

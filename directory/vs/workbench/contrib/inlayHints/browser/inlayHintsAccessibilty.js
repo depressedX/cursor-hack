@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../editor/contrib/inlayHints/browser/inlayHints.js';
+import '../../../../editor/contrib/inlayHints/browser/inlayHintsController.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/opener/browser/link.js';
 define(
 			de[3614],
 			he([1, 0, 7, 33, 27, 3, 46, 71, 1177, 1316, 4, 11, 184, 8, 5, 43, 497]),

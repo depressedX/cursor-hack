@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keybindingParser.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(de[3393], he([1, 0, 918, 8]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

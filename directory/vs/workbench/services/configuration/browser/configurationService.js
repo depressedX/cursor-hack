@@ -1,3 +1,41 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/configuration/common/configurationModels.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/configuration/common/configurations.js';
+import '../common/configurationModels.js';
+import '../common/configuration.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../common/configurationEditing.js';
+import './configuration.js';
+import '../../../../base/common/performance.js';
+import '../../environment/common/environmentService.js';
+import '../../../common/contributions.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../../base/common/arrays.js';
+import '../../extensions/common/extensions.js';
+import '../../assignment/common/assignmentService.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/policy/common/policy.js';
+import '../common/jsonEditing.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../common/configuration.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[3780],
 			he([

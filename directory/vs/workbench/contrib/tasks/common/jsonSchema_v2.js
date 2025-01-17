@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/objects.js';
+import './jsonSchemaCommon.js';
+import './problemMatcher.js';
+import './taskDefinitionRegistry.js';
+import '../../../services/configurationResolver/common/configurationResolverUtils.js';
+import '../../../services/configurationResolver/common/configurationResolverSchema.js';
+import '../../../../base/common/codicons.js';
 define(
 		de[3327],
 		he([1, 0, 4, 82, 1813, 570, 699, 1796, 1795, 14]),

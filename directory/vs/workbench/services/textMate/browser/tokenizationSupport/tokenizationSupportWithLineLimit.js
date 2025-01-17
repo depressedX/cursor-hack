@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/common/languages/nullTokenize.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
 define(de[3670], he([1, 0, 1175, 3, 77]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$vyc = void 0);

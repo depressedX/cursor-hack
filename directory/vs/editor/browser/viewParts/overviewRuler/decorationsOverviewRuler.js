@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../../base/common/color.js';
+import '../../view/viewPart.js';
+import '../../../common/core/position.js';
+import '../../../common/languages.js';
+import '../../../common/core/editorColorRegistry.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/viewModel.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[2850],
 			he([1, 0, 194, 97, 303, 48, 74, 307, 38, 290, 24]),

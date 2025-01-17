@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../constants.js';
+import '../currentScopes.js';
+import '../semanticAttributes.js';
+import '../utils/hasTracingEnabled.js';
+import '../utils/spanUtils.js';
 define(
 			de[639],
 			he([1, 0, 80, 879, 234, 453, 638, 301]),

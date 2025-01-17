@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/terminal/common/terminal.js';
+import './terminalIcon.js';
+import './terminalIcons.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../common/terminal.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/path.js';
+import '../../../../platform/notification/common/notification.js';
 define(
 			de[3169],
 			he([1, 0, 14, 10, 63, 117, 514, 689, 4, 35, 26, 145, 79, 54, 40]),

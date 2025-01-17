@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/utils.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './multiDiffSourceResolverService.js';
+import '../../scm/common/scm.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[1801],
 			he([1, 0, 3, 77, 457, 9, 4, 11, 5, 800, 258, 18]),

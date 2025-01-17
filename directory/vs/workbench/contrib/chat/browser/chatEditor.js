@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/editor/editorPane.js';
+import '../../../common/memento.js';
+import './actions/chatClear.js';
+import './chatEditorInput.js';
+import './chatWidget.js';
+import '../common/chatAgents.js';
+import '../common/chatParticipantContribTypes.js';
 define(
 			de[4065],
 			he([1, 0, 8, 5, 128, 21, 32, 51, 35, 217, 282, 1288, 552, 481, 153, 981]),

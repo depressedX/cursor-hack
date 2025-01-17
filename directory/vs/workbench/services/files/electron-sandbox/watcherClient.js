@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/parts/ipc/common/ipc.js';
+import '../../../../platform/files/common/watcher.js';
 define(de[3383], he([1, 0, 305, 938]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Vcd = void 0);

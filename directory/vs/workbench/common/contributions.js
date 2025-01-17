@@ -1,3 +1,15 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../platform/instantiation/common/instantiation.js';
+import '../services/lifecycle/common/lifecycle.js';
+import '../../platform/registry/common/platform.js';
+import '../../base/common/async.js';
+import '../../base/common/performance.js';
+import '../../platform/log/common/log.js';
+import '../../platform/environment/common/environment.js';
+import '../../base/common/map.js';
+import '../../base/common/lifecycle.js';
+import '../services/editor/common/editorPaneService.js';
 define(
 			de[55],
 			he([1, 0, 5, 52, 30, 15, 240, 34, 113, 59, 3, 1798]),

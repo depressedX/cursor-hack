@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/async.js';
+import '../../../common/lifecycle.js';
+import '../../../common/scrollable.js';
 define(de[2676], he([1, 0, 15, 3, 195]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Yhb = void 0);

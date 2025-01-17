@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../common/services/markerDecorations.js';
+import '../editorExtensions.js';
 define(de[2796], he([1, 0, 496, 46]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$dub = void 0);

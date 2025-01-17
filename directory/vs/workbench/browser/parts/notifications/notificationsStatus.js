@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/notifications.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../../base/common/lifecycle.js';
+import './notificationsCommands.js';
+import '../../../../nls.js';
+import '../../../../platform/notification/common/notification.js';
 define(
 			de[3623],
 			he([1, 0, 610, 166, 3, 682, 4, 40]),

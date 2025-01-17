@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../aichat/browser/chatDataService.js';
+import '../markdownData.js';
 define(de[3921], he([1, 0, 2, 337, 236]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$_0b = void 0);

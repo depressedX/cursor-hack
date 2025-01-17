@@ -1,3 +1,30 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/cancellation.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../base/common/event.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/numbers.js';
+import '../../../../../../base/common/strings.js';
+import '../../../../../../editor/common/config/editorOptions.js';
+import '../../../../../../editor/common/languages/language.js';
+import '../../../../../../editor/common/languages/textToHtmlTokenizer.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../../platform/opener/common/opener.js';
+import '../../notebookBrowser.js';
+import './cellEditorOptions.js';
+import './cellOutput.js';
+import './codeCellExecutionIcon.js';
+import '../../viewModel/codeCellViewModel.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../../../../editor/contrib/wordHighlighter/browser/wordHighlighter.js';
+import '../../../../../../editor/contrib/codeAction/browser/codeActionController.js';
 define(
 			de[4096],
 			he([

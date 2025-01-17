@@ -1,3 +1,35 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../aichat/browser/utils.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/browser/dom.js';
+import '../hooks/useAutoVerticalScroll.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../../../base/common/uuid.js';
+import '../utils.js';
+import '../hooks/useComposerDataHandle.js';
+import '../../../ui/browser/badge/badge.js';
+import '../../../../../base/common/fuzzyScorer.js';
+import '../../../ui/browser/highlightedLabel/HighlightedLabel.js';
+import '../../../../../platform/tracing/common/tracing.js';
+import '../hooks/useComposerChatStatus.js';
+import './ComposerGeneralStatusIndicator.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../ui/browser/hooks/useKeyboardShortcut.js';
+import '../constants.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/components/ComposerHistory.js';
 define(
 			de[4278],
 			he([

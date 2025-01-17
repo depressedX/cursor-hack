@@ -1,3 +1,9 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/fastDomNode.js';
+import '../cellPart.js';
+import '../../../common/notebookCommon.js';
 define(de[3474], he([1, 0, 7, 194, 294, 70]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

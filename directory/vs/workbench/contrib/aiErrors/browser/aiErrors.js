@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import './entrypoint.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/aiErrors/browser/aiErrorService.js';
+import '../../../services/aiErrors/browser/errors.js';
 define(
 			de[4255],
 			he([1, 0, 3, 30, 4254, 55, 52, 401, 1286]),

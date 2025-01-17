@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './chatService.js';
 define(de[3013], he([1, 0, 31, 32, 218]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$WIc = void 0);

@@ -1,3 +1,16 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../platform/registry/common/platform.js';
+import '../../nls.js';
+import '../../platform/configuration/common/configurationRegistry.js';
+import '../../base/common/platform.js';
+import '../common/configuration.js';
+import '../../base/browser/browser.js';
+import '../../base/common/constants.js';
+import '../common/contributions.js';
+import '../services/layout/browser/layoutService.js';
+import './parts/titlebar/windowTitle.js';
+import '../services/editor/common/customEditorLabelService.js';
 define(
 			de[1905],
 			he([1, 0, 30, 4, 81, 12, 224, 139, 58, 55, 96, 1327, 399]),

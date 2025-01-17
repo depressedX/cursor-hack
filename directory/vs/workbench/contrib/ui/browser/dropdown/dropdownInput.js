@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../menu/hooks.js';
+import '../menu/menu.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/fuzzyScorer.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../highlightedLabel/HighlightedLabel.js';
+import '../../../../../base/common/platform.js';
+import '../../../controlCommon/browser/solid.js';
+import './utils.js';
 define(
 			de[1979],
 			he([

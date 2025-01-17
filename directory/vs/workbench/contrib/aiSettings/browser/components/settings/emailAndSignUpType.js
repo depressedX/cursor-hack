@@ -1,3 +1,12 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import './hooks.js';
+import '../../../../../services/cursorAuth/browser/authenticationService.js';
 define(
 			de[4137],
 			he([1, 0, 2, 2, 2, 2, 13, 722, 232]),

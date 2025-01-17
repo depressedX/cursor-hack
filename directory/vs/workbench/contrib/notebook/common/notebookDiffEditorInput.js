@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorModel.js';
+import '../../../common/editor/diffEditorInput.js';
+import './notebookEditorInput.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[1305],
 			he([1, 0, 44, 416, 296, 360, 18]),

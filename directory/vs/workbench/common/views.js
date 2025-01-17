@@ -1,3 +1,14 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/event.js';
+import '../../nls.js';
+import '../../platform/instantiation/common/instantiation.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/map.js';
+import '../../platform/registry/common/platform.js';
+import '../../base/common/objects.js';
+import '../../base/common/codicons.js';
+import '../../platform/theme/common/iconRegistry.js';
 define(
 			de[60],
 			he([1, 0, 6, 4, 5, 3, 59, 30, 82, 14, 79]),

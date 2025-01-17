@@ -1,3 +1,11 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../common/contributions.js';
+import '../../../../chat/common/chatAgents.js';
+import './notebookChatContext.js';
+import './cellChatActions.js';
 define(
 			de[4087],
 			he([1, 0, 3, 8, 55, 153, 688, 4086]),

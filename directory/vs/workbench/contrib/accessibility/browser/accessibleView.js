@@ -1,3 +1,44 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marked/marked.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/standaloneStrings.js';
+import '../../../../editor/contrib/codeAction/browser/codeActionController.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/keybinding/common/keybindingResolver.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/storage/common/storage.js';
+import './accessibilityConfiguration.js';
+import './accessibleViewKeybindingResolver.js';
+import '../common/accessibilityCommands.js';
+import '../../chat/browser/chat.js';
+import '../../codeEditor/browser/simpleEditorOptions.js';
 define(
 			de[3761],
 			he([

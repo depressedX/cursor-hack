@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/cursorEvents.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/editorCommon.js';
+import '../../../common/model/textModel.js';
+import './dragAndDropCommand.js';
+import '../../../../css!vs/editor/contrib/dnd/browser/dnd.js';
 define(
 			de[1687],
 			he([1, 0, 27, 3, 12, 56, 46, 38, 248, 48, 17, 104, 98, 122, 2582, 2293]),

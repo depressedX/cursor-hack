@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './terminal.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './terminalInstance.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/event.js';
+import '../common/terminalContextKey.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../base/common/async.js';
 define(
 			de[4373],
 			he([1, 0, 107, 20, 3, 117, 5, 1074, 8, 6, 237, 30, 78, 15]),

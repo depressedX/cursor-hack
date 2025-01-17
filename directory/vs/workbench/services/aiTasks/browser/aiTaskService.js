@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../ai/browser/toolformerService.js';
+import '../../../../base/common/result.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../base/common/uuid.js';
+import '../../ai/browser/aiService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../external/bufbuild/connect.js';
+import '../../aiErrors/browser/aiErrorService.js';
+import '../../../../base/common/map.js';
+import './aiTaskServiceInterface.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../ai/browser/utils.js';
+import '../../../../base/browser/externalTypes.js';
 define(
 			de[3998],
 			he([

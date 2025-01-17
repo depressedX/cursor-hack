@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/idGenerator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/uint.js';
+import '../../../common/core/range.js';
+import '../../../../nls.js';
 define(
 			de[541],
 			he([1, 0, 29, 6, 584, 3, 59, 19, 37, 210, 17, 4]),

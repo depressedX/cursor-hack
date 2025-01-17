@@ -1,3 +1,21 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/event.js';
+import '../../contextkey/common/contextkey.js';
+import '../../instantiation/common/instantiation.js';
+import '../../layout/browser/layoutService.js';
+import '../../opener/common/opener.js';
+import './quickAccess.js';
+import '../../theme/browser/defaultStyles.js';
+import '../../theme/common/colorRegistry.js';
+import '../../theme/common/themeService.js';
+import './quickInput.js';
+import './quickInputController.js';
+import '../../commands/common/commands.js';
+import '../../../base/common/constants.js';
+import '../../configuration/common/configuration.js';
+import '../../../base/browser/dom.js';
 define(
 			de[2868],
 			he([

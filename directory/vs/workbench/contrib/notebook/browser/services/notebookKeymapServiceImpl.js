@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../extensions/common/extensionsUtils.js';
+import '../../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../../services/lifecycle/common/lifecycle.js';
+import '../../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../common/memento.js';
+import '../../../../../base/common/arrays.js';
 define(
 			de[3433],
 			he([1, 0, 29, 6, 3, 4, 5, 40, 1829, 157, 52, 119, 154, 21, 282, 24]),

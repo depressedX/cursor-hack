@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/severity.js';
+import '../../../nls.js';
+import '../../../base/common/semver/semver.js';
+import './extensions.js';
+import './extensionsApiProposals.js';
 define(
 		de[772],
 		he([1, 0, 19, 111, 4, 464, 109, 1179]),

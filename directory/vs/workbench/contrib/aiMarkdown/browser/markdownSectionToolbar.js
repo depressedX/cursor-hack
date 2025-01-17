@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import './useMarkdownHover.js';
+import '../../controlCommon/browser/solid.js';
+import '../../ui/browser/hooks/useThemeHooks.js';
+import '../../utils/browser/copyToClipboard.js';
 define(
 			de[4127],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 14, 26, 694, 36, 331, 1008]),

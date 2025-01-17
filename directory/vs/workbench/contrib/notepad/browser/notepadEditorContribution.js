@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import './notepadEditorInput.js';
+import './notepadEditor.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../common/editor.js';
+import '../../../common/views.js';
+import '../../files/browser/explorerViewlet.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../nls.js';
+import '../../../../base/common/codicons.js';
+import './notepadPane.js';
+import './constants.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[4330],
 			he([

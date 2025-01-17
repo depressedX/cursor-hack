@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/ports.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/product/common/productService.js';
+import '../common/runtimeExtensionsInput.js';
+import './runtimeExtensionsEditor.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/extensions/common/extensionHostKind.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/extensions/electron-sandbox/extensionHostProfiler.js';
+import '../../../services/statusbar/browser/statusbar.js';
 define(
 			de[3631],
 			he([

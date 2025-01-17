@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/uri.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../base/common/event.js';
+import '../../lifecycle/common/lifecycle.js';
 define(
 			de[359],
 			he([1, 0, 5, 3, 20, 25, 9, 126, 6, 52]),

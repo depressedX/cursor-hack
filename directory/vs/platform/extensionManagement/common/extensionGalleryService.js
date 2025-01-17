@@ -1,3 +1,30 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/process.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/uuid.js';
+import '../../../base/parts/request/common/request.js';
+import '../../configuration/common/configuration.js';
+import '../../environment/common/environment.js';
+import './extensionManagement.js';
+import './extensionManagementUtil.js';
+import '../../externalServices/common/marketplace.js';
+import '../../extensions/common/extensions.js';
+import '../../extensions/common/extensionValidator.js';
+import '../../files/common/files.js';
+import '../../log/common/log.js';
+import '../../product/common/product.js';
+import '../../product/common/productService.js';
+import '../../request/common/request.js';
+import '../../storage/common/storage.js';
+import '../../telemetry/common/telemetry.js';
+import '../../../base/common/semver/semver.js';
+import '../../../base/common/stopwatch.js';
 define(
 		de[782],
 		he([

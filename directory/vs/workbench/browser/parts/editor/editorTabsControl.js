@@ -1,3 +1,41 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dnd.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/mouseEvent.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../dnd.js';
+import './editorPane.js';
+import '../../../common/editor.js';
+import '../../../common/contextkeys.js';
+import '../../../../base/browser/ui/contextview/contextview.js';
+import '../../../../base/common/types.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/common/errors.js';
+import '../../../common/editor/sideBySideEditorInput.js';
+import '../../../../platform/actions/browser/toolbar.js';
+import '../../../../platform/dnd/browser/dnd.js';
+import '../../../services/editor/common/editorResolverService.js';
+import './editorCommands.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../base/common/platform.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../css!vs/workbench/browser/parts/editor/media/editortabscontrol.js';
 define(
 			de[1055],
 			he([

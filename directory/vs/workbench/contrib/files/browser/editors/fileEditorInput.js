@@ -1,3 +1,24 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../common/editor.js';
+import '../../../../common/editor/textResourceEditorInput.js';
+import '../../../../common/editor/binaryEditorModel.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../services/textfile/common/textfiles.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../common/files.js';
+import '../../../../../platform/label/common/label.js';
+import '../../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/network.js';
+import '../../../../../editor/common/model/textModel.js';
+import '../../../../services/path/common/pathService.js';
+import '../../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../services/editor/common/customEditorLabelService.js';
 define(
 			de[844],
 			he([

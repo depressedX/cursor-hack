@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../highlightedlabel/highlightedLabel.js';
+import '../../../common/lifecycle.js';
+import '../../../common/objects.js';
+import '../../../common/range.js';
+import '../hover/hoverDelegateFactory.js';
+import '../hover/hoverDelegate2.js';
+import '../../../common/types.js';
+import '../../../common/iconLabels.js';
+import '../../../../css!vs/base/browser/ui/iconLabel/iconlabel.js';
 define(
 			de[325],
 			he([1, 0, 7, 410, 3, 82, 902, 95, 317, 28, 274, 2240]),

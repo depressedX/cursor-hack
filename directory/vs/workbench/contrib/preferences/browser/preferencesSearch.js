@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/filters.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import '../common/preferences.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../services/aiRelatedInformation/common/aiRelatedInformation.js';
+import '../../../../base/common/tfIdf.js';
+import '../../../services/preferences/common/preferencesModels.js';
 define(
 			de[3539],
 			he([

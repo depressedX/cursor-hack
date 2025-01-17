@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../utils/api.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import '../utils/polymorphic.js';
+import '../utils/create-tag-name.js';
+import './is-button.js';
 define(
 			de[2625],
 			he([1, 0, 2, 2, 115, 115, 13, 494, 1161, 2177]),

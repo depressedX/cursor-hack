@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/mouseCursor/mouseCursor.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marshallingIds.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import './commentFormActions.js';
+import './commentService.js';
+import '../common/commentContextKeys.js';
+import './simpleCommentEditor.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[1323],
 			he([

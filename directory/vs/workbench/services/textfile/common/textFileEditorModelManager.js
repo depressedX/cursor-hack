@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/uri.js';
+import './textFileEditorModel.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import './textFileSaveParticipant.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../workingCopy/common/workingCopyFileService.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[3905],
 			he([

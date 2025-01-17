@@ -1,3 +1,7 @@
+import '../../require.js';
+import '../../exports.js';
+import '../solid/web.js';
+import './create-pointer-sensor.js';
 define(de[2162], he([1, 0, 2, 2161]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

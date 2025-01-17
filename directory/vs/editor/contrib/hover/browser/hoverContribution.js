@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './hoverActions.js';
+import '../../../browser/editorExtensions.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import './hoverTypes.js';
+import './markdownHoverParticipant.js';
+import './markerHoverParticipant.js';
+import './contentHoverController2.js';
+import './marginHoverController.js';
+import '../../../../platform/accessibility/browser/accessibleViewRegistry.js';
+import './hoverAccessibleViews.js';
+import '../../../../css!vs/editor/contrib/hover/browser/hover.js';
 define(
 			de[4115],
 			he([1, 0, 3609, 46, 51, 35, 368, 820, 4114, 448, 603, 412, 3608, 905]),

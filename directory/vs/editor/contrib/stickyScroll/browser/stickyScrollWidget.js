@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/trustedTypes.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/themables.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/viewParts/lines/viewLine.js';
+import '../../../browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/stringBuilder.js';
+import '../../../common/viewLayout/lineDecorations.js';
+import '../../../common/viewLayout/viewLineRenderer.js';
+import '../../folding/browser/foldingDecorations.js';
+import '../../../../css!vs/editor/contrib/stickyScroll/browser/stickyScroll.js';
 define(
 			de[2925],
 			he([

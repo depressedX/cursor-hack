@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/types.js';
+import '../../../nls.js';
+import '../../configuration/common/configurationRegistry.js';
+import '../../extensionManagement/common/extensionManagement.js';
+import '../../instantiation/common/instantiation.js';
+import '../../jsonschemas/common/jsonContributionRegistry.js';
+import '../../registry/common/platform.js';
 define(
 			de[150],
 			he([1, 0, 24, 28, 4, 81, 119, 5, 250, 30]),

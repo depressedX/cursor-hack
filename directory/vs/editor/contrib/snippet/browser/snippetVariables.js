@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/labels.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/uuid.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import './snippetParser.js';
+import '../../../../nls.js';
+import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[1672],
 			he([1, 0, 222, 54, 19, 37, 47, 152, 389, 4, 25]),

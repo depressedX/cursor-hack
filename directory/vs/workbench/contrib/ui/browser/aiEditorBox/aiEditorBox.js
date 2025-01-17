@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../../external/solid/store.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/contrib/suggest/browser/suggest.js';
+import '../../../controlCommon/browser/solid.js';
+import './aiEditorCodeBlock.js';
+import '../aiInput/plugins/recognizers.js';
+import '../../../../services/selectedContext/browser/selectedContextData.js';
+import '../../../../../editor/common/core/range.js';
+import '../hooks/useAllFilesSearch.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/aiEditorBox/aiEditorBox.js';
 define(
 			de[4325],
 			he([

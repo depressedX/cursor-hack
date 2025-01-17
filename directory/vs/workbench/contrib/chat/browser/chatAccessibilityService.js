@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/accessibilitySignal/browser/progressAccessibilitySignalScheduler.js';
+import '../../../../base/browser/markdownRenderer.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
 define(
 			de[3549],
 			he([1, 0, 127, 3, 184, 5, 1650, 267, 94, 10, 130]),

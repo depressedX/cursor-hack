@@ -1,3 +1,26 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../protobuf.js';
+import '../code.js';
+import '../connect-error.js';
+import '../implementation.js';
+import './content-type.js';
+import './end-stream.js';
+import './error-json.js';
+import './headers.js';
+import './http-status.js';
+import './parse-timeout.js';
+import './query-params.js';
+import './trailer-mux.js';
+import './version.js';
+import '../protocol/compression.js';
+import '../protocol/serialization.js';
+import '../protocol/universal-handler.js';
+import '../protocol/universal.js';
+import '../protocol/async-iterable.js';
+import '../protocol/content-type-matcher.js';
+import '../protocol/create-method-url.js';
+import '../protocol/invoke-implementation.js';
 define(
 			de[2051],
 			he([

@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/tunnel/common/tunnel.js';
+import './tunnelModel.js';
+import '../../extensions/common/extensionsRegistry.js';
 define(
 			de[519],
 			he([1, 0, 4, 6, 5, 20, 21, 374, 839, 175]),

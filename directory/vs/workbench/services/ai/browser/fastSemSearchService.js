@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/fastsearch_pb.js';
+import '../../../../../proto/aiserver/v1/fastsearch_pb.js';
+import '../../../../../proto/aiserver/v1/fastsearch_connectweb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../cursorAuth/browser/authenticationService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './cursorCredsService.js';
+import '../../../../platform/product/common/productService.js';
+import '../../editor/common/editorGroupsService.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../editor/common/editorService.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/cancellation.js';
+import './fastContextService.js';
+import '../../../../editor/common/core/range.js';
+import './backendClient.js';
 define(
 			de[3643],
 			he([

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../common/workbenchThemeService.js';
+import '../common/themeConfiguration.js';
+import '../../../../base/common/platform.js';
 define(
 			de[3730],
 			he([1, 0, 4, 30, 81, 333, 1891, 12]),

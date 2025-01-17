@@ -1,3 +1,19 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../platform/markers/common/markers.js';
+import '../../../base/common/lifecycle.js';
+import '../model.js';
+import '../model/intervalTree.js';
+import '../../../platform/theme/common/themeService.js';
+import '../core/editorColorRegistry.js';
+import './model.js';
+import '../core/range.js';
+import '../../../base/common/network.js';
+import '../../../base/common/event.js';
+import '../../../platform/theme/common/colorRegistry.js';
+import '../../../base/common/constants.js';
+import '../../../base/common/map.js';
+import '../../../base/common/collections.js';
 define(
 			de[2855],
 			he([1, 0, 90, 3, 64, 946, 35, 307, 67, 17, 23, 6, 51, 58, 59, 456]),

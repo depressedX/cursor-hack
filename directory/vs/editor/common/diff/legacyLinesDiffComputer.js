@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/diff/diff.js';
+import './linesDiffComputer.js';
+import './rangeMapping.js';
+import '../../../base/common/strings.js';
+import '../core/range.js';
+import '../../../base/common/assert.js';
+import '../core/lineRange.js';
 define(
 			de[1533],
 			he([1, 0, 120, 745, 1147, 342, 37, 17, 229, 196]),

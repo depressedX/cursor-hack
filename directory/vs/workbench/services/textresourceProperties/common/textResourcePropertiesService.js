@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../remote/common/remoteAgentService.js';
 define(
 			de[3708],
 			he([1, 0, 10, 125, 12, 23, 21, 78, 20, 143]),

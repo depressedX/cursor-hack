@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../css!vs/editor/contrib/cHintLine/browser/hintLineWidget.js';
 define(
 			de[499],
 			he([1, 0, 7, 159, 58, 6, 3, 56, 71, 8, 39, 30, 51, 35, 10, 2287]),

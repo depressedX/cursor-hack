@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../scrollbar/scrollableElement.js';
+import '../../../common/arrays.js';
+import '../../../common/themables.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/scrollable.js';
+import '../../../../css!vs/base/browser/ui/breadcrumbs/breadcrumbsWidget.js';
 define(
 			de[2681],
 			he([1, 0, 7, 203, 24, 26, 6, 3, 195, 2232]),

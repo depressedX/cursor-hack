@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../services/textfile/common/textfiles.js';
 define(
 			de[3680],
 			he([1, 0, 6, 3, 19, 42, 85]),

@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../base/common/event.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../base/common/result.js';
 define(
 			de[3242],
 			he([1, 0, 3, 42, 25, 6, 90, 19, 83, 529]),

@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/arrays.js';
+import '../../../common/editor.js';
+import '../../../common/editor/sideBySideEditorInput.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../services/history/common/history.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/commands/common/commands.js';
+import './editorCommands.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import './editorQuickAccess.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../services/editor/common/editorResolverService.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../common/contextkeys.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/progress/common/progress.js';
+import './editorCommandsContext.js';
+import '../../../../platform/list/browser/listService.js';
 define(
 			de[1340],
 			he([

@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import './debug.js';
+import './debugContext.js';
+import './debugModel.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[1039],
 			he([1, 0, 3, 28, 8, 109, 5, 34, 112, 1730, 300, 53, 175]),

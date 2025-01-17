@@ -1,3 +1,25 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/actions.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/network.js';
+import '../../../base/common/severity.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../platform/notification/common/notification.js';
+import '../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/extensions/common/extensions.js';
+import '../../services/environment/common/environmentService.js';
+import '../../services/extensionManagement/common/extensionManagement.js';
+import '../../services/extensions/common/extensionHostKind.js';
+import '../../services/extensions/common/extensions.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/host/browser/host.js';
+import '../../services/timer/browser/timerService.js';
 define(
 		de[3731],
 		he([

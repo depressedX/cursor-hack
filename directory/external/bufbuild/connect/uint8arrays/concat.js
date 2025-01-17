@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './alloc.js';
+import './util/as-uint8array.js';
 define(de[2024], he([1, 0, 1394, 2023]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.concat = w);

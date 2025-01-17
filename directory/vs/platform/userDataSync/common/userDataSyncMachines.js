@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/strings.js';
+import '../../../nls.js';
+import '../../environment/common/environment.js';
+import '../../files/common/files.js';
+import '../../instantiation/common/instantiation.js';
+import '../../product/common/productService.js';
+import '../../externalServices/common/serviceMachineId.js';
+import '../../storage/common/storage.js';
+import './userDataSync.js';
 define(
 			de[965],
 			he([1, 0, 6, 3, 12, 37, 4, 113, 22, 5, 62, 678, 21, 150]),

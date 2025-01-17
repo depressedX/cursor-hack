@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../../external/solid/solid.js';
+import '../../controlCommon/browser/solid.js';
 define(de[1370], he([1, 0, 2, 13, 13, 36]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$2cc = C);

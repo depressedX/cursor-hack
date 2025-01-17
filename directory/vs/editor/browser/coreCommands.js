@@ -1,3 +1,28 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../nls.js';
+import '../../base/browser/browser.js';
+import '../../base/common/keyCodes.js';
+import '../../base/common/types.js';
+import '../../base/browser/ui/aria/aria.js';
+import './editorExtensions.js';
+import './services/codeEditorService.js';
+import '../common/cursor/cursorColumnSelection.js';
+import '../common/cursorCommon.js';
+import '../common/cursor/cursorDeleteOperations.js';
+import '../common/cursorEvents.js';
+import '../common/cursor/cursorMoveCommands.js';
+import '../common/cursor/cursorTypeOperations.js';
+import '../common/core/position.js';
+import '../common/core/range.js';
+import '../common/editorCommon.js';
+import '../common/editorContextKeys.js';
+import '../common/viewEvents.js';
+import '../../platform/contextkey/common/contextkey.js';
+import '../../platform/keybinding/common/keybindingsRegistry.js';
+import '../common/config/editorOptions.js';
+import '../../base/browser/dom.js';
+import '../common/cursor/cursorTypeEditOperations.js';
 define(
 			de[498],
 			he([

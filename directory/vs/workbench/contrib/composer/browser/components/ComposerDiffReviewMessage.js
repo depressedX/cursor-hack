@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import './ComposerDiffReviewPure.js';
+import '../../../../../base/common/types.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../hooks/useComposerDataHandle.js';
+import './ComposerToolbarSimpleButton.js';
 define(
 			de[4282],
 			he([1, 0, 2, 2, 2, 13, 36, 167, 4281, 28, 41, 177, 485]),

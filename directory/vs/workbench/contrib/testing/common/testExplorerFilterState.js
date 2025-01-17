@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import './observableValue.js';
+import './storedValue.js';
+import './testTypes.js';
 define(
 			de[1001],
 			he([1, 0, 6, 215, 3, 5, 21, 810, 515, 185]),

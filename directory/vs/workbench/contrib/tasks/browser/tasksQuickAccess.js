@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../../base/common/filters.js';
+import '../../../services/extensions/common/extensions.js';
+import '../common/taskService.js';
+import '../common/tasks.js';
+import './taskQuickPick.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 			de[3330],
 			he([1, 0, 4, 63, 392, 132, 53, 419, 424, 1815, 10, 28, 40, 57, 35, 21]),

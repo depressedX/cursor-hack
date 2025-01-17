@@ -1,3 +1,21 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/collections.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/log/common/log.js';
+import './mainThreadNotebookDocuments.js';
+import './mainThreadNotebookDto.js';
+import './mainThreadNotebookEditors.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/editor/common/editorGroupColumn.js';
+import '../../contrib/notebook/browser/notebookBrowser.js';
+import '../../contrib/notebook/browser/services/notebookEditorService.js';
+import '../../contrib/notebook/common/notebookService.js';
+import '../../services/editor/common/editorGroupsService.js';
+import '../../services/editor/common/editorService.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/proxyIdentifier.js';
 define(
 			de[3901],
 			he([

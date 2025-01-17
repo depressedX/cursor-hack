@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../tracing/dynamicSamplingContext.js';
+import './spanUtils.js';
 define(de[1450], he([1, 0, 80, 639, 301]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

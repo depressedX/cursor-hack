@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../protobuf.js';
+import './connect-error.js';
+import './code.js';
+import './any-client.js';
+import './protocol/async-iterable.js';
 define(
 			de[2044],
 			he([1, 0, 86, 213, 202, 1077, 575]),

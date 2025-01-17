@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import './InputBoxSelectionPin.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/hooks/useThemeHooks.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/InputBox.js';
 define(
 			de[4143],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 4142, 36, 331, 2377]),

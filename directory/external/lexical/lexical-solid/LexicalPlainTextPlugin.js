@@ -1,3 +1,13 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../solid/web.js';
+import '../../solid/web.js';
+import './LexicalComposerContext.js';
+import './useLexicalEditable.js';
+import './shared/useCanShowPlaceholder.js';
+import './shared/useDecorators.js';
+import './shared/usePlainTextSetup.js';
+import '../../solid/solid.js';
 define(
 			de[1160],
 			he([1, 0, 2, 2, 181, 2156, 2607, 2158, 2613, 13]),

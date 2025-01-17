@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../base/common/strings.js';
+import '../../../browser/editorDom.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/model/textModel.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../common/services/languageFeatures.js';
+import './color.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[785],
 			he([

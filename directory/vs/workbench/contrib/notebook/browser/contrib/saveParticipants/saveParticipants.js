@@ -1,3 +1,35 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/hierarchicalKind.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/resources.js';
+import '../../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../../editor/common/commands/trimTrailingWhitespaceCommand.js';
+import '../../../../../../editor/common/core/position.js';
+import '../../../../../../editor/common/core/range.js';
+import '../../../../../../editor/common/languages.js';
+import '../../../../../../editor/common/services/editorWorker.js';
+import '../../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../../editor/common/services/resolverService.js';
+import '../../../../../../editor/contrib/codeAction/browser/codeAction.js';
+import '../../../../../../editor/contrib/codeAction/common/types.js';
+import '../../../../../../editor/contrib/format/browser/format.js';
+import '../../../../../../editor/contrib/snippet/browser/snippetController2.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/log/common/log.js';
+import '../../../../../../platform/registry/common/platform.js';
+import '../../../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../../../common/contributions.js';
+import '../../../../../common/editor.js';
+import '../../notebookBrowser.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookEditorModel.js';
+import '../../../../../services/editor/common/editorService.js';
+import '../../../../../services/lifecycle/common/lifecycle.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../services/workingCopy/common/workingCopyFileService.js';
 define(
 			de[1926],
 			he([

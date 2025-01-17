@@ -1,3 +1,29 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/marshalling.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/themables.js';
+import '../../../base/common/uri.js';
+import '../../../editor/common/core/range.js';
+import '../../../editor/common/core/wordHelper.js';
+import '../../../editor/common/languages.js';
+import '../../../editor/common/services/languageFeatures.js';
+import '../../../platform/extensions/common/extensions.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/log/common/log.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/chat/browser/chat.js';
+import '../../contrib/chat/browser/chatInputPart.js';
+import '../../contrib/chat/browser/contrib/chatDynamicVariables.js';
+import '../../contrib/chat/common/chatAgents.js';
+import '../../contrib/chat/common/chatParserTypes.js';
+import '../../contrib/chat/common/chatRequestParser.js';
+import '../../contrib/chat/common/chatService.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/extensions/common/extensions.js';
 define(
 			de[4069],
 			he([

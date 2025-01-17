@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/equals.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/derived.js';
+import '../../../browser/observableCodeEditor.js';
+import '../../../common/config/editorOptions.js';
 define(
 			de[1185],
 			he([1, 0, 7, 433, 3, 77, 319, 542, 38]),

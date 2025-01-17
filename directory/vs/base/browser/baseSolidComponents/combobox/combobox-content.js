@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import '../dismissable-layer/api.js';
+import '../popper/api.js';
+import '../utils/api.js';
+import './combobox-context.js';
 define(
 			de[2671],
 			he([1, 0, 2, 2, 2, 115, 13, 2629, 1164, 115, 486]),

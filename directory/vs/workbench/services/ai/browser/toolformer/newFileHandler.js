@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../textfile/common/textfiles.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../magicLink/browser/magicLinkService.js';
+import '../../../../../platform/files/common/files.js';
 define(
 			de[3970],
 			he([1, 0, 124, 85, 25, 42, 241, 22]),

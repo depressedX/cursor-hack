@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './headers.js';
+import './query-params.js';
+import '../connect-error.js';
+import '../code.js';
 define(
 			de[1080],
 			he([1, 0, 574, 1389, 213, 202]),

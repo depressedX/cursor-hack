@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/contrib/gotoSymbol/browser/peek/referencesController.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/storage/common/storage.js';
 define(
 			de[3613],
 			he([1, 0, 46, 65, 840, 10, 8, 5, 40, 21]),

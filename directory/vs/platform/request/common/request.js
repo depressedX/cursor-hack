@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/lifecycle.js';
+import '../../../nls.js';
+import '../../configuration/common/configurationRegistry.js';
+import '../../instantiation/common/instantiation.js';
+import '../../log/common/log.js';
+import '../../registry/common/platform.js';
 define(
 			de[327],
 			he([1, 0, 76, 29, 3, 4, 81, 5, 34, 30]),

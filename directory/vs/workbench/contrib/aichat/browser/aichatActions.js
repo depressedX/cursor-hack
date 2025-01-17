@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './aichat.js';
+import './chatData.js';
+import '../../../common/contextkeys.js';
+import './aichatService.js';
+import '../../../../base/common/constants.js';
+import '../../../browser/parts/auxiliarybar/auxiliaryBarActions.js';
+import '../../../../nls.js';
+import './chatDataService.js';
+import '../../../../platform/quickinput/browser/commandsQuickAccess.js';
+import '../../../../base/common/uri.js';
+import '../../../services/ai/browser/fastEditService.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/tooltipService/common/tooltipService.js';
+import '../../../../../proto/aiserver/v1/fastapply_pb.js';
 define(
 			de[4408],
 			he([

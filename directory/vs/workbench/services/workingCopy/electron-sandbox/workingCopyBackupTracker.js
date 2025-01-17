@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../common/workingCopyBackup.js';
+import '../../filesConfiguration/common/filesConfigurationService.js';
+import '../common/workingCopyService.js';
+import '../common/workingCopy.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/native/common/native.js';
+import '../common/workingCopyBackupTracker.js';
+import '../../../../platform/log/common/log.js';
+import '../../editor/common/editorService.js';
+import '../../../common/editor.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../base/common/async.js';
+import '../common/workingCopyEditorService.js';
+import '../../editor/common/editorGroupsService.js';
 define(
 			de[3915],
 			he([

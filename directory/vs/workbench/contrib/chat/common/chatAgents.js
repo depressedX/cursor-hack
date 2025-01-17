@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arraysFind.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marshalling.js';
+import '../../../../base/common/observableInternal/base.js';
+import '../../../../base/common/strings.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/request/common/request.js';
+import '../../../../platform/storage/common/storage.js';
+import './chatContextKeys.js';
 define(
 			de[153],
 			he([

@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/common/uri.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/pickerMenu/PickerMenu.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../ui/browser/hooks/useAllFilesSearch.js';
+import '../../../ui/browser/utils.js';
+import '../../../ui/browser/pickerMenu/renderFolderStructurePickerMenuPreview.js';
+import '../../../ui/browser/hooks/useEverythingSearch/useEverythingSearch.js';
+import '../../../ui/browser/hooks/useEverythingSearch/types.js';
 define(
 			de[4324],
 			he([1, 0, 2, 13, 54, 9, 36, 1982, 156, 1996, 476, 860, 1071, 444]),

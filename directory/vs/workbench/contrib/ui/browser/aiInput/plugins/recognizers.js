@@ -1,3 +1,7 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/lexical/lexical/lexical.js';
+import './slashCommands/types.js';
 define(de[817], he([1, 0, 158, 1005]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

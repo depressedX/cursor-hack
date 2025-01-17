@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/strings.js';
+import './languageConfiguration.js';
+import './supports/indentRules.js';
+import '../config/editorOptions.js';
+import './supports/indentationLineProcessor.js';
 define(
 			de[1184],
 			he([1, 0, 37, 532, 912, 38, 1151]),

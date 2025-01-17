@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/buffer.js';
+import '../../../../../base/common/resources.js';
+import './devContainers.js';
+import './openRemoteSsh.js';
+import './otherPython.js';
+import './python.js';
+import './remoteSsh.js';
+import './wsl.js';
+import './basedPyright.js';
+import '../../../../../base/common/semver/semver.js';
 define(
 			de[3516],
 			he([1, 0, 76, 19, 3510, 3511, 3512, 3513, 3514, 3515, 3509, 464]),

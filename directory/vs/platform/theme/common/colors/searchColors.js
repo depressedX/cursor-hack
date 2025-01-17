@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../colorUtils.js';
+import './baseColors.js';
+import './editorColors.js';
 define(
 			de[2830],
 			he([1, 0, 4, 306, 544, 605]),

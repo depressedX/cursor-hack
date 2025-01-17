@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../debug-build.js';
+import '../logger.js';
+import '../stacktrace.js';
 define(de[726], he([1, 0, 577, 527, 725]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

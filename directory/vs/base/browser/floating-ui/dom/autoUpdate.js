@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './utils/getBoundingClientRect.js';
+import './utils/getOverflowAncestors.js';
+import './utils/is.js';
+import '../../dom.js';
 define(
 			de[2663],
 			he([1, 0, 663, 1163, 324, 7]),

@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/buffer.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import './ipc.js';
 define(de[760], he([1, 0, 76, 6, 3, 305]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

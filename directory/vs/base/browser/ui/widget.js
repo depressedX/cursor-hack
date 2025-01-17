@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../dom.js';
+import '../keyboardEvent.js';
+import '../mouseEvent.js';
+import '../touch.js';
+import '../../common/lifecycle.js';
 define(
 			de[235],
 			he([1, 0, 7, 114, 168, 159, 3]),

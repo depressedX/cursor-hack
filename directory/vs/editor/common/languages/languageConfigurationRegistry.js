@@ -1,3 +1,21 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/strings.js';
+import '../core/wordHelper.js';
+import './languageConfiguration.js';
+import './supports/characterPair.js';
+import './supports/electricCharacter.js';
+import './supports/indentRules.js';
+import './supports/onEnter.js';
+import './supports/richEditBrackets.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/configuration/common/configuration.js';
+import './language.js';
+import '../../../platform/instantiation/common/extensions.js';
+import './modesRegistry.js';
+import './supports/languageBracketsConfiguration.js';
 define(
 			de[152],
 			he([

@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/iterator.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/linkedList.js';
+import '../../../base/common/types.js';
+import '../../instantiation/common/instantiation.js';
 define(
 			de[31],
 			he([1, 0, 6, 103, 3, 273, 28, 5]),

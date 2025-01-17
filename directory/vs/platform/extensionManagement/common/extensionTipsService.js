@@ -1,3 +1,20 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/uri.js';
+import '../../files/common/files.js';
+import '../../product/common/productService.js';
+import '../../../base/common/async.js';
+import '../../../base/common/event.js';
+import '../../../base/common/path.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/process.js';
+import './extensionManagementUtil.js';
+import '../../extensionRecommendations/common/extensionRecommendations.js';
+import '../../extensions/common/extensions.js';
+import '../../storage/common/storage.js';
 define(
 			de[2897],
 			he([1, 0, 24, 3, 19, 9, 22, 62, 15, 6, 54, 12, 344, 154, 666, 109, 21]),

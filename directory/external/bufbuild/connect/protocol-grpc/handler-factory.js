@@ -1,3 +1,20 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../implementation.js';
+import '../connect-error.js';
+import '../code.js';
+import './content-type.js';
+import './headers.js';
+import './trailer-status.js';
+import './parse-timeout.js';
+import '../protocol/async-iterable.js';
+import '../protocol/compression.js';
+import '../protocol/content-type-matcher.js';
+import '../protocol/create-method-url.js';
+import '../protocol/invoke-implementation.js';
+import '../protocol/serialization.js';
+import '../protocol/universal-handler.js';
+import '../protocol/universal.js';
 define(
 			de[2053],
 			he([

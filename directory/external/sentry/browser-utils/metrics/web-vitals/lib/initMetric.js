@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../types.js';
+import './generateUniqueID.js';
+import './getActivationStart.js';
+import './getNavigationEntry.js';
 define(
 			de[637],
 			he([1, 0, 366, 2056, 728, 883]),

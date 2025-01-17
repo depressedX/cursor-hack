@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../aiMarkdown/browser/markdown.js';
+import './BugLocationCodeBlock.js';
+import '../../../ui/browser/scrollableDiv.js';
+import './BugBotSimpleButton.js';
+import '../../../../../base/common/codicons.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/hooks/useVSHoverTooltip.js';
+import '../../../../../base/browser/ui/hover/hoverWidget.js';
+import '../utils.js';
+import '../../../ui/browser/ModalComponent.js';
+import '../../../aichat/browser/components/ChatError.js';
+import '../../../../../base/common/themables.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../../../base/common/path.js';
+import '../../../../../css!vs/workbench/contrib/bugbot/browser/components/BugBotEditor.js';
 define(
 			de[4258],
 			he([

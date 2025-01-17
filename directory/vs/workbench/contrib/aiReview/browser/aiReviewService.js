@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../proto/aiserver/v1/review_pb.js';
+import '../../../../../proto/aiserver/v1/review_connectweb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './aiReviewPeekView.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../services/ai/browser/backendClient.js';
+import '../../../services/ai/browser/gitContextService.js';
+import '../../../services/ai/browser/utils.js';
+import '../../../services/editor/common/editorService.js';
+import '../../aichat/browser/chatDataService.js';
+import '../../aichat/browser/aichat.js';
+import '../../../../base/common/buffer.js';
+import '../../../../platform/dialogs/common/dialogs.js';
 define(
 			de[4242],
 			he([

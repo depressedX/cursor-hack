@@ -1,3 +1,19 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/theme/common/themeService.js';
+import '../../../../../../base/common/themables.js';
+import './notebookVisibleCellObserver.js';
+import '../../notebookEditorExtensions.js';
+import '../../notebookEditorWidget.js';
+import '../../notebookIcons.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../common/notebookService.js';
 define(
 			de[1062],
 			he([1, 0, 15, 3, 12, 4, 5, 35, 26, 1742, 330, 856, 284, 70, 190, 161]),

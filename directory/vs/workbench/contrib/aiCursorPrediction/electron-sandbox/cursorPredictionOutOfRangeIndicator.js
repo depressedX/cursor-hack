@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/codicons.js';
+import '../../../../editor/common/config/editorOptions.js';
 define(
 			de[2968],
 			he([1, 0, 3, 56, 7, 26, 14, 38]),

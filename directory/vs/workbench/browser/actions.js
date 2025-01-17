@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/event.js';
+import '../../platform/actions/common/actions.js';
+import '../../platform/contextkey/common/contextkey.js';
+import '../../platform/actions/browser/menuEntryActionViewItem.js';
 define(
 			de[967],
 			he([1, 0, 3, 6, 11, 8, 92]),

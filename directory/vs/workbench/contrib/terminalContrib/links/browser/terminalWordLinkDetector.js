@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../base/common/network.js';
+import '../../../../../platform/product/common/productService.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import './links.js';
+import './terminalLinkHelpers.js';
+import '../../../terminal/common/terminal.js';
 define(
 			de[3171],
 			he([1, 0, 3, 37, 9, 10, 23, 62, 117, 513, 562, 145]),

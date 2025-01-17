@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../hover/hoverDelegateFactory.js';
+import '../toggle/toggle.js';
+import '../../../common/codicons.js';
+import '../../../../nls.js';
 define(de[1581], he([1, 0, 95, 268, 14, 4]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

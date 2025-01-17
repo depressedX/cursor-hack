@@ -1,3 +1,19 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import './ComposerToolCallBlockContainer.js';
+import '../../../../ui/browser/loadingSpinner/loadingSpinner.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../base/common/constants.js';
+import '../../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../../../css!vs/workbench/contrib/composer/browser/components/toolCalls/ComposerLintingToolCallBlock.js';
 define(
 			de[4149],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 792, 295, 36, 58, 270, 2419]),

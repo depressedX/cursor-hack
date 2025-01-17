@@ -1,3 +1,7 @@
+import '../../require.js';
+import '../../exports.js';
+import '../solid/solid.js';
+import './drag-drop-context.js';
 define(de[2161], he([1, 0, 13, 580]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

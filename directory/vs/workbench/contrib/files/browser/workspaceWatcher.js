@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/path.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/telemetry/common/telemetry.js';
 define(
 			de[3388],
 			he([1, 0, 4, 3, 9, 10, 22, 25, 59, 40, 41, 54, 68, 87, 32]),

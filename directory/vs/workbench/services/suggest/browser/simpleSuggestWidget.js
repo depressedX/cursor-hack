@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/list/listWidget.js';
+import '../../../../base/browser/ui/resizable/resizable.js';
+import './simpleSuggestWidgetRenderer.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/numbers.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/contrib/suggest/browser/suggestWidgetStatus.js';
+import '../../../../css!vs/workbench/services/suggest/browser/media/suggest.js';
 define(
 			de[3654],
 			he([1, 0, 7, 278, 930, 3653, 15, 6, 3, 201, 4, 5, 1674, 2540]),

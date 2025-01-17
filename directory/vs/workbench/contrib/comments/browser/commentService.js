@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/cancellation.js';
+import './commentMenus.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../common/commentsConfiguration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/storage/common/storage.js';
+import '../common/commentContextKeys.js';
+import '../../../../platform/log/common/log.js';
+import './commentsModel.js';
+import '../../../../editor/common/services/model.js';
 define(
 			de[447],
 			he([1, 0, 5, 6, 3, 17, 33, 3028, 96, 10, 791, 8, 21, 505, 34, 983, 67]),

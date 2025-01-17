@@ -1,3 +1,21 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
+import './lexical.js';
 define(
 			de[164],
 			he([

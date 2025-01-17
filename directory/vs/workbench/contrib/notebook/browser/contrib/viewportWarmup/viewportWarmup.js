@@ -1,3 +1,14 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../platform/accessibility/common/accessibility.js';
+import '../../notebookBrowser.js';
+import '../../notebookEditorExtensions.js';
+import '../../viewModel/codeCellViewModel.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookRange.js';
+import '../../../common/notebookService.js';
 define(
 			de[4093],
 			he([1, 0, 15, 3, 91, 108, 330, 482, 70, 442, 161]),

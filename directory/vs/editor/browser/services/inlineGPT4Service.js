@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../common/core/range.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/instantiation/common/extensions.js';
+import '../../common/services/resolverService.js';
+import '../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../platform/undoRedo/common/undoRedo.js';
+import '../../common/core/position.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import './genericUndoRedoElement.js';
 define(
 			de[2874],
 			he([1, 0, 5, 17, 3, 20, 42, 45, 155, 48, 8, 606]),

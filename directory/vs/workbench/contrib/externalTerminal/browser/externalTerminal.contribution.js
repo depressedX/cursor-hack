@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../terminal/browser/terminal.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/files/common/files.js';
+import '../../files/browser/files.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/arrays.js';
+import '../../../services/remote/common/remoteAgentService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/contributions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/path.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/externalTerminal/common/externalTerminal.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/editor/common/editorGroupsService.js';
 define(
 			de[3688],
 			he([

@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../instantiation/common/instantiation.js';
+import '../common/quickAccess.js';
+import '../common/quickInput.js';
+import '../../registry/common/platform.js';
 define(
 			de[1636],
 			he([1, 0, 15, 33, 6, 3, 5, 348, 63, 30]),

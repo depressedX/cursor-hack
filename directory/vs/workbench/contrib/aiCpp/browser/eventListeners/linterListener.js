@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../cppEventLogger.js';
+import '../cppDebouncingService.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/instantiation/common/extensions.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../services/ai/browser/aiMiscServices.js';
+import '../../../../../base/common/map.js';
+import '../../../../../platform/markers/browser/markerService.js';
 define(
 			de[1789],
 			he([1, 0, 90, 332, 551, 83, 5, 20, 67, 137, 59, 770]),

@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/button/button.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../nls.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/list/browser/listService.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/product/common/productService.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../browser/labels.js';
+import '../../../../browser/web.api.js';
+import './chatCollections.js';
+import '../../common/chatService.js';
+import '../../common/chatVariables.js';
+import '../../../files/browser/views/explorerView.js';
+import '../../../../services/preferences/common/preferences.js';
 define(
 			de[1946],
 			he([

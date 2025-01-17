@@ -1,3 +1,28 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uri.js';
+import '../../../editor/common/core/range.js';
+import '../../../editor/common/languages.js';
+import '../../../platform/registry/common/platform.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../contrib/comments/browser/commentService.js';
+import '../../contrib/comments/browser/commentsView.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/comments/browser/commentsTreeViewer.js';
+import '../../common/views.js';
+import '../../../platform/instantiation/common/descriptors.js';
+import '../../browser/parts/views/viewPaneContainer.js';
+import '../../../base/common/codicons.js';
+import '../../../platform/theme/common/iconRegistry.js';
+import '../../../nls.js';
+import '../../../base/common/marshallingIds.js';
+import '../../../base/common/network.js';
+import '../../services/views/common/viewsService.js';
+import '../../contrib/comments/browser/commentsController.js';
+import '../../services/editor/common/editorService.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[4015],
 			he([

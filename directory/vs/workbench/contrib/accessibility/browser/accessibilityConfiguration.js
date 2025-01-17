@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/configuration.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../speech/common/speechService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/product/common/productService.js';
 define(
 			de[130],
 			he([1, 0, 4, 81, 30, 8, 224, 184, 511, 3, 6, 28, 62]),

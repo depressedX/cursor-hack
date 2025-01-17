@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/utils.js';
+import '../../../../base/common/uint.js';
+import './components/diffEditorViewZones/diffEditorViewZones.js';
+import '../../../common/config/diffEditor.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../platform/accessibility/common/accessibility.js';
 define(
 			de[1680],
 			he([1, 0, 77, 457, 210, 1216, 1525, 38, 91]),

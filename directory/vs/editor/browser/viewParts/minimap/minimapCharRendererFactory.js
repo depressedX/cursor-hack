@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './minimapCharRenderer.js';
+import './minimapCharSheet.js';
+import './minimapPreBaked.js';
+import '../../../../base/common/uint.js';
 define(
 			de[2547],
 			he([1, 0, 2545, 1145, 2546, 210]),

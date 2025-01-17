@@ -1,3 +1,21 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../../external/bufbuild/protobuf.js';
+import './tools_pb.js';
+import './utils_pb.js';
+import './bugbot_pb.js';
+import './chat_pb.js';
+import './cpp_pb.js';
+import './lsp_subgraph_pb.js';
+import './filesyncserver_pb.js';
+import './cmdk_pb.js';
+import './repository_pb.js';
+import './docs_pb.js';
+import './fastapply_pb.js';
+import './lint_pb.js';
+import './context_ast_pb.js';
+import './usage_pb.js';
+import './interface_agent_pb.js';
 define(
 			de[148],
 			he([

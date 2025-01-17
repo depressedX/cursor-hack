@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/services/editorWorker.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../common/editor.js';
+import '../../chat/common/chatAgents.js';
+import '../../chat/common/chatService.js';
+import '../common/inlineChat.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/untitled/common/untitledTextEditorInput.js';
+import './inlineChatSession.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../services/textfile/common/textfiles.js';
 define(
 			de[1893],
 			he([

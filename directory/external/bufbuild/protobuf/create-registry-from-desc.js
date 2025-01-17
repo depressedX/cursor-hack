@@ -1,3 +1,20 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './private/assert.js';
+import './proto3.js';
+import './proto2.js';
+import './private/names.js';
+import './google/protobuf/timestamp_pb.js';
+import './google/protobuf/duration_pb.js';
+import './google/protobuf/any_pb.js';
+import './google/protobuf/empty_pb.js';
+import './google/protobuf/field_mask_pb.js';
+import './google/protobuf/struct_pb.js';
+import './private/enum.js';
+import './google/protobuf/wrappers_pb.js';
+import './google/protobuf/descriptor_pb.js';
+import './create-descriptor-set.js';
+import './is-message.js';
 define(
 			de[2041],
 			he([

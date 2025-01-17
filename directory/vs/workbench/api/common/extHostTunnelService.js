@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../nls.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/log/common/log.js';
+import '../../../platform/tunnel/common/tunnel.js';
+import './extHost.protocol.js';
+import './extHostInitDataService.js';
+import './extHostRpcService.js';
+import './extHostTypes.js';
 define(
 			de[3466],
 			he([1, 0, 33, 6, 3, 4, 5, 34, 374, 88, 2941, 2942, 1028]),

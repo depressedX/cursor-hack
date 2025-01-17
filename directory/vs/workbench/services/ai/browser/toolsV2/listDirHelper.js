@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/bufbuild/protobuf.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/async.js';
 define(de[1790], he([1, 0, 86, 124, 9, 15]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$3cc = u);

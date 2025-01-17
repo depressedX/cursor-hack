@@ -1,3 +1,45 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/browser/ui/actionbar/actionbar.js';
+import '../../common/activity.js';
+import '../../services/activity/common/activity.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/theme/common/themeService.js';
+import '../../../platform/storage/common/storage.js';
+import '../../services/extensions/common/extensions.js';
+import './compositeBarActions.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/themables.js';
+import '../../../platform/theme/common/iconRegistry.js';
+import '../../../base/common/actions.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/keyboardEvent.js';
+import '../../../base/browser/mouseEvent.js';
+import '../../../base/browser/touch.js';
+import '../../../base/browser/ui/contextview/contextview.js';
+import '../../../base/common/lazy.js';
+import '../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../../../platform/contextview/browser/contextView.js';
+import '../../../platform/keybinding/common/keybinding.js';
+import '../../../platform/log/common/log.js';
+import '../../../platform/product/common/productService.js';
+import '../../../platform/secrets/common/secrets.js';
+import '../../services/authentication/browser/authenticationService.js';
+import '../../services/authentication/common/authentication.js';
+import '../../services/environment/common/environmentService.js';
+import '../../../platform/hover/browser/hover.js';
+import '../../services/lifecycle/common/lifecycle.js';
+import '../../services/userDataProfile/common/userDataProfile.js';
+import '../../services/userDataProfile/common/userDataProfileIcons.js';
+import '../../../base/common/types.js';
+import '../../../base/common/keyCodes.js';
+import '../../common/theme.js';
+import '../../../platform/commands/common/commands.js';
 define(
 			de[1936],
 			he([

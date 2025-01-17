@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/extensions/common/extensions.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../base/common/themables.js';
+import '../controller/coreActions.js';
+import '../notebookBrowser.js';
+import '../notebookIcons.js';
+import './notebookKernelQuickPickStrategy.js';
+import '../../common/notebookContextKeys.js';
+import '../../common/notebookKernelService.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[1855],
 			he([

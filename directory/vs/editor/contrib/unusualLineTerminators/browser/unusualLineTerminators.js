@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../nls.js';
+import '../../../../platform/dialogs/common/dialogs.js';
 define(
 			de[1647],
 			he([1, 0, 3, 19, 46, 65, 38, 4, 57]),

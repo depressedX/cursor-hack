@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/ternarySearchTree.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/profiling/electron-sandbox/profileAnalysisWorkerService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../common/runtimeExtensionsInput.js';
+import './extensionsSlowActions.js';
+import './runtimeExtensionsEditor.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../services/extensions/common/extensionHostKind.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/extensions/electron-sandbox/extensionHostProfiler.js';
+import '../../../services/timer/browser/timerService.js';
 define(
 			de[3732],
 			he([

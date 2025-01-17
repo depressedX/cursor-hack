@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../remote/common/remoteAgentService.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../common/pathService.js';
+import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[3587],
 			he([1, 0, 20, 143, 151, 165, 25]),

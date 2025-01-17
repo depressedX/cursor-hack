@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../hover/hoverDelegate2.js';
+import '../hover/hoverDelegateFactory.js';
+import '../../../common/keybindingLabels.js';
+import '../../../common/lifecycle.js';
+import '../../../common/objects.js';
+import '../../../../nls.js';
+import '../../../../css!vs/base/browser/ui/keybindingLabel/keybindingLabel.js';
 define(
 			de[460],
 			he([1, 0, 7, 317, 95, 592, 3, 82, 4, 2245]),

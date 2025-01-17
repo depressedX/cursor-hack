@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/core/wordHelper.js';
+import '../../../../../editor/common/languages.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/registry/common/platform.js';
+import '../../../../common/contributions.js';
+import '../actions/chatExecuteActions.js';
+import '../chat.js';
+import '../chatInputPart.js';
+import './chatDynamicVariables.js';
+import '../../common/chatAgents.js';
+import '../../common/chatParserTypes.js';
+import '../../common/chatSlashCommands.js';
+import '../../common/chatVariables.js';
+import '../../common/languageModelToolsService.js';
+import '../../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[4072],
 			he([

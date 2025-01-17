@@ -1,3 +1,22 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../nls.js';
+import '../../base/common/uri.js';
+import './services/codeEditorService.js';
+import '../common/core/position.js';
+import '../common/services/model.js';
+import '../common/services/resolverService.js';
+import '../../platform/actions/common/actions.js';
+import '../../platform/commands/common/commands.js';
+import '../../platform/contextkey/common/contextkey.js';
+import '../../platform/instantiation/common/instantiation.js';
+import '../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../platform/registry/common/platform.js';
+import '../../platform/telemetry/common/telemetry.js';
+import '../../base/common/types.js';
+import '../../base/common/keyCodes.js';
+import '../../platform/log/common/log.js';
+import '../../base/browser/dom.js';
 define(
 			de[46],
 			he([1, 0, 4, 9, 65, 48, 67, 42, 11, 31, 8, 5, 43, 30, 32, 28, 27, 34, 7]),

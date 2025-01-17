@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../glyphMargin/glyphMargin.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../css!vs/editor/browser/viewParts/linesDecorations/linesDecorations.js';
 define(de[2756], he([1, 0, 1191, 38, 2269]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$vvb = void 0);

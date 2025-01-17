@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/browser/ui/tree/tree.js';
+import '../common/replModel.js';
+import '../common/debugModel.js';
 define(
 			de[3686],
 			he([1, 0, 132, 215, 264, 843, 300]),

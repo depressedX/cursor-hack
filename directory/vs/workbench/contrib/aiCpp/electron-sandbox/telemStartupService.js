@@ -1,3 +1,25 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/cpp_pb.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../browser/cppDebouncingService.js';
+import '../browser/cppEventLogger.js';
+import '../browser/eventListeners/clipboardListener.js';
+import '../browser/eventListeners/linterListener.js';
+import '../browser/eventListeners/quickActionListener.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../services/ai/browser/gitContextService.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[3447],
 			he([

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import './composerDiffEditor.js';
+import './composerDiffEditorInput.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../common/editor.js';
 define(
 			de[4372],
 			he([1, 0, 30, 192, 4371, 1828, 102, 44]),

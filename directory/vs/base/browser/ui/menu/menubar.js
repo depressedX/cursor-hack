@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../browser.js';
+import '../../dom.js';
+import '../../keyboardEvent.js';
+import '../../mouseEvent.js';
+import '../../touch.js';
+import './menu.js';
+import '../../../common/actions.js';
+import '../../../common/arrays.js';
+import '../../../common/async.js';
+import '../../../common/codicons.js';
+import '../../../common/themables.js';
+import '../../../common/event.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../common/platform.js';
+import '../../../common/strings.js';
+import '../../../../nls.js';
+import '../../window.js';
+import '../../../../css!vs/base/browser/ui/menu/menubar.js';
 define(
 			de[2686],
 			he([

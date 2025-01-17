@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './tree.js';
+import '../../../common/arrays.js';
+import '../../../common/async.js';
+import '../../../common/symbols.js';
+import '../../../common/diff/diff.js';
+import '../../../common/event.js';
+import '../../../common/iterator.js';
 define(
 			de[1165],
 			he([1, 0, 264, 24, 15, 649, 745, 6, 103]),

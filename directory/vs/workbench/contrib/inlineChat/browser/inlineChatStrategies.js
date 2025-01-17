@@ -1,3 +1,41 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/themables.js';
+import '../../../../editor/browser/stableEditorScroll.js';
+import '../../../../editor/browser/widget/diffEditor/components/diffEditorViewZones/renderLines.js';
+import '../../../../editor/common/core/lineRange.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../editor/common/services/editorWorker.js';
+import '../../../../editor/common/viewModel.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../common/editor.js';
+import '../../chat/common/chatWordCounter.js';
+import './inlineChatSession.js';
+import '../common/inlineChat.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/services/model.js';
+import './utils.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../chat/browser/codeBlockPart.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/actions/browser/buttonbar.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../base/common/iterator.js';
+import '../../mergeEditor/browser/view/conflictActions.js';
+import '../../../../base/common/observable.js';
+import '../../../../platform/actions/common/actions.js';
 define(
 			de[3770],
 			he([

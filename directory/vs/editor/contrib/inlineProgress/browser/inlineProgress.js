@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/themables.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../css!vs/editor/contrib/inlineProgress/browser/inlineProgressWidget.js';
 define(
 			de[1220],
 			he([1, 0, 7, 15, 14, 3, 37, 26, 56, 38, 17, 64, 122, 5, 2311]),

@@ -1,3 +1,27 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/event.js';
+import '../../base/common/lifecycle.js';
+import '../../platform/contextkey/common/contextkey.js';
+import '../../platform/contextkey/common/contextkeys.js';
+import '../common/contextkeys.js';
+import '../../base/browser/dom.js';
+import '../services/editor/common/editorGroupsService.js';
+import '../../platform/configuration/common/configuration.js';
+import '../services/environment/common/environmentService.js';
+import '../../platform/workspace/common/workspace.js';
+import '../services/layout/browser/layoutService.js';
+import '../../platform/remote/common/remoteHosts.js';
+import '../../platform/workspace/common/virtualWorkspace.js';
+import '../services/workingCopy/common/workingCopyService.js';
+import '../../base/common/platform.js';
+import '../services/panecomposite/browser/panecomposite.js';
+import '../../platform/files/browser/webFileSystemAccess.js';
+import '../../platform/product/common/productService.js';
+import '../../platform/window/common/window.js';
+import '../../base/browser/window.js';
+import '../../base/browser/browser.js';
+import '../services/editor/common/editorService.js';
 define(
 			de[3858],
 			he([

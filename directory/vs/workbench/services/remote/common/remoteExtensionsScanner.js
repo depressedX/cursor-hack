@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './remoteAgentService.js';
+import '../../../../platform/remote/common/remoteExtensionsScanner.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/uri.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../userDataProfile/common/remoteUserDataProfiles.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../localization/common/locale.js';
+import '../../extensionManagement/common/extensionManagement.js';
 define(
 			de[3790],
 			he([1, 0, 143, 951, 12, 9, 133, 1044, 78, 34, 20, 704, 157]),

@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uri.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/telemetry/common/telemetry.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/search/common/search.js';
+import '../common/extHost.protocol.js';
+import '../../../base/common/marshalling.js';
+import '../../contrib/search/common/constants.js';
+import '../../../platform/contextkey/common/contextkey.js';
 define(
 			de[3594],
 			he([1, 0, 33, 3, 9, 10, 32, 101, 186, 88, 197, 377, 8]),

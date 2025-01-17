@@ -1,3 +1,26 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../core/eolCounter.js';
+import '../core/lineRange.js';
+import '../core/position.js';
+import '../core/wordHelper.js';
+import '../encodedTokenAttributes.js';
+import '../languages.js';
+import '../languages/language.js';
+import '../languages/languageConfigurationRegistry.js';
+import './textModelPart.js';
+import './textModelTokens.js';
+import './tokens.js';
+import './treeSitterTokens.js';
+import '../services/treeSitterParserService.js';
+import '../tokenizationTextModelPart.js';
+import '../tokens/contiguousMultilineTokensBuilder.js';
+import '../tokens/contiguousTokensStore.js';
+import '../tokens/sparseTokensStore.js';
 define(
 			de[2772],
 			he([

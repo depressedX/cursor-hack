@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../platform/extensionRecommendations/common/extensionRecommendations.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import './extensionsActions.js';
+import '../common/extensions.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/extensionRecommendations/common/extensionRecommendations.js';
 define(
 			de[4076],
 			he([

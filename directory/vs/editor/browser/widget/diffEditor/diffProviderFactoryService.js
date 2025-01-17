@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../common/core/lineRange.js';
+import '../../../common/diff/rangeMapping.js';
+import '../../../common/services/editorWorker.js';
+import '../../../../platform/telemetry/common/telemetry.js';
 define(
 			de[953],
 			he([1, 0, 20, 5, 6, 162, 196, 342, 200, 32]),

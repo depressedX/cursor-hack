@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/views.js';
 define(
 			de[3009],
 			he([1, 0, 6, 3, 10, 35, 60]),

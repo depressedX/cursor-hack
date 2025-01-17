@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorInput.js';
 define(
 			de[4002],
 			he([1, 0, 14, 23, 9, 4, 79, 44, 223]),

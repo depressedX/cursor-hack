@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/ui/contextview/contextview.js';
+import '../../../base/common/lifecycle.js';
+import '../../layout/browser/layoutService.js';
+import '../../../base/browser/dom.js';
 define(de[1617], he([1, 0, 276, 3, 180, 7]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

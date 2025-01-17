@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/theme.js';
+import './notificationsViewer.js';
+import './notificationsActions.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../base/common/types.js';
+import '../../../common/contextkeys.js';
+import '../../../../base/common/lifecycle.js';
+import './notificationsCommands.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../css!vs/workbench/browser/parts/notifications/media/notificationsList.js';
 define(
 			de[1702],
 			he([

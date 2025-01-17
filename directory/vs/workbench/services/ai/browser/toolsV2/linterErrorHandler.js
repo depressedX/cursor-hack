@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../platform/markers/browser/markerService.js';
+import '../../../../../base/browser/window.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
 define(
 			de[1283],
 			he([1, 0, 90, 770, 75, 124]),

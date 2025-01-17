@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/clipboard/common/clipboardService.js';
+import './chatActions.js';
+import '../chat.js';
+import '../../common/chatContextKeys.js';
+import '../../common/chatViewModel.js';
 define(
 			de[3807],
 			he([1, 0, 4, 11, 121, 402, 208, 207, 283]),

@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/fonts.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/theme.js';
+import '../../../services/themes/common/workbenchThemeService.js';
 define(
 			de[3718],
 			he([1, 0, 661, 6, 3, 38, 10, 51, 212, 333]),

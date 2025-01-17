@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './console.js';
+import './fetch.js';
+import './globalError.js';
+import './globalUnhandledRejection.js';
+import './handlers.js';
 define(
 			de[2088],
 			he([1, 0, 2080, 2087, 2077, 2078, 726]),

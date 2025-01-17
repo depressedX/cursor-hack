@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/color.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/contrib/zoneWidget/browser/zoneWidget.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/theme/common/themeService.js';
+import './commentGlyphWidget.js';
+import './commentService.js';
+import '../../../../editor/common/config/editorOptions.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import './commentThreadWidget.js';
+import './commentColors.js';
+import '../../../../editor/contrib/peekView/browser/peekView.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../editor/browser/stableEditorScroll.js';
 define(
 			de[3765],
 			he([

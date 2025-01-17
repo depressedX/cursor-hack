@@ -1,3 +1,33 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/errorMessage.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../services/textfile/common/textfiles.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../base/common/map.js';
+import '../../../../common/editor/diffEditorInput.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../common/files.js';
+import './fileEditorInput.js';
+import '../fileConstants.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../platform/product/common/productService.js';
+import '../../../../../base/common/event.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/network.js';
+import '../../../../services/preferences/common/preferences.js';
+import '../../../../common/editor.js';
+import '../../../../../base/common/hash.js';
+import '../../../prettyDialog/browser/prettyDialog.js';
 define(
 			de[1882],
 			he([

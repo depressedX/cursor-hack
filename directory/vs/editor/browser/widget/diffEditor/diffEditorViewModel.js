@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import './diffProviderFactoryService.js';
+import './utils.js';
+import '../../../../base/common/hotReloadHelpers.js';
+import '../../../common/core/lineRange.js';
+import '../../../common/diff/defaultLinesDiffComputer/defaultLinesDiffComputer.js';
+import '../../../common/diff/rangeMapping.js';
+import '../../../common/model/bracketPairsTextModelPart/bracketPairsTree/beforeEditPositionMapper.js';
+import '../../../common/model/bracketPairsTextModelPart/bracketPairsTree/combineTextEditInfos.js';
+import '../../../common/diff/defaultLinesDiffComputer/heuristicSequenceOptimizations.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/assert.js';
 define(
 			de[954],
 			he([

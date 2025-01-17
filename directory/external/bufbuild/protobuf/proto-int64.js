@@ -1,3 +1,7 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './private/assert.js';
+import './google/varint.js';
 define(de[525], he([1, 0, 451, 1395]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

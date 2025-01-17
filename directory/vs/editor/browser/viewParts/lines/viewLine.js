@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../../base/common/platform.js';
+import './rangeUtil.js';
+import '../../view/renderingContext.js';
+import '../../../common/viewLayout/lineDecorations.js';
+import '../../../common/viewLayout/viewLineRenderer.js';
+import '../../../common/viewModel.js';
+import '../../../../platform/theme/common/theme.js';
+import '../../../common/config/editorOptions.js';
 define(
 			de[1208],
 			he([1, 0, 139, 194, 12, 2544, 746, 533, 598, 290, 212, 38]),

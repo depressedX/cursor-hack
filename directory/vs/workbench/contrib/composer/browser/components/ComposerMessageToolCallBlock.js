@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../../common/theme.js';
+import '../../../aiMarkdown/browser/markdown.js';
+import './ComposerToolbarSimpleButton.js';
+import '../composerData.js';
+import '../hooks/useComposerDataHandle.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/hooks/useThemeHooks.js';
+import '../../../ui/browser/loadingSpinner/loadingSpinner.js';
 define(
 			de[4285],
 			he([

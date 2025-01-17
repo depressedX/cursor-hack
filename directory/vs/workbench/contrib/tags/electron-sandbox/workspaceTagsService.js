@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/hash.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../common/workspaceTags.js';
+import './workspaceTags.js';
+import '../../../../base/common/strings.js';
+import '../common/javaWorkspaceTags.js';
 define(
 			de[3696],
 			he([1, 0, 530, 22, 25, 78, 85, 9, 23, 20, 1260, 1886, 37, 3139]),

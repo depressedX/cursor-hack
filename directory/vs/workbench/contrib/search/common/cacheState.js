@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/idGenerator.js';
+import '../../../../base/common/objects.js';
 define(de[3132], he([1, 0, 584, 82]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$d9b = void 0);

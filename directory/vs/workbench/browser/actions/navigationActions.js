@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../services/editor/common/editorGroupsService.js';
+import '../../services/layout/browser/layoutService.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../platform/action/common/actionCommonCategories.js';
+import '../../../base/browser/ui/grid/grid.js';
+import '../../../base/common/keyCodes.js';
+import '../../services/editor/common/editorService.js';
+import '../../services/panecomposite/browser/panecomposite.js';
+import '../../common/views.js';
+import '../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/window.js';
 define(
 			de[3526],
 			he([1, 0, 4, 66, 96, 11, 99, 759, 27, 18, 142, 60, 43, 7, 75]),

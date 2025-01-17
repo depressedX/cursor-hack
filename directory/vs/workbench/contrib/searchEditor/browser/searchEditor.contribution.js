@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/contrib/find/browser/findModel.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import '../../../common/contributions.js';
+import '../../../common/editor.js';
+import '../../../common/contextkeys.js';
+import '../../../services/views/common/viewsService.js';
+import '../../search/browser/searchActionsBase.js';
+import '../../search/browser/searchIcons.js';
+import '../../search/common/constants.js';
+import './constants.js';
+import './searchEditor.js';
+import './searchEditorActions.js';
+import './searchEditorInput.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/search/common/search.js';
+import '../../../services/editor/common/editorResolverService.js';
+import '../../../services/workingCopy/common/workingCopyEditorService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[4174],
 			he([

@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/theme/common/themeService.js';
+import './chat.js';
+import './chatAccessibilityProvider.js';
+import './chatInputPart.js';
+import './chatListRenderer.js';
+import './chatOptions.js';
+import '../common/chatAgents.js';
+import '../common/chatContextKeys.js';
+import '../common/chatModel.js';
+import '../common/chatParserTypes.js';
+import '../common/chatRequestParser.js';
+import '../common/chatService.js';
+import '../common/chatSlashCommands.js';
+import '../common/chatViewModel.js';
+import '../common/codeBlockModelCollection.js';
+import '../../../../css!vs/workbench/contrib/chat/browser/media/chat.js';
+import '../../../../css!vs/workbench/contrib/chat/browser/media/chatAgentHover.js';
 define(
 			de[481],
 			he([

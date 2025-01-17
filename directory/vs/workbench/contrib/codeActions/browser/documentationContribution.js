@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/contrib/codeAction/common/types.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[3018],
 			he([1, 0, 318, 3, 69, 291, 8]),

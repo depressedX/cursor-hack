@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/hash.js';
+import '../../../../base/common/errors.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../common/workspaceTags.js';
+import '../../../../platform/diagnostics/common/diagnostics.js';
+import '../../../../platform/request/common/request.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/extensionManagement/common/configRemotes.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/product/common/productService.js';
 define(
 			de[1886],
 			he([1, 0, 530, 29, 22, 32, 25, 85, 1260, 768, 327, 12, 1597, 110, 62]),

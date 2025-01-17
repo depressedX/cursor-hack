@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../message.js';
+import '../../proto3.js';
+import '../../scalar.js';
+import '../../proto-int64.js';
 define(
 			de[1407],
 			he([1, 0, 339, 406, 429, 525]),

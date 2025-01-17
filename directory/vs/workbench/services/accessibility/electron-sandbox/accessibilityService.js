@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../base/common/platform.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/accessibility/browser/accessibilityService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../configuration/common/jsonEditing.js';
+import '../../../common/contributions.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/layout/browser/layoutService.js';
 define(
 			de[3445],
 			he([1, 0, 91, 12, 151, 8, 10, 2739, 20, 32, 423, 55, 110, 180]),

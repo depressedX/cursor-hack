@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/core/wordHelper.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/languages.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
 define(
 			de[2709],
 			he([1, 0, 409, 69, 74, 3, 59]),

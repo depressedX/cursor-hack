@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../platform/ipc/common/mainProcessService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/parts/ipc/common/ipc.js';
+import '../../../../platform/native/common/native.js';
 define(
 			de[4419],
 			he([1, 0, 256, 371, 20, 305, 110]),

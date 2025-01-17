@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../utils/api.js';
+import '../../../../../external/solid/solid.js';
+import '../list/api.js';
+import '../utils/api.js';
+import './listbox-context.js';
 define(
 			de[2651],
 			he([1, 0, 2, 2, 115, 13, 1570, 115, 1492]),

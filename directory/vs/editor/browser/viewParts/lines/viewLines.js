@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/mouseCursor/mouseCursor.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/uint.js';
+import '../../config/domFontInfo.js';
+import '../../view/renderingContext.js';
+import '../../view/viewLayer.js';
+import '../../view/viewPart.js';
+import './domReadingContext.js';
+import './viewLine.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/editorCommon.js';
+import '../../../common/viewEvents.js';
+import '../../../../css!vs/editor/browser/viewParts/lines/viewLines.js';
 define(
 			de[2841],
 			he([

@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/registry/common/platform.js';
+import './customEditor.js';
+import '../../../services/extensionManagement/common/extensionFeatures.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
+import '../../../services/language/common/languageService.js';
 define(
 			de[3576],
 			he([1, 0, 24, 3, 4, 102, 30, 625, 244, 175, 701]),

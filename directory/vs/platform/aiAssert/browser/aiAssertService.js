@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../instantiation/common/extensions.js';
+import '../../product/common/productService.js';
+import '../../instantiation/common/instantiation.js';
+import '../../notification/common/notification.js';
 define(de[668], he([1, 0, 20, 62, 5, 40]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/platform.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../common/contributions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/process.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/extensions/common/extensions.js';
 define(
 			de[3694],
 			he([

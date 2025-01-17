@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/modal/modal.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
 define(
 			de[4227],
 			he([1, 0, 2, 2, 2, 13, 134, 36, 1374, 147]),

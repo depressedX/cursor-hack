@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './serializeToolformerBubbleData.js';
+import '../components/ComposerToolFormerMessage.js';
+import '../composer.js';
+import '../composerCapabilities.js';
+import '../composerCapabilityDecorators.js';
+import '../composerCapabilitySchemas.js';
+import '../composerData.js';
+import '../composerDataService.js';
+import '../composerUtilsService.js';
+import '../../../terminal/browser/terminalExecutionService.js';
 define(
 			de[4344],
 			he([

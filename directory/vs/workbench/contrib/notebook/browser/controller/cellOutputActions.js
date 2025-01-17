@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../../platform/opener/common/opener.js';
+import './coreActions.js';
+import '../../common/notebookContextKeys.js';
+import '../notebookIcons.js';
+import '../../../../../platform/log/common/log.js';
+import '../contrib/clipboard/cellOutputClipboard.js';
+import '../../../../services/editor/common/editorService.js';
+import '../notebookBrowser.js';
+import '../../common/notebookCommon.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[1845],
 			he([1, 0, 4, 11, 121, 41, 238, 176, 284, 34, 1837, 18, 108, 70, 8]),

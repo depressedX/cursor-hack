@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import '../../notebook/browser/contrib/find/notebookFindReplaceWidget.js';
+import '../../../../nls.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/toggle/toggle.js';
+import '../../../../base/common/event.js';
 define(
 			de[3506],
 			he([1, 0, 413, 1839, 4, 14, 95, 268, 6]),

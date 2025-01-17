@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/browser/ui/highlightedlabel/highlightedLabel.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../base/browser/ui/inputbox/inputBox.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/functional.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/themables.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import './debugCommands.js';
+import './linkDetector.js';
+import '../common/debug.js';
+import '../common/debugModel.js';
+import '../common/debugVisualizers.js';
+import '../common/replModel.js';
 define(
 			de[629],
 			he([

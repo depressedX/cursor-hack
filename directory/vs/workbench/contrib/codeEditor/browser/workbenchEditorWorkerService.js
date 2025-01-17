@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/defaultWorkerFactory.js';
+import '../../../../editor/browser/services/editorWorkerService.js';
+import '../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/log/common/log.js';
 define(
 			de[3025],
 			he([1, 0, 540, 2771, 152, 69, 67, 125, 34]),

@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/services/getIconClasses.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../nls.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/action/common/action.js';
 define(
 			de[3535],
 			he([1, 0, 50, 9, 252, 67, 61, 4, 63, 131, 31, 30, 81, 46, 11, 39, 599]),

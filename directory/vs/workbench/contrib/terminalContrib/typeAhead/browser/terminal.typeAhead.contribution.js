@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import './terminalTypeAheadAddon.js';
+import '../../../terminal/common/terminal.js';
+import '../common/terminalTypeAheadConfiguration.js';
 define(
 			de[3174],
 			he([1, 0, 3, 10, 5, 378, 3173, 145, 1264]),

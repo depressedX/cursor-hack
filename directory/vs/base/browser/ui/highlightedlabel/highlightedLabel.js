@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../hover/hoverDelegate2.js';
+import '../hover/hoverDelegateFactory.js';
+import '../iconLabel/iconLabels.js';
+import '../../../common/lifecycle.js';
+import '../../../common/objects.js';
 define(
 			de[410],
 			he([1, 0, 7, 317, 95, 182, 3, 82]),

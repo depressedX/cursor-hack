@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/numbers.js';
+import '../../../../base/browser/ui/sash/sash.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/layout/browser/layoutService.js';
 define(
 			de[3127],
 			he([1, 0, 201, 277, 6, 3, 10, 180]),

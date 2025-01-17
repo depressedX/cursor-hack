@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/fastDomNode.js';
+import '../../../../../base/common/errors.js';
+import '../../../../../base/common/lifecycle.js';
 define(de[3111], he([1, 0, 194, 29, 3]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$z2b = void 0);

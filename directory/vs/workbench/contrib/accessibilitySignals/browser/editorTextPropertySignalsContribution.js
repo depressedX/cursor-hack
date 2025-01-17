@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/utils.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/cursorEvents.js';
+import '../../../../editor/contrib/folding/browser/folding.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../debug/common/debug.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[3258],
 			he([1, 0, 15, 3, 77, 457, 28, 56, 248, 350, 184, 5, 90, 112, 18]),

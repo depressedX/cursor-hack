@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/diagnostics/common/diagnostics.js';
+import '../../../../platform/issue/common/issue.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/window/electron-sandbox/window.js';
+import '../browser/baseIssueReporterService.js';
+import '../common/issue.js';
 define(
 			de[3070],
 			he([1, 0, 7, 29, 9, 4, 768, 769, 110, 35, 676, 1735, 376]),

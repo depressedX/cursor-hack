@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../../nls.js';
+import '../../../../platform/notification/common/notification.js';
+import '../common/debug.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/filters.js';
+import './debugCommands.js';
+import './debugIcons.js';
+import '../../../../base/common/themables.js';
 define(
 			de[3819],
 			he([1, 0, 392, 4, 40, 112, 25, 31, 132, 425, 352, 26]),

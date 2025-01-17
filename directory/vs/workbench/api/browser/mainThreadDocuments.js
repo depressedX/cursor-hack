@@ -1,3 +1,23 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errorMessage.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../../base/common/uri.js';
+import '../../../editor/common/model.js';
+import '../../../editor/common/services/model.js';
+import '../../../editor/common/services/resolverService.js';
+import '../../../platform/files/common/files.js';
+import '../common/extHost.protocol.js';
+import '../../services/textfile/common/textfiles.js';
+import '../../services/environment/common/environmentService.js';
+import '../../../base/common/resources.js';
+import '../../services/workingCopy/common/workingCopyFileService.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../base/common/event.js';
+import '../../services/path/common/pathService.js';
+import '../../../base/common/map.js';
+import '../../../base/common/errors.js';
 define(
 			de[1342],
 			he([

@@ -1,3 +1,32 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/uuid.js';
+import '../../../aichat/browser/components/Utils.js';
+import '../../../aichat/browser/components/slowPool/usagePricingConfirmation.js';
+import '../../../ui/browser/aiInput/aiInput2.js';
+import '../../../ui/browser/aiInput/plugins/mentions/types.js';
+import '../../../aiMarkdown/browser/markdown.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../services/aiContext/browser/contextComponent.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../ui/browser/modelToggle.js';
+import '../../../ui/browser/simpleCodeRender/simpleCodeRender.js';
+import '../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../aichat/browser/components/slowPool/SlowPoolGenerationIndicator.js';
 define(
 			de[4368],
 			he([

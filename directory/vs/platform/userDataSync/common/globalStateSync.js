@@ -1,3 +1,27 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/json.js';
+import '../../../base/common/jsonFormatter.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/uuid.js';
+import '../../configuration/common/configuration.js';
+import '../../environment/common/environment.js';
+import '../../files/common/files.js';
+import '../../log/common/log.js';
+import '../../externalServices/common/serviceMachineId.js';
+import '../../storage/common/storage.js';
+import '../../telemetry/common/telemetry.js';
+import '../../uriIdentity/common/uriIdentity.js';
+import './abstractSynchronizer.js';
+import './content.js';
+import './globalStateMerge.js';
+import './userDataSync.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../userDataProfile/common/userDataProfileStorageService.js';
+import '../../instantiation/common/instantiation.js';
 define(
 			de[2937],
 			he([

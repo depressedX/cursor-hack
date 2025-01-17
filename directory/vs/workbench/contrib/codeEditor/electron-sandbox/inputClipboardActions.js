@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/browser/dom.js';
 define(de[3026], he([1, 0, 43, 12, 27, 7]), function (ce, e, t, i, w, E) {
 			"use strict";
 			if (

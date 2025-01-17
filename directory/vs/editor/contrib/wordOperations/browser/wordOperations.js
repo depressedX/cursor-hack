@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/commands/replaceCommand.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/cursorCommon.js';
+import '../../../common/cursorEvents.js';
+import '../../../common/cursor/cursorWordOperations.js';
+import '../../../common/core/wordCharacterClassifier.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import '../../../common/editorCommon.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
 define(
 			de[1648],
 			he([

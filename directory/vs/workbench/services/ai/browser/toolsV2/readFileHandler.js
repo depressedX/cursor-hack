@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../contrib/search/browser/anythingQuickAccess.js';
+import '../../../../contrib/ui/browser/hooks/useEverythingSearch/utils.js';
+import '../../../../contrib/aiFeatureStatusService/browser/aiFeatureStatusService.js';
+import './toolsV2HandlerRegistryService.js';
+import '../../../magicLink/browser/magicLinkService.js';
+import '../../../../../editor/common/services/resolverService.js';
+import './errors.js';
+import '../../../../../base/common/path.js';
+import '../../../selectedContext/browser/selectedContext.js';
 define(
 			de[4362],
 			he([

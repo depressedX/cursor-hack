@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/extpath.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/webview/common/mimeTypes.js';
 define(
 			de[3211],
 			he([1, 0, 249, 23, 54, 9, 22, 2888]),

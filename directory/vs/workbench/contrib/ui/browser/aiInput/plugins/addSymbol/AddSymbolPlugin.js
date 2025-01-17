@@ -1,3 +1,31 @@
+import '../../../../../../../../require.js';
+import '../../../../../../../../exports.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/lexical/lexical-solid/LexicalComposerContext.js';
+import '../../../../../../../../external/lexical/lexical-solid/LexicalTypeaheadMenuPlugin.js';
+import '../../../../../../../../external/lexical/lexical/api.js';
+import '../../../../../../../../external/solid/solid.js';
+import '../../../../../../../base/common/codicons.js';
+import '../../../../../../../base/common/path.js';
+import '../../../../../../../base/common/themables.js';
+import '../../../../../../../base/common/uri.js';
+import '../../../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../aichat/browser/codeSelections.js';
+import '../../../../../controlCommon/browser/solid.js';
+import '../InputBoxMenu.js';
+import '../mentions/MentionsPlugin.js';
+import '../mentions/pureIcon.js';
+import '../mentions/searchHooks.js';
+import '../mentions/types.js';
+import '../recognizers.js';
 define(
 			de[4308],
 			he([

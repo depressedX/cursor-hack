@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/strings.js';
+import './extensionManagement.js';
+import '../../extensions/common/extensions.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/process.js';
+import '../../telemetry/common/telemetryUtils.js';
 define(
 			de[154],
 			he([1, 0, 37, 119, 109, 12, 9, 29, 344, 269]),

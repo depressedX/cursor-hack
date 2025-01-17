@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../log/common/log.js';
+import './capabilities.js';
+import './commandDetection/terminalCommand.js';
+import './commandDetection/promptInputModel.js';
 define(
 			de[1653],
 			he([1, 0, 15, 138, 6, 3, 34, 189, 1652, 2822]),

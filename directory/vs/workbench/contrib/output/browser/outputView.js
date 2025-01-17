@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../browser/parts/editor/textResourceEditor.js';
+import '../../../services/output/common/output.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/cursorEvents.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../common/views.js';
+import '../../../common/editor/textResourceEditorInput.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/files/common/files.js';
+import '../../../common/contextkeys.js';
+import '../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../browser/editor.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../css!vs/workbench/contrib/output/browser/output.js';
 define(
 			de[1919],
 			he([

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../cursorAuth/browser/authenticationService.js';
 define(
 			de[1874],
 			he([1, 0, 3, 20, 5, 40, 45, 232]),

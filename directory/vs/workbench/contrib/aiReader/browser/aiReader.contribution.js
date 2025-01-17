@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/contrib/aiActions/browser/aiActions.contribution.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import './aiReaderEditor.js';
+import '../../../common/editor.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../aichat/browser/aichatEditor.js';
+import './aiReader.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './aiReaderService.js';
 define(
 			de[4202],
 			he([

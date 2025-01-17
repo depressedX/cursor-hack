@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/uri.js';
+import '../../../../contrib/aichat/browser/utils.js';
+import '../../../../contrib/controlCommon/browser/solid.js';
+import '../utils.js';
+import '../../../../contrib/ui/browser/utils/getUnrepeatedFileNames.js';
+import '../../../../../base/common/path.js';
 define(
 			de[1385],
 			he([1, 0, 13, 9, 397, 36, 299, 1273, 54]),

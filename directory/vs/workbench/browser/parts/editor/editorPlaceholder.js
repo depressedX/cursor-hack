@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/severity.js';
+import '../../../common/editor.js';
+import './editorPane.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/common/scrollable.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../editor.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/browser/ui/iconLabel/simpleIconLabel.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../css!vs/workbench/browser/parts/editor/media/editorplaceholder.js';
 define(
 		de[1914],
 		he([

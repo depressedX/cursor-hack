@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/strings.js';
+import '../languageConfiguration.js';
+import '../../config/editorOptions.js';
 define(de[2723], he([1, 0, 29, 37, 532, 38]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

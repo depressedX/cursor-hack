@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/async.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/marshalling.js';
+import '../../../common/types.js';
 define(
 			de[1174],
 			he([1, 0, 15, 6, 3, 197, 28]),

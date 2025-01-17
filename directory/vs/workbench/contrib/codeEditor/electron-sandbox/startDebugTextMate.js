@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../services/textMate/browser/textMateTokenizationFeature.js';
+import '../../../../editor/common/services/model.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../base/common/uint.js';
+import '../../../services/host/browser/host.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/files/common/files.js';
 define(
 			de[3663],
 			he([

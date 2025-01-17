@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './chatProgressContentPart.js';
+import './chatReferencesContentPart.js';
 define(
 			de[4023],
 			he([1, 0, 7, 6, 3, 5, 1721, 1946]),

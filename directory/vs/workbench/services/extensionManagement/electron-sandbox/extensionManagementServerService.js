@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/network.js';
+import '../common/extensionManagement.js';
+import '../../remote/common/remoteAgentService.js';
+import '../../../../platform/ipc/electron-sandbox/services.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './remoteExtensionManagementService.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './nativeExtensionManagementService.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[4392],
 			he([1, 0, 4, 23, 157, 143, 230, 20, 4391, 73, 5, 3781, 3]),

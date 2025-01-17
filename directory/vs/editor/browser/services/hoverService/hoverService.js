@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './hoverWidget.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../platform/keybinding/common/keybindingResolver.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/contextview/browser/contextViewService.js';
+import './updatableHoverWidget.js';
+import '../../../../base/common/async.js';
 define(
 			de[2843],
 			he([

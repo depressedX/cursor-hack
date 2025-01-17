@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../core/position.js';
+import '../../core/range.js';
+import '../../core/wordHelper.js';
+import '../../model/mirrorTextModel.js';
 define(
 			de[935],
 			he([1, 0, 15, 3, 9, 48, 17, 409, 2568]),

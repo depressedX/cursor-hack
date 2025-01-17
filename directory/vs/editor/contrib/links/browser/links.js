@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../base/common/uri.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../common/services/languageFeatures.js';
+import '../../gotoSymbol/browser/link/clickLinkGesture.js';
+import './getLinks.js';
+import '../../../../nls.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../css!vs/editor/contrib/links/browser/links.js';
 define(
 			de[963],
 			he([

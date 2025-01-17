@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/json.js';
+import '../../../base/common/jsonEdit.js';
+import '../../../base/common/jsonFormatter.js';
+import '../../../base/common/objects.js';
+import './content.js';
+import './userDataSync.js';
 define(
 			de[1670],
 			he([1, 0, 24, 187, 586, 585, 82, 1669, 150]),

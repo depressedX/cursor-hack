@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import './files.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/activity/common/activity.js';
+import '../../../services/workingCopy/common/workingCopyService.js';
+import '../../../services/workingCopy/common/workingCopy.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
 define(
 			de[3866],
 			he([1, 0, 4, 220, 3, 260, 227, 334, 170]),

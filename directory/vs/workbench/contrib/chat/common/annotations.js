@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import './chatModel.js';
 define(de[982], he([1, 0, 94, 19, 9, 441]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

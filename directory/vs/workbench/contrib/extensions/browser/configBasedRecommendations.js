@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import './extensionRecommendations.js';
+import '../../../../nls.js';
+import '../../../services/extensionRecommendations/common/extensionRecommendations.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/event.js';
 define(
 			de[3294],
 			he([1, 0, 119, 553, 4, 314, 25, 6]),

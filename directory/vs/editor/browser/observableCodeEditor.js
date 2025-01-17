@@ -1,3 +1,13 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/equals.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/observable.js';
+import '../../base/common/observableInternal/base.js';
+import '../../base/common/observableInternal/derived.js';
+import '../common/config/editorOptions.js';
+import '../common/core/position.js';
+import '../common/core/selection.js';
 define(
 			de[542],
 			he([1, 0, 433, 3, 77, 407, 319, 38, 48, 104]),

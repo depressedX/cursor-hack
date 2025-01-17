@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/marked/marked.js';
+import '../../../../nls.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../common/chatViewModel.js';
 define(
 			de[3548],
 			he([1, 0, 434, 4, 130, 178, 283]),

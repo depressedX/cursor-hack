@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../protobuf.js';
+import './universal.js';
+import './content-type-matcher.js';
+import './limit-io.js';
+import '../connect-error.js';
+import '../code.js';
 define(
 			de[877],
 			he([1, 0, 86, 873, 870, 1081, 213, 202]),

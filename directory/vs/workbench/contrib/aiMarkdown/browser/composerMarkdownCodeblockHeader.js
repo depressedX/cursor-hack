@@ -1,3 +1,37 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../ui/browser/menu/hooks.js';
+import '../../ui/browser/hooks/useIsUsingFileIconTheme.js';
+import '../../ui/browser/menu/menu.js';
+import '../../ui/browser/menu/menuItem.js';
+import '../../controlCommon/browser/solid.js';
+import '../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import './markdownCodeblockHeader.js';
+import './commandCodeBlock.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../editor/common/core/lineRange.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../editor/common/languages.js';
+import '../../composer/browser/hooks/useComposerHoverTooltip.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../ui/browser/scrollableDiv.js';
+import '../../composer/browser/hooks/useComposerDataHandle.js';
+import '../../ui/browser/hooks/useMeasureWidthHeight.js';
+import '../../composer/browser/utils.js';
+import '../../aichat/browser/components/Utils.js';
+import '../../../../base/common/resources.js';
+import './useMarkdownHover.js';
 define(
 		de[4232],
 		he([

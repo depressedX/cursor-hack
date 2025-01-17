@@ -1,3 +1,7 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../notebookBrowser.js';
+import '../../common/notebookCommon.js';
 define(de[3501], he([1, 0, 108, 70]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$y2b = void 0);

@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/registry/common/platform.js';
+import '../common/userDataProfile.js';
+import '../../../../platform/userDataSync/common/settingsMerge.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../../../common/views.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../browser/parts/editor/editorCommands.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../nls.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[1922],
 			he([1, 0, 76, 81, 22, 34, 30, 133, 1670, 150, 60, 129, 247, 5, 4, 68]),

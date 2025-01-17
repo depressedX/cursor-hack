@@ -1,3 +1,19 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../base/common/uri.js';
+import '../../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../Utils.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../base/common/codicons.js';
 define(
 			de[863],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 36, 9, 134, 242, 26, 14]),

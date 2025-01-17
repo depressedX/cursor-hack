@@ -1,3 +1,12 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './observableInternal/base.js';
+import './observableInternal/derived.js';
+import './observableInternal/autorun.js';
+import './observableInternal/utils.js';
+import './observableInternal/promise.js';
+import './observableInternal/api.js';
+import './observableInternal/logging.js';
 define(
 			de[77],
 			he([1, 0, 407, 319, 1133, 457, 1503, 2221, 742]),

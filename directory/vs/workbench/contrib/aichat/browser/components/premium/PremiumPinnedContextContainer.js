@@ -1,3 +1,21 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../chatData.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../services/selectedContext/browser/components/ContextPills.js';
+import '../../../../../../base/common/path.js';
+import '../../../../ui/browser/scrollableDiv.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../aiMarkdown/browser/useMarkdownHover.js';
+import '../../../../../services/selectedContext/browser/utils.js';
 define(
 			de[4396],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 140, 36, 573, 54, 135, 26, 14, 694, 299]),

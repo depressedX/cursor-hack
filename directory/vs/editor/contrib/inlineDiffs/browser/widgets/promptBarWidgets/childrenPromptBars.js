@@ -1,3 +1,21 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../workbench/contrib/ui/browser/simpleButton/simpleButton.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/constants.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../workbench/contrib/ui/browser/widgets/codeBlock.js';
+import '../../../../../../workbench/contrib/controlCommon/browser/solid.js';
+import '../../controllers/inlineDiffController.js';
+import '../../../../../browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../inlineDiffTypes.js';
 define(
 			de[4221],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 147, 14, 58, 26, 312, 36, 851, 251, 534]),

@@ -1,3 +1,34 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/editor.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/contextkeys.js';
+import '../../../common/contributions.js';
+import './shareService.js';
+import '../common/share.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../common/configuration.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../css!vs/workbench/contrib/share/browser/share.js';
 define(
 			de[3564],
 			he([

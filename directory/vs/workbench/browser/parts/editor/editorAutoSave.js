@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../services/host/browser/host.js';
+import '../../../common/editor.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/workingCopy/common/workingCopyService.js';
+import '../../../services/workingCopy/common/workingCopy.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[3859],
 			he([1, 0, 3, 170, 87, 44, 18, 66, 227, 334, 34, 90, 59, 68]),

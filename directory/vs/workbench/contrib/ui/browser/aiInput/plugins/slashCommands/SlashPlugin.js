@@ -1,3 +1,24 @@
+import '../../../../../../../../require.js';
+import '../../../../../../../../exports.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/lexical/lexical-solid/LexicalComposerContext.js';
+import '../../../../../../../../external/lexical/lexical/api.js';
+import '../../../../../../../../external/solid/solid.js';
+import '../../../../../../../../external/lexical/lexical-solid/LexicalTypeaheadMenuPlugin.js';
+import '../../../../../controlCommon/browser/solid.js';
+import '../recognizers.js';
+import '../InputBoxMenu.js';
+import './types.js';
+import './SlashCommandNode.js';
+import './slashCommandRegistry.js';
+import '../../../../../../../css!vs/workbench/contrib/ui/browser/aiInput/plugins/slashCommands/SlashPlugin.js';
 define(
 			de[4179],
 			he([

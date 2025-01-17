@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './browser.js';
+import '../common/keyCodes.js';
+import '../common/keybindings.js';
+import '../common/platform.js';
 define(de[114], he([1, 0, 139, 27, 343, 12]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

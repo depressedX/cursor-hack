@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/core/editorColorRegistry.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/colorUtils.js';
+import './placeholderTextContribution.js';
+import '../../../../platform/observable/common/wrapInReloadableClass.js';
+import '../../../../css!vs/editor/contrib/placeholderText/browser/placeholderText.js';
 define(
 			de[2861],
 			he([1, 0, 46, 307, 4, 306, 1185, 1624, 2317]),

@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../textfile/common/textfiles.js';
+import '../../../../platform/native/common/native.js';
+import '../common/simpleTestService.js';
+import './testProviders/vitestProvider.js';
+import './testProviders/mochaProvider.js';
 define(
 			de[1887],
 			he([1, 0, 20, 5, 10, 61, 25, 42, 85, 110, 697, 3703, 3702]),

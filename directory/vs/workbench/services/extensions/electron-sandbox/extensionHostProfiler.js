@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/ternarySearchTree.js';
+import '../common/extensions.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/profiling/common/profiling.js';
+import '../../../../base/common/functional.js';
 define(
 			de[1823],
 			he([1, 0, 387, 53, 23, 9, 941, 288]),

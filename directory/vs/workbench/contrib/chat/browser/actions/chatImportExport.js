@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/buffer.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/dialogs/common/dialogs.js';
+import '../../../../../platform/files/common/files.js';
+import './chatActions.js';
+import '../chat.js';
+import '../chatEditorInput.js';
+import '../../common/chatContextKeys.js';
+import '../../common/chatModel.js';
+import '../../common/chatService.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[3809],
 			he([1, 0, 76, 19, 4, 11, 57, 22, 402, 208, 552, 207, 441, 218, 18]),

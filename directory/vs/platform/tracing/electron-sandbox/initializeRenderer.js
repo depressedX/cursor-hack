@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../../external/sentry/electron/renderer/index.js';
+import '../../../base/parts/sandbox/electron-sandbox/globals.js';
+import '../common/global.js';
+import '../common/tracing.js';
 define(
 			de[2872],
 			he([1, 0, 2151, 320, 1210, 216]),

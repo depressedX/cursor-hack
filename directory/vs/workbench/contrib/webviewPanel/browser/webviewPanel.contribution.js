@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../browser/editor.js';
+import '../../../common/contributions.js';
+import '../../../common/editor.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import './webviewCommands.js';
+import './webviewEditor.js';
+import './webviewEditorInput.js';
+import './webviewEditorInputSerializer.js';
+import './webviewWorkbenchService.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[3872],
 			he([

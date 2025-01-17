@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../nls.js';
+import '../../../platform/registry/common/platform.js';
+import '../editor.js';
+import './editorInput.js';
+import '../../services/editor/common/editorService.js';
 define(
 			de[313],
 			he([1, 0, 6, 4, 30, 44, 223, 18]),

@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/uint.js';
+import './linePart.js';
+import '../viewModel.js';
 define(
 			de[533],
 			he([1, 0, 37, 210, 1545, 290]),

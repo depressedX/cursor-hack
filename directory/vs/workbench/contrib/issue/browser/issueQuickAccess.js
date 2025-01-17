@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/quickinput/browser/pickerQuickAccess.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/filters.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/codicons.js';
+import '../common/issue.js';
+import '../../../../platform/product/common/productService.js';
 define(
 			de[3310],
 			he([1, 0, 392, 8, 11, 132, 4, 31, 53, 26, 14, 376, 62]),

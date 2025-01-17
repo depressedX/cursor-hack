@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../webview/browser/webview.js';
+import './webviewEditor.js';
+import './webviewEditorInput.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[3407],
 			he([1, 0, 27, 71, 4, 11, 8, 43, 99, 355, 1025, 566, 18]),

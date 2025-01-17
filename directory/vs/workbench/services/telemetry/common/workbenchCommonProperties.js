@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/commonProperties.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
 define(
 			de[3656],
 			he([1, 0, 21, 1640, 32, 269]),

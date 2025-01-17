@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../core/index.js';
+import '../../utils/index.js';
+import './instrument.js';
+import './utils.js';
 define(
 			de[2132],
 			he([1, 0, 144, 80, 885, 1102]),

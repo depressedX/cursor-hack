@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../globalPointerMoveMonitor.js';
+import '../widget.js';
+import '../../../common/async.js';
+import '../../../common/themables.js';
+import '../../dom.js';
 define(
 			de[1166],
 			he([1, 0, 757, 235, 15, 26, 7]),

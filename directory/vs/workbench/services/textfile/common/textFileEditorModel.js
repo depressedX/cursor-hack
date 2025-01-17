@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/performance.js';
+import '../../../../base/common/types.js';
+import './textfiles.js';
+import '../../../common/editor.js';
+import '../../../common/editor/textEditorModel.js';
+import '../../workingCopy/common/workingCopyBackup.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/path.js';
+import '../../workingCopy/common/workingCopyService.js';
+import '../../workingCopy/common/workingCopy.js';
+import '../../filesConfiguration/common/filesConfigurationService.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../base/common/cancellation.js';
+import './encoding.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../languageDetection/common/languageDetectionWorkerService.js';
+import '../../path/common/pathService.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/progress/common/progress.js';
 define(
 			de[1920],
 			he([

@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/actions.js';
+import '../../issue/common/issue.js';
 define(de[3065], he([1, 0, 4, 50, 376]), function (ce, e, t, i, w) {
 			"use strict";
 			var E;

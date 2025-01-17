@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/strings.js';
+import '../config/editorOptions.js';
+import '../core/characterClassifier.js';
+import '../textModelEvents.js';
+import '../modelLineProjectionData.js';
 define(
 			de[2767],
 			he([1, 0, 120, 37, 38, 654, 590, 1629]),

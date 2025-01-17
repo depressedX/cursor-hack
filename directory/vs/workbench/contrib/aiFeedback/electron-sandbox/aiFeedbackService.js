@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../common/editor.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/path.js';
+import '../../../services/cursorAuth/browser/authenticationService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../services/ai/common/dataScrubbingService.js';
+import '../../../browser/workbench.contribution.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/constants.js';
+import '../../cursoreval/browser/cursorEvalService.js';
+import '../../../services/ai/browser/aiService.js';
 define(
 			de[3939],
 			he([

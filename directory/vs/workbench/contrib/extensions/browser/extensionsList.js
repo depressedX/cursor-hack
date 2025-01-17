@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/event.js';
+import '../common/extensions.js';
+import './extensionsActions.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import './extensionsWidgets.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../../../common/theme.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import './extensionsIcons.js';
+import '../../../../css!vs/workbench/contrib/extensions/browser/media/extension.js';
 define(
 			de[1356],
 			he([

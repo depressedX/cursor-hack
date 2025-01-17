@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/extpath.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/map.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/resources.js';
+import './files.js';
+import './explorerFileNestingTrie.js';
+import '../../../../base/common/types.js';
 define(
 			de[710],
 			he([1, 0, 9, 249, 54, 59, 22, 37, 24, 3, 138, 6, 19, 220, 3062, 28]),

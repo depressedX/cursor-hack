@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../aichat/browser/utils.js';
+import './ComposerExampleBubbles.js';
+import '../hooks/useComposerDataHandle.js';
+import '../constants.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/hooks/useKeyboardShortcut.js';
+import '../../../ui/browser/hooks/useVSHoverTooltip.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/components/ComposerBelowChatHistory.js';
 define(
 			de[4277],
 			he([

@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../terminalContrib/chat/browser/terminalChatController.js';
+import '../../terminalContrib/chat/browser/terminalChat.js';
 define(de[1384], he([1, 0, 867, 692]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

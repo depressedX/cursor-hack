@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './actions.js';
+import './menuResetAction.js';
+import './menuService.js';
+import '../../instantiation/common/extensions.js';
 define(
 			de[2895],
 			he([1, 0, 11, 2779, 1677, 20]),

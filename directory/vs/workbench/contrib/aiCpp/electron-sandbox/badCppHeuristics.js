@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './utils.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/contrib/cCppGhostText/common/cppGhostTextUtils.js';
 define(
 			de[2963],
 			he([1, 0, 148, 45, 1229, 25, 280, 134, 20, 5, 1153]),

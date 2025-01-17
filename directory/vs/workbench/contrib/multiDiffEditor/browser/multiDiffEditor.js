@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/browser/widget/multiDiffEditor/multiDiffEditorWidget.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/labels.js';
+import '../../../browser/parts/editor/editorWithViewState.js';
+import './multiDiffEditorInput.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/core/range.js';
 define(
 			de[1883],
 			he([1, 0, 1683, 125, 5, 21, 32, 35, 233, 1016, 712, 66, 18, 17]),

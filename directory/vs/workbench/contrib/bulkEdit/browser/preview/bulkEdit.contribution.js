@@ -1,3 +1,28 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../platform/registry/common/platform.js';
+import '../../../../common/contributions.js';
+import '../../../../../editor/browser/services/bulkEditService.js';
+import './bulkEditPane.js';
+import '../../../../common/views.js';
+import '../../../../services/views/common/viewsService.js';
+import '../../../../common/contextkeys.js';
+import '../../../../../nls.js';
+import '../../../../browser/parts/views/viewPaneContainer.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../services/editor/common/editorGroupsService.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../platform/list/browser/listService.js';
+import '../../../../../platform/instantiation/common/descriptors.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../common/editor.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../platform/dialogs/common/dialogs.js';
+import '../../../../../base/common/severity.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../services/panecomposite/browser/panecomposite.js';
 define(
 		de[4018],
 		he([

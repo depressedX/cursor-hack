@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import './sideBySideEditorInput.js';
+import '../editor.js';
+import './textEditorModel.js';
+import './diffEditorModel.js';
+import './textDiffEditorModel.js';
+import '../../services/editor/common/editorService.js';
+import '../../../base/common/labels.js';
+import '../../../platform/editor/common/editor.js';
 define(
 			de[296],
 			he([1, 0, 4, 313, 44, 702, 1699, 1226, 18, 222, 116]),

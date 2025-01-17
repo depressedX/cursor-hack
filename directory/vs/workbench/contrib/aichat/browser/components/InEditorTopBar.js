@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../../common/theme.js';
+import '../../../controlCommon/browser/solid.js';
+import '../chatData.js';
+import './icons.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/AiBubble.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/ChatHistory.js';
+import '../../../../../css!vs/workbench/contrib/aichat/browser/components/UserBubble.js';
 define(
 			de[4139],
 			he([

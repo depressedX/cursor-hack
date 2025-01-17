@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../workbench/contrib/ui/browser/menu/menu.js';
+import '../../../../../workbench/contrib/controlCommon/browser/solid.js';
 define(
 			de[1976],
 			he([1, 0, 2, 2, 2, 13, 484, 36]),

@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import '../chatData.js';
+import '../../../controlCommon/browser/solid.js';
 define(de[1065], he([1, 0, 13, 140, 36]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$lbc = void 0);

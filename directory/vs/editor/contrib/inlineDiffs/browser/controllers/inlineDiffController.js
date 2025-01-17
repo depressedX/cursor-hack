@@ -1,3 +1,37 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/store.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../browser/editorBrowser.js';
+import '../../../../browser/editorExtensions.js';
+import '../../../../browser/services/codeEditorService.js';
+import '../../../../browser/services/inlineDiffService.js';
+import '../../../../common/core/position.js';
+import '../../../../common/editorContextKeys.js';
+import '../../../../common/languages/language.js';
+import '../inlineDiffTypes.js';
+import '../widgets/inlineDiffPartialWidget.js';
+import '../widgets/removedLinesZoneWidget.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../../workbench/contrib/notebook/browser/notebookBrowser.js';
+import '../../../../../workbench/services/ai/browser/fastEditService.js';
+import '../../../../../workbench/services/editor/browser/editorService.js';
+import '../../../../../workbench/services/editor/common/editorService.js';
+import '../../../../common/core/range.js';
 define(
 			de[851],
 			he([

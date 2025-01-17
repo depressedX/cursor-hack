@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/model.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../browser/aiWatcherHelpers.js';
+import '../../../../platform/markers/common/markerService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[2999],
 			he([1, 0, 64, 3, 90, 25, 83, 975, 667, 45]),

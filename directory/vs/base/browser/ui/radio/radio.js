@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../widget.js';
+import '../../../common/event.js';
+import '../../dom.js';
+import '../button/button.js';
+import '../../../common/lifecycle.js';
+import '../hover/hoverDelegateFactory.js';
+import '../../../../css!vs/base/browser/ui/radio/radio.js';
 define(
 			de[2683],
 			he([1, 0, 235, 6, 7, 183, 3, 95, 2249]),

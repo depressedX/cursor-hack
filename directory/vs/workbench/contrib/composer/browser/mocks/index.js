@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './fakeStreamers/01_jsxLanguageTest.js';
+import './fakeStreamers/00_markdownHeaderTest.js';
+import './fakeStreamers/02_beginningCodeblockTest.js';
+import './fakeStreamers/03_windowsNewlineTest.js';
+import './fakeStreamers/04_markdownCodeblocksTest.js';
+import './fakeStreamers/05_bashScriptCodeblocksTest.js';
+import './fakeStreamers/06_rollbackTextTest.js';
+import './fakeStreamers/07_tabTest.js';
+import './fakeStreamers/08_pythonExplanationTest.js';
+import './fakeStreamers/09_markdownCodeblocks2Test.js';
 define(
 			de[3044],
 			he([1, 0, 3035, 3034, 3040, 3041, 3042, 3043, 3036, 3037, 3038, 3039]),

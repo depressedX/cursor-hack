@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './bugBotLinterPreviewBoxWidget.js';
 define(
 			de[1989],
 			he([1, 0, 149, 3, 8, 5, 4269]),

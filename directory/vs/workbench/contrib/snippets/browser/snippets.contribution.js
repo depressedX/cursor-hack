@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import './commands/configureSnippets.js';
+import './commands/fileTemplateSnippets.js';
+import './commands/insertSnippet.js';
+import './commands/surroundWithSnippet.js';
+import './snippetCodeActionProvider.js';
+import './snippets.js';
+import './snippetsService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../editor/common/config/editorConfigurationSchema.js';
+import './tabCompletion.js';
 define(
 			de[3774],
 			he([

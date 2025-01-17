@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/files/common/diskFileSystemProviderClient.js';
 define(
 			de[3588],
 			he([1, 0, 29, 3, 23, 12, 1614]),

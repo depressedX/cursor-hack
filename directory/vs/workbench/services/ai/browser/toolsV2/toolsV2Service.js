@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/instantiation/common/extensions.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './toolsV2HandlerRegistryService.js';
+import './readSemsearchFilesHandler.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../contrib/composer/browser/composerDataService.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import './ripgrepSearchHandler.js';
+import './runTerminalCommandHandler.js';
+import './readFileHandler.js';
+import './listDirHandler.js';
+import './editHandler.js';
+import './fileSearchHandler.js';
+import './semanticSearchFullHandler.js';
+import './createFileHandler.js';
+import './deleteFileHandler.js';
+import './errors.js';
+import './reapplyHandler.js';
+import '../../../../../base/common/errors.js';
+import './parallelApplyHandler.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../../external/bufbuild/protobuf.js';
 define(
 			de[4363],
 			he([

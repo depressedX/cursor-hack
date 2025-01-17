@@ -1,3 +1,8 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../../external/solid/web.js';
+import './types.js';
 define(de[302], he([1, 0, 13, 2, 2187]), function (ce, e, t, i, w) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),

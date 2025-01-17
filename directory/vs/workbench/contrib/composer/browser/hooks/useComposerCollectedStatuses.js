@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import './useReactiveCodeBlocksOfStatuses.js';
+import '../composerData.js';
+import '../../../controlCommon/browser/solid.js';
+import './useComposerDataHandle.js';
 define(
 			de[1366],
 			he([1, 0, 13, 4156, 225, 36, 177]),

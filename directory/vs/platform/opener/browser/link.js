@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/event.js';
+import '../../../base/browser/keyboardEvent.js';
+import '../../../base/browser/touch.js';
+import '../../../base/common/event.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/lifecycle.js';
+import '../common/opener.js';
+import '../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../hover/browser/hover.js';
+import '../../../css!vs/platform/opener/browser/link.js';
 define(
 			de[497],
 			he([1, 0, 7, 265, 114, 159, 6, 27, 3, 41, 95, 72, 2329]),

@@ -1,3 +1,40 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/mouseEvent.js';
+import '../../../../base/browser/ui/breadcrumbs/breadcrumbsWidget.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../labels.js';
+import './breadcrumbs.js';
+import './breadcrumbsModel.js';
+import './breadcrumbsPicker.js';
+import '../../../common/editor.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../base/browser/pixelRatio.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/common/event.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../css!vs/workbench/browser/parts/editor/media/breadcrumbscontrol.js';
 define(
 			de[1879],
 			he([

@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/marshalling.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/userDataSync/common/abstractSynchronizer.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import './editSessions.js';
+import '../../../services/workspaces/common/workspaceIdentityService.js';
 define(
 			de[4061],
 			he([1, 0, 33, 6, 197, 10, 113, 22, 21, 32, 68, 1222, 150, 685, 1952]),

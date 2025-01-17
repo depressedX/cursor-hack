@@ -1,3 +1,20 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../nls.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../services/extensions/common/extensions.js';
+import '../../services/extensions/common/extensionsRegistry.js';
+import '../../services/statusbar/browser/statusbar.js';
+import '../../../platform/accessibility/common/accessibility.js';
+import '../../../base/common/iconLabels.js';
+import '../../../base/common/hash.js';
+import '../../../base/common/event.js';
+import '../../../platform/instantiation/common/extensions.js';
+import '../../../base/common/iterator.js';
+import '../../../platform/extensions/common/extensions.js';
+import '../common/extHostTypes.js';
+import '../../common/theme.js';
 define(
 			de[1872],
 			he([

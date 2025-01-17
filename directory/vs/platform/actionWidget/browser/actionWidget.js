@@ -1,3 +1,19 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../base/common/keyCodes.js';
+import '../../../base/common/lifecycle.js';
+import '../../../nls.js';
+import './actionList.js';
+import '../../actions/common/actions.js';
+import '../../contextkey/common/contextkey.js';
+import '../../contextview/browser/contextView.js';
+import '../../instantiation/common/extensions.js';
+import '../../instantiation/common/instantiation.js';
+import '../../keybinding/common/keybindingsRegistry.js';
+import '../../theme/common/colorRegistry.js';
+import '../../../css!vs/platform/actionWidget/browser/actionWidget.js';
 define(
 			de[1659],
 			he([1, 0, 7, 105, 27, 3, 4, 1206, 11, 8, 49, 20, 5, 43, 51, 1513]),

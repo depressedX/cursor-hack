@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/codiconsUtil.js';
+import '../../../base/common/themables.js';
+import '../../../base/common/event.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../jsonschemas/common/jsonContributionRegistry.js';
+import '../../registry/common/platform.js';
 define(
 			de[79],
 			he([1, 0, 15, 14, 903, 26, 6, 28, 9, 4, 250, 30]),

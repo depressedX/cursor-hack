@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../currentScopes.js';
+import '../debug-build.js';
+import '../tracing/index.js';
+import '../utils/handleCallbackErrors.js';
+import '../utils/spanUtils.js';
+import './constants.js';
 define(
 			de[1449],
 			he([1, 0, 80, 234, 263, 640, 1097, 301, 880]),

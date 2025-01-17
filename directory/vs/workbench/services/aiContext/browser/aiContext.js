@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/common/uuid.js';
 define(de[471], he([1, 0, 5, 228, 83, 47]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

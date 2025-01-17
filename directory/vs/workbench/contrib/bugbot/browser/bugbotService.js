@@ -1,3 +1,41 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './bugbotDataService.js';
+import './bugbot.js';
+import './bugbotData.js';
+import '../../../../base/common/event.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/uuid.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../services/selectedContext/browser/selectedContext.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../services/editor/common/editorService.js';
+import './bugbotEditorInput.js';
+import './constants.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../common/editor.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/files/common/files.js';
+import './renderBugbotAlways.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../bugbotLinter/browser/bugBotLinterService.js';
+import '../../aiPanes/browser/aiPanes.contribution.js';
+import '../../aiCpp/browser/cppEventLogger.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../services/ai/browser/utils.js';
+import '../../../services/aiErrors/browser/aiErrorService.js';
+import '../../../../../proto/aiserver/v1/aiserver_connectweb.js';
+import '../../../../../proto/aiserver/v1/cpp_pb.js';
+import '../../../../../external/bufbuild/connect.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/browser/window.js';
+import '../../../services/ai/browser/gitContextService.js';
+import '../../../services/activity/common/activity.js';
+import '../../../../base/browser/hash.js';
 define(
 			de[4265],
 			he([

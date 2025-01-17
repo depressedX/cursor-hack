@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../common/terminal.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/ui/splitview/splitview.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './terminal.js';
+import '../../../common/views.js';
+import '../../../../platform/terminal/common/terminal.js';
+import './terminalStatusList.js';
+import '../../../../base/browser/dom.js';
+import '../../../services/views/browser/viewsService.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[4059],
 			he([1, 0, 145, 6, 3, 279, 96, 5, 107, 60, 117, 806, 7, 1352, 24]),

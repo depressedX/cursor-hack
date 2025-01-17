@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/analytics_connectweb.js';
+import '../../../../../proto/aiserver/v1/analytics_pb.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/tracing/common/tracing.js';
+import '../../../services/ai/browser/aiMiscServices.js';
+import '../../../services/ai/browser/backendClient.js';
+import '../../../services/cursorAuth/browser/authenticationService.js';
 define(
 			de[3640],
 			he([1, 0, 1467, 1466, 75, 3, 20, 5, 45, 216, 137, 285, 232]),

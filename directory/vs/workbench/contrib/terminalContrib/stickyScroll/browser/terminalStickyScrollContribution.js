@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../terminal/browser/terminalInstance.js';
+import '../common/terminalStickyScrollConfiguration.js';
+import './terminalStickyScrollOverlay.js';
+import '../../../../../css!vs/workbench/contrib/terminalContrib/stickyScroll/browser/media/stickyScroll.js';
 define(
 			de[2004],
 			he([1, 0, 6, 3, 10, 8, 5, 39, 189, 1074, 808, 3172, 1144]),

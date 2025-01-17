@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../base/common/map.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../contrib/composer/browser/composer.js';
+import '../../../../contrib/composer/browser/composerDataService.js';
+import '../../../../contrib/composer/browser/composerUtilsService.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../base/common/lifecycle.js';
+import './errors.js';
+import '../../../../../platform/markers/common/markers.js';
+import './linterErrorHandler.js';
+import '../../../../../platform/markers/browser/markerService.js';
+import '../../../selectedContext/browser/selectedContext.js';
+import '../../../textfile/common/textfiles.js';
+import '../../../../contrib/prettyDialog/browser/prettyDialog.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../editor/common/services/resolverService.js';
 define(
 			de[3977],
 			he([

@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/objects.js';
+import '../../services/codeEditorService.js';
+import './diffEditorWidget.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/progress/common/progress.js';
 define(
 			de[784],
 			he([1, 0, 82, 65, 309, 184, 8, 5, 84]),

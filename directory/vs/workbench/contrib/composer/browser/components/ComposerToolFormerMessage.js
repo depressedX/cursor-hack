@@ -1,3 +1,43 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import './toolCalls/ComposerSemanticSearchToolCallBlock.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/editor/common/editor.js';
+import './toolCalls/ComposerGrepSearchToolCallBlock.js';
+import './toolCalls/ComposerTerminalToolCallBlock.js';
+import './toolCalls/ComposerReadFileToolCallBlock.js';
+import '../../../../../platform/label/common/label.js';
+import './toolCalls/ComposerErrorToolCallBlock.js';
+import './toolCalls/ComposerListDirToolCallBlock.js';
+import '../../../../../base/common/uri.js';
+import '../../../../services/selectedContext/browser/utils.js';
+import '../hooks/useComposerDataHandle.js';
+import './ComposerMessageCodeblock.js';
+import './toolCalls/ComposerFileSearchToolCallBlock.js';
+import './ComposerMessageCodePill.js';
+import './toolCalls/ComposerCreateFileToolCallBlock.js';
+import './toolCalls/ComposerDeleteFileToolCallBlock.js';
+import '../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../../base/common/constants.js';
+import './toolCalls/ComposerParallelApplyToolCallBlock.js';
+import './toolCalls/ComposerGetRelatedFilesToolCallBlock.js';
+import './toolCalls/ComposerLintingToolCallBlock.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../constants.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
 define(
 			de[4343],
 			he([

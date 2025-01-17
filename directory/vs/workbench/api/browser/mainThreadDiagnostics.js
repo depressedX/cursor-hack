@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../platform/markers/common/markers.js';
+import '../../../base/common/uri.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[3344],
 			he([1, 0, 90, 9, 88, 101, 68]),

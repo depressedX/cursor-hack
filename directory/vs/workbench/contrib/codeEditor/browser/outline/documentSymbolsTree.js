@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/highlightedlabel/highlightedLabel.js';
+import '../../../../../base/common/filters.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/languages.js';
+import '../../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../../nls.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../services/outline/browser/outline.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/browser/window.js';
+import '../../../../../css!vs/workbench/contrib/codeEditor/browser/outline/documentSymbolsTree.js';
+import '../../../../../editor/contrib/symbolIcons/browser/symbolIcons.js';
 define(
 			de[3518],
 			he([

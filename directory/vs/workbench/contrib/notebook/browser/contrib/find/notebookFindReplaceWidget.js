@@ -1,3 +1,40 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../nls.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../../../base/browser/ui/contextview/contextview.js';
+import '../../../../../../base/browser/ui/dropdown/dropdownActionViewItem.js';
+import '../../../../../../base/browser/ui/findinput/findInput.js';
+import '../../../../../../base/browser/ui/progressbar/progressbar.js';
+import '../../../../../../base/browser/ui/sash/sash.js';
+import '../../../../../../base/browser/ui/toggle/toggle.js';
+import '../../../../../../base/browser/ui/widget.js';
+import '../../../../../../base/common/actions.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/keyCodes.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../editor/contrib/find/browser/findState.js';
+import '../../../../../../editor/contrib/find/browser/findWidget.js';
+import '../../../../../../editor/contrib/find/browser/replacePattern.js';
+import '../../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import '../../../../../../platform/hover/browser/hover.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../../../platform/theme/common/themeService.js';
+import '../../../../extensions/browser/extensionsIcons.js';
+import './findFilters.js';
+import '../../../common/notebookCommon.js';
+import '../../../../../../css!vs/workbench/contrib/notebook/browser/contrib/find/notebookFindReplaceWidget.js';
 define(
 			de[1839],
 			he([

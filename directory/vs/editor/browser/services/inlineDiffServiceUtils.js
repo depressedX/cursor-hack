@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../common/core/range.js';
+import '../../common/core/lineRange.js';
+import '../../common/diff/linesDiffComputers.js';
+import '../../common/diff/rangeMapping.js';
+import '../../../platform/reactivestorage/common/reactiveStorageTypes2.js';
+import '../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
 define(
 			de[1190],
 			he([1, 0, 17, 196, 587, 342, 670, 205]),

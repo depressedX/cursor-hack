@@ -1,3 +1,7 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../chatEditorInput.js';
+import '../../../../services/editor/common/editorService.js';
 define(de[1288], he([1, 0, 552, 18]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$1Yb = w);

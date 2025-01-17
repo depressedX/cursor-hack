@@ -1,3 +1,21 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/linkedList.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/languages.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import './configuration.js';
+import '../../url/common/urlGlob.js';
+import '../../../services/preferences/common/preferences.js';
 define(
 			de[1034],
 			he([

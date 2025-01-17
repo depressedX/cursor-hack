@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../composerCapabilities.js';
+import '../../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../composerCapabilitySchemas.js';
+import '../../../../services/shadowWorkspace/common/shadowWorkspaceService.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../composerDataService.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../services/ai/browser/aiService.js';
+import '../../../../../../proto/aiserver/v1/shadow_workspace_pb.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import '../composerCapabilityDecorators.js';
+import '../composerUtilsService.js';
 define(
 			de[3955],
 			he([

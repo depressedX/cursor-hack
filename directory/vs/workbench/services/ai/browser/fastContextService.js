@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../history/common/history.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../editor/common/editorService.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../base/common/cancellation.js';
+import './repositoryService.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../editor/browser/editorBrowser.js';
 define(
 			de[400],
 			he([1, 0, 5, 20, 3, 245, 256, 18, 17, 204, 33, 226, 67, 42, 25, 56]),

@@ -1,3 +1,19 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/mouseEvent.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import './mouseTarget.js';
+import '../editorBrowser.js';
+import '../editorDom.js';
+import '../../common/config/editorZoom.js';
+import '../../common/core/position.js';
+import '../../common/core/selection.js';
+import '../../common/viewEventHandler.js';
+import '../../common/config/editorOptions.js';
+import '../coreCommands.js';
+import '../../../base/browser/ui/scrollbar/scrollableElement.js';
 define(
 			de[2839],
 			he([1, 0, 7, 168, 3, 12, 1662, 56, 777, 909, 48, 104, 750, 38, 498, 203]),

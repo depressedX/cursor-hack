@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../debug-build.js';
+import './web-vitals/getCLS.js';
+import './web-vitals/getFID.js';
+import './web-vitals/getINP.js';
+import './web-vitals/getLCP.js';
+import './web-vitals/lib/observe.js';
+import './web-vitals/onTTFB.js';
 define(
 			de[885],
 			he([1, 0, 80, 878, 2098, 2094, 2095, 2096, 576, 2099]),

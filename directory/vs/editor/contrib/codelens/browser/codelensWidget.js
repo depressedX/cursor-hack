@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/common/uint.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/core/range.js';
+import '../../../common/model/textModel.js';
+import '../../../../css!vs/editor/contrib/codelens/browser/codelensWidget.js';
 define(
 			de[2909],
 			he([1, 0, 7, 182, 210, 56, 17, 122, 2292]),

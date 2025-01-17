@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/strings.js';
+import '../../../common/commands/shiftCommand.js';
+import '../../../common/core/editOperation.js';
+import '../../../common/core/indentation.js';
+import '../../../common/core/selection.js';
+import '../../../common/encodedTokenAttributes.js';
+import '../../../common/languages/supports/indentationLineProcessor.js';
 define(
 			de[2776],
 			he([1, 0, 37, 771, 188, 1146, 104, 171, 1151]),

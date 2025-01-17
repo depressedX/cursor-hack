@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../inlineTextArea/inlineTextArea.js';
+import '../simpleButton/simpleButton.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/tagEditor/tagEditor.js';
 define(
 		de[4349],
 		he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 695, 147, 2530]),

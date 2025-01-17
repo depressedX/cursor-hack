@@ -1,3 +1,33 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/symbolic_context_pb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/common/services/markerDecorations.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../editor/contrib/folding/browser/folding.js';
+import '../../../../editor/contrib/folding/browser/indentRangeProvider.js';
+import '../../../../editor/contrib/folding/browser/syntaxRangeProvider.js';
+import '../../../../editor/contrib/gotoSymbol/browser/goToSymbol.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './aiService.js';
+import './indexRequestManager.js';
+import './repoGraph/repoGraph.js';
+import '../../filesConfiguration/common/filesConfigurationService.js';
+import '../../../../base/common/uri.js';
+import './utils.js';
+import '../../../../base/common/uuid.js';
 define(
 		de[1347],
 		he([

@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../nls.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../common/editor.js';
+import '../../../common/memento.js';
+import './constants.js';
+import './searchEditorModel.js';
+import './searchEditorSerialization.js';
+import '../../../services/path/common/pathService.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../services/workingCopy/common/workingCopyService.js';
+import '../../../services/workingCopy/common/workingCopy.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/buffer.js';
+import '../../../common/editor/editorInput.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../css!vs/workbench/contrib/searchEditor/browser/media/searchEditor.js';
 define(
 			de[1368],
 			he([

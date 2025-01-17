@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../common/debug.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/theme.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/layout/browser/layoutService.js';
 define(
 			de[3630],
 			he([1, 0, 4, 51, 112, 25, 123, 3, 166, 10, 180]),

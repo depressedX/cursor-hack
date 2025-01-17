@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../nls.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/request/common/request.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/native/common/native.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/profiling/common/profiling.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/buffer.js';
 define(
 			de[1806],
 			he([1, 0, 62, 50, 9, 5, 4, 33, 327, 19, 57, 41, 110, 151, 941, 22, 76]),

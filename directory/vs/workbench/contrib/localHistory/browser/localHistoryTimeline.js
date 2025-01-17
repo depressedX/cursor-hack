@@ -1,3 +1,24 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../timeline/common/timeline.js';
+import '../../../services/workingCopy/common/workingCopyHistory.js';
+import '../../../../base/common/uri.js';
+import '../../../services/path/common/pathService.js';
+import '../../../browser/parts/editor/editorCommands.js';
+import '../../../../platform/files/common/files.js';
+import './localHistoryFileSystemProvider.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../common/editor.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './localHistoryCommands.js';
+import '../../../../base/common/htmlContent.js';
+import './localHistory.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/workspace/common/virtualWorkspace.js';
 define(
 			de[3880],
 			he([

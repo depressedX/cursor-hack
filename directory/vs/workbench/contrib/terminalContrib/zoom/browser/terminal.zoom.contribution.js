@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../terminal/browser/terminalActions.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/types.js';
+import '../../../terminal/common/terminalConfiguration.js';
+import '../common/terminal.zoom.js';
 define(
 			de[4046],
 			he([1, 0, 6, 203, 3, 12, 117, 378, 10, 363, 4, 28, 1859, 1770]),

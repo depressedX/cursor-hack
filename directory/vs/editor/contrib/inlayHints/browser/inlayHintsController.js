@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorDom.js';
+import '../../../browser/stableEditorScroll.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/editOperation.js';
+import '../../../common/core/range.js';
+import '../../../common/languages.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/services/resolverService.js';
+import '../../gotoSymbol/browser/link/clickLinkGesture.js';
+import './inlayHints.js';
+import './inlayHintsLocations.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
 define(
 			de[1316],
 			he([

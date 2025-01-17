@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../terminal.js';
+import '../../../../base/common/lifecycle.js';
+import '../capabilities/terminalCapabilityStore.js';
+import '../capabilities/commandDetectionCapability.js';
+import '../capabilities/cwdDetectionCapability.js';
+import '../capabilities/capabilities.js';
+import '../capabilities/partialCommandDetectionCapability.js';
+import '../../../../base/common/event.js';
+import '../capabilities/bufferMarkCapability.js';
+import '../../../../base/common/uri.js';
+import '../terminalEnvironment.js';
+import '../../../../base/common/strings.js';
 define(
 			de[1202],
 			he([1, 0, 117, 3, 675, 1653, 2823, 189, 2825, 6, 2821, 9, 775, 37]),

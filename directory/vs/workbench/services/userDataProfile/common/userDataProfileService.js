@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/themables.js';
+import './userDataProfile.js';
 define(
 			de[3791],
 			he([1, 0, 15, 6, 3, 82, 26, 133]),

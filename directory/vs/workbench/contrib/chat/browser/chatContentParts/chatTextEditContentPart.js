@@ -1,3 +1,27 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/types.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/common/languages.js';
+import '../../../../../editor/common/model/textModel.js';
+import '../../../../../editor/common/services/model.js';
+import '../../../../../editor/common/services/modelService.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/instantiation/common/extensions.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './chatCollections.js';
+import '../codeBlockPart.js';
+import '../../common/chatService.js';
+import '../../common/chatViewModel.js';
 define(
 			de[3762],
 			he([

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/numbers.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './accessibilityConfiguration.js';
 define(
 			de[3545],
 			he([1, 0, 7, 6, 3, 201, 10, 130]),

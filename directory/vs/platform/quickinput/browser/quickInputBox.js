@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/ui/findinput/findInput.js';
+import '../../../base/browser/ui/inputbox/inputBox.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/severity.js';
+import '../../../css!vs/platform/quickinput/browser/media/quickInput.js';
 define(
 		de[2750],
 		he([1, 0, 7, 932, 292, 3, 111, 1138]),

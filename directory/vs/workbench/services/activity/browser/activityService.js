@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../common/activity.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../common/views.js';
+import '../../../common/activity.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/types.js';
 define(
 			de[3220],
 			he([1, 0, 260, 3, 20, 60, 968, 6, 5, 28]),

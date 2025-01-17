@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/common/model.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/resources.js';
+import './hallucinatedFunctionImplementation.js';
+import './hallucinatedFunctionChatMessage.js';
+import './hallucinatedFunction.js';
 define(
 			de[1706],
 			he([1, 0, 3, 6, 5, 20, 17, 47, 64, 45, 19, 2972, 2971, 2970]),

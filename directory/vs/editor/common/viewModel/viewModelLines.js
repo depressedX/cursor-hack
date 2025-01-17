@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../model.js';
+import '../textModelGuides.js';
+import '../model/textModel.js';
+import '../textModelEvents.js';
+import '../viewEvents.js';
+import './modelLineProjection.js';
+import '../model/prefixSumComputer.js';
+import '../viewModel.js';
 define(
 			de[2903],
 			he([1, 0, 24, 48, 17, 64, 1150, 122, 590, 493, 2766, 589, 290]),

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
 define(
 			de[753],
 			he([1, 0, 29, 3, 77, 48, 17]),

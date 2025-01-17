@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/event.js';
+import '../../../base/common/types.js';
+import '../../../nls.js';
+import './configuration.js';
+import '../../jsonschemas/common/jsonContributionRegistry.js';
+import '../../registry/common/platform.js';
 define(
 			de[81],
 			he([1, 0, 24, 6, 28, 4, 10, 250, 30]),

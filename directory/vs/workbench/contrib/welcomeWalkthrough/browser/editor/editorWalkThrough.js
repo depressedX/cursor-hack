@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import './vs_code_editor_walkthrough.js';
+import '../../../../../nls.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../walkThroughInput.js';
+import '../../../../../base/common/network.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/action/common/actionCommonCategories.js';
+import '../../common/walkThroughContentProvider.js';
 define(
 		de[3283],
 		he([1, 0, 3282, 4, 18, 5, 1277, 23, 11, 99, 1276]),

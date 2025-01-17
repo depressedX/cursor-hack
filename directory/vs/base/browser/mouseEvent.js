@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './browser.js';
+import './iframe.js';
+import '../common/platform.js';
 define(de[168], he([1, 0, 139, 1126, 12]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

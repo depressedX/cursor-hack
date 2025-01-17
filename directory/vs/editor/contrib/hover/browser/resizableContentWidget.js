@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/resizable/resizable.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[2726],
 			he([1, 0, 930, 3, 56, 38, 48, 7]),

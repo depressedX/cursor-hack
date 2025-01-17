@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../../base/common/performance.js';
+import '../../../base/common/stopwatch.js';
+import '../../../base/common/uuid.js';
+import '../../../base/parts/ipc/common/ipc.net.js';
+import './remoteAuthorityResolver.js';
 define(
 			de[604],
 			he([1, 0, 15, 76, 33, 29, 6, 3, 23, 240, 162, 47, 760, 211]),

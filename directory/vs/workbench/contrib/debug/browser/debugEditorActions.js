@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/common/editorContextKeys.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/contrib/message/browser/messageController.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../common/contextkeys.js';
+import '../../chat/common/chatContextKeys.js';
+import './breakpointsView.js';
+import './disassemblyView.js';
+import '../common/debug.js';
+import '../common/debugUtils.js';
+import '../common/disassemblyViewInput.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/views/common/viewsService.js';
 define(
 			de[3815],
 			he([

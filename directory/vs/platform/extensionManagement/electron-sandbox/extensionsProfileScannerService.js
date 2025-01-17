@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../log/common/log.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../uriIdentity/common/uriIdentity.js';
+import '../../telemetry/common/telemetry.js';
+import '../common/extensionsProfileScannerService.js';
+import '../../files/common/files.js';
+import '../../environment/common/environment.js';
+import '../../../base/common/uri.js';
+import '../../instantiation/common/extensions.js';
 define(
 			de[2891],
 			he([1, 0, 34, 129, 68, 32, 1214, 22, 113, 9, 20]),

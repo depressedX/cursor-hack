@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../encodedTokenAttributes.js';
+import '../../../platform/theme/common/themeService.js';
+import '../../../platform/log/common/log.js';
+import '../tokens/sparseMultilineTokens.js';
+import '../languages/language.js';
 define(
 			de[1209],
 			he([1, 0, 171, 35, 34, 2575, 61]),

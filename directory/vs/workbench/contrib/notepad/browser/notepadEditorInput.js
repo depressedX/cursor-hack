@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/editor/editorInput.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/lifecycle.js';
+import './notepad.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/network.js';
 define(
 			de[1744],
 			he([1, 0, 223, 14, 45, 3, 467, 9, 23]),

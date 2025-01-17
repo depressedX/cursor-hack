@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../textfile/common/textfiles.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../magicLink/browser/magicLinkService.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../editor/common/languages.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
 define(
 			de[3966],
 			he([1, 0, 85, 25, 42, 241, 22, 124, 17, 90, 204, 33, 74, 83]),

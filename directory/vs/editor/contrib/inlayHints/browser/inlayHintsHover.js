@@ -1,3 +1,31 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/core/position.js';
+import '../../../common/model/textModel.js';
+import '../../hover/browser/hoverTypes.js';
+import '../../../common/languages/language.js';
+import '../../../common/services/resolverService.js';
+import '../../hover/browser/getHover.js';
+import '../../hover/browser/markdownHoverParticipant.js';
+import './inlayHintsController.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../nls.js';
+import '../../../../base/common/platform.js';
+import './inlayHints.js';
+import '../../../../base/common/arrays.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../workbench/services/ai/browser/aiMiscServices.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../workbench/contrib/composer/browser/composer.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[1868],
 			he([

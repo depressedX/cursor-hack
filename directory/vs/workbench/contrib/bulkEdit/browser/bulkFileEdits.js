@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/workingCopy/common/workingCopyFileService.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/arrays.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../base/common/network.js';
 define(
 			de[3903],
 			he([1, 0, 22, 10, 336, 155, 5, 34, 33, 24, 85, 23]),

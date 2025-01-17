@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/color.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../editor/common/languages.js';
 define(
 			de[1723],
 			he([1, 0, 4, 97, 56, 64, 122, 51, 35, 74]),

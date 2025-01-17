@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../cursorCommon.js';
+import '../core/position.js';
+import '../core/range.js';
 define(de[2722], he([1, 0, 346, 48, 17]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$vtb = void 0);

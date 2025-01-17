@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/languages/linkComputer.js';
+import '../../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './links.js';
+import './terminalLinkHelpers.js';
+import '../../../../../platform/terminal/common/terminal.js';
 define(
 			de[3163],
 			he([1, 0, 23, 9, 1535, 68, 25, 513, 562, 117]),

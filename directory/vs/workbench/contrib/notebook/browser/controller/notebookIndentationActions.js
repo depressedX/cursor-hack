@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/log/common/log.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import '../services/notebookEditorService.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookEditorInput.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[3482],
 			he([1, 0, 4, 3, 199, 17, 42, 11, 10, 34, 63, 293, 70, 360, 18]),

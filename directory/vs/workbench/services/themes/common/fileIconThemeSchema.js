@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import './productIconThemeSchema.js';
 define(
 			de[3712],
 			he([1, 0, 4, 30, 250, 1322]),

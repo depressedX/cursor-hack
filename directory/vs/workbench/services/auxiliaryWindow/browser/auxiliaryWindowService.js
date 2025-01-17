@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/browser.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/performance.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/severity.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../base/browser/webConstants.js';
+import '../../../../platform/window/common/window.js';
+import '../../../browser/window.js';
+import '../../environment/common/environmentService.js';
+import '../../host/browser/host.js';
+import '../../layout/browser/layoutService.js';
 define(
 		de[703],
 		he([

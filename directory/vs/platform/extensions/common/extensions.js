@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/strings.js';
+import '../../instantiation/common/instantiation.js';
+import '../../remote/common/remoteHosts.js';
 define(de[109], he([1, 0, 37, 5, 438]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

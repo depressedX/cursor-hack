@@ -1,3 +1,25 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../base/common/idGenerator.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/event.js';
+import '../../../base/common/errors.js';
+import '../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../base/browser/ui/progressbar/progressbar.js';
+import '../part.js';
+import '../../../platform/storage/common/storage.js';
+import '../../../platform/instantiation/common/serviceCollection.js';
+import '../../../platform/progress/common/progress.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/ui/contextview/contextview.js';
+import '../../../base/common/types.js';
+import '../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../services/progress/browser/progressIndicator.js';
+import '../../../platform/actions/browser/toolbar.js';
+import '../../../platform/theme/browser/defaultStyles.js';
+import '../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../css!vs/workbench/browser/parts/media/compositepart.js';
 define(
 			de[3540],
 			he([

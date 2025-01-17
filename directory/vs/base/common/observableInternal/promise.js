@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './autorun.js';
+import './base.js';
+import './derived.js';
+import '../cancellation.js';
+import './debugName.js';
+import '../equals.js';
+import '../errors.js';
 define(
 			de[1503],
 			he([1, 0, 1133, 407, 319, 33, 648, 433, 29]),

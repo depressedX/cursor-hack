@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/event.js';
+import '../../../base/common/json.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/map.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/types.js';
+import '../../../base/common/uri.js';
+import './configuration.js';
+import './configurationRegistry.js';
+import '../../files/common/files.js';
+import '../../registry/common/platform.js';
 define(
 			de[950],
 			he([1, 0, 24, 6, 187, 3, 59, 82, 28, 9, 10, 81, 22, 30]),

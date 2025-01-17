@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/objects.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../editor/common/services/getIconClasses.js';
+import '../../../../base/common/network.js';
+import '../../environment/common/environmentService.js';
+import '../../remote/common/remoteAgentService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/strings.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/common/extpath.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/async.js';
+import '../../editor/common/editorService.js';
+import '../../../../base/common/labels.js';
+import '../../../common/editor.js';
+import '../../path/common/pathService.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[1860],
 			he([

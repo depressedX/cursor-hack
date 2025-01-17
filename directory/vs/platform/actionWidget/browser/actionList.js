@@ -1,3 +1,19 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/ui/keybindingLabel/keybindingLabel.js';
+import '../../../base/browser/ui/list/listWidget.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/codicons.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/themables.js';
+import '../../../nls.js';
+import '../../contextview/browser/contextView.js';
+import '../../keybinding/common/keybinding.js';
+import '../../theme/browser/defaultStyles.js';
+import '../../theme/common/colorRegistry.js';
+import '../../../css!vs/platform/actionWidget/browser/actionWidget.js';
 define(
 			de[1206],
 			he([1, 0, 7, 460, 278, 33, 14, 3, 12, 26, 4, 49, 39, 106, 51, 1513]),

@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../utils/getMainAxisFromPlacement.js';
+import '../utils/getPaddingObject.js';
+import '../utils/getSide.js';
+import '../utils/math.js';
+import '../utils/rectToClientRect.js';
 define(
 			de[2206],
 			he([1, 0, 583, 1122, 487, 1123, 1124]),

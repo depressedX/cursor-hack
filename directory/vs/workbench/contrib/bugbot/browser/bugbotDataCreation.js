@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './bugbotData.js';
+import '../../../../../external/solid/store.js';
+import '../../../../base/common/uuid.js';
+import './constants.js';
 define(
 			de[3004],
 			he([1, 0, 21, 25, 1718, 193, 47, 789]),

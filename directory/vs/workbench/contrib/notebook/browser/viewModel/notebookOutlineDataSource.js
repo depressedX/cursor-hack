@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookExecutionStateService.js';
+import '../../../../services/outline/browser/outline.js';
+import '../../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import './notebookOutlineEntryFactory.js';
 define(
 			de[3520],
 			he([1, 0, 6, 3, 19, 10, 90, 70, 190, 475, 204, 1301]),

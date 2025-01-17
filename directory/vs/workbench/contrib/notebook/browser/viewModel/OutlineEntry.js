@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../notebookIcons.js';
+import '../../common/notebookCommon.js';
+import '../../../../../editor/common/languages.js';
 define(
 			de[3477],
 			he([1, 0, 14, 26, 90, 284, 70, 74]),

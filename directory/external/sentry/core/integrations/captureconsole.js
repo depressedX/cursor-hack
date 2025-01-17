@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../currentScopes.js';
+import '../exports.js';
+import '../integration.js';
 define(
 			de[2127],
 			he([1, 0, 80, 234, 734, 316]),

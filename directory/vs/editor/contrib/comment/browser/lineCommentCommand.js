@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/charCode.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/uint.js';
+import '../../../common/core/editOperation.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/core/selection.js';
+import './blockCommentCommand.js';
 define(
 			de[1549],
 			he([1, 0, 120, 37, 210, 188, 48, 17, 104, 1548]),

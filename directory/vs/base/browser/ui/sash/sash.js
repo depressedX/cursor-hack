@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../event.js';
+import '../../touch.js';
+import '../../../common/async.js';
+import '../../../common/decorators.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/platform.js';
+import '../../../../css!vs/base/browser/ui/sash/sash.js';
 define(
 			de[277],
 			he([1, 0, 7, 265, 159, 15, 138, 6, 3, 12, 2250]),

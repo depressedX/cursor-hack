@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../common/editor/editorModel.js';
+import './notebookCommon.js';
+import './notebookLoggingService.js';
+import './notebookService.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../services/workingCopy/common/fileWorkingCopy.js';
+import '../../../services/workingCopy/common/storedFileWorkingCopy.js';
+import '../../../services/workingCopy/common/workingCopy.js';
 define(
 			de[1343],
 			he([

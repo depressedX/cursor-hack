@@ -1,3 +1,14 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../base/browser/ui/hover/hoverDelegate2.js';
+import '../../../../../base/browser/ui/hover/hoverDelegateFactory.js';
 define(
 			de[818],
 			he([1, 0, 2, 2, 2, 2, 13, 7, 182, 317, 95]),

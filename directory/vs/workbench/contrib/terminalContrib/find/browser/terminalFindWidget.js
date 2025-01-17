@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../codeEditor/browser/find/simpleFindWidget.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/common/terminalContextKey.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../base/common/event.js';
+import '../../../../../platform/clipboard/common/clipboardService.js';
+import './textInputContextMenu.js';
+import '../../../../../platform/hover/browser/hover.js';
+import '../common/terminal.find.js';
 define(
 			de[3170],
 			he([1, 0, 7, 1722, 49, 8, 107, 237, 35, 10, 39, 6, 121, 3155, 72, 1263]),

@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
+import '../../../controlCommon/browser/solid.js';
+import '../loadingSpinner/loadingSpinner.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/simpleButton/simpleButton.js';
 define(
 			de[147],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 13, 26, 14, 36, 295, 7, 2528]),

@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import './ComposerAdvancedContextFollowup.js';
+import './ComposerContextStep.js';
+import '../hooks/useComposerDataHandle.js';
+import '../../../controlCommon/browser/solid.js';
 define(
 			de[4289],
 			he([1, 0, 2, 2, 2, 2, 13, 126, 167, 4272, 4274, 177, 36]),

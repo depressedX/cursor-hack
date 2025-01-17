@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
 define(de[485], he([1, 0, 2, 2, 311, 147]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

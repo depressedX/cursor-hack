@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/editor/editorInput.js';
+import '../../../common/editor/editorModel.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../base/common/marked/marked.js';
+import '../../../../base/common/resources.js';
+import '../common/walkThroughContentProvider.js';
+import '../../../common/editor.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/network.js';
 define(
 			de[1277],
 			he([1, 0, 223, 416, 42, 434, 19, 1276, 44, 5, 23]),

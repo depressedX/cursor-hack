@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../common/contributions.js';
+import './accessibilitySignalDebuggerContribution.js';
+import './commands.js';
+import './editorTextPropertySignalsContribution.js';
+import '../../../../platform/observable/common/wrapInReloadableClass.js';
 define(
 			de[3533],
 			he([1, 0, 184, 11, 20, 55, 3050, 3532, 3258, 1624]),

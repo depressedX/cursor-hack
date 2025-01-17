@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/path.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/resourceTree.js';
 define(
 			de[614],
 			he([1, 0, 54, 11, 50, 92, 24, 198, 182, 7, 1171]),

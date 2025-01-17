@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './protocol-connect/transport.js';
+import './protocol/universal-handler-client.js';
+import './router.js';
 define(de[2054], he([1, 0, 2049, 2026, 1412]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

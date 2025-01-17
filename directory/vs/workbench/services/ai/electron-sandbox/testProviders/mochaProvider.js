@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../textfile/common/textfiles.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../platform/native/common/native.js';
+import '../../common/simpleTestService.js';
 define(
 			de[3702],
 			he([1, 0, 10, 61, 25, 42, 85, 17, 110, 697]),

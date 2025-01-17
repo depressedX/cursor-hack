@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../utils/index.js';
+import '../constants.js';
+import '../currentScopes.js';
+import '../eventProcessors.js';
+import '../scope.js';
+import './applyScopeDataToEvent.js';
 define(
 			de[1101],
 			he([1, 0, 80, 879, 234, 1437, 732, 1450]),

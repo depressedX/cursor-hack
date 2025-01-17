@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../common/editor.js';
+import '../../../services/editor/common/customEditorLabelService.js';
+import '../common/customEditor.js';
+import '../../webview/browser/webview.js';
+import '../../webviewPanel/browser/webviewWorkbenchService.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../services/untitled/common/untitledTextEditorService.js';
 define(
 			de[849],
 			he([

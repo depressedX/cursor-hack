@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './hoverActionIds.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../inlineCompletions/browser/hintsWidget/inlineCompletionsHintsWidget.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/keybinding/common/keybindingResolver.js';
+import '../../../../base/common/async.js';
+import './hoverUtils.js';
+import './contentHoverWidgetWrapper.js';
+import '../../../../base/common/event.js';
+import '../../../../css!vs/editor/contrib/hover/browser/hover.js';
 define(
 			de[448],
 			he([1, 0, 936, 27, 3, 38, 5, 1215, 39, 390, 15, 937, 3606, 6, 905]),

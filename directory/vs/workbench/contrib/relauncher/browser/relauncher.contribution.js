@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/contributions.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/window/common/window.js';
+import '../../../services/host/browser/host.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../nls.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/platform.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/constants.js';
 define(
 			de[3434],
 			he([

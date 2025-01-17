@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './terminalContextHandler.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../base/common/uuid.js';
 define(
 			de[3668],
 			he([1, 0, 42, 25, 1876, 5, 47]),

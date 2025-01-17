@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../aiMarkdown/browser/markdown.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/collapsible/collapsible.js';
+import '../../../ui/browser/contextDisplay/listContextDisplay.js';
+import '../../../ui/browser/scrollableDiv.js';
 define(
 			de[4274],
 			he([1, 0, 2, 2, 2, 13, 41, 338, 36, 696, 1070, 135]),

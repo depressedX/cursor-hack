@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/fuzzyScorer.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../common/core/range.js';
+import '../../../common/editorCommon.js';
+import '../../../common/languages.js';
+import '../../documentSymbols/browser/outlineModel.js';
+import './editorNavigationQuickAccess.js';
+import '../../../../nls.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../base/common/arraysFind.js';
 define(
 			de[1667],
 			he([1, 0, 15, 33, 14, 26, 322, 3, 37, 17, 98, 74, 204, 1665, 4, 69, 214]),

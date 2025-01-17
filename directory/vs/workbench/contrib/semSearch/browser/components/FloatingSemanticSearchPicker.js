@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import './picker/SemSearchPickerMenu.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/model.js';
+import '../../../../../editor/common/core/editorColorRegistry.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../../base/common/path.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../ui/browser/pickerMenu/renderFolderStructurePickerMenuPreview.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../base/common/glob.js';
 define(
 			de[4215],
 			he([

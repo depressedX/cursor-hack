@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../instantiation/common/instantiation.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../storage/common/storage.js';
+import './extensionManagementUtil.js';
+import '../../product/common/productService.js';
+import '../../../base/common/arrays.js';
+import '../../log/common/log.js';
+import '../../../base/common/types.js';
 define(
 			de[677],
 			he([1, 0, 5, 6, 3, 21, 154, 62, 24, 34, 28]),

@@ -1,3 +1,17 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/uri.js';
+import '../../base/common/objects.js';
+import '../../base/common/path.js';
+import '../../base/common/event.js';
+import '../../base/common/resources.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/glob.js';
+import '../../platform/workspace/common/workspace.js';
+import '../../platform/configuration/common/configuration.js';
+import '../../base/common/network.js';
+import '../../base/common/map.js';
+import '../../base/common/extpath.js';
 define(
 			de[970],
 			he([1, 0, 9, 82, 54, 6, 19, 3, 215, 25, 10, 23, 59, 249]),

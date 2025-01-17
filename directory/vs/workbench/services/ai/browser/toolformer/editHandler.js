@@ -1,3 +1,13 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../magicLink/browser/magicLinkService.js';
+import '../../../../../editor/browser/services/simpleInlineDiffService.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './editSimpleHandler.js';
+import './editInlineDiffHandler.js';
 define(
 			de[3965],
 			he([1, 0, 124, 42, 241, 545, 90, 5, 3964, 3963]),

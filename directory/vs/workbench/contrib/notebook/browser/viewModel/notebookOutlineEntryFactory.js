@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/markdownRenderer.js';
+import '../../../../../nls.js';
+import './foldingModel.js';
+import './OutlineEntry.js';
+import '../../common/notebookCommon.js';
 define(
 			de[1301],
 			he([1, 0, 267, 4, 1841, 3477, 70]),

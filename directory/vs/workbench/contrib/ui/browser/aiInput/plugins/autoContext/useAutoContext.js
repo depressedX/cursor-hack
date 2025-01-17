@@ -1,3 +1,21 @@
+import '../../../../../../../../require.js';
+import '../../../../../../../../exports.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/lexical/lexical-solid/LexicalComposerContext.js';
+import '../../../../../../../../external/solid/solid.js';
+import '../../../../../../../base/common/codicons.js';
+import '../../../../../../../base/common/themables.js';
+import '../../../../../controlCommon/browser/solid.js';
+import '../mentions/pureIcon.js';
+import '../mentions/types.js';
+import '../../../hooks/useEverythingSearch/types.js';
+import '../../../hooks/useEverythingSearch/useEverythingSearch.js';
+import '../../../loadingSpinner/loadingSpinner.js';
+import '../../../../../../../../external/lexical/lexical/api.js';
+import '../mentions/MentionNode.js';
 define(
 			de[1973],
 			he([

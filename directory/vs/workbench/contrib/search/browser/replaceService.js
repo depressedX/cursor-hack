@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/lifecycle.js';
+import './replace.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import './searchModel.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../editor/browser/services/bulkEditService.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/async.js';
+import '../../../common/editor.js';
+import '../../notebook/common/notebookCommon.js';
+import '../../notebook/common/notebookEditorModelResolverService.js';
 define(
 			de[4163],
 			he([

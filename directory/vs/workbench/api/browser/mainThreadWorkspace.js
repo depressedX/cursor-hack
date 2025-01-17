@@ -1,3 +1,38 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import '../../../platform/environment/common/environment.js';
+import '../../../platform/files/common/files.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/label/common/label.js';
+import '../../../platform/notification/common/notification.js';
+import '../../services/ai/browser/aiService.js';
+import '../../services/ai/browser/repositoryService.js';
+import '../../services/ai/browser/rgSearch.js';
+import '../../../platform/request/common/request.js';
+import '../../../platform/workspace/common/workspaceTrust.js';
+import '../../../platform/workspace/common/workspace.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/extensions/common/workspaceContains.js';
+import '../../services/ai/common/dataScrubbingService.js';
+import '../../services/search/common/queryBuilder.js';
+import '../../services/editor/common/editorService.js';
+import '../../services/search/common/search.js';
+import '../../services/workspaces/common/workspaceEditing.js';
+import '../common/extHost.protocol.js';
+import '../../../platform/workspace/common/editSessions.js';
+import '../../common/editor.js';
+import '../../../base/common/arrays.js';
+import '../../../platform/workspace/common/canonicalUri.js';
+import '../../services/ai/browser/aiMiscServices.js';
+import '../../../../proto/aiserver/v1/cpp_pb.js';
+import '../../../base/common/buffer.js';
+import '../../services/cursorAuth/browser/authenticationService.js';
+import '../../../base/common/marshalling.js';
 define(
 			de[4006],
 			he([

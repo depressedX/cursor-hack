@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../base/browser/ui/splitview/splitview.js';
+import '../../../services/extensionManagement/common/extensionFeatures.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../nls.js';
+import '../../../../platform/list/browser/listService.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../base/browser/ui/button/button.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/browser/markdownRenderer.js';
+import '../../../../base/common/errors.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../common/theme.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/severity.js';
+import './extensionsIcons.js';
+import '../../../../platform/severityIcon/browser/severityIcon.js';
+import '../../../../base/browser/ui/keybindingLabel/keybindingLabel.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/color.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../base/common/codicons.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../base/common/keybindings.js';
+import '../../../../base/common/date.js';
 define(
 		de[3308],
 		he([

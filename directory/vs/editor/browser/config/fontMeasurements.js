@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/pixelRatio.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import './charWidthReader.js';
+import '../../common/config/editorOptions.js';
+import '../../common/config/fontInfo.js';
 define(
 			de[600],
 			he([1, 0, 7, 345, 6, 3, 2542, 38, 463]),

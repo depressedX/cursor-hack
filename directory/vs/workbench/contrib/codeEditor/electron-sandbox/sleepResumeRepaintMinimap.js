@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3419],
 			he([1, 0, 52, 30, 55, 65, 110, 3]),

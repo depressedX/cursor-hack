@@ -1,3 +1,6 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/telemetry/common/telemetry.js';
 define(de[3053], he([1, 0, 32]), function (ce, e, t) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$1Qc = void 0);

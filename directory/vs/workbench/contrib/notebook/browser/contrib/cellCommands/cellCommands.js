@@ -1,3 +1,23 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/keyCodes.js';
+import '../../../../../../base/common/mime.js';
+import '../../../../../../editor/browser/services/bulkEditService.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../bulkEdit/browser/bulkCellEdits.js';
+import '../../controller/cellOperations.js';
+import '../../controller/coreActions.js';
+import '../../notebookBrowser.js';
+import '../../../common/notebookContextKeys.js';
+import '../../notebookIcons.js';
+import '../../../common/notebookCommon.js';
+import '../../../../../../platform/notification/common/notification.js';
+import '../../../../../../editor/common/editorContextKeys.js';
+import '../../../../../../platform/configuration/common/configuration.js';
 define(
 			de[3492],
 			he([

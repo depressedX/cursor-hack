@@ -1,3 +1,24 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../workbench/contrib/controlCommon/browser/solid.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../workbench/contrib/ui/browser/widgets/codeBlock.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../workbench/contrib/ui/browser/scrollableDiv.js';
+import '../controllers/inlineDiffController.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../workbench/services/ai/browser/fastEditService.js';
+import '../../../../common/editorCommon.js';
 define(
 			de[4194],
 			he([

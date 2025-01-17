@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uuid.js';
+import '../../../../../external/solid/store.js';
+import '../../../../base/common/event.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/services/resolverService.js';
 define(
 			de[1717],
 			he([1, 0, 3, 47, 193, 6, 64, 42]),

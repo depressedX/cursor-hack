@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/diff/diff.js';
+import '../../../../../base/common/strings.js';
+import '../../../../common/core/range.js';
+import '../../../../common/core/textLength.js';
+import '../../../../common/core/textEdit.js';
+import '../../../../common/model.js';
+import './ghostText.js';
 define(
 			de[1196],
 			he([1, 0, 745, 37, 17, 458, 490, 64, 917]),

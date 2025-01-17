@@ -1,3 +1,7 @@
+import '../require.js';
+import '../exports.js';
+import './nls.messages.js';
+import './nls.messages.js';
 define(de[4], he([1, 0, 1558, 1558]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

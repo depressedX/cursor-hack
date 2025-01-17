@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/resources.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../browser/perfviewEditor.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/label/common/label.js';
 define(
 			de[3736],
 			he([1, 0, 4, 19, 42, 57, 151, 52, 1892, 53, 121, 9, 41, 110, 62, 22, 73]),

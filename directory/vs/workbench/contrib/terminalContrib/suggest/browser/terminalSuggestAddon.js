@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../editor/contrib/suggest/browser/suggestWidget.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../platform/terminal/common/xterm/shellIntegrationAddon.js';
+import '../../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../terminal/browser/terminal.js';
+import '../../../terminal/common/terminalStorageKeys.js';
+import '../common/terminalSuggestConfiguration.js';
+import '../../../../services/suggest/browser/simpleCompletionItem.js';
+import '../../../../services/suggest/browser/simpleCompletionModel.js';
+import '../../../../services/suggest/browser/simpleSuggestWidget.js';
 define(
 			de[3655],
 			he([

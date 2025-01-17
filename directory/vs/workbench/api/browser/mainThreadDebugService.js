@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uri.js';
+import '../../contrib/debug/common/debug.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../base/common/severity.js';
+import '../../contrib/debug/common/abstractDebugAdapter.js';
+import '../../contrib/debug/common/debugUtils.js';
+import '../../../base/common/errors.js';
+import '../../contrib/debug/common/debugVisualizers.js';
+import '../../../platform/extensions/common/extensions.js';
+import '../../../base/common/event.js';
+import '../../../base/common/types.js';
 define(
 		de[3684],
 		he([1, 0, 3, 9, 112, 88, 101, 111, 3048, 396, 29, 1039, 109, 6, 28]),

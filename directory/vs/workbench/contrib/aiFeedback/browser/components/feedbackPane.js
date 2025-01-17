@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../../base/common/themables.js';
+import '../../../ui/browser/aiInput/aiInput2.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../css!vs/workbench/contrib/aiFeedback/browser/components/aiFeedbackPane.js';
 define(
 			de[4310],
 			he([

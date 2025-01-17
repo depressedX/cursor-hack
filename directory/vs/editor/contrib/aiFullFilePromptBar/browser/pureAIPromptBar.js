@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/path.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/uri.js';
+import '../../../../workbench/contrib/controlCommon/browser/solid.js';
+import '../../../../workbench/contrib/ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../../workbench/contrib/ui/browser/hooks/useIsUsingFileIconTheme.js';
+import '../../../../workbench/contrib/ui/browser/hooks/useVSHoverTooltip.js';
+import '../../../../workbench/contrib/ui/browser/simpleButton/simpleButton.js';
 define(
 			de[4219],
 			he([

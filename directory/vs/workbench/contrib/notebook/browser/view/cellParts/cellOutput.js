@@ -1,3 +1,32 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/markdownRenderer.js';
+import '../../../../../../base/common/actions.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/marshallingIds.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../../platform/actions/browser/toolbar.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/opener/common/opener.js';
+import '../../../../../../platform/quickinput/common/quickInput.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../common/views.js';
+import '../../../../extensions/common/extensions.js';
+import '../../notebookBrowser.js';
+import '../../notebookIcons.js';
+import '../cellPart.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookExecutionStateService.js';
+import '../../../common/notebookService.js';
+import '../../../../../services/panecomposite/browser/panecomposite.js';
+import '../../controller/cellOutputActions.js';
+import '../../contrib/clipboard/cellOutputClipboard.js';
+import '../../../../../../base/common/observable.js';
+import '../../../common/notebookContextKeys.js';
 define(
 			de[3530],
 			he([

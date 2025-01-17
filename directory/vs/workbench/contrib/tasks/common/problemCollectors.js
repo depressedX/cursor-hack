@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import './problemMatcher.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../base/common/uuid.js';
+import '../../../../base/common/platform.js';
 define(
 			de[1814],
 			he([1, 0, 9, 6, 3, 570, 90, 47, 12]),

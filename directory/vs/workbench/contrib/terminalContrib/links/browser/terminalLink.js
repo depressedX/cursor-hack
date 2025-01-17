@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/async.js';
+import './terminalLinkHelpers.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/event.js';
+import '../../../../../platform/configuration/common/configuration.js';
 define(
 			de[3157],
 			he([1, 0, 3, 7, 15, 562, 12, 6, 10]),

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../nls.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/cancellation.js';
 define(
 			de[3309],
 			he([1, 0, 53, 84, 4, 15, 34, 33]),

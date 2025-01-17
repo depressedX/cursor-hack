@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../browser/editorBrowser.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../base/browser/dom.js';
+import './renderBackgroundContextWidget.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[4117],
 			he([1, 0, 56, 3, 45, 7, 4116, 5]),

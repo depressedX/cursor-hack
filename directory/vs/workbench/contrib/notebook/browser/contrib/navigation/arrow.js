@@ -1,3 +1,23 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/keyCodes.js';
+import '../../../../../../editor/browser/editorExtensions.js';
+import '../../../../../../editor/common/editorContextKeys.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../../platform/registry/common/platform.js';
+import '../../../../inlineChat/browser/inlineChatController.js';
+import '../../controller/chat/notebookChatContext.js';
+import '../../controller/coreActions.js';
+import '../../notebookBrowser.js';
+import '../../../common/notebookCommon.js';
+import '../../../common/notebookContextKeys.js';
 define(
 			de[1956],
 			he([

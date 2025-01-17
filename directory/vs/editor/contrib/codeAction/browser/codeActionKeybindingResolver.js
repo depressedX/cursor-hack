@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/hierarchicalKind.js';
+import '../../../../base/common/lazy.js';
+import './codeAction.js';
+import '../common/types.js';
+import '../../../../platform/keybinding/common/keybinding.js';
 define(
 			de[2807],
 			he([1, 0, 318, 149, 393, 291, 39]),

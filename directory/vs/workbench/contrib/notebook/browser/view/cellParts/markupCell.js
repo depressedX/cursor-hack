@@ -1,3 +1,27 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/cancellation.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../../editor/common/editorContextKeys.js';
+import '../../../../../../editor/common/languages/language.js';
+import '../../../../../../editor/common/languages/textToHtmlTokenizer.js';
+import '../../../../../../nls.js';
+import '../../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../../../platform/keybinding/common/keybinding.js';
+import '../../notebookBrowser.js';
+import '../../notebookIcons.js';
+import './cellEditorOptions.js';
+import '../../../../../../editor/contrib/wordHighlighter/browser/wordHighlighter.js';
 define(
 			de[3500],
 			he([

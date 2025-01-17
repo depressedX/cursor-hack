@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../core/index.js';
+import '../../core/index.js';
+import '../../utils/index.js';
+import '../../core/index.js';
+import '../debug-build.js';
+import '../types.js';
+import './cls.js';
+import './instrument.js';
+import './utils.js';
+import './web-vitals/lib/getActivationStart.js';
+import './web-vitals/lib/getNavigationEntry.js';
+import './web-vitals/lib/getVisibilityWatcher.js';
+import './inp.js';
 define(
 			de[2133],
 			he([

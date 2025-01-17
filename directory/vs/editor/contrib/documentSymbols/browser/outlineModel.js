@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/strings.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../common/services/model.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/services/languageFeatures.js';
 define(
 			de[204],
 			he([1, 0, 24, 33, 29, 103, 59, 37, 48, 17, 391, 5, 20, 67, 3, 69]),

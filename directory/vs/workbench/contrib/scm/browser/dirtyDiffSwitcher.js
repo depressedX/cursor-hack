@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../editor/contrib/peekView/browser/peekView.js';
+import '../../../../platform/theme/common/colorRegistry.js';
 define(
 			de[3128],
 			he([1, 0, 4, 50, 49, 198, 106, 35, 255, 51]),

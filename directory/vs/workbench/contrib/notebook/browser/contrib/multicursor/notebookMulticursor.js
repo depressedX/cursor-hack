@@ -1,3 +1,36 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../nls.js';
+import '../../../../../../base/common/event.js';
+import '../../../../../../base/common/keyCodes.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../base/common/map.js';
+import '../../../../../../editor/browser/config/editorConfiguration.js';
+import '../../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../../editor/common/core/selection.js';
+import '../../../../../../editor/common/core/wordHelper.js';
+import '../../../../../../editor/common/cursor/cursor.js';
+import '../../../../../../editor/common/cursor/cursorDeleteOperations.js';
+import '../../../../../../editor/common/cursorCommon.js';
+import '../../../../../../editor/common/cursorEvents.js';
+import '../../../../../../editor/common/languages/languageConfigurationRegistry.js';
+import '../../../../../../editor/common/model/textModel.js';
+import '../../../../../../editor/common/services/resolverService.js';
+import '../../../../../../editor/common/viewModelEventDispatcher.js';
+import '../../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../../platform/actions/common/actions.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import '../../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../../platform/undoRedo/common/undoRedo.js';
+import '../../controller/coreActions.js';
+import '../../notebookBrowser.js';
+import '../../notebookEditorExtensions.js';
+import '../../view/cellParts/cellEditorOptions.js';
+import '../../../common/notebookContextKeys.js';
+import '../../../../../services/editor/common/editorService.js';
+import '../../../../../../editor/browser/editorExtensions.js';
+import '../../../../../common/contributions.js';
 define(
 			de[3497],
 			he([

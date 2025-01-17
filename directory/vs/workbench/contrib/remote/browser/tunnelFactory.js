@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/tunnel/common/tunnel.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../services/environment/browser/environmentService.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/uri.js';
+import '../../../services/remote/common/remoteExplorerService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../services/remote/common/tunnelModel.js';
 define(
 			de[3591],
 			he([1, 0, 4, 374, 3, 286, 41, 9, 519, 34, 8, 839]),

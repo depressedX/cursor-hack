@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../common/workspaceEditing.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../configuration/common/jsonEditing.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../extensions/common/extensions.js';
+import '../../workingCopy/common/workingCopyBackup.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/files/common/files.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/label/common/label.js';
+import '../../textfile/common/textfiles.js';
+import '../../host/browser/host.js';
+import '../browser/abstractWorkspaceEditingService.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../base/common/platform.js';
+import '../../workingCopy/common/workingCopyBackupService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../configuration/common/configuration.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../userDataProfile/common/userDataProfile.js';
+import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[4418],
 			he([

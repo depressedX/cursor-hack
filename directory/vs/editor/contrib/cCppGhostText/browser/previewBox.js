@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/core/range.js';
+import '../../lightweightModel/common/lightweightTextModel.js';
+import '../../../common/core/position.js';
+import '../../../../base/common/uri.js';
+import './utils.js';
 define(
 			de[2697],
 			he([1, 0, 17, 1155, 48, 9, 1547]),

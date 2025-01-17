@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import './scm.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/history.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/iterator.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[3131],
 			he([1, 0, 3, 6, 258, 34, 8, 21, 647, 59, 9, 103, 25, 23, 68]),

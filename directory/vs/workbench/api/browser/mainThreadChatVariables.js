@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/marshalling.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/chat/common/chatVariables.js';
+import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3339],
 			he([1, 0, 3, 197, 88, 503, 101]),

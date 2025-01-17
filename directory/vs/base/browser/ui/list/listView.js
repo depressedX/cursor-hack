@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dnd.js';
+import '../../dom.js';
+import '../../event.js';
+import '../../touch.js';
+import '../scrollbar/scrollableElement.js';
+import '../../../common/arrays.js';
+import '../../../common/async.js';
+import '../../../common/decorators.js';
+import '../../../common/event.js';
+import '../../../common/lifecycle.js';
+import '../../../common/range.js';
+import '../../../common/scrollable.js';
+import './list.js';
+import './rangeMap.js';
+import './rowCache.js';
+import '../../../common/errors.js';
+import '../../../common/numbers.js';
 define(
 			de[539],
 			he([

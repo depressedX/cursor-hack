@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/charCode.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/strings.js';
+import '../../../common/languages.js';
 define(
 			de[1596],
 			he([1, 0, 24, 120, 132, 37, 74]),

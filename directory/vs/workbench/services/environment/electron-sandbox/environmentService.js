@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/environment/common/environmentService.js';
+import '../../../../base/common/decorators.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
 define(
 			de[151],
 			he([1, 0, 113, 5, 1178, 138, 23, 19]),

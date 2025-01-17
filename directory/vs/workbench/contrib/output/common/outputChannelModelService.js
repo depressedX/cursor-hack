@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/date.js';
+import '../../../../base/common/resources.js';
+import './outputChannelModel.js';
 define(
 			de[1853],
 			he([1, 0, 20, 78, 5, 22, 275, 19, 3525]),

@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './debug-build.js';
+import './is.js';
+import './logger.js';
 define(de[1430], he([1, 0, 577, 430, 527]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

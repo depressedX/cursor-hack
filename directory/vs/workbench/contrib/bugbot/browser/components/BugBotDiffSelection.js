@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/ui/progressbar/progressbar.js';
+import '../../../../../editor/browser/widget/diffEditor/diffEditorWidget.js';
+import '../../../../../editor/contrib/hover/browser/diffCodeBlock.js';
+import '../../../../../platform/instantiation/common/serviceCollection.js';
+import '../../../../../platform/progress/common/progress.js';
+import '../../../aichat/browser/components/utilities.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../services/progress/browser/progressIndicator.js';
 define(
 			de[4146],
 			he([1, 0, 2, 2, 2, 2, 13, 436, 309, 1689, 128, 84, 1232, 36, 707]),

@@ -1,3 +1,39 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../part.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lifecycle.js';
+import '../../actions/layoutActions.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../common/theme.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/types.js';
+import '../titlebar/menubarControl.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/window/common/window.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../paneCompositeBar.js';
+import '../globalCompositeBar.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../common/views.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../css!vs/workbench/browser/parts/activitybar/media/activitybarpart.js';
+import '../../../../css!vs/workbench/browser/parts/activitybar/media/activityaction.js';
 define(
 			de[4013],
 			he([

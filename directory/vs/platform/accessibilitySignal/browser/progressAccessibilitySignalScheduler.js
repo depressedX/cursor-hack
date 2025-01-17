@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/lifecycle.js';
+import './accessibilitySignalService.js';
 define(de[1650], he([1, 0, 15, 3, 184]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$LIc = void 0);

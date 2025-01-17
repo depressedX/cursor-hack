@@ -1,3 +1,23 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/scrollable.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../controlCommon/browser/solid.js';
+import './InputBox.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../css!vs/workbench/contrib/aicontext/browser/components/AiContext.js';
 define(
 			de[1981],
 			he([

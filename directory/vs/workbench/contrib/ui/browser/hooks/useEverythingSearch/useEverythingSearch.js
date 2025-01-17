@@ -1,3 +1,15 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/common/cancellation.js';
+import '../../../../controlCommon/browser/solid.js';
+import './searchFiles.js';
+import './searchFolders.js';
+import './searchGit.js';
+import './searchNotepads.js';
+import './searchSymbols.js';
+import './searchSemantics.js';
+import './types.js';
 define(
 			de[1071],
 			he([1, 0, 13, 33, 36, 3202, 3919, 3198, 3199, 3201, 3200, 444]),

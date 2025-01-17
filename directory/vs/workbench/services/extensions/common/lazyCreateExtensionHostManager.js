@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/remote/common/remoteAuthorityResolver.js';
+import './extensionHostManager.js';
+import './extensions.js';
 define(
 			de[3380],
 			he([1, 0, 15, 6, 3, 5, 34, 211, 1822, 53]),

@@ -1,3 +1,14 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/browser/dom.js';
+import '../../../../../../base/browser/trustedTypes.js';
+import '../../../../../../base/common/color.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../../../editor/common/config/editorOptions.js';
+import '../../../../../../editor/common/core/range.js';
+import '../../../../../../editor/common/encodedTokenAttributes.js';
+import '../../../../../../editor/common/languages.js';
+import '../../../../../../editor/common/languages/textToHtmlTokenizer.js';
 define(
 			de[3096],
 			he([1, 0, 7, 432, 97, 12, 38, 17, 171, 74, 597]),

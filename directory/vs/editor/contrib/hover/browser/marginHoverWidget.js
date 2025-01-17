@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/languages/language.js';
+import './hoverOperation.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import './marginHoverComputer.js';
+import './hoverUtils.js';
 define(
 			de[2775],
 			he([1, 0, 7, 3, 251, 56, 38, 61, 601, 41, 160, 2769, 937]),

@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './enum.js';
+import './message-type.js';
+import './extensions.js';
+import './json-format.js';
+import './binary-format.js';
+import './util-common.js';
 define(
 			de[1400],
 			he([1, 0, 1083, 2028, 1087, 2035, 2034, 2037]),

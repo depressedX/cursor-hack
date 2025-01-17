@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../common/editor.js';
+import './inlineChatSessionService.js';
+import '../common/inlineChat.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../services/textfile/common/textfiles.js';
+import '../../../../base/common/iterator.js';
+import '../../../../base/common/network.js';
+import '../../notebook/common/notebookCommon.js';
+import '../../notebook/browser/notebookBrowser.js';
+import '../../../../base/common/strings.js';
+import '../../../services/workingCopy/common/workingCopyFileService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/event.js';
+import './inlineChatController.js';
 define(
 			de[4085],
 			he([

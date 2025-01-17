@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../dompurify/dompurify.js';
+import '../../keyboardEvent.js';
+import '../../markdownRenderer.js';
+import '../../touch.js';
+import '../hover/hoverDelegateFactory.js';
+import '../iconLabel/iconLabels.js';
+import '../../../common/actions.js';
+import '../../../common/codicons.js';
+import '../../../common/color.js';
+import '../../../common/event.js';
+import '../../../common/htmlContent.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../common/themables.js';
+import '../../../../nls.js';
+import '../hover/hoverDelegate2.js';
+import '../../../../css!vs/base/browser/ui/button/button.js';
 define(
 			de[183],
 			he([

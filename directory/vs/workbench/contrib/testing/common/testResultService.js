@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arraysFind.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/functional.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import './testingContextKeys.js';
+import './testProfileService.js';
+import './testResult.js';
+import './testResultStorage.js';
+import './testTypes.js';
 define(
 			de[381],
 			he([1, 0, 214, 15, 6, 288, 3, 47, 8, 5, 32, 380, 420, 421, 1774, 185]),

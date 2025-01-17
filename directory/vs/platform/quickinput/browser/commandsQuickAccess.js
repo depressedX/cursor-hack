@@ -1,3 +1,22 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errorMessage.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/filters.js';
+import '../../../base/common/functional.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/map.js';
+import '../../../base/common/tfIdf.js';
+import '../../../nls.js';
+import '../../commands/common/commands.js';
+import '../../configuration/common/configuration.js';
+import '../../dialogs/common/dialogs.js';
+import '../../instantiation/common/instantiation.js';
+import '../../keybinding/common/keybinding.js';
+import '../../log/common/log.js';
+import './pickerQuickAccess.js';
+import '../../storage/common/storage.js';
+import '../../telemetry/common/telemetry.js';
 define(
 			de[679],
 			he([

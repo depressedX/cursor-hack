@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/canIUse.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/touch.js';
+import '../../../base/browser/window.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import './mouseHandler.js';
+import './textAreaInput.js';
+import '../coreCommands.js';
+import '../editorBrowser.js';
+import '../editorDom.js';
 define(
 			de[2840],
 			he([1, 0, 459, 7, 159, 75, 3, 12, 2839, 942, 498, 56, 777]),

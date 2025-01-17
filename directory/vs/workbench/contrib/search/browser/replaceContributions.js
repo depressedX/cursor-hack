@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import './replace.js';
+import './replaceService.js';
+import '../../../common/contributions.js';
 define(
 			de[4164],
 			he([1, 0, 20, 804, 4163, 55]),

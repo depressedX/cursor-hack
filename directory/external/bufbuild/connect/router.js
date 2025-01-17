@@ -1,3 +1,12 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './connect-error.js';
+import './code.js';
+import './implementation.js';
+import './protocol-grpc-web/handler-factory.js';
+import './protocol-grpc/handler-factory.js';
+import './protocol-connect/handler-factory.js';
+import './protocol/universal-handler.js';
 define(
 			de[1412],
 			he([1, 0, 213, 202, 634, 2052, 2053, 2051, 877]),

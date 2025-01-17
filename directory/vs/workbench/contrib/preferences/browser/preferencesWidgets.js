@@ -1,3 +1,37 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../base/browser/ui/widget.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/model.js';
+import '../../../../nls.js';
+import '../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import '../../../../platform/history/browser/historyWidgetKeybindingHint.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../base/common/themables.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './preferencesIcons.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[1293],
 			he([

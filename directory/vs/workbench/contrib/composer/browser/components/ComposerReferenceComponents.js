@@ -1,3 +1,20 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/path.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../platform/tracing/common/tracing.js';
+import '../../../ui/browser/hooks/useIsUsingFileIconTheme.js';
 define(
 			de[1975],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 54, 26, 14, 156, 36, 216, 428]),

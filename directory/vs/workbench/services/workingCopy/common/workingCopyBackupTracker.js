@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import './workingCopy.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/async.js';
+import '../../../common/editor.js';
 define(
 			de[3854],
 			he([1, 0, 3, 334, 52, 33, 15, 44]),

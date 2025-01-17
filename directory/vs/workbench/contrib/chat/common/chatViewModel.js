@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marked/marked.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/log/common/log.js';
+import './annotations.js';
+import './chatAgents.js';
+import './chatModel.js';
+import './chatWordCounter.js';
+import '../../../../base/common/hash.js';
 define(
 			de[283],
 			he([1, 0, 6, 3, 434, 5, 34, 982, 153, 441, 790, 136]),

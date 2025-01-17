@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/hash.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/model.js';
+import '../../../../../editor/common/model/pieceTreeTextBuffer/pieceTreeTextBuffer.js';
+import '../../../../../editor/common/model/pieceTreeTextBuffer/pieceTreeTextBufferBuilder.js';
+import '../../../../../editor/common/languages/modesRegistry.js';
+import './notebookCellOutputTextModel.js';
+import '../../../../../base/common/async.js';
 define(
 			de[1029],
 			he([1, 0, 6, 136, 3, 47, 17, 64, 1194, 1195, 172, 1842, 15]),

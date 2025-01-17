@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/buffer.js';
+import '../core/position.js';
+import '../core/eolCounter.js';
+import './contiguousTokensEditing.js';
+import '../core/lineRange.js';
 define(
 			de[2573],
 			he([1, 0, 24, 76, 48, 531, 1544, 196]),

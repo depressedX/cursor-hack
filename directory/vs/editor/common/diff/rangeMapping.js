@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errors.js';
+import '../core/lineRange.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../core/textEdit.js';
 define(
 			de[342],
 			he([1, 0, 29, 196, 48, 17, 490]),

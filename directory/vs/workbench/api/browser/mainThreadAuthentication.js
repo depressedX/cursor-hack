@@ -1,3 +1,24 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../nls.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/authentication/common/authentication.js';
+import '../common/extHost.protocol.js';
+import '../../../platform/dialogs/common/dialogs.js';
+import '../../../base/common/severity.js';
+import '../../../platform/notification/common/notification.js';
+import '../../services/extensions/common/extensions.js';
+import '../../../platform/telemetry/common/telemetry.js';
+import '../../../base/common/event.js';
+import '../../../platform/product/common/productService.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../services/authentication/browser/authenticationAccessService.js';
+import '../../services/authentication/browser/authenticationUsageService.js';
+import '../../services/authentication/browser/authenticationService.js';
+import '../../../base/common/uri.js';
+import '../../../platform/opener/common/opener.js';
+import '../../../base/common/errors.js';
 define(
 		de[3338],
 		he([

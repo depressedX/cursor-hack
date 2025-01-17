@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './chatCollections.js';
+import '../chatMarkdownDecorationsRenderer.js';
+import '../codeBlockPart.js';
+import '../../common/chatViewModel.js';
 define(
 			de[4064],
 			he([1, 0, 7, 6, 3, 37, 17, 42, 11, 8, 5, 979, 1354, 845, 283]),

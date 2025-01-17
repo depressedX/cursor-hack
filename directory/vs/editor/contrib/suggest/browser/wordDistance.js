@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/languages.js';
+import '../../smartSelect/browser/bracketSelections.js';
 define(
 			de[1609],
 			he([1, 0, 24, 38, 17, 74, 1556]),

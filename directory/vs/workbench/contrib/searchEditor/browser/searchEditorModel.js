@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './searchEditorSerialization.js';
+import '../../../services/workingCopy/common/workingCopyBackup.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/model/textModel.js';
+import './constants.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/map.js';
+import '../../../services/search/common/search.js';
 define(
 			de[4170],
 			he([1, 0, 67, 61, 5, 1067, 335, 28, 122, 615, 6, 59, 186]),

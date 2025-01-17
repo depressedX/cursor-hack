@@ -1,3 +1,39 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/color.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/stream.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/uint.js';
+import '../../../base/common/uri.js';
+import '../core/eolCounter.js';
+import '../core/indentation.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../core/selection.js';
+import '../core/textModelDefaults.js';
+import '../languages/language.js';
+import '../languages/languageConfigurationRegistry.js';
+import '../model.js';
+import './bracketPairsTextModelPart/bracketPairsImpl.js';
+import './bracketPairsTextModelPart/colorizedBracketPairsDecorationProvider.js';
+import './editStack.js';
+import './guidesTextModelPart.js';
+import './indentationGuesser.js';
+import './intervalTree.js';
+import './pieceTreeTextBuffer/pieceTreeTextBuffer.js';
+import './pieceTreeTextBuffer/pieceTreeTextBufferBuilder.js';
+import './textModelSearch.js';
+import './tokenizationTextModelPart.js';
+import './tokens.js';
+import '../textModelEvents.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../external/solid/store.js';
+import '../../../platform/tooltipService/common/tooltipService.js';
 define(
 			de[122],
 			he([

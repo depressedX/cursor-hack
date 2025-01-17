@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../common/dataScrubbingService.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../editor/common/editorService.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/editor.js';
+import '../../../../base/common/network.js';
+import '../../editor/common/editorGroupsService.js';
+import '../../../contrib/notebook/browser/notebookBrowser.js';
+import '../../../../editor/common/core/position.js';
+import '../../../../editor/browser/editorBrowser.js';
+import './utils.js';
 define(
 			de[837],
 			he([

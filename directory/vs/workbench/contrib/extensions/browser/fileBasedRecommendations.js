@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import './extensionRecommendations.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/extensionRecommendations/common/extensionRecommendations.js';
+import '../common/extensions.js';
+import '../../../../nls.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/glob.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../platform/extensionRecommendations/common/extensionRecommendations.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/lifecycle.js';
+import '../../notebook/common/notebookCommon.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/languages/modesRegistry.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[3467],
 			he([

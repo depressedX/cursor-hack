@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
+import '../../../../../editor/common/editorContextKeys.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/instantiation/common/serviceCollection.js';
+import '../notebookBrowser.js';
+import './cellParts/cellEditorOptions.js';
 define(
 			de[3502],
 			he([1, 0, 7, 15, 3, 206, 71, 42, 10, 8, 5, 128, 108, 836]),

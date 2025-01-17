@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/widget/markdownRenderer/browser/markdownRenderer.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../base/browser/ui/resizable/resizable.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1633],
 			he([1, 0, 7, 203, 14, 26, 6, 94, 3, 251, 38, 930, 4, 5]),

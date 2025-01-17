@@ -1,3 +1,47 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import './terminalActions.js';
+import '../../../../platform/notification/common/notification.js';
+import './terminal.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/views.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/actions/common/actions.js';
+import '../common/terminal.js';
+import '../../../../platform/terminal/common/terminal.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import './terminalTabbedView.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import './terminalStatusList.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/actions/browser/dropdownWithPrimaryActionViewItem.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/theme/common/theme.js';
+import './terminalIcon.js';
+import './terminalMenus.js';
+import '../common/terminalContextKey.js';
+import './terminalTooltip.js';
+import '../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import './terminalContextMenu.js';
+import '../../../../base/common/symbols.js';
 define(
 			de[1949],
 			he([

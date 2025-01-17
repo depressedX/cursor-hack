@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/url/common/url.js';
+import '../../../common/contributions.js';
+import './externalUriResolver.js';
+import './trustedDomains.js';
+import './trustedDomainsFileSystemProvider.js';
+import './trustedDomainsValidator.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../common/configuration.js';
+import './trustedDomainService.js';
+import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[3571],
 			he([

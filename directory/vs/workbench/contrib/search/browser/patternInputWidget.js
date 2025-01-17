@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/toggle/toggle.js';
+import '../../../../base/browser/ui/widget.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../nls.js';
+import '../../../../platform/history/browser/contextScopedHistoryWidget.js';
+import '../../../../platform/history/browser/historyWidgetKeybindingHint.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
 define(
 			de[1748],
 			he([1, 0, 7, 268, 235, 14, 6, 27, 4, 413, 664, 10, 8, 39, 106, 95]),

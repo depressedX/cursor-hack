@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/performance.js';
+import '../../../base/common/types.js';
+import '../../../base/parts/storage/common/storage.js';
+import '../../instantiation/common/instantiation.js';
+import '../../userDataProfile/common/userDataProfile.js';
 define(
 			de[21],
 			he([1, 0, 15, 6, 3, 240, 28, 1174, 5, 129]),

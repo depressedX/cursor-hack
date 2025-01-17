@@ -1,3 +1,16 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import './settingsGroup.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../ui/browser/checkbox/checkbox.js';
+import '../../../../ui/browser/hooks/useThemeHooks.js';
 define(
 			de[1064],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 2998, 36, 1006, 331]),

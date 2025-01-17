@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/files/common/files.js';
+import '../../../common/editor.js';
+import './workingCopyService.js';
+import './workingCopy.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/types.js';
+import './workingCopyFileService.js';
+import '../../filesConfiguration/common/filesConfigurationService.js';
+import './workingCopyBackup.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/platform.js';
+import './workingCopyEditorService.js';
+import '../../editor/common/editorService.js';
+import '../../files/common/elevatedFileService.js';
+import './resourceWorkingCopy.js';
+import './fileWorkingCopy.js';
+import '../../../../platform/progress/common/progress.js';
 define(
 			de[1052],
 			he([

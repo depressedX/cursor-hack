@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import './repl.js';
+import '../../../services/views/common/viewsService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/core/position.js';
 define(
 			de[3826],
 			he([1, 0, 178, 130, 847, 89, 8, 6, 3, 48]),

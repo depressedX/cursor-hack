@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/network.js';
+import '../../product/common/productService.js';
+import '../common/remoteAuthorityResolver.js';
 define(
 			de[2788],
 			he([1, 0, 15, 29, 6, 3, 23, 62, 211]),

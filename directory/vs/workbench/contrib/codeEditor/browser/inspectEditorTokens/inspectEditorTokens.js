@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/charCode.js';
+import '../../../../../base/common/color.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../editor/common/languages.js';
+import '../../../../../editor/common/encodedTokenAttributes.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../platform/notification/common/notification.js';
+import '../../../../services/textMate/common/TMHelper.js';
+import '../../../../services/textMate/browser/textMateTokenizationFeature.js';
+import '../../../../services/themes/common/workbenchThemeService.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../platform/theme/common/tokenClassificationRegistry.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../editor/contrib/semanticTokens/common/semanticTokensConfig.js';
+import '../../../../../base/common/network.js';
+import '../../../../../editor/common/services/languageFeatures.js';
+import '../../../../../editor/common/services/treeSitterParserService.js';
+import '../../../../../css!vs/workbench/contrib/codeEditor/browser/inspectEditorTokens/inspectEditorTokens.js';
 define(
 			de[3716],
 			he([

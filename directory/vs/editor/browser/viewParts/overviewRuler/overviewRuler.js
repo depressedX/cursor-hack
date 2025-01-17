@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/viewModel/overviewZoneManager.js';
+import '../../../common/viewEventHandler.js';
 define(
 			de[2717],
 			he([1, 0, 194, 38, 1546, 750]),

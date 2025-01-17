@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/progress/common/progress.js';
+import '../common/debug.js';
+import '../../../services/views/common/viewsService.js';
 define(
 			de[3816],
 			he([1, 0, 6, 3, 84, 112, 89]),

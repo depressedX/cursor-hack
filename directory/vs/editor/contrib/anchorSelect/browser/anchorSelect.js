@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/core/selection.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/model.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../css!vs/editor/contrib/anchorSelect/browser/anchorSelect.js';
 define(
 			de[2800],
 			he([1, 0, 127, 94, 27, 46, 104, 71, 64, 4, 8, 43, 2284]),

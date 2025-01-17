@@ -1,3 +1,29 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/marshalling.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/observableInternal/utils.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../../editor/browser/widget/diffEditor/utils.js';
+import '../../../../editor/browser/widget/multiDiffEditor/multiDiffEditorViewModel.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../nls.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../common/editor.js';
+import '../../../common/editor/editorInput.js';
+import './icons.contribution.js';
+import './multiDiffSourceResolverService.js';
+import '../../../services/editor/common/editorResolverService.js';
+import '../../../services/textfile/common/textfiles.js';
 define(
 			de[712],
 			he([

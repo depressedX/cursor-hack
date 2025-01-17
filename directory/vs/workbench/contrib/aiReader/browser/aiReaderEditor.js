@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../browser/parts/editor/editorPane.js';
+import '../../../common/editor/editorInput.js';
+import '../../../common/theme.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/network.js';
+import './aiReader.js';
 define(
 			de[1710],
 			he([1, 0, 7, 58, 3, 21, 32, 35, 217, 223, 123, 9, 23, 788]),

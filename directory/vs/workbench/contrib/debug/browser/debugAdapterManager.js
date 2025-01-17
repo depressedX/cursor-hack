@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/strings.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/registry/common/platform.js';
+import '../common/breakpoints.js';
+import '../common/debug.js';
+import '../common/debugger.js';
+import '../common/debugSchemas.js';
+import '../../tasks/common/taskDefinitionRegistry.js';
+import '../../tasks/common/taskService.js';
+import '../../../services/configuration/common/configuration.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
 define(
 		de[3422],
 		he([

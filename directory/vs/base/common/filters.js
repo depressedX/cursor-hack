@@ -1,3 +1,9 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './charCode.js';
+import './map.js';
+import './naturalLanguage/korean.js';
+import './strings.js';
 define(
 			de[132],
 			he([1, 0, 120, 59, 2218, 37]),

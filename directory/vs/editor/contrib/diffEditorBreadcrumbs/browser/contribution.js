@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/observable.js';
+import '../../../browser/widget/diffEditor/features/hideUnchangedRegionsFeature.js';
+import '../../../browser/widget/diffEditor/utils.js';
+import '../../../common/services/languageFeatures.js';
+import '../../documentSymbols/browser/outlineModel.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
 define(
 			de[2805],
 			he([1, 0, 24, 77, 1641, 370, 69, 204, 3, 6]),

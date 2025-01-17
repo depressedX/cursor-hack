@@ -1,3 +1,15 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/network.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/semver/semver.js';
+import '../../../base/common/uri.js';
+import '../../../nls.js';
+import './extensionManagement.js';
+import './extensionManagementUtil.js';
+import '../../extensions/common/extensions.js';
 define(
 			de[2817],
 			he([1, 0, 33, 29, 23, 19, 464, 9, 4, 119, 154, 109]),

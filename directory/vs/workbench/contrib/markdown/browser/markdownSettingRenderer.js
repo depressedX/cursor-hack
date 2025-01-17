@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../preferences/browser/settingsTreeModels.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../base/common/network.js';
 define(
 			de[3759],
 			he([1, 0, 4, 131, 1042, 10, 49, 198, 32, 121, 23]),

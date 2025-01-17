@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/action/common/actionCommonCategories.js';
+import '../../../../platform/actions/common/actions.js';
 define(
 			de[3263],
 			he([1, 0, 4, 39, 18, 99, 11]),

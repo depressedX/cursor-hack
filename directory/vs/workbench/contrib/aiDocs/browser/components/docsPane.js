@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/browser/baseSolidComponents/combobox/api.js';
+import '../../../../../base/browser/baseSolidComponents/separator/api.js';
+import '../../../../../../proto/aiserver/v1/uploadserver_pb.js';
+import '../../../../services/ai/browser/utils.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../css!vs/workbench/contrib/aiDocs/browser/components/docsPane.js';
 define(
 			de[4123],
 			he([

@@ -1,3 +1,16 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/uri.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/editor/common/editor.js';
+import '../../contrib/notebook/browser/notebookBrowser.js';
+import '../../contrib/notebook/browser/services/notebookEditorService.js';
+import '../../services/editor/common/editorGroupColumn.js';
+import '../../services/editor/common/editorGroupsService.js';
+import '../../services/editor/common/editorService.js';
+import '../common/extHost.protocol.js';
 define(
 			de[3483],
 			he([1, 0, 3, 82, 9, 10, 116, 108, 293, 446, 66, 18, 88]),

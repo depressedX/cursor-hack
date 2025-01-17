@@ -1,3 +1,30 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import './InputBox.js';
+import '../../../../../../proto/aiserver/v1/repository_pb.js';
+import '../../../ui/browser/widgets/codeBlock.js';
+import '../../../../../base/common/uri.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../base/common/scrollable.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../../services/ai/common/chunker.js';
+import '../../../../../editor/common/services/getIconClasses.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../../../../base/common/path.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../css!vs/workbench/contrib/aisearch/browser/components/AiSearch.js';
 define(
 			de[1375],
 			he([

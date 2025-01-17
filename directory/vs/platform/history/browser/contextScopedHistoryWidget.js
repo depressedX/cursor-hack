@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/ui/findinput/findInput.js';
+import '../../../base/browser/ui/findinput/replaceInput.js';
+import '../../../base/browser/ui/inputbox/inputBox.js';
+import '../../../base/common/keyCodes.js';
+import '../../contextkey/common/contextkey.js';
+import '../../keybinding/common/keybindingsRegistry.js';
+import '../../../nls.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/browser/dom.js';
 define(
 			de[413],
 			he([1, 0, 932, 2687, 292, 27, 8, 43, 4, 3, 7]),

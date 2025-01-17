@@ -1,3 +1,38 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/browser/editorBrowser.js';
+import '../../../../../nls.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../editor/common/languages/modesRegistry.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/event.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../editor/common/config/editorOptions.js';
+import '../../../../../editor/browser/editorExtensions.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../services/editor/common/editorGroupsService.js';
+import '../../../../../base/browser/formattedTextRenderer.js';
+import '../../../snippets/browser/commands/fileTemplateSnippets.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../platform/product/common/productService.js';
+import '../../../../../base/browser/ui/keybindingLabel/keybindingLabel.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/browser/ui/aria/aria.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../services/output/common/output.js';
+import '../../../../services/search/common/search.js';
+import '../../../../../editor/contrib/cHintLine/browser/hintLineWidget.js';
+import '../../../../../editor/contrib/cHintLine/browser/hintLineContributions.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../editor/common/editorContextKeys.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../../platform/hover/browser/hover.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../base/browser/mouseEvent.js';
+import '../../../../../css!vs/workbench/contrib/codeEditor/browser/emptyTextEditorHint/emptyTextEditorHint.js';
 define(
 			de[1933],
 			he([

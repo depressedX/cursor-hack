@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/dialogs/common/dialogs.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../mergeEditorInput.js';
+import '../view/mergeEditor.js';
+import '../../common/mergeEditor.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[3867],
 			he([1, 0, 14, 19, 9, 4, 11, 8, 57, 41, 21, 711, 1050, 687, 18]),

@@ -1,3 +1,41 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../editorState/browser/editorState.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorExtensions.js';
+import '../../../browser/services/codeEditorService.js';
+import '../../../browser/widget/codeEditor/embeddedCodeEditorWidget.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/position.js';
+import '../../../common/core/range.js';
+import '../../../common/editorCommon.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/languages.js';
+import './peek/referencesController.js';
+import './referencesModel.js';
+import './symbolNavigation.js';
+import '../../message/browser/messageController.js';
+import '../../peekView/browser/peekView.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/progress/common/progress.js';
+import './goToSymbol.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../base/common/iterator.js';
+import '../../../common/services/markerDecorations.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
 define(
 			de[1036],
 			he([

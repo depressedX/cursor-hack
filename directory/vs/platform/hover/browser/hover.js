@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../instantiation/common/instantiation.js';
+import '../../../base/common/lifecycle.js';
+import '../../configuration/common/configuration.js';
+import '../../../base/browser/dom.js';
+import '../../../base/common/keyCodes.js';
 define(
 			de[72],
 			he([1, 0, 5, 3, 10, 7, 27]),

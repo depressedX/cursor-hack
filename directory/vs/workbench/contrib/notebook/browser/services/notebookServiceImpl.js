@@ -1,3 +1,40 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/errorMessage.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/iterator.js';
+import '../../../../../base/common/lazy.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/map.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/types.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/files/common/files.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/storage/common/storage.js';
+import '../../../../common/memento.js';
+import '../notebookExtensionPoint.js';
+import '../../common/notebookDiffEditorInput.js';
+import '../../common/model/notebookTextModel.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookEditorInput.js';
+import '../../common/notebookEditorModelResolverService.js';
+import '../../common/notebookOutputRenderer.js';
+import '../../common/notebookProvider.js';
+import '../../common/notebookService.js';
+import '../../../../services/editor/common/editorResolverService.js';
+import '../../../../services/extensions/common/extensions.js';
+import '../../../extensions/browser/extensionsActions.js';
+import '../../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../../services/notebook/common/notebookDocumentService.js';
+import '../../../mergeEditor/browser/mergeEditorInput.js';
+import '../../../../../base/common/buffer.js';
+import '../diff/notebookMultiDiffEditorInput.js';
 define(
 			de[4091],
 			he([

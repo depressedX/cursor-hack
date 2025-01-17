@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/uri.js';
+import '../codeSelections.js';
+import './InputBoxCodeSelection.js';
+import '../../../controlCommon/browser/solid.js';
 define(
 			de[4141],
 			he([1, 0, 2, 13, 9, 354, 1363, 36]),

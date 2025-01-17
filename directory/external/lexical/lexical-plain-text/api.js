@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../lexical-clipboard/api.js';
+import '../lexical-selection/api.js';
+import '../lexical-utils/api.js';
+import '../lexical/api.js';
+import '../shared/environment.js';
 define(
 			de[2599],
 			he([1, 0, 2598, 921, 304, 164, 1416]),

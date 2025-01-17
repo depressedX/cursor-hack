@@ -1,3 +1,16 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/async.js';
+import '../../../ui/browser/utils/getUnrepeatedFileNames.js';
+import '../../../../services/selectedContext/browser/utils.js';
+import '../../../utils/browser/chatAndComposerSuggestedFileReranking.js';
+import '../../../../../base/common/uri.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../base/common/resources.js';
 define(
 			de[4151],
 			he([1, 0, 13, 9, 15, 1273, 299, 1007, 9, 36, 270, 58, 19]),

@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/log/common/log.js';
+import './workingCopyBackup.js';
 define(
 			de[1911],
 			he([1, 0, 6, 3, 59, 15, 22, 34, 335]),

@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../hover/browser/hoverTypes.js';
+import './controller/commands.js';
+import './hintsWidget/hoverParticipant.js';
+import './inlineCompletionsAccessibleView.js';
+import './controller/inlineCompletionsController.js';
+import '../../../../platform/accessibility/browser/accessibleViewRegistry.js';
+import '../../../../platform/actions/common/actions.js';
 define(
 			de[3933],
 			he([1, 0, 46, 368, 1928, 2929, 2930, 501, 412, 11]),

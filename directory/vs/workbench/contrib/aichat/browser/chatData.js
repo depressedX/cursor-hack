@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/keybindings.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
 define(
 			de[140],
 			he([1, 0, 13, 27, 343, 12, 205]),

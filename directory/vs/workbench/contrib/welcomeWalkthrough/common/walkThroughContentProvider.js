@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../base/common/marked/marked.js';
+import '../../../../base/common/network.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/model/textModel.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1276],
 			he([1, 0, 42, 67, 64, 61, 434, 23, 17, 122, 28, 5]),

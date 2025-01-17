@@ -1,3 +1,18 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/constants.js';
+import '../chatData.js';
+import './useBubble.js';
+import '../../../aiConfig/browser/aiConfigHelper.js';
+import '../../../../services/selectedContext/browser/hooks/useContextPills.js';
+import '../../../../services/selectedContext/browser/utils.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/uri.js';
+import '../../../ui/browser/utils/getUnrepeatedFileNames.js';
+import '../../../../../base/common/path.js';
+import '../../../utils/browser/chatAndComposerSuggestedFileReranking.js';
 define(
 			de[2010],
 			he([1, 0, 13, 58, 140, 1712, 270, 1385, 299, 36, 15, 9, 1273, 54, 1007]),

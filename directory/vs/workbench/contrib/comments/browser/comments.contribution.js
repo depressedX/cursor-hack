@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/registry/common/platform.js';
+import './commentService.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../common/contributions.js';
+import '../../../services/activity/common/activity.js';
+import './commentsTreeViewer.js';
+import '../../../../editor/common/languages.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/actions/common/actions.js';
+import './commentsView.js';
+import '../../../browser/parts/views/viewPane.js';
+import '../../../../base/common/codicons.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import './commentsController.js';
+import '../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/accessibility/browser/accessibleViewRegistry.js';
+import './commentsAccessibleView.js';
+import './commentsAccessibility.js';
+import './commentsEditorContribution.js';
 define(
 			de[3814],
 			he([

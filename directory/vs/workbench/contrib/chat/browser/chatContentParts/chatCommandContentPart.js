@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/button/button.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/theme/browser/defaultStyles.js';
+import '../../common/chatViewModel.js';
 define(
 			de[3014],
 			he([1, 0, 7, 183, 3, 4, 31, 106, 283]),

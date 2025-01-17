@@ -1,3 +1,38 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/processes.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../base/parts/ipc/common/ipc.net.js';
+import '../../../../base/parts/ipc/electron-sandbox/ipc.mp.js';
+import '../../../../nls.js';
+import '../../../../platform/debug/common/extensionHostDebug.js';
+import '../../../../platform/extensions/common/extensionHostStarter.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/telemetry/common/telemetryUtils.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../../environment/electron-sandbox/shellEnvironmentService.js';
+import '../common/extensionHostEnv.js';
+import '../common/extensionHostProtocol.js';
+import '../common/extensions.js';
+import '../../host/browser/host.js';
+import '../../lifecycle/common/lifecycle.js';
+import '../common/extensionDevOptions.js';
 define(
 			de[3453],
 			he([

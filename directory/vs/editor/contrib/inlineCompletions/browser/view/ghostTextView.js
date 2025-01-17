@@ -1,3 +1,24 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/trustedTypes.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/strings.js';
+import '../../../../browser/config/domFontInfo.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/position.js';
+import '../../../../common/core/range.js';
+import '../../../../common/core/stringBuilder.js';
+import '../../../../common/languages/language.js';
+import '../../../../common/model.js';
+import '../../../../common/tokens/lineTokens.js';
+import '../../../../common/viewLayout/lineDecorations.js';
+import '../../../../common/viewLayout/viewLineRenderer.js';
+import '../../../../common/viewModel.js';
+import '../model/ghostText.js';
+import '../utils.js';
+import '../../../../../css!vs/editor/contrib/inlineCompletions/browser/view/ghostTextView.js';
 define(
 			de[947],
 			he([

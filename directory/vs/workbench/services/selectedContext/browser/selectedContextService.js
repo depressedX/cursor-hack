@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import './selectedContextData.js';
+import '../../../../platform/undoRedo/common/undoRedo.js';
+import '../../../../editor/browser/services/genericUndoRedoElement.js';
+import '../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../contrib/aichat/browser/codeSelections.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../ai/common/dataScrubbingService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../base/common/uri.js';
+import '../../workspaces/browser/sourceFilesService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/types.js';
+import '../../ai/browser/gitContextService.js';
+import '../../../contrib/terminal/browser/terminal.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../utils/browser/generateImageProtos.js';
+import '../../../contrib/notepad/browser/notepad.js';
+import '../../utils/common/ignore.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../ai/browser/aiFileInfoService.js';
+import '../../search/common/search.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../ai/browser/repositoryService.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../search/common/queryBuilder.js';
 define(
 		de[3920],
 		he([

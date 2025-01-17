@@ -1,3 +1,10 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../cursorCommon.js';
+import '../core/position.js';
+import '../core/range.js';
+import '../core/selection.js';
+import '../model.js';
 define(
 			de[2760],
 			he([1, 0, 346, 48, 17, 104, 64]),

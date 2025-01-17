@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../cppEventLogger.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/instantiation/common/extensions.js';
+import '../../../../../editor/contrib/codeAction/browser/codeActionController.js';
+import '../../../../../editor/contrib/suggest/browser/suggestController.js';
+import '../../../../services/ai/browser/aiMiscServices.js';
+import '../../../../../base/common/map.js';
 define(
 			de[3224],
 			he([1, 0, 332, 5, 20, 500, 328, 137, 59]),

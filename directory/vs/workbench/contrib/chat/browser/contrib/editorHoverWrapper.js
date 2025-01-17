@@ -1,3 +1,9 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../css!vs/workbench/contrib/chat/browser/contrib/media/editorHoverWrapper.js';
 define(de[3011], he([1, 0, 7, 160, 39, 2392]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,47 @@
+import '../../../../../../../../require.js';
+import '../../../../../../../../exports.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/lexical/lexical-solid/LexicalComposerContext.js';
+import '../../../../../../../../external/lexical/lexical-solid/LexicalTypeaheadMenuPlugin.js';
+import '../../../../../../../../external/lexical/lexical-solid/shared/LexicalMenu.js';
+import '../../../../../../../../external/lexical/lexical-utils/api.js';
+import '../../../../../../../../external/lexical/lexical/api.js';
+import '../../../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../../../../external/solid/solid.js';
+import '../../../../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../../../../base/browser/dom.js';
+import '../../../../../../../base/common/codicons.js';
+import '../../../../../../../base/common/lifecycle.js';
+import '../../../../../../../base/common/path.js';
+import '../../../../../../../base/common/themables.js';
+import '../../../../../../../base/common/uri.js';
+import '../../../../../../../base/common/uuid.js';
+import '../../../../../../../editor/common/core/range.js';
+import '../../../../../../../platform/dnd/browser/dnd.js';
+import '../../../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../../aichat/browser/codeSelections.js';
+import '../InputBoxMenu.js';
+import './pureIcon.js';
+import './searchHooks.js';
+import './types.js';
+import '../recognizers.js';
+import '../../../widgets/codeBlock.js';
+import '../../../../../controlCommon/browser/solid.js';
+import './MentionNode.js';
+import '../../../../../../../../external/lexical/lexical-selection/lexical-node.js';
+import '../../../badge/badge.js';
+import '../../../../../../../base/common/platform.js';
+import '../../../../../../../css!vs/workbench/contrib/ui/browser/aiInput/plugins/mentions/MentionsPlugin.js';
 define(
 			de[1382],
 			he([

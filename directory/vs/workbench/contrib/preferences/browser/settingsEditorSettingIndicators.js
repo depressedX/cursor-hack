@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../base/browser/ui/iconLabel/simpleIconLabel.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/userDataProfile/common/userDataProfile.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import '../common/preferences.js';
+import '../../../services/configuration/common/configuration.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[3249],
 			he([

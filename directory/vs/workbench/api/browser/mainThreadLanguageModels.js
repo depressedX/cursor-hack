@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../nls.js';
+import '../../../platform/log/common/log.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/chat/common/languageModelStats.js';
+import '../../contrib/chat/common/languageModels.js';
+import '../../services/authentication/browser/authenticationAccessService.js';
+import '../../services/authentication/common/authentication.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../services/extensions/common/extensions.js';
 define(
 			de[3355],
 			he([1, 0, 15, 29, 6, 3, 4, 34, 88, 1807, 1023, 621, 357, 101, 53]),

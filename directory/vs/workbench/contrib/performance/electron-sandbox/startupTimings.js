@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/update/common/update.js';
+import '../../../../platform/native/common/native.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/timer/browser/timerService.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/buffer.js';
+import '../../../../platform/workspace/common/workspaceTrust.js';
+import '../../../services/panecomposite/browser/panecomposite.js';
+import '../browser/startupTimings.js';
+import '../../../../base/common/arrays.js';
 define(
 			de[3737],
 			he([

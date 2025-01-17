@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/uuid.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../editor/contrib/cHintLine/browser/hintLineWidget.js';
+import '../../../../../editor/common/core/range.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../services/aiContext/browser/aiContext.js';
+import '../../../../services/aiCmdK/browser/cmdKService.js';
+import '../../../../services/aiCmdK/browser/cmdKService2.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../../external/solid/store.js';
 define(
 			de[3989],
 			he([1, 0, 228, 3, 47, 65, 31, 25, 499, 17, 45, 471, 479, 720, 58, 193]),

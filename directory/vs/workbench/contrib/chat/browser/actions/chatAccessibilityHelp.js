@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../nls.js';
+import '../chat.js';
+import '../../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../accessibility/browser/accessibilityConfiguration.js';
+import '../../../../../editor/browser/widget/diffEditor/commands.js';
+import '../../../inlineChat/common/inlineChat.js';
+import '../../../../../editor/browser/services/codeEditorService.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../common/chatContextKeys.js';
+import '../../common/chatAgents.js';
 define(
 			de[1857],
 			he([1, 0, 4, 208, 178, 130, 1217, 257, 65, 8, 207, 153]),

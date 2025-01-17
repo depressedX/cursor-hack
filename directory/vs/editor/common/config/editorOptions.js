@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/objects.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/scrollable.js';
+import '../../../base/common/uint.js';
+import '../core/textModelDefaults.js';
+import '../core/wordHelper.js';
+import '../../../nls.js';
+import '../../../platform/accessibility/common/accessibility.js';
 define(
 			de[38],
 			he([1, 0, 24, 82, 12, 195, 210, 910, 409, 4, 91]),

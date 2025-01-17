@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/lexical/lexical-solid/LexicalComposerContext.js';
+import '../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import './aiInput2.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/aiInput/FullInputBox.js';
 define(
 			de[4319],
 			he([1, 0, 181, 158, 13, 36, 450, 1523]),

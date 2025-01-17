@@ -1,3 +1,17 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/async.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/platform.js';
+import '../../../base/common/stopwatch.js';
+import '../core/eolCounter.js';
+import '../core/lineRange.js';
+import '../core/offsetRange.js';
+import '../encodedTokenAttributes.js';
+import '../languages/nullTokenize.js';
+import './fixedArray.js';
+import '../tokens/contiguousMultilineTokensBuilder.js';
+import '../tokens/lineTokens.js';
 define(
 			de[1590],
 			he([1, 0, 15, 29, 12, 162, 531, 196, 289, 171, 1175, 2565, 1152, 388]),

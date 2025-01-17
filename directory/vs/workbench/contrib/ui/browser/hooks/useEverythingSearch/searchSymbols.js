@@ -1,3 +1,8 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/fuzzyScorer.js';
+import '../../../../../../platform/quickinput/common/quickInput.js';
+import './types.js';
 define(de[3201], he([1, 0, 322, 63, 444]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Y_b = E);

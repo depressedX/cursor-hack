@@ -1,3 +1,8 @@
+import '../../../../../../../../require.js';
+import '../../../../../../../../exports.js';
+import './mentionsHandlers/cmdKDefinitionsMentionsHandler.js';
+import './mentionsHandlers/chatHistoryMentionsHandler.js';
+import './mentionsHandlers/commitNotesMentionsHandler.js';
 define(de[3194], he([1, 0, 3192, 3191, 3193]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

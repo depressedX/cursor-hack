@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../base/common/cancellation.js';
+import '../../../common/config/editorOptions.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/event.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import './stickyScrollModelProvider.js';
 define(
 			de[2924],
 			he([1, 0, 3, 69, 33, 38, 15, 24, 6, 152, 2923]),

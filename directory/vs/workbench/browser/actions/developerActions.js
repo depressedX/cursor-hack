@@ -1,3 +1,39 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../nls.js';
+import '../../../platform/keybinding/common/keybinding.js';
+import '../../../base/browser/event.js';
+import '../../../base/common/color.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/browser/dom.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/contextkey/common/contextkey.js';
+import '../../../base/browser/keyboardEvent.js';
+import '../../../base/common/async.js';
+import '../../../platform/layout/browser/layoutService.js';
+import '../../../platform/registry/common/platform.js';
+import '../../../platform/actions/common/actions.js';
+import '../../../platform/storage/common/storage.js';
+import '../../../base/common/numbers.js';
+import '../../../base/common/keyCodes.js';
+import '../../../platform/configuration/common/configurationRegistry.js';
+import '../../../platform/log/common/log.js';
+import '../../services/workingCopy/common/workingCopyService.js';
+import '../../../platform/action/common/actionCommonCategories.js';
+import '../../services/workingCopy/common/workingCopyBackup.js';
+import '../../../platform/keybinding/common/keybindingResolver.js';
+import '../../../platform/dialogs/common/dialogs.js';
+import '../../services/output/common/output.js';
+import '../../services/log/common/logConstants.js';
+import '../../../platform/files/common/files.js';
+import '../../../platform/quickinput/common/quickInput.js';
+import '../../services/userDataProfile/common/userDataProfile.js';
+import '../../services/editor/common/editorService.js';
+import '../../../platform/product/common/product.js';
+import '../../../platform/commands/common/commands.js';
+import '../../../platform/environment/common/environment.js';
+import '../../../css!vs/workbench/browser/actions/media/actions.js';
 define(
 		de[3857],
 		he([

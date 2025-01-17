@@ -1,3 +1,7 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../editorBrowser.js';
+import '../../common/core/position.js';
 define(de[1534], he([1, 0, 56, 48]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Yub = void 0);

@@ -1,3 +1,12 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/browser/dom.js';
+import '../../../base/browser/mouseEvent.js';
+import '../../../base/browser/ui/menu/menu.js';
+import '../../../base/common/actions.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/lifecycle.js';
+import '../../theme/browser/defaultStyles.js';
 define(
 			de[2835],
 			he([1, 0, 7, 168, 1168, 50, 29, 3, 106]),

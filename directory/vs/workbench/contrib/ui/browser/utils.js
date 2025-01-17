@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/window.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../../../external/lexical/lexical/lexical.js';
 define(
 			de[476],
 			he([1, 0, 7, 75, 166, 66, 158]),

@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../logger.js';
+import '../object.js';
+import '../worldwide.js';
+import './handlers.js';
 define(
 			de[2080],
 			he([1, 0, 527, 528, 365, 726]),

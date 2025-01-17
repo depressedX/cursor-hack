@@ -1,3 +1,25 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../nls.js';
+import '../../base/common/uri.js';
+import '../../base/common/resources.js';
+import '../../base/browser/ui/iconLabel/iconLabel.js';
+import '../../editor/common/languages/language.js';
+import '../../platform/workspace/common/workspace.js';
+import '../../platform/configuration/common/configuration.js';
+import '../../editor/common/services/model.js';
+import '../services/textfile/common/textfiles.js';
+import '../services/decorations/common/decorations.js';
+import '../../base/common/network.js';
+import '../../platform/files/common/files.js';
+import '../../platform/theme/common/themeService.js';
+import '../../base/common/event.js';
+import '../../platform/label/common/label.js';
+import '../../editor/common/services/getIconClasses.js';
+import '../../base/common/lifecycle.js';
+import '../../platform/instantiation/common/instantiation.js';
+import '../../base/common/labels.js';
+import '../services/notebook/common/notebookDocumentService.js';
 define(
 			de[233],
 			he([

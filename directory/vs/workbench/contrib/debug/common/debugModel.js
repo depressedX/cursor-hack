@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/arraysFind.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/objects.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../nls.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import './debug.js';
+import './debugSource.js';
+import './disassemblyViewInput.js';
+import '../../../services/textfile/common/textfiles.js';
 define(
 			de[300],
 			he([

@@ -1,3 +1,27 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../../base/browser/ui/toolbar/toolbar.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/scrollable.js';
+import '../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../controller/coreActions.js';
+import '../../common/notebookCommon.js';
+import './notebookKernelView.js';
+import '../view/cellParts/cellActionView.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../services/assignment/common/assignmentService.js';
+import '../../../../../base/common/async.js';
+import '../../../../../platform/actions/browser/toolbar.js';
+import '../../../../../platform/hover/browser/hover.js';
 define(
 			de[3574],
 			he([

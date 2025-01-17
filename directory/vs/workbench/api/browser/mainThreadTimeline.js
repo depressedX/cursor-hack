@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../platform/log/common/log.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../contrib/timeline/common/timeline.js';
+import '../../../base/common/marshalling.js';
 define(
 			de[3373],
 			he([1, 0, 6, 34, 88, 101, 814, 197]),

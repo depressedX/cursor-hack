@@ -1,3 +1,19 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/equals.js';
+import '../../../../../base/common/filters.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../common/core/range.js';
+import '../../../../common/core/textEdit.js';
+import '../../../../common/core/textLength.js';
+import '../../../../common/languages.js';
+import '../../../../common/languages/languageConfigurationRegistry.js';
+import '../../../../common/model.js';
+import '../../../../common/services/languageFeatures.js';
+import './provideInlineCompletions.js';
+import './singleTextEdit.js';
 define(
 			de[2777],
 			he([

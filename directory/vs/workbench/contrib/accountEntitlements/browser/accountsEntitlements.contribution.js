@@ -1,3 +1,27 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../services/authentication/common/authentication.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../services/activity/common/activity.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/extensionManagement/common/extensionManagement.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../common/configuration.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/request/common/request.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../base/common/platform.js';
 define(
 			de[3547],
 			he([

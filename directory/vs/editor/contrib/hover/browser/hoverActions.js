@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import './hoverActionIds.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/editorContextKeys.js';
+import '../../gotoSymbol/browser/link/goToDefinitionAtPosition.js';
+import './hoverOperation.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './contentHoverController2.js';
+import '../../../common/languages.js';
+import '../../../../nls.js';
+import '../../../../css!vs/editor/contrib/hover/browser/hover.js';
 define(
 			de[3609],
 			he([1, 0, 27, 936, 46, 38, 17, 71, 1037, 601, 91, 43, 448, 74, 4, 905]),

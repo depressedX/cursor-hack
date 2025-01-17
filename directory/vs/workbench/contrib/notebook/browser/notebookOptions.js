@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/pixelRatio.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/browser/config/fontMeasurements.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/common/config/fontInfo.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../common/notebookCommon.js';
+import '../common/notebookExecutionStateService.js';
 define(
 			de[835],
 			he([1, 0, 345, 6, 3, 28, 600, 65, 463, 10, 70, 190]),

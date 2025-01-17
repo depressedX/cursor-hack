@@ -1,3 +1,39 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../../external/lexical/lexical-solid/LexicalComposer.js';
+import '../../../../../../external/lexical/lexical-solid/api.js';
+import '../../../../../../external/lexical/lexical/api.js';
+import '../../../../../../external/solid/solid.js';
+import './plugins/mentions/MentionsPlugin.js';
+import '../../../controlCommon/browser/solid.js';
+import './plugins/mentions/MentionNode.js';
+import '../../../../../../external/lexical/lexical-solid/shared/useHistory.js';
+import '../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
+import '../../../aichat/browser/chatData.js';
+import '../../../aichat/browser/codeSelections.js';
+import './plugins/mentions/types.js';
+import './plugins/slashCommands/SlashPlugin.js';
+import './plugins/slashCommands/SlashCommandNode.js';
+import './plugins/ImagePlugins.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../base/common/network.js';
+import './plugins/ghostText/GhostTextNode.js';
+import './plugins/ghostText/GhostTextPlugin.js';
+import './plugins/addSymbol/AddSymbolPlugin.js';
+import '../utils.js';
+import '../../../../../../external/lexical/lexical-selection/range-selection.js';
+import './plugins/autoContext/AutoContextPlugin.js';
+import '../../../../../css!vs/workbench/contrib/ui/browser/aiInput/aiInput2.js';
 define(
 		de[450],
 		he([

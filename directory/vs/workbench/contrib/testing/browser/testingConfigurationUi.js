@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../base/common/themables.js';
+import './icons.js';
+import '../common/constants.js';
+import '../common/testProfileService.js';
+import '../../../../base/common/lifecycle.js';
 define(
 			de[3182],
 			he([1, 0, 24, 28, 4, 31, 63, 26, 470, 353, 420, 3]),

@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/uriIdentity/common/uriIdentity.js';
+import '../../../common/editor.js';
+import '../../editor/common/editorService.js';
+import '../../extensions/common/extensions.js';
+import './search.js';
+import './searchHelpers.js';
 define(
 			de[3600],
 			he([

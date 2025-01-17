@@ -1,3 +1,11 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/charCode.js';
+import '../../../base/common/strings.js';
+import '../tokens/lineTokens.js';
+import '../languages.js';
+import '../encodedTokenAttributes.js';
+import './nullTokenize.js';
 define(
 			de[597],
 			he([1, 0, 120, 37, 388, 74, 171, 1175]),

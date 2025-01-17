@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../browser.js';
+import '../../dnd.js';
+import '../../dom.js';
+import '../../touch.js';
+import '../hover/hoverDelegateFactory.js';
+import '../selectBox/selectBox.js';
+import '../../../common/actions.js';
+import '../../../common/lifecycle.js';
+import '../../../common/platform.js';
+import '../../../common/types.js';
+import '../../../../nls.js';
+import '../hover/hoverDelegate2.js';
+import '../../../../css!vs/base/browser/ui/actionbar/actionbar.js';
 define(
 			de[198],
 			he([1, 0, 139, 323, 7, 159, 95, 596, 50, 3, 12, 28, 4, 317, 1508]),

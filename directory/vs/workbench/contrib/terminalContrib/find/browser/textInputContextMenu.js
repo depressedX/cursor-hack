@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/mouseEvent.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../nls.js';
 define(
 			de[3155],
 			he([1, 0, 7, 168, 50, 12, 4]),

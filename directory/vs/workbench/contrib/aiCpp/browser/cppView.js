@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../../../../base/browser/window.js';
+import '../../../../base/common/constants.js';
+import '../../aiConfig/browser/aiConfigHelper.js';
+import '../../aiSettings/browser/components/settings/settingsSection.js';
+import '../../aiSettings/browser/components/settings/settingsSubDropdownSection.js';
+import '../../aiSettings/browser/components/settings/settingsSubSection.js';
+import '../../controlCommon/browser/solid.js';
+import '../../ui/browser/badge/badge.js';
+import '../../ui/browser/info.js';
 define(
 			de[1977],
 			he([1, 0, 2, 2, 2, 13, 75, 58, 270, 973, 4186, 1064, 36, 564, 1371]),

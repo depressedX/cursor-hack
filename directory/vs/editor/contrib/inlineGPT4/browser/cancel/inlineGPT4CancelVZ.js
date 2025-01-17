@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import './renderInlineGPT4CancelVZ.js';
 define(
 			de[2752],
 			he([1, 0, 7, 3, 39, 5, 45, 1595]),

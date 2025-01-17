@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../nls.js';
+import '../../../../services/themes/common/workbenchThemeService.js';
 define(de[3722], he([1, 0, 37, 4, 333]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

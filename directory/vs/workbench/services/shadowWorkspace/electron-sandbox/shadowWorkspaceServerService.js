@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../environment/electron-sandbox/environmentService.js';
+import '../common/shadowWorkspaceServerService.js';
+import './shadowWorkspaceServer.js';
 define(
 			de[3707],
 			he([1, 0, 3, 20, 5, 151, 1871, 3706]),

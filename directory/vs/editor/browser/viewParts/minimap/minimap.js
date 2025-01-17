@@ -1,3 +1,32 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/fastDomNode.js';
+import '../../../../base/browser/globalPointerMoveMonitor.js';
+import '../../../../base/common/charCode.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/strings.js';
+import '../../view/viewLayer.js';
+import '../../view/viewPart.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import '../../../common/core/rgba.js';
+import '../../../common/editorCommon.js';
+import '../../../common/encodedTokenAttributes.js';
+import './minimapCharSheet.js';
+import '../../../common/viewModel/minimapTokensColorTracker.js';
+import '../../../common/viewEvents.js';
+import '../../../common/viewModel.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../common/core/selection.js';
+import '../../../../base/browser/touch.js';
+import './minimapCharRendererFactory.js';
+import '../../../common/model.js';
+import '../../../../base/common/functional.js';
+import '../../../../base/common/map.js';
+import '../../../../base/browser/fonts.js';
+import '../../../../css!vs/editor/browser/viewParts/minimap/minimap.js';
 define(
 			de[2831],
 			he([

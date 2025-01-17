@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/json.js';
+import '../../../../base/common/jsonEdit.js';
+import '../../../../base/common/async.js';
+import '../../../../editor/common/core/editOperation.js';
+import '../../../../editor/common/core/range.js';
+import '../../../../editor/common/core/selection.js';
+import '../../textfile/common/textfiles.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../editor/common/services/resolverService.js';
+import './jsonEditing.js';
+import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[3704],
 			he([1, 0, 4, 187, 586, 15, 188, 17, 104, 85, 22, 42, 423, 20]),

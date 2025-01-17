@@ -1,3 +1,14 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../base/common/arraysFind.js';
+import '../../../../../../base/common/async.js';
+import '../../../../../../base/common/lifecycle.js';
+import '../../../../../../editor/common/core/range.js';
+import '../../../../../../editor/common/model/prefixSumComputer.js';
+import '../../../../../../platform/configuration/common/configuration.js';
+import './findMatchDecorationModel.js';
+import '../../notebookBrowser.js';
+import '../../../common/notebookCommon.js';
 define(
 			de[1030],
 			he([1, 0, 214, 15, 3, 17, 589, 10, 1844, 108, 70]),

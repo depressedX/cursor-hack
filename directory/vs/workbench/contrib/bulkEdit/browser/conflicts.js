@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/event.js';
+import '../../../../editor/browser/services/bulkEditService.js';
+import './bulkCellEdits.js';
+import '../../../../platform/log/common/log.js';
 define(
 			de[3485],
 			he([1, 0, 22, 67, 59, 3, 6, 199, 572, 34]),

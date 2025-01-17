@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import './dangerousActionPopup.js';
+import '../../../ui/browser/loadingStateButton/loadingStateButton.js';
+import '../../../controlCommon/browser/solid.js';
 define(
 			de[4335],
 			he([1, 0, 2, 2, 2, 2, 2, 147, 14, 26, 79, 1966, 1073, 36]),

@@ -1,3 +1,44 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/semver/semver.js';
+import '../../../../base/common/lifecycle.js';
+import '../common/extensions.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/platform.js';
+import '../../../../nls.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/extensionRecommendations/common/extensionRecommendations.js';
+import '../../../../platform/label/common/label.js';
+import './extensionsActions.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../base/common/themables.js';
+import '../../../common/theme.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/browser/ui/countBadge/countBadge.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/userDataSync/common/userDataSync.js';
+import './extensionsIcons.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/uri.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/extensionManagement/common/extensionManagementUtil.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/color.js';
+import '../../../../base/browser/markdownRenderer.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../platform/extensionManagement/common/extensionGalleryService.js';
+import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../css!vs/workbench/contrib/extensions/browser/media/extensionsWidgets.js';
 define(
 		de[1955],
 		he([

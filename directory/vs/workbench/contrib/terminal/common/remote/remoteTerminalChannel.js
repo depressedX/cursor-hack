@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../services/configuration/common/configuration.js';
+import '../../../../../platform/remote/common/remoteAuthorityResolver.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../../platform/terminal/common/environmentVariableShared.js';
+import '../../../../services/configurationResolver/common/configurationResolver.js';
+import '../../../../common/editor.js';
+import '../../../../services/editor/common/editorService.js';
+import '../../../../../base/common/network.js';
+import '../../../../../platform/label/common/label.js';
+import '../environmentVariable.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import './terminal.js';
 define(
 			de[3269],
 			he([1, 0, 261, 211, 25, 774, 358, 44, 18, 23, 73, 807, 117, 3148]),

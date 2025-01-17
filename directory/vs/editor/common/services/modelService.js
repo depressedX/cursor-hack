@@ -1,3 +1,22 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import '../core/editOperation.js';
+import '../core/range.js';
+import '../model.js';
+import '../model/textModel.js';
+import '../core/textModelDefaults.js';
+import '../languages/modesRegistry.js';
+import './textResourceConfiguration.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/undoRedo/common/undoRedo.js';
+import '../../../base/common/hash.js';
+import '../model/editStack.js';
+import '../../../base/common/network.js';
+import '../../../base/common/objects.js';
+import '../../../platform/instantiation/common/instantiation.js';
 define(
 			de[960],
 			he([

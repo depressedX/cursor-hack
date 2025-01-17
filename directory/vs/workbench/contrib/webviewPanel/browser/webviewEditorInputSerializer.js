@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/extensions/common/extensions.js';
+import './webviewEditorInput.js';
+import './webviewWorkbenchService.js';
 define(
 			de[1831],
 			he([1, 0, 9, 109, 566, 623]),

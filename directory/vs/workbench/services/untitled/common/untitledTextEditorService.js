@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './untitledTextEditorModel.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[631],
 			he([1, 0, 9, 5, 1339, 10, 6, 59, 23, 3, 20]),

@@ -1,3 +1,18 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/event.js';
+import '../../../base/common/types.js';
+import '../../../platform/instantiation/common/extensions.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import './auxiliarybar/auxiliaryBarPart.js';
+import './panel/panelPart.js';
+import './sidebar/sidebarPart.js';
+import '../../common/views.js';
+import '../../services/panecomposite/browser/panecomposite.js';
+import '../../../base/common/lifecycle.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../base/common/constants.js';
+import './sidebar/sidebarPart2.js';
 define(
 			de[4122],
 			he([1, 0, 6, 28, 20, 5, 1938, 1939, 1940, 60, 142, 3, 10, 58, 4121]),

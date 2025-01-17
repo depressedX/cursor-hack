@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/severity.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/languageStatus/common/languageStatusService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contributions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../editor/contrib/folding/browser/folding.js';
+import '../../../../editor/contrib/colorPicker/browser/colorDetector.js';
 define(
 		de[3429],
 		he([1, 0, 3, 111, 56, 18, 1024, 30, 55, 52, 4, 350, 785]),

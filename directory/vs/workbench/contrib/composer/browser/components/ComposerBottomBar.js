@@ -1,3 +1,24 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/platform.js';
+import './ComposerBottomBarButton.js';
+import './ComposerUnifiedModeSwitcher.js';
+import './ComposerUnUnifiedModeSwitcher.js';
+import '../hooks/useCachedChatUsesTools.js';
+import '../hooks/useComposerDataHandle.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../hooks/useShouldShowApplyLastMessage.js';
+import '../utils.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/components/ComposerBottomBar.js';
 define(
 			de[4190],
 			he([

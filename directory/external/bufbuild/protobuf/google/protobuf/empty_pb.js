@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../message.js';
+import '../../proto3.js';
 define(de[1402], he([1, 0, 339, 406]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.Empty = void 0);

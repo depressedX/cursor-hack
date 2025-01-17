@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/theme/common/colorRegistry.js';
 define(
 			de[257],
 			he([1, 0, 4, 11, 81, 8, 30, 51]),

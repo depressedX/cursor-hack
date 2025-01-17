@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/editor/common/editor.js';
+import '../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/browser/dom.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../proto/aiserver/v1/utils_pb.js';
 define(
 			de[397],
 			he([1, 0, 2, 2, 2, 19, 19, 116, 156, 9, 7, 83, 90, 148, 83]),

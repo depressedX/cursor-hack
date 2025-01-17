@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/cursorEvents.js';
+import '../../../common/cursor/cursorMoveCommands.js';
+import '../../../common/editorContextKeys.js';
+import '../../../../nls.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
 define(
 			de[2810],
 			he([1, 0, 27, 46, 248, 1193, 71, 4, 43]),

@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/glob.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/ternarySearchTree.js';
 define(
 			de[1247],
 			he([1, 0, 132, 215, 37, 19, 387]),

@@ -1,3 +1,20 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/filters.js';
+import '../../../../base/common/keybindingLabels.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../common/editor/editorModel.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/keybinding/common/resolvedKeybindingItem.js';
+import '../../keybinding/browser/unboundCommands.js';
+import '../../../../base/common/types.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[1309],
 			he([

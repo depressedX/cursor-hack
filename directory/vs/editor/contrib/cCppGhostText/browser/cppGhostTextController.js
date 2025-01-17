@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lazy.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/core/range.js';
+import '../../../common/editorContextKeys.js';
+import './cppGhostTextWidget.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../base/common/constants.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
 define(
 			de[1345],
 			he([1, 0, 149, 3, 46, 17, 71, 3936, 8, 5, 45, 58, 134]),

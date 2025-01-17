@@ -1,3 +1,7 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../aichat/browser/codeSelections.js';
+import '../../../../base/common/uri.js';
 define(de[1269], he([1, 0, 354, 9]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

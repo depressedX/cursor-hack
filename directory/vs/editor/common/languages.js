@@ -1,3 +1,11 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../base/common/codicons.js';
+import '../../base/common/uri.js';
+import './core/editOperation.js';
+import './core/range.js';
+import './tokenizationRegistry.js';
+import '../../nls.js';
 define(
 			de[74],
 			he([1, 0, 14, 9, 188, 17, 2571, 4]),

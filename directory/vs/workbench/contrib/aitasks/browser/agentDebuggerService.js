@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../common/editor.js';
+import '../../../services/views/common/viewsService.js';
+import './aitasks.js';
+import '../../files/browser/fileConstants.js';
+import '../../terminal/browser/terminal.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/magicLink/browser/magicLinkService.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../editor/browser/editorBrowser.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/aiTasks/browser/aiTaskServiceInterface.js';
 define(
 			de[1929],
 			he([

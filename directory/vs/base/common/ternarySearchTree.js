@@ -1,3 +1,8 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './arrays.js';
+import './charCode.js';
+import './strings.js';
 define(de[387], he([1, 0, 24, 120, 37]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

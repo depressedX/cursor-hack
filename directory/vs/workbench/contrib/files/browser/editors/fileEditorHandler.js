@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/uri.js';
+import '../../../../services/textfile/common/textEditorService.js';
+import '../../../../../base/common/resources.js';
+import '../../../../services/workingCopy/common/workingCopy.js';
+import '../../../../services/workingCopy/common/workingCopyEditorService.js';
+import '../../../../../platform/files/common/files.js';
 define(
 			de[3885],
 			he([1, 0, 3, 9, 719, 19, 334, 403, 22]),

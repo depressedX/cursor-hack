@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/network.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/extensions/common/extensions.js';
+import '../../../../platform/log/common/log.js';
+import '../../environment/common/environmentService.js';
+import './extensionHostKind.js';
+import './extensionManifestPropertiesService.js';
+import './extensionRunningLocation.js';
 define(
 			de[2006],
 			he([1, 0, 58, 23, 10, 109, 34, 78, 517, 384, 1294]),

@@ -1,3 +1,24 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uri.js';
+import '../../../base/common/uuid.js';
+import '../../../platform/configuration/common/configuration.js';
+import '../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../platform/storage/common/storage.js';
+import '../../../platform/telemetry/common/telemetry.js';
+import './mainThreadWebviews.js';
+import '../common/extHost.protocol.js';
+import '../../common/editor/diffEditorInput.js';
+import '../../contrib/webview/browser/webview.js';
+import '../../contrib/webviewPanel/browser/webviewEditorInput.js';
+import '../../contrib/webviewPanel/browser/webviewWorkbenchService.js';
+import '../../services/editor/common/editorGroupColumn.js';
+import '../../services/editor/common/editorGroupsService.js';
+import '../../services/editor/common/editorService.js';
+import '../../services/extensions/common/extensions.js';
 define(
 			de[3442],
 			he([

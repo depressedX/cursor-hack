@@ -1,3 +1,27 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/themables.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../editor/contrib/aiActions/browser/aiActions.contribution.js';
+import './constants.js';
+import './aiPreviewRelatedFilesSection.js';
+import './aiPreviewRelatedCommitsSection.js';
+import './aiPreviewSummarySection.js';
+import '../../../../../base/common/constants.js';
+import '../../../../../css!vs/workbench/contrib/aiPreviews/browser/components/aiPreview.js';
 define(
 			de[4236],
 			he([

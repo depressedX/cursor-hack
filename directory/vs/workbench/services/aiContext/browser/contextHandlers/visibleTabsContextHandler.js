@@ -1,3 +1,8 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../ai/browser/fastContextService.js';
 define(de[3647], he([1, 0, 228, 25, 400]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$LZc = void 0);

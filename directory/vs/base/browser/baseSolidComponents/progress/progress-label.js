@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/web.js';
+import '../../../../../external/solid/solid.js';
+import '../utils/utils.js';
+import '../utils/polymorphic.js';
+import './progress-context.js';
 define(
 			de[2619],
 			he([1, 0, 2, 2, 13, 369, 494, 738]),

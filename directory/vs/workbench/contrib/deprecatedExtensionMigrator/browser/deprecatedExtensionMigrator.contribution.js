@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../common/contributions.js';
+import '../../extensions/common/extensions.js';
+import '../../../services/extensionManagement/common/extensionManagement.js';
+import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3424],
 			he([1, 0, 50, 29, 28, 4, 10, 40, 41, 30, 21, 55, 141, 157, 52]),

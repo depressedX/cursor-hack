@@ -1,3 +1,37 @@
+import '../../../../../../../../require.js';
+import '../../../../../../../../exports.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../base/common/uri.js';
+import '../../../../../../../../external/solid/solid.js';
+import './types.js';
+import '../../../../../controlCommon/browser/solid.js';
+import '../../../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../../../../base/common/cancellation.js';
+import '../../../../../../../base/common/idGenerator.js';
+import '../../../../../../../base/common/resources.js';
+import '../../../../../../../base/common/themables.js';
+import '../../../../../../../base/common/codicons.js';
+import './pureIcon.js';
+import './mentionsHandlerRegistry.js';
+import '../../../../../../../base/common/fuzzyScorer.js';
+import '../../../../../../../base/common/map.js';
+import '../../../../../../../base/common/platform.js';
+import '../../../../../../services/workspaces/browser/sourceFilesService.js';
+import '../../../../../../../base/common/resources.js';
+import '../../../../../../common/editor.js';
+import '../../../../../../../editor/common/core/range.js';
+import '../../../../../../../base/common/lifecycle.js';
+import '../../../../../../../base/common/async.js';
+import '../../../../../aiSettings/browser/components/settings/settingsFeaturesDocItem.js';
+import '../../../../../../../base/common/constants.js';
+import '../../../../../../../base/common/network.js';
+import '../autoContext/useAutoContext.js';
+import '../../../loadingSpinner/loadingSpinner.js';
+import '../../../../../composer/browser/hooks/useForcedModeComposerId.js';
 define(
 			de[1381],
 			he([

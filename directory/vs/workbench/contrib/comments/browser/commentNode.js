@@ -1,3 +1,45 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/browser/dom.js';
+import '../../../../editor/common/languages.js';
+import '../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import './commentService.js';
+import './simpleCommentEditor.js';
+import '../../../../editor/common/core/selection.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/browser/ui/toolbar/toolbar.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../../../../base/browser/ui/contextview/contextview.js';
+import './reactionsAction.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './commentFormActions.js';
+import '../../../../base/browser/ui/mouseCursor/mouseCursor.js';
+import '../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../base/browser/ui/dropdown/dropdownActionViewItem.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../base/common/marshallingIds.js';
+import './timestamp.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/scrollable.js';
+import '../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../base/browser/event.js';
+import '../common/commentContextKeys.js';
+import '../../../../base/common/network.js';
+import '../common/commentsConfiguration.js';
+import '../../../../base/browser/mouseEvent.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../../editor/common/services/resolverService.js';
 define(
 			de[3763],
 			he([

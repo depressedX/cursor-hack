@@ -1,3 +1,12 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './charCode.js';
+import './extpath.js';
+import './network.js';
+import './path.js';
+import './platform.js';
+import './strings.js';
+import './uri.js';
 define(
 			de[19],
 			he([1, 0, 120, 249, 23, 54, 12, 37, 9]),

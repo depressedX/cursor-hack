@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../common/dialogs.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../environment/common/environmentService.js';
+import '../../../../platform/log/common/log.js';
 define(
 		de[3284],
 		he([1, 0, 111, 3, 57, 2948, 20, 78, 34]),

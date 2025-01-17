@@ -1,3 +1,25 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/codicons.js';
+import '../../../ui/browser/loadingSpinner/loadingSpinner.js';
+import '../../../../../base/common/themables.js';
+import '../../../controlCommon/browser/solid.js';
+import '../composerData.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import './ComposerToolbarSimpleButton.js';
+import '../../../../../base/common/path.js';
+import '../hooks/useComposerHoverTooltip.js';
+import '../../../../../base/common/uri.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../hooks/useComposerDataHandle.js';
+import '../../../ui/browser/hooks/useIsUsingFileIconTheme.js';
 define(
 			de[1379],
 			he([

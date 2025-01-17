@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/ui/hover/hoverWidget.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
 define(
 			de[2689],
 			he([1, 0, 7, 160, 33, 94, 28, 4]),

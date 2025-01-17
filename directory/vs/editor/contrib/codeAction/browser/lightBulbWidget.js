@@ -1,3 +1,22 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/touch.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/themables.js';
+import '../../../browser/editorBrowser.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../common/model/utils.js';
+import './codeAction.js';
+import '../../../../nls.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../common/core/range.js';
+import '../../../../css!vs/editor/contrib/codeAction/browser/lightBulbWidget.js';
 define(
 			de[1685],
 			he([

@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/accessibility/browser/accessibleViewRegistry.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/contextkeys.js';
+import '../../../common/views.js';
+import '../../../services/views/common/viewsService.js';
 define(
 			de[3803],
 			he([1, 0, 3, 178, 412, 39, 30, 100, 60, 89]),

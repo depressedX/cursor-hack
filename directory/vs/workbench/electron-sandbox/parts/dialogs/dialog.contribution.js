@@ -1,3 +1,19 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/native/common/native.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../common/contributions.js';
+import '../../../browser/parts/dialogs/dialogHandler.js';
+import './dialogHandler.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../base/common/lazy.js';
 define(
 			de[3444],
 			he([1, 0, 121, 10, 57, 39, 180, 34, 110, 62, 55, 2945, 3219, 3, 5, 149]),

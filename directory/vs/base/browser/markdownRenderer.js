@@ -1,3 +1,27 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './dom.js';
+import './dompurify/dompurify.js';
+import './event.js';
+import './formattedTextRenderer.js';
+import './keyboardEvent.js';
+import './mouseEvent.js';
+import './ui/iconLabel/iconLabels.js';
+import '../common/errors.js';
+import '../common/event.js';
+import '../common/htmlContent.js';
+import '../common/iconLabels.js';
+import '../common/idGenerator.js';
+import '../common/keyCodes.js';
+import '../common/lazy.js';
+import '../common/lifecycle.js';
+import '../common/marked/marked.js';
+import '../common/marshalling.js';
+import '../common/network.js';
+import '../common/objects.js';
+import '../common/resources.js';
+import '../common/strings.js';
+import '../common/uri.js';
 define(
 			de[267],
 			he([

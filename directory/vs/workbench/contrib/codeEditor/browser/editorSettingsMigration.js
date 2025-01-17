@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../editor/browser/config/migrateOptions.js';
+import '../../../common/configuration.js';
 define(de[3552], he([1, 0, 30, 1524, 224]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

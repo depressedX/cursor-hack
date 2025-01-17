@@ -1,3 +1,11 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../base/common/map.js';
+import '../../../../../editor/browser/services/simpleInlineDiffService.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/markers/common/markers.js';
+import '../../../../../platform/undoRedo/common/undoRedo.js';
 define(
 			de[3231],
 			he([1, 0, 124, 59, 545, 42, 90, 155]),

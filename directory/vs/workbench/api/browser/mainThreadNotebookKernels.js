@@ -1,3 +1,20 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/errors.js';
+import '../../../base/common/event.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/uri.js';
+import '../../../editor/common/languages/language.js';
+import './mainThreadNotebookDto.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../contrib/notebook/browser/services/notebookEditorService.js';
+import '../../contrib/notebook/common/notebookExecutionStateService.js';
+import '../../contrib/notebook/common/notebookKernelService.js';
+import '../common/extHost.protocol.js';
+import '../../contrib/notebook/common/notebookService.js';
+import '../../../base/common/async.js';
 define(
 			de[3464],
 			he([

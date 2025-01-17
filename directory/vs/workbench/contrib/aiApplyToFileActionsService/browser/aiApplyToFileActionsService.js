@@ -1,3 +1,40 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/hash.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/map.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/uuid.js';
+import '../../../../editor/browser/services/inlineDiffService.js';
+import '../../../../editor/common/core/lineRange.js';
+import '../../../../editor/common/languages.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/markers/common/markers.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../aiFeatureStatusService/browser/aiFeatureStatusService.js';
+import '../../aichat/browser/chatData.js';
+import '../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../services/ai/browser/fastEditService.js';
+import '../../../services/ai/browser/rgSearch.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/search/common/search.js';
+import '../../../services/shadowWorkspace/common/shadowWorkspaceService.js';
+import '../../../../../proto/aiserver/v1/shadow_workspace_pb.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/buffer.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../services/cursorAuth/browser/authenticationService.js';
+import '../../../../../proto/aiserver/v1/fastapply_pb.js';
 define(
 			de[852],
 			he([

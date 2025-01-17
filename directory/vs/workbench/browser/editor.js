@@ -1,3 +1,16 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../nls.js';
+import '../common/editor.js';
+import '../../platform/registry/common/platform.js';
+import '../../base/common/lifecycle.js';
+import '../../base/common/async.js';
+import '../services/editor/common/editorService.js';
+import '../../platform/uriIdentity/common/uriIdentity.js';
+import '../services/workingCopy/common/workingCopyService.js';
+import '../../base/common/network.js';
+import '../../base/common/iterator.js';
+import '../../base/common/event.js';
 define(
 			de[192],
 			he([1, 0, 4, 44, 30, 3, 15, 18, 68, 227, 23, 103, 6]),

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/aria/aria.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../browser/config/tabFocus.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
 define(
 			de[1635],
 			he([1, 0, 127, 27, 653, 4, 11, 43]),

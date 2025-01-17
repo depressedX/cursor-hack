@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/assert.js';
+import '../../../../base/common/observable.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/types.js';
+import '../../../../editor/common/services/textResourceConfiguration.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/label/common/label.js';
+import '../../../common/editor.js';
+import '../../../services/editor/common/customEditorLabelService.js';
+import '../../../common/editor/textResourceEditorInput.js';
+import './mergeEditorInputModel.js';
+import './telemetry.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../services/filesConfiguration/common/filesConfigurationService.js';
+import '../../../services/textfile/common/textfiles.js';
 define(
 			de[711],
 			he([

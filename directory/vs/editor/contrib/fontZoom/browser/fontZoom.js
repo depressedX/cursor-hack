@@ -1,3 +1,8 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorZoom.js';
+import '../../../../nls.js';
 define(de[2808], he([1, 0, 46, 909, 4]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (w = mt(w));

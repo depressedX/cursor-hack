@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './errors.js';
+import './platform.js';
+import './strings.js';
+import './uri.js';
+import './path.js';
 define(
 			de[23],
 			he([1, 0, 29, 12, 37, 9, 54]),

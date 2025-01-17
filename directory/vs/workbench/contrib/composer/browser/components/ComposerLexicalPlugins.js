@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/lexical/lexical-solid/LexicalComposerContext.js';
+import '../../../../../../external/lexical/lexical/lexical.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/aiInput/aiInput2.js';
 define(
 			de[4317],
 			he([1, 0, 181, 158, 13, 36, 450]),

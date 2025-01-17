@@ -1,3 +1,26 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../aisearch/browser/components/AiSearch.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/constants.js';
+import '../../../ui/browser/collapsible/collapsible.js';
+import '../../../ui/browser/contextDisplay/listContextDisplay.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../../../platform/opener/common/opener.js';
+import '../../../../../platform/editor/common/editor.js';
+import '../hooks/useComposerDataHandle.js';
+import '../../../../../css!vs/workbench/contrib/composer/browser/components/ComposerAdvancedContextFollowup.js';
 define(
 			de[4272],
 			he([

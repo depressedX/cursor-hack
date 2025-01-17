@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/actionbar/actionbar.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/arraysFind.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/themables.js';
+import '../utils.js';
+import '../../../../common/core/offsetRange.js';
+import '../../../../../nls.js';
 define(
 			de[1587],
 			he([1, 0, 7, 105, 50, 24, 214, 14, 3, 77, 26, 370, 289, 4]),

@@ -1,3 +1,32 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/cancellation.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/network.js';
+import '../../../../../base/common/strings.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/uri.js';
+import '../../../../../editor/common/editorCommon.js';
+import '../../../../../editor/contrib/quickAccess/browser/gotoSymbolQuickAccess.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../../platform/quickinput/common/quickInput.js';
+import './chatActions.js';
+import '../chat.js';
+import '../chatWidget.js';
+import '../contrib/chatContextAttachments.js';
+import '../../common/chatAgents.js';
+import '../../common/chatContextKeys.js';
+import '../../common/chatParserTypes.js';
+import '../../common/chatVariables.js';
+import '../../common/languageModelToolsService.js';
+import '../../../search/browser/anythingQuickAccess.js';
+import '../../../search/browser/symbolsQuickAccess.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[4110],
 			he([

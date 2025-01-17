@@ -1,3 +1,23 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/arrays.js';
+import '../../../base/common/async.js';
+import '../../../base/common/buffer.js';
+import '../../../base/common/cancellation.js';
+import '../../../base/common/event.js';
+import '../../../base/common/hash.js';
+import '../../../base/common/iterator.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/ternarySearchTree.js';
+import '../../../base/common/network.js';
+import '../../../base/common/performance.js';
+import '../../../base/common/resources.js';
+import '../../../base/common/stream.js';
+import '../../../nls.js';
+import './files.js';
+import './io.js';
+import '../../log/common/log.js';
+import '../../../base/common/errors.js';
 define(
 			de[2742],
 			he([

@@ -1,3 +1,29 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/iterator.js';
+import '../../../../../base/common/keyCodes.js';
+import '../../../../../base/common/resources.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../common/editor.js';
+import '../../../debug/common/debug.js';
+import '../../../inlineChat/common/inlineChat.js';
+import './cellOperations.js';
+import './chat/notebookChatContext.js';
+import './chat/notebookChatController.js';
+import './coreActions.js';
+import '../notebookBrowser.js';
+import '../notebookIcons.js';
+import '../../common/notebookCommon.js';
+import '../../common/notebookContextKeys.js';
+import '../../common/notebookEditorInput.js';
+import '../../common/notebookExecutionStateService.js';
+import '../../../../services/editor/common/editorGroupsService.js';
+import '../../../../services/editor/common/editorService.js';
 define(
 			de[4089],
 			he([

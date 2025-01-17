@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/codicons.js';
+import '../../../../base/common/themables.js';
+import '../../../../nls.js';
+import '../../../../platform/accessibility/browser/accessibleView.js';
+import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/list/browser/listService.js';
+import './notificationsCommands.js';
+import '../../../common/contextkeys.js';
 define(
 			de[2950],
 			he([1, 0, 14, 26, 4, 178, 184, 31, 93, 682, 100]),

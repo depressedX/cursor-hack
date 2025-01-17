@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../editor/browser/editorExtensions.js';
+import '../../../../editor/contrib/clipboard/browser/clipboard.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import './webview.js';
+import '../../webviewPanel/browser/webviewEditorInput.js';
+import '../../../services/editor/common/editorService.js';
 define(
 			de[1803],
 			he([1, 0, 7, 46, 787, 4, 11, 8, 355, 566, 18]),

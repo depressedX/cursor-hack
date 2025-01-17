@@ -1,3 +1,8 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import './languageConfiguration.js';
+import './languageConfigurationRegistry.js';
+import './supports/indentationLineProcessor.js';
 define(de[1198], he([1, 0, 532, 152, 1151]), function (ce, e, t, i, w) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Qtb = E);

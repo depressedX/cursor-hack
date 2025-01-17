@@ -1,3 +1,13 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/strings.js';
+import '../../../base/common/uint.js';
+import '../core/cursorColumns.js';
+import '../core/position.js';
+import '../core/range.js';
+import './cursorAtomicMoveOperations.js';
+import '../cursorCommon.js';
+import '../model.js';
 define(
 			de[1192],
 			he([1, 0, 37, 210, 435, 48, 17, 1528, 346, 64]),

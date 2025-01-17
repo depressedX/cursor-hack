@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/filters.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import './debug.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/services/getIconClasses.js';
+import '../../../../editor/common/services/model.js';
+import '../../../../editor/common/languages/language.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/resources.js';
+import '../../../../platform/label/common/label.js';
 define(
 			de[3265],
 			he([1, 0, 4, 132, 63, 112, 18, 252, 67, 61, 3, 19, 73]),

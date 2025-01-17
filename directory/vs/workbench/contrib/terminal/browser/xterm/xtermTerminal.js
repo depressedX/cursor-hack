@@ -1,3 +1,35 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/terminal/common/terminal.js';
+import '../terminal.js';
+import '../../../../../platform/log/common/log.js';
+import '../../../../../platform/notification/common/notification.js';
+import './markNavigationAddon.js';
+import '../../../../../nls.js';
+import '../../../../../platform/theme/common/themeService.js';
+import '../../../../common/theme.js';
+import '../../common/terminalColorRegistry.js';
+import '../../../../../platform/terminal/common/xterm/shellIntegrationAddon.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import './decorationAddon.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../base/common/event.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../amdX.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../common/terminalContextKey.js';
+import '../../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../../base/common/decorators.js';
+import '../../../../../base/browser/ui/scrollbar/scrollableElement.js';
+import '../../../../../base/browser/mouseEvent.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../../platform/layout/browser/layoutService.js';
+import '../../../../../platform/tooltipService/common/tooltipService.js';
+import '../../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
 define(
 			de[1299],
 			he([

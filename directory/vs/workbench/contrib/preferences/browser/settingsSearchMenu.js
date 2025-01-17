@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/ui/contextview/contextview.js';
+import '../../../../base/browser/ui/dropdown/dropdownActionViewItem.js';
+import '../../../../editor/contrib/suggest/browser/suggestController.js';
+import '../../../../nls.js';
+import '../../../../platform/contextview/browser/contextView.js';
+import '../common/preferences.js';
 define(
 			de[3122],
 			he([1, 0, 276, 437, 328, 4, 49, 468]),

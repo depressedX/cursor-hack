@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/tools_pb.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import './toolsV2HandlerRegistryService.js';
+import '../../../../contrib/composer/browser/composer.js';
+import '../../../../contrib/composer/browser/composerDataService.js';
+import '../../../../../../proto/aiserver/v1/composer_pb.js';
+import './errors.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../contrib/composer/browser/composerUtilsService.js';
+import '../../../../../editor/common/languages/language.js';
+import '../../../../../platform/markers/common/markers.js';
+import './linterErrorHandler.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../selectedContext/browser/selectedContext.js';
+import '../../../textfile/common/textfiles.js';
+import '../../../../contrib/prettyDialog/browser/prettyDialog.js';
 define(
 			de[3979],
 			he([

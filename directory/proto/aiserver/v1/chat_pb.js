@@ -1,3 +1,12 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../../external/bufbuild/protobuf.js';
+import './utils_pb.js';
+import './tools_pb.js';
+import './docs_pb.js';
+import './repository_pb.js';
+import './composer_pb.js';
+import './shadow_workspace_pb.js';
 define(
 			de[126],
 			he([1, 0, 86, 83, 124, 892, 272, 167, 454]),

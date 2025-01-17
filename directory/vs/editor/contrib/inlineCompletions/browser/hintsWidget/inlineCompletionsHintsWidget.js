@@ -1,3 +1,35 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/browser/ui/actionbar/actionViewItems.js';
+import '../../../../../base/browser/ui/keybindingLabel/keybindingLabel.js';
+import '../../../../../base/common/actions.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/async.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../base/common/observable.js';
+import '../../../../../base/common/observableInternal/derived.js';
+import '../../../../../base/common/platform.js';
+import '../../../../../base/common/themables.js';
+import '../../../../browser/editorBrowser.js';
+import '../../../../common/config/editorOptions.js';
+import '../../../../common/core/position.js';
+import '../../../../common/languages.js';
+import '../../../../common/model.js';
+import '../controller/commandIds.js';
+import '../../../../../nls.js';
+import '../../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../../platform/actions/browser/toolbar.js';
+import '../../../../../platform/actions/common/actions.js';
+import '../../../../../platform/commands/common/commands.js';
+import '../../../../../platform/contextkey/common/contextkey.js';
+import '../../../../../platform/contextview/browser/contextView.js';
+import '../../../../../platform/instantiation/common/instantiation.js';
+import '../../../../../platform/keybinding/common/keybinding.js';
+import '../../../../../platform/telemetry/common/telemetry.js';
+import '../../../../../platform/theme/common/iconRegistry.js';
+import '../../../../../css!vs/editor/contrib/inlineCompletions/browser/hintsWidget/inlineCompletionsHintsWidget.js';
 define(
 			de[1215],
 			he([

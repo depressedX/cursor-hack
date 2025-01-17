@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../common/editor.js';
+import '../../../browser/editor.js';
+import './aiSettingsEditor.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import './aiSettingsEditor.js';
+import './aiSettings.js';
+import './aiSettingsActions.js';
 define(
 			de[4353],
 			he([1, 0, 30, 44, 192, 1383, 102, 1383, 1997, 1998]),

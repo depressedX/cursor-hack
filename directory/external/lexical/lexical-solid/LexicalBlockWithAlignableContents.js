@@ -1,3 +1,16 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../../solid/web.js';
+import '../../solid/web.js';
+import '../../solid/web.js';
+import '../../solid/web.js';
+import '../../solid/web.js';
+import '../lexical/api.js';
+import './LexicalComposerContext.js';
+import './LexicalDecoratorBlockNode.js';
+import './useLexicalNodeSelection.js';
+import '../lexical-utils/api.js';
+import '../../solid/solid.js';
 define(
 			de[2600],
 			he([1, 0, 2, 2, 2, 2, 2, 164, 181, 1563, 1158, 304, 13]),

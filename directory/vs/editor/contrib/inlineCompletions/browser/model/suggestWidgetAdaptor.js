@@ -1,3 +1,17 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/arrays.js';
+import '../../../../../base/common/arraysFind.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../common/core/position.js';
+import '../../../../common/core/range.js';
+import '../../../../common/core/textEdit.js';
+import '../../../../common/languages.js';
+import './singleTextEdit.js';
+import '../../../snippet/browser/snippetParser.js';
+import '../../../snippet/browser/snippetSession.js';
+import '../../../suggest/browser/suggestController.js';
 define(
 			de[2928],
 			he([1, 0, 24, 214, 6, 3, 48, 17, 490, 74, 1196, 389, 1691, 328]),

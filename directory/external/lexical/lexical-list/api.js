@@ -1,3 +1,10 @@
+import '../../../require.js';
+import '../../../exports.js';
+import '../lexical/api.js';
+import './list.js';
+import './list.js';
+import './list.js';
+import './list.js';
 define(
 			de[924],
 			he([1, 0, 164, 923, 923, 923, 923]),

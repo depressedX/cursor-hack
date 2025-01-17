@@ -1,3 +1,15 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/core/range.js';
+import './colorDetector.js';
+import './colorHoverParticipant.js';
+import '../../hover/browser/contentHoverController2.js';
+import '../../hover/browser/hoverOperation.js';
+import '../../hover/browser/hoverTypes.js';
 define(
 			de[3607],
 			he([1, 0, 3, 56, 46, 38, 17, 785, 1218, 448, 601, 368]),

@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../browser/actions/windowActions.js';
+import '../../keybinding/common/keybindingEditing.js';
+import '../../extensions/common/extensions.js';
+import '../../../../platform/files/common/files.js';
+import '../../shadowWorkspace/electron-sandbox/nativeShadowWorkspaceManager.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/notification/common/notification.js';
+import './extensionPatches/rewriteExtension.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../ai/browser/clientLoggerService.js';
 define(
 			de[4054],
 			he([

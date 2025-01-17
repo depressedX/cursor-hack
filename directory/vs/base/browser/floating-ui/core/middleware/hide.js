@@ -1,3 +1,7 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../detectOverflow.js';
+import '../enums.js';
 define(de[2205], he([1, 0, 645, 1494]), function (ce, e, t, i) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.hide = void 0);

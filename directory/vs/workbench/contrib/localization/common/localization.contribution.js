@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/descriptors.js';
+import '../../../../platform/registry/common/platform.js';
+import './localizationsActions.js';
+import '../../../services/extensionManagement/common/extensionFeatures.js';
+import '../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[3458],
 			he([1, 0, 3, 4, 11, 102, 30, 3457, 244, 175]),

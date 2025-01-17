@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/severity.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uuid.js';
+import '../../../../nls.js';
+import './debugModel.js';
 define(
 		de[843],
 		he([1, 0, 6, 111, 28, 47, 4, 300]),

@@ -1,3 +1,22 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/web.js';
+import '../../../../../../external/solid/solid.js';
+import '../../../../../base/common/path.js';
+import '../../../ui/browser/aiInput/plugins/mentions/pureIcon.js';
+import '../../../ui/browser/loadingSpinner/loadingSpinner.js';
+import '../../../controlCommon/browser/solid.js';
+import '../../../../services/utils/browser/isPureClick.js';
+import '../../../../../platform/opener/common/opener.js';
+import './utils/bm25.js';
+import '../../../ui/browser/scrollableDiv.js';
+import '../../../../../base/common/themables.js';
+import '../../../../../base/common/codicons.js';
+import '../../../../../css!vs/workbench/contrib/aiPanes/browser/panes/semanticSearch.js';
 define(
 		de[4198],
 		he([

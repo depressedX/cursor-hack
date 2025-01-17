@@ -1,3 +1,15 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/browser/dom.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../nls.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../platform/theme/common/colorRegistry.js';
+import '../../../../../platform/theme/common/colorUtils.js';
+import '../../../../common/theme.js';
+import '../../../terminal/browser/terminalExtensions.js';
+import '../common/terminalCommandGuideConfiguration.js';
 define(
 			de[3154],
 			he([1, 0, 7, 3, 4, 10, 189, 51, 306, 123, 378, 1764]),

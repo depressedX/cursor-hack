@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../base/common/lifecycle.js';
+import '../common/debug.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/statusbar/browser/statusbar.js';
 define(
 			de[3629],
 			he([1, 0, 4, 3, 112, 10, 166]),

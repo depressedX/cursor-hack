@@ -1,3 +1,44 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/window/common/window.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../base/common/async.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/update/common/update.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../services/environment/common/environmentService.js';
+import '../../../../base/browser/ui/menu/menubar.js';
+import '../../../../base/browser/ui/menu/menu.js';
+import '../../../../base/common/labels.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../base/browser/browser.js';
+import '../../../services/host/browser/host.js';
+import '../../../../base/browser/canIUse.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../platform/contextkey/common/contextkeys.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../actions/windowActions.js';
+import '../../../../platform/action/common/action.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/theme/browser/defaultStyles.js';
+import '../../../../base/browser/window.js';
+import '../../../../platform/hover/browser/hover.js';
+import '../../../services/layout/browser/layoutService.js';
+import '../../../../css!vs/workbench/browser/parts/titlebar/media/menubarControl.js';
 define(
 			de[1311],
 			he([

@@ -1,3 +1,21 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../editor/common/services/resolverService.js';
+import '../../../../../platform/workspace/common/workspace.js';
+import '../../../../services/ai/browser/aiService.js';
+import '../../../../../../proto/aiserver/v1/aiserver_pb.js';
+import '../../../../../../proto/aiserver/v1/utils_pb.js';
+import '../../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../utils/duplicateAsyncIterable.js';
+import '../../../../services/history/common/history.js';
+import '../../../../../../proto/aiserver/v1/chat_pb.js';
+import '../../../../../base/common/resources.js';
+import '../../../../services/ai/browser/repositoryService.js';
+import '../../../../services/shadowWorkspace/common/shadowWorkspaceService.js';
+import '../../../../../../proto/aiserver/v1/shadow_workspace_pb.js';
+import '../../../../../base/common/cppUtils/diff/line.js';
 define(
 			de[3947],
 			he([

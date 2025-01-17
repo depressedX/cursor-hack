@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/arrays.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/network.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/services/languageFeatures.js';
+import './referencesModel.js';
+import '../../../../platform/tracing/common/tracing.js';
 define(
 			de[414],
 			he([1, 0, 24, 33, 29, 23, 46, 69, 541, 216]),

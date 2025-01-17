@@ -1,3 +1,29 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../base/common/constants.js';
+import '../../../../ui/browser/simpleButton/simpleButton.js';
+import './hooks.js';
+import './settingsTab.js';
+import './settingsSection.js';
+import './settingsSubSection.js';
+import './settingsSectionDivider.js';
+import './emailAndSignUpType.js';
+import '../../../../ui/browser/menu/hooks.js';
+import '../../../../ui/browser/menu/menu.js';
+import '../../../../ui/browser/dropdown/dropdown.js';
+import '../../../../aicontext/browser/components/AiContext.js';
+import '../../../../aicontext/browser/aicontextPane.js';
+import '../../../../aicontext/browser/contextPaneData.js';
+import '../../../../ui/browser/hooks/useKeyboardShortcut.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
 define(
 			de[4230],
 			he([

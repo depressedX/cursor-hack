@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/errorMessage.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/browser/ui/iconLabel/simpleIconLabel.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/telemetry/common/telemetry.js';
+import '../../../services/statusbar/browser/statusbar.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../editor/common/editorCommon.js';
+import '../../../../base/browser/dom.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../base/common/types.js';
+import '../../../../base/browser/keyboardEvent.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/browser/ui/iconLabel/iconLabels.js';
+import '../../../../platform/theme/common/iconRegistry.js';
+import '../../../../base/common/htmlContent.js';
+import '../../../../base/browser/touch.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[3625],
 			he([

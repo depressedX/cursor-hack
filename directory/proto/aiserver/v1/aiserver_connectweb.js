@@ -1,3 +1,16 @@
+import '../../../require.js';
+import '../../../exports.js';
+import './aiserver_pb.js';
+import '../../../external/bufbuild/protobuf.js';
+import './chat_pb.js';
+import './inline_gpt4_pb.js';
+import './fastpreviews_pb.js';
+import './symbolic_context_pb.js';
+import './docs_pb.js';
+import './cpp_pb.js';
+import './telemetry_pb.js';
+import './experiments_pb.js';
+import './bugbot_pb.js';
 define(
 			de[341],
 			he([1, 0, 148, 86, 126, 1485, 1481, 643, 892, 367, 1479, 1475, 642]),

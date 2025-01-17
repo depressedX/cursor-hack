@@ -1,3 +1,10 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../../proto/aiserver/v1/context_pb.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../contrib/aichat/browser/chatDataService.js';
+import '../../../ai/browser/fastContextService.js';
 define(
 			de[3932],
 			he([1, 0, 228, 3, 45, 337, 400]),

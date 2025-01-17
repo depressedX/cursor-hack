@@ -1,3 +1,10 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../common/core/range.js';
+import '../../../common/model.js';
+import '../../../common/model/textModel.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
 define(
 			de[1688],
 			he([1, 0, 17, 64, 122, 51, 35]),

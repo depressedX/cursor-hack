@@ -1,3 +1,34 @@
+import '../../../../../../../require.js';
+import '../../../../../../../exports.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../../external/solid/solid.js';
+import '../../../../../../base/browser/solidComponents/switch/switch.js';
+import '../../../../../../base/common/codicons.js';
+import '../../../../../../base/common/themables.js';
+import '../../../../controlCommon/browser/solid.js';
+import '../../../../../../../external/solid/web.js';
+import '../../../../../../base/common/constants.js';
+import '../../../../../../base/common/platform.js';
+import '../../../../ui/browser/inlineTextArea/inlineTextArea.js';
+import '../../../../ui/browser/scrollableDiv.js';
+import '../../../../ui/browser/simpleButton/simpleButton.js';
+import '../../../../ui/browser/simpleCodeRender/simpleCodeRender.js';
+import '../../../../ui/browser/hooks/useThemeHooks.js';
+import '../../../../utils/browser/copyToClipboard.js';
+import './settingsTab.js';
+import './settingsSection.js';
+import './settingsSectionDivider.js';
+import '../../../../../services/cursorAuth/browser/authenticationService.js';
+import '../../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import './hooks.js';
+import './settingsAPIWarningModal.js';
+import '../../../../ui/browser/checkbox/checkbox.js';
 define(
 		de[4341],
 		he([

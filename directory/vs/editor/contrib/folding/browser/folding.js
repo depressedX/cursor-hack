@@ -1,3 +1,40 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../base/common/errors.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/strings.js';
+import '../../../../base/common/types.js';
+import '../../../browser/stableEditorScroll.js';
+import '../../../browser/editorBrowser.js';
+import '../../../browser/editorExtensions.js';
+import '../../../common/config/editorOptions.js';
+import '../../../common/editorCommon.js';
+import '../../../common/editorContextKeys.js';
+import '../../../common/languages.js';
+import '../../../common/languages/languageConfigurationRegistry.js';
+import './foldingModel.js';
+import './hiddenRangeModel.js';
+import './indentRangeProvider.js';
+import '../../../../nls.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import './foldingDecorations.js';
+import './foldingRanges.js';
+import './syntaxRangeProvider.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../common/services/languageFeatureDebounce.js';
+import '../../../../base/common/stopwatch.js';
+import '../../../common/services/languageFeatures.js';
+import '../../../../base/common/event.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../base/common/uri.js';
+import '../../../common/services/model.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../css!vs/editor/contrib/folding/browser/folding.js';
 define(
 			de[350],
 			he([

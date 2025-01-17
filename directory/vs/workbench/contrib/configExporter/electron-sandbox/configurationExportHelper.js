@@ -1,3 +1,14 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/buffer.js';
+import '../../../../base/common/uri.js';
+import '../../../../platform/product/common/productService.js';
 define(
 			de[3307],
 			he([1, 0, 151, 30, 81, 53, 31, 22, 76, 9, 62]),

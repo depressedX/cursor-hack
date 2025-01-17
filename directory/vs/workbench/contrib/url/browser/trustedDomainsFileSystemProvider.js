@@ -1,3 +1,13 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/event.js';
+import '../../../../base/common/json.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../base/common/buffer.js';
+import './trustedDomains.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[3278],
 			he([1, 0, 6, 187, 22, 21, 76, 1018, 28, 5]),

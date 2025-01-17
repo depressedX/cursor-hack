@@ -1,3 +1,9 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/cancellation.js';
+import '../../../../editor/common/services/languageFeatures.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../platform/commands/common/commands.js';
 define(de[3074], he([1, 0, 33, 69, 42, 31]), function (ce, e, t, i, w, E) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -1,3 +1,11 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../nls.js';
+import '../common/logConstants.js';
+import '../../../../platform/log/common/logService.js';
+import '../../../../platform/tracing/common/logger.js';
 define(
 			de[3461],
 			he([1, 0, 34, 3, 4, 705, 1621, 2871]),

@@ -1,3 +1,14 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../platform/storage/common/storage.js';
+import '../common/extHost.protocol.js';
+import '../../services/extensions/common/extHostCustomers.js';
+import '../../../base/common/lifecycle.js';
+import '../../../base/common/platform.js';
+import '../../../platform/extensionManagement/common/extensionStorage.js';
+import '../../services/extensions/common/extensionStorageMigration.js';
+import '../../../platform/instantiation/common/instantiation.js';
+import '../../../platform/log/common/log.js';
 define(
 			de[3368],
 			he([1, 0, 21, 88, 101, 3, 12, 677, 3304, 5, 34]),

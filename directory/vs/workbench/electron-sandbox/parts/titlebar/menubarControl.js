@@ -1,3 +1,28 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/workspaces/common/workspaces.js';
+import '../../../../base/common/platform.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/keybinding/common/keybinding.js';
+import '../../../services/environment/electron-sandbox/environmentService.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/label/common/label.js';
+import '../../../../platform/update/common/update.js';
+import '../../../browser/parts/titlebar/menubarControl.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/menubar/electron-sandbox/menubar.js';
+import '../../../../platform/native/common/native.js';
+import '../../../services/host/browser/host.js';
+import '../../../services/preferences/common/preferences.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../browser/actions/windowActions.js';
+import '../../../../platform/action/common/action.js';
+import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
+import '../../../../platform/hover/browser/hover.js';
 define(
 			de[3538],
 			he([

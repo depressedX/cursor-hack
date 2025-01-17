@@ -1,3 +1,17 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/terminal/common/capabilities/commandDetection/terminalCommand.js';
+import '../../../../platform/workspace/common/workspace.js';
+import './utils.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../base/common/uri.js';
+import '../../../../base/common/cppUtils/diff/word.js';
 define(
 			de[3957],
 			he([1, 0, 7, 3, 22, 20, 5, 45, 1652, 25, 1759, 118, 9, 1130]),

@@ -1,3 +1,23 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/platform.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../services/views/common/viewsService.js';
+import '../common/constants.js';
+import '../../searchEditor/browser/constants.js';
+import './searchModel.js';
+import '../../searchEditor/browser/searchEditorInput.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../base/common/types.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/keybinding/common/keybindingsRegistry.js';
+import '../../../../base/common/keyCodes.js';
+import '../../../../editor/contrib/find/browser/findModel.js';
+import './searchActionsBase.js';
+import '../../../../platform/accessibility/common/accessibility.js';
+import '../../../../base/browser/dom.js';
 define(
 			de[4171],
 			he([

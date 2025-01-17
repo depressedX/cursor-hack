@@ -1,3 +1,12 @@
+import '../../../../../../require.js';
+import '../../../../../../exports.js';
+import '../../../../../base/common/decorators.js';
+import '../../../../../base/common/event.js';
+import '../../../../../base/common/lifecycle.js';
+import '../../../../../platform/accessibility/common/accessibility.js';
+import '../../../../../platform/configuration/common/configuration.js';
+import '../../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../../platform/terminal/common/terminal.js';
 define(
 			de[3153],
 			he([1, 0, 138, 6, 3, 91, 10, 189, 117]),

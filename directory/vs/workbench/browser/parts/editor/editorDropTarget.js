@@ -1,3 +1,30 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dnd.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/browser/formattedTextRenderer.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/platform.js';
+import '../../../../base/common/types.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/theme/common/colorRegistry.js';
+import '../../../../platform/theme/common/themeService.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../platform/dnd/browser/dnd.js';
+import '../../dnd.js';
+import './editor.js';
+import '../../../common/editor.js';
+import '../../../common/theme.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../editor/common/services/treeViewsDndService.js';
+import '../../../../editor/common/services/treeViewsDnd.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../css!vs/workbench/browser/parts/editor/media/editordroptarget.js';
 define(
 			de[4008],
 			he([

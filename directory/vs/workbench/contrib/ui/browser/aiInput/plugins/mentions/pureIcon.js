@@ -1,3 +1,11 @@
+import '../../../../../../../../require.js';
+import '../../../../../../../../exports.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/web.js';
+import '../../../../../../../../external/solid/solid.js';
+import '../../../../../../../editor/common/services/getIconClasses.js';
+import '../../../../../../../platform/files/common/files.js';
 define(
 			de[156],
 			he([1, 0, 2, 2, 2, 13, 252, 22]),

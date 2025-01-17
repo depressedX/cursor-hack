@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/observable.js';
+import '../../../../nls.js';
+import '../../../../platform/configuration/common/configuration.js';
+import './testCoverageBars.js';
+import '../common/configuration.js';
+import '../common/constants.js';
+import '../common/testCoverageService.js';
+import '../common/testingStates.js';
+import '../common/testResult.js';
+import '../common/testResultService.js';
+import '../common/testTypes.js';
+import '../../../services/views/common/viewsService.js';
 define(
 			de[1909],
 			he([1, 0, 3, 77, 4, 10, 1335, 443, 353, 630, 563, 421, 381, 185, 89]),

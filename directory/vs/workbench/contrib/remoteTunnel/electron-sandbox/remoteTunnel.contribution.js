@@ -1,3 +1,35 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/actions.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../base/common/network.js';
+import '../../../../base/common/resources.js';
+import '../../../../base/common/types.js';
+import '../../../../base/common/uri.js';
+import '../../../../nls.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/clipboard/common/clipboardService.js';
+import '../../../../platform/commands/common/commands.js';
+import '../../../../platform/configuration/common/configurationRegistry.js';
+import '../../../../platform/contextkey/common/contextkey.js';
+import '../../../../platform/dialogs/common/dialogs.js';
+import '../../../../platform/environment/common/environment.js';
+import '../../../../platform/log/common/log.js';
+import '../../../../platform/notification/common/notification.js';
+import '../../../../platform/opener/common/opener.js';
+import '../../../../platform/product/common/productService.js';
+import '../../../../platform/progress/common/progress.js';
+import '../../../../platform/quickinput/common/quickInput.js';
+import '../../../../platform/registry/common/platform.js';
+import '../../../../platform/remoteTunnel/common/remoteTunnel.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../common/contributions.js';
+import '../../../services/authentication/common/authentication.js';
+import '../../../services/extensions/common/extensions.js';
+import '../../../services/lifecycle/common/lifecycle.js';
+import '../../../services/output/common/output.js';
+import '../../../services/preferences/common/preferences.js';
 define(
 			de[3537],
 			he([

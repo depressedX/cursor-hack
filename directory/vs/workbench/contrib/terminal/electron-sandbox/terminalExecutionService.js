@@ -1,3 +1,18 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/native/common/native.js';
+import '../browser/terminal.js';
+import '../common/terminal.js';
+import '../browser/terminalExecutionService.js';
+import '../../../../platform/terminal/common/capabilities/capabilities.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../base/common/uuid.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../services/ai/browser/aiService.js';
+import '../../../../base/common/async.js';
+import '../../../../base/common/map.js';
+import '../../../../../proto/aiserver/v1/tools_pb.js';
 define(
 			de[3958],
 			he([1, 0, 3, 110, 107, 145, 617, 189, 20, 47, 25, 118, 15, 59, 124]),

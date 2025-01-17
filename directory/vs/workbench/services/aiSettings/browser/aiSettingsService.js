@@ -1,3 +1,16 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/common/constants.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/actions/common/actions.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/layout/browser/layoutService.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../platform/storage/common/storage.js';
+import '../../cursorAuth/browser/authenticationService.js';
+import '../../../../base/common/event.js';
 define(
 			de[315],
 			he([1, 0, 58, 3, 11, 20, 5, 180, 45, 134, 21, 232, 6]),

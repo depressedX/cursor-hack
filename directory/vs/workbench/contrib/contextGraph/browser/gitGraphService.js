@@ -1,3 +1,26 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../../../base/browser/dom.js';
+import '../../../../base/common/lifecycle.js';
+import '../../../../platform/cursor/browser/aiEverythingProviderService.js';
+import '../../../../platform/instantiation/common/extensions.js';
+import '../../../../platform/instantiation/common/instantiation.js';
+import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
+import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
+import '../../../../platform/workspace/common/workspace.js';
+import '../../../../editor/browser/services/codeEditorService.js';
+import '../../../../editor/contrib/documentSymbols/browser/outlineModel.js';
+import '../../../services/ai/browser/gitContextService.js';
+import '../../../../editor/common/services/resolverService.js';
+import '../../../../base/browser/dom.js';
+import '../../../services/editor/common/editorGroupsService.js';
+import '../../../services/editor/common/editorService.js';
+import '../../../../platform/opener/common/opener.js';
+import './constants.js';
+import '../../../../platform/files/common/files.js';
+import '../../../../base/common/uri.js';
+import '../../../services/utils/common/ignore.js';
+import '../../../../css!vs/workbench/contrib/contextGraph/browser/contextGraph.js';
 define(
 		de[715],
 		he([

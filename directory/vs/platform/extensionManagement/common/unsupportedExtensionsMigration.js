@@ -1,3 +1,9 @@
+import '../../../../require.js';
+import '../../../../exports.js';
+import '../../../base/common/cancellation.js';
+import './extensionManagement.js';
+import './extensionManagementUtil.js';
+import '../../extensions/common/extensions.js';
 define(
 			de[2818],
 			he([1, 0, 33, 119, 154, 109]),

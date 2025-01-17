@@ -1,3 +1,12 @@
+import '../../../../../require.js';
+import '../../../../../exports.js';
+import '../../dom.js';
+import '../../touch.js';
+import '../../../common/arrays.js';
+import '../../../common/event.js';
+import '../../../common/keyCodes.js';
+import '../../../common/lifecycle.js';
+import '../../../common/platform.js';
 define(
 			de[2677],
 			he([1, 0, 7, 159, 24, 6, 27, 3, 12]),
