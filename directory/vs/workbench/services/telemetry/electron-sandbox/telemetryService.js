@@ -16,7 +16,21 @@ import '../../../../base/parts/sandbox/electron-sandbox/globals.js';
 define(
 			de[3657],
 			he([1, 0, 32, 269, 10, 3, 151, 62, 230, 2815, 21, 3656, 2819, 20, 320]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*telemetry*/,
+ i /*telemetryUtils*/,
+ w /*configuration*/,
+ E /*lifecycle*/,
+ C /*environmentService*/,
+ d /*productService*/,
+ m /*services*/,
+ r /*telemetryIpc*/,
+ u /*storage*/,
+ a /*workbenchCommonProperties*/,
+ h /*telemetryService*/,
+ c /*extensions*/,
+ n /*globals*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Odd = void 0);

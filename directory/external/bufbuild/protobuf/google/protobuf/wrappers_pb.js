@@ -7,7 +7,12 @@ import '../../proto-int64.js';
 define(
 			de[1407],
 			he([1, 0, 339, 406, 429, 525]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*message*/,
+ i /*proto3*/,
+ w /*scalar*/,
+ E /*proto-int64*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.BytesValue =

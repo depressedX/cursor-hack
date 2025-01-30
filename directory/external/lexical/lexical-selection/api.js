@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './lexical-node.js';
 import './range-selection.js';
 import './utils.js';
-define(de[921], he([1, 0, 1561, 1562, 1157]), function (ce, e, t, i, w) {
+define(de[921], he([1, 0, 1561, 1562, 1157]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lexical-node*/,
+ i /*range-selection*/,
+ w /*utils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.getStyleObjectFromCSS =

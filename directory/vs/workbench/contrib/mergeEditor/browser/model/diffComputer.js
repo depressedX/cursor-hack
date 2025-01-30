@@ -9,7 +9,14 @@ import '../../../../../platform/observable/common/platformObservableUtils.js';
 define(
 			de[3078],
 			he([1, 0, 229, 200, 10, 507, 686, 326]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*editorWorker*/,
+ w /*configuration*/,
+ E /*lineRange*/,
+ C /*mapping*/,
+ d /*platformObservableUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$JZb = void 0),

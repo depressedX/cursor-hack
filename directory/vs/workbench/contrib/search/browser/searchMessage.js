@@ -12,7 +12,17 @@ import '../../../../base/common/uri.js';
 define(
 		de[1863],
 		he([1, 0, 4, 7, 488, 111, 673, 1862, 23, 497, 9]),
-		function (ce, e, t, i, w, E, C, d, m, r, u) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*dom*/,
+ w /*linkedText*/,
+ E /*severity*/,
+ C /*severityIcon*/,
+ d /*searchExtTypes*/,
+ m /*network*/,
+ r /*link*/,
+ u /*uri*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$UOc = void 0),

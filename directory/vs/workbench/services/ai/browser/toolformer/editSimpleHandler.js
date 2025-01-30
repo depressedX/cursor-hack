@@ -13,7 +13,18 @@ import '../../../../../editor/contrib/codeAction/browser/codeAction.js';
 define(
 			de[3964],
 			he([1, 0, 124, 42, 241, 17, 545, 90, 24, 25, 31, 393]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*resolverService*/,
+ w /*magicLinkService*/,
+ E /*range*/,
+ C /*simpleInlineDiffService*/,
+ d /*markers*/,
+ m /*arrays*/,
+ r /*workspace*/,
+ u /*commands*/,
+ a /*codeAction*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$C8b = void 0);

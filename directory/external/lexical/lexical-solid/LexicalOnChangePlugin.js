@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import '../../solid/solid.js';
 import './LexicalComposerContext.js';
-define(de[2155], he([1, 0, 13, 181]), function (ce, e, t, i) {
+define(de[2155], he([1, 0, 13, 181]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*LexicalComposerContext*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.OnChangePlugin = w);

@@ -7,7 +7,12 @@ import './handlers.js';
 define(
 			de[2080],
 			he([1, 0, 527, 528, 365, 726]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*logger*/,
+ i /*object*/,
+ w /*worldwide*/,
+ E /*handlers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.addConsoleInstrumentationHandler = C);

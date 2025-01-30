@@ -16,7 +16,21 @@ import '../../../../base/common/event.js';
 define(
 			de[2768],
 			he([1, 0, 7, 56, 38, 601, 39, 2726, 8, 10, 91, 71, 160, 64, 6]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*editorBrowser*/,
+ w /*editorOptions*/,
+ E /*hoverOperation*/,
+ C /*keybinding*/,
+ d /*resizableContentWidget*/,
+ m /*contextkey*/,
+ r /*configuration*/,
+ u /*accessibility*/,
+ a /*editorContextKeys*/,
+ h /*hoverWidget*/,
+ c /*model*/,
+ n /*event*/) {
 				"use strict";
 				var g;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

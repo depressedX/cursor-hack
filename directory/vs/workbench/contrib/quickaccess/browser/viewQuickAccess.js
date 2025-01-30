@@ -23,7 +23,25 @@ define(
 				1, 0, 4, 63, 392, 60, 89, 297, 107, 8, 132, 37, 39, 11, 27, 43, 99, 142,
 				112,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*quickInput*/,
+ w /*pickerQuickAccess*/,
+ E /*views*/,
+ C /*viewsService*/,
+ d /*output*/,
+ m /*terminal*/,
+ r /*contextkey*/,
+ u /*filters*/,
+ a /*strings*/,
+ h /*keybinding*/,
+ c /*actions*/,
+ n /*keyCodes*/,
+ g /*keybindingsRegistry*/,
+ p /*actionCommonCategories*/,
+ o /*panecomposite*/,
+ f /*debug*/) {
 				"use strict";
 				var b;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

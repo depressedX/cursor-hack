@@ -14,7 +14,19 @@ import '../../../services/editor/common/editorService.js';
 define(
 			de[3407],
 			he([1, 0, 27, 71, 4, 11, 8, 43, 99, 355, 1025, 566, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*editorContextKeys*/,
+ w /*nls*/,
+ E /*actions*/,
+ C /*contextkey*/,
+ d /*keybindingsRegistry*/,
+ m /*actionCommonCategories*/,
+ r /*webview*/,
+ u /*webviewEditor*/,
+ a /*webviewEditorInput*/,
+ h /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ySc = e.$xSc = e.$wSc = e.$vSc = e.$uSc = void 0),

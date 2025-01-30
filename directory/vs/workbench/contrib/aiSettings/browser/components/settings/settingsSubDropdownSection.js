@@ -13,7 +13,18 @@ import '../../../../ui/browser/dropdown/dropdown.js';
 define(
 			de[4186],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 36, 331, 523]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*solid*/,
+ u /*useThemeHooks*/,
+ a /*dropdown*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$WCc = n);
 				const h = (0, t.template)("<p>"),

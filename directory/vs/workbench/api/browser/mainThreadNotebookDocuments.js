@@ -13,7 +13,18 @@ import '../../services/extensions/common/proxyIdentifier.js';
 define(
 			de[3900],
 			he([1, 0, 3, 59, 9, 1342, 70, 509, 68, 88, 1027, 622]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*map*/,
+ w /*uri*/,
+ E /*mainThreadDocuments*/,
+ C /*notebookCommon*/,
+ d /*notebookEditorModelResolverService*/,
+ m /*uriIdentity*/,
+ r /*extHost.protocol*/,
+ u /*mainThreadNotebookDto*/,
+ a /*proxyIdentifier*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Epc = void 0);

@@ -8,7 +8,13 @@ import '../../../../workbench/contrib/terminal/common/terminal.js';
 define(
 		de[3166],
 		he([1, 0, 3, 1610, 31, 5, 145]),
-		function (ce, e, t, i, w, E, C) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*tooltipUiWidgets*/,
+ w /*commands*/,
+ E /*instantiation*/,
+ C /*terminal*/) {
 			"use strict";
 			var d;
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -8,7 +8,13 @@ import '../../../ui/browser/aiInput/aiInput2.js';
 define(
 			de[4317],
 			he([1, 0, 181, 158, 13, 36, 450]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalComposerContext*/,
+ i /*lexical*/,
+ w /*solid*/,
+ E /*solid*/,
+ C /*aiInput2*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerArrowPlugin = void 0);

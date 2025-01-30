@@ -18,7 +18,23 @@ import '../../../platform/configuration/common/configuration.js';
 define(
 			de[1913],
 			he([1, 0, 29, 3, 82, 9, 65, 31, 116, 88, 446, 18, 66, 113, 227, 56, 10]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*lifecycle*/,
+ w /*objects*/,
+ E /*uri*/,
+ C /*codeEditorService*/,
+ d /*commands*/,
+ m /*editor*/,
+ r /*extHost.protocol*/,
+ u /*editorGroupColumn*/,
+ a /*editorService*/,
+ h /*editorGroupsService*/,
+ c /*environment*/,
+ n /*workingCopyService*/,
+ g /*editorBrowser*/,
+ p /*configuration*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

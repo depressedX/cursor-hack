@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import './base.js';
-define(de[1498], he([1, 0, 1129]), function (ce, e, t) {
+define(de[1498], he([1, 0, 1129]), function (ce /*require*/,
+ e /*exports*/,
+ t /*base*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Sqb = void 0),

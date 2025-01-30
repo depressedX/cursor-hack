@@ -14,7 +14,19 @@ import './hoverUtils.js';
 define(
 			de[2775],
 			he([1, 0, 7, 3, 251, 56, 38, 61, 601, 41, 160, 2769, 937]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*markdownRenderer*/,
+ E /*editorBrowser*/,
+ C /*editorOptions*/,
+ d /*language*/,
+ m /*hoverOperation*/,
+ r /*opener*/,
+ u /*hoverWidget*/,
+ a /*marginHoverComputer*/,
+ h /*hoverUtils*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

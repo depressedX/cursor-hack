@@ -4,7 +4,12 @@ import '../../../../../base/common/lifecycle.js';
 import '../../../../../base/browser/defaultWorkerFactory.js';
 import '../../common/notebookCommon.js';
 import '../../common/notebookService.js';
-define(de[3473], he([1, 0, 3, 540, 70, 161]), function (ce, e, t, i, w, E) {
+define(de[3473], he([1, 0, 3, 540, 70, 161]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*defaultWorkerFactory*/,
+ w /*notebookCommon*/,
+ E /*notebookService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$nFc = void 0);
 			let C = class extends t.$1c {

@@ -11,7 +11,16 @@ import '../../../../base/browser/ui/mouseCursor/mouseCursor.js';
 define(
 			de[2720],
 			he([1, 0, 7, 194, 37, 321, 38, 48, 17, 651]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*fastDomNode*/,
+ w /*strings*/,
+ E /*domFontInfo*/,
+ C /*editorOptions*/,
+ d /*position*/,
+ m /*range*/,
+ r /*mouseCursor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Tub = e.CursorPlurality = void 0),

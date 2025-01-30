@@ -8,7 +8,13 @@ import '../../../services/extensions/common/extensions.js';
 define(
 			de[3554],
 			he([1, 0, 3, 21, 282, 1033, 53]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*storage*/,
+ w /*memento*/,
+ E /*configuration*/,
+ C /*extensions*/) {
 				"use strict";
 				var d;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -13,7 +13,18 @@ import '../../../../base/common/stream.js';
 define(
 			de[1925],
 			he([1, 0, 6, 334, 848, 3, 227, 33, 15, 34, 335, 408]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*workingCopy*/,
+ w /*fileWorkingCopy*/,
+ E /*lifecycle*/,
+ C /*workingCopyService*/,
+ d /*cancellation*/,
+ m /*async*/,
+ r /*log*/,
+ u /*workingCopyBackup*/,
+ a /*stream*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Kpc = void 0);

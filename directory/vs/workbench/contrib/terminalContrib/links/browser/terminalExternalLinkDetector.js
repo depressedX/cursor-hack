@@ -1,7 +1,9 @@
 import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import './terminalLinkHelpers.js';
-define(de[3156], he([1, 0, 562]), function (ce, e, t) {
+define(de[3156], he([1, 0, 562]), function (ce /*require*/,
+ e /*exports*/,
+ t /*terminalLinkHelpers*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$dWc = void 0);
 			class i {

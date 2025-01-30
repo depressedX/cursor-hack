@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../model.js';
-define(de[2765], he([1, 0, 64]), function (ce, e, t) {
+define(de[2765], he([1, 0, 64]), function (ce /*require*/,
+ e /*exports*/,
+ t /*model*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$pwb = void 0);
 			const i = t.GlyphMarginLane.Right;

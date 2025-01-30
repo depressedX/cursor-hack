@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/errors.js';
 import '../../../../base/common/lifecycle.js';
 import './foldingRanges.js';
-define(de[660], he([1, 0, 29, 3, 659]), function (ce, e, t, i, w) {
+define(de[660], he([1, 0, 29, 3, 659]), function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*lifecycle*/,
+ w /*foldingRanges*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$XNb = void 0),

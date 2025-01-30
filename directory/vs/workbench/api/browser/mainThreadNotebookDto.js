@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../contrib/notebook/common/notebookCommon.js';
 import '../../contrib/notebook/common/notebookExecutionService.js';
-define(de[1027], he([1, 0, 70, 611]), function (ce, e, t, i) {
+define(de[1027], he([1, 0, 70, 611]), function (ce /*require*/,
+ e /*exports*/,
+ t /*notebookCommon*/,
+ i /*notebookExecutionService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.NotebookDto = void 0),

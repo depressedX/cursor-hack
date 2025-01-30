@@ -4,7 +4,12 @@ import '../../../../base/common/lifecycle.js';
 import '../../../../platform/notification/common/notification.js';
 import '../../../../platform/telemetry/common/telemetry.js';
 import '../../../../base/common/hash.js';
-define(de[1698], he([1, 0, 3, 40, 32, 136]), function (ce, e, t, i, w, E) {
+define(de[1698], he([1, 0, 3, 40, 32, 136]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*notification*/,
+ w /*telemetry*/,
+ E /*hash*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$R2c = void 0),

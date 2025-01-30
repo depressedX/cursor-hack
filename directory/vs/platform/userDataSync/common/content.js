@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/jsonEdit.js';
-define(de[1669], he([1, 0, 586]), function (ce, e, t) {
+define(de[1669], he([1, 0, 586]), function (ce /*require*/,
+ e /*exports*/,
+ t /*jsonEdit*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.edit = i),

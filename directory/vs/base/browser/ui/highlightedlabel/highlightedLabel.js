@@ -9,7 +9,14 @@ import '../../../common/objects.js';
 define(
 			de[410],
 			he([1, 0, 7, 317, 95, 182, 3, 82]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*hoverDelegate2*/,
+ w /*hoverDelegateFactory*/,
+ E /*iconLabels*/,
+ C /*lifecycle*/,
+ d /*objects*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Wob = void 0),

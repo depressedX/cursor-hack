@@ -11,7 +11,16 @@ import '../../../../../platform/actions/common/actions.js';
 define(
 			de[3672],
 			he([1, 0, 4, 3671, 46, 71, 27, 8, 43, 11]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*emmetActions*/,
+ w /*editorExtensions*/,
+ E /*editorContextKeys*/,
+ C /*keyCodes*/,
+ d /*contextkey*/,
+ m /*keybindingsRegistry*/,
+ r /*actions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (t = mt(t));
 				class u extends i.$IXc {

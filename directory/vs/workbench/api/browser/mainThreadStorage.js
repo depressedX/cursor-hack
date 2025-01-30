@@ -12,7 +12,17 @@ import '../../../platform/log/common/log.js';
 define(
 			de[3368],
 			he([1, 0, 21, 88, 101, 3, 12, 677, 3304, 5, 34]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*storage*/,
+ i /*extHost.protocol*/,
+ w /*extHostCustomers*/,
+ E /*lifecycle*/,
+ C /*platform*/,
+ d /*extensionStorage*/,
+ m /*extensionStorageMigration*/,
+ r /*instantiation*/,
+ u /*log*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$soc = void 0);

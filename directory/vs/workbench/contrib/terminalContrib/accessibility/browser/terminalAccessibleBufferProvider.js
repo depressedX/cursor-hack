@@ -13,7 +13,18 @@ import '../common/terminalAccessibilityConfiguration.js';
 define(
 			de[3570],
 			he([1, 0, 6, 3, 67, 178, 10, 8, 189, 130, 107, 996]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*model*/,
+ E /*accessibleView*/,
+ C /*configuration*/,
+ d /*contextkey*/,
+ m /*capabilities*/,
+ r /*accessibilityConfiguration*/,
+ u /*terminal*/,
+ a /*terminalAccessibilityConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$NVc = void 0);

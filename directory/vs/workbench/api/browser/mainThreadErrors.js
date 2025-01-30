@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/errors.js';
 import '../../services/extensions/common/extHostCustomers.js';
 import '../common/extHost.protocol.js';
-define(de[3350], he([1, 0, 29, 101, 88]), function (ce, e, t, i, w) {
+define(de[3350], he([1, 0, 29, 101, 88]), function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*extHostCustomers*/,
+ w /*extHost.protocol*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Wnc = void 0);
 			let E = class {

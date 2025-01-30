@@ -4,7 +4,12 @@ import '../../../../base/common/event.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../common/core/range.js';
 import './findModel.js';
-define(de[786], he([1, 0, 6, 3, 17, 547]), function (ce, e, t, i, w, E) {
+define(de[786], he([1, 0, 6, 3, 17, 547]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*range*/,
+ E /*findModel*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$l2b = e.FindOptionOverride = void 0);

@@ -18,7 +18,23 @@ import '../services/editor/common/editorService.js';
 define(
 			de[824],
 			he([1, 0, 6, 3, 19, 56, 281, 38, 248, 64, 122, 1676, 11, 8, 5, 39, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*resources*/,
+ E /*editorBrowser*/,
+ C /*embeddedCodeEditorWidget*/,
+ d /*editorOptions*/,
+ m /*cursorEvents*/,
+ r /*model*/,
+ u /*textModel*/,
+ a /*floatingMenu*/,
+ h /*actions*/,
+ c /*contextkey*/,
+ n /*instantiation*/,
+ g /*keybinding*/,
+ p /*editorService*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

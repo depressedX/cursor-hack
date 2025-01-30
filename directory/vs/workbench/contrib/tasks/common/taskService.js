@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../platform/contextkey/common/contextkey.js';
-define(de[419], he([1, 0, 4, 5, 8]), function (ce, e, t, i, w) {
+define(de[419], he([1, 0, 4, 5, 8]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*instantiation*/,
+ w /*contextkey*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Zpc = e.$Ypc = e.$Xpc = e.$Wpc = e.$Vpc = e.$Upc = e.$Tpc = void 0),

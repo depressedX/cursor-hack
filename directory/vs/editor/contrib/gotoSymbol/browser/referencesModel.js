@@ -13,7 +13,18 @@ import '../../../../nls.js';
 define(
 			de[541],
 			he([1, 0, 29, 6, 584, 3, 59, 19, 37, 210, 17, 4]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*event*/,
+ w /*idGenerator*/,
+ E /*lifecycle*/,
+ C /*map*/,
+ d /*resources*/,
+ m /*strings*/,
+ r /*uint*/,
+ u /*range*/,
+ a /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pNb = e.$oNb = e.$nNb = e.$mNb = void 0),

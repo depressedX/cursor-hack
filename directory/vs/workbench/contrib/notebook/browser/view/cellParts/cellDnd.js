@@ -12,7 +12,17 @@ import '../../../common/notebookRange.js';
 define(
 			de[1848],
 			he([1, 0, 7, 15, 3, 12, 108, 294, 1029, 70, 442]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*async*/,
+ w /*lifecycle*/,
+ E /*platform*/,
+ C /*notebookBrowser*/,
+ d /*cellPart*/,
+ m /*notebookCellTextModel*/,
+ r /*notebookCommon*/,
+ u /*notebookRange*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$u2b = e.$t2b = void 0),

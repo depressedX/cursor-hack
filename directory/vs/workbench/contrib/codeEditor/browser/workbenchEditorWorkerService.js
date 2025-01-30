@@ -10,7 +10,15 @@ import '../../../../platform/log/common/log.js';
 define(
 			de[3025],
 			he([1, 0, 540, 2771, 152, 69, 67, 125, 34]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*defaultWorkerFactory*/,
+ i /*editorWorkerService*/,
+ w /*languageConfigurationRegistry*/,
+ E /*languageFeatures*/,
+ C /*model*/,
+ d /*textResourceConfiguration*/,
+ m /*log*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$QAc = void 0);

@@ -4,7 +4,11 @@ import '../../../../base/browser/fastDomNode.js';
 import '../../view/viewPart.js';
 import '../../../common/config/editorOptions.js';
 import '../../../../css!vs/editor/browser/viewParts/blockDecorations/blockDecorations.js';
-define(de[2714], he([1, 0, 194, 303, 38, 2262]), function (ce, e, t, i, w) {
+define(de[2714], he([1, 0, 194, 303, 38, 2262]), function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*viewPart*/,
+ w /*editorOptions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$hvb = void 0);
 			class E extends i.$yub {

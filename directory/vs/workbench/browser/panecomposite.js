@@ -16,7 +16,21 @@ import './parts/views/viewPane.js';
 define(
 			de[1056],
 			he([1, 0, 30, 1701, 5, 50, 11, 49, 21, 32, 35, 25, 239, 53, 146]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*composite*/,
+ w /*instantiation*/,
+ E /*actions*/,
+ C /*actions*/,
+ d /*contextView*/,
+ m /*storage*/,
+ r /*telemetry*/,
+ u /*themeService*/,
+ a /*workspace*/,
+ h /*viewPaneContainer*/,
+ c /*extensions*/,
+ n /*viewPane*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5Sb = e.$4Sb = e.$3Sb = e.$2Sb = void 0);

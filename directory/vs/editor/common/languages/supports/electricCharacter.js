@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/arrays.js';
 import '../supports.js';
 import './richEditBrackets.js';
-define(de[2691], he([1, 0, 24, 748, 934]), function (ce, e, t, i, w) {
+define(de[2691], he([1, 0, 24, 748, 934]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*supports*/,
+ w /*richEditBrackets*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$4M = void 0);
 			class E {

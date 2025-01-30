@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/iconLabels.js';
 import '../../../../nls.js';
 import './testTypes.js';
-define(de[353], he([1, 0, 274, 4, 185]), function (ce, e, t, i, w) {
+define(de[353], he([1, 0, 274, 4, 185]), function (ce /*require*/,
+ e /*exports*/,
+ t /*iconLabels*/,
+ i /*nls*/,
+ w /*testTypes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.TestCommandId =

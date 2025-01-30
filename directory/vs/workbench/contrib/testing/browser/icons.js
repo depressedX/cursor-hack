@@ -10,7 +10,15 @@ import '../common/testTypes.js';
 define(
 			de[470],
 			he([1, 0, 14, 4, 79, 35, 26, 1771, 185]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*nls*/,
+ w /*iconRegistry*/,
+ E /*themeService*/,
+ C /*themables*/,
+ d /*theme*/,
+ m /*testTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$PKc =

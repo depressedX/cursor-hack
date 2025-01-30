@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import './types.js';
-define(de[2180], he([1, 0, 739]), function (ce, e, t) {
+define(de[2180], he([1, 0, 739]), function (ce /*require*/,
+ e /*exports*/,
+ t /*types*/) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Umb = void 0);
 		class i {

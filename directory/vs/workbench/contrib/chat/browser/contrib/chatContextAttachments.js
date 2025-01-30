@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../base/common/lifecycle.js';
 import '../chatWidget.js';
-define(de[1355], he([1, 0, 3, 481]), function (ce, e, t, i) {
+define(de[1355], he([1, 0, 3, 481]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*chatWidget*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$EIc = void 0);
 			class w extends t.$1c {

@@ -7,7 +7,12 @@ import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3695],
 			he([1, 0, 30, 55, 1886, 52]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*contributions*/,
+ w /*workspaceTags*/,
+ E /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					t.$Io

@@ -21,7 +21,24 @@ define(
 			he([
 				1, 0, 4, 15, 187, 82, 586, 3, 188, 17, 104, 42, 8, 22, 5, 85, 20, 133,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*async*/,
+ w /*json*/,
+ E /*objects*/,
+ C /*jsonEdit*/,
+ d /*lifecycle*/,
+ m /*editOperation*/,
+ r /*range*/,
+ u /*selection*/,
+ a /*resolverService*/,
+ h /*contextkey*/,
+ c /*files*/,
+ n /*instantiation*/,
+ g /*textfiles*/,
+ p /*extensions*/,
+ o /*userDataProfile*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fvc = e.$evc = void 0),

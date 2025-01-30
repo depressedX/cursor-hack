@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './envelope.js';
 import './time.js';
-define(de[2084], he([1, 0, 1432, 1093]), function (ce, e, t, i) {
+define(de[2084], he([1, 0, 1432, 1093]), function (ce /*require*/,
+ e /*exports*/,
+ t /*envelope*/,
+ i /*time*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.createClientReportEnvelope = w);

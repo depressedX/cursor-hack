@@ -8,7 +8,13 @@ import '../../../common/services/languageFeatures.js';
 define(
 			de[1643],
 			he([1, 0, 15, 33, 29, 46, 69]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*cancellation*/,
+ w /*errors*/,
+ E /*editorExtensions*/,
+ C /*languageFeatures*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ZDb = void 0),

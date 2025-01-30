@@ -16,7 +16,21 @@ import '../../../../platform/environment/common/environment.js';
 define(
 			de[708],
 			he([1, 0, 4, 5, 282, 32, 21, 20, 10, 62, 30, 2816, 224, 81, 113]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*instantiation*/,
+ w /*memento*/,
+ E /*telemetry*/,
+ C /*storage*/,
+ d /*extensions*/,
+ m /*configuration*/,
+ r /*productService*/,
+ u /*platform*/,
+ a /*assignmentService*/,
+ h /*configuration*/,
+ c /*configurationRegistry*/,
+ n /*environment*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$i4b = e.$h4b = void 0),

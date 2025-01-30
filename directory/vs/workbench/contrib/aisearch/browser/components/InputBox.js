@@ -11,7 +11,15 @@ import '../../../../../css!vs/workbench/contrib/aisearch/browser/components/Inpu
 define(
 			de[3001],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 2384]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$8$b = void 0);

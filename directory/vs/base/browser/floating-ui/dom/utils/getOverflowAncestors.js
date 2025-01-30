@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import './getNearestOverflowAncestor.js';
 import './getWindow.js';
 import './is.js';
-define(de[1163], he([1, 0, 2660, 537, 324]), function (ce, e, t, i, w) {
+define(de[1163], he([1, 0, 2660, 537, 324]), function (ce /*require*/,
+ e /*exports*/,
+ t /*getNearestOverflowAncestor*/,
+ i /*getWindow*/,
+ w /*is*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Amb = E);
 			function E(C, d = []) {

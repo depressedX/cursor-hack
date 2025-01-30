@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
 import '../common/speechService.js';
-define(de[3138], he([1, 0, 3, 184, 511]), function (ce, e, t, i, w) {
+define(de[3138], he([1, 0, 3, 184, 511]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*accessibilitySignalService*/,
+ w /*speechService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$E2c = void 0);
 			let E = class extends t.$1c {

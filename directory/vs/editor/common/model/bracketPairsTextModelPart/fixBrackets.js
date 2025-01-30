@@ -9,7 +9,14 @@ import './bracketPairsTree/tokenizer.js';
 define(
 			de[2564],
 			he([1, 0, 658, 1537, 492, 1538, 657, 915]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*ast*/,
+ i /*brackets*/,
+ w /*length*/,
+ E /*parser*/,
+ C /*smallImmutableSet*/,
+ d /*tokenizer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$GCb = m);
 				function m(u, a) {

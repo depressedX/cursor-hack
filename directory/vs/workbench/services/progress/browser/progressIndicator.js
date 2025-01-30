@@ -4,7 +4,12 @@ import '../../../../base/common/event.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../../platform/progress/common/progress.js';
 import '../../../common/editor.js';
-define(de[707], he([1, 0, 6, 3, 84, 44]), function (ce, e, t, i, w, E) {
+define(de[707], he([1, 0, 6, 3, 84, 44]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*progress*/,
+ E /*editor*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$LMb = e.$KMb = e.$JMb = void 0);

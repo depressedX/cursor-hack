@@ -7,7 +7,12 @@ import '../../dom.js';
 define(
 			de[2663],
 			he([1, 0, 663, 1163, 324, 7]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getBoundingClientRect*/,
+ i /*getOverflowAncestors*/,
+ w /*is*/,
+ E /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Bmb = C),

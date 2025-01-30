@@ -10,7 +10,15 @@ import './workingCopyBackup.js';
 define(
 			de[1911],
 			he([1, 0, 6, 3, 59, 15, 22, 34, 335]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*map*/,
+ E /*async*/,
+ C /*files*/,
+ d /*log*/,
+ m /*workingCopyBackup*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ipc = void 0);

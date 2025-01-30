@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../browser/actions/workspaceCommands.js';
 import '../../../../nls.js';
-define(de[1948], he([1, 0, 633, 4]), function (ce, e, t, i) {
+define(de[1948], he([1, 0, 633, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*workspaceCommands*/,
+ i /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$vUc = void 0),

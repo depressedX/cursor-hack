@@ -4,7 +4,12 @@ import '../../../../base/common/arraysFind.js';
 import '../../../../base/common/event.js';
 import '../../../common/core/range.js';
 import '../../../common/core/eolCounter.js';
-define(de[2584], he([1, 0, 214, 6, 17, 531]), function (ce, e, t, i, w, E) {
+define(de[2584], he([1, 0, 214, 6, 17, 531]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arraysFind*/,
+ i /*event*/,
+ w /*range*/,
+ E /*eolCounter*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ONb = void 0);
 			class C {

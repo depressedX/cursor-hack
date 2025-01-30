@@ -10,7 +10,15 @@ import '../../../../base/common/event.js';
 define(
 			de[3506],
 			he([1, 0, 413, 1839, 4, 14, 95, 268, 6]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contextScopedHistoryWidget*/,
+ i /*notebookFindReplaceWidget*/,
+ w /*nls*/,
+ E /*codicons*/,
+ C /*hoverDelegateFactory*/,
+ d /*toggle*/,
+ m /*event*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$EOc = void 0),

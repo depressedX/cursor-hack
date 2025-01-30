@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../proto-int64.js';
 import '../scalar.js';
-define(de[526], he([1, 0, 525, 429]), function (ce, e, t, i) {
+define(de[526], he([1, 0, 525, 429]), function (ce /*require*/,
+ e /*exports*/,
+ t /*proto-int64*/,
+ i /*scalar*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.scalarEquals = w),

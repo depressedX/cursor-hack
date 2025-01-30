@@ -11,7 +11,16 @@ import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[2999],
 			he([1, 0, 64, 3, 90, 25, 83, 975, 667, 45]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*model*/,
+ i /*lifecycle*/,
+ w /*markers*/,
+ E /*workspace*/,
+ C /*utils_pb*/,
+ d /*aiWatcherHelpers*/,
+ m /*markerService*/,
+ r /*reactiveStorageService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ced = void 0);

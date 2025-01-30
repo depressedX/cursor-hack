@@ -10,7 +10,15 @@ import '../errors.js';
 define(
 			de[1503],
 			he([1, 0, 1133, 407, 319, 33, 648, 433, 29]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*autorun*/,
+ i /*base*/,
+ w /*derived*/,
+ E /*cancellation*/,
+ C /*debugName*/,
+ d /*equals*/,
+ m /*errors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ge = e.$fe = e.$ee = e.$de = void 0),

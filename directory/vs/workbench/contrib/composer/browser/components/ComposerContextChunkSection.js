@@ -17,7 +17,22 @@ import '../../../ui/browser/collapsible/collapsible.js';
 define(
 			de[4273],
 			he([1, 0, 2, 2, 2, 2, 13, 126, 1986, 242, 36, 1070, 41, 116, 135, 696]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*chat_pb*/,
+ m /*ChunkContext*/,
+ r /*Utils*/,
+ u /*solid*/,
+ a /*listContextDisplay*/,
+ h /*opener*/,
+ c /*editor*/,
+ n /*scrollableDiv*/,
+ g /*collapsible*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerContextChunkSection = void 0);

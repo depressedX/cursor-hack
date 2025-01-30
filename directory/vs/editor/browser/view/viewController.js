@@ -4,7 +4,12 @@ import '../coreCommands.js';
 import '../../common/core/position.js';
 import '../../common/config/editorOptions.js';
 import '../../../base/common/platform.js';
-define(de[2798], he([1, 0, 498, 48, 38, 12]), function (ce, e, t, i, w, E) {
+define(de[2798], he([1, 0, 498, 48, 38, 12]), function (ce /*require*/,
+ e /*exports*/,
+ t /*coreCommands*/,
+ i /*position*/,
+ w /*editorOptions*/,
+ E /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Zub = void 0),

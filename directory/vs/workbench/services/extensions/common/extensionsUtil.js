@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../platform/extensions/common/extensions.js';
 import '../../../../nls.js';
 import '../../../../base/common/semver/semver.js';
-define(de[3334], he([1, 0, 109, 4, 464]), function (ce, e, t, i, w) {
+define(de[3334], he([1, 0, 109, 4, 464]), function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*nls*/,
+ w /*semver*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$afb = E),

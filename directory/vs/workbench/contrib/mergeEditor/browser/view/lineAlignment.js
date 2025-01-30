@@ -11,7 +11,16 @@ import '../model/rangeUtils.js';
 define(
 			de[3084],
 			he([1, 0, 24, 229, 28, 48, 17, 458, 686, 1739]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*assert*/,
+ w /*types*/,
+ E /*position*/,
+ C /*range*/,
+ d /*textLength*/,
+ m /*mapping*/,
+ r /*rangeUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$PRc = u);
 				function u(c) {

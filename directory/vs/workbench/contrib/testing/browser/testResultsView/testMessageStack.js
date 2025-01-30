@@ -4,7 +4,12 @@ import '../../../../../base/common/event.js';
 import '../../../../../base/common/lifecycle.js';
 import '../../../../../platform/instantiation/common/instantiation.js';
 import '../../../debug/browser/callStackWidget.js';
-define(de[3699], he([1, 0, 6, 3, 5, 1880]), function (ce, e, t, i, w, E) {
+define(de[3699], he([1, 0, 6, 3, 5, 1880]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*instantiation*/,
+ E /*callStackWidget*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$oLc = void 0);
 			let C = class extends i.$1c {

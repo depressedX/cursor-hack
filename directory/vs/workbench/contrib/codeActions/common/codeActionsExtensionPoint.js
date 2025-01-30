@@ -10,7 +10,15 @@ import '../../../../base/common/htmlContent.js';
 define(
 			de[3396],
 			he([1, 0, 4, 701, 244, 3, 102, 30, 94]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*languageService*/,
+ w /*extensionFeatures*/,
+ E /*lifecycle*/,
+ C /*descriptors*/,
+ d /*platform*/,
+ m /*htmlContent*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$X1c = void 0),

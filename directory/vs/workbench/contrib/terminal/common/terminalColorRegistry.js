@@ -4,7 +4,12 @@ import '../../../../editor/common/core/editorColorRegistry.js';
 import '../../../../nls.js';
 import '../../../../platform/theme/common/colorRegistry.js';
 import '../../../common/theme.js';
-define(de[512], he([1, 0, 307, 4, 51, 123]), function (ce, e, t, i, w, E) {
+define(de[512], he([1, 0, 307, 4, 51, 123]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editorColorRegistry*/,
+ i /*nls*/,
+ w /*colorRegistry*/,
+ E /*theme*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$EHb =

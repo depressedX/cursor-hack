@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../core/index.js';
 import '../../utils/index.js';
 import './fetch.js';
-define(de[2143], he([1, 0, 144, 80, 1104]), function (ce, e, t, i, w) {
+define(de[2143], he([1, 0, 144, 80, 1104]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*fetch*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.createStore = C),

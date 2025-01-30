@@ -17,7 +17,22 @@ import '../../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[3596],
 			he([1, 0, 33, 59, 10, 34, 68, 161, 1865, 186, 24, 28, 231, 293, 361, 5]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*map*/,
+ w /*configuration*/,
+ E /*log*/,
+ C /*uriIdentity*/,
+ d /*notebookService*/,
+ m /*searchNotebookHelpers*/,
+ r /*search*/,
+ u /*arrays*/,
+ a /*types*/,
+ h /*editorResolverService*/,
+ c /*notebookEditorService*/,
+ n /*queryBuilder*/,
+ g /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$2Nc = void 0),

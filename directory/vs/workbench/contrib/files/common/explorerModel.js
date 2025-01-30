@@ -17,7 +17,22 @@ import '../../../../base/common/types.js';
 define(
 			de[710],
 			he([1, 0, 9, 249, 54, 59, 22, 37, 24, 3, 138, 6, 19, 220, 3062, 28]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*extpath*/,
+ w /*path*/,
+ E /*map*/,
+ C /*files*/,
+ d /*strings*/,
+ m /*arrays*/,
+ r /*lifecycle*/,
+ u /*decorators*/,
+ a /*event*/,
+ h /*resources*/,
+ c /*files*/,
+ n /*explorerFileNestingTrie*/,
+ g /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$KWb = e.$JWb = e.$IWb = void 0);

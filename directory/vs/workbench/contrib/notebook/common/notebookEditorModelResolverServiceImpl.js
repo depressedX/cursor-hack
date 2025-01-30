@@ -24,7 +24,26 @@ define(
 				1, 0, 5, 9, 70, 1343, 3, 161, 6, 53, 68, 59, 3911, 23, 1849, 28, 33, 10,
 				32, 557,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*uri*/,
+ w /*notebookCommon*/,
+ E /*notebookEditorModel*/,
+ C /*lifecycle*/,
+ d /*notebookService*/,
+ m /*event*/,
+ r /*extensions*/,
+ u /*uriIdentity*/,
+ a /*map*/,
+ h /*fileWorkingCopyManager*/,
+ c /*network*/,
+ n /*notebookProvider*/,
+ g /*types*/,
+ p /*cancellation*/,
+ o /*configuration*/,
+ f /*telemetry*/,
+ b /*notebookLoggingService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$qFc = void 0);

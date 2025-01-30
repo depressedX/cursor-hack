@@ -10,7 +10,15 @@ import '../../../services/host/browser/host.js';
 define(
 			de[3385],
 			he([1, 0, 4, 3, 174, 78, 157, 53, 87]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*lifecycle*/,
+ w /*workspaceTrust*/,
+ E /*environmentService*/,
+ C /*extensionManagement*/,
+ d /*extensions*/,
+ m /*host*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$XTc = void 0);

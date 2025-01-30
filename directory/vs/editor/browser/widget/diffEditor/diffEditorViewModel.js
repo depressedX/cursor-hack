@@ -22,7 +22,24 @@ define(
 				1, 0, 15, 33, 3, 77, 953, 370, 755, 196, 1532, 342, 914, 1536, 1530, 28,
 				24, 229,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*cancellation*/,
+ w /*lifecycle*/,
+ E /*observable*/,
+ C /*diffProviderFactoryService*/,
+ d /*utils*/,
+ m /*hotReloadHelpers*/,
+ r /*lineRange*/,
+ u /*defaultLinesDiffComputer*/,
+ a /*rangeMapping*/,
+ h /*beforeEditPositionMapper*/,
+ c /*combineTextEditInfos*/,
+ n /*heuristicSequenceOptimizations*/,
+ g /*types*/,
+ p /*arrays*/,
+ o /*assert*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.RevealPreference = e.$0xb = e.$9xb = e.$8xb = e.$7xb = void 0);

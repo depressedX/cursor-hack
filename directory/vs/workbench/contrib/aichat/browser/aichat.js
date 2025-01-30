@@ -4,7 +4,12 @@ import '../../../../base/common/constants.js';
 import '../../../../platform/contextkey/common/contextkey.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
-define(de[418], he([1, 0, 58, 8, 5, 205]), function (ce, e, t, i, w, E) {
+define(de[418], he([1, 0, 58, 8, 5, 205]), function (ce /*require*/,
+ e /*exports*/,
+ t /*constants*/,
+ i /*contextkey*/,
+ w /*instantiation*/,
+ E /*reactiveStorageTypes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$ugc =

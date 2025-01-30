@@ -12,7 +12,16 @@ import '../../../../css!vs/editor/contrib/find/browser/findOptionsWidget.js';
 define(
 			de[2912],
 			he([1, 0, 7, 1581, 235, 15, 56, 547, 51, 95, 2295]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*findInputToggles*/,
+ w /*widget*/,
+ E /*async*/,
+ C /*editorBrowser*/,
+ d /*findModel*/,
+ m /*colorRegistry*/,
+ r /*hoverDelegateFactory*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$6b = void 0),

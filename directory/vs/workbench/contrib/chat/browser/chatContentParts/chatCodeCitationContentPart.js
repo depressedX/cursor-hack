@@ -10,7 +10,15 @@ import '../../../../services/editor/common/editorService.js';
 define(
 			de[3262],
 			he([1, 0, 7, 183, 3, 4, 32, 441, 18]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*button*/,
+ w /*lifecycle*/,
+ E /*nls*/,
+ C /*telemetry*/,
+ d /*chatModel*/,
+ m /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$dUb = void 0),

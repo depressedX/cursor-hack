@@ -10,7 +10,15 @@ import '../../../../../base/common/path.js';
 define(
 			de[1385],
 			he([1, 0, 13, 9, 397, 36, 299, 1273, 54]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*uri*/,
+ w /*utils*/,
+ E /*solid*/,
+ C /*utils*/,
+ d /*getUnrepeatedFileNames*/,
+ m /*path*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$jbc = a);
 				const r = 20,

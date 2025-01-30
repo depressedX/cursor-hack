@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/buffer.js';
 import './contiguousMultilineTokens.js';
-define(de[1152], he([1, 0, 76, 2573]), function (ce, e, t, i) {
+define(de[1152], he([1, 0, 76, 2573]), function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*contiguousMultilineTokens*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$cV = void 0);
 			class w {

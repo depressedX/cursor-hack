@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../core/offsetRange.js';
 import './diffAlgorithm.js';
-define(de[1529], he([1, 0, 289, 656]), function (ce, e, t, i) {
+define(de[1529], he([1, 0, 289, 656]), function (ce /*require*/,
+ e /*exports*/,
+ t /*offsetRange*/,
+ i /*diffAlgorithm*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$dxb = void 0);
 			class w {

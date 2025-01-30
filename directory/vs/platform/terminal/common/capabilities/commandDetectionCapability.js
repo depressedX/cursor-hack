@@ -11,7 +11,16 @@ import './commandDetection/promptInputModel.js';
 define(
 			de[1653],
 			he([1, 0, 15, 138, 6, 3, 34, 189, 1652, 2822]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*decorators*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*log*/,
+ d /*capabilities*/,
+ m /*terminalCommand*/,
+ r /*promptInputModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$MHb = void 0),

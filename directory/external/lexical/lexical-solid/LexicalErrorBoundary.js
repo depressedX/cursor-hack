@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../../solid/web.js';
 import '../../solid/web.js';
 import '../../solid/solid.js';
-define(de[1106], he([1, 0, 2, 2, 13]), function (ce, e, t, i, w) {
+define(de[1106], he([1, 0, 2, 2, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.LexicalErrorBoundary = C);

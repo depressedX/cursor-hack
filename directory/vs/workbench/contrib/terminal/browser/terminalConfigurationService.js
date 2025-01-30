@@ -9,7 +9,14 @@ import '../common/terminal.js';
 define(
 			de[3168],
 			he([1, 0, 6, 3, 38, 10, 107, 145]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*editorOptions*/,
+ E /*configuration*/,
+ C /*terminal*/,
+ d /*terminal*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$OUc = e.$NUc = void 0);

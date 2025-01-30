@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../common/config/editorOptions.js';
 import '../../../../platform/contextkey/common/contextkey.js';
-define(de[2727], he([1, 0, 38, 8]), function (ce, e, t, i) {
+define(de[2727], he([1, 0, 38, 8]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editorOptions*/,
+ i /*contextkey*/) {
 			"use strict";
 			var w;
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$vDb = void 0);

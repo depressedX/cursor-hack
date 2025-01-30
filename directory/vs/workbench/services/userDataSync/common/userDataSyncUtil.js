@@ -8,7 +8,13 @@ import '../../../../editor/common/services/textResourceConfiguration.js';
 define(
 			de[3796],
 			he([1, 0, 39, 150, 20, 42, 125]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keybinding*/,
+ i /*userDataSync*/,
+ w /*extensions*/,
+ E /*resolverService*/,
+ C /*textResourceConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let d = class {

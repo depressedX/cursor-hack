@@ -13,7 +13,18 @@ import '../../../common/editor/editorOptions.js';
 define(
 			de[3274],
 			he([1, 0, 56, 2842, 98, 35, 18, 65, 20, 19, 10, 549]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorBrowser*/,
+ i /*abstractCodeEditorService*/,
+ w /*editorCommon*/,
+ E /*themeService*/,
+ C /*editorService*/,
+ d /*codeEditorService*/,
+ m /*extensions*/,
+ r /*resources*/,
+ u /*configuration*/,
+ a /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ovc = void 0);

@@ -11,7 +11,16 @@ import './provideSignatureHelp.js';
 define(
 			de[1608],
 			he([1, 0, 15, 29, 6, 3, 38, 654, 74, 1182]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*errors*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*editorOptions*/,
+ d /*characterClassifier*/,
+ m /*languages*/,
+ r /*provideSignatureHelp*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$7jc = void 0),

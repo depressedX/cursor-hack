@@ -14,7 +14,19 @@ import '../../../../platform/tracing/common/tracing.js';
 define(
 			de[1075],
 			he([1, 0, 2, 2, 2, 36, 225, 4413, 13, 295, 1969, 4153, 216]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*composerData*/,
+ d /*ComposerPane*/,
+ m /*solid*/,
+ r /*loadingSpinner*/,
+ u /*useComposerLocation*/,
+ a /*useForceModeComposerHandle*/,
+ h /*tracing*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.renderComposerPane = void 0);

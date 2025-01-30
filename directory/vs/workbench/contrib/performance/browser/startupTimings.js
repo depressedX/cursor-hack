@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 56, 52, 415, 220, 18, 174, 142, 60, 34, 62, 32, 286, 520, 54, 136,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorBrowser*/,
+ i /*lifecycle*/,
+ w /*update*/,
+ E /*files*/,
+ C /*editorService*/,
+ d /*workspaceTrust*/,
+ m /*panecomposite*/,
+ r /*views*/,
+ u /*log*/,
+ a /*productService*/,
+ h /*telemetry*/,
+ c /*environmentService*/,
+ n /*timerService*/,
+ g /*path*/,
+ p /*hash*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$5c = e.$05c = e.$95c = void 0),

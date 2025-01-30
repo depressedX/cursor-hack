@@ -13,7 +13,18 @@ import './terminal.js';
 define(
 			de[4175],
 			he([1, 0, 3, 54, 12, 4, 119, 5, 40, 62, 404, 107]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*path*/,
+ w /*platform*/,
+ E /*nls*/,
+ C /*extensionManagement*/,
+ d /*instantiation*/,
+ m /*notification*/,
+ r /*productService*/,
+ u /*extensionsActions*/,
+ a /*terminal*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$zVc = void 0);

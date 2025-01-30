@@ -8,7 +8,13 @@ import '../../../../base/browser/ui/actionbar/actionViewItems.js';
 define(
 			de[3031],
 			he([1, 0, 4, 7, 50, 9, 198]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*dom*/,
+ w /*actions*/,
+ E /*uri*/,
+ C /*actionViewItems*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$q3b = e.$p3b = e.$o3b = void 0),

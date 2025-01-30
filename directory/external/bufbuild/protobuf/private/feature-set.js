@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../google/protobuf/descriptor_pb.js';
 import '../proto-base64.js';
-define(de[2039], he([1, 0, 724, 1084]), function (ce, e, t, i) {
+define(de[2039], he([1, 0, 724, 1084]), function (ce /*require*/,
+ e /*exports*/,
+ t /*descriptor_pb*/,
+ i /*proto-base64*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.createFeatureResolver = E);

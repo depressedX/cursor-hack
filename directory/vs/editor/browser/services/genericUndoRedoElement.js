@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../platform/undoRedo/common/undoRedo.js';
-define(de[606], he([1, 0, 155]), function (ce, e, t) {
+define(de[606], he([1, 0, 155]), function (ce /*require*/,
+ e /*exports*/,
+ t /*undoRedo*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$x7b = void 0);
 			class i {

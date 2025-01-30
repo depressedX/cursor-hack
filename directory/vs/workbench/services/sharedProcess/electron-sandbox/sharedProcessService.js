@@ -11,7 +11,16 @@ import '../../../../base/parts/ipc/electron-sandbox/ipc.mp.js';
 define(
 			de[3621],
 			he([1, 0, 1173, 305, 34, 3, 2793, 240, 15, 904]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*ipc.mp*/,
+ i /*ipc*/,
+ w /*log*/,
+ E /*lifecycle*/,
+ C /*sharedProcess*/,
+ d /*performance*/,
+ m /*async*/,
+ r /*ipc.mp*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Qcd = void 0);

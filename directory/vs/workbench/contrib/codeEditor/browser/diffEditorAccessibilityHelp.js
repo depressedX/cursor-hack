@@ -13,7 +13,18 @@ import '../../../services/editor/common/editorService.js';
 define(
 			de[3766],
 			he([1, 0, 65, 1217, 309, 4, 178, 8, 39, 130, 1901, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codeEditorService*/,
+ i /*commands*/,
+ w /*diffEditorWidget*/,
+ E /*nls*/,
+ C /*accessibleView*/,
+ d /*contextkey*/,
+ m /*keybinding*/,
+ r /*accessibilityConfiguration*/,
+ u /*editorAccessibilityHelp*/,
+ a /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$MXc = void 0);

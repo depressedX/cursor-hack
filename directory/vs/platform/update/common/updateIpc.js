@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/event.js';
 import './update.js';
-define(de[2878], he([1, 0, 6, 415]), function (ce, e, t, i) {
+define(de[2878], he([1, 0, 6, 415]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*update*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$37c = e.$27c = void 0);

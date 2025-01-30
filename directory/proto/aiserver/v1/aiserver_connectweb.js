@@ -14,7 +14,19 @@ import './bugbot_pb.js';
 define(
 			de[341],
 			he([1, 0, 148, 86, 126, 1485, 1481, 643, 892, 367, 1479, 1475, 642]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*aiserver_pb*/,
+ i /*protobuf*/,
+ w /*chat_pb*/,
+ E /*inline_gpt4_pb*/,
+ C /*fastpreviews_pb*/,
+ d /*symbolic_context_pb*/,
+ m /*docs_pb*/,
+ r /*cpp_pb*/,
+ u /*telemetry_pb*/,
+ a /*experiments_pb*/,
+ h /*bugbot_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$q0 = void 0),

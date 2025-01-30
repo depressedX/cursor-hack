@@ -13,7 +13,18 @@ import '../../../../../platform/observable/common/platformObservableUtils.js';
 define(
 			de[3086],
 			he([1, 0, 214, 3, 77, 17, 98, 4, 10, 40, 507, 326]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arraysFind*/,
+ i /*lifecycle*/,
+ w /*observable*/,
+ E /*range*/,
+ C /*editorCommon*/,
+ d /*nls*/,
+ m /*configuration*/,
+ r /*notification*/,
+ u /*lineRange*/,
+ a /*platformObservableUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$i1b = void 0);

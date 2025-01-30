@@ -11,7 +11,16 @@ import '../../../../../base/common/errorMessage.js';
 define(
 			de[4022],
 			he([1, 0, 6, 4, 25, 51, 3, 1945, 382, 163]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*nls*/,
+ w /*workspace*/,
+ E /*colorRegistry*/,
+ C /*lifecycle*/,
+ d /*explorerViewer*/,
+ m /*files*/,
+ r /*errorMessage*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$FXb = void 0),

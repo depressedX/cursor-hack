@@ -9,7 +9,13 @@ import '../../../css!vs/platform/quickinput/browser/media/quickInput.js';
 define(
 		de[2750],
 		he([1, 0, 7, 932, 292, 3, 111, 1138]),
-		function (ce, e, t, i, w, E, C) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*findInput*/,
+ w /*inputBox*/,
+ E /*lifecycle*/,
+ C /*severity*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$rxc = void 0),

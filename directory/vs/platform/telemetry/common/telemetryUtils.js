@@ -8,7 +8,13 @@ import './telemetry.js';
 define(
 			de[269],
 			he([1, 0, 82, 28, 438, 1640, 32]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*objects*/,
+ i /*types*/,
+ w /*remoteHosts*/,
+ E /*commonProperties*/,
+ C /*telemetry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Wp = e.$Vp = e.$Up = e.$Tp = e.$Sp = e.$Rp = e.$Qp = void 0),

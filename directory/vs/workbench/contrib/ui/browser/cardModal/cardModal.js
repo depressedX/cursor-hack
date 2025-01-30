@@ -11,7 +11,15 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/cardModal/cardModal.j
 define(
 			de[4321],
 			he([1, 0, 2, 2, 2, 2, 13, 1374, 147, 2511]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*modal*/,
+ m /*simpleButton*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vfd = void 0);

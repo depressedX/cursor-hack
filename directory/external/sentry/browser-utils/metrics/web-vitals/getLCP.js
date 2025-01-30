@@ -12,7 +12,17 @@ import './lib/whenActivated.js';
 define(
 			de[2096],
 			he([1, 0, 366, 635, 728, 884, 637, 576, 729, 1091, 730]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*types*/,
+ i /*bindReporter*/,
+ w /*getActivationStart*/,
+ E /*getVisibilityWatcher*/,
+ C /*initMetric*/,
+ d /*observe*/,
+ m /*onHidden*/,
+ r /*runOnce*/,
+ u /*whenActivated*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.onLCP = e.LCPThresholds = void 0),

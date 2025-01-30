@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './buffer.js';
 import './marshallingIds.js';
 import './uri.js';
-define(de[1172], he([1, 0, 76, 221, 9]), function (ce, e, t, i, w) {
+define(de[1172], he([1, 0, 76, 221, 9]), function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*marshallingIds*/,
+ w /*uri*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$3n = e.$2n = void 0),

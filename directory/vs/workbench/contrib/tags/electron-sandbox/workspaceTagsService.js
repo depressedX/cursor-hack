@@ -15,7 +15,20 @@ import '../common/javaWorkspaceTags.js';
 define(
 			de[3696],
 			he([1, 0, 530, 22, 25, 78, 85, 9, 23, 20, 1260, 1886, 37, 3139]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hash*/,
+ i /*files*/,
+ w /*workspace*/,
+ E /*environmentService*/,
+ C /*textfiles*/,
+ d /*uri*/,
+ m /*network*/,
+ r /*extensions*/,
+ u /*workspaceTags*/,
+ a /*workspaceTags*/,
+ h /*strings*/,
+ c /*javaWorkspaceTags*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$zgd = void 0);

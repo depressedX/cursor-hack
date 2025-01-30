@@ -8,7 +8,13 @@ import '../../../../platform/actions/common/actions.js';
 define(
 			de[141],
 			he([1, 0, 5, 3, 154, 8, 11]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*lifecycle*/,
+ w /*extensionManagementUtil*/,
+ E /*contextkey*/,
+ C /*actions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5Qb =

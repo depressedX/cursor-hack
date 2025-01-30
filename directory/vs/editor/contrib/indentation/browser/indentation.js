@@ -23,7 +23,25 @@ define(
 				1, 0, 3, 37, 46, 771, 38, 17, 71, 171, 152, 912, 67, 1553, 4, 63, 1184,
 				2776, 388,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*strings*/,
+ w /*editorExtensions*/,
+ E /*shiftCommand*/,
+ C /*editorOptions*/,
+ d /*range*/,
+ m /*editorContextKeys*/,
+ r /*encodedTokenAttributes*/,
+ u /*languageConfigurationRegistry*/,
+ a /*indentRules*/,
+ h /*model*/,
+ c /*indentUtils*/,
+ n /*nls*/,
+ g /*quickInput*/,
+ p /*autoIndent*/,
+ o /*indentation*/,
+ f /*lineTokens*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Mic =

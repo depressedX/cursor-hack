@@ -9,7 +9,13 @@ import '../../../../css!vs/base/browser/ui/progressbar/progressbar.js';
 define(
 			de[436],
 			he([1, 0, 7, 1496, 15, 3, 28, 2248]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*progressAccessibilitySignal*/,
+ w /*async*/,
+ E /*lifecycle*/,
+ C /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$bpb = e.$apb = void 0);

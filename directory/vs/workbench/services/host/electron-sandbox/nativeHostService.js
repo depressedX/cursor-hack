@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 6, 87, 110, 20, 73, 78, 253, 3, 2744, 151, 371, 7, 138, 75, 320,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*host*/,
+ w /*native*/,
+ E /*extensions*/,
+ C /*label*/,
+ d /*environmentService*/,
+ m /*window*/,
+ r /*lifecycle*/,
+ u /*nativeHostService*/,
+ a /*environmentService*/,
+ h /*mainProcessService*/,
+ c /*dom*/,
+ n /*decorators*/,
+ g /*window*/,
+ p /*globals*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let o = class extends u.$Y8c {

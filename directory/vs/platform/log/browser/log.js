@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/browser/window.js';
 import '../../../base/common/resources.js';
 import '../common/log.js';
-define(de[2743], he([1, 0, 75, 19, 34]), function (ce, e, t, i, w) {
+define(de[2743], he([1, 0, 75, 19, 34]), function (ce /*require*/,
+ e /*exports*/,
+ t /*window*/,
+ i /*resources*/,
+ w /*log*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$vEb = void 0),

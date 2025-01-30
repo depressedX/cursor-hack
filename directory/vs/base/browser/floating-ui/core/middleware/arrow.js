@@ -8,7 +8,13 @@ import '../utils/within.js';
 define(
 			de[2208],
 			he([1, 0, 582, 1119, 583, 1122, 1125]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getAlignment*/,
+ i /*getLengthFromAxis*/,
+ w /*getMainAxisFromPlacement*/,
+ E /*getPaddingObject*/,
+ C /*within*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Slb = void 0);

@@ -9,7 +9,14 @@ import '../../../../base/common/resources.js';
 define(
 			de[151],
 			he([1, 0, 113, 5, 1178, 138, 23, 19]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*environment*/,
+ i /*instantiation*/,
+ w /*environmentService*/,
+ E /*decorators*/,
+ C /*network*/,
+ d /*resources*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vcd = e.$ucd = void 0),

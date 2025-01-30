@@ -21,7 +21,23 @@ define(
 				1, 0, 262, 148, 351, 626, 83, 9, 90, 25, 209, 126, 118, 454, 167, 395,
 				426,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*composerCapabilities*/,
+ i /*aiserver_pb*/,
+ w /*composerCapabilitySchemas*/,
+ E /*shadowWorkspaceService*/,
+ C /*utils_pb*/,
+ d /*uri*/,
+ m /*markers*/,
+ r /*workspace*/,
+ u /*composerDataService*/,
+ a /*chat_pb*/,
+ h /*aiService*/,
+ c /*shadow_workspace_pb*/,
+ n /*composer_pb*/,
+ g /*composerCapabilityDecorators*/,
+ p /*composerUtilsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.LoopOnLints = void 0);

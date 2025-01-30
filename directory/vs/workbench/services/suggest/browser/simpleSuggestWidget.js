@@ -15,7 +15,19 @@ import '../../../../css!vs/workbench/services/suggest/browser/media/suggest.js';
 define(
 			de[3654],
 			he([1, 0, 7, 278, 930, 3653, 15, 6, 3, 201, 4, 5, 1674, 2540]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*listWidget*/,
+ w /*resizable*/,
+ E /*simpleSuggestWidgetRenderer*/,
+ C /*async*/,
+ d /*event*/,
+ m /*lifecycle*/,
+ r /*numbers*/,
+ u /*nls*/,
+ a /*instantiation*/,
+ h /*suggestWidgetStatus*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$cVc = void 0),

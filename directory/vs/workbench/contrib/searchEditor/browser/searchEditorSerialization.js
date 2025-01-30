@@ -9,7 +9,13 @@ import '../../../../css!vs/workbench/contrib/searchEditor/browser/media/searchEd
 define(
 			de[1067],
 			he([1, 0, 24, 17, 4, 405, 85, 908]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*range*/,
+ w /*nls*/,
+ E /*searchModel*/,
+ C /*textfiles*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$NOc =

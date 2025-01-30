@@ -16,7 +16,21 @@ import './testTypes.js';
 define(
 			de[421],
 			he([1, 0, 15, 76, 6, 149, 3, 77, 12, 4, 32, 1773, 259, 563, 185]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*buffer*/,
+ w /*event*/,
+ E /*lazy*/,
+ C /*lifecycle*/,
+ d /*observable*/,
+ m /*platform*/,
+ r /*nls*/,
+ u /*telemetry*/,
+ a /*getComputedState*/,
+ h /*testId*/,
+ c /*testingStates*/,
+ n /*testTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$P4 =

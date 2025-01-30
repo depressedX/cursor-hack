@@ -8,7 +8,13 @@ import '../../../ui/browser/utils.js';
 define(
 			de[4326],
 			he([1, 0, 2, 13, 36, 4325, 476]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*solid*/,
+ w /*solid*/,
+ E /*aiEditorBox*/,
+ C /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$iAc = d);
 				function d(m) {

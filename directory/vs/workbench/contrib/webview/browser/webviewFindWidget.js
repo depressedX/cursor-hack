@@ -9,7 +9,14 @@ import './webview.js';
 define(
 			de[3212],
 			he([1, 0, 8, 49, 72, 39, 1722, 355]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contextkey*/,
+ i /*contextView*/,
+ w /*hover*/,
+ E /*keybinding*/,
+ C /*simpleFindWidget*/,
+ d /*webview*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$e6c = void 0);

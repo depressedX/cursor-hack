@@ -3,7 +3,10 @@ import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../../../platform/theme/common/colorRegistry.js';
 import '../../../../css!vs/editor/contrib/symbolIcons/browser/symbolIcons.js';
-define(de[1205], he([1, 0, 4, 51, 2322]), function (ce, e, t, i) {
+define(de[1205], he([1, 0, 4, 51, 2322]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*colorRegistry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$rBb =

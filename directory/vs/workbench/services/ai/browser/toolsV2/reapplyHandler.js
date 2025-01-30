@@ -22,7 +22,24 @@ define(
 				1, 0, 124, 25, 398, 219, 209, 167, 821, 45, 426, 61, 90, 1283, 3, 271,
 				85, 559,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*workspace*/,
+ w /*toolsV2HandlerRegistryService*/,
+ E /*composer*/,
+ C /*composerDataService*/,
+ d /*composer_pb*/,
+ m /*errors*/,
+ r /*reactiveStorageService*/,
+ u /*composerUtilsService*/,
+ a /*language*/,
+ h /*markers*/,
+ c /*linterErrorHandler*/,
+ n /*lifecycle*/,
+ g /*selectedContext*/,
+ p /*textfiles*/,
+ o /*prettyDialog*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$azc = void 0);

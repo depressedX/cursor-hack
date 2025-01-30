@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/browser/dom.js';
-define(de[937], he([1, 0, 7]), function (ce, e, t) {
+define(de[937], he([1, 0, 7]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$TDb = i),

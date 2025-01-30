@@ -16,7 +16,20 @@ import '../../../../css!vs/workbench/contrib/issue/electron-sandbox/media/newIss
 define(
 		de[3449],
 		he([1, 0, 11, 8, 57, 113, 5, 34, 110, 372, 3448, 3070, 703, 87, 2447]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*contextkey*/,
+ w /*dialogs*/,
+ E /*environment*/,
+ C /*instantiation*/,
+ d /*log*/,
+ m /*native*/,
+ r /*product*/,
+ u /*issueFormService*/,
+ a /*issueReporterService2*/,
+ h /*auxiliaryWindowService*/,
+ c /*host*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$ggd = void 0),

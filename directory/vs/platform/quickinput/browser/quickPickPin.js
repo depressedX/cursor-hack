@@ -8,7 +8,13 @@ import '../../../base/common/lifecycle.js';
 define(
 			de[1678],
 			he([1, 0, 14, 4, 21, 26, 3]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*nls*/,
+ w /*storage*/,
+ E /*themables*/,
+ C /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$7Uc = u);
 				const d = E.ThemeIcon.asClassName(t.$ak.pin),

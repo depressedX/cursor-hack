@@ -7,7 +7,12 @@ import './stacktrace.js';
 define(
 			de[882],
 			he([1, 0, 430, 1422, 528, 725]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*is*/,
+ i /*memo*/,
+ w /*object*/,
+ E /*stacktrace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.normalize = C),

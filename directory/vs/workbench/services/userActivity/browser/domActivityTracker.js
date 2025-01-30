@@ -4,7 +4,12 @@ import '../../../../base/browser/dom.js';
 import '../../../../base/browser/window.js';
 import '../../../../base/common/event.js';
 import '../../../../base/common/lifecycle.js';
-define(de[3747], he([1, 0, 7, 75, 6, 3]), function (ce, e, t, i, w, E) {
+define(de[3747], he([1, 0, 7, 75, 6, 3]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*window*/,
+ w /*event*/,
+ E /*lifecycle*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$OAc = void 0),

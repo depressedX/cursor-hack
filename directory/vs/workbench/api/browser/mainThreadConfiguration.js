@@ -11,7 +11,16 @@ import '../../../platform/environment/common/environment.js';
 define(
 			de[3342],
 			he([1, 0, 9, 30, 81, 25, 88, 101, 10, 113]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*platform*/,
+ w /*configurationRegistry*/,
+ E /*workspace*/,
+ C /*extHost.protocol*/,
+ d /*extHostCustomers*/,
+ m /*configuration*/,
+ r /*environment*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Rmc = void 0);

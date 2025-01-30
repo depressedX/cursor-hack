@@ -8,7 +8,13 @@ import './renderInlineGPT4LoadingVZ.js';
 define(
 			de[2754],
 			he([1, 0, 7, 3, 39, 45, 2700]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*keybinding*/,
+ E /*reactiveStorageService*/,
+ C /*renderInlineGPT4LoadingVZ*/) {
 				"use strict";
 				var d;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

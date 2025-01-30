@@ -9,7 +9,14 @@ import '../../base/common/types.js';
 define(
 			de[1701],
 			he([1, 0, 50, 969, 6, 7, 3, 28]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*component*/,
+ w /*event*/,
+ E /*dom*/,
+ C /*lifecycle*/,
+ d /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$iEb = e.$hEb = e.$gEb = void 0);

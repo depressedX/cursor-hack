@@ -9,7 +9,14 @@ import '../../../../platform/theme/common/iconRegistry.js';
 define(
 			de[985],
 			he([1, 0, 4, 9, 44, 223, 14, 79]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*uri*/,
+ w /*editor*/,
+ E /*editorInput*/,
+ C /*codicons*/,
+ d /*iconRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$UTc = void 0),

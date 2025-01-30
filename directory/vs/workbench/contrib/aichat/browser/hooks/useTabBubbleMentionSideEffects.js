@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../chatData.js';
 import './useBubble.js';
 import '../../../../services/selectedContext/browser/hooks/useContextSideEffects.js';
-define(de[4401], he([1, 0, 140, 1712, 2011]), function (ce, e, t, i, w) {
+define(de[4401], he([1, 0, 140, 1712, 2011]), function (ce /*require*/,
+ e /*exports*/,
+ t /*chatData*/,
+ i /*useBubble*/,
+ w /*useContextSideEffects*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$qbc = void 0);
 			const E = (C, d, m) => {

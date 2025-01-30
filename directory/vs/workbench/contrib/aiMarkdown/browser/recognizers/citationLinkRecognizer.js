@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../../external/solid/web.js';
 import '../../../../../../external/solid/web.js';
 import '../markdownData.js';
-define(de[2985], he([1, 0, 2, 2, 236]), function (ce, e, t, i, w) {
+define(de[2985], he([1, 0, 2, 2, 236]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*markdownData*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Q$b = void 0);
 			const E = (0, t.template)('<span class="markdown-citation-link">');

@@ -10,7 +10,15 @@ import './shadow_workspace_pb.js';
 define(
 			de[126],
 			he([1, 0, 86, 83, 124, 892, 272, 167, 454]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*utils_pb*/,
+ w /*tools_pb*/,
+ E /*docs_pb*/,
+ C /*repository_pb*/,
+ d /*composer_pb*/,
+ m /*shadow_workspace_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fB =

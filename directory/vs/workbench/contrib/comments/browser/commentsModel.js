@@ -9,7 +9,14 @@ import '../../../../base/common/htmlContent.js';
 define(
 			de[983],
 			he([1, 0, 24, 9, 4, 1240, 3, 94]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*uri*/,
+ w /*nls*/,
+ E /*commentModel*/,
+ C /*lifecycle*/,
+ d /*htmlContent*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$52b = void 0),

@@ -23,7 +23,25 @@ define(
 				1, 0, 148, 126, 126, 3, 42, 20, 5, 25, 715, 560, 118, 19, 136, 226, 59,
 				271, 287,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*aiserver_pb*/,
+ i /*chat_pb*/,
+ w /*chat_pb*/,
+ E /*lifecycle*/,
+ C /*resolverService*/,
+ d /*extensions*/,
+ m /*instantiation*/,
+ r /*workspace*/,
+ u /*gitGraphService*/,
+ a /*recentFilesTrackerService*/,
+ h /*aiService*/,
+ c /*resources*/,
+ n /*hash*/,
+ g /*repositoryService*/,
+ p /*map*/,
+ o /*selectedContext*/,
+ f /*aiFeatureStatusService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Xcc = e.$Wcc = void 0);

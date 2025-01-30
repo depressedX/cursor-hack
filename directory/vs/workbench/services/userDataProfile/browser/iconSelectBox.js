@@ -8,7 +8,13 @@ import '../../../../platform/keybinding/common/keybindingsRegistry.js';
 define(
 			de[1896],
 			he([1, 0, 2685, 27, 7, 8, 43]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*iconSelectBox*/,
+ i /*keyCodes*/,
+ w /*dom*/,
+ E /*contextkey*/,
+ C /*keybindingsRegistry*/) {
 				"use strict";
 				var d;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

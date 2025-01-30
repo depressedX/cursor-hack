@@ -10,7 +10,15 @@ import '../languages/languageConfigurationRegistry.js';
 define(
 			de[771],
 			he([1, 0, 120, 37, 435, 17, 104, 1198, 152]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*strings*/,
+ w /*cursorColumns*/,
+ E /*range*/,
+ C /*selection*/,
+ d /*enterAction*/,
+ m /*languageConfigurationRegistry*/) {
 				"use strict";
 				var r;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -16,7 +16,21 @@ import './untitledTextEditorService.js';
 define(
 			de[3888],
 			he([1, 0, 23, 3, 9, 719, 19, 172, 78, 170, 165, 628, 334, 403, 631]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*textEditorService*/,
+ C /*resources*/,
+ d /*modesRegistry*/,
+ m /*environmentService*/,
+ r /*filesConfigurationService*/,
+ u /*pathService*/,
+ a /*untitledTextEditorInput*/,
+ h /*workingCopy*/,
+ c /*workingCopyEditorService*/,
+ n /*untitledTextEditorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$yuc = e.$xuc = void 0);

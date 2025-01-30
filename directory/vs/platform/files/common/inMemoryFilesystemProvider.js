@@ -9,7 +9,14 @@ import './files.js';
 define(
 			de[1613],
 			he([1, 0, 76, 6, 3, 19, 408, 22]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*resources*/,
+ C /*stream*/,
+ d /*files*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$kxc = void 0),

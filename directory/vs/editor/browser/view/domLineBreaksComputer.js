@@ -12,7 +12,17 @@ import '../../common/textModelEvents.js';
 define(
 			de[2762],
 			he([1, 0, 432, 120, 37, 28, 321, 38, 462, 1629, 590]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*trustedTypes*/,
+ i /*charCode*/,
+ w /*strings*/,
+ E /*types*/,
+ C /*domFontInfo*/,
+ d /*editorOptions*/,
+ m /*stringBuilder*/,
+ r /*modelLineProjectionData*/,
+ u /*textModelEvents*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Pvb = void 0),

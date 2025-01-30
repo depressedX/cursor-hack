@@ -21,7 +21,23 @@ define(
 				1, 0, 3, 29, 67, 10, 15, 33, 35, 1209, 1602, 391, 162, 69, 1180, 588,
 				1156,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*errors*/,
+ w /*model*/,
+ E /*configuration*/,
+ C /*async*/,
+ d /*cancellation*/,
+ m /*themeService*/,
+ r /*semanticTokensProviderStyling*/,
+ u /*getSemanticTokens*/,
+ a /*languageFeatureDebounce*/,
+ h /*stopwatch*/,
+ c /*languageFeatures*/,
+ n /*semanticTokensStyling*/,
+ g /*editorFeatures*/,
+ p /*semanticTokensConfig*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

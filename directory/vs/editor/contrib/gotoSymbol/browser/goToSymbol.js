@@ -11,7 +11,16 @@ import '../../../../platform/tracing/common/tracing.js';
 define(
 			de[414],
 			he([1, 0, 24, 33, 29, 23, 46, 69, 541, 216]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*cancellation*/,
+ w /*errors*/,
+ E /*network*/,
+ C /*editorExtensions*/,
+ d /*languageFeatures*/,
+ m /*referencesModel*/,
+ r /*tracing*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$POb = h),

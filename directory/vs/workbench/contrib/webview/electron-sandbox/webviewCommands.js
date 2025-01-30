@@ -12,7 +12,17 @@ import '../../../../base/common/constants.js';
 define(
 			de[3213],
 			he([1, 0, 4, 7, 99, 11, 110, 10, 371, 1785, 58]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*dom*/,
+ w /*actionCommonCategories*/,
+ E /*actions*/,
+ C /*native*/,
+ d /*configuration*/,
+ m /*mainProcessService*/,
+ r /*windowIgnoreMenuShortcutsManager*/,
+ u /*constants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Hgd = e.$Ggd = void 0),

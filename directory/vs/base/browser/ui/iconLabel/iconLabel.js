@@ -13,7 +13,17 @@ import '../../../../css!vs/base/browser/ui/iconLabel/iconlabel.js';
 define(
 			de[325],
 			he([1, 0, 7, 410, 3, 82, 902, 95, 317, 28, 274, 2240]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*highlightedLabel*/,
+ w /*lifecycle*/,
+ E /*objects*/,
+ C /*range*/,
+ d /*hoverDelegateFactory*/,
+ m /*hoverDelegate2*/,
+ r /*types*/,
+ u /*iconLabels*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Xob = void 0),

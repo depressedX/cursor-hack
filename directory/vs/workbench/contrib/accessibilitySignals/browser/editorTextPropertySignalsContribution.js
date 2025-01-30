@@ -16,7 +16,21 @@ import '../../../services/editor/common/editorService.js';
 define(
 			de[3258],
 			he([1, 0, 15, 3, 77, 457, 28, 56, 248, 350, 184, 5, 90, 112, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*observable*/,
+ E /*utils*/,
+ C /*types*/,
+ d /*editorBrowser*/,
+ m /*cursorEvents*/,
+ r /*folding*/,
+ u /*accessibilitySignalService*/,
+ a /*instantiation*/,
+ h /*markers*/,
+ c /*debug*/,
+ n /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$z2c = void 0);

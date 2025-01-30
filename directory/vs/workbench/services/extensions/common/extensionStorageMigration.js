@@ -12,7 +12,17 @@ import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[3304],
 			he([1, 0, 29, 113, 677, 22, 34, 21, 68, 129, 25]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*environment*/,
+ w /*extensionStorage*/,
+ E /*files*/,
+ C /*log*/,
+ d /*storage*/,
+ m /*uriIdentity*/,
+ r /*userDataProfile*/,
+ u /*workspace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$roc = a);
 				async function a(h, c, n, g) {

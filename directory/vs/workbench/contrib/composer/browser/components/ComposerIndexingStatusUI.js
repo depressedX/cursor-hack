@@ -16,7 +16,20 @@ import '../../../../../css!vs/workbench/contrib/composer/browser/components/Comp
 define(
 			de[4279],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 36, 242, 58, 2413]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*codicons*/,
+ u /*themables*/,
+ a /*solid*/,
+ h /*Utils*/,
+ c /*constants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerIndexingStatusUI = b);

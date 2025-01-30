@@ -10,7 +10,15 @@ import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 define(
 			de[4329],
 			he([1, 0, 217, 32, 35, 21, 5, 4328, 45]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorPane*/,
+ i /*telemetry*/,
+ w /*themeService*/,
+ E /*storage*/,
+ C /*instantiation*/,
+ d /*renderNotepad*/,
+ m /*reactiveStorageService*/) {
 				"use strict";
 				var r;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

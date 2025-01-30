@@ -11,7 +11,16 @@ import './is-message.js';
 define(
 			de[1409],
 			he([1, 0, 724, 451, 1408, 723, 2036, 2039, 429, 524]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*descriptor_pb*/,
+ i /*assert*/,
+ w /*service-type*/,
+ E /*names*/,
+ C /*text-format*/,
+ d /*feature-set*/,
+ m /*scalar*/,
+ r /*is-message*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createDescriptorSet = u);

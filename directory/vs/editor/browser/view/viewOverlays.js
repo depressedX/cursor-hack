@@ -8,7 +8,13 @@ import '../../common/config/editorOptions.js';
 define(
 			de[2713],
 			he([1, 0, 194, 321, 1183, 303, 38]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*domFontInfo*/,
+ w /*viewLayer*/,
+ E /*viewPart*/,
+ C /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gvb = e.$fvb = e.$evb = e.$dvb = void 0);

@@ -10,7 +10,15 @@ import './events.js';
 define(
 		de[1567],
 		he([1, 0, 13, 7, 75, 926, 369, 302, 1566]),
-		function (ce, e, t, i, w, E, C, d, m) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*dom*/,
+ w /*window*/,
+ E /*tabbable*/,
+ C /*utils*/,
+ d /*utils*/,
+ m /*events*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Nkb = void 0),

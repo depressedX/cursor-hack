@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../base/common/platform.js';
 import '../../../../../nls.js';
-define(de[1770], he([1, 0, 12, 4]), function (ce, e, t, i) {
+define(de[1770], he([1, 0, 12, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$GVc = e.TerminalZoomSettingId = e.TerminalZoomCommandId = void 0);

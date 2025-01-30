@@ -11,7 +11,16 @@ import '../../../common/services/languageFeatures.js';
 define(
 			de[1601],
 			he([1, 0, 33, 29, 3, 28, 9, 67, 31, 69]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*errors*/,
+ w /*lifecycle*/,
+ E /*types*/,
+ C /*uri*/,
+ d /*model*/,
+ m /*commands*/,
+ r /*languageFeatures*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$JBb = void 0),

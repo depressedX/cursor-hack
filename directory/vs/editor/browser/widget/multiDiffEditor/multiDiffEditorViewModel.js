@@ -11,7 +11,16 @@ import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1681],
 			he([1, 0, 3, 77, 457, 1680, 954, 370, 67, 5]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*utils*/,
+ E /*diffEditorOptions*/,
+ C /*diffEditorViewModel*/,
+ d /*utils*/,
+ m /*model*/,
+ r /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Gnc = e.$Fnc = void 0);

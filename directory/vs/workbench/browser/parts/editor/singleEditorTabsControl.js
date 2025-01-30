@@ -19,7 +19,21 @@ define(
 			he([
 				1, 0, 44, 1055, 233, 123, 159, 7, 247, 97, 28, 82, 3, 106, 1879, 1515,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editor*/,
+ i /*editorTabsControl*/,
+ w /*labels*/,
+ E /*theme*/,
+ C /*touch*/,
+ d /*dom*/,
+ m /*editorCommands*/,
+ r /*color*/,
+ u /*types*/,
+ a /*objects*/,
+ h /*lifecycle*/,
+ c /*defaultStyles*/,
+ n /*breadcrumbsControl*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ltc = void 0);

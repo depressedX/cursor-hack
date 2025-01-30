@@ -19,7 +19,24 @@ import '../../inlineDiffTypes.js';
 define(
 			de[4221],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 147, 14, 58, 26, 312, 36, 851, 251, 534]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*simpleButton*/,
+ u /*codicons*/,
+ a /*constants*/,
+ h /*themables*/,
+ c /*codeBlock*/,
+ n /*solid*/,
+ g /*inlineDiffController*/,
+ p /*markdownRenderer*/,
+ o /*inlineDiffTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Edc = void 0);

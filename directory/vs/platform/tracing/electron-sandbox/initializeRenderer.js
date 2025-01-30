@@ -7,7 +7,12 @@ import '../common/tracing.js';
 define(
 			de[2872],
 			he([1, 0, 2151, 320, 1210, 216]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*globals*/,
+ w /*global*/,
+ E /*tracing*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (t = mt(t));
 				function C() {

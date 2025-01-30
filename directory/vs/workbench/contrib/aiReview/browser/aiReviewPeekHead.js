@@ -12,7 +12,17 @@ import '../../controlCommon/browser/solid.js';
 define(
 			de[4135],
 			he([1, 0, 2, 2, 2, 2, 2, 13, 4134, 2996, 36]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*solid*/,
+ m /*aiReviewResolveButton*/,
+ r /*constants*/,
+ u /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$wed = p);
 				const a = (0, t.template)("<div><div>"),

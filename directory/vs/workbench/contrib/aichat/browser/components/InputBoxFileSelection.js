@@ -9,7 +9,14 @@ import '../../../controlCommon/browser/solid.js';
 define(
 			de[4141],
 			he([1, 0, 2, 13, 9, 354, 1363, 36]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*solid*/,
+ w /*uri*/,
+ E /*codeSelections*/,
+ C /*InputBoxCodeSelection*/,
+ d /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Ebc = m);
 				function m(r) {

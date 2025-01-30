@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../platform/instantiation/common/extensions.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../platform/storage/common/storage.js';
-define(de[822], he([1, 0, 20, 5, 21]), function (ce, e, t, i, w) {
+define(de[822], he([1, 0, 20, 5, 21]), function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*instantiation*/,
+ w /*storage*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$eqc = e.$dqc = void 0),

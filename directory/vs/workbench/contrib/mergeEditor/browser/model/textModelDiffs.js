@@ -11,7 +11,16 @@ import '../../../../../base/common/observable.js';
 define(
 			de[3079],
 			he([1, 0, 24, 29, 3, 686, 1249, 507, 1132, 77]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*errors*/,
+ w /*lifecycle*/,
+ E /*mapping*/,
+ C /*editing*/,
+ d /*lineRange*/,
+ m /*controlFlow*/,
+ r /*observable*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.TextModelDiffState =

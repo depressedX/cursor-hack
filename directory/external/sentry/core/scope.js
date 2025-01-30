@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../utils/index.js';
 import './session.js';
 import './utils/spanOnScope.js';
-define(de[732], he([1, 0, 80, 887, 731]), function (ce, e, t, i, w) {
+define(de[732], he([1, 0, 80, 887, 731]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*session*/,
+ w /*spanOnScope*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.Scope = void 0);
 			const E = 100;

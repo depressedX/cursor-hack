@@ -8,7 +8,13 @@ import '../../../platform/accessibility/common/accessibility.js';
 define(
 			de[1827],
 			he([1, 0, 702, 61, 67, 474, 91]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*textEditorModel*/,
+ i /*language*/,
+ w /*model*/,
+ E /*languageDetectionWorkerService*/,
+ C /*accessibility*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Q1b = void 0);

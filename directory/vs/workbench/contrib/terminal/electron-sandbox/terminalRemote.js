@@ -10,7 +10,15 @@ import '../../../services/history/common/history.js';
 define(
 			de[4037],
 			he([1, 0, 23, 4, 113, 211, 363, 145, 245]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*nls*/,
+ w /*environment*/,
+ E /*remoteAuthorityResolver*/,
+ C /*terminalActions*/,
+ d /*terminal*/,
+ m /*history*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$kgd = r);
 				function r() {

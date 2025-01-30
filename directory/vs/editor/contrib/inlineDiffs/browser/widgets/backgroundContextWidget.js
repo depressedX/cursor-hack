@@ -9,7 +9,14 @@ import '../../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[4117],
 			he([1, 0, 56, 3, 45, 7, 4116, 5]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorBrowser*/,
+ i /*lifecycle*/,
+ w /*reactiveStorageService*/,
+ E /*dom*/,
+ C /*renderBackgroundContextWidget*/,
+ d /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Vlc = void 0),

@@ -8,7 +8,13 @@ import '../../../../contrib/ui/browser/aiInput/plugins/mentions/types.js';
 define(
 			de[2011],
 			he([1, 0, 13, 23, 9, 36, 310]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*network*/,
+ w /*uri*/,
+ E /*solid*/,
+ C /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$bbc = void 0);

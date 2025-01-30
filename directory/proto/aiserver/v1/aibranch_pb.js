@@ -7,7 +7,12 @@ import './repository_pb.js';
 define(
 			de[2172],
 			he([1, 0, 86, 83, 454, 272]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*utils_pb*/,
+ w /*shadow_workspace_pb*/,
+ E /*repository_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$09 =

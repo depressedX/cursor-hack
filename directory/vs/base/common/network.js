@@ -8,7 +8,13 @@ import './path.js';
 define(
 			de[23],
 			he([1, 0, 29, 12, 37, 9, 54]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*platform*/,
+ w /*strings*/,
+ E /*uri*/,
+ C /*path*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.COI =

@@ -21,7 +21,24 @@ define(
 			he([
 				1, 0, 7, 461, 15, 6, 221, 92, 11, 8, 49, 5, 39, 801, 294, 1741, 173, 95,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*toolbar*/,
+ w /*async*/,
+ E /*event*/,
+ C /*marshallingIds*/,
+ d /*menuEntryActionViewItem*/,
+ m /*actions*/,
+ r /*contextkey*/,
+ u /*contextView*/,
+ a /*instantiation*/,
+ h /*keybinding*/,
+ c /*cellActionView*/,
+ n /*cellPart*/,
+ g /*cellToolbarStickyScroll*/,
+ p /*toolbar*/,
+ o /*hoverDelegateFactory*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$R3b = e.$Q3b = void 0),

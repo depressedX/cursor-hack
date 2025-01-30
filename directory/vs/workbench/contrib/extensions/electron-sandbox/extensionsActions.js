@@ -12,7 +12,17 @@ import '../../../../platform/action/common/actionCommonCategories.js';
 define(
 			de[3285],
 			he([1, 0, 4, 22, 9, 151, 110, 23, 11, 119, 99]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*files*/,
+ w /*uri*/,
+ E /*environmentService*/,
+ C /*native*/,
+ d /*network*/,
+ m /*actions*/,
+ r /*extensionManagement*/,
+ u /*actionCommonCategories*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$9fd = e.$8fd = void 0);

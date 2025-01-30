@@ -9,7 +9,14 @@ import '../tokenizationTextModelPart.js';
 define(
 			de[1176],
 			he([1, 0, 24, 15, 6, 3, 196, 916]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*async*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*lineRange*/,
+ d /*tokenizationTextModelPart*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$lV = e.$kV = e.$jV = void 0);

@@ -9,7 +9,14 @@ import './types.js';
 define(
 		de[927],
 		he([1, 0, 2645, 2647, 2646, 1568, 2180, 739]),
-		function (ce, e, t, i, w, E, C, d) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*create-multiple-selection-state*/,
+ i /*create-selectable-collection*/,
+ w /*create-selectable-item*/,
+ E /*create-type-select*/,
+ C /*selection-manager*/,
+ d /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				Yi(t, e),

@@ -12,7 +12,17 @@ import '../../../platform/accessibility/common/accessibility.js';
 define(
 			de[38],
 			he([1, 0, 24, 82, 12, 195, 210, 910, 409, 4, 91]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*objects*/,
+ w /*platform*/,
+ E /*scrollable*/,
+ C /*uint*/,
+ d /*textModelDefaults*/,
+ m /*wordHelper*/,
+ r /*nls*/,
+ u /*accessibility*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.EditorOptions =

@@ -15,7 +15,20 @@ import './terminal.js';
 define(
 			de[3269],
 			he([1, 0, 261, 211, 25, 774, 358, 44, 18, 23, 73, 807, 117, 3148]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*configuration*/,
+ i /*remoteAuthorityResolver*/,
+ w /*workspace*/,
+ E /*environmentVariableShared*/,
+ C /*configurationResolver*/,
+ d /*editor*/,
+ m /*editorService*/,
+ r /*network*/,
+ u /*label*/,
+ a /*environmentVariable*/,
+ h /*terminal*/,
+ c /*terminal*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Seb = e.$Reb = void 0),

@@ -8,7 +8,13 @@ import '../../../common/types.js';
 define(
 			de[1174],
 			he([1, 0, 15, 6, 3, 197, 28]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*marshalling*/,
+ C /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$iq = e.$hq = e.StorageState = e.StorageHint = void 0),

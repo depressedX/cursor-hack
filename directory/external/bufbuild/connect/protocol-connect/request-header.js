@@ -7,7 +7,12 @@ import './content-type.js';
 define(
 			de[2047],
 			he([1, 0, 86, 574, 1080, 1079]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*headers*/,
+ w /*version*/,
+ E /*content-type*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.requestHeader = C),

@@ -7,7 +7,12 @@ import './style.js';
 define(
 			de[2160],
 			he([1, 0, 13, 580, 579, 891]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*drag-drop-context*/,
+ w /*layout*/,
+ E /*style*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createDroppable = void 0);

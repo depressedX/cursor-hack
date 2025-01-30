@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../common/core/range.js';
 import '../../../common/core/selection.js';
-define(de[2580], he([1, 0, 17, 104]), function (ce, e, t, i) {
+define(de[2580], he([1, 0, 17, 104]), function (ce /*require*/,
+ e /*exports*/,
+ t /*range*/,
+ i /*selection*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$fzb = void 0);
 			class w {

@@ -9,7 +9,14 @@ import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[3259],
 			he([1, 0, 18, 9, 3, 5, 20, 25]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorService*/,
+ i /*uri*/,
+ w /*lifecycle*/,
+ E /*instantiation*/,
+ C /*extensions*/,
+ d /*workspace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vIb = e.$uIb = void 0),

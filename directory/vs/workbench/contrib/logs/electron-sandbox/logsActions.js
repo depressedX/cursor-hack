@@ -10,7 +10,15 @@ import '../../../../base/common/network.js';
 define(
 			de[3288],
 			he([1, 0, 50, 4, 110, 151, 22, 19, 23]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*nls*/,
+ w /*native*/,
+ E /*environmentService*/,
+ C /*files*/,
+ d /*resources*/,
+ m /*network*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Sfd = e.$Rfd = void 0),

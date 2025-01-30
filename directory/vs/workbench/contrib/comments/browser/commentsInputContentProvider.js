@@ -12,7 +12,17 @@ import './simpleCommentEditor.js';
 define(
 			de[3768],
 			he([1, 0, 3, 23, 65, 98, 61, 67, 42, 549, 846]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*network*/,
+ w /*codeEditorService*/,
+ E /*editorCommon*/,
+ C /*language*/,
+ d /*model*/,
+ m /*resolverService*/,
+ r /*editorOptions*/,
+ u /*simpleCommentEditor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mSc = void 0);

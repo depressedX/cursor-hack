@@ -4,7 +4,12 @@ import '../../../../../external/solid/web.js';
 import '../../../../../external/solid/web.js';
 import '../../controlCommon/browser/solid.js';
 import './components/settingsPane.js';
-define(de[4352], he([1, 0, 2, 2, 36, 4351]), function (ce, e, t, i, w, E) {
+define(de[4352], he([1, 0, 2, 2, 36, 4351]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*solid*/,
+ E /*settingsPane*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$PDc = C);
 			function C(d, m, r, u) {

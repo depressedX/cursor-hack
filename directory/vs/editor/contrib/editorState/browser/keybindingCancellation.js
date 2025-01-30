@@ -12,7 +12,17 @@ import '../../../../nls.js';
 define(
 			de[2806],
 			he([1, 0, 27, 46, 8, 43, 33, 273, 5, 20, 4]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*editorExtensions*/,
+ w /*contextkey*/,
+ E /*keybindingsRegistry*/,
+ C /*cancellation*/,
+ d /*linkedList*/,
+ m /*instantiation*/,
+ r /*extensions*/,
+ u /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Lzb = void 0);

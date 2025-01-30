@@ -93,7 +93,16 @@ define(
 				3749, 3902, 4006, 4015, 3463, 3464, 3901, 3360, 3908, 3352, 3369, 3353,
 				3589, 3338, 3944, 3373, 3371, 3365, 3366, 3753, 3337, 3336,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contributions*/,
+ i /*instantiation*/,
+ w /*jsonValidationExtensionPoint*/,
+ E /*colorExtensionPoint*/,
+ C /*iconExtensionPoint*/,
+ d /*tokenClassificationExtensionPoint*/,
+ m /*languageConfigurationExtensionPoint*/,
+ r /*statusBarExtensionPoint*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Vqc = void 0);

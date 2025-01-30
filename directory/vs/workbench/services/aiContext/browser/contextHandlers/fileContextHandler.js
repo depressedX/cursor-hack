@@ -12,7 +12,17 @@ import '../../../../../base/common/resources.js';
 define(
 			de[3667],
 			he([1, 0, 228, 3, 42, 25, 6, 1038, 529, 1012, 19]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*context_pb*/,
+ i /*lifecycle*/,
+ w /*resolverService*/,
+ E /*workspace*/,
+ C /*event*/,
+ d /*simpleChunkingService*/,
+ m /*result*/,
+ r /*simpleSerialProcessor*/,
+ u /*resources*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$OZc = void 0);

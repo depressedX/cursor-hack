@@ -24,7 +24,26 @@ define(
 				1, 0, 27, 266, 199, 4, 11, 8, 179, 43, 572, 624, 238, 108, 176, 284, 70,
 				40, 71, 10,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*mime*/,
+ w /*bulkEditService*/,
+ E /*nls*/,
+ C /*actions*/,
+ d /*contextkey*/,
+ m /*contextkeys*/,
+ r /*keybindingsRegistry*/,
+ u /*bulkCellEdits*/,
+ a /*cellOperations*/,
+ h /*coreActions*/,
+ c /*notebookBrowser*/,
+ n /*notebookContextKeys*/,
+ g /*notebookIcons*/,
+ p /*notebookCommon*/,
+ o /*notification*/,
+ f /*editorContextKeys*/,
+ b /*configuration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (g = mt(g));
 				const s = "notebook.cell.moveUp",

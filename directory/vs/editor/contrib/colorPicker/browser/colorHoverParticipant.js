@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 15, 33, 97, 3, 38, 17, 64, 1603, 785, 2581, 2836, 368, 35, 7, 4,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*cancellation*/,
+ w /*color*/,
+ E /*lifecycle*/,
+ C /*editorOptions*/,
+ d /*range*/,
+ m /*model*/,
+ r /*color*/,
+ u /*colorDetector*/,
+ a /*colorPickerModel*/,
+ h /*colorPickerWidget*/,
+ c /*hoverTypes*/,
+ n /*themeService*/,
+ g /*dom*/,
+ p /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$aCb = e.$_Bb = e.$$Bb = e.$0Bb = void 0),

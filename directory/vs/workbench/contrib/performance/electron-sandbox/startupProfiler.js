@@ -18,7 +18,23 @@ import '../../../../platform/label/common/label.js';
 define(
 			de[3736],
 			he([1, 0, 4, 19, 42, 57, 151, 52, 1892, 53, 121, 9, 41, 110, 62, 22, 73]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*resources*/,
+ w /*resolverService*/,
+ E /*dialogs*/,
+ C /*environmentService*/,
+ d /*lifecycle*/,
+ m /*perfviewEditor*/,
+ r /*extensions*/,
+ u /*clipboardService*/,
+ a /*uri*/,
+ h /*opener*/,
+ c /*native*/,
+ n /*productService*/,
+ g /*files*/,
+ p /*label*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Agd = void 0);

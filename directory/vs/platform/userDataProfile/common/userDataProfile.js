@@ -22,7 +22,25 @@ define(
 			he([
 				1, 0, 136, 6, 3, 19, 9, 4, 113, 22, 5, 34, 25, 59, 68, 15, 47, 37, 28,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hash*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*resources*/,
+ C /*uri*/,
+ d /*nls*/,
+ m /*environment*/,
+ r /*files*/,
+ u /*instantiation*/,
+ a /*log*/,
+ h /*workspace*/,
+ c /*map*/,
+ n /*uriIdentity*/,
+ g /*async*/,
+ p /*uuid*/,
+ o /*strings*/,
+ f /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$2l = e.$1l = e.$Xl = e.ProfileResourceType = void 0),

@@ -17,7 +17,21 @@ import '../../../../css!vs/editor/contrib/inPlaceReplace/browser/inPlaceReplace.
 define(
 			de[2913],
 			he([1, 0, 15, 29, 27, 439, 46, 17, 104, 71, 122, 200, 4, 43, 2586, 2302]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*errors*/,
+ w /*keyCodes*/,
+ E /*editorState*/,
+ C /*editorExtensions*/,
+ d /*range*/,
+ m /*selection*/,
+ r /*editorContextKeys*/,
+ u /*textModel*/,
+ a /*editorWorker*/,
+ h /*nls*/,
+ c /*keybindingsRegistry*/,
+ n /*inPlaceReplaceCommand*/) {
 				"use strict";
 				var g;
 				Object.defineProperty(e, "__esModule", { value: !0 }), (h = mt(h));

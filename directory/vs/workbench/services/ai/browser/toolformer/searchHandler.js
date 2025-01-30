@@ -11,7 +11,16 @@ import '../../../search/common/search.js';
 define(
 			de[3974],
 			he([1, 0, 124, 33, 59, 5, 25, 118, 361, 186]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*cancellation*/,
+ w /*map*/,
+ E /*instantiation*/,
+ C /*workspace*/,
+ d /*aiService*/,
+ m /*queryBuilder*/,
+ r /*search*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$P8b = void 0);

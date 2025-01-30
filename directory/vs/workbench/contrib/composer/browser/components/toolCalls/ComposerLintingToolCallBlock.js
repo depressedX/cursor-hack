@@ -17,7 +17,21 @@ import '../../../../../../css!vs/workbench/contrib/composer/browser/components/t
 define(
 			de[4149],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 792, 295, 36, 58, 270, 2419]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*solid*/,
+ u /*ComposerToolCallBlockContainer*/,
+ a /*loadingSpinner*/,
+ h /*solid*/,
+ c /*constants*/,
+ n /*aiConfigHelper*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerLintingToolCallBlock = void 0);

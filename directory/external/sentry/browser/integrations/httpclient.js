@@ -7,7 +7,12 @@ import '../debug-build.js';
 define(
 			de[2135],
 			he([1, 0, 641, 144, 80, 452]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*index*/,
+ E /*debug-build*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.httpClientIntegration = void 0);

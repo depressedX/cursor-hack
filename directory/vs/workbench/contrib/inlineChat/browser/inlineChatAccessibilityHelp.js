@@ -9,7 +9,14 @@ import '../common/inlineChat.js';
 define(
 			de[3557],
 			he([1, 0, 65, 178, 8, 1857, 207, 257]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codeEditorService*/,
+ i /*accessibleView*/,
+ w /*contextkey*/,
+ E /*chatAccessibilityHelp*/,
+ C /*chatContextKeys*/,
+ d /*inlineChat*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mJc = void 0);

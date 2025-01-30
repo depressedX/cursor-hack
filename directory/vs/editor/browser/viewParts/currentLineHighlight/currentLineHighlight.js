@@ -12,7 +12,16 @@ import '../../../../css!vs/editor/browser/viewParts/currentLineHighlight/current
 define(
 			de[2847],
 			he([1, 0, 591, 307, 24, 35, 104, 38, 212, 48, 2263]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dynamicViewOverlay*/,
+ i /*editorColorRegistry*/,
+ w /*arrays*/,
+ E /*themeService*/,
+ C /*selection*/,
+ d /*editorOptions*/,
+ m /*theme*/,
+ r /*position*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$lvb = e.$kvb = e.$jvb = void 0),

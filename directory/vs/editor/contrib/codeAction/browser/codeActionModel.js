@@ -18,7 +18,23 @@ import '../../../../base/common/stopwatch.js';
 define(
 			de[1642],
 			he([1, 0, 15, 29, 6, 3, 19, 38, 48, 104, 74, 8, 84, 291, 393, 318, 162]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*errors*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*resources*/,
+ d /*editorOptions*/,
+ m /*position*/,
+ r /*selection*/,
+ u /*languages*/,
+ a /*contextkey*/,
+ h /*progress*/,
+ c /*types*/,
+ n /*codeAction*/,
+ g /*hierarchicalKind*/,
+ p /*stopwatch*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ABb = e.CodeActionsState = e.$zBb = e.$yBb = void 0),

@@ -7,7 +7,12 @@ import '../../controlCommon/browser/solid.js';
 define(
 			de[4336],
 			he([1, 0, 2, 4335, 1966, 36]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*customChoicePopup*/,
+ w /*dangerousActionPopup*/,
+ E /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$lZc = C),

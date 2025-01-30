@@ -7,7 +7,12 @@ import './webviewWorkbenchService.js';
 define(
 			de[1831],
 			he([1, 0, 9, 109, 566, 623]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*extensions*/,
+ w /*webviewEditorInput*/,
+ E /*webviewWorkbenchService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Toc = void 0),

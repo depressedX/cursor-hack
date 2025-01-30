@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../contextkey/common/contextkey.js';
 import '../../instantiation/common/instantiation.js';
-define(de[91], he([1, 0, 8, 5]), function (ce, e, t, i) {
+define(de[91], he([1, 0, 8, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*contextkey*/,
+ i /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$1K = e.$YK = e.AccessibilitySupport = e.$XK = void 0),

@@ -12,7 +12,17 @@ import '../../../../platform/editor/common/editor.js';
 define(
 			de[826],
 			he([1, 0, 4, 9, 54, 19, 112, 18, 23, 396, 116]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*uri*/,
+ w /*path*/,
+ E /*resources*/,
+ C /*debug*/,
+ d /*editorService*/,
+ m /*network*/,
+ r /*debugUtils*/,
+ u /*editor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$z3 = e.$y3 = void 0),

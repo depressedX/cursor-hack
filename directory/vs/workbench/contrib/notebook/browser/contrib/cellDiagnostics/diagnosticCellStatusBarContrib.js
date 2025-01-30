@@ -13,7 +13,18 @@ import '../../../common/notebookCommon.js';
 define(
 			de[4099],
 			he([1, 0, 3, 77, 4, 5, 39, 1960, 1062, 330, 482, 70]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*nls*/,
+ E /*instantiation*/,
+ C /*keybinding*/,
+ d /*cellDiagnosticsActions*/,
+ m /*executionStatusBarItemController*/,
+ r /*notebookEditorExtensions*/,
+ u /*codeCellViewModel*/,
+ a /*notebookCommon*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$yGc = void 0);

@@ -18,7 +18,23 @@ import '../../../../../proto/aiserver/v1/tools_pb.js';
 define(
 			de[225],
 			he([1, 0, 2, 2, 13, 126, 167, 9, 47, 116, 41, 21, 25, 312, 298, 14, 124]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*solid*/,
+ E /*chat_pb*/,
+ C /*composer_pb*/,
+ d /*uri*/,
+ m /*uuid*/,
+ r /*editor*/,
+ u /*opener*/,
+ a /*storage*/,
+ h /*workspace*/,
+ c /*codeBlock*/,
+ n /*selectedContextData*/,
+ g /*codicons*/,
+ p /*tools_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.TOOLS_WITH_CHECKPOINTS =

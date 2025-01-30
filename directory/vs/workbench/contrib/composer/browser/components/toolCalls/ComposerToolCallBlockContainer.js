@@ -4,7 +4,12 @@ import '../../../../../../../external/solid/web.js';
 import '../../../../../../../external/solid/web.js';
 import '../../../../../../../external/solid/web.js';
 import '../../../../../../../external/solid/web.js';
-define(de[792], he([1, 0, 2, 2, 2, 2]), function (ce, e, t, i, w, E) {
+define(de[792], he([1, 0, 2, 2, 2, 2]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ComposerToolCallBlockContainer = d);

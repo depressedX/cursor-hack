@@ -10,7 +10,15 @@ import '../../../base/common/async.js';
 define(
 			de[3677],
 			he([1, 0, 64, 4, 5, 101, 85, 88, 15]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*model*/,
+ i /*nls*/,
+ w /*instantiation*/,
+ E /*extHostCustomers*/,
+ C /*textfiles*/,
+ d /*extHost.protocol*/,
+ m /*async*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$koc = void 0);

@@ -4,7 +4,12 @@ import '../../../external/bufbuild/protobuf.js';
 import './utils_pb.js';
 import './bugbot_pb.js';
 import './aiserver_pb.js';
-define(de[736], he([1, 0, 86, 83, 642, 148]), function (ce, e, t, i, w, E) {
+define(de[736], he([1, 0, 86, 83, 642, 148]), function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*utils_pb*/,
+ w /*bugbot_pb*/,
+ E /*aiserver_pb*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$7ab =

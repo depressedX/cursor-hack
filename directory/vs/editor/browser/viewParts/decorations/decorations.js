@@ -8,7 +8,12 @@ import '../../../../css!vs/editor/browser/viewParts/decorations/decorations.js';
 define(
 			de[2715],
 			he([1, 0, 591, 746, 38, 17, 2264]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dynamicViewOverlay*/,
+ i /*renderingContext*/,
+ w /*editorOptions*/,
+ E /*range*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mvb = void 0);

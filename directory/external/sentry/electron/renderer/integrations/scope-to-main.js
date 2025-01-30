@@ -7,7 +7,12 @@ import '../ipc.js';
 define(
 			de[1460],
 			he([1, 0, 144, 80, 2147, 890]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*scope*/,
+ E /*ipc*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.scopeToMainIntegration = void 0),

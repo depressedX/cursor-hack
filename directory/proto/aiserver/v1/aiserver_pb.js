@@ -22,7 +22,24 @@ define(
 				1, 0, 86, 124, 83, 642, 126, 367, 1477, 1483, 644, 272, 892, 581, 1110,
 				1472, 1480, 1476,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*tools_pb*/,
+ w /*utils_pb*/,
+ E /*bugbot_pb*/,
+ C /*chat_pb*/,
+ d /*cpp_pb*/,
+ m /*lsp_subgraph_pb*/,
+ r /*filesyncserver_pb*/,
+ u /*cmdk_pb*/,
+ a /*repository_pb*/,
+ h /*docs_pb*/,
+ c /*fastapply_pb*/,
+ n /*lint_pb*/,
+ g /*context_ast_pb*/,
+ p /*usage_pb*/,
+ o /*interface_agent_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nJ =

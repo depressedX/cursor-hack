@@ -17,7 +17,22 @@ import '../../../common/notebookService.js';
 define(
 			de[1062],
 			he([1, 0, 15, 3, 12, 4, 5, 35, 26, 1742, 330, 856, 284, 70, 190, 161]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*nls*/,
+ C /*instantiation*/,
+ d /*themeService*/,
+ m /*themables*/,
+ r /*notebookVisibleCellObserver*/,
+ u /*notebookEditorExtensions*/,
+ a /*notebookEditorWidget*/,
+ h /*notebookIcons*/,
+ c /*notebookCommon*/,
+ n /*notebookExecutionStateService*/,
+ g /*notebookService*/) {
 				"use strict";
 				var p, o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

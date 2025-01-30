@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../utils/api.js';
 import './types.js';
-define(de[2644], he([1, 0, 115, 739]), function (ce, e, t, i) {
+define(de[2644], he([1, 0, 115, 739]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Pmb = w);
 			function w(E) {

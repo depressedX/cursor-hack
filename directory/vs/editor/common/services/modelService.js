@@ -23,7 +23,25 @@ define(
 				1, 0, 6, 3, 12, 188, 17, 64, 122, 910, 172, 125, 10, 155, 136, 780, 23,
 				82, 5,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*editOperation*/,
+ C /*range*/,
+ d /*model*/,
+ m /*textModel*/,
+ r /*textModelDefaults*/,
+ u /*modesRegistry*/,
+ a /*textResourceConfiguration*/,
+ h /*configuration*/,
+ c /*undoRedo*/,
+ n /*hash*/,
+ g /*editStack*/,
+ p /*network*/,
+ o /*objects*/,
+ f /*instantiation*/) {
 				"use strict";
 				var b;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

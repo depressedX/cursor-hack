@@ -2,7 +2,10 @@ import '../../../../../../../require.js';
 import '../../../../../../../exports.js';
 import '../../../../../../../external/solid/web.js';
 import './ComposerSearchToolCallBlock.js';
-define(de[4211], he([1, 0, 2, 861]), function (ce, e, t, i) {
+define(de[4211], he([1, 0, 2, 861]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*ComposerSearchToolCallBlock*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ComposerSemanticSearchToolCallBlock = w);

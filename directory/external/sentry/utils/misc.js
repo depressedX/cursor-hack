@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './object.js';
 import './string.js';
 import './worldwide.js';
-define(de[727], he([1, 0, 528, 881, 365]), function (ce, e, t, i, w) {
+define(de[727], he([1, 0, 528, 881, 365]), function (ce /*require*/,
+ e /*exports*/,
+ t /*object*/,
+ i /*string*/,
+ w /*worldwide*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.uuid4 = E),

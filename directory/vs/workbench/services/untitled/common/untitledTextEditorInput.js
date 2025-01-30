@@ -17,7 +17,22 @@ import '../../editor/common/customEditorLabelService.js';
 define(
 			de[628],
 			he([1, 0, 44, 478, 85, 73, 18, 22, 19, 78, 165, 170, 42, 3, 125, 399]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editor*/,
+ i /*textResourceEditorInput*/,
+ w /*textfiles*/,
+ E /*label*/,
+ C /*editorService*/,
+ d /*files*/,
+ m /*resources*/,
+ r /*environmentService*/,
+ u /*pathService*/,
+ a /*filesConfigurationService*/,
+ h /*resolverService*/,
+ c /*lifecycle*/,
+ n /*textResourceConfiguration*/,
+ g /*customEditorLabelService*/) {
 				"use strict";
 				var p;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

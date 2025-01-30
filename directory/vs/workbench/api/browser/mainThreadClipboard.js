@@ -7,7 +7,12 @@ import '../../../platform/tooltipService/common/tooltipService.js';
 define(
 			de[3340],
 			he([1, 0, 101, 88, 121, 308]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extHostCustomers*/,
+ i /*extHost.protocol*/,
+ w /*clipboardService*/,
+ E /*tooltipService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Pmc = void 0);

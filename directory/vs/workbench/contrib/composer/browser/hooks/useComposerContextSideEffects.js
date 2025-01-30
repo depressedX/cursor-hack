@@ -7,7 +7,12 @@ import '../../../../services/selectedContext/browser/selectedContextData.js';
 define(
 			de[4410],
 			he([1, 0, 13, 36, 2011, 298]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*solid*/,
+ w /*useContextSideEffects*/,
+ E /*selectedContextData*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.useComposerContextSideEffects = void 0);

@@ -4,7 +4,12 @@ import '../hover/hoverDelegateFactory.js';
 import '../toggle/toggle.js';
 import '../../../common/codicons.js';
 import '../../../../nls.js';
-define(de[1581], he([1, 0, 95, 268, 14, 4]), function (ce, e, t, i, w, E) {
+define(de[1581], he([1, 0, 95, 268, 14, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*hoverDelegateFactory*/,
+ i /*toggle*/,
+ w /*codicons*/,
+ E /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Tob = e.$Sob = e.$Rob = void 0),

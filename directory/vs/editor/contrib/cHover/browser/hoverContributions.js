@@ -15,7 +15,20 @@ import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[2003],
 			he([1, 0, 46, 149, 3, 38, 71, 69, 866, 8, 5, 90, 45, 10]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*lazy*/,
+ w /*lifecycle*/,
+ E /*editorOptions*/,
+ C /*editorContextKeys*/,
+ d /*languageFeatures*/,
+ m /*hoverWidget*/,
+ r /*contextkey*/,
+ u /*instantiation*/,
+ a /*markers*/,
+ h /*reactiveStorageService*/,
+ c /*configuration*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

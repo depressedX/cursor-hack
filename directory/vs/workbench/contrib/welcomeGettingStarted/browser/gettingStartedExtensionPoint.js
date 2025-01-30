@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../../services/extensions/common/extensionsRegistry.js';
-define(de[3333], he([1, 0, 4, 175]), function (ce, e, t, i) {
+define(de[3333], he([1, 0, 4, 175]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*extensionsRegistry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$wXc = void 0);
 			const w = (0, t.localize)(11438, null);

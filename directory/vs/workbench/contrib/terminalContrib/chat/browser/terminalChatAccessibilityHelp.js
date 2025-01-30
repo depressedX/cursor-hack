@@ -10,7 +10,15 @@ import './terminalChatController.js';
 define(
 			de[4381],
 			he([1, 0, 4, 178, 39, 130, 107, 692, 867]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*accessibleView*/,
+ w /*keybinding*/,
+ E /*accessibilityConfiguration*/,
+ C /*terminal*/,
+ d /*terminalChat*/,
+ m /*terminalChatController*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6Vc = void 0),

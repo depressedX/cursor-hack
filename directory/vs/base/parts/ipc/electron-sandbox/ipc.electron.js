@@ -8,7 +8,13 @@ import '../../sandbox/electron-sandbox/globals.js';
 define(
 			de[2688],
 			he([1, 0, 76, 6, 305, 2227, 320]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*event*/,
+ w /*ipc*/,
+ E /*ipc.electron*/,
+ C /*globals*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$krb = void 0);

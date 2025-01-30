@@ -13,7 +13,18 @@ import '../../../common/services/languageFeatures.js';
 define(
 			de[2710],
 			he([1, 0, 24, 33, 29, 3, 28, 9, 17, 67, 31, 69]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*cancellation*/,
+ w /*errors*/,
+ E /*lifecycle*/,
+ C /*types*/,
+ d /*uri*/,
+ m /*range*/,
+ r /*model*/,
+ u /*commands*/,
+ a /*languageFeatures*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$4Ob = e.Link = void 0),

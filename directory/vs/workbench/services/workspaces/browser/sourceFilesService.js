@@ -14,7 +14,19 @@ import '../../../../platform/storage/common/storage.js';
 define(
 		de[632],
 		he([1, 0, 22, 20, 25, 1325, 5, 671, 186, 33, 359, 45, 21]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*files*/,
+ i /*extensions*/,
+ w /*workspace*/,
+ E /*ignore*/,
+ C /*instantiation*/,
+ d /*languagesAssociations*/,
+ m /*search*/,
+ r /*cancellation*/,
+ u /*gitContextService*/,
+ a /*reactiveStorageService*/,
+ h /*storage*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$M9b = e.$L9b = e.$K9b = e.$J9b = void 0),

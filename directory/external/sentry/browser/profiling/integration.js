@@ -9,7 +9,14 @@ import './utils.js';
 define(
 			de[2139],
 			he([1, 0, 144, 80, 452, 2138, 1103, 1103]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*debug-build*/,
+ E /*startProfileForSpan*/,
+ C /*utils*/,
+ d /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.browserProfilingIntegration = void 0);

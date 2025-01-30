@@ -10,7 +10,15 @@ import './terminalProfiles.js';
 define(
 			de[1201],
 			he([1, 0, 14, 12, 4, 81, 30, 117, 955]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*platform*/,
+ w /*nls*/,
+ E /*configurationRegistry*/,
+ C /*platform*/,
+ d /*terminal*/,
+ m /*terminalProfiles*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$9J = e.$8J = void 0),

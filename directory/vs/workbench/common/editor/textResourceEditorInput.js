@@ -19,7 +19,22 @@ define(
 			he([
 				1, 0, 44, 1296, 85, 18, 22, 73, 23, 19, 42, 1827, 122, 170, 125, 399,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editor*/,
+ i /*resourceEditorInput*/,
+ w /*textfiles*/,
+ E /*editorService*/,
+ C /*files*/,
+ d /*label*/,
+ m /*network*/,
+ r /*resources*/,
+ u /*resolverService*/,
+ a /*textResourceEditorModel*/,
+ h /*textModel*/,
+ c /*filesConfigurationService*/,
+ n /*textResourceConfiguration*/,
+ g /*customEditorLabelService*/) {
 				"use strict";
 				var p;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

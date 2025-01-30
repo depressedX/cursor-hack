@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../common/core/editOperation.js';
 import '../../../common/core/range.js';
 import '../../../browser/stableEditorScroll.js';
-define(de[1552], he([1, 0, 188, 17, 491]), function (ce, e, t, i, w) {
+define(de[1552], he([1, 0, 188, 17, 491]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editOperation*/,
+ i /*range*/,
+ w /*stableEditorScroll*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Ihc = void 0);
 			class E {

@@ -10,7 +10,15 @@ import '../common/testCoverage.js';
 define(
 			de[1266],
 			he([1, 0, 229, 201, 4, 51, 306, 443, 1e3]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*numbers*/,
+ w /*nls*/,
+ E /*colorRegistry*/,
+ C /*colorUtils*/,
+ d /*configuration*/,
+ m /*testCoverage*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.labels = e.$1Jc = e.$ZJc = e.$YJc = e.$XJc = void 0),

@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './env.js';
-define(de[1423], he([1, 0, 1421]), function (ce, e, t) {
+define(de[1423], he([1, 0, 1421]), function (ce /*require*/,
+ e /*exports*/,
+ t /*env*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.isNodeEnv = i),

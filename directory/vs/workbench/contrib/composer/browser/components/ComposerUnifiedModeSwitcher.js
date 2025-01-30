@@ -15,7 +15,20 @@ import '../../../ui/browser/hooks/useKeyboardShortcut.js';
 define(
 			de[4189],
 			he([1, 0, 2, 2, 2, 2, 13, 12, 169, 177, 246, 36, 1979, 385]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*platform*/,
+ m /*constants*/,
+ r /*useComposerDataHandle*/,
+ u /*utils*/,
+ a /*solid*/,
+ h /*dropdownInput*/,
+ c /*useKeyboardShortcut*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerUnifiedModeSwitcher = g);

@@ -8,7 +8,13 @@ import './tokenizer.js';
 define(
 			de[1537],
 			he([1, 0, 37, 658, 492, 657, 915]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*ast*/,
+ w /*length*/,
+ E /*smallImmutableSet*/,
+ C /*tokenizer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$hN = e.$gN = void 0);

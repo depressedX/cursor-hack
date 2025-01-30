@@ -4,7 +4,11 @@ import '../../../../base/browser/fastDomNode.js';
 import '../../view/viewPart.js';
 import '../../../common/config/editorOptions.js';
 import '../../../../css!vs/editor/browser/viewParts/margin/margin.js';
-define(de[1605], he([1, 0, 194, 303, 38, 2270]), function (ce, e, t, i, w) {
+define(de[1605], he([1, 0, 194, 303, 38, 2270]), function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*viewPart*/,
+ w /*editorOptions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$bvb = void 0);
 			class E extends i.$yub {

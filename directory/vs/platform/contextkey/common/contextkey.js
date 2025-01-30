@@ -10,7 +10,15 @@ import '../../../base/common/errors.js';
 define(
 			de[8],
 			he([1, 0, 120, 12, 37, 2704, 5, 4, 29]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*platform*/,
+ w /*strings*/,
+ E /*scanner*/,
+ C /*instantiation*/,
+ d /*nls*/,
+ m /*errors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6j =

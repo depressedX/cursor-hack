@@ -17,7 +17,22 @@ import './parameterHintsWidget.js';
 define(
 			de[1207],
 			he([1, 0, 27, 149, 3, 46, 71, 74, 69, 1608, 1182, 4, 8, 5, 43, 2837]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*lazy*/,
+ w /*lifecycle*/,
+ E /*editorExtensions*/,
+ C /*editorContextKeys*/,
+ d /*languages*/,
+ m /*languageFeatures*/,
+ r /*parameterHintsModel*/,
+ u /*provideSignatureHelp*/,
+ a /*nls*/,
+ h /*contextkey*/,
+ c /*instantiation*/,
+ n /*keybindingsRegistry*/,
+ g /*parameterHintsWidget*/) {
 				"use strict";
 				var p;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

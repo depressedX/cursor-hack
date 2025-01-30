@@ -10,7 +10,15 @@ import '../common/terminalTypeAheadConfiguration.js';
 define(
 			de[3174],
 			he([1, 0, 3, 10, 5, 378, 3173, 145, 1264]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*configuration*/,
+ w /*instantiation*/,
+ E /*terminalExtensions*/,
+ C /*terminalTypeAheadAddon*/,
+ d /*terminal*/,
+ m /*terminalTypeAheadConfiguration*/) {
 				"use strict";
 				var r;
 				Object.defineProperty(e, "__esModule", { value: !0 });

@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../code.js';
 import '../connect-error.js';
-define(de[1392], he([1, 0, 202, 213]), function (ce, e, t, i) {
+define(de[1392], he([1, 0, 202, 213]), function (ce /*require*/,
+ e /*exports*/,
+ t /*code*/,
+ i /*connect-error*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.parseTimeout = w);

@@ -4,7 +4,12 @@ import '../common/debug.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../services/host/browser/host.js';
 import '../../../services/title/browser/titleService.js';
-define(de[3740], he([1, 0, 112, 3, 87, 713]), function (ce, e, t, i, w, E) {
+define(de[3740], he([1, 0, 112, 3, 87, 713]), function (ce /*require*/,
+ e /*exports*/,
+ t /*debug*/,
+ i /*lifecycle*/,
+ w /*host*/,
+ E /*titleService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$6Qc = void 0);
 			let C = class {

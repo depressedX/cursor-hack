@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/platform.js';
 import '../../../../base/parts/ipc/common/ipc.js';
 import '../../../../platform/window/common/window.js';
-define(de[1785], he([1, 0, 12, 305, 253]), function (ce, e, t, i, w) {
+define(de[1785], he([1, 0, 12, 305, 253]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*ipc*/,
+ w /*window*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Fgd = void 0);
 			class E {

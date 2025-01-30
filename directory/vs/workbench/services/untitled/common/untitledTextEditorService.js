@@ -12,7 +12,17 @@ import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[631],
 			he([1, 0, 9, 5, 1339, 10, 6, 59, 23, 3, 20]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*instantiation*/,
+ w /*untitledTextEditorModel*/,
+ E /*configuration*/,
+ C /*event*/,
+ d /*map*/,
+ m /*network*/,
+ r /*lifecycle*/,
+ u /*extensions*/) {
 				"use strict";
 				var a;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

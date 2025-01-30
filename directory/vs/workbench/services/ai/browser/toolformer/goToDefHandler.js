@@ -14,7 +14,19 @@ import '../../../textfile/common/textfiles.js';
 define(
 			de[3968],
 			he([1, 0, 124, 33, 59, 48, 69, 42, 414, 25, 118, 241, 85]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*cancellation*/,
+ w /*map*/,
+ E /*position*/,
+ C /*languageFeatures*/,
+ d /*resolverService*/,
+ m /*goToSymbol*/,
+ r /*workspace*/,
+ u /*aiService*/,
+ a /*magicLinkService*/,
+ h /*textfiles*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$I8b = void 0);

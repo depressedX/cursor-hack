@@ -11,7 +11,15 @@ import './registrations.contribution.js';
 define(
 			de[2905],
 			he([1, 0, 14, 1217, 71, 4, 11, 31, 8, 608]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*commands*/,
+ w /*editorContextKeys*/,
+ E /*nls*/,
+ C /*actions*/,
+ d /*commands*/,
+ m /*contextkey*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, C.$4X)(i.$4yb),

@@ -11,7 +11,16 @@ import '../composerDataService.js';
 define(
 			de[3926],
 			he([1, 0, 126, 167, 45, 219, 262, 395, 351, 209]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*chat_pb*/,
+ i /*composer_pb*/,
+ w /*reactiveStorageService*/,
+ E /*composer*/,
+ C /*composerCapabilities*/,
+ d /*composerCapabilityDecorators*/,
+ m /*composerCapabilitySchemas*/,
+ r /*composerDataService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.RememberThis = void 0);

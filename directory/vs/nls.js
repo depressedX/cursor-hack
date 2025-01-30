@@ -2,7 +2,10 @@ import '../require.js';
 import '../exports.js';
 import './nls.messages.js';
 import './nls.messages.js';
-define(de[4], he([1, 0, 1558, 1558]), function (ce, e, t, i) {
+define(de[4], he([1, 0, 1558, 1558]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls.messages*/,
+ i /*nls.messages*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.getNLSMessages = e.getNLSLanguage = void 0),

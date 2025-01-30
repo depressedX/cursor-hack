@@ -24,7 +24,26 @@ define(
 				1, 0, 2, 2, 2, 2, 2, 13, 167, 14, 26, 123, 338, 485, 225, 177, 311, 36,
 				331, 295,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*solid*/,
+ m /*composer_pb*/,
+ r /*codicons*/,
+ u /*themables*/,
+ a /*theme*/,
+ h /*markdown*/,
+ c /*ComposerToolbarSimpleButton*/,
+ n /*composerData*/,
+ g /*useComposerDataHandle*/,
+ p /*useComposerHoverTooltip*/,
+ o /*solid*/,
+ f /*useThemeHooks*/,
+ b /*loadingSpinner*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerMessageToolCallBlock = void 0);

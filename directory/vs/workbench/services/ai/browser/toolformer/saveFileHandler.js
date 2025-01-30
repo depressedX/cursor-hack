@@ -10,7 +10,15 @@ import '../../../../../platform/markers/common/markers.js';
 define(
 			de[3973],
 			he([1, 0, 85, 25, 42, 241, 22, 124, 90]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*textfiles*/,
+ i /*workspace*/,
+ w /*resolverService*/,
+ E /*magicLinkService*/,
+ C /*files*/,
+ d /*tools_pb*/,
+ m /*markers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$O8b = void 0);

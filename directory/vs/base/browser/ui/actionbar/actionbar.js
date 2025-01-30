@@ -13,7 +13,17 @@ import '../../../../css!vs/base/browser/ui/actionbar/actionbar.js';
 define(
 			de[105],
 			he([1, 0, 7, 114, 198, 95, 50, 6, 27, 3, 28, 1508]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*keyboardEvent*/,
+ w /*actionViewItems*/,
+ E /*hoverDelegateFactory*/,
+ C /*actions*/,
+ d /*event*/,
+ m /*keyCodes*/,
+ r /*lifecycle*/,
+ u /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$eib = e.ActionsOrientation = void 0),

@@ -7,7 +7,12 @@ import '../../solid/solid.js';
 define(
 			de[2603],
 			he([1, 0, 181, 304, 164, 13]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalComposerContext*/,
+ i /*api*/,
+ w /*api*/,
+ E /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.NodeEventPlugin = d);

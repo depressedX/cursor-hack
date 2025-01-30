@@ -11,7 +11,16 @@ import '../../../services/themes/common/workbenchThemeService.js';
 define(
 			de[3718],
 			he([1, 0, 661, 6, 3, 38, 10, 51, 212, 333]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fonts*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*editorOptions*/,
+ C /*configuration*/,
+ d /*colorRegistry*/,
+ m /*theme*/,
+ r /*workbenchThemeService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$b6c = void 0),

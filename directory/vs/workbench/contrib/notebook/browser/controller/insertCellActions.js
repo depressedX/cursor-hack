@@ -16,7 +16,21 @@ import './chat/notebookChatContext.js';
 define(
 			de[1846],
 			he([1, 0, 14, 27, 61, 4, 11, 8, 179, 43, 624, 238, 176, 70, 688]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*keyCodes*/,
+ w /*language*/,
+ E /*nls*/,
+ C /*actions*/,
+ d /*contextkey*/,
+ m /*contextkeys*/,
+ r /*keybindingsRegistry*/,
+ u /*cellOperations*/,
+ a /*coreActions*/,
+ h /*notebookContextKeys*/,
+ c /*notebookCommon*/,
+ n /*notebookChatContext*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$uFc = void 0),

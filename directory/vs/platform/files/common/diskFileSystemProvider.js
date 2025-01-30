@@ -12,7 +12,17 @@ import '../../log/common/log.js';
 define(
 			de[2741],
 			he([1, 0, 24, 15, 29, 6, 249, 3, 54, 938, 34]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*async*/,
+ w /*errors*/,
+ E /*event*/,
+ C /*extpath*/,
+ d /*lifecycle*/,
+ m /*path*/,
+ r /*watcher*/,
+ u /*log*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Er = void 0);
 				class a extends d.$1c {

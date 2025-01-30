@@ -4,7 +4,12 @@ import '../../../base/common/event.js';
 import '../../../base/common/lifecycle.js';
 import './userDataProfile.js';
 import '../../../base/common/uriIpc.js';
-define(de[1696], he([1, 0, 6, 3, 129, 1172]), function (ce, e, t, i, w, E) {
+define(de[1696], he([1, 0, 6, 3, 129, 1172]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*userDataProfile*/,
+ E /*uriIpc*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$gfb = e.$ffb = void 0);

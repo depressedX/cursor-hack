@@ -9,7 +9,14 @@ import '../../../../base/common/keyCodes.js';
 define(
 			de[3317],
 			he([1, 0, 18, 1811, 43, 71, 8, 27]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorService*/,
+ i /*walkThroughPart*/,
+ w /*keybindingsRegistry*/,
+ E /*editorContextKeys*/,
+ C /*contextkey*/,
+ d /*keyCodes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vYc = e.$uYc = e.$tYc = e.$sYc = void 0),

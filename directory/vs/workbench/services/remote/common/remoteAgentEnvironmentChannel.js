@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/uri.js';
 import '../../../../base/common/marshalling.js';
-define(de[3542], he([1, 0, 9, 197]), function (ce, e, t, i) {
+define(de[3542], he([1, 0, 9, 197]), function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*marshalling*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$qK = void 0);
 			class w {

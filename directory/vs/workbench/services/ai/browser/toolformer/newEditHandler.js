@@ -12,7 +12,17 @@ import '../../../../../editor/common/core/position.js';
 define(
 			de[3969],
 			he([1, 0, 124, 42, 241, 17, 545, 90, 25, 31, 48]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*resolverService*/,
+ w /*magicLinkService*/,
+ E /*range*/,
+ C /*simpleInlineDiffService*/,
+ d /*markers*/,
+ m /*workspace*/,
+ r /*commands*/,
+ u /*position*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$J8b = void 0);

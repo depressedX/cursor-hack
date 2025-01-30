@@ -7,7 +7,12 @@ import './logging.js';
 define(
 			de[1133],
 			he([1, 0, 229, 3, 648, 742]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*lifecycle*/,
+ w /*debugName*/,
+ E /*logging*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vd = void 0),

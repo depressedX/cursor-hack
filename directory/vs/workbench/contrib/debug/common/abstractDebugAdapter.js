@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/event.js';
 import '../../../../base/common/async.js';
 import '../../../../nls.js';
-define(de[3048], he([1, 0, 6, 15, 4]), function (ce, e, t, i, w) {
+define(de[3048], he([1, 0, 6, 15, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*async*/,
+ w /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Wmc = void 0);
 			class E {

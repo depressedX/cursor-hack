@@ -14,7 +14,19 @@ import '../../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[1921],
 			he([1, 0, 76, 22, 34, 133, 12, 60, 129, 247, 5, 4, 68]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*files*/,
+ w /*log*/,
+ E /*userDataProfile*/,
+ C /*platform*/,
+ d /*views*/,
+ m /*userDataProfile*/,
+ r /*editorCommands*/,
+ u /*instantiation*/,
+ a /*nls*/,
+ h /*uriIdentity*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Wwc = e.$Vwc = e.$Uwc = void 0);

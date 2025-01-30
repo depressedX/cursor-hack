@@ -7,7 +7,12 @@ import './object.js';
 define(
 			de[2081],
 			he([1, 0, 430, 727, 882, 528]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*is*/,
+ i /*misc*/,
+ w /*normalize*/,
+ E /*object*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.parseStackFrames = C),

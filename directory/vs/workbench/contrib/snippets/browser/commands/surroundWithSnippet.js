@@ -12,7 +12,17 @@ import '../../../../../nls.js';
 define(
 			de[1754],
 			he([1, 0, 71, 254, 121, 8, 5, 994, 1753, 510, 4]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorContextKeys*/,
+ i /*snippetController2*/,
+ w /*clipboardService*/,
+ E /*contextkey*/,
+ C /*instantiation*/,
+ d /*abstractSnippetsActions*/,
+ m /*snippetPicker*/,
+ r /*snippets*/,
+ u /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6Xc = void 0),

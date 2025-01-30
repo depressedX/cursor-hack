@@ -1,7 +1,9 @@
 import '../../../../../../../require.js';
 import '../../../../../../../exports.js';
 import '../../../../../../base/common/numbers.js';
-define(de[1741], he([1, 0, 201]), function (ce, e, t) {
+define(de[1741], he([1, 0, 201]), function (ce /*require*/,
+ e /*exports*/,
+ t /*numbers*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$P3b = i);
 			function i(w, E, C, d) {

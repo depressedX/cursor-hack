@@ -9,7 +9,14 @@ import '../../../../platform/notification/common/notification.js';
 define(
 			de[3623],
 			he([1, 0, 610, 166, 3, 682, 4, 40]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*notifications*/,
+ i /*statusbar*/,
+ w /*lifecycle*/,
+ E /*notificationsCommands*/,
+ C /*nls*/,
+ d /*notification*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$j3c = void 0);

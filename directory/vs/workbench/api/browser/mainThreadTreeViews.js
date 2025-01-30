@@ -17,7 +17,22 @@ import '../../services/views/common/viewsService.js';
 define(
 			de[3801],
 			he([1, 0, 3, 88, 60, 101, 24, 40, 28, 30, 53, 34, 489, 1697, 1836, 89]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*extHost.protocol*/,
+ w /*views*/,
+ E /*extHostCustomers*/,
+ C /*arrays*/,
+ d /*notification*/,
+ m /*types*/,
+ r /*platform*/,
+ u /*extensions*/,
+ a /*log*/,
+ h /*dataTransfer*/,
+ c /*dataTransferCache*/,
+ n /*extHostTypeConverters*/,
+ g /*viewsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Joc = void 0),

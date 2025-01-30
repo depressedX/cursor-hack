@@ -17,7 +17,22 @@ import '../../../../../../external/solid/store.js';
 define(
 			de[3989],
 			he([1, 0, 228, 3, 47, 65, 31, 25, 499, 17, 45, 471, 479, 720, 58, 193]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*context_pb*/,
+ i /*lifecycle*/,
+ w /*uuid*/,
+ E /*codeEditorService*/,
+ C /*commands*/,
+ d /*workspace*/,
+ m /*hintLineWidget*/,
+ r /*range*/,
+ u /*reactiveStorageService*/,
+ a /*aiContext*/,
+ h /*cmdKService*/,
+ c /*cmdKService2*/,
+ n /*constants*/,
+ g /*store*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$ec = void 0);

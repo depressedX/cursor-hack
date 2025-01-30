@@ -14,7 +14,19 @@ import '../../../../services/editor/common/editorGroupsService.js';
 define(
 			de[3264],
 			he([1, 0, 4, 63, 18, 1666, 30, 348, 10, 11, 27, 43, 66]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*quickInput*/,
+ w /*editorService*/,
+ E /*gotoLineQuickAccess*/,
+ C /*platform*/,
+ d /*quickAccess*/,
+ m /*configuration*/,
+ r /*actions*/,
+ u /*keyCodes*/,
+ a /*keybindingsRegistry*/,
+ h /*editorGroupsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$QXc = void 0);

@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/arrays.js';
 import '../../../base/common/lifecycle.js';
 import '../../registry/common/platform.js';
-define(de[348], he([1, 0, 24, 3, 30]), function (ce, e, t, i, w) {
+define(de[348], he([1, 0, 24, 3, 30]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*lifecycle*/,
+ w /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$2r = e.$1r = e.DefaultQuickAccessFilterValue = void 0);

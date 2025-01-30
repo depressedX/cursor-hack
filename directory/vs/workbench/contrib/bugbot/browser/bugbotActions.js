@@ -10,7 +10,15 @@ import './bugbot.js';
 define(
 			de[3225],
 			he([1, 0, 4, 11, 8, 45, 1679, 1009, 976]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*contextkey*/,
+ E /*reactiveStorageService*/,
+ C /*reactiveStorageServiceImpl*/,
+ d /*aiServerConfigService*/,
+ m /*bugbot*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class r extends i.$3X {

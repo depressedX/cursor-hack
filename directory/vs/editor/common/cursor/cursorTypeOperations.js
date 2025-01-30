@@ -7,7 +7,12 @@ import './cursorTypeEditOperations.js';
 define(
 			de[949],
 			he([1, 0, 771, 1527, 346, 948]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*shiftCommand*/,
+ i /*surroundSelectionCommand*/,
+ w /*cursorCommon*/,
+ E /*cursorTypeEditOperations*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_tb = e.$$tb = void 0);

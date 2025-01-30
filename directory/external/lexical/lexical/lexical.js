@@ -9,7 +9,14 @@ import '../../../vs/base/common/platform.js';
 define(
 		de[158],
 		he([1, 0, 1415, 1416, 1417, 7, 75, 12]),
-		function (ce, e, t, i, w, E, C, d) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*canUseDOM*/,
+ i /*environment*/,
+ w /*invariant*/,
+ E /*dom*/,
+ C /*window*/,
+ d /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ParagraphNode =

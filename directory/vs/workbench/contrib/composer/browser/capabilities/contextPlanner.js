@@ -19,7 +19,22 @@ define(
 			he([
 				1, 0, 126, 167, 9, 219, 262, 395, 351, 225, 209, 25, 226, 22, 246, 271,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*chat_pb*/,
+ i /*composer_pb*/,
+ w /*uri*/,
+ E /*composer*/,
+ C /*composerCapabilities*/,
+ d /*composerCapabilityDecorators*/,
+ m /*composerCapabilitySchemas*/,
+ r /*composerData*/,
+ u /*composerDataService*/,
+ a /*workspace*/,
+ h /*repositoryService*/,
+ c /*files*/,
+ n /*utils*/,
+ g /*selectedContext*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ContextPlanner = void 0);

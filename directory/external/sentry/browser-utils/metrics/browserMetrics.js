@@ -18,7 +18,21 @@ define(
 			he([
 				1, 0, 144, 144, 80, 144, 878, 366, 2131, 885, 1102, 728, 883, 884, 2132,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*index*/,
+ E /*index*/,
+ C /*debug-build*/,
+ d /*types*/,
+ m /*cls*/,
+ r /*instrument*/,
+ u /*utils*/,
+ a /*getActivationStart*/,
+ h /*getNavigationEntry*/,
+ c /*getVisibilityWatcher*/,
+ n /*inp*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.registerInpInteractionListener = e.startTrackingINP = void 0),

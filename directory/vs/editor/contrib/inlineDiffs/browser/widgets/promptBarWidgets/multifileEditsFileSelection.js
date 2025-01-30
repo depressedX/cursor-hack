@@ -12,7 +12,16 @@ import '../../../../../../css!vs/editor/contrib/inlineDiffs/browser/widgets/prom
 define(
 			de[4222],
 			he([1, 0, 2, 2, 2, 2, 13, 147, 534, 534, 1137]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*simpleButton*/,
+ m /*inlineDiffTypes*/,
+ r /*inlineDiffTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Gdc = void 0);

@@ -4,7 +4,12 @@ import '../../../../nls.js';
 import '../../../../platform/contextkey/common/contextkey.js';
 import './constants.js';
 import './testTypes.js';
-define(de[380], he([1, 0, 4, 8, 353, 185]), function (ce, e, t, i, w, E) {
+define(de[380], he([1, 0, 4, 8, 353, 185]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*contextkey*/,
+ w /*constants*/,
+ E /*testTypes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.TestingContextKeys = void 0);

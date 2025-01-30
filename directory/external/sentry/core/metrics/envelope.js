@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../utils/index.js';
 import './utils.js';
-define(de[1439], he([1, 0, 80, 886]), function (ce, e, t, i) {
+define(de[1439], he([1, 0, 80, 886]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*utils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.captureAggregateMetrics = w),

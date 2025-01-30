@@ -7,7 +7,12 @@ import '../../../common/contributions.js';
 define(
 			de[3725],
 			he([1, 0, 20, 841, 3724, 55]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*textMateTokenizationFeature*/,
+ w /*textMateTokenizationFeatureImpl*/,
+ E /*contributions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let C = class {

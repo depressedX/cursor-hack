@@ -15,7 +15,20 @@ import './toolsV2HandlerRegistryService.js';
 define(
 			de[3931],
 			he([1, 0, 167, 124, 3, 19, 9, 45, 219, 209, 107, 617, 226, 398]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*composer_pb*/,
+ i /*tools_pb*/,
+ w /*lifecycle*/,
+ E /*resources*/,
+ C /*uri*/,
+ d /*reactiveStorageService*/,
+ m /*composer*/,
+ r /*composerDataService*/,
+ u /*terminal*/,
+ a /*terminalExecutionService*/,
+ h /*repositoryService*/,
+ c /*toolsV2HandlerRegistryService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$2yc = void 0);

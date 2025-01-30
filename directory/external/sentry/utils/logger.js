@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './debug-build.js';
 import './worldwide.js';
-define(de[527], he([1, 0, 577, 365]), function (ce, e, t, i) {
+define(de[527], he([1, 0, 577, 365]), function (ce /*require*/,
+ e /*exports*/,
+ t /*debug-build*/,
+ i /*worldwide*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.logger = e.originalConsoleMethods = e.CONSOLE_LEVELS = void 0),

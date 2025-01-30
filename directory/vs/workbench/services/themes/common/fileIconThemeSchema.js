@@ -7,7 +7,12 @@ import './productIconThemeSchema.js';
 define(
 			de[3712],
 			he([1, 0, 4, 30, 250, 1322]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*platform*/,
+ w /*jsonContributionRegistry*/,
+ E /*productIconThemeSchema*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$dwc = m),

@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import './descriptors.js';
-define(de[20], he([1, 0, 102]), function (ce, e, t) {
+define(de[20], he([1, 0, 102]), function (ce /*require*/,
+ e /*exports*/,
+ t /*descriptors*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.InstantiationType = void 0),

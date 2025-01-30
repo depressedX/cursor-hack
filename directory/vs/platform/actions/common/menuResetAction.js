@@ -4,7 +4,12 @@ import '../../../nls.js';
 import '../../action/common/actionCommonCategories.js';
 import './actions.js';
 import '../../log/common/log.js';
-define(de[2779], he([1, 0, 4, 99, 11, 34]), function (ce, e, t, i, w, E) {
+define(de[2779], he([1, 0, 4, 99, 11, 34]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actionCommonCategories*/,
+ w /*actions*/,
+ E /*log*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$avc = void 0);
 			class C extends w.$3X {

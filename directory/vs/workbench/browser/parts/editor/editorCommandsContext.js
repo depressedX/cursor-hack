@@ -8,7 +8,13 @@ import '../../../services/editor/common/editorGroupsService.js';
 define(
 			de[1014],
 			he([1, 0, 7, 278, 9, 44, 66]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*listWidget*/,
+ w /*uri*/,
+ E /*editor*/,
+ C /*editorGroupsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$TVb = d);
 				function d(g, p, o, f) {

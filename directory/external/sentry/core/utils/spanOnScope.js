@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../../utils/index.js';
-define(de[731], he([1, 0, 80]), function (ce, e, t) {
+define(de[731], he([1, 0, 80]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e._setSpanForScope = w),

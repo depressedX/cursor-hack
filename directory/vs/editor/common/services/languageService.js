@@ -10,7 +10,15 @@ import '../../../base/common/observable.js';
 define(
 			de[2774],
 			he([1, 0, 6, 3, 2773, 24, 74, 172, 77]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*languagesRegistry*/,
+ E /*arrays*/,
+ C /*languages*/,
+ d /*modesRegistry*/,
+ m /*observable*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pYb = void 0);

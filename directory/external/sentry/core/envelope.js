@@ -7,7 +7,12 @@ import './utils/spanUtils.js';
 define(
 			de[1099],
 			he([1, 0, 80, 80, 639, 301]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*dynamicSamplingContext*/,
+ E /*spanUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createSessionEnvelope = d),

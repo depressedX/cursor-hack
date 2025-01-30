@@ -16,7 +16,21 @@ import '../../../../editor/common/editorContextKeys.js';
 define(
 			de[4084],
 			he([1, 0, 3, 248, 4, 8, 153, 427, 257, 46, 188, 17, 48, 1061, 71]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*cursorEvents*/,
+ w /*nls*/,
+ E /*contextkey*/,
+ C /*chatAgents*/,
+ d /*inlineChatController*/,
+ m /*inlineChat*/,
+ r /*editorExtensions*/,
+ u /*editOperation*/,
+ a /*range*/,
+ h /*position*/,
+ c /*inlineChatActions*/,
+ n /*editorContextKeys*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pJc = e.$oJc = e.$nJc = void 0),

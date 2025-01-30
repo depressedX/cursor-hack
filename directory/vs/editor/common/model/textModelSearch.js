@@ -9,7 +9,14 @@ import '../model.js';
 define(
 			de[543],
 			he([1, 0, 120, 37, 747, 48, 17, 64]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*strings*/,
+ w /*wordCharacterClassifier*/,
+ E /*position*/,
+ C /*range*/,
+ d /*model*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$3U = e.$1U = e.$XU = void 0),

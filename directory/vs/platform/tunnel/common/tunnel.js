@@ -10,7 +10,15 @@ import '../../log/common/log.js';
 define(
 			de[374],
 			he([1, 0, 6, 3, 12, 9, 10, 5, 34]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*uri*/,
+ C /*configuration*/,
+ d /*instantiation*/,
+ m /*log*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nO =

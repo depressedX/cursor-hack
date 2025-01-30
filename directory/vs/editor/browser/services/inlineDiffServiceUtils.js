@@ -9,7 +9,14 @@ import '../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
 define(
 			de[1190],
 			he([1, 0, 17, 196, 587, 342, 670, 205]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*range*/,
+ i /*lineRange*/,
+ w /*linesDiffComputers*/,
+ E /*rangeMapping*/,
+ C /*reactiveStorageTypes2*/,
+ d /*reactiveStorageTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.RangeWhereIs = void 0),

@@ -4,7 +4,12 @@ import '../../../common/editor/editorInput.js';
 import '../../../../nls.js';
 import '../../../../base/common/codicons.js';
 import '../../../../platform/theme/common/iconRegistry.js';
-define(de[797], he([1, 0, 223, 4, 14, 79]), function (ce, e, t, i, w, E) {
+define(de[797], he([1, 0, 223, 4, 14, 79]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editorInput*/,
+ i /*nls*/,
+ w /*codicons*/,
+ E /*iconRegistry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$G3 = void 0);
 			const C = (0, E.$$O)(

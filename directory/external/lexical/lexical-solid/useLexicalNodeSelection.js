@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './LexicalComposerContext.js';
 import '../lexical/api.js';
 import '../../solid/solid.js';
-define(de[1158], he([1, 0, 181, 164, 13]), function (ce, e, t, i, w) {
+define(de[1158], he([1, 0, 181, 164, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalComposerContext*/,
+ i /*api*/,
+ w /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.isNodeSelected = E),

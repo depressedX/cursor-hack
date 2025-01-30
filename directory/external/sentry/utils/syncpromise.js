@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './is.js';
-define(de[1425], he([1, 0, 430]), function (ce, e, t) {
+define(de[1425], he([1, 0, 430]), function (ce /*require*/,
+ e /*exports*/,
+ t /*is*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.SyncPromise = void 0),

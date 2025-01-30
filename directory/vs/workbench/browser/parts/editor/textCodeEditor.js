@@ -11,7 +11,16 @@ import './textEditor.js';
 define(
 			de[1337],
 			he([1, 0, 4, 28, 549, 8, 19, 206, 98, 718]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*types*/,
+ w /*editorOptions*/,
+ E /*contextkey*/,
+ C /*resources*/,
+ d /*codeEditorWidget*/,
+ m /*editorCommon*/,
+ r /*textEditor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$lec = void 0);

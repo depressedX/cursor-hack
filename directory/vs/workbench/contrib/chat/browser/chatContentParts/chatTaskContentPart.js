@@ -9,7 +9,14 @@ import './chatReferencesContentPart.js';
 define(
 			de[4023],
 			he([1, 0, 7, 6, 3, 5, 1721, 1946]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*instantiation*/,
+ C /*chatProgressContentPart*/,
+ d /*chatReferencesContentPart*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$LXb = void 0),

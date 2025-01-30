@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../../external/solid/web.js';
 import '../../../../../../external/katex/katex.js';
 import '../markdownData.js';
-define(de[2980], he([1, 0, 2, 2981, 236]), function (ce, e, t, i, w) {
+define(de[2980], he([1, 0, 2, 2981, 236]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*katex*/,
+ w /*markdownData*/) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),
 			(e.$3$b = void 0),

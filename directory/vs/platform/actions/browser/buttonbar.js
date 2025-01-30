@@ -18,7 +18,23 @@ import '../../telemetry/common/telemetry.js';
 define(
 			de[1675],
 			he([1, 0, 183, 95, 50, 14, 6, 3, 26, 4, 92, 11, 8, 49, 72, 39, 32]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*button*/,
+ i /*hoverDelegateFactory*/,
+ w /*actions*/,
+ E /*codicons*/,
+ C /*event*/,
+ d /*lifecycle*/,
+ m /*themables*/,
+ r /*nls*/,
+ u /*menuEntryActionViewItem*/,
+ a /*actions*/,
+ h /*contextkey*/,
+ c /*contextView*/,
+ n /*hover*/,
+ g /*keybinding*/,
+ p /*telemetry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$LLb = e.$KLb = void 0);

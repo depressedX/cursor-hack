@@ -10,7 +10,15 @@ import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3367],
 			he([1, 0, 15, 6, 3, 34, 88, 511, 101]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*log*/,
+ C /*extHost.protocol*/,
+ d /*speechService*/,
+ m /*extHostCustomers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$loc = void 0);

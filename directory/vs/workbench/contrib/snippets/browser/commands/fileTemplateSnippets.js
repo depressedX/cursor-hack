@@ -13,7 +13,18 @@ import '../../../../services/editor/common/editorService.js';
 define(
 			de[1289],
 			he([1, 0, 24, 37, 56, 61, 254, 4, 63, 994, 510, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*strings*/,
+ w /*editorBrowser*/,
+ E /*language*/,
+ C /*snippetController2*/,
+ d /*nls*/,
+ m /*quickInput*/,
+ r /*abstractSnippetsActions*/,
+ u /*snippets*/,
+ a /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$HFc = void 0);

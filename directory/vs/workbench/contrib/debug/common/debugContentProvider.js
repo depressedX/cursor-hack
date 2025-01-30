@@ -16,7 +16,21 @@ import '../../../../base/common/errors.js';
 define(
 			de[1800],
 			he([1, 0, 4, 671, 67, 61, 42, 112, 826, 200, 188, 17, 33, 172, 29]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*languagesAssociations*/,
+ w /*model*/,
+ E /*language*/,
+ C /*resolverService*/,
+ d /*debug*/,
+ m /*debugSource*/,
+ r /*editorWorker*/,
+ u /*editOperation*/,
+ a /*range*/,
+ h /*cancellation*/,
+ c /*modesRegistry*/,
+ n /*errors*/) {
 				"use strict";
 				var g;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

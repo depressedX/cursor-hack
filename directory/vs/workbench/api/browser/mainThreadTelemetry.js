@@ -11,7 +11,16 @@ import '../common/extHost.protocol.js';
 define(
 			de[3370],
 			he([1, 0, 3, 10, 113, 62, 32, 269, 101, 88]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*configuration*/,
+ w /*environment*/,
+ E /*productService*/,
+ C /*telemetry*/,
+ d /*telemetryUtils*/,
+ m /*extHostCustomers*/,
+ r /*extHost.protocol*/) {
 				"use strict";
 				var u;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import './utils/getPaddingObject.js';
 import './utils/rectToClientRect.js';
-define(de[645], he([1, 0, 1122, 1124]), function (ce, e, t, i) {
+define(de[645], he([1, 0, 1122, 1124]), function (ce /*require*/,
+ e /*exports*/,
+ t /*getPaddingObject*/,
+ i /*rectToClientRect*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Klb = w);
 			async function w(E, C = {}) {

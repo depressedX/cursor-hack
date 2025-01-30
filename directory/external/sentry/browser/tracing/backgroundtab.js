@@ -8,7 +8,13 @@ import '../helpers.js';
 define(
 			de[2140],
 			he([1, 0, 144, 144, 80, 452, 386]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*index*/,
+ E /*debug-build*/,
+ C /*helpers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.registerBackgroundTabDetection = d);

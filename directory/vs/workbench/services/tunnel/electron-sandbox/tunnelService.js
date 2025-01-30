@@ -15,7 +15,20 @@ import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[3744],
 			he([1, 0, 34, 78, 20, 374, 3, 1637, 52, 211, 5, 151, 12, 10]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*log*/,
+ i /*environmentService*/,
+ w /*extensions*/,
+ E /*tunnel*/,
+ C /*lifecycle*/,
+ d /*sharedProcessTunnelService*/,
+ m /*lifecycle*/,
+ r /*remoteAuthorityResolver*/,
+ u /*instantiation*/,
+ a /*environmentService*/,
+ h /*platform*/,
+ c /*configuration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ydd = void 0);

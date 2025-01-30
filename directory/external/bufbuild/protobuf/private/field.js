@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import './names.js';
 import './assert.js';
-define(de[2029], he([1, 0, 723, 451]), function (ce, e, t, i) {
+define(de[2029], he([1, 0, 723, 451]), function (ce /*require*/,
+ e /*exports*/,
+ t /*names*/,
+ i /*assert*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.InternalOneofInfo = void 0);

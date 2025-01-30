@@ -8,7 +8,13 @@ import '../../../../platform/reactivestorage/browser/reactiveStorageTypes.js';
 define(
 			de[140],
 			he([1, 0, 13, 27, 343, 12, 205]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*keyCodes*/,
+ w /*keybindings*/,
+ E /*platform*/,
+ C /*reactiveStorageTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Sgc =

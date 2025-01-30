@@ -11,7 +11,16 @@ import './spanOnScope.js';
 define(
 			de[301],
 			he([1, 0, 80, 733, 578, 234, 1095, 453, 636, 731]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*carrier*/,
+ E /*currentScopes*/,
+ C /*metric-summary*/,
+ d /*semanticAttributes*/,
+ m /*spanstatus*/,
+ r /*spanOnScope*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.TRACE_FLAG_SAMPLED = e.TRACE_FLAG_NONE = void 0),

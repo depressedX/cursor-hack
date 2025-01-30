@@ -11,7 +11,15 @@ import '../../../../css!vs/base/browser/ui/breadcrumbs/breadcrumbsWidget.js';
 define(
 			de[2681],
 			he([1, 0, 7, 203, 24, 26, 6, 3, 195, 2232]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*scrollableElement*/,
+ w /*arrays*/,
+ E /*themables*/,
+ C /*event*/,
+ d /*lifecycle*/,
+ m /*scrollable*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fob = e.$eob = void 0),

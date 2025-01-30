@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../utils/index.js';
 import '../utils/spanUtils.js';
-define(de[888], he([1, 0, 80, 301]), function (ce, e, t, i) {
+define(de[888], he([1, 0, 80, 301]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*spanUtils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.SentryNonRecordingSpan = void 0);

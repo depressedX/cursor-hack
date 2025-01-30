@@ -13,7 +13,18 @@ import '../../../../base/common/themables.js';
 define(
 			de[3819],
 			he([1, 0, 392, 4, 40, 112, 25, 31, 132, 425, 352, 26]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*pickerQuickAccess*/,
+ i /*nls*/,
+ w /*notification*/,
+ E /*debug*/,
+ C /*workspace*/,
+ d /*commands*/,
+ m /*filters*/,
+ r /*debugCommands*/,
+ u /*debugIcons*/,
+ a /*themables*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$KQc = void 0);

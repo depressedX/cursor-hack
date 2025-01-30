@@ -19,7 +19,24 @@ import '../../../ui/browser/hooks/useThemeHooks.js';
 define(
 			de[1365],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 13, 4143, 36, 26, 14, 1046, 331]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*web*/,
+ a /*solid*/,
+ h /*InputBoxSelection*/,
+ c /*solid*/,
+ n /*themables*/,
+ g /*codicons*/,
+ p /*isPureClick*/,
+ o /*useThemeHooks*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ecc = s);
 				const f = (0, t.template)("<div><div><div>"),

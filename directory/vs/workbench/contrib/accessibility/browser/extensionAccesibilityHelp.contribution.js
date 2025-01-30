@@ -11,7 +11,16 @@ import '../../../services/views/common/viewsService.js';
 define(
 			de[3803],
 			he([1, 0, 3, 178, 412, 39, 30, 100, 60, 89]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*accessibleView*/,
+ w /*accessibleViewRegistry*/,
+ E /*keybinding*/,
+ C /*platform*/,
+ d /*contextkeys*/,
+ m /*views*/,
+ r /*viewsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$K2c = void 0);

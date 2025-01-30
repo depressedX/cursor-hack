@@ -4,7 +4,12 @@ import '../../../../nls.js';
 import '../../../../base/common/objects.js';
 import './problemMatcher.js';
 import './jsonSchemaCommon.js';
-define(de[3326], he([1, 0, 4, 82, 570, 1813]), function (ce, e, t, i, w, E) {
+define(de[3326], he([1, 0, 4, 82, 570, 1813]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*objects*/,
+ w /*problemMatcher*/,
+ E /*jsonSchemaCommon*/) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),
 			(t = mt(t)),

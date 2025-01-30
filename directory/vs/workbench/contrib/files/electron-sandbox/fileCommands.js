@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/async.js';
 import '../../../../base/common/network.js';
-define(de[3063], he([1, 0, 15, 23]), function (ce, e, t, i) {
+define(de[3063], he([1, 0, 15, 23]), function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*network*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Ufd = w);
 			function w(E, C, d) {

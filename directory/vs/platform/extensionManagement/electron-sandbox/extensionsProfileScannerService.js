@@ -12,7 +12,17 @@ import '../../instantiation/common/extensions.js';
 define(
 			de[2891],
 			he([1, 0, 34, 129, 68, 32, 1214, 22, 113, 9, 20]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*log*/,
+ i /*userDataProfile*/,
+ w /*uriIdentity*/,
+ E /*telemetry*/,
+ C /*extensionsProfileScannerService*/,
+ d /*files*/,
+ m /*environment*/,
+ r /*uri*/,
+ u /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Xbd = void 0);

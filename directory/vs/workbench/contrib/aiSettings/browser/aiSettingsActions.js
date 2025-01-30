@@ -12,7 +12,17 @@ import '../../../services/aiSettings/browser/aiSettingsService.js';
 define(
 			de[1998],
 			he([1, 0, 58, 27, 11, 31, 43, 679, 45, 1997, 315]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*constants*/,
+ i /*keyCodes*/,
+ w /*actions*/,
+ E /*commands*/,
+ C /*keybindingsRegistry*/,
+ d /*commandsQuickAccess*/,
+ m /*reactiveStorageService*/,
+ r /*aiSettings*/,
+ u /*aiSettingsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$UDc = void 0);

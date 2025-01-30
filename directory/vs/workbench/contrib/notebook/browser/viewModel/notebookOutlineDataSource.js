@@ -13,7 +13,18 @@ import './notebookOutlineEntryFactory.js';
 define(
 			de[3520],
 			he([1, 0, 6, 3, 19, 10, 90, 70, 190, 475, 204, 1301]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*resources*/,
+ E /*configuration*/,
+ C /*markers*/,
+ d /*notebookCommon*/,
+ m /*notebookExecutionStateService*/,
+ r /*outline*/,
+ u /*outlineModel*/,
+ a /*notebookOutlineEntryFactory*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$y4b = void 0);

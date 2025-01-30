@@ -10,7 +10,15 @@ import '../../../services/filesConfiguration/common/filesConfigurationService.js
 define(
 			de[3866],
 			he([1, 0, 4, 220, 3, 260, 227, 334, 170]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*files*/,
+ w /*lifecycle*/,
+ E /*activity*/,
+ C /*workingCopyService*/,
+ d /*workingCopy*/,
+ m /*filesConfigurationService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6Mc = void 0),

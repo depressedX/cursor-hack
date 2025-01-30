@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/strings.js';
 import '../../../base/common/platform.js';
 import '../../../base/common/buffer.js';
-define(de[462], he([1, 0, 37, 12, 76]), function (ce, e, t, i, w) {
+define(de[462], he([1, 0, 37, 12, 76]), function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*platform*/,
+ w /*buffer*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$KL = void 0),

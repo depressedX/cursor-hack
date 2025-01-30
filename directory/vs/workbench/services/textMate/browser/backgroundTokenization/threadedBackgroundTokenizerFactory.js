@@ -17,7 +17,22 @@ import '../../../../../base/browser/defaultWorkerFactory.js';
 define(
 			de[3662],
 			he([1, 0, 455, 3, 23, 12, 9, 61, 10, 113, 546, 40, 32, 3661, 3660, 540]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*amd*/,
+ i /*lifecycle*/,
+ w /*network*/,
+ E /*platform*/,
+ C /*uri*/,
+ d /*language*/,
+ m /*configuration*/,
+ r /*environment*/,
+ u /*extensionResourceLoader*/,
+ a /*notification*/,
+ h /*telemetry*/,
+ c /*textMateWorkerHost*/,
+ n /*textMateWorkerTokenizerController*/,
+ g /*defaultWorkerFactory*/) {
 				"use strict";
 				var p;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

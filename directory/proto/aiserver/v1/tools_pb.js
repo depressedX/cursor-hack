@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../../../external/bufbuild/protobuf.js';
 import './utils_pb.js';
 import './repository_pb.js';
-define(de[124], he([1, 0, 86, 83, 272]), function (ce, e, t, i, w) {
+define(de[124], he([1, 0, 86, 83, 272]), function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*utils_pb*/,
+ w /*repository_pb*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Vz =

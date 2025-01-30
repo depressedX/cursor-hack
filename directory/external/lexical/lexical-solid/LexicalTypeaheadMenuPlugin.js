@@ -10,7 +10,15 @@ import '../../../vs/base/browser/window.js';
 define(
 			de[756],
 			he([1, 0, 2, 181, 925, 164, 13, 7, 75]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*LexicalComposerContext*/,
+ w /*LexicalMenu*/,
+ E /*api*/,
+ C /*solid*/,
+ d /*dom*/,
+ m /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.MenuOption =

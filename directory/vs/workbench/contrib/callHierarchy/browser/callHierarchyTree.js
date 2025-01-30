@@ -12,7 +12,17 @@ import '../../../../base/common/themables.js';
 define(
 			de[3006],
 			he([1, 0, 978, 33, 132, 325, 74, 37, 17, 4, 26]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*callHierarchy*/,
+ i /*cancellation*/,
+ w /*filters*/,
+ E /*iconLabel*/,
+ C /*languages*/,
+ d /*strings*/,
+ m /*range*/,
+ r /*nls*/,
+ u /*themables*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$IYc =

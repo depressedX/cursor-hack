@@ -8,7 +8,13 @@ import '../../../services/userDataProfile/common/userDataProfile.js';
 define(
 			de[3778],
 			he([1, 0, 4, 99, 11, 129, 133]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actionCommonCategories*/,
+ w /*actions*/,
+ E /*userDataProfile*/,
+ C /*userDataProfile*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class d extends w.$3X {

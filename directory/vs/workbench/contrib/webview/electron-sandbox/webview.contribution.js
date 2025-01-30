@@ -8,7 +8,13 @@ import './webviewService.js';
 define(
 			de[3721],
 			he([1, 0, 11, 20, 355, 3213, 3720]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*extensions*/,
+ w /*webview*/,
+ E /*webviewCommands*/,
+ C /*webviewService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(E = mt(E)),

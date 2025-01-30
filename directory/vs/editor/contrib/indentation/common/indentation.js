@@ -10,7 +10,15 @@ import '../../../common/languages/supports/indentationLineProcessor.js';
 define(
 			de[2776],
 			he([1, 0, 37, 771, 188, 1146, 104, 171, 1151]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*shiftCommand*/,
+ w /*editOperation*/,
+ E /*indentation*/,
+ C /*selection*/,
+ d /*encodedTokenAttributes*/,
+ m /*indentationLineProcessor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$zic = r),

@@ -10,7 +10,15 @@ import '../../services/environment/browser/environmentService.js';
 define(
 			de[3365],
 			he([1, 0, 3, 101, 88, 34, 15, 783, 286]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*extHostCustomers*/,
+ w /*extHost.protocol*/,
+ E /*log*/,
+ C /*async*/,
+ d /*secrets*/,
+ m /*environmentService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Nqc = void 0);

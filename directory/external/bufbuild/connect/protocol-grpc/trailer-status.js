@@ -9,7 +9,14 @@ import './headers.js';
 define(
 			de[1411],
 			he([1, 0, 86, 2050, 213, 876, 202, 868]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*status_pb*/,
+ w /*connect-error*/,
+ E /*http-headers*/,
+ C /*code*/,
+ d /*headers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.grpcStatusOk = void 0),

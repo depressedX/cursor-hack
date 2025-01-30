@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './is.js';
 import './vendor/escapeStringForRegex.js';
-define(de[881], he([1, 0, 430, 2073]), function (ce, e, t, i) {
+define(de[881], he([1, 0, 430, 2073]), function (ce /*require*/,
+ e /*exports*/,
+ t /*is*/,
+ i /*escapeStringForRegex*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.escapeStringForRegex = void 0),

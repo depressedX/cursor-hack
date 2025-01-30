@@ -10,7 +10,15 @@ import './vendor/getIpAddress.js';
 define(
 			de[2083],
 			he([1, 0, 2068, 577, 430, 527, 882, 1427, 2075]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cookie*/,
+ i /*debug-build*/,
+ w /*is*/,
+ E /*logger*/,
+ C /*normalize*/,
+ d /*url*/,
+ m /*getIpAddress*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.DEFAULT_USER_INCLUDES = void 0),

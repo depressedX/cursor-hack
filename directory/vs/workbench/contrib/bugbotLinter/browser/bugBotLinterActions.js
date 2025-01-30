@@ -17,7 +17,22 @@ import './bugBotLinterPreviewBoxController.js';
 define(
 			de[4270],
 			he([1, 0, 11, 850, 58, 46, 46, 56, 8, 1051, 43, 27, 71, 27, 179, 1989]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*bugBotLinterService*/,
+ w /*constants*/,
+ E /*editorExtensions*/,
+ C /*editorExtensions*/,
+ d /*editorBrowser*/,
+ m /*contextkey*/,
+ r /*editorService*/,
+ u /*keybindingsRegistry*/,
+ a /*keyCodes*/,
+ h /*editorContextKeys*/,
+ c /*keyCodes*/,
+ n /*contextkeys*/,
+ g /*bugBotLinterPreviewBoxController*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$FAc = void 0),

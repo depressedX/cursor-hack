@@ -10,7 +10,15 @@ import '../../url/browser/trustedDomainService.js';
 define(
 			de[3277],
 			he([1, 0, 95, 3, 251, 61, 72, 41, 1292]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hoverDelegateFactory*/,
+ i /*lifecycle*/,
+ w /*markdownRenderer*/,
+ E /*language*/,
+ C /*hover*/,
+ d /*opener*/,
+ m /*trustedDomainService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$3Xb = void 0);

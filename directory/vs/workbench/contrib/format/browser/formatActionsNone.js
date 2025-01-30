@@ -16,7 +16,21 @@ import '../../../../editor/common/services/languageFeatures.js';
 define(
 			de[3528],
 			he([1, 0, 27, 46, 71, 4, 8, 43, 31, 40, 141, 57, 142, 60, 69]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*editorExtensions*/,
+ w /*editorContextKeys*/,
+ E /*nls*/,
+ C /*contextkey*/,
+ d /*keybindingsRegistry*/,
+ m /*commands*/,
+ r /*notification*/,
+ u /*extensions*/,
+ a /*dialogs*/,
+ h /*panecomposite*/,
+ c /*views*/,
+ n /*languageFeatures*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (E = mt(E));
 				async function g(p, o) {

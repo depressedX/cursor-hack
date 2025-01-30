@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './breadcrumbs.js';
 import './currentScopes.js';
 import './exports.js';
-define(de[2126], he([1, 0, 1442, 234, 734]), function (ce, e, t, i, w) {
+define(de[2126], he([1, 0, 1442, 234, 734]), function (ce /*require*/,
+ e /*exports*/,
+ t /*breadcrumbs*/,
+ i /*currentScopes*/,
+ w /*exports*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.getCurrentHub = void 0),

@@ -14,7 +14,19 @@ import '../../../../platform/theme/common/theme.js';
 define(
 			de[1891],
 			he([1, 0, 4, 28, 30, 81, 1321, 51, 778, 333, 10, 12, 212]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*types*/,
+ w /*platform*/,
+ E /*configurationRegistry*/,
+ C /*colorThemeSchema*/,
+ d /*colorRegistry*/,
+ m /*tokenClassificationRegistry*/,
+ r /*workbenchThemeService*/,
+ u /*configuration*/,
+ a /*platform*/,
+ h /*theme*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$8vc = e.$4vc = e.$2vc = void 0),

@@ -21,7 +21,24 @@ define(
 			he([
 				1, 0, 3, 4, 99, 11, 31, 10, 8, 30, 21, 55, 282, 70, 176, 360, 18, 52,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*nls*/,
+ w /*actionCommonCategories*/,
+ E /*actions*/,
+ C /*commands*/,
+ d /*configuration*/,
+ m /*contextkey*/,
+ r /*platform*/,
+ u /*storage*/,
+ a /*contributions*/,
+ h /*memento*/,
+ c /*notebookCommon*/,
+ n /*notebookContextKeys*/,
+ g /*notebookEditorInput*/,
+ p /*editorService*/,
+ o /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$XFc = void 0);

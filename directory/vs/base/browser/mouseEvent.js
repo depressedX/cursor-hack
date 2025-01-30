@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './browser.js';
 import './iframe.js';
 import '../common/platform.js';
-define(de[168], he([1, 0, 139, 1126, 12]), function (ce, e, t, i, w) {
+define(de[168], he([1, 0, 139, 1126, 12]), function (ce /*require*/,
+ e /*exports*/,
+ t /*browser*/,
+ i /*iframe*/,
+ w /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$4fb = e.$3fb = e.$2fb = void 0),

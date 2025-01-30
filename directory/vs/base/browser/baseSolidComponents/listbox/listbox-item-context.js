@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../../external/solid/solid.js';
-define(de[895], he([1, 0, 13]), function (ce, e, t) {
+define(de[895], he([1, 0, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$dnb = void 0),

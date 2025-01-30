@@ -10,7 +10,15 @@ import '../core/selection.js';
 define(
 			de[2761],
 			he([1, 0, 24, 214, 346, 2760, 48, 17, 104]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*arraysFind*/,
+ w /*cursorCommon*/,
+ E /*oneCursor*/,
+ C /*position*/,
+ d /*range*/,
+ m /*selection*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Vvb = void 0);

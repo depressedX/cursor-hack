@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './codicons.js';
-define(de[26], he([1, 0, 14]), function (ce, e, t) {
+define(de[26], he([1, 0, 14]), function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ThemeIcon = e.ThemeColor = void 0),

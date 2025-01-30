@@ -9,7 +9,14 @@ import '../../../../platform/theme/common/iconRegistry.js';
 define(
 			de[608],
 			he([1, 0, 14, 26, 122, 4, 51, 79]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*themables*/,
+ w /*textModel*/,
+ E /*nls*/,
+ C /*colorRegistry*/,
+ d /*iconRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Uxb =

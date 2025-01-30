@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import './serviceMachineId.js';
 import '../../telemetry/common/telemetry.js';
 import '../../telemetry/common/telemetryUtils.js';
-define(de[2899], he([1, 0, 678, 32, 269]), function (ce, e, t, i, w) {
+define(de[2899], he([1, 0, 678, 32, 269]), function (ce /*require*/,
+ e /*exports*/,
+ t /*serviceMachineId*/,
+ i /*telemetry*/,
+ w /*telemetryUtils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.resolveMarketplaceHeaders = E);

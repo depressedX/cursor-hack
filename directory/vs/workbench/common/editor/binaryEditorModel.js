@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import './editorModel.js';
 import '../../../platform/files/common/files.js';
 import '../../../base/common/mime.js';
-define(de[1225], he([1, 0, 416, 22, 266]), function (ce, e, t, i, w) {
+define(de[1225], he([1, 0, 416, 22, 266]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editorModel*/,
+ i /*files*/,
+ w /*mime*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$mec = void 0);
 			let E = class extends t.$PO {

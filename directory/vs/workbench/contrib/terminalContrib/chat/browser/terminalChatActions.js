@@ -15,7 +15,20 @@ import './terminalChatController.js';
 define(
 			de[4383],
 			he([1, 0, 14, 27, 4, 8, 43, 1061, 257, 107, 363, 237, 692, 867]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*keyCodes*/,
+ w /*nls*/,
+ E /*contextkey*/,
+ C /*keybindingsRegistry*/,
+ d /*inlineChatActions*/,
+ m /*inlineChat*/,
+ r /*terminal*/,
+ u /*terminalActions*/,
+ a /*terminalContextKey*/,
+ h /*terminalChat*/,
+ c /*terminalChatController*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, u.$HUc)({

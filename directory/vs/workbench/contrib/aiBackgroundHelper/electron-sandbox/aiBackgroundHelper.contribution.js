@@ -17,7 +17,22 @@ import '../../../../base/common/cppUtils/diff/line.js';
 define(
 			de[3982],
 			he([1, 0, 65, 118, 30, 55, 52, 110, 17, 315, 383, 42, 137, 3, 20, 901]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codeEditorService*/,
+ i /*aiService*/,
+ w /*platform*/,
+ E /*contributions*/,
+ C /*lifecycle*/,
+ d /*native*/,
+ m /*range*/,
+ r /*aiSettingsService*/,
+ u /*inlineDiffService*/,
+ a /*resolverService*/,
+ h /*aiMiscServices*/,
+ c /*lifecycle*/,
+ n /*extensions*/,
+ g /*line*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ted = e.$sed = void 0);

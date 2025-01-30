@@ -9,7 +9,14 @@ import '../core/core.js';
 define(
 			de[2668],
 			he([1, 0, 899, 1576, 2663, 1576, 1163, 899]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*core*/,
+ i /*platform*/,
+ w /*autoUpdate*/,
+ E /*platform*/,
+ C /*getOverflowAncestors*/,
+ d /*core*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.size =

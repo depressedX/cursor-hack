@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './code.js';
 import './protocol-connect/code-string.js';
-define(de[213], he([1, 0, 202, 1387]), function (ce, e, t, i) {
+define(de[213], he([1, 0, 202, 1387]), function (ce /*require*/,
+ e /*exports*/,
+ t /*code*/,
+ i /*code-string*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ConnectError = void 0);

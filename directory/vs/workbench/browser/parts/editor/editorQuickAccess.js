@@ -16,7 +16,20 @@ import '../../../../css!vs/workbench/browser/parts/editor/media/editorquickacces
 define(
 			de[1015],
 			he([1, 0, 4, 63, 392, 66, 44, 18, 67, 61, 252, 322, 14, 26, 2341]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*quickInput*/,
+ w /*pickerQuickAccess*/,
+ E /*editorGroupsService*/,
+ C /*editor*/,
+ d /*editorService*/,
+ m /*model*/,
+ r /*language*/,
+ u /*getIconClasses*/,
+ a /*fuzzyScorer*/,
+ h /*codicons*/,
+ c /*themables*/) {
 				"use strict";
 				var n, g, p;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

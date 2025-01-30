@@ -16,7 +16,20 @@ import '../../../../css!vs/base/browser/ui/actionbar/actionbar.js';
 define(
 			de[198],
 			he([1, 0, 139, 323, 7, 159, 95, 596, 50, 3, 12, 28, 4, 317, 1508]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*browser*/,
+ i /*dnd*/,
+ w /*dom*/,
+ E /*touch*/,
+ C /*hoverDelegateFactory*/,
+ d /*selectBox*/,
+ m /*actions*/,
+ r /*lifecycle*/,
+ u /*platform*/,
+ a /*types*/,
+ h /*nls*/,
+ c /*hoverDelegate2*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ajb = e.$_ib = e.$$ib = void 0),

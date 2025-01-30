@@ -13,7 +13,18 @@ import '../../../../base/browser/dom.js';
 define(
 			de[805],
 			he([1, 0, 187, 4, 54, 389, 1672, 19, 28, 24, 103, 7]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*json*/,
+ i /*nls*/,
+ w /*path*/,
+ E /*snippetParser*/,
+ C /*snippetVariables*/,
+ d /*resources*/,
+ m /*types*/,
+ r /*arrays*/,
+ u /*iterator*/,
+ a /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fYb = e.SnippetSource = e.$eYb = void 0);

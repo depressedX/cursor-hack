@@ -8,7 +8,13 @@ import '../../../base/common/keyCodes.js';
 define(
 			de[72],
 			he([1, 0, 5, 3, 10, 7, 27]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*lifecycle*/,
+ w /*configuration*/,
+ E /*dom*/,
+ C /*keyCodes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Wyb = e.$Vyb = e.$Uyb = void 0),

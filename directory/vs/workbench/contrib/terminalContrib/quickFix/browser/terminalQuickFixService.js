@@ -9,7 +9,14 @@ import '../../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[3332],
 			he([1, 0, 6, 3, 4, 34, 53, 175]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*nls*/,
+ E /*log*/,
+ C /*extensions*/,
+ d /*extensionsRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$OWc = void 0);

@@ -12,7 +12,17 @@ import '../../../../editor/contrib/cCppGhostText/common/cppGhostTextUtils.js';
 define(
 			de[2963],
 			he([1, 0, 148, 45, 1229, 25, 280, 134, 20, 5, 1153]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*aiserver_pb*/,
+ i /*reactiveStorageService*/,
+ w /*utils*/,
+ E /*workspace*/,
+ C /*aiEverythingProviderService*/,
+ d /*reactiveStorageTypes*/,
+ m /*extensions*/,
+ r /*instantiation*/,
+ u /*cppGhostTextUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$1ed = e.$Zed = void 0),

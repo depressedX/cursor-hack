@@ -22,7 +22,24 @@ define(
 				1, 0, 120, 29, 37, 655, 771, 1527, 346, 747, 17, 48, 532, 152, 38, 748,
 				1184, 1198,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*errors*/,
+ w /*strings*/,
+ E /*replaceCommand*/,
+ C /*shiftCommand*/,
+ d /*surroundSelectionCommand*/,
+ m /*cursorCommon*/,
+ r /*wordCharacterClassifier*/,
+ u /*range*/,
+ a /*position*/,
+ h /*languageConfiguration*/,
+ c /*languageConfigurationRegistry*/,
+ n /*editorOptions*/,
+ g /*supports*/,
+ p /*autoIndent*/,
+ o /*enterAction*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$7tb =

@@ -16,7 +16,21 @@ import './constants.js';
 define(
 			de[4132],
 			he([1, 0, 2, 2, 2, 2, 13, 14, 26, 41, 1272, 156, 36, 9, 972]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*codicons*/,
+ m /*themables*/,
+ r /*opener*/,
+ u /*aiPreviewSection*/,
+ a /*pureIcon*/,
+ h /*solid*/,
+ c /*uri*/,
+ n /*constants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$cZc = p);
 				const g = (0, t.template)(

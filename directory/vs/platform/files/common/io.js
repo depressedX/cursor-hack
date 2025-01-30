@@ -4,7 +4,12 @@ import '../../../base/common/buffer.js';
 import '../../../base/common/errors.js';
 import '../../../nls.js';
 import './files.js';
-define(de[2731], he([1, 0, 76, 29, 4, 22]), function (ce, e, t, i, w, E) {
+define(de[2731], he([1, 0, 76, 29, 4, 22]), function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*errors*/,
+ w /*nls*/,
+ E /*files*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$rr = C);
 			async function C(u, a, h, c, n, g) {

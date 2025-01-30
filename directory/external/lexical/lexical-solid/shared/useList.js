@@ -7,7 +7,12 @@ import '../../../solid/solid.js';
 define(
 			de[2611],
 			he([1, 0, 924, 304, 164, 13]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*api*/,
+ w /*api*/,
+ E /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.useList = C);
 				function C(d) {

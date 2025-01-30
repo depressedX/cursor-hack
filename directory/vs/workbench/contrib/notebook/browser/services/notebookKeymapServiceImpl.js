@@ -17,7 +17,22 @@ import '../../../../../base/common/arrays.js';
 define(
 			de[3433],
 			he([1, 0, 29, 6, 3, 4, 5, 40, 1829, 157, 52, 119, 154, 21, 282, 24]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*nls*/,
+ C /*instantiation*/,
+ d /*notification*/,
+ m /*extensionsUtils*/,
+ r /*extensionManagement*/,
+ u /*lifecycle*/,
+ a /*extensionManagement*/,
+ h /*extensionManagementUtil*/,
+ c /*storage*/,
+ n /*memento*/,
+ g /*arrays*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$PGc = void 0),

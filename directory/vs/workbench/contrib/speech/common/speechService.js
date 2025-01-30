@@ -4,7 +4,12 @@ import '../../../../nls.js';
 import '../../../../platform/contextkey/common/contextkey.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../base/common/platform.js';
-define(de[511], he([1, 0, 4, 8, 5, 12]), function (ce, e, t, i, w, E) {
+define(de[511], he([1, 0, 4, 8, 5, 12]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*contextkey*/,
+ w /*instantiation*/,
+ E /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$17 =

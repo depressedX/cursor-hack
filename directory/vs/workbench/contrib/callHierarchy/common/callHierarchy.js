@@ -14,7 +14,19 @@ import '../../../../editor/common/services/resolverService.js';
 define(
 			de[978],
 			he([1, 0, 33, 945, 9, 48, 24, 29, 3, 31, 28, 67, 42]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*languageFeatureRegistry*/,
+ w /*uri*/,
+ E /*position*/,
+ C /*arrays*/,
+ d /*errors*/,
+ m /*lifecycle*/,
+ r /*commands*/,
+ u /*types*/,
+ a /*model*/,
+ h /*resolverService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$P1 = e.$O1 = e.CallHierarchyDirection = void 0);

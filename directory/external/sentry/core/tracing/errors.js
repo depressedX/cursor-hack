@@ -7,7 +7,12 @@ import './spanstatus.js';
 define(
 			de[1445],
 			he([1, 0, 80, 263, 301, 636]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*debug-build*/,
+ w /*spanUtils*/,
+ E /*spanstatus*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e._resetErrorsInstrumented = d),

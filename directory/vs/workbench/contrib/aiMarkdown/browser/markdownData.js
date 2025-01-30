@@ -10,7 +10,13 @@ import '../../../../css!vs/workbench/contrib/aiMarkdown/browser/markdown.js';
 define(
 			de[236],
 			he([1, 0, 2, 920, 432, 14, 79, 1519, 1520]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*dompurify*/,
+ w /*trustedTypes*/,
+ E /*codicons*/,
+ C /*iconRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$80b =

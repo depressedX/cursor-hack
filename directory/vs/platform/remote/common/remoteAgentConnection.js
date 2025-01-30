@@ -15,7 +15,20 @@ import './remoteAuthorityResolver.js';
 define(
 			de[604],
 			he([1, 0, 15, 76, 33, 29, 6, 3, 23, 240, 162, 47, 760, 211]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*buffer*/,
+ w /*cancellation*/,
+ E /*errors*/,
+ C /*event*/,
+ d /*lifecycle*/,
+ m /*network*/,
+ r /*performance*/,
+ u /*stopwatch*/,
+ a /*uuid*/,
+ h /*ipc.net*/,
+ c /*remoteAuthorityResolver*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jm =

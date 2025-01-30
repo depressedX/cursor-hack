@@ -7,7 +7,12 @@ import './private/field-normalize.js';
 define(
 			de[406],
 			he([1, 0, 1400, 1396, 526, 1397]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*proto-runtime*/,
+ i /*field-list*/,
+ w /*scalars*/,
+ E /*field-normalize*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.proto3 = void 0),

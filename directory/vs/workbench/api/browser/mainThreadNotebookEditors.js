@@ -14,7 +14,19 @@ import '../common/extHost.protocol.js';
 define(
 			de[3483],
 			he([1, 0, 3, 82, 9, 10, 116, 108, 293, 446, 66, 18, 88]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*objects*/,
+ w /*uri*/,
+ E /*configuration*/,
+ C /*editor*/,
+ d /*notebookBrowser*/,
+ m /*notebookEditorService*/,
+ r /*editorGroupColumn*/,
+ u /*editorGroupsService*/,
+ a /*editorService*/,
+ h /*extHost.protocol*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Fpc = void 0);

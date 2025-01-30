@@ -16,7 +16,20 @@ import '../../../../../css!vs/workbench/contrib/composer/browser/components/Comp
 define(
 			de[565],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 311, 169, 160, 2410]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*codicons*/,
+ u /*themables*/,
+ a /*useComposerHoverTooltip*/,
+ h /*constants*/,
+ c /*hoverWidget*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerGeneralStatusIndicator = o);

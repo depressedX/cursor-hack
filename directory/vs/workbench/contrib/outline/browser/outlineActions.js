@@ -9,7 +9,14 @@ import './outline.js';
 define(
 			de[3833],
 			he([1, 0, 4, 14, 11, 146, 8, 802]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*codicons*/,
+ w /*actions*/,
+ E /*viewPane*/,
+ C /*contextkey*/,
+ d /*outline*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, w.$4X)(

@@ -12,7 +12,17 @@ import '../../../../platform/storage/common/storage.js';
 define(
 			de[1673],
 			he([1, 0, 15, 3, 59, 387, 74, 10, 20, 5, 21]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*map*/,
+ E /*ternarySearchTree*/,
+ C /*languages*/,
+ d /*configuration*/,
+ m /*extensions*/,
+ r /*instantiation*/,
+ u /*storage*/) {
 				"use strict";
 				var a;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

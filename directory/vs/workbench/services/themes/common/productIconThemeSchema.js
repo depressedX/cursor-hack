@@ -4,7 +4,12 @@ import '../../../../nls.js';
 import '../../../../platform/registry/common/platform.js';
 import '../../../../platform/jsonschemas/common/jsonContributionRegistry.js';
 import '../../../../platform/theme/common/iconRegistry.js';
-define(de[1322], he([1, 0, 4, 30, 250, 79]), function (ce, e, t, i, w, E) {
+define(de[1322], he([1, 0, 4, 30, 250, 79]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*platform*/,
+ w /*jsonContributionRegistry*/,
+ E /*iconRegistry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$bwc = e.$awc = e.$_vc = e.$$vc = e.$0vc = void 0),

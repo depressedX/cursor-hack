@@ -13,7 +13,18 @@ import '../arrayOperation.js';
 define(
 			de[3660],
 			he([1, 0, 536, 3, 77, 531, 196, 17, 1590, 1152, 326, 3659]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*amdX*/,
+ i /*lifecycle*/,
+ w /*observable*/,
+ E /*eolCounter*/,
+ C /*lineRange*/,
+ d /*range*/,
+ m /*textModelTokens*/,
+ r /*contiguousMultilineTokensBuilder*/,
+ u /*platformObservableUtils*/,
+ a /*arrayOperation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Hyc = void 0);

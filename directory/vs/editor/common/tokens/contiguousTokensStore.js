@@ -8,7 +8,13 @@ import '../encodedTokenAttributes.js';
 define(
 			de[2574],
 			he([1, 0, 24, 48, 1544, 388, 171]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*position*/,
+ w /*contiguousTokensEditing*/,
+ E /*lineTokens*/,
+ C /*encodedTokenAttributes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pV = void 0),

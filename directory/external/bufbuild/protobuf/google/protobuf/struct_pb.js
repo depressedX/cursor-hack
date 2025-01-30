@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../proto3.js';
 import '../../message.js';
-define(de[1404], he([1, 0, 406, 339]), function (ce, e, t, i) {
+define(de[1404], he([1, 0, 406, 339]), function (ce /*require*/,
+ e /*exports*/,
+ t /*proto3*/,
+ i /*message*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ListValue = e.Value = e.Struct = e.NullValue = void 0);

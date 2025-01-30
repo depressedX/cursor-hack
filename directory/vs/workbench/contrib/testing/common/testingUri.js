@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/assert.js';
 import '../../../../base/common/uri.js';
-define(de[813], he([1, 0, 229, 9]), function (ce, e, t, i) {
+define(de[813], he([1, 0, 229, 9]), function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*uri*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$3Kc = e.$2Kc = e.TestUriType = e.$1Kc = void 0),

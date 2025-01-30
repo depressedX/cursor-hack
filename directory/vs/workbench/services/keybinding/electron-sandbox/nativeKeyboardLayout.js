@@ -15,7 +15,20 @@ import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[3395],
 			he([1, 0, 3, 1188, 6, 12, 2737, 1825, 3392, 3394, 2780, 10, 1826, 20]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*keyboardLayout*/,
+ w /*event*/,
+ E /*platform*/,
+ C /*keyboardMapper*/,
+ d /*windowsKeyboardMapper*/,
+ m /*fallbackKeyboardMapper*/,
+ r /*macLinuxKeyboardMapper*/,
+ u /*keyboardConfig*/,
+ a /*configuration*/,
+ h /*nativeKeyboardLayoutService*/,
+ c /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Gdd = void 0);

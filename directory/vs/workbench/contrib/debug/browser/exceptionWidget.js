@@ -18,7 +18,22 @@ import '../../../../css!vs/workbench/contrib/debug/browser/media/exceptionWidget
 define(
 			de[3579],
 			he([1, 0, 4, 7, 680, 112, 15, 35, 26, 51, 5, 709, 38, 105, 50, 79, 2432]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*dom*/,
+ w /*zoneWidget*/,
+ E /*debug*/,
+ C /*async*/,
+ d /*themeService*/,
+ m /*themables*/,
+ r /*colorRegistry*/,
+ u /*instantiation*/,
+ a /*linkDetector*/,
+ h /*editorOptions*/,
+ c /*actionbar*/,
+ n /*actions*/,
+ g /*iconRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$FQc = void 0),

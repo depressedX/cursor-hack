@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './message.js';
-define(de[524], he([1, 0, 339]), function (ce, e, t) {
+define(de[524], he([1, 0, 339]), function (ce /*require*/,
+ e /*exports*/,
+ t /*message*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.isMessage = i);
 			function i(w, E) {

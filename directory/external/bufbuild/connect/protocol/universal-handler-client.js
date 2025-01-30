@@ -7,7 +7,12 @@ import './signals.js';
 define(
 			de[2026],
 			he([1, 0, 202, 213, 575, 1082]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*code*/,
+ i /*connect-error*/,
+ w /*async-iterable*/,
+ E /*signals*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createUniversalHandlerClient = C);

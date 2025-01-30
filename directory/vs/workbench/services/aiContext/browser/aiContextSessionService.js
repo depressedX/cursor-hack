@@ -15,7 +15,20 @@ import '../../ai/browser/utils.js';
 define(
 			de[3996],
 			he([1, 0, 5, 20, 3, 45, 47, 3995, 13, 471, 3236, 193, 529, 191]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*extensions*/,
+ w /*lifecycle*/,
+ E /*reactiveStorageService*/,
+ C /*uuid*/,
+ d /*contextHandlerRegistry*/,
+ m /*solid*/,
+ r /*aiContext*/,
+ u /*contextHandler*/,
+ a /*store*/,
+ h /*result*/,
+ c /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let n = !0;

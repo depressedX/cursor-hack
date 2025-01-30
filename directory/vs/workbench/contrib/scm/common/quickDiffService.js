@@ -8,7 +8,13 @@ import '../../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[3129],
 			he([1, 0, 3, 19, 933, 6, 68]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*resources*/,
+ w /*languageSelector*/,
+ E /*event*/,
+ C /*uriIdentity*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gQc = void 0);

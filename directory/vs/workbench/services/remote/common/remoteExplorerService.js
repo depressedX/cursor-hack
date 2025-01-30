@@ -11,7 +11,16 @@ import '../../extensions/common/extensionsRegistry.js';
 define(
 			de[519],
 			he([1, 0, 4, 6, 5, 20, 21, 374, 839, 175]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*event*/,
+ w /*instantiation*/,
+ E /*extensions*/,
+ C /*storage*/,
+ d /*tunnel*/,
+ m /*tunnelModel*/,
+ r /*extensionsRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.TunnelEditId =

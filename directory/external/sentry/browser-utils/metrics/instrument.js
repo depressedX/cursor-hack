@@ -11,7 +11,16 @@ import './web-vitals/onTTFB.js';
 define(
 			de[885],
 			he([1, 0, 80, 878, 2098, 2094, 2095, 2096, 576, 2099]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*debug-build*/,
+ w /*getCLS*/,
+ E /*getFID*/,
+ C /*getINP*/,
+ d /*getLCP*/,
+ m /*observe*/,
+ r /*onTTFB*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.addClsInstrumentationHandler = o),

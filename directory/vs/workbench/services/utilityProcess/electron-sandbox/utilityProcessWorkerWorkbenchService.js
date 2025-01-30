@@ -13,7 +13,18 @@ import '../../../../base/common/async.js';
 define(
 			de[1904],
 			he([1, 0, 34, 3, 371, 1173, 5, 305, 47, 904, 2887, 15]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*log*/,
+ i /*lifecycle*/,
+ w /*mainProcessService*/,
+ E /*ipc.mp*/,
+ C /*instantiation*/,
+ d /*ipc*/,
+ m /*uuid*/,
+ r /*ipc.mp*/,
+ u /*utilityProcessWorkerService*/,
+ a /*async*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$xcd = e.$wcd = void 0),

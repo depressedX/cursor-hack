@@ -3,7 +3,11 @@ import '../../../../../../../exports.js';
 import '../../../../../../../external/solid/solid.js';
 import '../../../../../../../external/solid/web.js';
 import './types.js';
-define(de[302], he([1, 0, 13, 2, 2187]), function (ce, e, t, i, w) {
+define(de[302], he([1, 0, 13, 2, 2187]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*web*/,
+ w /*types*/) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),
 			(e.$mkb =

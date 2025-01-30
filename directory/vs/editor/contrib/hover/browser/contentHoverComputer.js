@@ -7,7 +7,12 @@ import '../../../../base/common/async.js';
 define(
 			de[2725],
 			he([1, 0, 24, 601, 368, 15]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*hoverOperation*/,
+ w /*hoverTypes*/,
+ E /*async*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$VDb = void 0);

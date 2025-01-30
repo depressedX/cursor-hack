@@ -13,7 +13,16 @@ import './terminalStickyScrollColorRegistry.js';
 define(
 			de[4386],
 			he([1, 0, 4, 11, 10, 8, 363, 378, 2004, 808, 1144, 1767]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*configuration*/,
+ E /*contextkey*/,
+ C /*terminalActions*/,
+ d /*terminalExtensions*/,
+ m /*terminalStickyScrollContribution*/,
+ r /*terminalStickyScrollConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, d.$qLc)(m.$2Vc.ID, m.$2Vc, !0);

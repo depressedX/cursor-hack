@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../instantiation/common/instantiation.js';
 import '../../../base/common/lifecycle.js';
-define(de[178], he([1, 0, 5, 3]), function (ce, e, t, i) {
+define(de[178], he([1, 0, 5, 3]), function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*lifecycle*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$JLb =

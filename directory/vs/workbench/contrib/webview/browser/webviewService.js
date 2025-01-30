@@ -9,7 +9,14 @@ import './overlayWebview.js';
 define(
 			de[3719],
 			he([1, 0, 6, 3, 5, 3718, 1805, 3406]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*instantiation*/,
+ E /*themeing*/,
+ C /*webviewElement*/,
+ d /*overlayWebview*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$h6c = void 0);

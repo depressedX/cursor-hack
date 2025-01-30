@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../../proto/aiserver/v1/symbolic_context_pb.js';
 import '../../../../base/common/uuid.js';
 import './utils.js';
-define(de[3232], he([1, 0, 643, 47, 191]), function (ce, e, t, i, w) {
+define(de[3232], he([1, 0, 643, 47, 191]), function (ce /*require*/,
+ e /*exports*/,
+ t /*symbolic_context_pb*/,
+ i /*uuid*/,
+ w /*utils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 });
 			class E {

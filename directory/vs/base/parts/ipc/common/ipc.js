@@ -14,7 +14,19 @@ import '../../../common/types.js';
 define(
 			de[305],
 			he([1, 0, 24, 15, 76, 33, 138, 29, 6, 3, 197, 37, 28]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*async*/,
+ w /*buffer*/,
+ E /*cancellation*/,
+ C /*decorators*/,
+ d /*errors*/,
+ m /*event*/,
+ r /*lifecycle*/,
+ u /*marshalling*/,
+ a /*strings*/,
+ h /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vi =

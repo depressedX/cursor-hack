@@ -10,7 +10,15 @@ import '../../../../../platform/terminal/common/terminal.js';
 define(
 			de[3153],
 			he([1, 0, 138, 6, 3, 91, 10, 189, 117]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*decorators*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*accessibility*/,
+ C /*configuration*/,
+ d /*capabilities*/,
+ m /*terminal*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$MVc = void 0);

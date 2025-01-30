@@ -8,7 +8,13 @@ import '../../../common/core/selection.js';
 define(
 			de[1548],
 			he([1, 0, 120, 188, 48, 17, 104]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*editOperation*/,
+ w /*position*/,
+ E /*range*/,
+ C /*selection*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Bhc = void 0);

@@ -8,7 +8,13 @@ import './node.js';
 define(
 			de[2661],
 			he([1, 0, 662, 1162, 537, 324, 594]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getComputedStyle*/,
+ i /*getParentNode*/,
+ w /*getWindow*/,
+ E /*is*/,
+ C /*node*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Jmb = r);
 				function d(u, a) {

@@ -10,7 +10,15 @@ import '../../common/notebookCommon.js';
 define(
 			de[1847],
 			he([1, 0, 6, 3, 23, 800, 706, 556, 70]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*network*/,
+ E /*multiDiffSourceResolverService*/,
+ C /*diffElementViewModel*/,
+ d /*notebookDiffEditorBrowser*/,
+ m /*notebookCommon*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ZEc = e.$XEc = void 0),

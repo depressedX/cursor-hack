@@ -15,7 +15,20 @@ import './codeActionModel.js';
 define(
 			de[2907],
 			he([1, 0, 318, 27, 37, 46, 71, 393, 4, 8, 43, 291, 500, 1642]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hierarchicalKind*/,
+ i /*keyCodes*/,
+ w /*strings*/,
+ E /*editorExtensions*/,
+ C /*editorContextKeys*/,
+ d /*codeAction*/,
+ m /*nls*/,
+ r /*contextkey*/,
+ u /*keybindingsRegistry*/,
+ a /*types*/,
+ h /*codeActionController*/,
+ c /*codeActionModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$IBb =

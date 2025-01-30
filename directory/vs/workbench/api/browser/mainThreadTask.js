@@ -16,7 +16,21 @@ import '../../../base/common/errors.js';
 define(
 			de[3369],
 			he([1, 0, 4, 9, 47, 28, 12, 3, 25, 424, 419, 101, 88, 358, 29]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*uri*/,
+ w /*uuid*/,
+ E /*types*/,
+ C /*platform*/,
+ d /*lifecycle*/,
+ m /*workspace*/,
+ r /*tasks*/,
+ u /*taskService*/,
+ a /*extHostCustomers*/,
+ h /*extHost.protocol*/,
+ c /*configurationResolver*/,
+ n /*errors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$1pc = void 0),

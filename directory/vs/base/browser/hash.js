@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import '../common/buffer.js';
 import '../common/hash.js';
-define(de[530], he([1, 0, 76, 136]), function (ce, e, t, i) {
+define(de[530], he([1, 0, 76, 136]), function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*hash*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$ojb = w),

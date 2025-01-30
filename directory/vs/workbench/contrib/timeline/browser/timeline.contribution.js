@@ -23,7 +23,25 @@ define(
 				1, 0, 4, 102, 20, 30, 60, 864, 814, 3847, 3884, 81, 8, 11, 31, 220, 100,
 				14, 79,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*descriptors*/,
+ w /*extensions*/,
+ E /*platform*/,
+ C /*views*/,
+ d /*explorerViewlet*/,
+ m /*timeline*/,
+ r /*timelineService*/,
+ u /*timelinePane*/,
+ a /*configurationRegistry*/,
+ h /*contextkey*/,
+ c /*actions*/,
+ n /*commands*/,
+ g /*files*/,
+ p /*contextkeys*/,
+ o /*codicons*/,
+ f /*iconRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_1c = void 0);

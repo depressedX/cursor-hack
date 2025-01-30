@@ -15,7 +15,20 @@ import '../../../../editor/common/editorContextKeys.js';
 define(
 			de[4108],
 			he([1, 0, 4, 348, 30, 2782, 3836, 4107, 11, 27, 8, 473, 43, 71]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*quickAccess*/,
+ w /*platform*/,
+ E /*helpQuickAccess*/,
+ C /*viewQuickAccess*/,
+ d /*commandsQuickAccess*/,
+ m /*actions*/,
+ r /*keyCodes*/,
+ u /*contextkey*/,
+ a /*quickaccess*/,
+ h /*keybindingsRegistry*/,
+ c /*editorContextKeys*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const n = w.$Io.as(i.$1r.Quickaccess);

@@ -8,7 +8,13 @@ import '../../../../base/common/strings.js';
 define(
 			de[1808],
 			he([1, 0, 109, 2786, 6, 24, 37]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*extensionManagementIpc*/,
+ w /*event*/,
+ E /*arrays*/,
+ C /*strings*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$b5c = void 0);

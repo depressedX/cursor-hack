@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/buffer.js';
 import './stringBuilder.js';
-define(de[1589], he([1, 0, 76, 462]), function (ce, e, t, i) {
+define(de[1589], he([1, 0, 76, 462]), function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*stringBuilder*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$LL = void 0),

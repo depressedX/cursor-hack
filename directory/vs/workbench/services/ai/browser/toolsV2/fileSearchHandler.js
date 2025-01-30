@@ -16,7 +16,21 @@ import '../../../../contrib/aiFeatureStatusService/browser/aiFeatureStatusServic
 define(
 			de[4361],
 			he([1, 0, 124, 33, 3, 22, 5, 25, 721, 819, 819, 398, 186, 54, 287]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*cancellation*/,
+ w /*lifecycle*/,
+ E /*files*/,
+ C /*instantiation*/,
+ d /*workspace*/,
+ m /*anythingQuickAccess*/,
+ r /*utils*/,
+ u /*utils*/,
+ a /*toolsV2HandlerRegistryService*/,
+ h /*search*/,
+ c /*path*/,
+ n /*aiFeatureStatusService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$9yc = void 0);

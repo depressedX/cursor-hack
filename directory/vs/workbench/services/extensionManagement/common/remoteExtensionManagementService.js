@@ -8,7 +8,13 @@ import '../../../../platform/userDataProfile/common/userDataProfile.js';
 define(
 			de[3789],
 			he([1, 0, 68, 1044, 1808, 133, 129]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uriIdentity*/,
+ i /*remoteUserDataProfiles*/,
+ w /*extensionManagementChannelClient*/,
+ E /*userDataProfile*/,
+ C /*userDataProfile*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$c5c = void 0);

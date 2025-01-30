@@ -22,7 +22,24 @@ define(
 				1, 0, 33, 14, 3, 4, 959, 119, 154, 109, 5, 128, 34, 21, 129, 681, 60,
 				133,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*codicons*/,
+ w /*lifecycle*/,
+ E /*nls*/,
+ C /*extensionEnablementService*/,
+ d /*extensionManagement*/,
+ m /*extensionManagementUtil*/,
+ r /*extensions*/,
+ u /*instantiation*/,
+ a /*serviceCollection*/,
+ h /*log*/,
+ c /*storage*/,
+ n /*userDataProfile*/,
+ g /*userDataProfileStorageService*/,
+ p /*views*/,
+ o /*userDataProfile*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$exc = e.$dxc = e.$cxc = e.$bxc = e.$axc = void 0);

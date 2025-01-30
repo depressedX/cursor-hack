@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../base/common/platform.js';
 import '../../../../services/environment/common/environmentService.js';
-define(de[3282], he([1, 0, 12, 78]), function (ce, e, t, i) {
+define(de[3282], he([1, 0, 12, 78]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*environmentService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.default = w),

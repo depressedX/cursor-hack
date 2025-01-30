@@ -14,7 +14,19 @@ import '../../../../base/common/lifecycle.js';
 define(
 			de[4392],
 			he([1, 0, 4, 23, 157, 143, 230, 20, 4391, 73, 5, 3781, 3]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*network*/,
+ w /*extensionManagement*/,
+ E /*remoteAgentService*/,
+ C /*services*/,
+ d /*extensions*/,
+ m /*remoteExtensionManagementService*/,
+ r /*label*/,
+ u /*instantiation*/,
+ a /*nativeExtensionManagementService*/,
+ h /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Sdd = void 0);

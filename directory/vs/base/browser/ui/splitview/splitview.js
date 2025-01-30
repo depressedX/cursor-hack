@@ -16,7 +16,20 @@ import '../../../../css!vs/base/browser/ui/splitview/splitview.js';
 define(
 			de[279],
 			he([1, 0, 7, 265, 277, 203, 24, 97, 6, 3, 201, 195, 28, 277, 2255]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*sash*/,
+ E /*scrollableElement*/,
+ C /*arrays*/,
+ d /*color*/,
+ m /*event*/,
+ r /*lifecycle*/,
+ u /*numbers*/,
+ a /*scrollable*/,
+ h /*types*/,
+ c /*sash*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vob = e.Sizing = e.LayoutPriority = e.Orientation = void 0),

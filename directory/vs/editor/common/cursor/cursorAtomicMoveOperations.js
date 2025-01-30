@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/charCode.js';
 import '../core/cursorColumns.js';
-define(de[1528], he([1, 0, 120, 435]), function (ce, e, t, i) {
+define(de[1528], he([1, 0, 120, 435]), function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*cursorColumns*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Btb = e.Direction = void 0);

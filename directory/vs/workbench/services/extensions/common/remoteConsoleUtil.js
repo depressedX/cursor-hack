@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/console.js';
-define(de[3377], he([1, 0, 1560]), function (ce, e, t) {
+define(de[3377], he([1, 0, 1560]), function (ce /*require*/,
+ e /*exports*/,
+ t /*console*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Smc = i),

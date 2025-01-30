@@ -7,7 +7,12 @@ import '../../../../../platform/reactivestorage/browser/reactiveStorageService.j
 define(
 			de[3993],
 			he([1, 0, 1281, 42, 118, 45]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lspSubgraphService*/,
+ i /*resolverService*/,
+ w /*aiService*/,
+ E /*reactiveStorageService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$SZc = void 0);

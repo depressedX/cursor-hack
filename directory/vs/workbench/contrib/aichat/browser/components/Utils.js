@@ -19,7 +19,24 @@ import '../../../../services/ai/browser/utils.js';
 define(
 			de[242],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 36, 14, 285, 1107, 894, 147, 58, 191]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*solid*/,
+ u /*solid*/,
+ a /*codicons*/,
+ h /*backendClient*/,
+ c /*dashboard_connectweb*/,
+ n /*dashboard_pb*/,
+ g /*simpleButton*/,
+ p /*constants*/,
+ o /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$C$b = void 0),

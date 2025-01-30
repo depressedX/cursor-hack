@@ -8,7 +8,13 @@ import './pieceTreeTextBuffer.js';
 define(
 			de[1195],
 			he([1, 0, 120, 37, 64, 1628, 1194]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*strings*/,
+ w /*model*/,
+ E /*pieceTreeBase*/,
+ C /*pieceTreeTextBuffer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0U = void 0),

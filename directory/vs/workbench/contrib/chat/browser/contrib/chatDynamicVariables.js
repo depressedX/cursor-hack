@@ -18,7 +18,23 @@ import '../../common/chatVariables.js';
 define(
 			de[1060],
 			he([1, 0, 24, 94, 3, 19, 9, 17, 42, 4, 11, 31, 73, 34, 63, 481, 503]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*htmlContent*/,
+ w /*lifecycle*/,
+ E /*resources*/,
+ C /*uri*/,
+ d /*range*/,
+ m /*resolverService*/,
+ r /*nls*/,
+ u /*actions*/,
+ a /*commands*/,
+ h /*label*/,
+ c /*log*/,
+ n /*quickInput*/,
+ g /*chatWidget*/,
+ p /*chatVariables*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

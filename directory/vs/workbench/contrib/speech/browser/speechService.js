@@ -17,7 +17,22 @@ import '../../../services/extensions/common/extensions.js';
 define(
 			de[3389],
 			he([1, 0, 4, 24, 33, 6, 3, 8, 34, 87, 15, 511, 32, 10, 175, 53]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*arrays*/,
+ w /*cancellation*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*contextkey*/,
+ m /*log*/,
+ r /*host*/,
+ u /*async*/,
+ a /*speechService*/,
+ h /*telemetry*/,
+ c /*configuration*/,
+ n /*extensionsRegistry*/,
+ g /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$uIc = void 0);

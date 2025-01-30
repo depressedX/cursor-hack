@@ -13,7 +13,18 @@ import '../../../../base/browser/window.js';
 define(
 		de[806],
 		he([1, 0, 14, 6, 3, 111, 10, 117, 51, 79, 26, 75]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*severity*/,
+ C /*configuration*/,
+ d /*terminal*/,
+ m /*colorRegistry*/,
+ r /*iconRegistry*/,
+ u /*themables*/,
+ a /*window*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$fHb = e.TerminalStatus = void 0),

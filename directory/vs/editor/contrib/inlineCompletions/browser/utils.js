@@ -8,7 +8,13 @@ import '../../../common/core/range.js';
 define(
 			de[753],
 			he([1, 0, 29, 3, 77, 48, 17]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*lifecycle*/,
+ w /*observable*/,
+ E /*position*/,
+ C /*range*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$xCb = void 0),

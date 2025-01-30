@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/strings.js';
 import '../../../../base/common/charCode.js';
 import '../../../../base/common/search.js';
-define(de[3593], he([1, 0, 37, 120, 1507]), function (ce, e, t, i, w) {
+define(de[3593], he([1, 0, 37, 120, 1507]), function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*charCode*/,
+ w /*search*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$BNc = void 0),

@@ -21,7 +21,23 @@ define(
 				1, 0, 27, 8, 43, 510, 1898, 17, 46, 254, 373, 71, 1752, 38, 121, 439,
 				69,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*contextkey*/,
+ w /*keybindingsRegistry*/,
+ E /*snippets*/,
+ C /*snippetsService*/,
+ d /*range*/,
+ m /*editorExtensions*/,
+ r /*snippetController2*/,
+ u /*suggest*/,
+ a /*editorContextKeys*/,
+ h /*snippetCompletionProvider*/,
+ c /*editorOptions*/,
+ n /*clipboardService*/,
+ g /*editorState*/,
+ p /*languageFeatures*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

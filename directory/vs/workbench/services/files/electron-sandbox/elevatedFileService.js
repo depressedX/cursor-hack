@@ -15,7 +15,20 @@ import '../../../../nls.js';
 define(
 			de[3382],
 			he([1, 0, 249, 23, 9, 22, 20, 110, 174, 151, 700, 12, 73, 4]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extpath*/,
+ i /*network*/,
+ w /*uri*/,
+ E /*files*/,
+ C /*extensions*/,
+ d /*native*/,
+ m /*workspaceTrust*/,
+ r /*environmentService*/,
+ u /*elevatedFileService*/,
+ a /*platform*/,
+ h /*label*/,
+ c /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Zdd = void 0);

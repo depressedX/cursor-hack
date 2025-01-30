@@ -13,7 +13,18 @@ import './annotations.js';
 define(
 			de[3016],
 			he([1, 0, 3, 59, 23, 9, 17, 61, 64, 42, 283, 982]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*map*/,
+ w /*network*/,
+ E /*uri*/,
+ C /*range*/,
+ d /*language*/,
+ m /*model*/,
+ r /*resolverService*/,
+ u /*chatViewModel*/,
+ a /*annotations*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$9Tb = void 0);

@@ -9,7 +9,13 @@ import '../../../../css!vs/editor/browser/viewParts/overlayWidgets/overlayWidget
 define(
 			de[2716],
 			he([1, 0, 194, 56, 303, 38, 7, 2273]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*editorBrowser*/,
+ w /*viewPart*/,
+ E /*editorOptions*/,
+ C /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Fvb = void 0),

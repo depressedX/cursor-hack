@@ -18,7 +18,23 @@ import '../../scm/common/quickDiff.js';
 define(
 			de[1885],
 			he([1, 0, 24, 33, 46, 17, 71, 64, 200, 42, 674, 4, 8, 5, 84, 1884, 803]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*cancellation*/,
+ w /*editorExtensions*/,
+ E /*range*/,
+ C /*editorContextKeys*/,
+ d /*model*/,
+ m /*editorWorker*/,
+ r /*resolverService*/,
+ u /*format*/,
+ a /*nls*/,
+ h /*contextkey*/,
+ c /*instantiation*/,
+ n /*progress*/,
+ g /*dirtydiffDecorator*/,
+ p /*quickDiff*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$RXc = o),

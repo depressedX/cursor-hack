@@ -11,7 +11,16 @@ import '../../accessibility/browser/accessibilityConfiguration.js';
 define(
 			de[4083],
 			he([1, 0, 427, 257, 65, 8, 178, 94, 267, 130]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*inlineChatController*/,
+ i /*inlineChat*/,
+ w /*codeEditorService*/,
+ E /*contextkey*/,
+ C /*accessibleView*/,
+ d /*htmlContent*/,
+ m /*markdownRenderer*/,
+ r /*accessibilityConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$lJc = void 0);

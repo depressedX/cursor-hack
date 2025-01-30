@@ -12,7 +12,17 @@ import '../../../common/notebookCommon.js';
 define(
 			de[1030],
 			he([1, 0, 214, 15, 3, 17, 589, 10, 1844, 108, 70]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arraysFind*/,
+ i /*async*/,
+ w /*lifecycle*/,
+ E /*range*/,
+ C /*prefixSumComputer*/,
+ d /*configuration*/,
+ m /*findMatchDecorationModel*/,
+ r /*notebookBrowser*/,
+ u /*notebookCommon*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$p2b = e.$o2b = void 0);

@@ -4,7 +4,12 @@ import '../../../../base/browser/dom.js';
 import '../../../../base/browser/ui/hover/hoverWidget.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../../platform/keybinding/common/keybinding.js';
-define(de[1616], he([1, 0, 7, 160, 3, 39]), function (ce, e, t, i, w, E) {
+define(de[1616], he([1, 0, 7, 160, 3, 39]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*hoverWidget*/,
+ w /*lifecycle*/,
+ E /*keybinding*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$WDb = void 0),

@@ -4,7 +4,12 @@ import '../../../base/browser/ui/contextview/contextview.js';
 import '../../../base/common/lifecycle.js';
 import '../../layout/browser/layoutService.js';
 import '../../../base/browser/dom.js';
-define(de[1617], he([1, 0, 276, 3, 180, 7]), function (ce, e, t, i, w, E) {
+define(de[1617], he([1, 0, 276, 3, 180, 7]), function (ce /*require*/,
+ e /*exports*/,
+ t /*contextview*/,
+ i /*lifecycle*/,
+ w /*layoutService*/,
+ E /*dom*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$myc = e.$lyc = void 0);

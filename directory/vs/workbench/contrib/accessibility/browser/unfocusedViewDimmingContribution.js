@@ -9,7 +9,14 @@ import './accessibilityConfiguration.js';
 define(
 			de[3545],
 			he([1, 0, 7, 6, 3, 201, 10, 130]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*numbers*/,
+ C /*configuration*/,
+ d /*accessibilityConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$A2c = void 0);

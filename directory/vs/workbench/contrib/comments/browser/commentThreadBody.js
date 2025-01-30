@@ -15,7 +15,20 @@ import '../../../../editor/common/languages/language.js';
 define(
 			de[3764],
 			he([1, 0, 7, 4, 3, 74, 6, 447, 114, 27, 3763, 251, 41, 61]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*nls*/,
+ w /*lifecycle*/,
+ E /*languages*/,
+ C /*event*/,
+ d /*commentService*/,
+ m /*keyboardEvent*/,
+ r /*keyCodes*/,
+ u /*commentNode*/,
+ a /*markdownRenderer*/,
+ h /*opener*/,
+ c /*language*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$t3b = void 0),

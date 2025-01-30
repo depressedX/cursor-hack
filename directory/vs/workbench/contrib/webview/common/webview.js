@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/charCode.js';
 import '../../../../base/common/network.js';
 import '../../../../base/common/uri.js';
-define(de[1784], he([1, 0, 120, 23, 9]), function (ce, e, t, i, w) {
+define(de[1784], he([1, 0, 120, 23, 9]), function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*network*/,
+ w /*uri*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$U2b = e.$T2b = e.$S2b = void 0),

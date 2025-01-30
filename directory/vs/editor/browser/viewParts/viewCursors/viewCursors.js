@@ -14,7 +14,18 @@ import '../../../../css!vs/editor/browser/viewParts/viewCursors/viewCursors.js';
 define(
 			de[2851],
 			he([1, 0, 194, 15, 303, 2720, 38, 307, 35, 212, 248, 7, 2277]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*async*/,
+ w /*viewPart*/,
+ E /*viewCursor*/,
+ C /*editorOptions*/,
+ d /*editorColorRegistry*/,
+ m /*themeService*/,
+ r /*theme*/,
+ u /*cursorEvents*/,
+ a /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Lvb = void 0);

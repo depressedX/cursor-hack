@@ -14,7 +14,19 @@ import '../../environment/electron-sandbox/environmentService.js';
 define(
 			de[3781],
 			he([1, 0, 68, 133, 19, 23, 34, 665, 22, 47, 1808, 109, 151]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uriIdentity*/,
+ i /*userDataProfile*/,
+ w /*resources*/,
+ E /*network*/,
+ C /*log*/,
+ d /*download*/,
+ m /*files*/,
+ r /*uuid*/,
+ u /*extensionManagementChannelClient*/,
+ a /*extensions*/,
+ h /*environmentService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Rdd = void 0);

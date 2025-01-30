@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import './scalars.js';
-define(de[1087], he([1, 0, 526]), function (ce, e, t) {
+define(de[1087], he([1, 0, 526]), function (ce /*require*/,
+ e /*exports*/,
+ t /*scalars*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.makeExtension = i),

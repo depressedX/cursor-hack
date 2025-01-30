@@ -14,7 +14,19 @@ import '../../../base/common/event.js';
 define(
 			de[3235],
 			he([1, 0, 17, 3, 196, 47, 45, 587, 64, 779, 471, 1190, 6]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*range*/,
+ i /*lifecycle*/,
+ w /*lineRange*/,
+ E /*uuid*/,
+ C /*reactiveStorageService*/,
+ d /*linesDiffComputers*/,
+ m /*model*/,
+ r /*inlineDiffUndoRedoElement*/,
+ u /*aiContext*/,
+ a /*inlineDiffServiceUtils*/,
+ h /*event*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$17b = void 0);

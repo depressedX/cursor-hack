@@ -9,7 +9,14 @@ import '../../nls.js';
 define(
 			de[74],
 			he([1, 0, 14, 9, 188, 17, 2571, 4]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*uri*/,
+ w /*editOperation*/,
+ E /*range*/,
+ C /*tokenizationRegistry*/,
+ d /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.InlineEditTriggerKind =

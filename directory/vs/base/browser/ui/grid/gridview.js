@@ -15,7 +15,19 @@ import '../../../../css!vs/base/browser/ui/grid/gridview.js';
 define(
 			de[1579],
 			he([1, 0, 7, 277, 279, 24, 97, 6, 3, 201, 28, 277, 279, 1511]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*sash*/,
+ w /*splitview*/,
+ E /*arrays*/,
+ C /*color*/,
+ d /*event*/,
+ m /*lifecycle*/,
+ r /*numbers*/,
+ u /*types*/,
+ a /*sash*/,
+ h /*splitview*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$yob = e.Sizing = e.LayoutPriority = e.Orientation = void 0),

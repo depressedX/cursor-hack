@@ -3,7 +3,11 @@ import '../../../../../../../../exports.js';
 import '../../../../../../../../external/lexical/lexical/api.js';
 import '../../../../../../../../proto/aiserver/v1/context_pb.js';
 import './types.js';
-define(de[816], he([1, 0, 164, 228, 310]), function (ce, e, t, i, w) {
+define(de[816], he([1, 0, 164, 228, 310]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*context_pb*/,
+ w /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$2_b = void 0),

@@ -11,7 +11,16 @@ import '../../../../../base/common/uri.js';
 define(
 			de[4142],
 			he([1, 0, 2, 2, 2, 13, 14, 26, 36, 9]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*codicons*/,
+ d /*themables*/,
+ m /*solid*/,
+ r /*uri*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$8fc = a);
 				const u = (0, t.template)("<div>");

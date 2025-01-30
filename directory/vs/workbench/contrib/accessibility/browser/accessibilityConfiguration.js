@@ -14,7 +14,19 @@ import '../../../../platform/product/common/productService.js';
 define(
 			de[130],
 			he([1, 0, 4, 81, 30, 8, 224, 184, 511, 3, 6, 28, 62]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*configurationRegistry*/,
+ w /*platform*/,
+ E /*contextkey*/,
+ C /*configuration*/,
+ d /*accessibilitySignalService*/,
+ m /*speechService*/,
+ r /*lifecycle*/,
+ u /*event*/,
+ a /*types*/,
+ h /*productService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$3Lb =

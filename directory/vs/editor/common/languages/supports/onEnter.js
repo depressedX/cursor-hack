@@ -4,7 +4,12 @@ import '../../../../base/common/errors.js';
 import '../../../../base/common/strings.js';
 import '../languageConfiguration.js';
 import '../../config/editorOptions.js';
-define(de[2723], he([1, 0, 29, 37, 532, 38]), function (ce, e, t, i, w, E) {
+define(de[2723], he([1, 0, 29, 37, 532, 38]), function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*strings*/,
+ w /*languageConfiguration*/,
+ E /*editorOptions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$6M = void 0),

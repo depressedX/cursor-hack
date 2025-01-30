@@ -10,7 +10,15 @@ import './keybindingsEditorModel.js';
 define(
 			de[1310],
 			he([1, 0, 14, 12, 4, 5, 79, 223, 1309]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*platform*/,
+ w /*nls*/,
+ E /*instantiation*/,
+ C /*iconRegistry*/,
+ d /*editorInput*/,
+ m /*keybindingsEditorModel*/) {
 				"use strict";
 				var r;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -13,7 +13,18 @@ import '../../../../base/common/objects.js';
 define(
 			de[3257],
 			he([1, 0, 44, 313, 3, 21, 30, 6, 66, 24, 59, 82]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editor*/,
+ i /*sideBySideEditorInput*/,
+ w /*lifecycle*/,
+ E /*storage*/,
+ C /*platform*/,
+ d /*event*/,
+ m /*editorGroupsService*/,
+ r /*arrays*/,
+ u /*map*/,
+ a /*objects*/) {
 				"use strict";
 				var h;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

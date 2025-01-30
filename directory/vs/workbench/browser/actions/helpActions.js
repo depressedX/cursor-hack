@@ -14,7 +14,19 @@ import '../../../platform/action/common/actionCommonCategories.js';
 define(
 		de[2943],
 		he([1, 0, 4, 372, 12, 32, 41, 9, 11, 27, 62, 43, 99]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*product*/,
+ w /*platform*/,
+ E /*telemetry*/,
+ C /*opener*/,
+ d /*uri*/,
+ m /*actions*/,
+ r /*keyCodes*/,
+ u /*productService*/,
+ a /*keybindingsRegistry*/,
+ h /*actionCommonCategories*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (i = xi(i));
 			class c extends m.$3X {

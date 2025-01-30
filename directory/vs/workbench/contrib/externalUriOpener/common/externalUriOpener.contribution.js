@@ -8,7 +8,13 @@ import './externalUriOpenerService.js';
 define(
 			de[3556],
 			he([1, 0, 81, 20, 30, 1033, 1034]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*configurationRegistry*/,
+ i /*extensions*/,
+ w /*platform*/,
+ E /*configuration*/,
+ C /*externalUriOpenerService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, i.$lK)(

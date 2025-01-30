@@ -7,7 +7,12 @@ import './notebookCommon.js';
 define(
 			de[3505],
 			he([1, 0, 215, 103, 19, 70]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*glob*/,
+ i /*iterator*/,
+ w /*resources*/,
+ E /*notebookCommon*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tEc = e.$sEc = void 0),

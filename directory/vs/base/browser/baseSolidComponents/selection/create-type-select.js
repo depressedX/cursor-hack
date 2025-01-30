@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../utils/api.js';
 import '../../../../../external/solid/solid.js';
 import '../../window.js';
-define(de[1568], he([1, 0, 115, 13, 75]), function (ce, e, t, i, w) {
+define(de[1568], he([1, 0, 115, 13, 75]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*solid*/,
+ w /*window*/) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Rmb = E);
 		function E(m) {

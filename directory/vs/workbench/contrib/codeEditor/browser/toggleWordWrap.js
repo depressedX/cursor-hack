@@ -19,7 +19,24 @@ import '../../../services/editor/common/editorService.js';
 define(
 			de[1026],
 			he([1, 0, 7, 75, 14, 6, 27, 3, 46, 65, 38, 71, 4, 11, 8, 43, 55, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*window*/,
+ w /*codicons*/,
+ E /*event*/,
+ C /*keyCodes*/,
+ d /*lifecycle*/,
+ m /*editorExtensions*/,
+ r /*codeEditorService*/,
+ u /*editorOptions*/,
+ a /*editorContextKeys*/,
+ h /*nls*/,
+ c /*actions*/,
+ n /*contextkey*/,
+ g /*keybindingsRegistry*/,
+ p /*contributions*/,
+ o /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$G1b = $),

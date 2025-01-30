@@ -10,7 +10,15 @@ import '../../../../platform/dialogs/common/dialogs.js';
 define(
 			de[1647],
 			he([1, 0, 3, 19, 46, 65, 38, 4, 57]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*resources*/,
+ w /*editorExtensions*/,
+ E /*codeEditorService*/,
+ C /*editorOptions*/,
+ d /*nls*/,
+ m /*dialogs*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Jkc = void 0),

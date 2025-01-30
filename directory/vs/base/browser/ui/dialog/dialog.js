@@ -20,7 +20,22 @@ define(
 			he([
 				1, 0, 7, 114, 105, 183, 268, 292, 50, 14, 26, 27, 222, 3, 12, 4, 2238,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*keyboardEvent*/,
+ w /*actionbar*/,
+ E /*button*/,
+ C /*toggle*/,
+ d /*inputBox*/,
+ m /*actions*/,
+ r /*codicons*/,
+ u /*themables*/,
+ a /*keyCodes*/,
+ h /*labels*/,
+ c /*lifecycle*/,
+ n /*platform*/,
+ g /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Oob = void 0),

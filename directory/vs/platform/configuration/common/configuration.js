@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/types.js';
 import '../../../base/common/uri.js';
 import '../../instantiation/common/instantiation.js';
-define(de[10], he([1, 0, 28, 9, 5]), function (ce, e, t, i, w) {
+define(de[10], he([1, 0, 28, 9, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*types*/,
+ i /*uri*/,
+ w /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ConfigurationTarget = e.$gj = void 0),

@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../protobuf.js';
 import './connect-error.js';
 import './code.js';
-define(de[876], he([1, 0, 86, 213, 202]), function (ce, e, t, i, w) {
+define(de[876], he([1, 0, 86, 213, 202]), function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*connect-error*/,
+ w /*code*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.encodeBinaryHeader = E),

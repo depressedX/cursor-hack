@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../base/common/arrays.js';
 import '../../../../../base/common/errors.js';
 import '../../../core/offsetRange.js';
-define(de[656], he([1, 0, 24, 29, 289]), function (ce, e, t, i, w) {
+define(de[656], he([1, 0, 24, 29, 289]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*errors*/,
+ w /*offsetRange*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$$wb = e.$0wb = e.$9wb = e.$8wb = e.$7wb = void 0);

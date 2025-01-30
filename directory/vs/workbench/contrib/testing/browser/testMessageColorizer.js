@@ -9,7 +9,13 @@ import '../../../../css!vs/workbench/contrib/testing/browser/media/testMessageCo
 define(
 			de[999],
 			he([1, 0, 267, 3, 37, 48, 17, 2500]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*markdownRenderer*/,
+ i /*lifecycle*/,
+ w /*strings*/,
+ E /*position*/,
+ C /*range*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$WKc = e.$VKc = void 0);

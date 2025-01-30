@@ -11,7 +11,16 @@ import '../viewModelEventDispatcher.js';
 define(
 			de[2724],
 			he([1, 0, 6, 3, 195, 38, 98, 2577, 290, 751]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*scrollable*/,
+ E /*editorOptions*/,
+ C /*editorCommon*/,
+ d /*linesLayout*/,
+ m /*viewModel*/,
+ r /*viewModelEventDispatcher*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$hwb = void 0);

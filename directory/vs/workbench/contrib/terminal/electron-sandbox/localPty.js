@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../common/basePty.js';
-define(de[3151], he([1, 0, 1762]), function (ce, e, t) {
+define(de[3151], he([1, 0, 1762]), function (ce /*require*/,
+ e /*exports*/,
+ t /*basePty*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ngd = void 0);
 			class i extends t.$eUc {

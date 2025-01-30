@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../utils/index.js';
 import '../debug-build.js';
-define(de[2100], he([1, 0, 80, 263]), function (ce, e, t, i) {
+define(de[2100], he([1, 0, 80, 263]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*debug-build*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.DEFAULT_TRANSPORT_BUFFER_SIZE = void 0),

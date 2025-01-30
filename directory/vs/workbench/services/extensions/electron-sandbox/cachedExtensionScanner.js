@@ -17,7 +17,22 @@ import '../../environment/common/environmentService.js';
 define(
 		de[3782],
 		he([1, 0, 12, 3334, 958, 34, 111, 4, 40, 87, 15, 133, 29, 157, 53, 78]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*extensionsUtil*/,
+ w /*extensionsScannerService*/,
+ E /*log*/,
+ C /*severity*/,
+ d /*nls*/,
+ m /*notification*/,
+ r /*host*/,
+ u /*async*/,
+ a /*userDataProfile*/,
+ h /*errors*/,
+ c /*extensionManagement*/,
+ n /*extensions*/,
+ g /*environmentService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$1dd = void 0),

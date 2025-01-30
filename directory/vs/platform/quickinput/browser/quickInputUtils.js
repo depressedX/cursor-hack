@@ -14,7 +14,18 @@ import '../../../css!vs/platform/quickinput/browser/media/quickInput.js';
 define(
 			de[1625],
 			he([1, 0, 7, 265, 6, 114, 159, 182, 584, 27, 488, 4, 1138]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*event*/,
+ E /*keyboardEvent*/,
+ C /*touch*/,
+ d /*iconLabels*/,
+ m /*idGenerator*/,
+ r /*keyCodes*/,
+ u /*linkedText*/,
+ a /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$sxc = g),

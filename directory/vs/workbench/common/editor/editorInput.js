@@ -4,7 +4,12 @@ import '../../../base/common/event.js';
 import '../../../base/common/arrays.js';
 import '../editor.js';
 import '../../../base/common/resources.js';
-define(de[223], he([1, 0, 6, 24, 44, 19]), function (ce, e, t, i, w, E) {
+define(de[223], he([1, 0, 6, 24, 44, 19]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*arrays*/,
+ w /*editor*/,
+ E /*resources*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$LO = void 0);
 			class C extends w.$q1 {

@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../utils/index.js';
 import '../api.js';
-define(de[2101], he([1, 0, 80, 1094]), function (ce, e, t, i) {
+define(de[2101], he([1, 0, 80, 1094]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*api*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.eventFromEnvelope = w),

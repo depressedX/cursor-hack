@@ -4,7 +4,12 @@ import '../../../services/extensions/common/extensionsRegistry.js';
 import './terminal.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../base/common/uri.js';
-define(de[1818], he([1, 0, 175, 145, 5, 9]), function (ce, e, t, i, w, E) {
+define(de[1818], he([1, 0, 175, 145, 5, 9]), function (ce /*require*/,
+ e /*exports*/,
+ t /*extensionsRegistry*/,
+ i /*terminal*/,
+ w /*instantiation*/,
+ E /*uri*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$vVc = e.$uVc = void 0),

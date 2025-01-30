@@ -22,7 +22,24 @@ define(
 				1, 0, 213, 202, 634, 2017, 1391, 2016, 1392, 1411, 575, 869, 870, 871,
 				1090, 872, 877, 873,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*connect-error*/,
+ i /*code*/,
+ w /*implementation*/,
+ E /*trailer*/,
+ C /*headers*/,
+ d /*content-type*/,
+ m /*parse-timeout*/,
+ r /*trailer-status*/,
+ u /*async-iterable*/,
+ a /*compression*/,
+ h /*content-type-matcher*/,
+ c /*create-method-url*/,
+ n /*invoke-implementation*/,
+ g /*serialization*/,
+ p /*universal-handler*/,
+ o /*universal*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createHandlerFactory = s);

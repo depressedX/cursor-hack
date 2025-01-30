@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/platform.js';
 import '../../../base/common/process.js';
 import '../../../base/common/uuid.js';
-define(de[1640], he([1, 0, 12, 344, 47]), function (ce, e, t, i, w) {
+define(de[1640], he([1, 0, 12, 344, 47]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*process*/,
+ w /*uuid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Op = C),

@@ -9,7 +9,14 @@ import './util-common.js';
 define(
 			de[1400],
 			he([1, 0, 1083, 2028, 1087, 2035, 2034, 2037]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*enum*/,
+ i /*message-type*/,
+ w /*extensions*/,
+ E /*json-format*/,
+ C /*binary-format*/,
+ d /*util-common*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.makeProtoRuntime = m);

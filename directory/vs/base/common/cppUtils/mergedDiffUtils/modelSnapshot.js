@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../../proto/aiserver/v1/utils_pb.js';
 import './range.js';
-define(de[2215], he([1, 0, 83, 1131]), function (ce, e, t, i) {
+define(de[2215], he([1, 0, 83, 1131]), function (ce /*require*/,
+ e /*exports*/,
+ t /*utils_pb*/,
+ i /*range*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 });
 			class w {

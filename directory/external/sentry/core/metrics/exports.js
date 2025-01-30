@@ -10,7 +10,15 @@ import './constants.js';
 define(
 			de[1449],
 			he([1, 0, 80, 234, 263, 640, 1097, 301, 880]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*currentScopes*/,
+ w /*debug-build*/,
+ E /*index*/,
+ C /*handleCallbackErrors*/,
+ d /*spanUtils*/,
+ m /*constants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.metrics = void 0);

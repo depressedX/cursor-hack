@@ -17,7 +17,22 @@ import '../../controlCommon/browser/solid.js';
 define(
 			de[4295],
 			he([1, 0, 2, 2, 2, 2, 13, 7, 650, 54, 242, 1728, 156, 135, 147, 36]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*dom*/,
+ m /*switch*/,
+ r /*path*/,
+ u /*Utils*/,
+ a /*constants*/,
+ h /*pureIcon*/,
+ c /*scrollableDiv*/,
+ n /*simpleButton*/,
+ g /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$bDc = S);
 				const p = (0, t.template)("<div>"),

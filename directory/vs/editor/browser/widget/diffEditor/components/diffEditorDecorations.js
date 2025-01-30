@@ -9,7 +9,14 @@ import '../utils.js';
 define(
 			de[2902],
 			he([1, 0, 3, 77, 1216, 1587, 608, 370]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*diffEditorViewZones*/,
+ E /*movedBlocksLinesFeature*/,
+ C /*registrations.contribution*/,
+ d /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$dyb = void 0);

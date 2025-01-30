@@ -13,7 +13,18 @@ import '../../../../base/browser/dom.js';
 define(
 			de[382],
 			he([1, 0, 9, 93, 220, 44, 278, 710, 24, 1170, 5, 7]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*listService*/,
+ w /*files*/,
+ E /*editor*/,
+ C /*listWidget*/,
+ d /*explorerModel*/,
+ m /*arrays*/,
+ r /*asyncDataTree*/,
+ u /*instantiation*/,
+ a /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$LWb = void 0),

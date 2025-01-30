@@ -1,7 +1,9 @@
 import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../types.js';
-define(de[884], he([1, 0, 366]), function (ce, e, t) {
+define(de[884], he([1, 0, 366]), function (ce /*require*/,
+ e /*exports*/,
+ t /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.getVisibilityWatcher = void 0);

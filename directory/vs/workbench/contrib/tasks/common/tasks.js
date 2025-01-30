@@ -10,7 +10,15 @@ import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[424],
 			he([1, 0, 4, 28, 19, 82, 8, 699, 10]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*types*/,
+ w /*resources*/,
+ E /*objects*/,
+ C /*contextkey*/,
+ d /*taskDefinitionRegistry*/,
+ m /*configuration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.TaskDefinition =

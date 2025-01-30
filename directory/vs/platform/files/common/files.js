@@ -13,7 +13,18 @@ import '../../../base/common/lazy.js';
 define(
 			de[22],
 			he([1, 0, 387, 54, 37, 28, 9, 4, 5, 12, 23, 149]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*ternarySearchTree*/,
+ i /*path*/,
+ w /*strings*/,
+ E /*types*/,
+ C /*uri*/,
+ d /*nls*/,
+ m /*instantiation*/,
+ r /*platform*/,
+ u /*network*/,
+ a /*lazy*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Tl =

@@ -11,7 +11,15 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/badge/badge.js';
 define(
 			de[564],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 2510]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nac = void 0);

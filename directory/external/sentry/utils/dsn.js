@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './debug-build.js';
 import './logger.js';
-define(de[1431], he([1, 0, 577, 527]), function (ce, e, t, i) {
+define(de[1431], he([1, 0, 577, 527]), function (ce /*require*/,
+ e /*exports*/,
+ t /*debug-build*/,
+ i /*logger*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.dsnToString = C),

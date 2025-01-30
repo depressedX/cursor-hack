@@ -4,7 +4,12 @@ import '../../../../../../external/solid/web.js';
 import '../../../../../../external/solid/web.js';
 import '../../../../../../external/solid/web.js';
 import '../../../../../../external/solid/solid.js';
-define(de[1777], he([1, 0, 2, 2, 2, 13]), function (ce, e, t, i, w, E) {
+define(de[1777], he([1, 0, 2, 2, 2, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$dbc = e.$cbc = void 0);

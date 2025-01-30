@@ -10,7 +10,15 @@ import '../../../base/common/uri.js';
 define(
 			de[1178],
 			he([1, 0, 275, 138, 23, 54, 344, 19, 9]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*date*/,
+ i /*decorators*/,
+ w /*network*/,
+ E /*path*/,
+ C /*process*/,
+ d /*resources*/,
+ m /*uri*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$in = e.$hn = void 0),

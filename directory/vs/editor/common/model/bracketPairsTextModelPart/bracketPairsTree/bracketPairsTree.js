@@ -18,7 +18,21 @@ define(
 			he([
 				1, 0, 6, 3, 2570, 658, 914, 1537, 492, 1538, 657, 915, 916, 24, 1536,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*textModelBracketPairs*/,
+ E /*ast*/,
+ C /*beforeEditPositionMapper*/,
+ d /*brackets*/,
+ m /*length*/,
+ r /*parser*/,
+ u /*smallImmutableSet*/,
+ a /*tokenizer*/,
+ h /*tokenizationTextModelPart*/,
+ c /*arrays*/,
+ n /*combineTextEditInfos*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$8O = void 0);
 				class g extends i.$1c {

@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/registry/common/platform.js';
 import '../../../common/configuration.js';
-define(de[3553], he([1, 0, 30, 224]), function (ce, e, t, i) {
+define(de[3553], he([1, 0, 30, 224]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*configuration*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				t.$Io.as(i.$z6.ConfigurationMigration).registerConfigurationMigrations([

@@ -12,7 +12,17 @@ import '../../../../base/common/strings.js';
 define(
 			de[1797],
 			he([1, 0, 54, 344, 28, 82, 12, 222, 4, 358, 37]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*path*/,
+ i /*process*/,
+ w /*types*/,
+ E /*objects*/,
+ C /*platform*/,
+ d /*labels*/,
+ m /*nls*/,
+ r /*configurationResolver*/,
+ u /*strings*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Peb = void 0),

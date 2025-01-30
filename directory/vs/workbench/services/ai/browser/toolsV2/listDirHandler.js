@@ -8,7 +8,13 @@ import '../../../selectedContext/browser/selectedContext.js';
 define(
 			de[3929],
 			he([1, 0, 1790, 22, 25, 398, 271]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*listDirHelper*/,
+ i /*files*/,
+ w /*workspace*/,
+ E /*toolsV2HandlerRegistryService*/,
+ C /*selectedContext*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5yc = void 0);

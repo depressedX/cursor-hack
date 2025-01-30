@@ -17,7 +17,22 @@ import '../../../../common/editor.js';
 define(
 			de[3855],
 			he([1, 0, 85, 52, 3, 24, 87, 18, 15, 65, 170, 220, 23, 628, 403, 44]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*textfiles*/,
+ i /*lifecycle*/,
+ w /*lifecycle*/,
+ E /*arrays*/,
+ C /*host*/,
+ d /*editorService*/,
+ m /*async*/,
+ r /*codeEditorService*/,
+ u /*filesConfigurationService*/,
+ a /*files*/,
+ h /*network*/,
+ c /*untitledTextEditorInput*/,
+ n /*workingCopyEditorService*/,
+ g /*editor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$1Mc = void 0);

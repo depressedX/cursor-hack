@@ -16,7 +16,20 @@ import '../../../../css!vs/editor/contrib/hover/browser/hover.js';
 define(
 			de[448],
 			he([1, 0, 936, 27, 3, 38, 5, 1215, 39, 390, 15, 937, 3606, 6, 905]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hoverActionIds*/,
+ i /*keyCodes*/,
+ w /*lifecycle*/,
+ E /*editorOptions*/,
+ C /*instantiation*/,
+ d /*inlineCompletionsHintsWidget*/,
+ m /*keybinding*/,
+ r /*keybindingResolver*/,
+ u /*async*/,
+ a /*hoverUtils*/,
+ h /*contentHoverWidgetWrapper*/,
+ c /*event*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -8,7 +8,13 @@ import '../../../controlCommon/browser/solid.js';
 define(
 			de[4148],
 			he([1, 0, 2, 2, 13, 311, 36]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*solid*/,
+ E /*useComposerHoverTooltip*/,
+ C /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerLoginButton = m);

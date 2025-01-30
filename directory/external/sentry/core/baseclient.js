@@ -14,7 +14,19 @@ import './utils/prepareEvent.js';
 define(
 			de[1451],
 			he([1, 0, 80, 1094, 234, 263, 1099, 316, 316, 887, 639, 1098, 1101]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*api*/,
+ w /*currentScopes*/,
+ E /*debug-build*/,
+ C /*envelope*/,
+ d /*integration*/,
+ m /*integration*/,
+ r /*session*/,
+ u /*dynamicSamplingContext*/,
+ a /*parseSampleRate*/,
+ h /*prepareEvent*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.BaseClient = void 0);

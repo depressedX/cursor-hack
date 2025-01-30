@@ -13,7 +13,18 @@ import '../common/userDataProfile.js';
 define(
 			de[1924],
 			he([1, 0, 76, 4, 22, 5, 34, 68, 129, 247, 60, 133]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*nls*/,
+ w /*files*/,
+ E /*instantiation*/,
+ C /*log*/,
+ d /*uriIdentity*/,
+ m /*userDataProfile*/,
+ r /*editorCommands*/,
+ u /*views*/,
+ a /*userDataProfile*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$3wc = e.$2wc = e.$1wc = void 0);

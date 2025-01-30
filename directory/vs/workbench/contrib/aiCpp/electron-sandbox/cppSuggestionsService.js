@@ -9,7 +9,14 @@ import './utils.js';
 define(
 			de[2964],
 			he([1, 0, 47, 20, 5, 45, 155, 1229]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uuid*/,
+ i /*extensions*/,
+ w /*instantiation*/,
+ E /*reactiveStorageService*/,
+ C /*undoRedo*/,
+ d /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ted = e.$Sed = void 0),

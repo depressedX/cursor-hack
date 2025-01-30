@@ -16,7 +16,20 @@ import '../../../../../css!vs/editor/contrib/inlineDiffs/browser/widgets/inlineD
 define(
 			de[3981],
 			he([1, 0, 7, 159, 3, 56, 39, 31, 45, 2956, 35, 383, 10, 137, 906]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*touch*/,
+ w /*lifecycle*/,
+ E /*editorBrowser*/,
+ C /*keybinding*/,
+ d /*commands*/,
+ m /*reactiveStorageService*/,
+ r /*renderInlineDiffPartialWidget*/,
+ u /*themeService*/,
+ a /*inlineDiffService*/,
+ h /*configuration*/,
+ c /*aiMiscServices*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vdc = void 0),

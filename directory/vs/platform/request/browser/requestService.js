@@ -7,7 +7,12 @@ import '../common/request.js';
 define(
 			de[2792],
 			he([1, 0, 2228, 10, 34, 327]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*request*/,
+ i /*configuration*/,
+ w /*log*/,
+ E /*request*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$O3c = void 0);

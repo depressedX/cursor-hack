@@ -16,7 +16,21 @@ import '../../../files/browser/views/explorerView.js';
 define(
 			de[4024],
 			he([1, 0, 7, 6, 3, 4, 10, 22, 5, 93, 41, 35, 233, 979, 1351]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*nls*/,
+ C /*configuration*/,
+ d /*files*/,
+ m /*instantiation*/,
+ r /*listService*/,
+ u /*opener*/,
+ a /*themeService*/,
+ h /*labels*/,
+ c /*chatCollections*/,
+ n /*explorerView*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$PXb = e.$OXb = void 0),

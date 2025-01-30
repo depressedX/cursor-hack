@@ -11,7 +11,16 @@ import '../types.js';
 define(
 			de[3191],
 			he([1, 0, 2, 2, 2, 228, 14, 26, 47, 310]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*context_pb*/,
+ C /*codicons*/,
+ d /*themables*/,
+ m /*uuid*/,
+ r /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$C_b = void 0);

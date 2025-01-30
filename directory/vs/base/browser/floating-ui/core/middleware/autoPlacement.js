@@ -9,7 +9,14 @@ import '../utils/getSide.js';
 define(
 			de[2203],
 			he([1, 0, 645, 1494, 582, 1495, 1120, 487]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*detectOverflow*/,
+ i /*enums*/,
+ w /*getAlignment*/,
+ E /*getAlignmentSides*/,
+ C /*getOppositeAlignmentPlacement*/,
+ d /*getSide*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Zlb = void 0),

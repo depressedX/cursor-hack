@@ -22,7 +22,24 @@ define(
 				1, 0, 33, 6, 8, 5, 180, 41, 1636, 106, 51, 35, 1189, 2867, 31, 58, 10,
 				7,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*event*/,
+ w /*contextkey*/,
+ E /*instantiation*/,
+ C /*layoutService*/,
+ d /*opener*/,
+ m /*quickAccess*/,
+ r /*defaultStyles*/,
+ u /*colorRegistry*/,
+ a /*themeService*/,
+ h /*quickInput*/,
+ c /*quickInputController*/,
+ n /*commands*/,
+ g /*constants*/,
+ p /*configuration*/,
+ o /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Lxc = void 0);

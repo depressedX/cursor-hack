@@ -7,7 +7,12 @@ import '../integration.js';
 define(
 			de[2127],
 			he([1, 0, 80, 234, 734, 316]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*currentScopes*/,
+ w /*exports*/,
+ E /*integration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.captureConsoleIntegration = void 0);

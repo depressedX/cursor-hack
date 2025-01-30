@@ -16,7 +16,21 @@ import '../../../../services/editor/common/editorService.js';
 define(
 			de[3867],
 			he([1, 0, 14, 19, 9, 4, 11, 8, 57, 41, 21, 711, 1050, 687, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*resources*/,
+ w /*uri*/,
+ E /*nls*/,
+ C /*actions*/,
+ d /*contextkey*/,
+ m /*dialogs*/,
+ r /*opener*/,
+ u /*storage*/,
+ a /*mergeEditorInput*/,
+ h /*mergeEditor*/,
+ c /*mergeEditor*/,
+ n /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$dSc =

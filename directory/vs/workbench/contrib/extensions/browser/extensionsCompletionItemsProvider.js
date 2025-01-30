@@ -10,7 +10,15 @@ import '../../../../editor/common/services/languageFeatures.js';
 define(
 			de[3061],
 			he([1, 0, 4, 187, 3, 74, 119, 17, 69]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*json*/,
+ w /*lifecycle*/,
+ E /*languages*/,
+ C /*extensionManagement*/,
+ d /*range*/,
+ m /*languageFeatures*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$YTc = void 0);

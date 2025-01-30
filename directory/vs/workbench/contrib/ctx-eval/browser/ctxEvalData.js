@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../../proto/aiserver/v1/repository_pb.js';
 import './types.js';
-define(de[3045], he([1, 0, 272, 1729]), function (ce, e, t, i) {
+define(de[3045], he([1, 0, 272, 1729]), function (ce /*require*/,
+ e /*exports*/,
+ t /*repository_pb*/,
+ i /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$o0b = e.$n0b = void 0),

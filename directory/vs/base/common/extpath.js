@@ -8,7 +8,13 @@ import './types.js';
 define(
 			de[249],
 			he([1, 0, 120, 54, 12, 37, 28]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*path*/,
+ w /*platform*/,
+ E /*strings*/,
+ C /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Eg = d),

@@ -12,7 +12,17 @@ import '../../theme/common/colorRegistry.js';
 define(
 			de[1676],
 			he([1, 0, 7, 235, 6, 3, 92, 11, 8, 5, 51]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*widget*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*menuEntryActionViewItem*/,
+ d /*actions*/,
+ m /*contextkey*/,
+ r /*instantiation*/,
+ u /*colorRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$t4b = e.$s4b = e.$r4b = void 0);

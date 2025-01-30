@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/lifecycle.js';
 import '../../../base/parts/ipc/electron-sandbox/ipc.electron.js';
 import '../../../base/parts/sandbox/electron-sandbox/globals.js';
-define(de[2732], he([1, 0, 3, 2688, 320]), function (ce, e, t, i, w) {
+define(de[2732], he([1, 0, 3, 2688, 320]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*ipc.electron*/,
+ w /*globals*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$X8c = void 0);
 			class E extends t.$1c {

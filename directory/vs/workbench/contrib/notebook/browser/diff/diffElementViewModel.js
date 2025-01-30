@@ -13,7 +13,18 @@ import '../notebookBrowser.js';
 define(
 			de[706],
 			he([1, 0, 6, 136, 585, 3, 309, 1253, 3478, 1254, 556, 108]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*hash*/,
+ w /*jsonFormatter*/,
+ E /*lifecycle*/,
+ C /*diffEditorWidget*/,
+ d /*diffCellEditorOptions*/,
+ m /*diffNestedCellViewModel*/,
+ r /*eventDispatcher*/,
+ u /*notebookDiffEditorBrowser*/,
+ a /*notebookBrowser*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.OutputComparison =

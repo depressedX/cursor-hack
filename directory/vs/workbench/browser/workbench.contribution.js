@@ -14,7 +14,19 @@ import '../services/editor/common/customEditorLabelService.js';
 define(
 			de[1905],
 			he([1, 0, 30, 4, 81, 12, 224, 139, 58, 55, 96, 1327, 399]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*nls*/,
+ w /*configurationRegistry*/,
+ E /*platform*/,
+ C /*configuration*/,
+ d /*browser*/,
+ m /*constants*/,
+ r /*contributions*/,
+ u /*layoutService*/,
+ a /*windowTitle*/,
+ h /*customEditorLabelService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Atc = void 0);

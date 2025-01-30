@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 7, 95, 94, 149, 3, 77, 28, 4, 10, 72, 30, 1732, 1266, 443, 630,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*hoverDelegateFactory*/,
+ w /*htmlContent*/,
+ E /*lazy*/,
+ C /*lifecycle*/,
+ d /*observable*/,
+ m /*types*/,
+ r /*nls*/,
+ u /*configuration*/,
+ a /*hover*/,
+ h /*platform*/,
+ c /*explorerFileContrib*/,
+ n /*codeCoverageDisplayUtils*/,
+ g /*configuration*/,
+ p /*testCoverageService*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

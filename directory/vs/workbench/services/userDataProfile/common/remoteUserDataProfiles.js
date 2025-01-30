@@ -14,7 +14,19 @@ import '../../../../platform/userDataProfile/common/userDataProfileIpc.js';
 define(
 			de[1044],
 			he([1, 0, 3, 20, 5, 129, 143, 21, 34, 133, 24, 78, 1696]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*extensions*/,
+ w /*instantiation*/,
+ E /*userDataProfile*/,
+ C /*remoteAgentService*/,
+ d /*storage*/,
+ m /*log*/,
+ r /*userDataProfile*/,
+ u /*arrays*/,
+ a /*environmentService*/,
+ h /*userDataProfileIpc*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nxc = void 0);

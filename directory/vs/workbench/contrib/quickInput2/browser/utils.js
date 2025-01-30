@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/themables.js';
 import '../../../../base/common/codicons.js';
-define(de[1746], he([1, 0, 26, 14]), function (ce, e, t, i) {
+define(de[1746], he([1, 0, 26, 14]), function (ce /*require*/,
+ e /*exports*/,
+ t /*themables*/,
+ i /*codicons*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$R9b = void 0);
 			const w = (E) => {

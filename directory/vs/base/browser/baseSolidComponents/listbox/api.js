@@ -9,7 +9,14 @@ import './listbox-section.js';
 define(
 			de[1571],
 			he([1, 0, 2650, 2638, 2639, 2640, 2651, 2641]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*listbox-item*/,
+ i /*listbox-item-description*/,
+ w /*listbox-item-indicator*/,
+ E /*listbox-item-label*/,
+ C /*listbox-root*/,
+ d /*listbox-section*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.Section =

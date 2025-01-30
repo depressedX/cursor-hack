@@ -12,7 +12,17 @@ import '../../../services/editor/common/editorService.js';
 define(
 			de[1803],
 			he([1, 0, 7, 46, 787, 4, 11, 8, 355, 566, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*editorExtensions*/,
+ w /*clipboard*/,
+ E /*nls*/,
+ C /*actions*/,
+ d /*contextkey*/,
+ m /*webview*/,
+ r /*webviewEditorInput*/,
+ u /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$X4b = void 0),

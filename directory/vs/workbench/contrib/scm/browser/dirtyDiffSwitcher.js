@@ -11,7 +11,16 @@ import '../../../../platform/theme/common/colorRegistry.js';
 define(
 			de[3128],
 			he([1, 0, 4, 50, 49, 198, 106, 35, 255, 51]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*contextView*/,
+ E /*actionViewItems*/,
+ C /*defaultStyles*/,
+ d /*themeService*/,
+ m /*peekView*/,
+ r /*colorRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0mc = e.$9mc = void 0),

@@ -24,7 +24,25 @@ define(
 				1, 0, 7, 3, 105, 5, 6, 141, 404, 154, 1955, 53, 157, 40, 35, 26, 123,
 				49, 466, 2434,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*actionbar*/,
+ E /*instantiation*/,
+ C /*event*/,
+ d /*extensions*/,
+ m /*extensionsActions*/,
+ r /*extensionManagementUtil*/,
+ u /*extensionsWidgets*/,
+ a /*extensions*/,
+ h /*extensionManagement*/,
+ c /*notification*/,
+ n /*themeService*/,
+ g /*themables*/,
+ p /*theme*/,
+ o /*contextView*/,
+ f /*extensionsIcons*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$YSc = e.$XSc = void 0);

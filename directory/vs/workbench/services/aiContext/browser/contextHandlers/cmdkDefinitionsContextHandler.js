@@ -16,7 +16,21 @@ import '../../../../../editor/contrib/folding/browser/folding.js';
 define(
 			de[3238],
 			he([1, 0, 228, 3, 42, 25, 6, 19, 33, 204, 69, 17, 48, 414, 350]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*context_pb*/,
+ i /*lifecycle*/,
+ w /*resolverService*/,
+ E /*workspace*/,
+ C /*event*/,
+ d /*resources*/,
+ m /*cancellation*/,
+ r /*outlineModel*/,
+ u /*languageFeatures*/,
+ a /*range*/,
+ h /*position*/,
+ c /*goToSymbol*/,
+ n /*folding*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$JZc = void 0);

@@ -10,7 +10,15 @@ import '../cellPart.js';
 define(
 			de[3498],
 			he([1, 0, 7, 14, 26, 4, 39, 108, 294]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*codicons*/,
+ w /*themables*/,
+ E /*nls*/,
+ C /*keybinding*/,
+ d /*notebookBrowser*/,
+ m /*cellPart*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$73b = void 0),

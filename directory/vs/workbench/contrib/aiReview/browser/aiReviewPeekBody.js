@@ -24,7 +24,25 @@ define(
 				1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 135, 36, 338, 148, 195, 193, 58,
 				270, 2370,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*codicons*/,
+ u /*themables*/,
+ a /*scrollableDiv*/,
+ h /*solid*/,
+ c /*markdown*/,
+ n /*aiserver_pb*/,
+ g /*scrollable*/,
+ p /*store*/,
+ o /*constants*/,
+ f /*aiConfigHelper*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ued = $);
 				const b = (0, t.template)("<div><div><div></div></div><div>"),

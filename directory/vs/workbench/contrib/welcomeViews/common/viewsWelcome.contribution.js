@@ -10,7 +10,15 @@ import '../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[3443],
 			he([1, 0, 5, 52, 30, 55, 3316, 1786, 175]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*contributions*/,
+ C /*viewsWelcomeContribution*/,
+ d /*viewsWelcomeExtensionPoint*/,
+ m /*extensionsRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const r = m.$n2.registerExtensionPoint(d.$AYc);

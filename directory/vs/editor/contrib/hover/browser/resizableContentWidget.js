@@ -9,7 +9,14 @@ import '../../../../base/browser/dom.js';
 define(
 			de[2726],
 			he([1, 0, 930, 3, 56, 38, 48, 7]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*resizable*/,
+ i /*lifecycle*/,
+ w /*editorBrowser*/,
+ E /*editorOptions*/,
+ C /*position*/,
+ d /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$UDb = void 0),

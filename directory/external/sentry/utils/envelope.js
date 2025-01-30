@@ -7,7 +7,12 @@ import './worldwide.js';
 define(
 			de[1432],
 			he([1, 0, 1431, 882, 528, 365]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dsn*/,
+ i /*normalize*/,
+ w /*object*/,
+ E /*worldwide*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createEnvelope = C),

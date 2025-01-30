@@ -12,7 +12,17 @@ import '../../../common/contextkeys.js';
 define(
 			de[2950],
 			he([1, 0, 14, 26, 4, 178, 184, 31, 93, 682, 100]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*themables*/,
+ w /*nls*/,
+ E /*accessibleView*/,
+ C /*accessibilitySignalService*/,
+ d /*commands*/,
+ m /*listService*/,
+ r /*notificationsCommands*/,
+ u /*contextkeys*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$o3c = void 0);

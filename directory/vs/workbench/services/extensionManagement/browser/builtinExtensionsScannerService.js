@@ -16,7 +16,21 @@ import '../../../../base/browser/window.js';
 define(
 			de[3291],
 			he([1, 0, 109, 12, 78, 68, 20, 154, 23, 9, 546, 62, 1598, 34, 75]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*platform*/,
+ w /*environmentService*/,
+ E /*uriIdentity*/,
+ C /*extensions*/,
+ d /*extensionManagementUtil*/,
+ m /*network*/,
+ r /*uri*/,
+ u /*extensionResourceLoader*/,
+ a /*productService*/,
+ h /*extensionNls*/,
+ c /*log*/,
+ n /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$zwc = void 0);

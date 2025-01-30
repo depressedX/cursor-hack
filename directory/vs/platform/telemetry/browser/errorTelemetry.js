@@ -4,7 +4,12 @@ import '../../../base/browser/window.js';
 import '../../../base/common/errors.js';
 import '../../../base/common/lifecycle.js';
 import '../common/errorTelemetry.js';
-define(de[2795], he([1, 0, 75, 29, 3, 2794]), function (ce, e, t, i, w, E) {
+define(de[2795], he([1, 0, 75, 29, 3, 2794]), function (ce /*require*/,
+ e /*exports*/,
+ t /*window*/,
+ i /*errors*/,
+ w /*lifecycle*/,
+ E /*errorTelemetry*/) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }), (E = xi(E));
 		class C extends E.default {

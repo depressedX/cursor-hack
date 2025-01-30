@@ -14,7 +14,19 @@ import '../../../services/aiContext/browser/simpleSerialProcessor.js';
 define(
 			de[3243],
 			he([1, 0, 646, 3, 529, 65, 17, 64, 200, 155, 1704, 1010, 1012]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*utils*/,
+ i /*lifecycle*/,
+ w /*result*/,
+ E /*codeEditorService*/,
+ C /*range*/,
+ d /*model*/,
+ m /*editorWorker*/,
+ r /*undoRedo*/,
+ u /*cppTypes*/,
+ a /*diffingService*/,
+ h /*simpleSerialProcessor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ecc = void 0);

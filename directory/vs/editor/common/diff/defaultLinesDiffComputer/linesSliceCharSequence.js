@@ -9,7 +9,14 @@ import './utils.js';
 define(
 			de[1531],
 			he([1, 0, 214, 120, 289, 48, 17, 911]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arraysFind*/,
+ i /*charCode*/,
+ w /*offsetRange*/,
+ E /*position*/,
+ C /*range*/,
+ d /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$exb = void 0);

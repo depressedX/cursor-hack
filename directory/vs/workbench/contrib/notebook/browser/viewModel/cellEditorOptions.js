@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../base/common/event.js';
 import '../../../../../base/common/lifecycle.js';
 import '../../../../../base/common/objects.js';
-define(de[3105], he([1, 0, 6, 3, 82]), function (ce, e, t, i, w) {
+define(de[3105], he([1, 0, 6, 3, 82]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*objects*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$q4b = void 0);
 			class E extends i.$1c {

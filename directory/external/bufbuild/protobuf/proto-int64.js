@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './private/assert.js';
 import './google/varint.js';
-define(de[525], he([1, 0, 451, 1395]), function (ce, e, t, i) {
+define(de[525], he([1, 0, 451, 1395]), function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*varint*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.protoInt64 = void 0);

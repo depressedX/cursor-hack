@@ -9,7 +9,14 @@ import './lib/whenActivated.js';
 define(
 			de[2097],
 			he([1, 0, 635, 728, 884, 637, 576, 730]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*bindReporter*/,
+ i /*getActivationStart*/,
+ w /*getVisibilityWatcher*/,
+ E /*initMetric*/,
+ C /*observe*/,
+ d /*whenActivated*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.onFCP = e.FCPThresholds = void 0),

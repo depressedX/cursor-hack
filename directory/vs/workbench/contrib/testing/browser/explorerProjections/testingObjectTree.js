@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../platform/list/browser/listService.js';
 import './index.js';
 import '../../common/testId.js';
-define(de[3178], he([1, 0, 93, 811, 259]), function (ce, e, t, i, w) {
+define(de[3178], he([1, 0, 93, 811, 259]), function (ce /*require*/,
+ e /*exports*/,
+ t /*listService*/,
+ i /*index*/,
+ w /*testId*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$aLc = void 0);
 			class E extends t.$CMb {

@@ -9,7 +9,14 @@ import './constants.js';
 define(
 			de[3004],
 			he([1, 0, 21, 25, 1718, 193, 47, 789]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*storage*/,
+ i /*workspace*/,
+ w /*bugbotData*/,
+ E /*store*/,
+ C /*uuid*/,
+ d /*constants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$bdc = m),

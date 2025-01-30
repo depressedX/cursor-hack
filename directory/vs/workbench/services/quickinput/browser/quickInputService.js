@@ -14,7 +14,19 @@ import '../../../../platform/commands/common/commands.js';
 define(
 			de[3541],
 			he([1, 0, 180, 5, 35, 10, 8, 39, 2868, 20, 63, 473, 31]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*layoutService*/,
+ i /*instantiation*/,
+ w /*themeService*/,
+ E /*configuration*/,
+ C /*contextkey*/,
+ d /*keybinding*/,
+ m /*quickInputService*/,
+ r /*extensions*/,
+ u /*quickInput*/,
+ a /*quickaccess*/,
+ h /*commands*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Mxc = void 0);

@@ -15,7 +15,20 @@ import '../../../ui/browser/hooks/useEverythingSearch/types.js';
 define(
 			de[4324],
 			he([1, 0, 2, 13, 54, 9, 36, 1982, 156, 1996, 476, 860, 1071, 444]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*solid*/,
+ w /*path*/,
+ E /*uri*/,
+ C /*solid*/,
+ d /*PickerMenu*/,
+ m /*pureIcon*/,
+ r /*useAllFilesSearch*/,
+ u /*utils*/,
+ a /*renderFolderStructurePickerMenuPreview*/,
+ h /*useEverythingSearch*/,
+ c /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$kAc = n);
 				function n(g) {

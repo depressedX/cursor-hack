@@ -14,7 +14,19 @@ import '../../../services/outline/browser/outline.js';
 define(
 			de[3517],
 			he([1, 0, 33, 29, 6, 3, 23, 19, 10, 22, 25, 1223, 475]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*errors*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*network*/,
+ d /*resources*/,
+ m /*configuration*/,
+ r /*files*/,
+ u /*workspace*/,
+ a /*breadcrumbs*/,
+ h /*outline*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$src = e.$rrc = e.$qrc = void 0);

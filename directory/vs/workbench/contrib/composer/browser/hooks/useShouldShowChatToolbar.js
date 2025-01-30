@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../../external/solid/solid.js';
 import './useComposerCollectedStatuses.js';
 import './useShouldShowApplyLastMessage.js';
-define(de[4158], he([1, 0, 13, 1366, 1066]), function (ce, e, t, i, w) {
+define(de[4158], he([1, 0, 13, 1366, 1066]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*useComposerCollectedStatuses*/,
+ w /*useShouldShowApplyLastMessage*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.useShouldShowChatToolbar = E);

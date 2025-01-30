@@ -18,7 +18,23 @@ import './workingCopy.js';
 define(
 			de[1912],
 			he([1, 0, 19, 9, 24, 82, 15, 22, 59, 408, 76, 3, 34, 23, 136, 28, 334]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*resources*/,
+ i /*uri*/,
+ w /*arrays*/,
+ E /*objects*/,
+ C /*async*/,
+ d /*files*/,
+ m /*map*/,
+ r /*stream*/,
+ u /*buffer*/,
+ a /*lifecycle*/,
+ h /*log*/,
+ c /*network*/,
+ n /*hash*/,
+ g /*types*/,
+ p /*workingCopy*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

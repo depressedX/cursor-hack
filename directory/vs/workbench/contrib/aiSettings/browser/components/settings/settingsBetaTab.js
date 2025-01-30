@@ -16,7 +16,20 @@ import '../../../../../../css!vs/workbench/contrib/aiSettings/browser/components
 define(
 			de[4138],
 			he([1, 0, 2, 2, 2, 13, 148, 75, 974, 36, 262, 83, 1064, 1006, 2371]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*aiserver_pb*/,
+ d /*window*/,
+ m /*settingsTab*/,
+ r /*solid*/,
+ u /*composerCapabilities*/,
+ a /*utils_pb*/,
+ h /*settingsSubSection*/,
+ c /*checkbox*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$HDc = s);
 				const n = (0, t.template)("<div>Beta features"),

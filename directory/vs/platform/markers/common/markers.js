@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/severity.js';
 import '../../../nls.js';
 import '../../instantiation/common/instantiation.js';
-define(de[90], he([1, 0, 111, 4, 5]), function (ce, e, t, i, w) {
+define(de[90], he([1, 0, 111, 4, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*severity*/,
+ i /*nls*/,
+ w /*instantiation*/) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),
 			(e.$aM = e.IMarkerData = e.MarkerSeverity = e.MarkerTag = void 0),

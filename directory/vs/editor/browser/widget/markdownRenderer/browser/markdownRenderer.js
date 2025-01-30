@@ -15,7 +15,19 @@ import '../../../../../css!vs/editor/browser/widget/markdownRenderer/browser/ren
 define(
 			de[251],
 			he([1, 0, 267, 432, 29, 6, 3, 321, 38, 61, 172, 597, 41, 2282]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*markdownRenderer*/,
+ i /*trustedTypes*/,
+ w /*errors*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*domFontInfo*/,
+ m /*editorOptions*/,
+ r /*language*/,
+ u /*modesRegistry*/,
+ a /*textToHtmlTokenizer*/,
+ h /*opener*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

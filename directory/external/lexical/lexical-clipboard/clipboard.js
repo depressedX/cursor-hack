@@ -8,7 +8,13 @@ import '../shared/invariant.js';
 define(
 		de[2597],
 		he([1, 0, 2594, 921, 304, 164, 1417]),
-		function (ce, e, t, i, w, E, C) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*api*/,
+ w /*api*/,
+ E /*api*/,
+ C /*invariant*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$getHtmlContent = d),

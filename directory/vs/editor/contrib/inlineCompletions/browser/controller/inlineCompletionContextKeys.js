@@ -9,7 +9,14 @@ import '../../../../../nls.js';
 define(
 			de[765],
 			he([1, 0, 77, 37, 435, 8, 3, 4]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*observable*/,
+ i /*strings*/,
+ w /*cursorColumns*/,
+ E /*contextkey*/,
+ C /*lifecycle*/,
+ d /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_Cb = void 0);

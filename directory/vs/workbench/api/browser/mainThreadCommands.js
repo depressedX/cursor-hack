@@ -11,7 +11,16 @@ import '../../../base/common/types.js';
 define(
 			de[3341],
 			he([1, 0, 3, 197, 31, 101, 53, 622, 88, 28]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*marshalling*/,
+ w /*commands*/,
+ E /*extHostCustomers*/,
+ C /*extensions*/,
+ d /*proxyIdentifier*/,
+ m /*extHost.protocol*/,
+ r /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Qmc = void 0);

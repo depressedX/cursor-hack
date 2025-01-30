@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import './aggregator.js';
 import './exports.js';
-define(de[2125], he([1, 0, 2120, 1449]), function (ce, e, t, i) {
+define(de[2125], he([1, 0, 2120, 1449]), function (ce /*require*/,
+ e /*exports*/,
+ t /*aggregator*/,
+ i /*exports*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.metricsDefault = void 0);

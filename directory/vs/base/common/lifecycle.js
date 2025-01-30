@@ -8,7 +8,13 @@ import './iterator.js';
 define(
 			de[3],
 			he([1, 0, 24, 456, 59, 288, 103]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*collections*/,
+ w /*map*/,
+ E /*functional*/,
+ C /*iterator*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0c =

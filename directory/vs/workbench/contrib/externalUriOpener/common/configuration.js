@@ -4,7 +4,12 @@ import '../../../../platform/configuration/common/configurationRegistry.js';
 import '../../../common/configuration.js';
 import '../../../../nls.js';
 import '../../../../platform/registry/common/platform.js';
-define(de[1033], he([1, 0, 81, 224, 4, 30]), function (ce, e, t, i, w, E) {
+define(de[1033], he([1, 0, 81, 224, 4, 30]), function (ce /*require*/,
+ e /*exports*/,
+ t /*configurationRegistry*/,
+ i /*configuration*/,
+ w /*nls*/,
+ E /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.externalUriOpenersConfigurationNode =

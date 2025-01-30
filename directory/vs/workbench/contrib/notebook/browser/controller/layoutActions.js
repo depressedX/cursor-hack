@@ -24,7 +24,26 @@ define(
 				1, 0, 14, 3, 9, 4, 99, 11, 31, 10, 8, 63, 238, 108, 293, 70, 176, 161,
 				18, 131,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*nls*/,
+ C /*actionCommonCategories*/,
+ d /*actions*/,
+ m /*commands*/,
+ r /*configuration*/,
+ u /*contextkey*/,
+ a /*quickInput*/,
+ h /*coreActions*/,
+ c /*notebookBrowser*/,
+ n /*notebookEditorService*/,
+ g /*notebookCommon*/,
+ p /*notebookContextKeys*/,
+ o /*notebookService*/,
+ f /*editorService*/,
+ b /*preferences*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, d.$4X)(

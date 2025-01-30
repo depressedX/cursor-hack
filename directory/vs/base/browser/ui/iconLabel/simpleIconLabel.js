@@ -4,7 +4,12 @@ import '../../dom.js';
 import '../hover/hoverDelegate2.js';
 import '../hover/hoverDelegateFactory.js';
 import './iconLabels.js';
-define(de[758], he([1, 0, 7, 317, 95, 182]), function (ce, e, t, i, w, E) {
+define(de[758], he([1, 0, 7, 317, 95, 182]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*hoverDelegate2*/,
+ w /*hoverDelegateFactory*/,
+ E /*iconLabels*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Yob = void 0);
 			class C {

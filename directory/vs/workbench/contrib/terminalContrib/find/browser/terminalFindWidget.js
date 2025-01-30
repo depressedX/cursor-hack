@@ -17,7 +17,22 @@ import '../common/terminal.find.js';
 define(
 			de[3170],
 			he([1, 0, 7, 1722, 49, 8, 107, 237, 35, 10, 39, 6, 121, 3155, 72, 1263]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*simpleFindWidget*/,
+ w /*contextView*/,
+ E /*contextkey*/,
+ C /*terminal*/,
+ d /*terminalContextKey*/,
+ m /*themeService*/,
+ r /*configuration*/,
+ u /*keybinding*/,
+ a /*event*/,
+ h /*clipboardService*/,
+ c /*textInputContextMenu*/,
+ n /*hover*/,
+ g /*terminal.find*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$TVc = void 0),

@@ -8,7 +8,13 @@ import '../../../../../platform/terminal/common/terminal.js';
 define(
 			de[3162],
 			he([1, 0, 68, 25, 513, 562, 117]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uriIdentity*/,
+ i /*workspace*/,
+ w /*links*/,
+ E /*terminalLinkHelpers*/,
+ C /*terminal*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pWc = void 0);

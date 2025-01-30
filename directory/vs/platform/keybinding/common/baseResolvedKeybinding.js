@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/errors.js';
 import '../../../base/common/keybindingLabels.js';
 import '../../../base/common/keybindings.js';
-define(de[1187], he([1, 0, 29, 592, 343]), function (ce, e, t, i, w) {
+define(de[1187], he([1, 0, 29, 592, 343]), function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*keybindingLabels*/,
+ w /*keybindings*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$eEc = void 0);
 			class E extends w.$xs {

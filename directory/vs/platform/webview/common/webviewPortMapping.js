@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/network.js';
 import '../../../base/common/uri.js';
 import '../../tunnel/common/tunnel.js';
-define(de[2889], he([1, 0, 23, 9, 374]), function (ce, e, t, i, w) {
+define(de[2889], he([1, 0, 23, 9, 374]), function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*uri*/,
+ w /*tunnel*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$YIb = void 0);
 			class E {

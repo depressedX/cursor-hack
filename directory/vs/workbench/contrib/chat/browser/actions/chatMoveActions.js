@@ -14,7 +14,19 @@ import '../../../../services/views/common/viewsService.js';
 define(
 			de[3810],
 			he([1, 0, 4, 11, 8, 100, 402, 208, 552, 207, 66, 18, 89]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*contextkey*/,
+ E /*contextkeys*/,
+ C /*chatActions*/,
+ d /*chat*/,
+ m /*chatEditorInput*/,
+ r /*chatContextKeys*/,
+ u /*editorGroupsService*/,
+ a /*editorService*/,
+ h /*viewsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$KIc = n);
 				var c;

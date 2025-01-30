@@ -14,7 +14,19 @@ import '../../../ui/browser/simpleButton/simpleButton.js';
 define(
 			de[4275],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 694, 36, 147]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*codicons*/,
+ u /*useMarkdownHover*/,
+ a /*solid*/,
+ h /*simpleButton*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerControlsAndFeedback = n);

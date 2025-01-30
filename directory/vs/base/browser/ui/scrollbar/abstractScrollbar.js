@@ -10,7 +10,15 @@ import '../../../common/platform.js';
 define(
 			de[1577],
 			he([1, 0, 7, 194, 757, 1166, 2676, 235, 12]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*fastDomNode*/,
+ w /*globalPointerMoveMonitor*/,
+ E /*scrollbarArrow*/,
+ C /*scrollbarVisibilityController*/,
+ d /*widget*/,
+ m /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Zhb = void 0),

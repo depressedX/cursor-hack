@@ -13,7 +13,17 @@ import '../../../../css!vs/base/browser/ui/toggle/toggle.js';
 define(
 			de[268],
 			he([1, 0, 198, 235, 14, 26, 6, 27, 7, 95, 317, 2257]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actionViewItems*/,
+ i /*widget*/,
+ w /*codicons*/,
+ E /*themables*/,
+ C /*event*/,
+ d /*keyCodes*/,
+ m /*dom*/,
+ r /*hoverDelegateFactory*/,
+ u /*hoverDelegate2*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0ib = e.$9ib = e.$8ib = e.$7ib = e.$6ib = void 0),

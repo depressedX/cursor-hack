@@ -14,7 +14,19 @@ import '../../base/common/event.js';
 define(
 			de[192],
 			he([1, 0, 4, 44, 30, 3, 15, 18, 68, 227, 23, 103, 6]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*editor*/,
+ w /*platform*/,
+ E /*lifecycle*/,
+ C /*async*/,
+ d /*editorService*/,
+ m /*uriIdentity*/,
+ r /*workingCopyService*/,
+ u /*network*/,
+ a /*iterator*/,
+ h /*event*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wVb = e.$vVb = void 0),

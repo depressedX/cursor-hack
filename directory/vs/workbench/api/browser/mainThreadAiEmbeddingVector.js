@@ -7,7 +7,12 @@ import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3336],
 			he([1, 0, 3, 88, 1793, 101]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*extHost.protocol*/,
+ w /*aiEmbeddingVectorService*/,
+ E /*extHostCustomers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Uqc = void 0);

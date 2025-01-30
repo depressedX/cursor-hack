@@ -17,7 +17,22 @@ import '../../../../../nls.js';
 define(
 			de[1031],
 			he([1, 0, 3, 176, 108, 1841, 70, 330, 11, 8, 179, 27, 43, 18, 238, 4]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*notebookContextKeys*/,
+ w /*notebookBrowser*/,
+ E /*foldingModel*/,
+ C /*notebookCommon*/,
+ d /*notebookEditorExtensions*/,
+ m /*actions*/,
+ r /*contextkey*/,
+ u /*contextkeys*/,
+ a /*keyCodes*/,
+ h /*keybindingsRegistry*/,
+ c /*editorService*/,
+ n /*coreActions*/,
+ g /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$83b = void 0);

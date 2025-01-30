@@ -1,7 +1,9 @@
 import '../../require.js';
 import '../../exports.js';
 import './layout.js';
-define(de[1463], he([1, 0, 579]), function (ce, e, t) {
+define(de[1463], he([1, 0, 579]), function (ce /*require*/,
+ e /*exports*/,
+ t /*layout*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.mostIntersecting = e.closestCorners = e.closestCenter = void 0);

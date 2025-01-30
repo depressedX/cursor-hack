@@ -17,7 +17,22 @@ import '../../configuration/common/jsonEditing.js';
 define(
 		de[3602],
 		he([1, 0, 288, 12, 111, 4, 57, 1186, 113, 20, 34, 40, 41, 783, 21, 423]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*functional*/,
+ i /*platform*/,
+ w /*severity*/,
+ E /*nls*/,
+ C /*dialogs*/,
+ d /*encryptionService*/,
+ m /*environment*/,
+ r /*extensions*/,
+ u /*log*/,
+ a /*notification*/,
+ h /*opener*/,
+ c /*secrets*/,
+ n /*storage*/,
+ g /*jsonEditing*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Mdd = void 0),

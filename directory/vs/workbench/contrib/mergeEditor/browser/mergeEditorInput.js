@@ -24,7 +24,26 @@ define(
 				1, 0, 229, 77, 19, 28, 125, 4, 10, 22, 5, 73, 44, 399, 478, 3689, 3077,
 				18, 170, 85,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*observable*/,
+ w /*resources*/,
+ E /*types*/,
+ C /*textResourceConfiguration*/,
+ d /*nls*/,
+ m /*configuration*/,
+ r /*files*/,
+ u /*instantiation*/,
+ a /*label*/,
+ h /*editor*/,
+ c /*customEditorLabelService*/,
+ n /*textResourceEditorInput*/,
+ g /*mergeEditorInputModel*/,
+ p /*telemetry*/,
+ o /*editorService*/,
+ f /*filesConfigurationService*/,
+ b /*textfiles*/) {
 				"use strict";
 				var s;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

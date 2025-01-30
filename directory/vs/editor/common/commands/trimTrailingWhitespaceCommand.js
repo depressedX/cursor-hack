@@ -7,7 +7,12 @@ import '../encodedTokenAttributes.js';
 define(
 			de[1148],
 			he([1, 0, 37, 188, 17, 171]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*editOperation*/,
+ w /*range*/,
+ E /*encodedTokenAttributes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Pic = void 0),

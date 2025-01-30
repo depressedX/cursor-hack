@@ -13,7 +13,18 @@ import '../../../../../platform/markers/browser/markerService.js';
 define(
 			de[1789],
 			he([1, 0, 90, 332, 551, 83, 5, 20, 67, 137, 59, 770]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*markers*/,
+ i /*cppEventLogger*/,
+ w /*cppDebouncingService*/,
+ E /*utils_pb*/,
+ C /*instantiation*/,
+ d /*extensions*/,
+ m /*model*/,
+ r /*aiMiscServices*/,
+ u /*map*/,
+ a /*markerService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$R7b = void 0),

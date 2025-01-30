@@ -18,7 +18,23 @@ import '../../../../platform/notification/common/notification.js';
 define(
 			de[1867],
 			he([1, 0, 7, 50, 33, 47, 38, 17, 42, 1036, 255, 11, 31, 8, 49, 5, 40]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*actions*/,
+ w /*cancellation*/,
+ E /*uuid*/,
+ C /*editorOptions*/,
+ d /*range*/,
+ m /*resolverService*/,
+ r /*goToCommands*/,
+ u /*peekView*/,
+ a /*actions*/,
+ h /*commands*/,
+ c /*contextkey*/,
+ n /*contextView*/,
+ g /*instantiation*/,
+ p /*notification*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ohc = o),

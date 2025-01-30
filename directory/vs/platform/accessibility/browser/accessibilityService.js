@@ -12,7 +12,17 @@ import '../../layout/browser/layoutService.js';
 define(
 			de[2739],
 			he([1, 0, 7, 127, 75, 6, 3, 91, 10, 8, 180]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*aria*/,
+ w /*window*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*accessibility*/,
+ m /*configuration*/,
+ r /*contextkey*/,
+ u /*layoutService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$25c = void 0);

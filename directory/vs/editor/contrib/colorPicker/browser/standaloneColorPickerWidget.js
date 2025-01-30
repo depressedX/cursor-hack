@@ -23,7 +23,24 @@ define(
 				1, 0, 3, 56, 64, 1218, 5, 1616, 39, 6, 38, 69, 46, 71, 8, 1599, 7, 200,
 				1136,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*editorBrowser*/,
+ w /*model*/,
+ E /*colorHoverParticipant*/,
+ C /*instantiation*/,
+ d /*contentHoverStatusBar*/,
+ m /*keybinding*/,
+ r /*event*/,
+ u /*editorOptions*/,
+ a /*languageFeatures*/,
+ h /*editorExtensions*/,
+ c /*editorContextKeys*/,
+ n /*contextkey*/,
+ g /*defaultDocumentColorProvider*/,
+ p /*dom*/,
+ o /*editorWorker*/) {
 				"use strict";
 				var f, b;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

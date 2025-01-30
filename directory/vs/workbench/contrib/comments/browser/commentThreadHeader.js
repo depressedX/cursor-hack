@@ -15,7 +15,20 @@ import '../../../../base/browser/mouseEvent.js';
 define(
 			de[3029],
 			he([1, 0, 7, 105, 50, 14, 3, 37, 4, 92, 79, 26, 221, 168]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*actionbar*/,
+ w /*actions*/,
+ E /*codicons*/,
+ C /*lifecycle*/,
+ d /*strings*/,
+ m /*nls*/,
+ r /*menuEntryActionViewItem*/,
+ u /*iconRegistry*/,
+ a /*themables*/,
+ h /*marshallingIds*/,
+ c /*mouseEvent*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$u3b = void 0),

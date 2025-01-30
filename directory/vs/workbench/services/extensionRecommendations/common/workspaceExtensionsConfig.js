@@ -18,7 +18,23 @@ import '../../../../base/common/map.js';
 define(
 			de[828],
 			he([1, 0, 24, 6, 187, 3, 252, 22, 20, 5, 25, 63, 67, 61, 4, 423, 59]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*event*/,
+ w /*json*/,
+ E /*lifecycle*/,
+ C /*getIconClasses*/,
+ d /*files*/,
+ m /*extensions*/,
+ r /*instantiation*/,
+ u /*workspace*/,
+ a /*quickInput*/,
+ h /*model*/,
+ c /*language*/,
+ n /*nls*/,
+ g /*jsonEditing*/,
+ p /*map*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ERb = e.$DRb = e.$CRb = void 0),

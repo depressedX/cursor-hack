@@ -11,7 +11,16 @@ import '../../common/simpleTestService.js';
 define(
 			de[3703],
 			he([1, 0, 10, 61, 25, 42, 85, 17, 110, 697]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*configuration*/,
+ i /*language*/,
+ w /*workspace*/,
+ E /*resolverService*/,
+ C /*textfiles*/,
+ d /*range*/,
+ m /*native*/,
+ r /*simpleTestService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6dd = void 0);

@@ -9,7 +9,14 @@ import '../../../../contrib/aiFeatureStatusService/browser/aiFeatureStatusServic
 define(
 			de[3992],
 			he([1, 0, 42, 118, 45, 280, 134, 287]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*resolverService*/,
+ i /*aiService*/,
+ w /*reactiveStorageService*/,
+ E /*aiEverythingProviderService*/,
+ C /*reactiveStorageTypes*/,
+ d /*aiFeatureStatusService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$UZc = void 0);

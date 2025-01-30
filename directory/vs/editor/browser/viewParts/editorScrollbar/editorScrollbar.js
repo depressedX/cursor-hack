@@ -10,7 +10,15 @@ import '../../../common/config/editorOptions.js';
 define(
 			de[2844],
 			he([1, 0, 7, 194, 203, 303, 98, 35, 38]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*fastDomNode*/,
+ w /*scrollableElement*/,
+ E /*viewPart*/,
+ C /*editorCommon*/,
+ d /*themeService*/,
+ m /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nvb = void 0),

@@ -7,7 +7,12 @@ import './getOppositePlacement.js';
 define(
 			de[1495],
 			he([1, 0, 582, 1119, 583, 1121]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getAlignment*/,
+ i /*getLengthFromAxis*/,
+ w /*getMainAxisFromPlacement*/,
+ E /*getOppositePlacement*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Wlb = C);
 				function C(d, m, r = !1) {

@@ -17,7 +17,22 @@ import '../../../../base/common/severity.js';
 define(
 		de[3561],
 		he([1, 0, 143, 78, 4, 12, 32, 438, 823, 41, 87, 21, 62, 57, 14, 111]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*remoteAgentService*/,
+ i /*environmentService*/,
+ w /*nls*/,
+ E /*platform*/,
+ C /*telemetry*/,
+ d /*remoteHosts*/,
+ m /*bannerService*/,
+ r /*opener*/,
+ u /*host*/,
+ a /*storage*/,
+ h /*productService*/,
+ c /*dialogs*/,
+ n /*codicons*/,
+ g /*severity*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$HXc = void 0),

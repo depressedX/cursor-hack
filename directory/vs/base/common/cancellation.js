@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './event.js';
-define(de[33], he([1, 0, 6]), function (ce, e, t) {
+define(de[33], he([1, 0, 6]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Ce = e.CancellationToken = void 0),

@@ -7,7 +7,12 @@ import '../../extensions/common/extensions.js';
 define(
 			de[2818],
 			he([1, 0, 33, 119, 154, 109]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*extensionManagement*/,
+ w /*extensionManagementUtil*/,
+ E /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ZTc = C);
 				async function C(d, m, r, u, a) {

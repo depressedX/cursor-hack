@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/strings.js';
 import '../core/position.js';
 import './prefixSumComputer.js';
-define(de[2568], he([1, 0, 37, 48, 589]), function (ce, e, t, i, w) {
+define(de[2568], he([1, 0, 37, 48, 589]), function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*position*/,
+ w /*prefixSumComputer*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ZN = void 0);
 			class E {

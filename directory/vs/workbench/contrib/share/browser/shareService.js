@@ -10,7 +10,15 @@ import '../../../../platform/telemetry/common/telemetry.js';
 define(
 			de[3136],
 			he([1, 0, 65, 933, 4, 8, 73, 63, 32]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codeEditorService*/,
+ i /*languageSelector*/,
+ w /*nls*/,
+ E /*contextkey*/,
+ C /*label*/,
+ d /*quickInput*/,
+ m /*telemetry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$M2c = e.$L2c = void 0),

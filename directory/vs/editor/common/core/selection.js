@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import './position.js';
 import './range.js';
-define(de[104], he([1, 0, 48, 17]), function (ce, e, t, i) {
+define(de[104], he([1, 0, 48, 17]), function (ce /*require*/,
+ e /*exports*/,
+ t /*position*/,
+ i /*range*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$kL = e.SelectionDirection = void 0);

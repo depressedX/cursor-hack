@@ -10,7 +10,11 @@ import './bugbotActions.js';
 define(
 			de[4266],
 			he([1, 0, 55, 976, 45, 977, 4265, 4263, 3225]),
-			function (ce, e, t, i, w) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contributions*/,
+ i /*bugbot*/,
+ w /*reactiveStorageService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5zc = void 0);

@@ -22,7 +22,24 @@ define(
 				1, 0, 11, 18, 9, 137, 67, 61, 58, 1799, 79, 14, 45, 193, 971, 65, 1345,
 				41,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*editorService*/,
+ w /*uri*/,
+ E /*aiMiscServices*/,
+ C /*model*/,
+ d /*language*/,
+ m /*constants*/,
+ r /*cppDiffPeekView*/,
+ u /*iconRegistry*/,
+ a /*codicons*/,
+ h /*reactiveStorageService*/,
+ c /*store*/,
+ n /*cppUtils*/,
+ g /*codeEditorService*/,
+ p /*cppGhostTextController*/,
+ o /*opener*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nfd = e.$mfd = e.$lfd = e.$kfd = e.$jfd = void 0);

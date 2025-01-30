@@ -8,7 +8,13 @@ import '../../../services/textfile/common/textfiles.js';
 define(
 			de[3680],
 			he([1, 0, 6, 3, 19, 42, 85]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*resources*/,
+ E /*resolverService*/,
+ C /*textfiles*/) {
 				"use strict";
 				var d;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

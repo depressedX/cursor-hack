@@ -7,7 +7,12 @@ import './utils/getSide.js';
 define(
 			de[2199],
 			he([1, 0, 582, 1119, 583, 487]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getAlignment*/,
+ i /*getLengthFromAxis*/,
+ w /*getMainAxisFromPlacement*/,
+ E /*getSide*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$amb = C);
 				function C({ reference: d, floating: m }, r, u) {

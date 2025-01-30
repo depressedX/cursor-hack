@@ -10,7 +10,13 @@ import '../../symbolIcons/browser/symbolIcons.js';
 define(
 			de[2834],
 			he([1, 0, 14, 291, 4, 1206, 318, 1135, 1205]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*types*/,
+ w /*nls*/,
+ E /*actionList*/,
+ C /*hierarchicalKind*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$vBb = u);
 				const d = "Fix with AI",

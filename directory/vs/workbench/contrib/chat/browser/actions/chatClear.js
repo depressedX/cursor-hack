@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../chatEditorInput.js';
 import '../../../../services/editor/common/editorService.js';
-define(de[1288], he([1, 0, 552, 18]), function (ce, e, t, i) {
+define(de[1288], he([1, 0, 552, 18]), function (ce /*require*/,
+ e /*exports*/,
+ t /*chatEditorInput*/,
+ i /*editorService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$1Yb = w);
 			async function w(E, C) {

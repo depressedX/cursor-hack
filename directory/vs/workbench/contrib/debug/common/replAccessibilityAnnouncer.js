@@ -4,7 +4,12 @@ import '../../../../base/common/lifecycle.js';
 import '../../../../platform/accessibility/common/accessibility.js';
 import '../../../../platform/log/common/log.js';
 import './debug.js';
-define(de[3056], he([1, 0, 3, 91, 34, 112]), function (ce, e, t, i, w, E) {
+define(de[3056], he([1, 0, 3, 91, 34, 112]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*accessibility*/,
+ w /*log*/,
+ E /*debug*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$oRc = void 0);
 			let C = class extends t.$1c {

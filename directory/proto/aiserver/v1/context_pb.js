@@ -7,7 +7,12 @@ import './lsp_subgraph_pb.js';
 define(
 			de[228],
 			he([1, 0, 86, 83, 367, 1477]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*utils_pb*/,
+ w /*cpp_pb*/,
+ E /*lsp_subgraph_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$oC =

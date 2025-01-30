@@ -9,7 +9,14 @@ import './toolsV2HandlerRegistryService.js';
 define(
 			de[3645],
 			he([1, 0, 124, 22, 25, 226, 1284, 398]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*files*/,
+ w /*workspace*/,
+ E /*repositoryService*/,
+ C /*readFileHelper*/,
+ d /*toolsV2HandlerRegistryService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0yc = void 0);

@@ -16,7 +16,21 @@ import '../../../../../../base/common/constants.js';
 define(
 			de[1072],
 			he([1, 0, 2, 2, 2, 2, 2, 13, 36, 134, 340, 147, 401, 863, 58]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*solid*/,
+ m /*solid*/,
+ r /*reactiveStorageTypes*/,
+ u /*connect*/,
+ a /*simpleButton*/,
+ h /*aiErrorService*/,
+ c /*SlowPoolGenerationIndicator*/,
+ n /*constants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$l_b = f),

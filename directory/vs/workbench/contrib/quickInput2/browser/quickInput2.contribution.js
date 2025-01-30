@@ -10,7 +10,15 @@ import '../../../services/ai/browser/aiMiscServices.js';
 define(
 			de[4348],
 			he([1, 0, 20, 3, 5, 45, 7, 4347, 137]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*lifecycle*/,
+ w /*instantiation*/,
+ E /*reactiveStorageService*/,
+ C /*dom*/,
+ d /*renderQuickInputBoxPreviewBox*/,
+ m /*aiMiscServices*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let r = class extends i.$1c {

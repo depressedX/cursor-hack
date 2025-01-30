@@ -15,7 +15,20 @@ import '../../../services/timer/browser/timerService.js';
 define(
 			de[3735],
 			he([1, 0, 15, 76, 19, 47, 10, 22, 34, 110, 1651, 151, 698, 520]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*buffer*/,
+ w /*resources*/,
+ E /*uuid*/,
+ C /*configuration*/,
+ d /*files*/,
+ m /*log*/,
+ r /*native*/,
+ u /*profileAnalysisWorkerService*/,
+ a /*environmentService*/,
+ h /*extensionDevOptions*/,
+ c /*timerService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Cgd = void 0);

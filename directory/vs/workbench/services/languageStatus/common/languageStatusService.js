@@ -4,7 +4,12 @@ import '../../../../base/common/strings.js';
 import '../../../../editor/common/languageFeatureRegistry.js';
 import '../../../../platform/instantiation/common/extensions.js';
 import '../../../../platform/instantiation/common/instantiation.js';
-define(de[1024], he([1, 0, 37, 945, 20, 5]), function (ce, e, t, i, w, E) {
+define(de[1024], he([1, 0, 37, 945, 20, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*languageFeatureRegistry*/,
+ w /*extensions*/,
+ E /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$c8 = void 0),

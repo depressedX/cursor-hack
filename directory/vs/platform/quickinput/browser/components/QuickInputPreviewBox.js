@@ -10,7 +10,15 @@ import '../../../../base/common/uuid.js';
 define(
 			de[2749],
 			he([1, 0, 2, 2, 2, 2, 13, 7, 47]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*dom*/,
+ m /*uuid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ixc = void 0);

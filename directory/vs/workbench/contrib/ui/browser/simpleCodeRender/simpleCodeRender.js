@@ -19,7 +19,23 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/simpleCodeRender/simp
 define(
 			de[865],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 26, 9, 38, 502, 312, 36, 64, 2529]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*solid*/,
+ u /*themables*/,
+ a /*uri*/,
+ h /*editorOptions*/,
+ c /*icons*/,
+ n /*codeBlock*/,
+ g /*solid*/,
+ p /*model*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Ibc = s);
 				const o = (0, t.template)("<div>"),

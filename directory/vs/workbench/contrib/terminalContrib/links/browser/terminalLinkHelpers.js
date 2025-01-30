@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../base/common/platform.js';
 import '../../../../../base/common/path.js';
 import '../../../../../platform/terminal/common/capabilities/capabilities.js';
-define(de[562], he([1, 0, 12, 54, 189]), function (ce, e, t, i, w) {
+define(de[562], he([1, 0, 12, 54, 189]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*path*/,
+ w /*capabilities*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$0Vc = E),

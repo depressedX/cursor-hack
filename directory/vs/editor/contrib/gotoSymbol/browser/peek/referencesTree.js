@@ -17,7 +17,22 @@ import '../referencesModel.js';
 define(
 			de[2833],
 			he([1, 0, 7, 495, 410, 325, 132, 3, 19, 42, 4, 5, 39, 73, 106, 541]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*countBadge*/,
+ w /*highlightedLabel*/,
+ E /*iconLabel*/,
+ C /*filters*/,
+ d /*lifecycle*/,
+ m /*resources*/,
+ r /*resolverService*/,
+ u /*nls*/,
+ a /*instantiation*/,
+ h /*keybinding*/,
+ c /*label*/,
+ n /*defaultStyles*/,
+ g /*referencesModel*/) {
 				"use strict";
 				var p;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -9,7 +9,14 @@ import './files.js';
 define(
 			de[938],
 			he([1, 0, 215, 3, 54, 12, 9, 22]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*glob*/,
+ i /*lifecycle*/,
+ w /*path*/,
+ E /*platform*/,
+ C /*uri*/,
+ d /*files*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$xr = e.$wr = e.$vr = void 0),

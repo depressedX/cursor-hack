@@ -14,7 +14,18 @@ import '../../../../../css!vs/workbench/contrib/terminalContrib/stickyScroll/bro
 define(
 			de[2004],
 			he([1, 0, 6, 3, 10, 8, 5, 39, 189, 1074, 808, 3172, 1144]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*configuration*/,
+ E /*contextkey*/,
+ C /*instantiation*/,
+ d /*keybinding*/,
+ m /*capabilities*/,
+ r /*terminalInstance*/,
+ u /*terminalStickyScrollConfiguration*/,
+ a /*terminalStickyScrollOverlay*/) {
 				"use strict";
 				var h;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

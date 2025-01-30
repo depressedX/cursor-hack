@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../utils/index.js';
 import '../types.js';
-define(de[2093], he([1, 0, 80, 366]), function (ce, e, t, i) {
+define(de[2093], he([1, 0, 80, 366]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.SENTRY_XHR_DATA_KEY = void 0),

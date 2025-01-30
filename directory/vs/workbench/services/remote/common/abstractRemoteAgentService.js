@@ -15,7 +15,20 @@ import '../../../../platform/remote/common/remoteSocketFactoryService.js';
 define(
 			de[3786],
 			he([1, 0, 3, 305, 78, 604, 211, 3542, 6, 952, 34, 62, 133, 773]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*ipc*/,
+ w /*environmentService*/,
+ E /*remoteAgentConnection*/,
+ C /*remoteAuthorityResolver*/,
+ d /*remoteAgentEnvironmentChannel*/,
+ m /*event*/,
+ r /*sign*/,
+ u /*log*/,
+ a /*productService*/,
+ h /*userDataProfile*/,
+ c /*remoteSocketFactoryService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$r3c = void 0);

@@ -9,7 +9,14 @@ import '../code.js';
 define(
 			de[877],
 			he([1, 0, 86, 873, 870, 1081, 213, 202]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*universal*/,
+ w /*content-type-matcher*/,
+ E /*limit-io*/,
+ C /*connect-error*/,
+ d /*code*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.validateUniversalHandlerOptions = m),

@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../lexical-text/api.js';
 import '../../solid/solid.js';
 import './utils.js';
-define(de[2596], he([1, 0, 1159, 13, 1414]), function (ce, e, t, i, w) {
+define(de[2596], he([1, 0, 1159, 13, 1414]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*solid*/,
+ w /*utils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.useLexicalIsTextContentEmpty = E);

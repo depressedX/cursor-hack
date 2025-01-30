@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 6, 64, 257, 17, 122, 188, 342, 798, 200, 24, 103, 3, 8, 34, 109,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*model*/,
+ w /*inlineChat*/,
+ E /*range*/,
+ C /*textModel*/,
+ d /*editOperation*/,
+ m /*rangeMapping*/,
+ r /*inlineChatSessionService*/,
+ u /*editorWorker*/,
+ a /*arrays*/,
+ h /*iterator*/,
+ c /*lifecycle*/,
+ n /*contextkey*/,
+ g /*log*/,
+ p /*extensions*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

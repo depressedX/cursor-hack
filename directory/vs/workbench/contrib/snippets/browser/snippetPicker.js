@@ -11,7 +11,16 @@ import '../../../../base/common/lifecycle.js';
 define(
 			de[1753],
 			he([1, 0, 4, 510, 805, 63, 14, 26, 6, 3]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*snippets*/,
+ w /*snippetsFile*/,
+ E /*quickInput*/,
+ C /*codicons*/,
+ d /*themables*/,
+ m /*event*/,
+ r /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$3Xc = u),

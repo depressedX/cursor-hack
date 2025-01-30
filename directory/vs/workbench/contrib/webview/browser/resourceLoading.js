@@ -9,7 +9,14 @@ import '../../../../platform/webview/common/mimeTypes.js';
 define(
 			de[3211],
 			he([1, 0, 249, 23, 54, 9, 22, 2888]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extpath*/,
+ i /*network*/,
+ w /*path*/,
+ E /*uri*/,
+ C /*files*/,
+ d /*mimeTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.WebviewResourceResponse = void 0),

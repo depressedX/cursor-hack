@@ -11,7 +11,15 @@ import '../../../../css!vs/base/browser/ui/keybindingLabel/keybindingLabel.js';
 define(
 			de[460],
 			he([1, 0, 7, 317, 95, 592, 3, 82, 4, 2245]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*hoverDelegate2*/,
+ w /*hoverDelegateFactory*/,
+ E /*keybindingLabels*/,
+ C /*lifecycle*/,
+ d /*objects*/,
+ m /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$7ob = e.$6ob = void 0),

@@ -13,7 +13,18 @@ import './trace.js';
 define(
 			de[2123],
 			he([1, 0, 80, 234, 263, 453, 638, 731, 301, 888, 636, 1448]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*currentScopes*/,
+ w /*debug-build*/,
+ E /*semanticAttributes*/,
+ C /*hasTracingEnabled*/,
+ d /*spanOnScope*/,
+ m /*spanUtils*/,
+ r /*sentryNonRecordingSpan*/,
+ u /*spanstatus*/,
+ a /*trace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.TRACING_DEFAULTS = void 0),

@@ -7,7 +7,12 @@ import './chatData.js';
 define(
 			de[4406],
 			he([1, 0, 2, 36, 4405, 140]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*solid*/,
+ w /*AiChat*/,
+ E /*chatData*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$jcc = C);
 				function C(d, m, r, u, a, h) {

@@ -9,7 +9,14 @@ import '../../registry/common/platform.js';
 define(
 			de[778],
 			he([1, 0, 15, 97, 6, 4, 250, 30]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*color*/,
+ w /*event*/,
+ E /*nls*/,
+ C /*jsonContributionRegistry*/,
+ d /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$omc = e.SemanticTokenRule = e.$lmc = e.$kmc = void 0),

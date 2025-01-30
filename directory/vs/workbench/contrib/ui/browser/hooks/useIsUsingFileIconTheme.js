@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../../external/solid/solid.js';
 import '../../../controlCommon/browser/solid.js';
-define(de[428], he([1, 0, 13, 36]), function (ce, e, t, i) {
+define(de[428], he([1, 0, 13, 36]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$b$b = w);
 			function w() {

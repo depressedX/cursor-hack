@@ -8,7 +8,13 @@ import '../../../../platform/files/common/files.js';
 define(
 			de[1910],
 			he([1, 0, 15, 33, 6, 3, 22]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*cancellation*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*files*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$eZ = void 0);
 				let d = class extends E.$1c {

@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/keyCodes.js';
 import '../../instantiation/common/instantiation.js';
-define(de[1188], he([1, 0, 27, 5]), function (ce, e, t, i) {
+define(de[1188], he([1, 0, 27, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Hvc = void 0),

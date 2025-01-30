@@ -10,7 +10,15 @@ import './core/indentation.js';
 define(
 			de[346],
 			he([1, 0, 38, 48, 17, 104, 748, 435, 1146]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorOptions*/,
+ i /*position*/,
+ w /*range*/,
+ E /*selection*/,
+ C /*supports*/,
+ d /*cursorColumns*/,
+ m /*indentation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Csb =

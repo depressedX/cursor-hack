@@ -16,7 +16,21 @@ import '../../../base/common/types.js';
 define(
 		de[3684],
 		he([1, 0, 3, 9, 112, 88, 101, 111, 3048, 396, 29, 1039, 109, 6, 28]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*uri*/,
+ w /*debug*/,
+ E /*extHost.protocol*/,
+ C /*extHostCustomers*/,
+ d /*severity*/,
+ m /*abstractDebugAdapter*/,
+ r /*debugUtils*/,
+ u /*errors*/,
+ a /*debugVisualizers*/,
+ h /*extensions*/,
+ c /*event*/,
+ n /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Xmc = void 0),

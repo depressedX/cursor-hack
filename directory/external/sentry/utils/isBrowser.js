@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './node.js';
 import './worldwide.js';
-define(de[2076], he([1, 0, 1423, 365]), function (ce, e, t, i) {
+define(de[2076], he([1, 0, 1423, 365]), function (ce /*require*/,
+ e /*exports*/,
+ t /*node*/,
+ i /*worldwide*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.isBrowser = w);
 			function w() {

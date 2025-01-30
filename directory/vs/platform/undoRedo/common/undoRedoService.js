@@ -12,7 +12,17 @@ import './undoRedo.js';
 define(
 		de[2876],
 		he([1, 0, 29, 3, 23, 111, 4, 57, 20, 40, 155]),
-		function (ce, e, t, i, w, E, C, d, m, r, u) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*lifecycle*/,
+ w /*network*/,
+ E /*severity*/,
+ C /*nls*/,
+ d /*dialogs*/,
+ m /*extensions*/,
+ r /*notification*/,
+ u /*undoRedo*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$bvc = void 0),

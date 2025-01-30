@@ -16,7 +16,20 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/modal/modal.js';
 define(
 			de[1374],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 14, 26, 13, 36, 2523]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*codicons*/,
+ a /*themables*/,
+ h /*solid*/,
+ c /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ufd = void 0);

@@ -7,7 +7,12 @@ import './editorColors.js';
 define(
 			de[2830],
 			he([1, 0, 4, 306, 544, 605]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*colorUtils*/,
+ w /*baseColors*/,
+ E /*editorColors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$qT = e.$pT = e.$oT = void 0),

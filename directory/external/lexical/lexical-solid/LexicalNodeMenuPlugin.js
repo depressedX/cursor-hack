@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './shared/LexicalMenu.js';
-define(de[2606], he([1, 0, 925]), function (ce, e, t) {
+define(de[2606], he([1, 0, 925]), function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalMenu*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.MenuOption = void 0),

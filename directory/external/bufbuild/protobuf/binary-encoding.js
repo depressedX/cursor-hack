@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './google/varint.js';
 import './private/assert.js';
 import './proto-int64.js';
-define(de[1085], he([1, 0, 1395, 451, 525]), function (ce, e, t, i, w) {
+define(de[1085], he([1, 0, 1395, 451, 525]), function (ce /*require*/,
+ e /*exports*/,
+ t /*varint*/,
+ i /*assert*/,
+ w /*proto-int64*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.BinaryReader = e.BinaryWriter = e.WireType = void 0);

@@ -15,7 +15,20 @@ import './aiReader.js';
 define(
 			de[1710],
 			he([1, 0, 7, 58, 3, 21, 32, 35, 217, 223, 123, 9, 23, 788]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*constants*/,
+ w /*lifecycle*/,
+ E /*storage*/,
+ C /*telemetry*/,
+ d /*themeService*/,
+ m /*editorPane*/,
+ r /*editorInput*/,
+ u /*theme*/,
+ a /*uri*/,
+ h /*network*/,
+ c /*aiReader*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

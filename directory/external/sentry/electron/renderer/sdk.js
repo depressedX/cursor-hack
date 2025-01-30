@@ -9,7 +9,14 @@ import './transport.js';
 define(
 			de[2150],
 			he([1, 0, 1105, 80, 2148, 1460, 1461, 1462]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*anr*/,
+ E /*scope-to-main*/,
+ C /*stack-parse*/,
+ d /*transport*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.getDefaultIntegrations = m),

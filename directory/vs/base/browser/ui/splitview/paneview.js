@@ -17,7 +17,21 @@ import '../../../../css!vs/base/browser/ui/splitview/paneview.js';
 define(
 			de[1580],
 			he([1, 0, 139, 323, 7, 265, 114, 159, 277, 97, 6, 27, 3, 4, 279, 2254]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*browser*/,
+ i /*dnd*/,
+ w /*dom*/,
+ E /*event*/,
+ C /*keyboardEvent*/,
+ d /*touch*/,
+ m /*sash*/,
+ r /*color*/,
+ u /*event*/,
+ a /*keyCodes*/,
+ h /*lifecycle*/,
+ c /*nls*/,
+ n /*splitview*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gpb = e.$fpb = e.Pane = void 0);

@@ -22,7 +22,24 @@ define(
 				1, 0, 139, 459, 114, 168, 15, 29, 6, 920, 27, 3, 23, 12, 9, 136, 75,
 				201,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*browser*/,
+ i /*canIUse*/,
+ w /*keyboardEvent*/,
+ E /*mouseEvent*/,
+ C /*async*/,
+ d /*errors*/,
+ m /*event*/,
+ r /*dompurify*/,
+ u /*keyCodes*/,
+ a /*lifecycle*/,
+ h /*network*/,
+ c /*platform*/,
+ n /*uri*/,
+ g /*hash*/,
+ p /*window*/,
+ o /*numbers*/) {
 				"use strict";
 				var f;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

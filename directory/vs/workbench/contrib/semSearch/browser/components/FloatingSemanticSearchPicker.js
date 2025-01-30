@@ -21,7 +21,24 @@ define(
 			he([
 				1, 0, 2, 2, 13, 4214, 36, 33, 56, 17, 64, 307, 35, 54, 156, 860, 2, 215,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*solid*/,
+ E /*SemSearchPickerMenu*/,
+ C /*solid*/,
+ d /*cancellation*/,
+ m /*editorBrowser*/,
+ r /*range*/,
+ u /*model*/,
+ a /*editorColorRegistry*/,
+ h /*themeService*/,
+ c /*path*/,
+ n /*pureIcon*/,
+ g /*renderFolderStructurePickerMenuPreview*/,
+ p /*web*/,
+ o /*glob*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$DZc = f),

@@ -10,7 +10,15 @@ import './workspaceExtensionsConfig.js';
 define(
 			de[3301],
 			he([1, 0, 24, 6, 3, 20, 21, 314, 828]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*extensions*/,
+ C /*storage*/,
+ d /*extensionRecommendations*/,
+ m /*workspaceExtensionsConfig*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Awc = void 0);

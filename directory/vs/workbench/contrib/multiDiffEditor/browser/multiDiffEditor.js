@@ -15,7 +15,20 @@ import '../../../../editor/common/core/range.js';
 define(
 			de[1883],
 			he([1, 0, 1683, 125, 5, 21, 32, 35, 233, 1016, 712, 66, 18, 17]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*multiDiffEditorWidget*/,
+ i /*textResourceConfiguration*/,
+ w /*instantiation*/,
+ E /*storage*/,
+ C /*telemetry*/,
+ d /*themeService*/,
+ m /*labels*/,
+ r /*editorWithViewState*/,
+ u /*multiDiffEditorInput*/,
+ a /*editorGroupsService*/,
+ h /*editorService*/,
+ c /*range*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

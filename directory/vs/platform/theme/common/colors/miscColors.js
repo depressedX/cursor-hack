@@ -4,7 +4,12 @@ import '../../../../nls.js';
 import '../../../../base/common/color.js';
 import '../colorUtils.js';
 import './baseColors.js';
-define(de[1203], he([1, 0, 4, 97, 306, 544]), function (ce, e, t, i, w, E) {
+define(de[1203], he([1, 0, 4, 97, 306, 544]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*color*/,
+ w /*colorUtils*/,
+ E /*baseColors*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$7P =

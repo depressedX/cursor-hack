@@ -8,7 +8,13 @@ import '../../dom.js';
 define(
 			de[1166],
 			he([1, 0, 757, 235, 15, 26, 7]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*globalPointerMoveMonitor*/,
+ i /*widget*/,
+ w /*async*/,
+ E /*themables*/,
+ C /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Whb = e.$Vhb = void 0),

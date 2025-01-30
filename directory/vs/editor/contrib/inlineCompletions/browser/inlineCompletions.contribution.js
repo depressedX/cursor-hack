@@ -11,7 +11,16 @@ import '../../../../platform/actions/common/actions.js';
 define(
 			de[3933],
 			he([1, 0, 46, 368, 1928, 2929, 2930, 501, 412, 11]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*hoverTypes*/,
+ w /*commands*/,
+ E /*hoverParticipant*/,
+ C /*inlineCompletionsAccessibleView*/,
+ d /*inlineCompletionsController*/,
+ m /*accessibleViewRegistry*/,
+ r /*actions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, t.$qtb)(

@@ -11,7 +11,14 @@ import './aicontextActions.js';
 define(
 			de[4109],
 			he([1, 0, 1713, 30, 81, 14, 79, 118, 1964, 3959]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*aicontext*/,
+ i /*platform*/,
+ w /*configurationRegistry*/,
+ E /*codicons*/,
+ C /*iconRegistry*/,
+ d /*aiService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const m = (0, C.$$O)(

@@ -17,7 +17,22 @@ import '../../../../base/common/objects.js';
 define(
 			de[3280],
 			he([1, 0, 4, 28, 112, 10, 358, 1796, 125, 9, 23, 396, 269, 78, 8, 82]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*types*/,
+ w /*debug*/,
+ E /*configuration*/,
+ C /*configurationResolver*/,
+ d /*configurationResolverUtils*/,
+ m /*textResourceConfiguration*/,
+ r /*uri*/,
+ u /*network*/,
+ a /*debugUtils*/,
+ h /*telemetryUtils*/,
+ c /*environmentService*/,
+ n /*contextkey*/,
+ g /*objects*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$NQc = void 0),

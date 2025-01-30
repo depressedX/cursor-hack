@@ -10,7 +10,15 @@ import '../../../base/common/lifecycle.js';
 define(
 			de[2880],
 			he([1, 0, 68, 20, 22, 19, 2223, 6, 3]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uriIdentity*/,
+ i /*extensions*/,
+ w /*files*/,
+ E /*resources*/,
+ C /*skipList*/,
+ d /*event*/,
+ m /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$oK = void 0);
 				class r {

@@ -11,7 +11,16 @@ import '../../../base/common/linkedList.js';
 define(
 			de[1615],
 			he([1, 0, 15, 29, 3, 102, 2708, 5, 128, 273]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*errors*/,
+ w /*lifecycle*/,
+ E /*descriptors*/,
+ C /*graph*/,
+ d /*instantiation*/,
+ m /*serviceCollection*/,
+ r /*linkedList*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Zr = e.$Yr = void 0);

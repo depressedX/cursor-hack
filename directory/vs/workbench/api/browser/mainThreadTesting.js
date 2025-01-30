@@ -22,7 +22,24 @@ define(
 				1, 0, 6, 3, 77, 743, 9, 17, 68, 1e3, 259, 420, 421, 381, 379, 185, 101,
 				88,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*observable*/,
+ E /*prefixTree*/,
+ C /*uri*/,
+ d /*range*/,
+ m /*uriIdentity*/,
+ r /*testCoverage*/,
+ u /*testId*/,
+ a /*testProfileService*/,
+ h /*testResult*/,
+ c /*testResultService*/,
+ n /*testService*/,
+ g /*testTypes*/,
+ p /*extHostCustomers*/,
+ o /*extHost.protocol*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Mqc = void 0);

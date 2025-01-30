@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/platform.js';
 import './editorOptions.js';
 import './editorZoom.js';
-define(de[463], he([1, 0, 12, 38, 909]), function (ce, e, t, i, w) {
+define(de[463], he([1, 0, 12, 38, 909]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*editorOptions*/,
+ w /*editorZoom*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$QK = e.$PK = e.$OK = void 0),

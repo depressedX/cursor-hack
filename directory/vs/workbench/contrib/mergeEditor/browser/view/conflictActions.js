@@ -12,7 +12,17 @@ import './fixedZoneWidget.js';
 define(
 			de[1740],
 			he([1, 0, 7, 182, 136, 3, 77, 38, 4, 1250, 3083]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*iconLabels*/,
+ w /*hash*/,
+ E /*lifecycle*/,
+ C /*observable*/,
+ d /*editorOptions*/,
+ m /*nls*/,
+ r /*modifiedBaseRange*/,
+ u /*fixedZoneWidget*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$k1b = e.$j1b = void 0);

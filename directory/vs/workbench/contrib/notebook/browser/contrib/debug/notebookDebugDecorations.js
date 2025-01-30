@@ -15,7 +15,20 @@ import '../../../common/notebookExecutionStateService.js';
 define(
 			de[4101],
 			he([1, 0, 15, 3, 17, 10, 1331, 796, 112, 108, 330, 856, 70, 190]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*range*/,
+ E /*configuration*/,
+ C /*breakpointEditorContribution*/,
+ d /*callStackEditorContribution*/,
+ m /*debug*/,
+ r /*notebookBrowser*/,
+ u /*notebookEditorExtensions*/,
+ a /*notebookEditorWidget*/,
+ h /*notebookCommon*/,
+ c /*notebookExecutionStateService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$uGc = e.$tGc = void 0);

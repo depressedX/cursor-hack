@@ -12,7 +12,17 @@ import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[1672],
 			he([1, 0, 222, 54, 19, 37, 47, 152, 389, 4, 25]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*labels*/,
+ i /*path*/,
+ w /*resources*/,
+ E /*strings*/,
+ C /*uuid*/,
+ d /*languageConfigurationRegistry*/,
+ m /*snippetParser*/,
+ r /*nls*/,
+ u /*workspace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mDb =

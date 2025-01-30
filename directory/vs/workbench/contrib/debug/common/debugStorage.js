@@ -11,7 +11,16 @@ import '../../../services/textfile/common/textfiles.js';
 define(
 			de[3683],
 			he([1, 0, 3, 77, 9, 34, 21, 68, 300, 85]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*uri*/,
+ E /*log*/,
+ C /*storage*/,
+ d /*uriIdentity*/,
+ m /*debugModel*/,
+ r /*textfiles*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$B3 = void 0);
 				const u = "debug.breakpoint",

@@ -7,7 +7,12 @@ import '../../../ai/browser/fastContextService.js';
 define(
 			de[3994],
 			he([1, 0, 228, 25, 287, 400]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*context_pb*/,
+ i /*workspace*/,
+ w /*aiFeatureStatusService*/,
+ E /*fastContextService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$MZc = void 0);

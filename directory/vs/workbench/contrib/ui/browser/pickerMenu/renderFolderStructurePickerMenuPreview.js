@@ -14,7 +14,19 @@ import '../../../../../base/common/codicons.js';
 define(
 			de[860],
 			he([1, 0, 2, 2, 2, 2, 2, 36, 54, 156, 13, 26, 14]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*solid*/,
+ m /*path*/,
+ r /*pureIcon*/,
+ u /*solid*/,
+ a /*themables*/,
+ h /*codicons*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$7bc = void 0);

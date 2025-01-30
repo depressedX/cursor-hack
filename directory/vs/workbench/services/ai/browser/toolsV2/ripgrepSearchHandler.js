@@ -13,7 +13,18 @@ import '../../../selectedContext/browser/selectedContext.js';
 define(
 			de[3930],
 			he([1, 0, 124, 25, 398, 186, 361, 5, 9, 33, 124, 271]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*workspace*/,
+ w /*toolsV2HandlerRegistryService*/,
+ E /*search*/,
+ C /*queryBuilder*/,
+ d /*instantiation*/,
+ m /*uri*/,
+ r /*cancellation*/,
+ u /*tools_pb*/,
+ a /*selectedContext*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$1yc = void 0);

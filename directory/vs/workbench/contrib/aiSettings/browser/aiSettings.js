@@ -13,7 +13,18 @@ import './aiSettingsEditor.js';
 define(
 			de[1997],
 			he([1, 0, 5, 315, 3, 30, 55, 52, 8, 41, 18, 1383]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*aiSettingsService*/,
+ w /*lifecycle*/,
+ E /*platform*/,
+ C /*contributions*/,
+ d /*lifecycle*/,
+ m /*contextkey*/,
+ r /*opener*/,
+ u /*editorService*/,
+ a /*aiSettingsEditor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$TDc = void 0),

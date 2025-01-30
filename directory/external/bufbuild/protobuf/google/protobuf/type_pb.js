@@ -7,7 +7,12 @@ import './any_pb.js';
 define(
 			de[1406],
 			he([1, 0, 406, 339, 1088, 875]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*proto3*/,
+ i /*message*/,
+ w /*source_context_pb*/,
+ E /*any_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.Option =

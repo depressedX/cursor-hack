@@ -11,7 +11,16 @@ import '../../../../platform/log/common/log.js';
 define(
 			de[3485],
 			he([1, 0, 22, 67, 59, 3, 6, 199, 572, 34]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*files*/,
+ i /*model*/,
+ w /*map*/,
+ E /*lifecycle*/,
+ C /*event*/,
+ d /*bulkEditService*/,
+ m /*bulkCellEdits*/,
+ r /*log*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_Mc = void 0);

@@ -9,7 +9,13 @@ import '../../../../css!vs/base/browser/ui/contextview/contextview.js';
 define(
 			de[276],
 			he([1, 0, 459, 7, 3, 12, 902, 2236]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*canIUse*/,
+ i /*dom*/,
+ w /*lifecycle*/,
+ E /*platform*/,
+ C /*range*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$iib =

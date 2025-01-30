@@ -15,7 +15,20 @@ import './cellParts/cellEditorOptions.js';
 define(
 			de[3502],
 			he([1, 0, 7, 15, 3, 206, 71, 42, 10, 8, 5, 128, 108, 836]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*async*/,
+ w /*lifecycle*/,
+ E /*codeEditorWidget*/,
+ C /*editorContextKeys*/,
+ d /*resolverService*/,
+ m /*configuration*/,
+ r /*contextkey*/,
+ u /*instantiation*/,
+ a /*serviceCollection*/,
+ h /*notebookBrowser*/,
+ c /*cellEditorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$23b = void 0),

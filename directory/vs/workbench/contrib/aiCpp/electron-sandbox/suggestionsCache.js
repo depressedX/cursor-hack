@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../browser/utils.js';
 import '../../../../editor/contrib/lightweightModel/common/lightweightTextModel.js';
-define(de[2962], he([1, 0, 1228, 1155]), function (ce, e, t, i) {
+define(de[2962], he([1, 0, 1228, 1155]), function (ce /*require*/,
+ e /*exports*/,
+ t /*utils*/,
+ i /*lightweightTextModel*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Ved = e.$Ued = void 0),

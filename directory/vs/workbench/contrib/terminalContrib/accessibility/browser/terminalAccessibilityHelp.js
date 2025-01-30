@@ -17,7 +17,22 @@ import '../../../accessibility/browser/accessibilityConfiguration.js';
 define(
 			de[3569],
 			he([1, 0, 3, 4, 31, 8, 5, 117, 417, 145, 10, 996, 995, 1766, 178, 130]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*nls*/,
+ w /*commands*/,
+ E /*contextkey*/,
+ C /*instantiation*/,
+ d /*terminal*/,
+ m /*accessibilityCommands*/,
+ r /*terminal*/,
+ u /*configuration*/,
+ a /*terminalAccessibilityConfiguration*/,
+ h /*terminal.accessibility*/,
+ c /*terminal.links*/,
+ n /*accessibleView*/,
+ g /*accessibilityConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$LVc = e.ClassName = void 0);

@@ -16,7 +16,21 @@ import './diffEditorAccessibilityHelp.js';
 define(
 			de[3767],
 			he([1, 0, 3, 77, 46, 784, 125, 4, 412, 5, 40, 30, 824, 224, 3766]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*editorExtensions*/,
+ E /*embeddedDiffEditorWidget*/,
+ C /*textResourceConfiguration*/,
+ d /*nls*/,
+ m /*accessibleViewRegistry*/,
+ r /*instantiation*/,
+ u /*notification*/,
+ a /*platform*/,
+ h /*codeeditor*/,
+ c /*configuration*/,
+ n /*diffEditorAccessibilityHelp*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let g = class extends t.$1c {

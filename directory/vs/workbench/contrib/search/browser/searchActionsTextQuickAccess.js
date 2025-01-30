@@ -12,7 +12,17 @@ import './searchView.js';
 define(
 			de[4172],
 			he([1, 0, 4, 377, 11, 483, 63, 1972, 18, 10, 1068]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*constants*/,
+ w /*actions*/,
+ E /*searchActionsBase*/,
+ C /*quickInput*/,
+ d /*textSearchQuickAccess*/,
+ m /*editorService*/,
+ r /*configuration*/,
+ u /*searchView*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(t = mt(t)),

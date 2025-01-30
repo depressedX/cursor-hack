@@ -17,7 +17,21 @@ import '../../../css!vs/platform/actionWidget/browser/actionWidget.js';
 define(
 			de[1659],
 			he([1, 0, 7, 105, 27, 3, 4, 1206, 11, 8, 49, 20, 5, 43, 51, 1513]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*actionbar*/,
+ w /*keyCodes*/,
+ E /*lifecycle*/,
+ C /*nls*/,
+ d /*actionList*/,
+ m /*actions*/,
+ r /*contextkey*/,
+ u /*contextView*/,
+ a /*extensions*/,
+ h /*instantiation*/,
+ c /*keybindingsRegistry*/,
+ n /*colorRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$xBb = void 0),

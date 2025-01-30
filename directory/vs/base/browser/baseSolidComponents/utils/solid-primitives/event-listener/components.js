@@ -4,7 +4,12 @@ import '../../../../../../../external/solid/web.js';
 import '../utils/utils.js';
 import './eventListener.js';
 import '../../../../window.js';
-define(de[2212], he([1, 0, 2, 302, 898, 75]), function (ce, e, t, i, w, E) {
+define(de[2212], he([1, 0, 2, 302, 898, 75]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*utils*/,
+ w /*eventListener*/,
+ E /*window*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$blb = e.$alb = void 0);

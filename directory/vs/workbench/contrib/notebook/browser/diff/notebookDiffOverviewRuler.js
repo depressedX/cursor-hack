@@ -10,7 +10,15 @@ import '../../../../../platform/theme/common/themeService.js';
 define(
 			de[3091],
 			he([1, 0, 7, 194, 345, 97, 3, 51, 35]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*fastDomNode*/,
+ w /*pixelRatio*/,
+ E /*color*/,
+ C /*lifecycle*/,
+ d /*colorRegistry*/,
+ m /*themeService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jFc = void 0),

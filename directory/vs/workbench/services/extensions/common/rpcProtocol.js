@@ -14,7 +14,19 @@ import './proxyIdentifier.js';
 define(
 			de[1821],
 			he([1, 0, 15, 76, 33, 120, 29, 6, 3, 221, 1172, 3335, 622]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*buffer*/,
+ w /*cancellation*/,
+ E /*charCode*/,
+ C /*errors*/,
+ d /*event*/,
+ m /*lifecycle*/,
+ r /*marshallingIds*/,
+ u /*uriIpc*/,
+ a /*lazyPromise*/,
+ h /*proxyIdentifier*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

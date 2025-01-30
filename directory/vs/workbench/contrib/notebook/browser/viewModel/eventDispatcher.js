@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../base/common/event.js';
 import '../../../../../base/common/lifecycle.js';
 import '../notebookViewEvents.js';
-define(de[3107], he([1, 0, 6, 3, 990]), function (ce, e, t, i, w) {
+define(de[3107], he([1, 0, 6, 3, 990]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*notebookViewEvents*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$E1b = void 0);
 			class E extends i.$1c {

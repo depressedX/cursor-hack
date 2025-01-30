@@ -10,7 +10,15 @@ import '../../../platform/instantiation/common/extensions.js';
 define(
 			de[2856],
 			he([1, 0, 3, 61, 35, 34, 1209, 1180, 20]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*language*/,
+ w /*themeService*/,
+ E /*log*/,
+ C /*semanticTokensProviderStyling*/,
+ d /*semanticTokensStyling*/,
+ m /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tyc = void 0);

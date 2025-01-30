@@ -9,7 +9,14 @@ import './unwrapElement.js';
 define(
 			de[663],
 			he([1, 0, 899, 929, 1573, 537, 324, 1574]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*core*/,
+ i /*getScale*/,
+ w /*getVisualOffsets*/,
+ E /*getWindow*/,
+ C /*is*/,
+ d /*unwrapElement*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$wmb = m);
 				function m(r, u = !1, a = !1, h) {

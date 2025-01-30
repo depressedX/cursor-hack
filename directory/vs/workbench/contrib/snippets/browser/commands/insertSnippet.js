@@ -13,7 +13,18 @@ import '../snippetsFile.js';
 define(
 			de[3137],
 			he([1, 0, 71, 61, 254, 4, 121, 5, 994, 1753, 510, 805]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorContextKeys*/,
+ i /*language*/,
+ w /*snippetController2*/,
+ E /*nls*/,
+ C /*clipboardService*/,
+ d /*instantiation*/,
+ m /*abstractSnippetsActions*/,
+ r /*snippetPicker*/,
+ u /*snippets*/,
+ a /*snippetsFile*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$4Xc = void 0),

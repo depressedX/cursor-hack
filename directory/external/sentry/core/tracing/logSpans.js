@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../utils/index.js';
 import '../debug-build.js';
 import '../utils/spanUtils.js';
-define(de[1100], he([1, 0, 80, 263, 301]), function (ce, e, t, i, w) {
+define(de[1100], he([1, 0, 80, 263, 301]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*debug-build*/,
+ w /*spanUtils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.logSpanStart = E),

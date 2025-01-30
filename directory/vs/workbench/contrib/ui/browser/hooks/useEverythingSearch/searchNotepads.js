@@ -3,7 +3,11 @@ import '../../../../../../../exports.js';
 import '../../../../../../base/common/fuzzyScorer.js';
 import '../../../../../../platform/quickinput/common/quickInput.js';
 import './types.js';
-define(de[3199], he([1, 0, 322, 63, 444]), function (ce, e, t, i, w) {
+define(de[3199], he([1, 0, 322, 63, 444]), function (ce /*require*/,
+ e /*exports*/,
+ t /*fuzzyScorer*/,
+ i /*quickInput*/,
+ w /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$X_b = E);
 			async function E(C, d) {

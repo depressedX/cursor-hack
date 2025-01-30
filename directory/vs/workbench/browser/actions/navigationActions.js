@@ -16,7 +16,21 @@ import '../../../base/browser/window.js';
 define(
 			de[3526],
 			he([1, 0, 4, 66, 96, 11, 99, 759, 27, 18, 142, 60, 43, 7, 75]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*editorGroupsService*/,
+ w /*layoutService*/,
+ E /*actions*/,
+ C /*actionCommonCategories*/,
+ d /*grid*/,
+ m /*keyCodes*/,
+ r /*editorService*/,
+ u /*panecomposite*/,
+ a /*views*/,
+ h /*keybindingsRegistry*/,
+ c /*dom*/,
+ n /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class g extends E.$3X {

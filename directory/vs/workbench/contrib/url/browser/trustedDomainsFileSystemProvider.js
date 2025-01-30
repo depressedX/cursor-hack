@@ -11,7 +11,16 @@ import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[3278],
 			he([1, 0, 6, 187, 22, 21, 76, 1018, 28, 5]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*json*/,
+ w /*files*/,
+ E /*storage*/,
+ C /*buffer*/,
+ d /*trustedDomains*/,
+ m /*types*/,
+ r /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$sSc = void 0);

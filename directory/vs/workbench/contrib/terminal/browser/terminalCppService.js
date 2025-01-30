@@ -15,7 +15,20 @@ import '../../../../base/common/cppUtils/diff/word.js';
 define(
 			de[3957],
 			he([1, 0, 7, 3, 22, 20, 5, 45, 1652, 25, 1759, 118, 9, 1130]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*files*/,
+ E /*extensions*/,
+ C /*instantiation*/,
+ d /*reactiveStorageService*/,
+ m /*terminalCommand*/,
+ r /*workspace*/,
+ u /*utils*/,
+ a /*aiService*/,
+ h /*uri*/,
+ c /*word*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mVc = e.$lVc = void 0),

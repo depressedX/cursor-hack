@@ -10,7 +10,15 @@ import '../../../common/notebookService.js';
 define(
 			de[3118],
 			he([1, 0, 33, 9, 4, 11, 121, 243, 161]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*uri*/,
+ w /*nls*/,
+ E /*actions*/,
+ C /*clipboardService*/,
+ d /*notebookKernelService*/,
+ m /*notebookService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mRc = e.$lRc = void 0),

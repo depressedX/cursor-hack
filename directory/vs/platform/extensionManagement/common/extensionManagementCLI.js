@@ -13,7 +13,18 @@ import '../../extensions/common/extensions.js';
 define(
 			de[2817],
 			he([1, 0, 33, 29, 23, 19, 464, 9, 4, 119, 154, 109]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*errors*/,
+ w /*network*/,
+ E /*resources*/,
+ C /*semver*/,
+ d /*uri*/,
+ m /*nls*/,
+ r /*extensionManagement*/,
+ u /*extensionManagementUtil*/,
+ a /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Yq = void 0);
 				const h = (g) => (0, m.localize)(1794, null, g),

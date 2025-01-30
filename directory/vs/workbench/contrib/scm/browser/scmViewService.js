@@ -18,7 +18,23 @@ import '../../../services/extensions/common/extensions.js';
 define(
 			de[1810],
 			he([1, 0, 3, 6, 258, 103, 5, 3130, 21, 138, 25, 535, 19, 24, 10, 8, 53]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*event*/,
+ w /*scm*/,
+ E /*iterator*/,
+ C /*instantiation*/,
+ d /*menus*/,
+ m /*storage*/,
+ r /*decorators*/,
+ u /*workspace*/,
+ a /*comparers*/,
+ h /*resources*/,
+ c /*arrays*/,
+ n /*configuration*/,
+ g /*contextkey*/,
+ p /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$UPc = e.$TPc = void 0);

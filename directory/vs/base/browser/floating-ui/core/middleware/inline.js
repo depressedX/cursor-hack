@@ -8,7 +8,13 @@ import '../utils/rectToClientRect.js';
 define(
 			de[2206],
 			he([1, 0, 583, 1122, 487, 1123, 1124]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getMainAxisFromPlacement*/,
+ i /*getPaddingObject*/,
+ w /*getSide*/,
+ E /*math*/,
+ C /*rectToClientRect*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6lb = void 0),

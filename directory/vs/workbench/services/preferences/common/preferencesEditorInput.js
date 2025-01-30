@@ -10,7 +10,15 @@ import './preferences.js';
 define(
 			de[1312],
 			he([1, 0, 14, 23, 9, 4, 79, 223, 131]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*network*/,
+ w /*uri*/,
+ E /*nls*/,
+ C /*iconRegistry*/,
+ d /*editorInput*/,
+ m /*preferences*/) {
 				"use strict";
 				var r;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

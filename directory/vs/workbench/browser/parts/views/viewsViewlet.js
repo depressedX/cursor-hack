@@ -14,7 +14,19 @@ import '../../../services/layout/browser/layoutService.js';
 define(
 			de[1941],
 			he([1, 0, 53, 49, 60, 32, 35, 5, 21, 25, 239, 10, 96]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*contextView*/,
+ w /*views*/,
+ E /*telemetry*/,
+ C /*themeService*/,
+ d /*instantiation*/,
+ m /*storage*/,
+ r /*workspace*/,
+ u /*viewPaneContainer*/,
+ a /*configuration*/,
+ h /*layoutService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$XSb = void 0);

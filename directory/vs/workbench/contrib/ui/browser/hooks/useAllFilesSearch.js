@@ -9,7 +9,14 @@ import '../aiInput/plugins/mentions/searchHooks.js';
 define(
 			de[1996],
 			he([1, 0, 13, 33, 3, 54, 36, 1381]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*cancellation*/,
+ w /*lifecycle*/,
+ E /*path*/,
+ C /*solid*/,
+ d /*searchHooks*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$1bc = r);
 				const m = !1;

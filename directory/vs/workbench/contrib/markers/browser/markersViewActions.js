@@ -14,7 +14,18 @@ import '../../../../css!vs/workbench/contrib/markers/browser/markersViewActions.
 define(
 		de[1248],
 		he([1, 0, 7, 50, 49, 799, 3, 6, 14, 26, 198, 555, 2449]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*actions*/,
+ w /*contextView*/,
+ E /*messages*/,
+ C /*lifecycle*/,
+ d /*event*/,
+ m /*codicons*/,
+ r /*themables*/,
+ u /*actionViewItems*/,
+ a /*markers*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$ARc = e.$zRc = e.$yRc = void 0),

@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/buffer.js';
 import './extHost.protocol.js';
-define(de[3374], he([1, 0, 76, 88]), function (ce, e, t, i) {
+define(de[3374], he([1, 0, 76, 88]), function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*extHost.protocol*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Jmc = E),

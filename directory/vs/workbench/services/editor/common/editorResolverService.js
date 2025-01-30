@@ -12,7 +12,17 @@ import '../../../../platform/registry/common/platform.js';
 define(
 			de[231],
 			he([1, 0, 215, 23, 54, 19, 4, 224, 81, 5, 30]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*glob*/,
+ i /*network*/,
+ w /*path*/,
+ E /*resources*/,
+ C /*nls*/,
+ d /*configuration*/,
+ m /*configurationRegistry*/,
+ r /*instantiation*/,
+ u /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ResolvedStatus =

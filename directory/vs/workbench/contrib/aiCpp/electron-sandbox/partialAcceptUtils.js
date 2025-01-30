@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../editor/common/core/position.js';
 import '../../../../editor/common/core/range.js';
 import '../common/cppUtils.js';
-define(de[2961], he([1, 0, 48, 17, 971]), function (ce, e, t, i, w) {
+define(de[2961], he([1, 0, 48, 17, 971]), function (ce /*require*/,
+ e /*exports*/,
+ t /*position*/,
+ i /*range*/,
+ w /*cppUtils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Ned = d);
 			function E(m, r) {

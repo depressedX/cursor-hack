@@ -10,7 +10,15 @@ import '../../../services/aiErrors/browser/errors.js';
 define(
 			de[4255],
 			he([1, 0, 3, 30, 4254, 55, 52, 401, 1286]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*platform*/,
+ w /*entrypoint*/,
+ E /*contributions*/,
+ C /*lifecycle*/,
+ d /*aiErrorService*/,
+ m /*errors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let r = class extends t.$1c {

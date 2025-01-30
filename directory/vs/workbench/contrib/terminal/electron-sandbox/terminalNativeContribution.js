@@ -12,7 +12,17 @@ import '../../../../base/browser/dom.js';
 define(
 			de[4038],
 			he([1, 0, 320, 9, 22, 4037, 143, 110, 3, 107, 7]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*globals*/,
+ i /*uri*/,
+ w /*files*/,
+ E /*terminalRemote*/,
+ C /*remoteAgentService*/,
+ d /*native*/,
+ m /*lifecycle*/,
+ r /*terminal*/,
+ u /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$lgd = void 0);

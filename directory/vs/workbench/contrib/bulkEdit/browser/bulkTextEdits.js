@@ -15,7 +15,20 @@ import '../../../../editor/contrib/snippet/browser/snippetParser.js';
 define(
 			de[3005],
 			he([1, 0, 3, 188, 17, 42, 200, 155, 780, 59, 67, 199, 254, 389]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*editOperation*/,
+ w /*range*/,
+ E /*resolverService*/,
+ C /*editorWorker*/,
+ d /*undoRedo*/,
+ m /*editStack*/,
+ r /*map*/,
+ u /*model*/,
+ a /*bulkEditService*/,
+ h /*snippetController2*/,
+ c /*snippetParser*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0Mc = void 0);

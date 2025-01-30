@@ -13,7 +13,18 @@ import '../../../../contrib/notebook/common/notebookEditorModelResolverService.j
 define(
 			de[3666],
 			he([1, 0, 3, 42, 25, 6, 1038, 529, 1012, 19, 70, 509]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*resolverService*/,
+ w /*workspace*/,
+ E /*event*/,
+ C /*simpleChunkingService*/,
+ d /*result*/,
+ m /*simpleSerialProcessor*/,
+ r /*resources*/,
+ u /*notebookCommon*/,
+ a /*notebookEditorModelResolverService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$HZc = void 0);

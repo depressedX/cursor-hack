@@ -9,7 +9,14 @@ import './testId.js';
 define(
 			de[3180],
 			he([1, 0, 15, 6, 3, 229, 185, 259]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*assert*/,
+ C /*testTypes*/,
+ d /*testId*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$d9 = e.$c9 = e.$b9 = e.$a9 = e.$_8 = e.TestItemEventOp = void 0);

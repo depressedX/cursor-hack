@@ -12,7 +12,17 @@ import '../equals.js';
 define(
 			de[457],
 			he([1, 0, 6, 3, 1133, 407, 648, 319, 742, 29, 433]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*autorun*/,
+ E /*base*/,
+ C /*debugName*/,
+ d /*derived*/,
+ m /*logging*/,
+ r /*errors*/,
+ u /*equals*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Md = e.$Id = e.$Ad = void 0),

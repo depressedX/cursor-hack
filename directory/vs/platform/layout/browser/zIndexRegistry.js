@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/browser/dom.js';
 import '../../../base/common/async.js';
-define(de[1618], he([1, 0, 7, 15]), function (ce, e, t, i) {
+define(de[1618], he([1, 0, 7, 15]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*async*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ZIndex = void 0),

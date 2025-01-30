@@ -12,7 +12,17 @@ import '../../base/common/map.js';
 define(
 			de[610],
 			he([1, 0, 40, 163, 6, 3, 29, 50, 24, 488, 59]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*notification*/,
+ i /*errorMessage*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*errors*/,
+ d /*actions*/,
+ m /*arrays*/,
+ r /*linkedText*/,
+ u /*map*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Gwc =

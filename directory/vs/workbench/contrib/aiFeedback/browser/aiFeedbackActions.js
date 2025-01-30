@@ -8,7 +8,13 @@ import './aiFeedbackOpenService.js';
 define(
 			de[2969],
 			he([1, 0, 58, 27, 11, 43, 1705]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*constants*/,
+ i /*keyCodes*/,
+ w /*actions*/,
+ E /*keybindingsRegistry*/,
+ C /*aiFeedbackOpenService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$2Zc = e.$1Zc = void 0);

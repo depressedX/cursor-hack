@@ -9,7 +9,14 @@ import '../../../../../workbench/contrib/controlCommon/browser/solid.js';
 define(
 			de[1976],
 			he([1, 0, 2, 2, 2, 13, 484, 36]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*menu*/,
+ d /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ndc = void 0);

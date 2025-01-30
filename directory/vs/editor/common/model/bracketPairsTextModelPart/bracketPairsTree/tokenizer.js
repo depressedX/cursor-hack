@@ -8,7 +8,13 @@ import './smallImmutableSet.js';
 define(
 			de[915],
 			he([1, 0, 29, 171, 658, 492, 657]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*encodedTokenAttributes*/,
+ w /*ast*/,
+ E /*length*/,
+ C /*smallImmutableSet*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$kN = e.$jN = e.$iN = e.TokenKind = void 0);

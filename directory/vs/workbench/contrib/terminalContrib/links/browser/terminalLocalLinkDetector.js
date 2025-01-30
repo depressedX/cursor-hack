@@ -12,7 +12,17 @@ import '../../../../../platform/terminal/common/terminal.js';
 define(
 			de[3161],
 			he([1, 0, 12, 9, 68, 25, 513, 562, 189, 997, 117]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*uri*/,
+ w /*uriIdentity*/,
+ E /*workspace*/,
+ C /*links*/,
+ d /*terminalLinkHelpers*/,
+ m /*capabilities*/,
+ r /*terminalLinkParsing*/,
+ u /*terminal*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$lWc = void 0);

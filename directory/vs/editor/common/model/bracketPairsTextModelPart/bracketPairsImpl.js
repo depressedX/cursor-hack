@@ -10,7 +10,15 @@ import './bracketPairsTree/bracketPairsTree.js';
 define(
 			de[2693],
 			he([1, 0, 24, 6, 3, 17, 748, 934, 2572]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*range*/,
+ C /*supports*/,
+ d /*richEditBrackets*/,
+ m /*bracketPairsTree*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$9O = void 0);
 				class r extends w.$1c {

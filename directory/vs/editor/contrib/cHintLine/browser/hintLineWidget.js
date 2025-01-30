@@ -17,7 +17,21 @@ import '../../../../css!vs/editor/contrib/cHintLine/browser/hintLineWidget.js';
 define(
 			de[499],
 			he([1, 0, 7, 159, 58, 6, 3, 56, 71, 8, 39, 30, 51, 35, 10, 2287]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*touch*/,
+ w /*constants*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*editorBrowser*/,
+ m /*editorContextKeys*/,
+ r /*contextkey*/,
+ u /*keybinding*/,
+ a /*platform*/,
+ h /*colorRegistry*/,
+ c /*themeService*/,
+ n /*configuration*/) {
 				"use strict";
 				var g;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

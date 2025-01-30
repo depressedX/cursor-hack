@@ -7,7 +7,12 @@ import '../../../controlCommon/browser/solid.js';
 define(
 			de[4157],
 			he([1, 0, 13, 167, 177, 36]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*composer_pb*/,
+ w /*useComposerDataHandle*/,
+ E /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.useShouldShowCancelAndResume = C);

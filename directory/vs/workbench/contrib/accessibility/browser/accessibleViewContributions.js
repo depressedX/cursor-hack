@@ -8,7 +8,13 @@ import '../../../../platform/accessibility/browser/accessibleViewRegistry.js';
 define(
 			de[3544],
 			he([1, 0, 3, 130, 1032, 178, 412]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*accessibilityConfiguration*/,
+ w /*accessibleViewActions*/,
+ E /*accessibleView*/,
+ C /*accessibleViewRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$J2c = e.$I2c = void 0);

@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './codiconsUtil.js';
 import './codiconsLibrary.js';
-define(de[14], he([1, 0, 903, 1506]), function (ce, e, t, i) {
+define(de[14], he([1, 0, 903, 1506]), function (ce /*require*/,
+ e /*exports*/,
+ t /*codiconsUtil*/,
+ i /*codiconsLibrary*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$ak = e.$_j = void 0),

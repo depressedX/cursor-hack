@@ -24,7 +24,26 @@ define(
 				1, 0, 6, 3, 1029, 70, 155, 3112, 745, 136, 1842, 67, 23, 19, 61, 122,
 				28, 474, 17, 543,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*notebookCellTextModel*/,
+ E /*notebookCommon*/,
+ C /*undoRedo*/,
+ d /*cellEdit*/,
+ m /*diff*/,
+ r /*hash*/,
+ u /*notebookCellOutputTextModel*/,
+ a /*model*/,
+ h /*network*/,
+ c /*resources*/,
+ n /*language*/,
+ g /*textModel*/,
+ p /*types*/,
+ o /*languageDetectionWorkerService*/,
+ f /*range*/,
+ b /*textModelSearch*/) {
 				"use strict";
 				var s;
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$b6 = void 0);

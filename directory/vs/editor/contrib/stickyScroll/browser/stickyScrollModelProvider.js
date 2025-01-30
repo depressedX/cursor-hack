@@ -16,7 +16,21 @@ import '../../../common/config/editorOptions.js';
 define(
 			de[2923],
 			he([1, 0, 3, 69, 204, 15, 350, 660, 752, 152, 29, 1557, 103, 5, 38]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*languageFeatures*/,
+ w /*outlineModel*/,
+ E /*async*/,
+ C /*folding*/,
+ d /*syntaxRangeProvider*/,
+ m /*indentRangeProvider*/,
+ r /*languageConfigurationRegistry*/,
+ u /*errors*/,
+ a /*stickyScrollElement*/,
+ h /*iterator*/,
+ c /*instantiation*/,
+ n /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mkc = void 0);

@@ -13,7 +13,18 @@ import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[1303],
 			he([1, 0, 76, 197, 199, 34, 68, 88, 572, 70, 137, 101]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*marshalling*/,
+ w /*bulkEditService*/,
+ E /*log*/,
+ C /*uriIdentity*/,
+ d /*extHost.protocol*/,
+ m /*bulkCellEdits*/,
+ r /*notebookCommon*/,
+ u /*aiMiscServices*/,
+ a /*extHostCustomers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wmc = void 0),

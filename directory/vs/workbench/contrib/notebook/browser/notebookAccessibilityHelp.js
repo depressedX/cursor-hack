@@ -9,7 +9,14 @@ import '../../../../editor/browser/services/codeEditorService.js';
 define(
 			de[3558],
 			he([1, 0, 176, 4, 178, 130, 18, 65]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*notebookContextKeys*/,
+ i /*nls*/,
+ w /*accessibleView*/,
+ E /*accessibilityConfiguration*/,
+ C /*editorService*/,
+ d /*codeEditorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nIc = void 0),

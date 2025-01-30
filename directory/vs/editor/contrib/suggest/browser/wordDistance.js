@@ -8,7 +8,13 @@ import '../../smartSelect/browser/bracketSelections.js';
 define(
 			de[1609],
 			he([1, 0, 24, 38, 17, 74, 1556]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*editorOptions*/,
+ w /*range*/,
+ E /*languages*/,
+ C /*bracketSelections*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$SCb = void 0);

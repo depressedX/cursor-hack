@@ -7,7 +7,12 @@ import './private/reify-wkt.js';
 define(
 			de[2033],
 			he([1, 0, 723, 1086, 526, 2032]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*names*/,
+ i /*field-wrapper*/,
+ w /*scalars*/,
+ E /*reify-wkt*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.codegenInfo = void 0);

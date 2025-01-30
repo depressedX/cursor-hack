@@ -15,7 +15,20 @@ import './webFileSystemAccess.js';
 define(
 			de[2730],
 			he([1, 0, 4, 9, 76, 6, 3, 23, 54, 12, 19, 408, 22, 762]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*uri*/,
+ w /*buffer*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*network*/,
+ m /*path*/,
+ r /*platform*/,
+ u /*resources*/,
+ a /*stream*/,
+ h /*files*/,
+ c /*webFileSystemAccess*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gzb = void 0);

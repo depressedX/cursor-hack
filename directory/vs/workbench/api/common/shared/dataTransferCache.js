@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/arrays.js';
 import '../../../../base/common/buffer.js';
-define(de[1697], he([1, 0, 24, 76]), function (ce, e, t, i) {
+define(de[1697], he([1, 0, 24, 76]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*buffer*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$4nc = void 0);
 			class w {

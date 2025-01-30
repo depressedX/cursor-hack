@@ -17,7 +17,22 @@ import '../../../../../../platform/observable/common/platformObservableUtils.js'
 define(
 			de[1252],
 			he([1, 0, 7, 6, 3, 77, 46, 206, 104, 1686, 350, 173, 5, 548, 508, 326]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*observable*/,
+ C /*editorExtensions*/,
+ d /*codeEditorWidget*/,
+ m /*selection*/,
+ r /*codelensController*/,
+ u /*folding*/,
+ a /*toolbar*/,
+ h /*instantiation*/,
+ c /*editor*/,
+ n /*utils*/,
+ g /*platformObservableUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6Zb = e.$4Zb = void 0),

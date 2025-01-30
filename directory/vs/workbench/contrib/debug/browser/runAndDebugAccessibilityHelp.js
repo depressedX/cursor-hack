@@ -13,7 +13,18 @@ import '../common/debug.js';
 define(
 			de[3827],
 			he([1, 0, 178, 8, 3, 130, 4, 31, 89, 761, 100, 112]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*accessibleView*/,
+ i /*contextkey*/,
+ w /*lifecycle*/,
+ E /*accessibilityConfiguration*/,
+ C /*nls*/,
+ d /*commands*/,
+ m /*viewsService*/,
+ r /*standaloneStrings*/,
+ u /*contextkeys*/,
+ a /*debug*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pRc = void 0);

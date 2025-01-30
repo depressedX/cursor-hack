@@ -13,7 +13,18 @@ import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1276],
 			he([1, 0, 42, 67, 64, 61, 434, 23, 17, 122, 28, 5]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*resolverService*/,
+ i /*model*/,
+ w /*model*/,
+ E /*language*/,
+ C /*marked*/,
+ d /*network*/,
+ m /*range*/,
+ r /*textModel*/,
+ u /*types*/,
+ a /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nYc = e.$lYc = void 0),

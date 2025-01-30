@@ -11,7 +11,15 @@ import '../../../../css!vs/editor/contrib/cMultiFileHighlight/browser/multiFileH
 define(
 			de[2859],
 			he([1, 0, 7, 159, 97, 3, 56, 38, 35, 2290]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*touch*/,
+ w /*color*/,
+ E /*lifecycle*/,
+ C /*editorBrowser*/,
+ d /*editorOptions*/,
+ m /*themeService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Qlc = void 0),

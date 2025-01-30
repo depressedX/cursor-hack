@@ -10,7 +10,15 @@ import '../../../../platform/progress/common/progress.js';
 define(
 			de[784],
 			he([1, 0, 82, 65, 309, 184, 8, 5, 84]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*objects*/,
+ i /*codeEditorService*/,
+ w /*diffEditorWidget*/,
+ E /*accessibilitySignalService*/,
+ C /*contextkey*/,
+ d /*instantiation*/,
+ m /*progress*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$7mc = void 0),

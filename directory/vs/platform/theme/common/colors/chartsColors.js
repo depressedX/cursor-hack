@@ -8,7 +8,13 @@ import './minimapColors.js';
 define(
 			de[1658],
 			he([1, 0, 4, 306, 544, 605, 1657]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*colorUtils*/,
+ w /*baseColors*/,
+ E /*editorColors*/,
+ C /*minimapColors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$SR =

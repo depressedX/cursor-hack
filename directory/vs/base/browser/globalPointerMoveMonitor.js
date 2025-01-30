@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './dom.js';
 import '../common/lifecycle.js';
-define(de[757], he([1, 0, 7, 3]), function (ce, e, t, i) {
+define(de[757], he([1, 0, 7, 3]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Thb = void 0),

@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../nls.js';
 import '../../../../../base/common/lifecycle.js';
 import '../../../../../platform/log/common/log.js';
-define(de[3094], he([1, 0, 4, 3, 34]), function (ce, e, t, i, w) {
+define(de[3094], he([1, 0, 4, 3, 34]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*lifecycle*/,
+ w /*log*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$SGc = void 0),

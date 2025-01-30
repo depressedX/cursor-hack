@@ -8,7 +8,13 @@ import './userDataSync.js';
 define(
 			de[2939],
 			he([1, 0, 6, 3, 9, 129, 150]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*userDataProfile*/,
+ C /*userDataSync*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$n9c = e.$m9c = void 0);

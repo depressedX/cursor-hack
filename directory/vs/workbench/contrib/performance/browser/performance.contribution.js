@@ -16,7 +16,21 @@ import './inputLatencyContrib.js';
 define(
 			de[3733],
 			he([1, 0, 4, 11, 5, 52, 30, 99, 55, 44, 1892, 18, 1615, 6, 3267]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*instantiation*/,
+ E /*lifecycle*/,
+ C /*platform*/,
+ d /*actionCommonCategories*/,
+ m /*contributions*/,
+ r /*editor*/,
+ u /*perfviewEditor*/,
+ a /*editorService*/,
+ h /*instantiationService*/,
+ c /*event*/,
+ n /*inputLatencyContrib*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, m.$s6)(u.$lEc.ID, u.$lEc, { lazy: !0 }),

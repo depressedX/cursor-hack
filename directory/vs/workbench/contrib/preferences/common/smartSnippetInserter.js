@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/json.js';
 import '../../../../editor/common/core/position.js';
 import '../../../../editor/common/core/range.js';
-define(de[3124], he([1, 0, 187, 48, 17]), function (ce, e, t, i, w) {
+define(de[3124], he([1, 0, 187, 48, 17]), function (ce /*require*/,
+ e /*exports*/,
+ t /*json*/,
+ i /*position*/,
+ w /*range*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$dEc = void 0);
 			class E {

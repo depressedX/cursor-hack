@@ -10,7 +10,15 @@ import './linePart.js';
 define(
 			de[598],
 			he([1, 0, 4, 120, 37, 462, 533, 290, 1545]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*charCode*/,
+ w /*strings*/,
+ E /*stringBuilder*/,
+ C /*lineDecorations*/,
+ d /*viewModel*/,
+ m /*linePart*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Oub =

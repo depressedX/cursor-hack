@@ -9,7 +9,14 @@ import './configurationExportHelper.js';
 define(
 			de[3420],
 			he([1, 0, 55, 30, 5, 52, 151, 3307]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contributions*/,
+ i /*platform*/,
+ w /*instantiation*/,
+ E /*lifecycle*/,
+ C /*environmentService*/,
+ d /*configurationExportHelper*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jgd = void 0);

@@ -3,7 +3,10 @@ import '../../../../../exports.js';
 import './editorTabsControl.js';
 import '../../../../base/browser/dom.js';
 import '../../../../css!vs/workbench/browser/parts/editor/media/singleeditortabscontrol.js';
-define(de[4010], he([1, 0, 1055, 7, 1515]), function (ce, e, t, i) {
+define(de[4010], he([1, 0, 1055, 7, 1515]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editorTabsControl*/,
+ i /*dom*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ntc = void 0);
 			class w extends t.$qtc {

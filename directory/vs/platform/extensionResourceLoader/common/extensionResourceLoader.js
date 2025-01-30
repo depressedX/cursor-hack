@@ -12,7 +12,17 @@ import '../../extensions/common/extensions.js';
 define(
 			de[546],
 			he([1, 0, 12, 37, 9, 5, 678, 32, 269, 23, 109]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*strings*/,
+ w /*uri*/,
+ E /*instantiation*/,
+ C /*serviceMachineId*/,
+ d /*telemetry*/,
+ m /*telemetryUtils*/,
+ r /*network*/,
+ u /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$dYb = e.$bYb = void 0),

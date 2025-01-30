@@ -9,7 +9,14 @@ import '../../instantiation/common/instantiation.js';
 define(
 			de[672],
 			he([1, 0, 33, 3, 12, 4, 119, 5]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*nls*/,
+ C /*extensionManagement*/,
+ d /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$GJ = e.$FJ = void 0),

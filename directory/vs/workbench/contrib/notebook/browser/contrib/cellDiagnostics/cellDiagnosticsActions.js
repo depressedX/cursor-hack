@@ -14,7 +14,19 @@ import '../../../common/notebookContextKeys.js';
 define(
 			de[1960],
 			he([1, 0, 27, 17, 500, 291, 4, 11, 8, 43, 238, 482, 176]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*range*/,
+ w /*codeActionController*/,
+ E /*types*/,
+ C /*nls*/,
+ d /*actions*/,
+ m /*contextkey*/,
+ r /*keybindingsRegistry*/,
+ u /*coreActions*/,
+ a /*codeCellViewModel*/,
+ h /*notebookContextKeys*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$xGc = void 0),

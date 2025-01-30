@@ -12,7 +12,17 @@ import './stickyScrollModelProvider.js';
 define(
 			de[2924],
 			he([1, 0, 3, 69, 33, 38, 15, 24, 6, 152, 2923]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*languageFeatures*/,
+ w /*cancellation*/,
+ E /*editorOptions*/,
+ C /*async*/,
+ d /*arrays*/,
+ m /*event*/,
+ r /*languageConfigurationRegistry*/,
+ u /*stickyScrollModelProvider*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$okc = e.$nkc = void 0);

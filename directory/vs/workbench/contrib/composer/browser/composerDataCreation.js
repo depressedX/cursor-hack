@@ -19,7 +19,22 @@ define(
 			he([
 				1, 0, 21, 25, 225, 193, 47, 126, 9, 299, 298, 140, 28, 272, 418, 246,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*storage*/,
+ i /*workspace*/,
+ w /*composerData*/,
+ E /*store*/,
+ C /*uuid*/,
+ d /*chat_pb*/,
+ m /*uri*/,
+ r /*utils*/,
+ u /*selectedContextData*/,
+ a /*chatData*/,
+ h /*types*/,
+ c /*repository_pb*/,
+ n /*aichat*/,
+ g /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.INLINE_DIFF_STORAGE_KEY = void 0),

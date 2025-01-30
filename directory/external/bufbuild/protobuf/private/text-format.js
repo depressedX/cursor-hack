@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import './assert.js';
 import '../proto-int64.js';
 import '../scalar.js';
-define(de[2036], he([1, 0, 451, 525, 429]), function (ce, e, t, i, w) {
+define(de[2036], he([1, 0, 451, 525, 429]), function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*proto-int64*/,
+ w /*scalar*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.parseTextFormatEnumValue = E),

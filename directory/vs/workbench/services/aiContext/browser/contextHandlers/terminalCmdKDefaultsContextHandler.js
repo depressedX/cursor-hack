@@ -8,7 +8,13 @@ import '../../../../../base/common/uuid.js';
 define(
 			de[3668],
 			he([1, 0, 42, 25, 1876, 5, 47]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*resolverService*/,
+ i /*workspace*/,
+ w /*terminalContextHandler*/,
+ E /*instantiation*/,
+ C /*uuid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$QZc = void 0);

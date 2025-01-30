@@ -8,7 +8,13 @@ import '../../platform/actions/browser/menuEntryActionViewItem.js';
 define(
 			de[967],
 			he([1, 0, 3, 6, 11, 8, 92]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*event*/,
+ w /*actions*/,
+ E /*contextkey*/,
+ C /*menuEntryActionViewItem*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$MMb = void 0);

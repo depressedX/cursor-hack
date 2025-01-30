@@ -8,7 +8,13 @@ import '../../../common/notebookRange.js';
 define(
 			de[1742],
 			he([1, 0, 456, 6, 3, 28, 442]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*collections*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*types*/,
+ C /*notebookRange*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$1Fc = void 0);

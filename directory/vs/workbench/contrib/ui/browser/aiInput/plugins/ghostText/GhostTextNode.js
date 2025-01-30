@@ -2,7 +2,10 @@ import '../../../../../../../../require.js';
 import '../../../../../../../../exports.js';
 import '../../../../../../../../external/lexical/lexical/api.js';
 import '../../../../../../../base/common/uuid.js';
-define(de[1775], he([1, 0, 164, 47]), function (ce, e, t, i) {
+define(de[1775], he([1, 0, 164, 47]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*uuid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Dac = e.$Cac = void 0),

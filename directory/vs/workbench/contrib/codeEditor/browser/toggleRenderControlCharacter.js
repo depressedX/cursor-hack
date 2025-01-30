@@ -8,7 +8,13 @@ import '../../../../platform/action/common/actionCommonCategories.js';
 define(
 			de[3023],
 			he([1, 0, 4, 11, 10, 8, 99]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*configuration*/,
+ E /*contextkey*/,
+ C /*actionCommonCategories*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ZXc = void 0);

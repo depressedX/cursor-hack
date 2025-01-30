@@ -8,7 +8,13 @@ import '../../../platform/configuration/common/configurationRegistry.js';
 define(
 			de[172],
 			he([1, 0, 4, 6, 30, 266, 81]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*event*/,
+ w /*platform*/,
+ E /*mime*/,
+ C /*configurationRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$M = e.$0M = e.$9M = e.$8M = e.$7M = void 0),

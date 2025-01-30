@@ -8,7 +8,13 @@ import '../../../../../external/lexical/lexical/lexical.js';
 define(
 			de[476],
 			he([1, 0, 7, 75, 166, 66, 158]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*window*/,
+ w /*statusbar*/,
+ E /*editorGroupsService*/,
+ C /*lexical*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Oac = e.$Nac = e.$Mac = e.$Lac = e.$Kac = void 0),

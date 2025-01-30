@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../../../base/common/codicons.js';
 import '../../../../platform/theme/common/iconRegistry.js';
-define(de[1256], he([1, 0, 4, 14, 79]), function (ce, e, t, i, w) {
+define(de[1256], he([1, 0, 4, 14, 79]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*codicons*/,
+ w /*iconRegistry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$$tc =

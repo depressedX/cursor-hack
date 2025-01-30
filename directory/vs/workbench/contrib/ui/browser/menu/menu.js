@@ -16,7 +16,20 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/menu/menu.js';
 define(
 			de[484],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 364, 13, 36, 2, 2521]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*hooks*/,
+ a /*solid*/,
+ h /*solid*/,
+ c /*web*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.Menu = p);
 				const n = (0, t.template)("<div>"),

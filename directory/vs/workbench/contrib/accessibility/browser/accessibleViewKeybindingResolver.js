@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/htmlContent.js';
-define(de[2953], he([1, 0, 94]), function (ce, e, t) {
+define(de[2953], he([1, 0, 94]), function (ce /*require*/,
+ e /*exports*/,
+ t /*htmlContent*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$F2c = i);
 			function i(w, E) {

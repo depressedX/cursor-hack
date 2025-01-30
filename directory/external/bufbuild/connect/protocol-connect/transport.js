@@ -22,7 +22,24 @@ define(
 				1, 0, 86, 2047, 574, 2048, 1390, 1089, 1410, 2046, 202, 213, 876, 575,
 				871, 2021, 872, 1078,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*request-header*/,
+ w /*headers*/,
+ E /*validate-response*/,
+ C /*trailer-mux*/,
+ d /*error-json*/,
+ m /*end-stream*/,
+ r /*get-request*/,
+ u /*code*/,
+ a /*connect-error*/,
+ h /*http-headers*/,
+ c /*async-iterable*/,
+ n /*create-method-url*/,
+ g /*run-call*/,
+ p /*serialization*/,
+ o /*context-values*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createTransport = f);

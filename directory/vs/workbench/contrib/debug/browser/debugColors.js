@@ -10,7 +10,15 @@ import '../../../../platform/theme/common/theme.js';
 define(
 			de[984],
 			he([1, 0, 51, 35, 26, 97, 4, 352, 212]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*colorRegistry*/,
+ i /*themeService*/,
+ w /*themables*/,
+ E /*color*/,
+ C /*nls*/,
+ d /*debugIcons*/,
+ m /*theme*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$NKb = e.$MKb = e.$LKb = void 0),

@@ -15,7 +15,20 @@ import '../../../base/common/lazy.js';
 define(
 			de[3411],
 			he([1, 0, 50, 4, 96, 49, 3, 7, 55, 12, 121, 168, 6, 149]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*nls*/,
+ w /*layoutService*/,
+ E /*contextView*/,
+ C /*lifecycle*/,
+ d /*dom*/,
+ m /*contributions*/,
+ r /*platform*/,
+ u /*clipboardService*/,
+ a /*mouseEvent*/,
+ h /*event*/,
+ c /*lazy*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Btc = void 0);

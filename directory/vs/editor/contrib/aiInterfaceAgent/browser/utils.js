@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/resources.js';
 import '../../../../base/common/result.js';
-define(de[2696], he([1, 0, 19, 529]), function (ce, e, t, i) {
+define(de[2696], he([1, 0, 19, 529]), function (ce /*require*/,
+ e /*exports*/,
+ t /*resources*/,
+ i /*result*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.AiInterfaceFileType = void 0),

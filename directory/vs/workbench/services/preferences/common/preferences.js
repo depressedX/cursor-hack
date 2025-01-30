@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../common/editor.js';
-define(de[131], he([1, 0, 5, 44]), function (ce, e, t, i) {
+define(de[131], he([1, 0, 5, 44]), function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*editor*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$_Z =

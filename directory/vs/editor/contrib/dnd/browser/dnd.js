@@ -17,7 +17,21 @@ import '../../../../css!vs/editor/contrib/dnd/browser/dnd.js';
 define(
 			de[1687],
 			he([1, 0, 27, 3, 12, 56, 46, 38, 248, 48, 17, 104, 98, 122, 2582, 2293]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*editorBrowser*/,
+ C /*editorExtensions*/,
+ d /*editorOptions*/,
+ m /*cursorEvents*/,
+ r /*position*/,
+ u /*range*/,
+ a /*selection*/,
+ h /*editorCommon*/,
+ c /*textModel*/,
+ n /*dragAndDropCommand*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Hhc = void 0);

@@ -4,7 +4,12 @@ import '../../../../nls.js';
 import '../../../../platform/configuration/common/configuration.js';
 import '../../../../platform/dialogs/common/dialogs.js';
 import '../../../../platform/terminal/common/terminal.js';
-define(de[3149], he([1, 0, 4, 10, 57, 117]), function (ce, e, t, i, w, E) {
+define(de[3149], he([1, 0, 4, 10, 57, 117]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*configuration*/,
+ w /*dialogs*/,
+ E /*terminal*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$eVc = C);
 			async function C(d, m, r) {

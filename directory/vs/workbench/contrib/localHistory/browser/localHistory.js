@@ -8,7 +8,13 @@ import '../../../../platform/theme/common/iconRegistry.js';
 define(
 			de[1246],
 			he([1, 0, 4, 14, 12, 8, 79]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*codicons*/,
+ w /*platform*/,
+ E /*contextkey*/,
+ C /*iconRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$h2c = e.$g2c = e.$f2c = e.$e2c = void 0),

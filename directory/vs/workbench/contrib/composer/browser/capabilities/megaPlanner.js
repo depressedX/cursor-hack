@@ -11,7 +11,16 @@ import '../composerDataService.js';
 define(
 			de[3925],
 			he([1, 0, 126, 167, 219, 262, 395, 351, 225, 209]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*chat_pb*/,
+ i /*composer_pb*/,
+ w /*composer*/,
+ E /*composerCapabilities*/,
+ C /*composerCapabilityDecorators*/,
+ d /*composerCapabilitySchemas*/,
+ m /*composerData*/,
+ r /*composerDataService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.MegaPlanner = void 0);

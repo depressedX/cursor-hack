@@ -4,7 +4,12 @@ import '../../../../../../../external/solid/solid.js';
 import '../../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
 import '../../../../controlCommon/browser/solid.js';
 import '../../../../../services/cursorAuth/browser/authenticationService.js';
-define(de[722], he([1, 0, 13, 134, 36, 232]), function (ce, e, t, i, w, E) {
+define(de[722], he([1, 0, 13, 134, 36, 232]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*reactiveStorageTypes*/,
+ w /*solid*/,
+ E /*authenticationService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$B$b = C);
 			function C() {

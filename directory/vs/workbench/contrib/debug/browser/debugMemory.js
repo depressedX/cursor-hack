@@ -10,7 +10,15 @@ import '../common/debug.js';
 define(
 			de[3051],
 			he([1, 0, 76, 6, 3, 201, 229, 22, 112]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*numbers*/,
+ C /*assert*/,
+ d /*files*/,
+ m /*debug*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$VQc = void 0);

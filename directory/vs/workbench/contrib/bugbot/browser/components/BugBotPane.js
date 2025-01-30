@@ -20,7 +20,22 @@ define(
 			he([
 				1, 0, 2, 2, 2, 2, 2, 13, 36, 135, 1377, 14, 3003, 815, 564, 693, 2387,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*solid*/,
+ m /*solid*/,
+ r /*scrollableDiv*/,
+ u /*BugBotSimpleButton*/,
+ a /*codicons*/,
+ h /*BugBotStatusIndicator*/,
+ c /*ModalComponent*/,
+ n /*badge*/,
+ g /*useMeasureWidthHeight*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Rzc = void 0);

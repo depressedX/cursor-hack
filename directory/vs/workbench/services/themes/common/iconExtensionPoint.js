@@ -10,7 +10,15 @@ import '../../../../base/common/path.js';
 define(
 			de[3710],
 			he([1, 0, 4, 175, 79, 30, 26, 19, 54]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*extensionsRegistry*/,
+ w /*iconRegistry*/,
+ E /*platform*/,
+ C /*themables*/,
+ d /*resources*/,
+ m /*path*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jmc = void 0),

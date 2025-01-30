@@ -11,7 +11,16 @@ import '../../../base/common/network.js';
 define(
 			de[391],
 			he([1, 0, 136, 59, 201, 113, 20, 5, 34, 23]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hash*/,
+ i /*map*/,
+ w /*numbers*/,
+ E /*environment*/,
+ C /*extensions*/,
+ d /*instantiation*/,
+ m /*log*/,
+ r /*network*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$QBb = e.$PBb = void 0),

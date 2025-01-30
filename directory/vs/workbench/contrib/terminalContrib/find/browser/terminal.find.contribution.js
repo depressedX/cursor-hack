@@ -21,7 +21,22 @@ define(
 				1, 0, 27, 149, 3, 4, 8, 5, 43, 1970, 107, 363, 378, 237, 3170, 1263,
 				2498,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*lazy*/,
+ w /*lifecycle*/,
+ E /*nls*/,
+ C /*contextkey*/,
+ d /*instantiation*/,
+ m /*keybindingsRegistry*/,
+ r /*searchActionsFind*/,
+ u /*terminal*/,
+ a /*terminalActions*/,
+ h /*terminalExtensions*/,
+ c /*terminalContextKey*/,
+ n /*terminalFindWidget*/,
+ g /*terminal.find*/) {
 				"use strict";
 				var p;
 				Object.defineProperty(e, "__esModule", { value: !0 });

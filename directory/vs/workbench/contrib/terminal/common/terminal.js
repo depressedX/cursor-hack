@@ -11,7 +11,16 @@ import '../../terminalContrib/suggest/common/terminal.suggest.js';
 define(
 			de[145],
 			he([1, 0, 12, 4, 5, 58, 417, 995, 1263, 1768]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*nls*/,
+ w /*instantiation*/,
+ E /*constants*/,
+ C /*accessibilityCommands*/,
+ d /*terminal.accessibility*/,
+ m /*terminal.find*/,
+ r /*terminal.suggest*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$xeb =

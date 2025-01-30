@@ -12,7 +12,17 @@ import '../utils/duplicateAsyncIterable.js';
 define(
 			de[3950],
 			he([1, 0, 3, 42, 25, 118, 148, 83, 280, 134, 1234]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*resolverService*/,
+ w /*workspace*/,
+ E /*aiService*/,
+ C /*aiserver_pb*/,
+ d /*utils_pb*/,
+ m /*aiEverythingProviderService*/,
+ r /*reactiveStorageTypes*/,
+ u /*duplicateAsyncIterable*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$p7b = void 0);

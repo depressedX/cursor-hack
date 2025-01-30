@@ -4,7 +4,12 @@ import '../../dom.js';
 import '../splitview/splitview.js';
 import '../../../common/event.js';
 import '../../../common/lifecycle.js';
-define(de[2682], he([1, 0, 7, 279, 6, 3]), function (ce, e, t, i, w, E) {
+define(de[2682], he([1, 0, 7, 279, 6, 3]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*splitview*/,
+ w /*event*/,
+ E /*lifecycle*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Fob = void 0);
 			const C = {

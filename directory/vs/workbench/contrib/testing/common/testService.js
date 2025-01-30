@@ -11,7 +11,16 @@ import './testTypes.js';
 define(
 			de[379],
 			he([1, 0, 229, 33, 103, 221, 743, 5, 259, 185]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*cancellation*/,
+ w /*iterator*/,
+ E /*marshallingIds*/,
+ C /*prefixTree*/,
+ d /*instantiation*/,
+ m /*testId*/,
+ r /*testTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$yqc =

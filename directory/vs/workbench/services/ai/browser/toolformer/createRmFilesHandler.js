@@ -9,7 +9,14 @@ import '../../../textfile/common/textfiles.js';
 define(
 			de[3961],
 			he([1, 0, 124, 42, 22, 25, 241, 85]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*resolverService*/,
+ w /*files*/,
+ E /*workspace*/,
+ C /*magicLinkService*/,
+ d /*textfiles*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$w8b = void 0);

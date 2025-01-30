@@ -14,7 +14,19 @@ import '../../aichat/browser/aichat.js';
 define(
 			de[3986],
 			he([1, 0, 20, 3942, 11, 58, 3985, 1230, 337, 27, 43, 8, 418]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*interpreterService*/,
+ w /*actions*/,
+ E /*constants*/,
+ C /*interpreterActionService*/,
+ d /*interpreterService*/,
+ m /*chatDataService*/,
+ r /*keyCodes*/,
+ u /*keybindingsRegistry*/,
+ a /*contextkey*/,
+ h /*aichat*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class c extends w.$3X {

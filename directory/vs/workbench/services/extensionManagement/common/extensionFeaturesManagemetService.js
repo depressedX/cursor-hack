@@ -16,7 +16,21 @@ import '../../../../base/common/objects.js';
 define(
 			de[3320],
 			he([1, 0, 6, 109, 3, 244, 20, 21, 30, 28, 57, 4, 53, 24, 82]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*extensions*/,
+ w /*lifecycle*/,
+ E /*extensionFeatures*/,
+ C /*extensions*/,
+ d /*storage*/,
+ m /*platform*/,
+ r /*types*/,
+ u /*dialogs*/,
+ a /*nls*/,
+ h /*extensions*/,
+ c /*arrays*/,
+ n /*objects*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const g = "extension.features.state";

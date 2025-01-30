@@ -4,7 +4,12 @@ import '../../../../base/common/uri.js';
 import '../../../../editor/common/core/position.js';
 import '../../../../editor/common/core/range.js';
 import './testId.js';
-define(de[185], he([1, 0, 9, 48, 17, 259]), function (ce, e, t, i, w, E) {
+define(de[185], he([1, 0, 9, 48, 17, 259]), function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*position*/,
+ w /*range*/,
+ E /*testId*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$t4 =

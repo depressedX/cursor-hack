@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './arrays.js';
-define(de[433], he([1, 0, 24]), function (ce, e, t) {
+define(de[433], he([1, 0, 24]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$_c = void 0),

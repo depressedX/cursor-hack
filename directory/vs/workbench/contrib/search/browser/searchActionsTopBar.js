@@ -17,7 +17,22 @@ import './searchActionsBase.js';
 define(
 			de[4167],
 			he([1, 0, 4, 93, 89, 561, 377, 1258, 405, 186, 8, 11, 43, 27, 568, 483]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*listService*/,
+ w /*viewsService*/,
+ E /*searchIcons*/,
+ C /*constants*/,
+ d /*searchHistoryService*/,
+ m /*searchModel*/,
+ r /*search*/,
+ u /*contextkey*/,
+ a /*actions*/,
+ h /*keybindingsRegistry*/,
+ c /*keyCodes*/,
+ n /*search*/,
+ g /*searchActionsBase*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(t = mt(t)),

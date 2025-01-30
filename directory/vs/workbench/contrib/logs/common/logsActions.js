@@ -18,7 +18,23 @@ import '../../../../base/common/lifecycle.js';
 define(
 			de[1852],
 			he([1, 0, 4, 50, 34, 63, 9, 22, 78, 19, 18, 297, 269, 1019, 14, 26, 3]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*log*/,
+ E /*quickInput*/,
+ C /*uri*/,
+ d /*files*/,
+ m /*environmentService*/,
+ r /*resources*/,
+ u /*editorService*/,
+ a /*output*/,
+ h /*telemetryUtils*/,
+ c /*defaultLogLevels*/,
+ n /*codicons*/,
+ g /*themables*/,
+ p /*lifecycle*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -8,7 +8,13 @@ import './chat_pb.js';
 define(
 			de[644],
 			he([1, 0, 86, 228, 83, 367, 126]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*context_pb*/,
+ w /*utils_pb*/,
+ E /*cpp_pb*/,
+ C /*chat_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$UC =

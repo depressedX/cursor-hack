@@ -12,7 +12,17 @@ import '../../../../base/browser/dom.js';
 define(
 			de[1747],
 			he([1, 0, 4, 24, 82, 26, 51, 1658, 306, 201, 7]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*arrays*/,
+ w /*objects*/,
+ E /*themables*/,
+ C /*colorRegistry*/,
+ d /*chartsColors*/,
+ m /*colorUtils*/,
+ r /*numbers*/,
+ u /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5Pc =

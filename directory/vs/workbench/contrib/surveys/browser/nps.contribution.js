@@ -15,7 +15,20 @@ import '../../../../base/common/process.js';
 define(
 			de[3437],
 			he([1, 0, 4, 12, 55, 30, 32, 21, 62, 52, 40, 41, 9, 344]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*platform*/,
+ w /*contributions*/,
+ E /*platform*/,
+ C /*telemetry*/,
+ d /*storage*/,
+ m /*productService*/,
+ r /*lifecycle*/,
+ u /*notification*/,
+ a /*opener*/,
+ h /*uri*/,
+ c /*process*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (t = mt(t));
 				const n = 0.15,

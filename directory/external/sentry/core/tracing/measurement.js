@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../semanticAttributes.js';
 import '../utils/spanUtils.js';
-define(de[1446], he([1, 0, 453, 301]), function (ce, e, t, i) {
+define(de[1446], he([1, 0, 453, 301]), function (ce /*require*/,
+ e /*exports*/,
+ t /*semanticAttributes*/,
+ i /*spanUtils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.setMeasurement = w),

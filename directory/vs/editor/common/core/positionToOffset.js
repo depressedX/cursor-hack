@@ -8,7 +8,13 @@ import './textLength.js';
 define(
 			de[2549],
 			he([1, 0, 214, 289, 48, 17, 458]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arraysFind*/,
+ i /*offsetRange*/,
+ w /*position*/,
+ E /*range*/,
+ C /*textLength*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$uL = void 0);
 				class d {

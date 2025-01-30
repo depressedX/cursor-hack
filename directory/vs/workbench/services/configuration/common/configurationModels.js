@@ -8,7 +8,13 @@ import '../../../../base/common/arrays.js';
 define(
 			de[1794],
 			he([1, 0, 82, 10, 950, 28, 24]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*objects*/,
+ i /*configuration*/,
+ w /*configurationModels*/,
+ E /*types*/,
+ C /*arrays*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$w3c = e.$v3c = e.$u3c = void 0);

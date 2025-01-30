@@ -11,7 +11,16 @@ import '../../../../editor/common/languages.js';
 define(
 			de[1723],
 			he([1, 0, 4, 97, 56, 64, 122, 51, 35, 74]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*color*/,
+ w /*editorBrowser*/,
+ E /*model*/,
+ C /*textModel*/,
+ d /*colorRegistry*/,
+ m /*themeService*/,
+ r /*languages*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jpc = e.$ipc = void 0),

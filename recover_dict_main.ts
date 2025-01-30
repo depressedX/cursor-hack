@@ -5,7 +5,7 @@ import { ensureDirSync } from "fs-extra";
 
 const raw = readFileSync("./workbench.desktop.main.formatted.js", "utf8");
 
-const REG = /define\(\s*de\[(\d+)\],[\s\t]*he\((\[[^\]]+\])/g;
+const REG = /define\(\s*de\[(\d+)\],[\s\t]*he\((\[[^\]]+\])\)/g;
 
 function moduleId2Filepath(id: number): string {
   return de[id] + ".js";
@@ -35,6 +35,31 @@ while (res) {
   const nextRes = REG.exec(raw);
   const tailPosition = nextRes ? nextRes.index : raw.length;
   let fileContent = raw.slice(position, tailPosition);
+
+  // 对 fileContent 处理, 为形参添加注释
+  const FUNCTION_REG = /function \(([^\(]*)\)/g;
+  const functionParameters = FUNCTION_REG.exec(fileContent)?.[1];
+  if (functionParameters) {
+    const functionParametersStart = fileContent.indexOf(functionParameters);
+    const functionParametersEnd = functionParametersStart + functionParameters.length;
+    const params = functionParameters
+      .split(",")
+      .map((paramStr, i) => {
+        if (!paramStr.trim()) {
+          return "";
+        }
+        const depSig = de[deps[i]];
+
+        const shortDepSig = depSig.slice(depSig.lastIndexOf("/") + 1);
+        let res = `${paramStr} /*${shortDepSig}*/`;
+        if (res.startsWith('\n')) {
+          res = res.slice(1);
+        }
+        return res;
+      })
+      .join(",\n");
+    fileContent = fileContent.slice(0, functionParametersStart) + params + fileContent.slice(functionParametersEnd);
+  }
 
   fileContent = importStatements.join("\n") + "\n" + fileContent;
 

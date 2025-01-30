@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../languageFeatureRegistry.js';
 import './languageFeatures.js';
 import '../../../platform/instantiation/common/extensions.js';
-define(de[2763], he([1, 0, 945, 69, 20]), function (ce, e, t, i, w) {
+define(de[2763], he([1, 0, 945, 69, 20]), function (ce /*require*/,
+ e /*exports*/,
+ t /*languageFeatureRegistry*/,
+ i /*languageFeatures*/,
+ w /*extensions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$syc = void 0);
 			class E {

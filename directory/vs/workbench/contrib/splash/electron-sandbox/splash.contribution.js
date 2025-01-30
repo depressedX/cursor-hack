@@ -8,7 +8,13 @@ import '../browser/partsSplash.js';
 define(
 			de[3436],
 			he([1, 0, 55, 1756, 110, 20, 3435]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contributions*/,
+ i /*splash*/,
+ w /*native*/,
+ E /*extensions*/,
+ C /*partsSplash*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let d = class {

@@ -23,7 +23,18 @@ define(
 				1, 0, 30, 44, 1076, 1076, 192, 4, 102, 46, 60, 2014, 4364, 4415, 2014,
 				426, 4372, 262, 4345,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*editor*/,
+ w /*composerEditor*/,
+ E /*composerEditor*/,
+ C /*editor*/,
+ d /*nls*/,
+ m /*descriptors*/,
+ r /*editorExtensions*/,
+ u /*views*/,
+ a /*composerViewsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					t.$Io

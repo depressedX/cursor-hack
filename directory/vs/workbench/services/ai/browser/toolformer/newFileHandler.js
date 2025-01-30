@@ -9,7 +9,14 @@ import '../../../../../platform/files/common/files.js';
 define(
 			de[3970],
 			he([1, 0, 124, 85, 25, 42, 241, 22]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*textfiles*/,
+ w /*workspace*/,
+ E /*resolverService*/,
+ C /*magicLinkService*/,
+ d /*files*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$K8b = void 0);

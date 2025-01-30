@@ -24,7 +24,24 @@ define(
 				1, 0, 7, 410, 132, 17, 74, 204, 4, 325, 10, 90, 35, 51, 125, 475, 26,
 				75, 2401, 1205,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*highlightedLabel*/,
+ w /*filters*/,
+ E /*range*/,
+ C /*languages*/,
+ d /*outlineModel*/,
+ m /*nls*/,
+ r /*iconLabel*/,
+ u /*configuration*/,
+ a /*markers*/,
+ h /*themeService*/,
+ c /*colorRegistry*/,
+ n /*textResourceConfiguration*/,
+ g /*outline*/,
+ p /*themables*/,
+ o /*window*/) {
 				"use strict";
 				var f;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

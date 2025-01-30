@@ -9,7 +9,14 @@ import '../../../vs/workbench/contrib/controlCommon/browser/solid.js';
 define(
 			de[1063],
 			he([1, 0, 2, 2, 181, 164, 13, 36]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*LexicalComposerContext*/,
+ E /*api*/,
+ C /*solid*/,
+ d /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.LexicalComposer = r),

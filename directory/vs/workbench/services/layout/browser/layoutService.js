@@ -9,7 +9,14 @@ import '../../../../base/browser/browser.js';
 define(
 			de[96],
 			he([1, 0, 5, 180, 12, 75, 253, 139]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*layoutService*/,
+ w /*platform*/,
+ E /*window*/,
+ C /*window*/,
+ d /*browser*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.PanelOpensMaximizedOptions =

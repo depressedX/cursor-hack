@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../carrier.js';
 import './stackStrategy.js';
-define(de[733], he([1, 0, 578, 2104]), function (ce, e, t, i) {
+define(de[733], he([1, 0, 578, 2104]), function (ce /*require*/,
+ e /*exports*/,
+ t /*carrier*/,
+ i /*stackStrategy*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.setAsyncContextStrategy = w),

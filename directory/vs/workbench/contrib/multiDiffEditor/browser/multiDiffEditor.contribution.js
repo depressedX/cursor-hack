@@ -19,7 +19,22 @@ define(
 			he([
 				1, 0, 4, 11, 81, 102, 30, 192, 55, 44, 1883, 712, 3691, 800, 20, 1801,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*configurationRegistry*/,
+ E /*descriptors*/,
+ C /*platform*/,
+ d /*editor*/,
+ m /*contributions*/,
+ r /*editor*/,
+ u /*multiDiffEditor*/,
+ a /*multiDiffEditorInput*/,
+ h /*actions*/,
+ c /*multiDiffSourceResolverService*/,
+ n /*extensions*/,
+ g /*scmMultiDiffSourceResolver*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, i.$4X)(h.$jSc),

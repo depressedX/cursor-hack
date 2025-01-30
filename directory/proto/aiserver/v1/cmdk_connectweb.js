@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './cmdk_pb.js';
 import '../../../external/bufbuild/protobuf.js';
-define(de[1113], he([1, 0, 644, 86]), function (ce, e, t, i) {
+define(de[1113], he([1, 0, 644, 86]), function (ce /*require*/,
+ e /*exports*/,
+ t /*cmdk_pb*/,
+ i /*protobuf*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$J0 = void 0),

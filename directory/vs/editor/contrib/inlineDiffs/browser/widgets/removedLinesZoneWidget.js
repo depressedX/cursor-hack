@@ -13,7 +13,18 @@ import '../../../../../platform/theme/common/themeService.js';
 define(
 			de[2934],
 			he([1, 0, 58, 38, 61, 388, 533, 290, 947, 680, 10, 35]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*constants*/,
+ i /*editorOptions*/,
+ w /*language*/,
+ E /*lineTokens*/,
+ C /*lineDecorations*/,
+ d /*viewModel*/,
+ m /*ghostTextView*/,
+ r /*zoneWidget*/,
+ u /*configuration*/,
+ a /*themeService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wdc = void 0);

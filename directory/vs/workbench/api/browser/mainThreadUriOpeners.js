@@ -17,7 +17,22 @@ import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3555],
 			he([1, 0, 50, 29, 3, 23, 4, 40, 41, 21, 88, 1033, 3554, 1034, 53, 101]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*errors*/,
+ w /*lifecycle*/,
+ E /*network*/,
+ C /*nls*/,
+ d /*notification*/,
+ m /*opener*/,
+ r /*storage*/,
+ u /*extHost.protocol*/,
+ a /*configuration*/,
+ h /*contributedOpeners*/,
+ c /*externalUriOpenerService*/,
+ n /*extensions*/,
+ g /*extHostCustomers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Noc = void 0);

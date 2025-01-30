@@ -15,7 +15,19 @@ import '../../../../css!vs/editor/contrib/zoneWidget/browser/zoneWidget.js';
 define(
 			de[680],
 			he([1, 0, 7, 277, 97, 584, 3, 82, 38, 17, 98, 64, 122, 2327]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*sash*/,
+ w /*color*/,
+ E /*idGenerator*/,
+ C /*lifecycle*/,
+ d /*objects*/,
+ m /*editorOptions*/,
+ r /*range*/,
+ u /*editorCommon*/,
+ a /*model*/,
+ h /*textModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$FLb = e.$ELb = void 0),

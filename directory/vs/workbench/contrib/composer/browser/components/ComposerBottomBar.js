@@ -25,7 +25,26 @@ define(
 				1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 12, 1778, 4189, 4150, 1968, 177, 311,
 				1066, 246, 36, 2407,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*solid*/,
+ u /*platform*/,
+ a /*ComposerBottomBarButton*/,
+ h /*ComposerUnifiedModeSwitcher*/,
+ c /*ComposerUnUnifiedModeSwitcher*/,
+ n /*useCachedChatUsesTools*/,
+ g /*useComposerDataHandle*/,
+ p /*useComposerHoverTooltip*/,
+ o /*useShouldShowApplyLastMessage*/,
+ f /*utils*/,
+ b /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerBottomBar = y);

@@ -17,7 +17,21 @@ import '../../../../../css!vs/workbench/contrib/aichat/browser/components/ChatEr
 define(
 			de[862],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 147, 14, 26, 36, 338, 3197, 2375]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*simpleButton*/,
+ u /*codicons*/,
+ a /*themables*/,
+ h /*solid*/,
+ c /*markdown*/,
+ n /*errorHooks*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$0ac = b);
 				const g = (0, t.template)("<div>Request ID: <span>"),

@@ -13,7 +13,18 @@ import '../../core/range.js';
 define(
 			de[2554],
 			he([1, 0, 656, 342, 24, 214, 59, 196, 1531, 911, 1529, 17]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*diffAlgorithm*/,
+ i /*rangeMapping*/,
+ w /*arrays*/,
+ E /*arraysFind*/,
+ C /*map*/,
+ d /*lineRange*/,
+ m /*linesSliceCharSequence*/,
+ r /*utils*/,
+ u /*myersDiffAlgorithm*/,
+ a /*range*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$fxb = h);
 				function h(b, s, l, y, $, v) {

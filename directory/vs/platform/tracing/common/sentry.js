@@ -9,7 +9,14 @@ import '../../../../external/sentry/utils/promisebuffer.js';
 define(
 		de[1668],
 		he([1, 0, 144, 453, 2146, 1092, 727, 1426]),
-		function (ce, e, t, i, w, E, C, d) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*semanticAttributes*/,
+ w /*envelope*/,
+ E /*error*/,
+ C /*misc*/,
+ d /*promisebuffer*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.makePromiseBuffer =

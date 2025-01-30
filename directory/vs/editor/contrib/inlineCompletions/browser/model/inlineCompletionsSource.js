@@ -19,7 +19,22 @@ define(
 			he([
 				1, 0, 33, 433, 132, 3, 77, 17, 490, 458, 74, 152, 64, 69, 1594, 1196,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*equals*/,
+ w /*filters*/,
+ E /*lifecycle*/,
+ C /*observable*/,
+ d /*range*/,
+ m /*textEdit*/,
+ r /*textLength*/,
+ u /*languages*/,
+ a /*languageConfigurationRegistry*/,
+ h /*model*/,
+ c /*languageFeatures*/,
+ n /*provideInlineCompletions*/,
+ g /*singleTextEdit*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$QCb = e.$PCb = e.$OCb = void 0);

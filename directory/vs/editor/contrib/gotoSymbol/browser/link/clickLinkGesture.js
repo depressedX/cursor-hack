@@ -8,7 +8,13 @@ import '../../../../common/config/editorOptions.js';
 define(
 			de[766],
 			he([1, 0, 6, 27, 3, 12, 38]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*keyCodes*/,
+ w /*lifecycle*/,
+ E /*platform*/,
+ C /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6Mb = e.$5Mb = e.$4Mb = e.$3Mb = void 0),

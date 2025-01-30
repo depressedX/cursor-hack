@@ -17,7 +17,21 @@ import '../../../css!vs/platform/actionWidget/browser/actionWidget.js';
 define(
 			de[1206],
 			he([1, 0, 7, 460, 278, 33, 14, 3, 12, 26, 4, 49, 39, 106, 51, 1513]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*keybindingLabel*/,
+ w /*listWidget*/,
+ E /*cancellation*/,
+ C /*codicons*/,
+ d /*lifecycle*/,
+ m /*platform*/,
+ r /*themables*/,
+ u /*nls*/,
+ a /*contextView*/,
+ h /*keybinding*/,
+ c /*defaultStyles*/,
+ n /*colorRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$uBb = e.ActionListItemKind = e.$tBb = e.$sBb = void 0),

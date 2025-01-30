@@ -7,7 +7,12 @@ import './smallImmutableSet.js';
 define(
 			de[658],
 			he([1, 0, 29, 435, 492, 657]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*cursorColumns*/,
+ w /*length*/,
+ E /*smallImmutableSet*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pN = e.$oN = e.$nN = e.$mN = e.$lN = e.AstNodeKind = void 0);

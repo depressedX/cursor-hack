@@ -7,7 +7,12 @@ import '../../../amdX.js';
 define(
 			de[2816],
 			he([1, 0, 32, 269, 2702, 536]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*telemetry*/,
+ i /*telemetryUtils*/,
+ w /*assignment*/,
+ E /*amdX*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$g4b = void 0);

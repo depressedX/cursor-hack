@@ -16,7 +16,21 @@ import '../../../../base/common/codicons.js';
 define(
 			de[4322],
 			he([1, 0, 2, 2, 2, 13, 4321, 3196, 3206, 147, 695, 9, 36, 1716, 14]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*cardModal*/,
+ d /*expandingTextArea*/,
+ m /*optionSection*/,
+ r /*simpleButton*/,
+ u /*inlineTextArea*/,
+ a /*uri*/,
+ h /*solid*/,
+ c /*utils*/,
+ n /*codicons*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$yfd = l);
 				const g = (0, t.template)(

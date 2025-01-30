@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './json.js';
 import './jsonFormatter.js';
-define(de[586], he([1, 0, 187, 585]), function (ce, e, t, i) {
+define(de[586], he([1, 0, 187, 585]), function (ce /*require*/,
+ e /*exports*/,
+ t /*json*/,
+ i /*jsonFormatter*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$qo = w),

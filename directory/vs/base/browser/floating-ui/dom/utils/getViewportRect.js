@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import './getDocumentElement.js';
 import './getWindow.js';
 import './is.js';
-define(de[2662], he([1, 0, 538, 537, 324]), function (ce, e, t, i, w) {
+define(de[2662], he([1, 0, 538, 537, 324]), function (ce /*require*/,
+ e /*exports*/,
+ t /*getDocumentElement*/,
+ i /*getWindow*/,
+ w /*is*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Gmb = E);
 			function E(C, d) {

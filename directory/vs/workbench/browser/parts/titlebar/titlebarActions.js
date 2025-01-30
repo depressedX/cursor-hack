@@ -12,7 +12,17 @@ import '../../../../platform/window/common/window.js';
 define(
 			de[3403],
 			he([1, 0, 4, 10, 21, 96, 11, 8, 968, 100, 253]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*configuration*/,
+ w /*storage*/,
+ E /*layoutService*/,
+ C /*actions*/,
+ d /*contextkey*/,
+ m /*activity*/,
+ r /*contextkeys*/,
+ u /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$stc = e.$rtc = void 0);

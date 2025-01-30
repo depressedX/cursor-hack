@@ -2,7 +2,10 @@ import '../../../../../../../../require.js';
 import '../../../../../../../../exports.js';
 import '../../../../../../../../external/lexical/lexical/api.js';
 import './types.js';
-define(de[1270], he([1, 0, 164, 1005]), function (ce, e, t, i) {
+define(de[1270], he([1, 0, 164, 1005]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$uac = void 0),

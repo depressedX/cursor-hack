@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './lazy.js';
 import './path.js';
-define(de[535], he([1, 0, 149, 54]), function (ce, e, t, i) {
+define(de[535], he([1, 0, 149, 54]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lazy*/,
+ i /*path*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$3r = d),

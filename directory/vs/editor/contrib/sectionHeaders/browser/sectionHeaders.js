@@ -12,7 +12,17 @@ import '../../../common/services/editorWorker.js';
 define(
 			de[2921],
 			he([1, 0, 15, 3, 46, 38, 171, 152, 64, 122, 200]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*editorExtensions*/,
+ E /*editorOptions*/,
+ C /*encodedTokenAttributes*/,
+ d /*languageConfigurationRegistry*/,
+ m /*model*/,
+ r /*textModel*/,
+ u /*editorWorker*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fkc = void 0);

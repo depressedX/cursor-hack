@@ -10,7 +10,15 @@ import '../../../services/ai/browser/aiContextService.js';
 define(
 			de[3959],
 			he([1, 0, 46, 71, 11, 8, 43, 4, 1347]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*editorContextKeys*/,
+ w /*actions*/,
+ E /*contextkey*/,
+ C /*keybindingsRegistry*/,
+ d /*nls*/,
+ m /*aiContextService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (d = mt(d));
 				class r extends t.$ktb {

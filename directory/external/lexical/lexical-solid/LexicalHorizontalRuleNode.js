@@ -10,7 +10,15 @@ import '../lexical-utils/api.js';
 define(
 			de[1564],
 			he([1, 0, 2, 164, 13, 164, 181, 1158, 304]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*api*/,
+ w /*solid*/,
+ E /*api*/,
+ C /*LexicalComposerContext*/,
+ d /*useLexicalNodeSelection*/,
+ m /*api*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.HorizontalRuleNode = e.INSERT_HORIZONTAL_RULE_COMMAND = void 0),

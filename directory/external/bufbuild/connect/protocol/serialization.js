@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../connect-error.js';
 import '../code.js';
 import './limit-io.js';
-define(de[872], he([1, 0, 213, 202, 1081]), function (ce, e, t, i, w) {
+define(de[872], he([1, 0, 213, 202, 1081]), function (ce /*require*/,
+ e /*exports*/,
+ t /*connect-error*/,
+ i /*code*/,
+ w /*limit-io*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.getJsonOptions = E),

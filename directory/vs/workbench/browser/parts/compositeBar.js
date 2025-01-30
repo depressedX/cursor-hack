@@ -17,7 +17,22 @@ import '../../../base/browser/touch.js';
 define(
 			de[4007],
 			he([1, 0, 4, 50, 5, 105, 1349, 7, 168, 49, 235, 28, 6, 60, 362, 159]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*instantiation*/,
+ E /*actionbar*/,
+ C /*compositeBarActions*/,
+ d /*dom*/,
+ m /*mouseEvent*/,
+ r /*contextView*/,
+ u /*widget*/,
+ a /*types*/,
+ h /*event*/,
+ c /*views*/,
+ n /*dnd*/,
+ g /*touch*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Muc = e.$Luc = void 0);

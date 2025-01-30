@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 7, 159, 168, 6, 3, 11, 49, 108, 70, 15, 26, 1219, 1031, 5, 1306,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*touch*/,
+ w /*mouseEvent*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*actions*/,
+ m /*contextView*/,
+ r /*notebookBrowser*/,
+ u /*notebookCommon*/,
+ a /*async*/,
+ h /*themables*/,
+ c /*foldingDecorations*/,
+ n /*foldingController*/,
+ g /*instantiation*/,
+ p /*notebookOutlineDataSourceFactory*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

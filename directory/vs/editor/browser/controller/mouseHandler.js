@@ -17,7 +17,22 @@ import '../../../base/browser/ui/scrollbar/scrollableElement.js';
 define(
 			de[2839],
 			he([1, 0, 7, 168, 3, 12, 1662, 56, 777, 909, 48, 104, 750, 38, 498, 203]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*mouseEvent*/,
+ w /*lifecycle*/,
+ E /*platform*/,
+ C /*mouseTarget*/,
+ d /*editorBrowser*/,
+ m /*editorDom*/,
+ r /*editorZoom*/,
+ u /*position*/,
+ a /*selection*/,
+ h /*viewEventHandler*/,
+ c /*editorOptions*/,
+ n /*coreCommands*/,
+ g /*scrollableElement*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$1ub = void 0),

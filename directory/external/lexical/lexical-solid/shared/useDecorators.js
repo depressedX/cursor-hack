@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../solid/web.js';
 import '../../../solid/solid.js';
 import '../../../solid/web.js';
-define(de[2158], he([1, 0, 2, 13, 2]), function (ce, e, t, i, w) {
+define(de[2158], he([1, 0, 2, 13, 2]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*solid*/,
+ w /*web*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.useDecorators = E);

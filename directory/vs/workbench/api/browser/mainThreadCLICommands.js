@@ -23,7 +23,25 @@ define(
 				1, 0, 23, 12, 28, 9, 4, 31, 119, 2817, 154, 5, 128, 73, 34, 41, 78, 157,
 				384,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*platform*/,
+ w /*types*/,
+ E /*uri*/,
+ C /*nls*/,
+ d /*commands*/,
+ m /*extensionManagement*/,
+ r /*extensionManagementCLI*/,
+ u /*extensionManagementUtil*/,
+ a /*instantiation*/,
+ h /*serviceCollection*/,
+ c /*label*/,
+ n /*log*/,
+ g /*opener*/,
+ p /*environmentService*/,
+ o /*extensionManagement*/,
+ f /*extensionManifestPropertiesService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					d.$fk.registerCommand("_remoteCLI.openExternal", function (s, l) {

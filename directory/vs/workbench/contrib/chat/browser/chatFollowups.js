@@ -10,7 +10,15 @@ import '../common/chatParserTypes.js';
 define(
 			de[1720],
 			he([1, 0, 7, 183, 94, 3, 4, 153, 329]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*button*/,
+ w /*htmlContent*/,
+ E /*lifecycle*/,
+ C /*nls*/,
+ d /*chatAgents*/,
+ m /*chatParserTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$RXb = void 0),

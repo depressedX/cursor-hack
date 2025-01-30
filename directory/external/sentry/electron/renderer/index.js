@@ -9,7 +9,14 @@ import './metrics.js';
 define(
 		de[2151],
 		he([1, 0, 1105, 1460, 1462, 2150, 1461, 2149]),
-		function (ce, e, t, i, w, E, C, d) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*scope-to-main*/,
+ w /*transport*/,
+ E /*sdk*/,
+ C /*stack-parse*/,
+ d /*metrics*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.defaultStackParser =

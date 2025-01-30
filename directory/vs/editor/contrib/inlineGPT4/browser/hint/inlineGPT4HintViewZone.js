@@ -9,7 +9,14 @@ import '../../../../../platform/reactivestorage/browser/reactiveStorageService.j
 define(
 			de[2753],
 			he([1, 0, 7, 3, 39, 2699, 5, 45]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*keybinding*/,
+ E /*renderInlineGPT4HintViewZone*/,
+ C /*instantiation*/,
+ d /*reactiveStorageService*/) {
 				"use strict";
 				var m;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

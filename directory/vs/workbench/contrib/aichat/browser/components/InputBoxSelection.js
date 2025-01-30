@@ -16,7 +16,20 @@ import '../../../../../css!vs/workbench/contrib/aichat/browser/components/InputB
 define(
 			de[4143],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 4142, 36, 331, 2377]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*codicons*/,
+ u /*themables*/,
+ a /*InputBoxSelectionPin*/,
+ h /*solid*/,
+ c /*useThemeHooks*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$9fc = o);
 				const n = (0, t.template)("<div>"),

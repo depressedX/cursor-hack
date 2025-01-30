@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/browser/fastDomNode.js';
-define(de[321], he([1, 0, 194]), function (ce, e, t) {
+define(de[321], he([1, 0, 194]), function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$jsb = i),

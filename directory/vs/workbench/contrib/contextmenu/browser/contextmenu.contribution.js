@@ -9,7 +9,14 @@ import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3421],
 			he([1, 0, 3, 49, 180, 30, 55, 52]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*contextView*/,
+ w /*layoutService*/,
+ E /*platform*/,
+ C /*contributions*/,
+ d /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let m = class extends t.$1c {

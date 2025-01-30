@@ -7,7 +7,12 @@ import '../code.js';
 define(
 			de[1080],
 			he([1, 0, 574, 1389, 213, 202]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*headers*/,
+ i /*query-params*/,
+ w /*connect-error*/,
+ E /*code*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.protocolVersion = void 0),

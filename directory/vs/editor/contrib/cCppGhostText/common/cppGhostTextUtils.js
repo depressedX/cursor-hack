@@ -7,7 +7,12 @@ import '../../../common/viewModel.js';
 define(
 			de[1153],
 			he([1, 0, 1498, 1130, 533, 290]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*character*/,
+ i /*word*/,
+ w /*lineDecorations*/,
+ E /*viewModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tlc = C),

@@ -12,7 +12,16 @@ import '../../../../css!vs/base/browser/ui/sash/sash.js';
 define(
 			de[277],
 			he([1, 0, 7, 265, 159, 15, 138, 6, 3, 12, 2250]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*touch*/,
+ E /*async*/,
+ C /*decorators*/,
+ d /*event*/,
+ m /*lifecycle*/,
+ r /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.Sash = e.SashState = e.Orientation = e.OrthogonalEdge = void 0),

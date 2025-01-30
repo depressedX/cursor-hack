@@ -18,7 +18,23 @@ import '../../../../base/common/buffer.js';
 define(
 			de[1806],
 			he([1, 0, 62, 50, 9, 5, 4, 33, 327, 19, 57, 41, 110, 151, 941, 22, 76]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*productService*/,
+ i /*actions*/,
+ w /*uri*/,
+ E /*instantiation*/,
+ C /*nls*/,
+ d /*cancellation*/,
+ m /*request*/,
+ r /*resources*/,
+ u /*dialogs*/,
+ a /*opener*/,
+ h /*native*/,
+ c /*environmentService*/,
+ n /*profiling*/,
+ g /*files*/,
+ p /*buffer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Wfd = void 0),

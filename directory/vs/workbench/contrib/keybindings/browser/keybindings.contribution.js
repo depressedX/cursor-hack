@@ -9,7 +9,14 @@ import '../../../services/log/common/logConstants.js';
 define(
 			de[3460],
 			he([1, 0, 4, 11, 39, 99, 31, 705]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*keybinding*/,
+ E /*actionCommonCategories*/,
+ C /*commands*/,
+ d /*logConstants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (t = mt(t));
 				class m extends i.$3X {

@@ -18,7 +18,21 @@ define(
 			he([
 				1, 0, 5, 3, 3222, 20, 1717, 6, 3988, 137, 3948, 3989, 3950, 3949, 3947,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*lifecycle*/,
+ w /*backgroundCmdKSequence*/,
+ E /*extensions*/,
+ C /*backgroundCmdKGeneration*/,
+ d /*event*/,
+ m /*hyperModeBackend*/,
+ r /*aiMiscServices*/,
+ u /*coalesceChainBackend*/,
+ a /*regularCmdKBackend*/,
+ h /*finetunedInstructionsBackend*/,
+ c /*cursorMotionBackend*/,
+ n /*chatAndApplyBackend*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Bed = void 0);

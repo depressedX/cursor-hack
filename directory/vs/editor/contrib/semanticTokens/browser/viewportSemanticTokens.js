@@ -15,7 +15,20 @@ import '../../../common/services/semanticTokensStyling.js';
 define(
 			de[956],
 			he([1, 0, 15, 3, 46, 1602, 1156, 1209, 10, 35, 391, 162, 69, 1180]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*editorExtensions*/,
+ E /*getSemanticTokens*/,
+ C /*semanticTokensConfig*/,
+ d /*semanticTokensProviderStyling*/,
+ m /*configuration*/,
+ r /*themeService*/,
+ u /*languageFeatureDebounce*/,
+ a /*stopwatch*/,
+ h /*languageFeatures*/,
+ c /*semanticTokensStyling*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

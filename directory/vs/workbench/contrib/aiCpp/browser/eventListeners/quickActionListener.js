@@ -10,7 +10,15 @@ import '../../../../../base/common/map.js';
 define(
 			de[3224],
 			he([1, 0, 332, 5, 20, 500, 328, 137, 59]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cppEventLogger*/,
+ i /*instantiation*/,
+ w /*extensions*/,
+ E /*codeActionController*/,
+ C /*suggestController*/,
+ d /*aiMiscServices*/,
+ m /*map*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$U7b = void 0);

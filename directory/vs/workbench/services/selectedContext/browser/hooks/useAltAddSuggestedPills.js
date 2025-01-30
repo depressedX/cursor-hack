@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../../external/lexical/lexical/lexical.js';
 import '../../../../../../external/solid/solid.js';
-define(de[3603], he([1, 0, 158, 13]), function (ce, e, t, i) {
+define(de[3603], he([1, 0, 158, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lexical*/,
+ i /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$9bc = E);
 			const w = {

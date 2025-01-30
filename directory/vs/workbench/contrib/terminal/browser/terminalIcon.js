@@ -12,7 +12,17 @@ import '../../../../base/common/lifecycle.js';
 define(
 			de[514],
 			he([1, 0, 136, 9, 79, 212, 26, 145, 512, 7, 3]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hash*/,
+ i /*uri*/,
+ w /*iconRegistry*/,
+ E /*theme*/,
+ C /*themables*/,
+ d /*terminal*/,
+ m /*terminalColorRegistry*/,
+ r /*dom*/,
+ u /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Onc = a),

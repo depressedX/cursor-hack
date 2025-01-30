@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/arrays.js';
 import '../../../base/common/uint.js';
-define(de[589], he([1, 0, 24, 210]), function (ce, e, t, i) {
+define(de[589], he([1, 0, 24, 210]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*uint*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$YN = e.$XN = e.$WN = void 0);

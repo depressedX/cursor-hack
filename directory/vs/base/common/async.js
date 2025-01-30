@@ -11,7 +11,16 @@ import './lazy.js';
 define(
 			de[15],
 			he([1, 0, 33, 29, 6, 3, 19, 12, 649, 149]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*errors*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*resources*/,
+ d /*platform*/,
+ m /*symbols*/,
+ r /*lazy*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$di =

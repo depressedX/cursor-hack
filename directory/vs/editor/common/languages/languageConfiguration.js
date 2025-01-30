@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/charCode.js';
 import '../encodedTokenAttributes.js';
-define(de[532], he([1, 0, 120, 171]), function (ce, e, t, i) {
+define(de[532], he([1, 0, 120, 171]), function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*encodedTokenAttributes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$sM = e.$rM = e.IndentAction = void 0);

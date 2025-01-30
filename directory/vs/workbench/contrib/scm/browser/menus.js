@@ -14,7 +14,18 @@ import '../../../../css!vs/workbench/contrib/scm/browser/media/scm.js';
 define(
 			de[3130],
 			he([1, 0, 24, 6, 3, 4, 92, 11, 8, 5, 128, 258, 652]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*nls*/,
+ C /*menuEntryActionViewItem*/,
+ d /*actions*/,
+ m /*contextkey*/,
+ r /*instantiation*/,
+ u /*serviceCollection*/,
+ a /*scm*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$SPc = e.$RPc = e.$QPc = e.$PPc = void 0);

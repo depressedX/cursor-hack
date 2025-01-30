@@ -17,7 +17,19 @@ import '../../../../../css!vs/workbench/contrib/aichat/browser/components/UserBu
 define(
 			de[4405],
 			he([1, 0, 2, 2, 2, 2, 13, 7, 205, 4203, 4404, 36, 140, 907, 1141, 1142]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*dom*/,
+ m /*reactiveStorageTypes*/,
+ r /*AIChatHistory*/,
+ u /*PremiumAiChat*/,
+ a /*solid*/,
+ h /*chatData*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$icc = n),

@@ -16,7 +16,21 @@ import './codeEditorView.js';
 define(
 			de[3081],
 			he([1, 0, 7, 182, 29, 77, 64, 4, 11, 10, 5, 508, 989, 1251, 1252]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*iconLabels*/,
+ w /*errors*/,
+ E /*observable*/,
+ C /*model*/,
+ d /*nls*/,
+ m /*actions*/,
+ r /*configuration*/,
+ u /*instantiation*/,
+ a /*utils*/,
+ h /*colors*/,
+ c /*editorGutter*/,
+ n /*codeEditorView*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$7Zb = void 0);

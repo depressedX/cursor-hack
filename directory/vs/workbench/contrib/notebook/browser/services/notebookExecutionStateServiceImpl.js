@@ -16,7 +16,21 @@ import '../../common/notebookService.js';
 define(
 			de[3472],
 			he([1, 0, 6, 3, 59, 19, 47, 184, 5, 34, 70, 611, 190, 243, 161]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*map*/,
+ E /*resources*/,
+ C /*uuid*/,
+ d /*accessibilitySignalService*/,
+ m /*instantiation*/,
+ r /*log*/,
+ u /*notebookCommon*/,
+ a /*notebookExecutionService*/,
+ h /*notebookExecutionStateService*/,
+ c /*notebookKernelService*/,
+ n /*notebookService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$KGc = void 0);

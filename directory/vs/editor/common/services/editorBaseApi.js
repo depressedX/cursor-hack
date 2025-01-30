@@ -12,7 +12,17 @@ import '../standalone/standaloneEnums.js';
 define(
 			de[2695],
 			he([1, 0, 33, 6, 27, 9, 48, 17, 104, 74, 1542]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*event*/,
+ w /*keyCodes*/,
+ E /*uri*/,
+ C /*position*/,
+ d /*range*/,
+ m /*selection*/,
+ r /*languages*/,
+ u /*standaloneEnums*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$4wb = void 0),

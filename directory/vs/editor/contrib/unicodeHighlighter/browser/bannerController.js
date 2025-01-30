@@ -13,7 +13,17 @@ import '../../../../css!vs/editor/contrib/unicodeHighlighter/browser/bannerContr
 define(
 			de[2838],
 			he([1, 0, 7, 105, 50, 3, 251, 5, 497, 79, 26, 2324]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*actionbar*/,
+ w /*actions*/,
+ E /*lifecycle*/,
+ C /*markdownRenderer*/,
+ d /*instantiation*/,
+ m /*link*/,
+ r /*iconRegistry*/,
+ u /*themables*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ykc = void 0);

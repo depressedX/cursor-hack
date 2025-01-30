@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import '../lexical/api.js';
-define(de[1563], he([1, 0, 164]), function (ce, e, t) {
+define(de[1563], he([1, 0, 164]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.DecoratorBlockNode = void 0),

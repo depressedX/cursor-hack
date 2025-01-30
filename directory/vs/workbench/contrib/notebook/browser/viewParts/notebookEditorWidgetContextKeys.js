@@ -11,7 +11,16 @@ import '../../../../services/extensions/common/extensions.js';
 define(
 			de[3503],
 			he([1, 0, 7, 3, 8, 108, 176, 190, 243, 53]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*contextkey*/,
+ E /*notebookBrowser*/,
+ C /*notebookContextKeys*/,
+ d /*notebookExecutionStateService*/,
+ m /*notebookKernelService*/,
+ r /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$n4b = void 0),

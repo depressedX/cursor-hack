@@ -9,7 +9,14 @@ import '../../../common/model.js';
 define(
 			de[2755],
 			he([1, 0, 7, 194, 56, 303, 38, 64]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*fastDomNode*/,
+ w /*editorBrowser*/,
+ E /*viewPart*/,
+ C /*editorOptions*/,
+ d /*model*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ivb = void 0),

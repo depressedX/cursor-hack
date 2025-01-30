@@ -9,7 +9,14 @@ import '../../../common/scrollable.js';
 define(
 			de[2680],
 			he([1, 0, 168, 1577, 1166, 1128, 14, 195]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*mouseEvent*/,
+ i /*abstractScrollbar*/,
+ w /*scrollbarArrow*/,
+ E /*scrollbarState*/,
+ C /*codicons*/,
+ d /*scrollable*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$2hb = void 0);

@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/path.js';
 import '../../instantiation/common/instantiation.js';
-define(de[941], he([1, 0, 54, 5]), function (ce, e, t, i) {
+define(de[941], he([1, 0, 54, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*path*/,
+ i /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.Utils = e.$b2 = void 0),

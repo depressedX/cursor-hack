@@ -12,7 +12,17 @@ import '../../../ui/browser/aiInput/aiInput2.js';
 define(
 			de[4318],
 			he([1, 0, 2, 1063, 181, 1362, 1106, 1160, 158, 13, 450]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*LexicalComposer*/,
+ w /*LexicalComposerContext*/,
+ E /*LexicalContentEditable*/,
+ C /*LexicalErrorBoundary*/,
+ d /*LexicalPlainTextPlugin*/,
+ m /*lexical*/,
+ r /*solid*/,
+ u /*aiInput2*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerLexicalRenderer = a);

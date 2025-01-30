@@ -7,7 +7,12 @@ import '../lexical-utils/api.js';
 define(
 			de[2604],
 			he([1, 0, 181, 164, 13, 304]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalComposerContext*/,
+ i /*api*/,
+ w /*solid*/,
+ E /*api*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$filter = C),

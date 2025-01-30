@@ -7,7 +7,12 @@ import '../../../../base/common/platform.js';
 define(
 			de[3298],
 			he([1, 0, 553, 62, 314, 12]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensionRecommendations*/,
+ i /*productService*/,
+ w /*extensionRecommendations*/,
+ E /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$NTc = void 0);

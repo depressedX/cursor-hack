@@ -13,7 +13,18 @@ import '../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[1023],
 			he([1, 0, 6, 103, 3, 37, 4, 109, 5, 34, 53, 175]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*iterator*/,
+ w /*lifecycle*/,
+ E /*strings*/,
+ C /*nls*/,
+ d /*extensions*/,
+ m /*instantiation*/,
+ r /*log*/,
+ u /*extensions*/,
+ a /*extensionsRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$C2 = e.$B2 = e.$A2 = e.ChatMessageRole = void 0);

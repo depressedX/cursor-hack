@@ -9,7 +9,14 @@ import '../../../../base/common/functional.js';
 define(
 			de[1823],
 			he([1, 0, 387, 53, 23, 9, 941, 288]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*ternarySearchTree*/,
+ i /*extensions*/,
+ w /*network*/,
+ E /*uri*/,
+ C /*profiling*/,
+ d /*functional*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$fd = void 0);

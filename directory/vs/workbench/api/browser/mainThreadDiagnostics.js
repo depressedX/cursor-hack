@@ -8,7 +8,13 @@ import '../../../platform/uriIdentity/common/uriIdentity.js';
 define(
 			de[3344],
 			he([1, 0, 90, 9, 88, 101, 68]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*markers*/,
+ i /*uri*/,
+ w /*extHost.protocol*/,
+ E /*extHostCustomers*/,
+ C /*uriIdentity*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Zmc = void 0);

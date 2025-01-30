@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/buffer.js';
-define(de[2976], he([1, 0, 76]), function (ce, e, t) {
+define(de[2976], he([1, 0, 76]), function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$jdd = void 0),

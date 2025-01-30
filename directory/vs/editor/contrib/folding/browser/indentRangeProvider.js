@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../common/model/utils.js';
 import './foldingRanges.js';
-define(de[752], he([1, 0, 1149, 659]), function (ce, e, t, i) {
+define(de[752], he([1, 0, 1149, 659]), function (ce /*require*/,
+ e /*exports*/,
+ t /*utils*/,
+ i /*foldingRanges*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$QNb = e.$PNb = void 0),

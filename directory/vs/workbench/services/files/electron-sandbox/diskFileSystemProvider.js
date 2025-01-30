@@ -9,7 +9,14 @@ import '../../../../platform/log/common/logService.js';
 define(
 			de[3384],
 			he([1, 0, 4, 12, 2741, 1614, 3383, 1621]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*platform*/,
+ w /*diskFileSystemProvider*/,
+ E /*diskFileSystemProviderClient*/,
+ C /*watcherClient*/,
+ d /*logService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Wcd = void 0);

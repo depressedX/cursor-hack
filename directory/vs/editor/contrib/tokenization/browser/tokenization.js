@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/stopwatch.js';
 import '../../../browser/editorExtensions.js';
 import '../../../../nls.js';
-define(de[2813], he([1, 0, 162, 46, 4]), function (ce, e, t, i, w) {
+define(de[2813], he([1, 0, 162, 46, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*stopwatch*/,
+ i /*editorExtensions*/,
+ w /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (w = mt(w));
 			class E extends i.$itb {

@@ -15,7 +15,20 @@ import '../../common/chatService.js';
 define(
 			de[1047],
 			he([1, 0, 14, 27, 4, 11, 8, 43, 402, 208, 153, 207, 329, 218]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*keyCodes*/,
+ w /*nls*/,
+ E /*actions*/,
+ C /*contextkey*/,
+ d /*keybindingsRegistry*/,
+ m /*chatActions*/,
+ r /*chat*/,
+ u /*chatAgents*/,
+ a /*chatContextKeys*/,
+ h /*chatParserTypes*/,
+ c /*chatService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$RYb = e.$QYb = e.$PYb = void 0),

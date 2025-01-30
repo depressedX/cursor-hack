@@ -9,7 +9,14 @@ import '../../../services/environment/browser/environmentService.js';
 define(
 			de[1018],
 			he([1, 0, 9, 4, 62, 21, 18, 286]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*nls*/,
+ w /*productService*/,
+ E /*storage*/,
+ C /*editorService*/,
+ d /*environmentService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$UXb = e.$TXb = e.$SXb = void 0),

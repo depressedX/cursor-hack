@@ -7,7 +7,12 @@ import '../../../services/remote/common/remoteAgentService.js';
 define(
 			de[3565],
 			he([1, 0, 15, 117, 1762, 143]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*terminal*/,
+ w /*basePty*/,
+ E /*remoteAgentService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fUc = void 0);

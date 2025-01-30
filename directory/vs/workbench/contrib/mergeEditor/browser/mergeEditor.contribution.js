@@ -19,7 +19,22 @@ define(
 			he([
 				1, 0, 4, 11, 81, 102, 30, 192, 55, 44, 3867, 3868, 711, 1050, 52, 3690,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*configurationRegistry*/,
+ E /*descriptors*/,
+ C /*platform*/,
+ d /*editor*/,
+ m /*contributions*/,
+ r /*editor*/,
+ u /*commands*/,
+ a /*devCommands*/,
+ h /*mergeEditorInput*/,
+ c /*mergeEditor*/,
+ n /*lifecycle*/,
+ g /*mergeEditorSerializer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					C.$Io

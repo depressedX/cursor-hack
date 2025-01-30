@@ -14,7 +14,19 @@ import '../../../../platform/product/common/productService.js';
 define(
 			de[3310],
 			he([1, 0, 392, 8, 11, 132, 4, 31, 53, 26, 14, 376, 62]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*pickerQuickAccess*/,
+ i /*contextkey*/,
+ w /*actions*/,
+ E /*filters*/,
+ C /*nls*/,
+ d /*commands*/,
+ m /*extensions*/,
+ r /*themables*/,
+ u /*codicons*/,
+ a /*issue*/,
+ h /*productService*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

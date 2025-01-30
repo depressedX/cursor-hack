@@ -10,7 +10,15 @@ import '../../../../base/common/event.js';
 define(
 			de[3248],
 			he([1, 0, 121, 9, 12, 20, 110, 76, 6]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*clipboardService*/,
+ i /*uri*/,
+ w /*platform*/,
+ E /*extensions*/,
+ C /*native*/,
+ d /*buffer*/,
+ m /*event*/) {
 				"use strict";
 				var r;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

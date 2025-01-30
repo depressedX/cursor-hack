@@ -8,7 +8,13 @@ import '../../../base/common/network.js';
 define(
 			de[3345],
 			he([1, 0, 9, 88, 101, 57, 23]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*extHost.protocol*/,
+ w /*extHostCustomers*/,
+ E /*dialogs*/,
+ C /*network*/) {
 				"use strict";
 				var d;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

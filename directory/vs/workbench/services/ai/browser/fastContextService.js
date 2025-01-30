@@ -17,7 +17,22 @@ import '../../../../editor/browser/editorBrowser.js';
 define(
 			de[400],
 			he([1, 0, 5, 20, 3, 245, 256, 18, 17, 204, 33, 226, 67, 42, 25, 56]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*extensions*/,
+ w /*lifecycle*/,
+ E /*history*/,
+ C /*workspaces*/,
+ d /*editorService*/,
+ m /*range*/,
+ r /*outlineModel*/,
+ u /*cancellation*/,
+ a /*repositoryService*/,
+ h /*model*/,
+ c /*resolverService*/,
+ n /*workspace*/,
+ g /*editorBrowser*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$26b = void 0),

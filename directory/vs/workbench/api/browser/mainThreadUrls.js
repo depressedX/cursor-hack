@@ -8,7 +8,13 @@ import '../../../platform/extensions/common/extensions.js';
 define(
 			de[3452],
 			he([1, 0, 88, 101, 465, 1835, 109]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extHost.protocol*/,
+ i /*extHostCustomers*/,
+ w /*url*/,
+ E /*extensionUrlHandler*/,
+ C /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Moc = void 0);

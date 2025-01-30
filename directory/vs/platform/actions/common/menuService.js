@@ -14,7 +14,19 @@ import '../../keybinding/common/keybinding.js';
 define(
 			de[1677],
 			he([1, 0, 15, 6, 3, 11, 31, 8, 50, 21, 24, 4, 39]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*actions*/,
+ C /*commands*/,
+ d /*contextkey*/,
+ m /*actions*/,
+ r /*storage*/,
+ u /*arrays*/,
+ a /*nls*/,
+ h /*keybinding*/) {
 				"use strict";
 				var c, n;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

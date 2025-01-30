@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../utils/getAlignment.js';
 import '../utils/getMainAxisFromPlacement.js';
 import '../utils/getSide.js';
-define(de[2201], he([1, 0, 582, 583, 487]), function (ce, e, t, i, w) {
+define(de[2201], he([1, 0, 582, 583, 487]), function (ce /*require*/,
+ e /*exports*/,
+ t /*getAlignment*/,
+ i /*getMainAxisFromPlacement*/,
+ w /*getSide*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$8lb = void 0),

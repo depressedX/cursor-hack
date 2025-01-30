@@ -13,7 +13,17 @@ import '../../../../../css!vs/workbench/contrib/codeEditor/browser/accessibility
 define(
 			de[3551],
 			he([1, 0, 4, 10, 91, 11, 130, 43, 27, 127, 761, 2396]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*configuration*/,
+ w /*accessibility*/,
+ E /*actions*/,
+ C /*accessibilityConfiguration*/,
+ d /*keybindingsRegistry*/,
+ m /*keyCodes*/,
+ r /*aria*/,
+ u /*standaloneStrings*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (t = mt(t));
 				class a extends E.$3X {

@@ -16,7 +16,21 @@ import '../../../utils/browser/chatAndComposerSuggestedFileReranking.js';
 define(
 			de[2010],
 			he([1, 0, 13, 58, 140, 1712, 270, 1385, 299, 36, 15, 9, 1273, 54, 1007]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*constants*/,
+ w /*chatData*/,
+ E /*useBubble*/,
+ C /*aiConfigHelper*/,
+ d /*useContextPills*/,
+ m /*utils*/,
+ r /*solid*/,
+ u /*async*/,
+ a /*uri*/,
+ h /*getUnrepeatedFileNames*/,
+ c /*path*/,
+ n /*chatAndComposerSuggestedFileReranking*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$kbc = o);
 				const g = 100,

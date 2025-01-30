@@ -9,7 +9,14 @@ import '../../../nls.js';
 define(
 			de[3361],
 			he([1, 0, 84, 88, 101, 50, 31, 4]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*progress*/,
+ i /*extHost.protocol*/,
+ w /*extHostCustomers*/,
+ E /*actions*/,
+ C /*commands*/,
+ d /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$goc = void 0);

@@ -9,7 +9,14 @@ import '../../../../base/common/uri.js';
 define(
 			de[3617],
 			he([1, 0, 3, 668, 21, 45, 1318, 9]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*aiAssertService*/,
+ w /*storage*/,
+ E /*reactiveStorageService*/,
+ C /*composerDataCreation*/,
+ d /*uri*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createComposerDataHandleManager = m);

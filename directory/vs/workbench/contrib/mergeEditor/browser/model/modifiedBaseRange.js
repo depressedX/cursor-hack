@@ -12,7 +12,17 @@ import '../utils.js';
 define(
 			de[1250],
 			he([1, 0, 24, 29, 37, 210, 48, 17, 1249, 686, 508]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*errors*/,
+ w /*strings*/,
+ E /*uint*/,
+ C /*position*/,
+ d /*range*/,
+ m /*editing*/,
+ r /*mapping*/,
+ u /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.InputState =

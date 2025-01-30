@@ -17,7 +17,21 @@ import '../../../../css!vs/workbench/contrib/ui/browser/scrollableDiv.js';
 define(
 			de[135],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 13, 7, 203, 195, 36, 2527]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*solid*/,
+ a /*dom*/,
+ h /*scrollableElement*/,
+ c /*scrollable*/,
+ n /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$w0b = o),

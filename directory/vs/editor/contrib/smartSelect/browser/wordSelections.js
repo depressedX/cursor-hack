@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/charCode.js';
 import '../../../../base/common/strings.js';
 import '../../../common/core/range.js';
-define(de[2590], he([1, 0, 120, 37, 17]), function (ce, e, t, i, w) {
+define(de[2590], he([1, 0, 120, 37, 17]), function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*strings*/,
+ w /*range*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$jPb = void 0);
 			class E {

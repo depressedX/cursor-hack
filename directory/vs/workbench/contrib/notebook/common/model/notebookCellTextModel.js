@@ -14,7 +14,19 @@ import '../../../../../base/common/async.js';
 define(
 			de[1029],
 			he([1, 0, 6, 136, 3, 47, 17, 64, 1194, 1195, 172, 1842, 15]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*hash*/,
+ w /*lifecycle*/,
+ E /*uuid*/,
+ C /*range*/,
+ d /*model*/,
+ m /*pieceTreeTextBuffer*/,
+ r /*pieceTreeTextBufferBuilder*/,
+ u /*modesRegistry*/,
+ a /*notebookCellOutputTextModel*/,
+ h /*async*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$95 = void 0),

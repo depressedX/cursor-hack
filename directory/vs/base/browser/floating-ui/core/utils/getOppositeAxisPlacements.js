@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import './getAlignment.js';
 import './getOppositeAlignmentPlacement.js';
 import './getSide.js';
-define(de[2202], he([1, 0, 582, 1120, 487]), function (ce, e, t, i, w) {
+define(de[2202], he([1, 0, 582, 1120, 487]), function (ce /*require*/,
+ e /*exports*/,
+ t /*getAlignment*/,
+ i /*getOppositeAlignmentPlacement*/,
+ w /*getSide*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$2lb = C);
 			function E(d, m, r) {

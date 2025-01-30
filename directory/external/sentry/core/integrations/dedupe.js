@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../utils/index.js';
 import '../integration.js';
 import '../debug-build.js';
-define(de[2107], he([1, 0, 80, 316, 263]), function (ce, e, t, i, w) {
+define(de[2107], he([1, 0, 80, 316, 263]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*integration*/,
+ w /*debug-build*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.dedupeIntegration = void 0),

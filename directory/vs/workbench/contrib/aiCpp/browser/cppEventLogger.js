@@ -15,7 +15,20 @@ import '../../../../editor/common/services/resolverService.js';
 define(
 			de[332],
 			he([1, 0, 20, 5, 551, 971, 137, 32, 25, 367, 3, 1108, 285, 42]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*instantiation*/,
+ w /*cppDebouncingService*/,
+ E /*cppUtils*/,
+ C /*aiMiscServices*/,
+ d /*telemetry*/,
+ m /*workspace*/,
+ r /*cpp_pb*/,
+ u /*lifecycle*/,
+ a /*cpp_connectweb*/,
+ h /*backendClient*/,
+ c /*resolverService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$V7b = void 0),

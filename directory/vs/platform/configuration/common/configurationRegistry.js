@@ -10,7 +10,15 @@ import '../../registry/common/platform.js';
 define(
 			de[81],
 			he([1, 0, 24, 6, 28, 4, 10, 250, 30]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*event*/,
+ w /*types*/,
+ E /*nls*/,
+ C /*configuration*/,
+ d /*jsonContributionRegistry*/,
+ m /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Xo =

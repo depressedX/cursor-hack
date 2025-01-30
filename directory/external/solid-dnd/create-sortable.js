@@ -11,7 +11,16 @@ import './style.js';
 define(
 			de[2164],
 			he([1, 0, 13, 2159, 2160, 2152, 1465, 580, 579, 891]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*create-draggable*/,
+ w /*create-droppable*/,
+ E /*combine-refs*/,
+ C /*sortable-context*/,
+ d /*drag-drop-context*/,
+ m /*layout*/,
+ r /*style*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createSortable = void 0);

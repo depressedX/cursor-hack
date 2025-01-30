@@ -23,7 +23,24 @@ define(
 				1, 0, 167, 45, 219, 262, 395, 351, 209, 67, 9, 17, 64, 18, 44, 19, 47,
 				506, 2404,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*composer_pb*/,
+ i /*reactiveStorageService*/,
+ w /*composer*/,
+ E /*composerCapabilities*/,
+ C /*composerCapabilityDecorators*/,
+ d /*composerCapabilitySchemas*/,
+ m /*composerDataService*/,
+ r /*model*/,
+ u /*uri*/,
+ a /*range*/,
+ h /*model*/,
+ c /*editorService*/,
+ n /*editor*/,
+ g /*resources*/,
+ p /*uuid*/,
+ o /*composerViews*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.EditTrail = void 0);

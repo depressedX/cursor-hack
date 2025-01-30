@@ -12,7 +12,17 @@ import '../../../../../../workbench/contrib/ui/browser/scrollableDiv.js';
 define(
 			de[4195],
 			he([1, 0, 2, 2, 2, 2, 13, 19, 36, 33, 135]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*resources*/,
+ m /*solid*/,
+ r /*cancellation*/,
+ u /*scrollableDiv*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Fdc = g);
 				const a = (0, t.template)("<div>Context shown to model"),

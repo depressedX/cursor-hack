@@ -12,7 +12,17 @@ import '../../../../base/common/resources.js';
 define(
 			de[299],
 			he([1, 0, 54, 9, 116, 41, 298, 18, 66, 23, 19]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*path*/,
+ i /*uri*/,
+ w /*editor*/,
+ E /*opener*/,
+ C /*selectedContextData*/,
+ d /*editorService*/,
+ m /*editorGroupsService*/,
+ r /*network*/,
+ u /*resources*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ahc = e.$_gc = e.$$gc = e.$0gc = e.$9gc = void 0),

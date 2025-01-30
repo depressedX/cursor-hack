@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../instantiation/common/instantiation.js';
 import '../../../nls.js';
-define(de[1638], he([1, 0, 5, 4]), function (ce, e, t, i) {
+define(de[1638], he([1, 0, 5, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$A9c =

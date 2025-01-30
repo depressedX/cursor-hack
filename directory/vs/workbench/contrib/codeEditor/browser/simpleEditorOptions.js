@@ -12,7 +12,17 @@ import '../../../../platform/theme/common/colorRegistry.js';
 define(
 			de[521],
 			he([1, 0, 375, 254, 328, 394, 504, 714, 46, 35, 51]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contextmenu*/,
+ i /*snippetController2*/,
+ w /*suggestController*/,
+ E /*menuPreventer*/,
+ C /*selectionClipboard*/,
+ d /*tabCompletion*/,
+ m /*editorExtensions*/,
+ r /*themeService*/,
+ u /*colorRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$xYb = a),

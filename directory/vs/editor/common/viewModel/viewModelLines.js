@@ -14,7 +14,19 @@ import '../viewModel.js';
 define(
 			de[2903],
 			he([1, 0, 24, 48, 17, 64, 1150, 122, 590, 493, 2766, 589, 290]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*position*/,
+ w /*range*/,
+ E /*model*/,
+ C /*textModelGuides*/,
+ d /*textModel*/,
+ m /*textModelEvents*/,
+ r /*viewEvents*/,
+ u /*modelLineProjection*/,
+ a /*prefixSumComputer*/,
+ h /*viewModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$kwb = e.$jwb = void 0),

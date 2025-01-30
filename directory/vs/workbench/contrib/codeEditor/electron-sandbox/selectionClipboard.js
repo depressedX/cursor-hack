@@ -22,7 +22,25 @@ define(
 			he([
 				1, 0, 4, 15, 3, 12, 46, 38, 17, 98, 64, 121, 504, 55, 10, 71, 75, 6, 7,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*async*/,
+ w /*lifecycle*/,
+ E /*platform*/,
+ C /*editorExtensions*/,
+ d /*editorOptions*/,
+ m /*range*/,
+ r /*editorCommon*/,
+ u /*model*/,
+ a /*clipboardService*/,
+ h /*selectionClipboard*/,
+ c /*contributions*/,
+ n /*configuration*/,
+ g /*editorContextKeys*/,
+ p /*window*/,
+ o /*event*/,
+ f /*dom*/) {
 				"use strict";
 				var b;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

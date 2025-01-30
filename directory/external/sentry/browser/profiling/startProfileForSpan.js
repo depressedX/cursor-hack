@@ -8,7 +8,13 @@ import './utils.js';
 define(
 			de[2138],
 			he([1, 0, 144, 80, 452, 386, 1103]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*debug-build*/,
+ E /*helpers*/,
+ C /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.startProfileForSpan = d);

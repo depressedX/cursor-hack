@@ -16,7 +16,20 @@ import './registrations.contribution.js';
 define(
 			de[1217],
 			he([1, 0, 7, 14, 27, 46, 65, 309, 71, 4, 11, 10, 8, 43, 608]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*codicons*/,
+ w /*keyCodes*/,
+ E /*editorExtensions*/,
+ C /*codeEditorService*/,
+ d /*diffEditorWidget*/,
+ m /*editorContextKeys*/,
+ r /*nls*/,
+ u /*actions*/,
+ a /*configuration*/,
+ h /*contextkey*/,
+ c /*keybindingsRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$azb =

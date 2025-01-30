@@ -10,7 +10,15 @@ import '../../../../platform/theme/browser/defaultStyles.js';
 define(
 			de[2946],
 			he([1, 0, 7, 268, 14, 6, 3, 4, 106]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*toggle*/,
+ w /*codicons*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*nls*/,
+ m /*defaultStyles*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Otc = e.$Ntc = void 0),

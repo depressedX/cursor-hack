@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './binary-encoding.js';
-define(de[2031], he([1, 0, 1085]), function (ce, e, t) {
+define(de[2031], he([1, 0, 1085]), function (ce /*require*/,
+ e /*exports*/,
+ t /*binary-encoding*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.protoDelimited = void 0),

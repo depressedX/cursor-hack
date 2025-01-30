@@ -9,7 +9,14 @@ import '../../../../../services/userActivity/common/userActivityService.js';
 define(
 			de[3750],
 			he([1, 0, 138, 3, 330, 70, 190, 1040]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*decorators*/,
+ i /*lifecycle*/,
+ w /*notebookEditorExtensions*/,
+ E /*notebookCommon*/,
+ C /*notebookExecutionStateService*/,
+ d /*userActivityService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vGc = void 0);

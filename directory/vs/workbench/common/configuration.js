@@ -15,7 +15,20 @@ import '../../platform/userDataProfile/common/userDataProfile.js';
 define(
 			de[224],
 			he([1, 0, 4, 81, 30, 25, 10, 3, 6, 143, 12, 82, 15, 129]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*configurationRegistry*/,
+ w /*platform*/,
+ E /*workspace*/,
+ C /*configuration*/,
+ d /*lifecycle*/,
+ m /*event*/,
+ r /*remoteAgentService*/,
+ u /*platform*/,
+ a /*objects*/,
+ h /*async*/,
+ c /*userDataProfile*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$D6 =

@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../../external/solid/store.js';
 import '../../../../platform/storage/common/storage.js';
 import '../../../../base/browser/dom.js';
-define(de[1714], he([1, 0, 193, 21, 7]), function (ce, e, t, i, w) {
+define(de[1714], he([1, 0, 193, 21, 7]), function (ce /*require*/,
+ e /*exports*/,
+ t /*store*/,
+ i /*storage*/,
+ w /*dom*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$kDc = void 0),

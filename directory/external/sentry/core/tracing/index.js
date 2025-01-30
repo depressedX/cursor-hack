@@ -19,7 +19,21 @@ define(
 				1, 0, 1445, 1096, 2122, 2123, 1447, 888, 636, 636, 1448, 639, 1446,
 				1444, 1100,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*utils*/,
+ w /*hubextensions*/,
+ E /*idleSpan*/,
+ C /*sentrySpan*/,
+ d /*sentryNonRecordingSpan*/,
+ m /*spanstatus*/,
+ r /*spanstatus*/,
+ u /*trace*/,
+ a /*dynamicSamplingContext*/,
+ h /*measurement*/,
+ c /*sampling*/,
+ n /*logSpans*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.logSpanStart =

@@ -10,7 +10,15 @@ import '../../../../services/ai/browser/aiService.js';
 define(
 			de[3949],
 			he([1, 0, 148, 83, 3, 42, 25, 1234, 118]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*aiserver_pb*/,
+ i /*utils_pb*/,
+ w /*lifecycle*/,
+ E /*resolverService*/,
+ C /*workspace*/,
+ d /*duplicateAsyncIterable*/,
+ m /*aiService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$o7b = void 0);

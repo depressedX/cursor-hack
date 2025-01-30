@@ -16,7 +16,20 @@ import '../../../../css!vs/editor/contrib/colorPicker/browser/colorPicker.js';
 define(
 			de[2836],
 			he([1, 0, 345, 7, 757, 235, 14, 97, 6, 3, 26, 4, 51, 79, 1136]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*pixelRatio*/,
+ i /*dom*/,
+ w /*globalPointerMoveMonitor*/,
+ E /*widget*/,
+ C /*codicons*/,
+ d /*color*/,
+ m /*event*/,
+ r /*lifecycle*/,
+ u /*themables*/,
+ a /*nls*/,
+ h /*colorRegistry*/,
+ c /*iconRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$9Bb = e.$8Bb = e.$7Bb = e.$6Bb = void 0),

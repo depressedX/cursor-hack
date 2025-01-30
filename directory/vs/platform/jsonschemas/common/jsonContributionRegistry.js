@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/event.js';
 import '../../../base/common/jsonSchema.js';
 import '../../registry/common/platform.js';
-define(de[250], he([1, 0, 6, 2217, 30]), function (ce, e, t, i, w) {
+define(de[250], he([1, 0, 6, 2217, 30]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*jsonSchema*/,
+ w /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Jo = void 0),

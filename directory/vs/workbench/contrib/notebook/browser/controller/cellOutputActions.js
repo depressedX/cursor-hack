@@ -16,7 +16,21 @@ import '../../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[1845],
 			he([1, 0, 4, 11, 121, 41, 238, 176, 284, 34, 1837, 18, 108, 70, 8]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*clipboardService*/,
+ E /*opener*/,
+ C /*coreActions*/,
+ d /*notebookContextKeys*/,
+ m /*notebookIcons*/,
+ r /*log*/,
+ u /*cellOutputClipboard*/,
+ a /*editorService*/,
+ h /*notebookBrowser*/,
+ c /*notebookCommon*/,
+ n /*contextkey*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Y3b = e.$X3b = void 0),

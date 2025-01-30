@@ -12,7 +12,17 @@ import '../../../terminalContrib/stickyScroll/common/terminalStickyScrollConfigu
 define(
 			de[3165],
 			he([1, 0, 24, 3, 189, 15, 35, 512, 7, 10, 808]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*lifecycle*/,
+ w /*capabilities*/,
+ E /*async*/,
+ C /*themeService*/,
+ d /*terminalColorRegistry*/,
+ m /*dom*/,
+ r /*configuration*/,
+ u /*terminalStickyScrollConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$HHb = e.ScrollPosition = void 0),

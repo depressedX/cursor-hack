@@ -7,7 +7,12 @@ import '../common/issue.js';
 define(
 			de[3069],
 			he([1, 0, 4, 35, 1735, 376]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*themeService*/,
+ w /*baseIssueReporterService*/,
+ E /*issue*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$t6c = void 0);

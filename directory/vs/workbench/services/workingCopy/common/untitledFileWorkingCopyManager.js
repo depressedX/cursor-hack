@@ -15,7 +15,20 @@ import '../../../../base/common/map.js';
 define(
 			de[3896],
 			he([1, 0, 3, 9, 1925, 6, 23, 227, 73, 34, 335, 22, 1911, 59]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*uri*/,
+ w /*untitledFileWorkingCopy*/,
+ E /*event*/,
+ C /*network*/,
+ d /*workingCopyService*/,
+ m /*label*/,
+ r /*log*/,
+ u /*workingCopyBackup*/,
+ a /*files*/,
+ h /*abstractFileWorkingCopyManager*/,
+ c /*map*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Lpc = void 0);

@@ -9,7 +9,14 @@ import '../core/lineRange.js';
 define(
 			de[2573],
 			he([1, 0, 24, 76, 48, 531, 1544, 196]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*buffer*/,
+ w /*position*/,
+ E /*eolCounter*/,
+ C /*contiguousTokensEditing*/,
+ d /*lineRange*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_L = void 0),

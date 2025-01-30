@@ -10,7 +10,15 @@ import '../../../../../platform/configuration/common/configuration.js';
 define(
 			de[3157],
 			he([1, 0, 3, 7, 15, 562, 12, 6, 10]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*dom*/,
+ w /*async*/,
+ E /*terminalLinkHelpers*/,
+ C /*platform*/,
+ d /*event*/,
+ m /*configuration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$eWc = void 0),

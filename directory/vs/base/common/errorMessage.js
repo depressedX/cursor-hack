@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './arrays.js';
 import './types.js';
 import '../../nls.js';
-define(de[163], he([1, 0, 24, 28, 4]), function (ce, e, t, i, w) {
+define(de[163], he([1, 0, 24, 28, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*types*/,
+ w /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$xj = m),

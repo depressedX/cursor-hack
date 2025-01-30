@@ -12,7 +12,17 @@ import './rangeUtils.js';
 define(
 			de[686],
 			he([1, 0, 24, 214, 229, 29, 17, 508, 1249, 507, 1739]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*arraysFind*/,
+ w /*assert*/,
+ E /*errors*/,
+ C /*range*/,
+ d /*utils*/,
+ m /*editing*/,
+ r /*lineRange*/,
+ u /*rangeUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$zZb = e.$yZb = e.$xZb = e.$wZb = e.$vZb = e.$uZb = void 0);

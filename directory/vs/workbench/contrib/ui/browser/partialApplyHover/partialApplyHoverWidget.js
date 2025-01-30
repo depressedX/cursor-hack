@@ -18,7 +18,22 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/partialApplyHover/par
 define(
 			de[3987],
 			he([1, 0, 7, 6, 3, 56, 31, 39, 45, 5, 38, 61, 67, 852, 54, 25, 2525]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*editorBrowser*/,
+ C /*commands*/,
+ d /*keybinding*/,
+ m /*reactiveStorageService*/,
+ r /*instantiation*/,
+ u /*editorOptions*/,
+ a /*language*/,
+ h /*model*/,
+ c /*aiApplyToFileActionsService*/,
+ n /*path*/,
+ g /*workspace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$J$b = void 0),

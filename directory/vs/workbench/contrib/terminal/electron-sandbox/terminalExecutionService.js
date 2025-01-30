@@ -16,7 +16,21 @@ import '../../../../../proto/aiserver/v1/tools_pb.js';
 define(
 			de[3958],
 			he([1, 0, 3, 110, 107, 145, 617, 189, 20, 47, 25, 118, 15, 59, 124]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*native*/,
+ w /*terminal*/,
+ E /*terminal*/,
+ C /*terminalExecutionService*/,
+ d /*capabilities*/,
+ m /*extensions*/,
+ r /*uuid*/,
+ u /*workspace*/,
+ a /*aiService*/,
+ h /*async*/,
+ c /*map*/,
+ n /*tools_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pgd = void 0);

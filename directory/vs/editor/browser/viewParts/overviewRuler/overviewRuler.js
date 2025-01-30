@@ -7,7 +7,12 @@ import '../../../common/viewEventHandler.js';
 define(
 			de[2717],
 			he([1, 0, 194, 38, 1546, 750]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*editorOptions*/,
+ w /*overviewZoneManager*/,
+ E /*viewEventHandler*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Hvb = void 0);

@@ -8,7 +8,13 @@ import '../uint8arraylist/index.js';
 define(
 			de[575],
 			he([1, 0, 202, 213, 2020, 1081, 2025]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*code*/,
+ i /*connect-error*/,
+ w /*envelope*/,
+ E /*limit-io*/,
+ C /*index*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.pipeTo = d),

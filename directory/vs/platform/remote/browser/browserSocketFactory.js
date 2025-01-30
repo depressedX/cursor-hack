@@ -11,7 +11,16 @@ import '../../../base/browser/window.js';
 define(
 			de[2785],
 			he([1, 0, 7, 15, 76, 6, 3, 760, 211, 75]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*async*/,
+ w /*buffer*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*ipc.net*/,
+ m /*remoteAuthorityResolver*/,
+ r /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$1rb = void 0),

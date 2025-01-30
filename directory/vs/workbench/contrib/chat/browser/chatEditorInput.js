@@ -15,7 +15,20 @@ import '../common/chatService.js';
 define(
 			de[552],
 			he([1, 0, 33, 14, 6, 3, 23, 9, 4, 79, 44, 223, 153, 218]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*codicons*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*network*/,
+ d /*uri*/,
+ m /*nls*/,
+ r /*iconRegistry*/,
+ u /*editor*/,
+ a /*editorInput*/,
+ h /*chatAgents*/,
+ c /*chatService*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

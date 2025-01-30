@@ -16,7 +16,21 @@ import '../../../../base/common/codicons.js';
 define(
 			de[3812],
 			he([1, 0, 27, 3, 4, 8, 6, 1724, 11, 146, 43, 683, 100, 1224, 14]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*lifecycle*/,
+ w /*nls*/,
+ E /*contextkey*/,
+ C /*event*/,
+ d /*comments*/,
+ m /*actions*/,
+ r /*viewPane*/,
+ u /*keybindingsRegistry*/,
+ a /*commentsTreeViewer*/,
+ h /*contextkeys*/,
+ c /*viewFilter*/,
+ n /*codicons*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gpc = e.CommentsSortOrder = void 0);

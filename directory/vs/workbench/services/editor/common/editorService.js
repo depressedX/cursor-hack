@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import './editorGroupsService.js';
-define(de[18], he([1, 0, 5, 66]), function (ce, e, t, i) {
+define(de[18], he([1, 0, 5, 66]), function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*editorGroupsService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$LY = e.$KY = e.$JY = e.$IY = void 0),

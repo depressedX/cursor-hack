@@ -4,7 +4,12 @@ import '../../../../../base/browser/ui/sash/sash.js';
 import '../../../../../base/common/lifecycle.js';
 import '../../../../../base/common/observable.js';
 import '../../../../../base/common/observableInternal/derived.js';
-define(de[1586], he([1, 0, 277, 3, 77, 319]), function (ce, e, t, i, w, E) {
+define(de[1586], he([1, 0, 277, 3, 77, 319]), function (ce /*require*/,
+ e /*exports*/,
+ t /*sash*/,
+ i /*lifecycle*/,
+ w /*observable*/,
+ E /*derived*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$fyb = e.$eyb = void 0);

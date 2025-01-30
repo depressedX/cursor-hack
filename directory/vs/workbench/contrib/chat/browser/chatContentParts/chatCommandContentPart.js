@@ -10,7 +10,15 @@ import '../../common/chatViewModel.js';
 define(
 			de[3014],
 			he([1, 0, 7, 183, 3, 4, 31, 106, 283]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*button*/,
+ w /*lifecycle*/,
+ E /*nls*/,
+ C /*commands*/,
+ d /*defaultStyles*/,
+ m /*chatViewModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$eUb = void 0),

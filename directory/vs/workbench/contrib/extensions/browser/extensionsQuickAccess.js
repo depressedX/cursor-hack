@@ -11,7 +11,16 @@ import '../../../common/views.js';
 define(
 			de[3527],
 			he([1, 0, 392, 4, 141, 119, 40, 34, 142, 60]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*pickerQuickAccess*/,
+ i /*nls*/,
+ w /*extensions*/,
+ E /*extensionManagement*/,
+ C /*notification*/,
+ d /*log*/,
+ m /*panecomposite*/,
+ r /*views*/) {
 				"use strict";
 				var u, a;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

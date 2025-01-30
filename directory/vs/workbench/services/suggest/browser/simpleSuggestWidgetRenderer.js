@@ -10,7 +10,15 @@ import '../../../../base/common/themables.js';
 define(
 			de[3653],
 			he([1, 0, 7, 325, 14, 6, 132, 3, 26]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*iconLabel*/,
+ w /*codicons*/,
+ E /*event*/,
+ C /*filters*/,
+ d /*lifecycle*/,
+ m /*themables*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$bVc = void 0),

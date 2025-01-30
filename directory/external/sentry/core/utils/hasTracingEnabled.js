@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../currentScopes.js';
-define(de[638], he([1, 0, 234]), function (ce, e, t) {
+define(de[638], he([1, 0, 234]), function (ce /*require*/,
+ e /*exports*/,
+ t /*currentScopes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.hasTracingEnabled = i);

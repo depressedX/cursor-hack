@@ -7,7 +7,12 @@ import '../core/eolCounter.js';
 define(
 			de[2575],
 			he([1, 0, 120, 48, 17, 531]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*position*/,
+ w /*range*/,
+ E /*eolCounter*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$FN = e.$EN = void 0);

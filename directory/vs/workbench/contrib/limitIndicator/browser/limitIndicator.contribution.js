@@ -14,7 +14,19 @@ import '../../../../editor/contrib/colorPicker/browser/colorDetector.js';
 define(
 		de[3429],
 		he([1, 0, 3, 111, 56, 18, 1024, 30, 55, 52, 4, 350, 785]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*severity*/,
+ w /*editorBrowser*/,
+ E /*editorService*/,
+ C /*languageStatusService*/,
+ d /*platform*/,
+ m /*contributions*/,
+ r /*lifecycle*/,
+ u /*nls*/,
+ a /*folding*/,
+ h /*colorDetector*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$8Xc = void 0),

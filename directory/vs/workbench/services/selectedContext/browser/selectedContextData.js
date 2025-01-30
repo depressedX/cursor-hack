@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/uri.js';
 import '../../../contrib/ui/browser/aiInput/plugins/mentions/types.js';
 import '../../../../../proto/aiserver/v1/repository_pb.js';
-define(de[298], he([1, 0, 9, 310, 272]), function (ce, e, t, i, w) {
+define(de[298], he([1, 0, 9, 310, 272]), function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*types*/,
+ w /*repository_pb*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Ygc = e.$Xgc = e.$Wgc = e.$Vgc = e.$Ugc = e.$Tgc = void 0),

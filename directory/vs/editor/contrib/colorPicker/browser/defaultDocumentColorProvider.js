@@ -8,7 +8,13 @@ import '../../../common/services/editorWorker.js';
 define(
 		de[1599],
 		he([1, 0, 97, 3, 69, 588, 200]),
-		function (ce, e, t, i, w, E, C) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*color*/,
+ i /*lifecycle*/,
+ w /*languageFeatures*/,
+ E /*editorFeatures*/,
+ C /*editorWorker*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$UBb = void 0);
 			let d = class {

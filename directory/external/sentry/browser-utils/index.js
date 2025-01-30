@@ -9,7 +9,14 @@ import './instrument/xhr.js';
 define(
 			de[641],
 			he([1, 0, 885, 2133, 2091, 2092, 2090, 2093]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instrument*/,
+ i /*browserMetrics*/,
+ w /*dom*/,
+ E /*history*/,
+ C /*getNativeImplementation*/,
+ d /*xhr*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.SENTRY_XHR_DATA_KEY =

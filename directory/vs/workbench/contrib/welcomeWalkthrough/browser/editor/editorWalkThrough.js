@@ -12,7 +12,17 @@ import '../../common/walkThroughContentProvider.js';
 define(
 		de[3283],
 		he([1, 0, 3282, 4, 18, 5, 1277, 23, 11, 99, 1276]),
-		function (ce, e, t, i, w, E, C, d, m, r, u) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*vs_code_editor_walkthrough*/,
+ i /*nls*/,
+ w /*editorService*/,
+ E /*instantiation*/,
+ C /*walkThroughInput*/,
+ d /*network*/,
+ m /*actions*/,
+ r /*actionCommonCategories*/,
+ u /*walkThroughContentProvider*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$yYc = e.$xYc = void 0),

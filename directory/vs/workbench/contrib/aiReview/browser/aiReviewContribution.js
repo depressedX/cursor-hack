@@ -8,7 +8,12 @@ import './aiReviewService.js';
 define(
 			de[4243],
 			he([1, 0, 30, 55, 52, 137, 4242]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*contributions*/,
+ w /*lifecycle*/,
+ E /*aiMiscServices*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Aed = void 0);

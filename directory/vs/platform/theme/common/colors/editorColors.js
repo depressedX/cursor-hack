@@ -8,7 +8,13 @@ import './miscColors.js';
 define(
 			de[605],
 			he([1, 0, 4, 97, 306, 544, 1203]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*color*/,
+ w /*colorUtils*/,
+ E /*baseColors*/,
+ C /*miscColors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$zR =

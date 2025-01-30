@@ -14,7 +14,19 @@ import '../../../../base/common/platform.js';
 define(
 			de[4165],
 			he([1, 0, 4, 121, 73, 89, 377, 405, 11, 43, 27, 483, 12]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*clipboardService*/,
+ w /*label*/,
+ E /*viewsService*/,
+ C /*constants*/,
+ d /*searchModel*/,
+ m /*actions*/,
+ r /*keybindingsRegistry*/,
+ u /*keyCodes*/,
+ a /*searchActionsBase*/,
+ h /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gPc = void 0),

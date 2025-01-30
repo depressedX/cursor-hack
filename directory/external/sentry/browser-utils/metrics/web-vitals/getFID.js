@@ -10,7 +10,15 @@ import './lib/whenActivated.js';
 define(
 			de[2094],
 			he([1, 0, 635, 884, 637, 576, 729, 1091, 730]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*bindReporter*/,
+ i /*getVisibilityWatcher*/,
+ w /*initMetric*/,
+ E /*observe*/,
+ C /*onHidden*/,
+ d /*runOnce*/,
+ m /*whenActivated*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.onFID = e.FIDThresholds = void 0),

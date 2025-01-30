@@ -10,7 +10,15 @@ import '../../../../vs/base/browser/window.js';
 define(
 			de[925],
 			he([1, 0, 2, 181, 304, 164, 13, 7, 75]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*LexicalComposerContext*/,
+ w /*api*/,
+ E /*api*/,
+ C /*solid*/,
+ d /*dom*/,
+ m /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.SCROLL_TYPEAHEAD_OPTION_INTO_VIEW_COMMAND =

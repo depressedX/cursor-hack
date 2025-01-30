@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/actions/common/actions.js';
-define(de[558], he([1, 0, 11]), function (ce, e, t) {
+define(de[558], he([1, 0, 11]), function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$G9b = e.$F9b = e.$E9b = e.$D9b = e.$C9b = e.$B9b = e.$A9b = void 0),

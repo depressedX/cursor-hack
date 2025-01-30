@@ -17,7 +17,22 @@ import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[4224],
 			he([1, 0, 3, 39, 32, 25, 52, 10, 7, 31, 8, 143, 18, 44, 4223, 5]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*keybinding*/,
+ w /*telemetry*/,
+ E /*workspace*/,
+ C /*lifecycle*/,
+ d /*configuration*/,
+ m /*dom*/,
+ r /*commands*/,
+ u /*contextkey*/,
+ a /*remoteAgentService*/,
+ h /*editorService*/,
+ c /*editor*/,
+ n /*renderEditorEmptyScreen*/,
+ g /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Duc = void 0);

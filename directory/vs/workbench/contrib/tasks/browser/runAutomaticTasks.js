@@ -14,7 +14,19 @@ import '../../../../platform/log/common/log.js';
 define(
 			de[3328],
 			he([1, 0, 4, 19, 3, 419, 424, 63, 11, 174, 10, 6, 34]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*resources*/,
+ w /*lifecycle*/,
+ E /*taskService*/,
+ C /*tasks*/,
+ d /*quickInput*/,
+ m /*actions*/,
+ r /*workspaceTrust*/,
+ u /*configuration*/,
+ a /*event*/,
+ h /*log*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ZWc = e.$YWc = void 0),

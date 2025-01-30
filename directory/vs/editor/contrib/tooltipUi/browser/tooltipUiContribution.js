@@ -8,7 +8,13 @@ import '../../../browser/services/codeEditorService.js';
 define(
 			de[3167],
 			he([1, 0, 46, 3166, 58, 11, 65]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*tooltipUiController*/,
+ w /*constants*/,
+ E /*actions*/,
+ C /*codeEditorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, E.$4X)(

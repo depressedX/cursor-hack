@@ -13,7 +13,18 @@ import '../../../../base/common/lifecycle.js';
 define(
 			de[1900],
 			he([1, 0, 8, 5, 846, 505, 4, 130, 1238, 1635, 178, 3]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contextkey*/,
+ i /*instantiation*/,
+ w /*simpleCommentEditor*/,
+ E /*commentContextKeys*/,
+ C /*nls*/,
+ d /*accessibilityConfiguration*/,
+ m /*commentCommandIds*/,
+ r /*toggleTabFocusMode*/,
+ u /*accessibleView*/,
+ a /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$qSc = e.$pSc = e.CommentAccessibilityHelpNLS = void 0),

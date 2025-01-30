@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/lifecycle.js';
 import './global.js';
 import './sentry.js';
-define(de[2870], he([1, 0, 3, 1210, 1668]), function (ce, e, t, i, w) {
+define(de[2870], he([1, 0, 3, 1210, 1668]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*global*/,
+ w /*sentry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$p3c = m),

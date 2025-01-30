@@ -1,7 +1,9 @@
 import '../../../../../../../require.js';
 import '../../../../../../../exports.js';
 import '../observe.js';
-define(de[2057], he([1, 0, 576]), function (ce, e, t) {
+define(de[2057], he([1, 0, 576]), function (ce /*require*/,
+ e /*exports*/,
+ t /*observe*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.initInteractionCountPolyfill = e.getInteractionCount = void 0);

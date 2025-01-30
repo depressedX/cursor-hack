@@ -17,7 +17,21 @@ import '../../../../css!vs/workbench/contrib/prettyDialog/browser/prettyDialog.j
 define(
 			de[4304],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 14, 26, 36, 815, 147, 2480]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*solid*/,
+ u /*codicons*/,
+ a /*themables*/,
+ h /*solid*/,
+ c /*ModalComponent*/,
+ n /*simpleButton*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$gzc = s);
 				const g = (0, t.template)('<div class="pretty-dialog-message">'),

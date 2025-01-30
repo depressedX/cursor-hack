@@ -10,7 +10,15 @@ import '../core/range.js';
 define(
 			de[944],
 			he([1, 0, 120, 37, 346, 943, 747, 48, 17]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*strings*/,
+ w /*cursorCommon*/,
+ E /*cursorDeleteOperations*/,
+ C /*wordCharacterClassifier*/,
+ d /*position*/,
+ m /*range*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Gtb = e.$Ftb = e.WordNavigationType = void 0),

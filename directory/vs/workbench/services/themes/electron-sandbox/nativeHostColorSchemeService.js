@@ -11,7 +11,16 @@ import '../../../../base/common/types.js';
 define(
 			de[3729],
 			he([1, 0, 6, 110, 20, 3, 1888, 151, 21, 28]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*native*/,
+ w /*extensions*/,
+ E /*lifecycle*/,
+ C /*hostColorSchemeService*/,
+ d /*environmentService*/,
+ m /*storage*/,
+ r /*types*/) {
 				"use strict";
 				var u;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

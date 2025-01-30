@@ -8,7 +8,13 @@ import '../../../../common/core/textEdit.js';
 define(
 			de[917],
 			he([1, 0, 24, 37, 48, 17, 490]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*strings*/,
+ w /*position*/,
+ E /*range*/,
+ C /*textEdit*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$DCb = e.$CCb = e.$BCb = void 0),

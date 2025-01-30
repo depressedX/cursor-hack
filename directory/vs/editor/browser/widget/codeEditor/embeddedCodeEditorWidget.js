@@ -15,7 +15,20 @@ import '../../../../platform/tooltipService/common/tooltipService.js';
 define(
 			de[281],
 			he([1, 0, 82, 65, 206, 152, 69, 91, 31, 8, 5, 40, 35, 308]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*objects*/,
+ i /*codeEditorService*/,
+ w /*codeEditorWidget*/,
+ E /*languageConfigurationRegistry*/,
+ C /*languageFeatures*/,
+ d /*accessibility*/,
+ m /*commands*/,
+ r /*contextkey*/,
+ u /*instantiation*/,
+ a /*notification*/,
+ h /*themeService*/,
+ c /*tooltipService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wDb = void 0),

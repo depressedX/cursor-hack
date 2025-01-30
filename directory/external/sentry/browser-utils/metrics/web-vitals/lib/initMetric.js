@@ -7,7 +7,12 @@ import './getNavigationEntry.js';
 define(
 			de[637],
 			he([1, 0, 366, 2056, 728, 883]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*types*/,
+ i /*generateUniqueID*/,
+ w /*getActivationStart*/,
+ E /*getNavigationEntry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.initMetric = void 0);

@@ -15,7 +15,20 @@ import '../../workspace/common/workspace.js';
 define(
 			de[256],
 			he([1, 0, 249, 187, 586, 222, 23, 54, 12, 19, 9, 5, 438, 25]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extpath*/,
+ i /*json*/,
+ w /*jsonEdit*/,
+ E /*labels*/,
+ C /*network*/,
+ d /*path*/,
+ m /*platform*/,
+ r /*resources*/,
+ u /*uri*/,
+ a /*instantiation*/,
+ h /*remoteHosts*/,
+ c /*workspace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$cRb = void 0),

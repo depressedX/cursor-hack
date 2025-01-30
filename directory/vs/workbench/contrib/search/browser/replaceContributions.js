@@ -7,7 +7,12 @@ import '../../../common/contributions.js';
 define(
 			de[4164],
 			he([1, 0, 20, 804, 4163, 55]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*replace*/,
+ w /*replaceService*/,
+ E /*contributions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$1Nc = C);
 				function C() {

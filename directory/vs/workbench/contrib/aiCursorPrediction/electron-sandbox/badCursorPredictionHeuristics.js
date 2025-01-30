@@ -4,7 +4,12 @@ import '../../../../../proto/aiserver/v1/cursor_prediction_pb.js';
 import '../../../../platform/instantiation/common/extensions.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
-define(de[2966], he([1, 0, 1473, 20, 5, 45]), function (ce, e, t, i, w, E) {
+define(de[2966], he([1, 0, 1473, 20, 5, 45]), function (ce /*require*/,
+ e /*exports*/,
+ t /*cursor_prediction_pb*/,
+ i /*extensions*/,
+ w /*instantiation*/,
+ E /*reactiveStorageService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$efd = e.$dfd = void 0),

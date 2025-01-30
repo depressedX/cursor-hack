@@ -9,7 +9,14 @@ import '../../../../../platform/undoRedo/common/undoRedo.js';
 define(
 			de[3231],
 			he([1, 0, 124, 59, 545, 42, 90, 155]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*map*/,
+ w /*simpleInlineDiffService*/,
+ E /*resolverService*/,
+ C /*markers*/,
+ d /*undoRedo*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$R8b = void 0);

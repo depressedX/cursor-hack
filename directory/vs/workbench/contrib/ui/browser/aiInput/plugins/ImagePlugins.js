@@ -11,7 +11,16 @@ import '../../../../controlCommon/browser/solid.js';
 define(
 			de[4178],
 			he([1, 0, 181, 158, 13, 76, 23, 19, 47, 36]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalComposerContext*/,
+ i /*lexical*/,
+ w /*solid*/,
+ E /*buffer*/,
+ C /*network*/,
+ d /*resources*/,
+ m /*uuid*/,
+ r /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Aac = u),

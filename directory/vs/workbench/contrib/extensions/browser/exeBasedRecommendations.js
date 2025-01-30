@@ -7,7 +7,12 @@ import '../../../services/extensionRecommendations/common/extensionRecommendatio
 define(
 			de[3295],
 			he([1, 0, 119, 553, 4, 314]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensionManagement*/,
+ i /*extensionRecommendations*/,
+ w /*nls*/,
+ E /*extensionRecommendations*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ETc = void 0);

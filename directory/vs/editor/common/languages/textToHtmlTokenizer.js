@@ -9,7 +9,14 @@ import './nullTokenize.js';
 define(
 			de[597],
 			he([1, 0, 120, 37, 388, 74, 171, 1175]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*strings*/,
+ w /*lineTokens*/,
+ E /*languages*/,
+ C /*encodedTokenAttributes*/,
+ d /*nullTokenize*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$bwb = r),

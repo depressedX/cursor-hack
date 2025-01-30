@@ -9,7 +9,13 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/expandingTextArea/exp
 define(
 			de[3196],
 			he([1, 0, 2, 2, 2, 2, 13, 2517]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wfd = void 0);

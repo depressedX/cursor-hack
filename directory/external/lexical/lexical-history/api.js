@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import '../lexical-utils/api.js';
 import '../lexical/api.js';
-define(de[922], he([1, 0, 304, 164]), function (ce, e, t, i) {
+define(de[922], he([1, 0, 304, 164]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*api*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.getDirtyNodes = h),

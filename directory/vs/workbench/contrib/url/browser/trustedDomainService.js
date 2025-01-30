@@ -11,7 +11,16 @@ import '../common/urlGlob.js';
 define(
 			de[1292],
 			he([1, 0, 7, 75, 3, 9, 5, 21, 1018, 1783]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*window*/,
+ w /*lifecycle*/,
+ E /*uri*/,
+ C /*instantiation*/,
+ d /*storage*/,
+ m /*trustedDomains*/,
+ r /*urlGlob*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$1Xb = e.$ZXb = void 0),

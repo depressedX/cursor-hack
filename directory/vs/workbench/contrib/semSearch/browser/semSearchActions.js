@@ -8,7 +8,13 @@ import '../../../../platform/contextkey/common/contextkeys.js';
 define(
 			de[3135],
 			he([1, 0, 11, 27, 4, 43, 179]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*keyCodes*/,
+ w /*nls*/,
+ E /*keybindingsRegistry*/,
+ C /*contextkeys*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class d extends t.$3X {

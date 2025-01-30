@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/strings.js';
 import './cursorColumns.js';
-define(de[1146], he([1, 0, 37, 435]), function (ce, e, t, i) {
+define(de[1146], he([1, 0, 37, 435]), function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*cursorColumns*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$ZO = E),

@@ -8,7 +8,13 @@ import '../../../common/notebookExecutionStateService.js';
 define(
 			de[3475],
 			he([1, 0, 436, 106, 294, 70, 190]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*progressbar*/,
+ i /*defaultStyles*/,
+ w /*cellPart*/,
+ E /*notebookCommon*/,
+ C /*notebookExecutionStateService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$T3b = void 0);

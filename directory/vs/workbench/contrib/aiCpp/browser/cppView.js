@@ -16,7 +16,21 @@ import '../../ui/browser/info.js';
 define(
 			de[1977],
 			he([1, 0, 2, 2, 2, 13, 75, 58, 270, 973, 4186, 1064, 36, 564, 1371]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*window*/,
+ d /*constants*/,
+ m /*aiConfigHelper*/,
+ r /*settingsSection*/,
+ u /*settingsSubDropdownSection*/,
+ a /*settingsSubSection*/,
+ h /*solid*/,
+ c /*badge*/,
+ n /*info*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_Cc =

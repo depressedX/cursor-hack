@@ -12,7 +12,17 @@ import './utils/spanUtils.js';
 define(
 			de[2128],
 			he([1, 0, 80, 1451, 1436, 234, 263, 1443, 640, 731, 301]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*baseclient*/,
+ w /*checkin*/,
+ E /*currentScopes*/,
+ C /*debug-build*/,
+ d /*sessionflusher*/,
+ m /*index*/,
+ r /*spanOnScope*/,
+ u /*spanUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ServerRuntimeClient = void 0);

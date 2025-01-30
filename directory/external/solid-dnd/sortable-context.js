@@ -8,7 +8,13 @@ import './move-array-item.js';
 define(
 			de[1465],
 			he([1, 0, 2, 13, 193, 580, 2153]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*solid*/,
+ w /*store*/,
+ E /*drag-drop-context*/,
+ C /*move-array-item*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.useSortableContext = e.SortableProvider = e.Context = void 0);

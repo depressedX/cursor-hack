@@ -21,7 +21,24 @@ define(
 			he([
 				1, 0, 3, 59, 61, 4, 10, 5, 39, 30, 55, 108, 991, 70, 243, 161, 474, 52,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*map*/,
+ w /*language*/,
+ E /*nls*/,
+ C /*configuration*/,
+ d /*instantiation*/,
+ m /*keybinding*/,
+ r /*platform*/,
+ u /*contributions*/,
+ a /*notebookBrowser*/,
+ h /*notebookCellStatusBarService*/,
+ c /*notebookCommon*/,
+ n /*notebookKernelService*/,
+ g /*notebookService*/,
+ p /*languageDetectionWorkerService*/,
+ o /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let f = class {

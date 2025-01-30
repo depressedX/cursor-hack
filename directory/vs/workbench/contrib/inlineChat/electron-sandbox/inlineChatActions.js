@@ -16,7 +16,21 @@ import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[4379],
 			he([1, 0, 27, 8, 43, 1061, 15, 71, 31, 39, 2005, 257, 511, 4, 10]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*contextkey*/,
+ w /*keybindingsRegistry*/,
+ E /*inlineChatActions*/,
+ C /*async*/,
+ d /*editorContextKeys*/,
+ m /*commands*/,
+ r /*keybinding*/,
+ u /*voiceChatActions*/,
+ a /*inlineChat*/,
+ h /*speechService*/,
+ c /*nls*/,
+ n /*configuration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6gd = void 0);

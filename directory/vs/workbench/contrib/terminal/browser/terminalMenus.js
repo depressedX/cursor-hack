@@ -16,7 +16,21 @@ import '../../../services/editor/common/editorService.js';
 define(
 			de[1017],
 			he([1, 0, 50, 14, 23, 4, 11, 8, 117, 100, 419, 145, 237, 469, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*codicons*/,
+ w /*network*/,
+ E /*nls*/,
+ C /*actions*/,
+ d /*contextkey*/,
+ m /*terminal*/,
+ r /*contextkeys*/,
+ u /*taskService*/,
+ a /*terminal*/,
+ h /*terminalContextKey*/,
+ c /*terminalStrings*/,
+ n /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.TerminalMenuBarGroup = void 0),

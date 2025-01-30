@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './protocol-connect/headers.js';
 import './protocol-grpc/headers.js';
 import './protocol-grpc-web/headers.js';
-define(de[2019], he([1, 0, 574, 868, 1391]), function (ce, e, t, i, w) {
+define(de[2019], he([1, 0, 574, 868, 1391]), function (ce /*require*/,
+ e /*exports*/,
+ t /*headers*/,
+ i /*headers*/,
+ w /*headers*/) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),
 			(e.cors = void 0),

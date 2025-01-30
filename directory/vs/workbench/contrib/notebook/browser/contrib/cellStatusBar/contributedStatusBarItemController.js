@@ -9,7 +9,14 @@ import '../../../common/notebookCellStatusBarService.js';
 define(
 			de[3117],
 			he([1, 0, 15, 33, 3, 1742, 330, 991]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*cancellation*/,
+ w /*lifecycle*/,
+ E /*notebookVisibleCellObserver*/,
+ C /*notebookEditorExtensions*/,
+ d /*notebookCellStatusBarService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$2Fc = void 0);

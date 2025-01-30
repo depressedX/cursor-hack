@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/errors.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../../platform/instantiation/common/instantiation.js';
-define(de[800], he([1, 0, 29, 3, 5]), function (ce, e, t, i, w) {
+define(de[800], he([1, 0, 29, 3, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*lifecycle*/,
+ w /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Knc = e.$Jnc = e.$Inc = void 0),

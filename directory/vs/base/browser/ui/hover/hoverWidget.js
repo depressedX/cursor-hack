@@ -10,7 +10,14 @@ import '../../../../css!vs/base/browser/ui/hover/hoverWidget.js';
 define(
 			de[160],
 			he([1, 0, 7, 114, 203, 27, 3, 4, 2239]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*keyboardEvent*/,
+ w /*scrollableElement*/,
+ E /*keyCodes*/,
+ C /*lifecycle*/,
+ d /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$aib = e.$_hb = e.$0hb = e.$9hb = e.HoverPosition = void 0),

@@ -13,7 +13,17 @@ import '../../../../../../css!vs/workbench/contrib/composer/browser/components/t
 define(
 			de[4291],
 			he([1, 0, 2, 2, 2, 2, 13, 1378, 216, 564, 36, 2420]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*ComposerMessageCodeblock*/,
+ m /*tracing*/,
+ r /*badge*/,
+ u /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerParallelApplyToolCallBlock = n);

@@ -16,7 +16,21 @@ import '../../../../../platform/progress/common/progress.js';
 define(
 			de[4105],
 			he([1, 0, 59, 856, 3, 66, 5, 360, 6, 44, 18, 8, 176, 128, 84]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*map*/,
+ i /*notebookEditorWidget*/,
+ w /*lifecycle*/,
+ E /*editorGroupsService*/,
+ C /*instantiation*/,
+ d /*notebookEditorInput*/,
+ m /*event*/,
+ r /*editor*/,
+ u /*editorService*/,
+ a /*contextkey*/,
+ h /*notebookContextKeys*/,
+ c /*serviceCollection*/,
+ n /*progress*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pFc = void 0);

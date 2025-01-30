@@ -3,7 +3,10 @@ import '../../../../../../exports.js';
 import '../../../../../../external/solid/web.js';
 import '../../../../../../external/solid/web.js';
 import '../../../../../css!vs/workbench/contrib/ui/browser/optionSection/optionSection.js';
-define(de[3206], he([1, 0, 2, 2, 2524]), function (ce, e, t, i) {
+define(de[3206], he([1, 0, 2, 2, 2524]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$xfd = void 0);
 			const w = (0, t.template)(

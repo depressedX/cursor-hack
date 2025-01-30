@@ -13,7 +13,18 @@ import '../../../../platform/extensions/common/extensionsApiProposals.js';
 define(
 		de[175],
 		he([1, 0, 4, 29, 111, 119, 250, 30, 109, 62, 1200, 1179]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*errors*/,
+ w /*severity*/,
+ E /*extensionManagement*/,
+ C /*jsonContributionRegistry*/,
+ d /*platform*/,
+ m /*extensions*/,
+ r /*productService*/,
+ u /*implicitActivationEvents*/,
+ a /*extensionsApiProposals*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$n2 = e.$m2 = e.$l2 = e.$k2 = e.$j2 = e.$i2 = void 0),

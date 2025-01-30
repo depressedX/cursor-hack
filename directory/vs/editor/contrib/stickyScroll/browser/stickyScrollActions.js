@@ -13,7 +13,18 @@ import './stickyScrollController.js';
 define(
 			de[3611],
 			he([1, 0, 27, 46, 4, 99, 11, 10, 43, 8, 71, 1317]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*editorExtensions*/,
+ w /*nls*/,
+ E /*actionCommonCategories*/,
+ C /*actions*/,
+ d /*configuration*/,
+ m /*keybindingsRegistry*/,
+ r /*contextkey*/,
+ u /*editorContextKeys*/,
+ a /*stickyScrollController*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vkc = e.$ukc = e.$tkc = e.$skc = e.$rkc = e.$qkc = void 0);

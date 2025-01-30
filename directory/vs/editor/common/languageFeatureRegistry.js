@@ -4,7 +4,12 @@ import '../../base/common/event.js';
 import '../../base/common/lifecycle.js';
 import './model.js';
 import './languageSelector.js';
-define(de[945], he([1, 0, 6, 3, 64, 933]), function (ce, e, t, i, w, E) {
+define(de[945], he([1, 0, 6, 3, 64, 933]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*model*/,
+ E /*languageSelector*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$N1 = void 0);
 			function C(u) {

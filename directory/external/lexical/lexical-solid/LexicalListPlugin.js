@@ -8,7 +8,13 @@ import './shared/useList.js';
 define(
 			de[2612],
 			he([1, 0, 924, 924, 13, 181, 2611]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*api*/,
+ w /*solid*/,
+ E /*LexicalComposerContext*/,
+ C /*useList*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ListPlugin = d);

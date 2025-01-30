@@ -10,7 +10,15 @@ import '../../../../platform/commands/common/commands.js';
 define(
 			de[3817],
 			he([1, 0, 4, 132, 3, 112, 63, 89, 31]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*filters*/,
+ w /*lifecycle*/,
+ E /*debug*/,
+ C /*quickInput*/,
+ d /*viewsService*/,
+ m /*commands*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$WGc = r),

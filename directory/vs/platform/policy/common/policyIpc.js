@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/event.js';
 import '../../../base/common/lifecycle.js';
 import './policy.js';
-define(de[2746], he([1, 0, 6, 3, 940]), function (ce, e, t, i, w) {
+define(de[2746], he([1, 0, 6, 3, 940]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*policy*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$l8c = e.$k8c = void 0);

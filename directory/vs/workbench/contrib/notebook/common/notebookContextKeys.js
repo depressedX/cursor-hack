@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/contextkey/common/contextkey.js';
 import './notebookCommon.js';
-define(de[176], he([1, 0, 8, 70]), function (ce, e, t, i) {
+define(de[176], he([1, 0, 8, 70]), function (ce /*require*/,
+ e /*exports*/,
+ t /*contextkey*/,
+ i /*notebookCommon*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$YJb =

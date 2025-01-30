@@ -7,7 +7,12 @@ import './code-string.js';
 define(
 			de[1089],
 			he([1, 0, 86, 202, 213, 1387]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*code*/,
+ w /*connect-error*/,
+ E /*code-string*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.errorFromJson = C),

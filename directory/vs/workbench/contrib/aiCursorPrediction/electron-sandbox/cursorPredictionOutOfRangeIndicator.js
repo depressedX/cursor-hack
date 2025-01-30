@@ -9,7 +9,14 @@ import '../../../../editor/common/config/editorOptions.js';
 define(
 			de[2968],
 			he([1, 0, 3, 56, 7, 26, 14, 38]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*editorBrowser*/,
+ w /*dom*/,
+ E /*themables*/,
+ C /*codicons*/,
+ d /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (w = mt(w));
 				class m extends t.$1c {

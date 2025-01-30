@@ -15,7 +15,20 @@ import '../../../../base/common/errors.js';
 define(
 			de[3605],
 			he([1, 0, 368, 3, 1616, 122, 48, 17, 7, 820, 1218, 4, 1868, 29]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hoverTypes*/,
+ i /*lifecycle*/,
+ w /*contentHoverStatusBar*/,
+ E /*textModel*/,
+ C /*position*/,
+ d /*range*/,
+ m /*dom*/,
+ r /*markdownHoverParticipant*/,
+ u /*colorHoverParticipant*/,
+ a /*nls*/,
+ h /*inlayHintsHover*/,
+ c /*errors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$thc = void 0),

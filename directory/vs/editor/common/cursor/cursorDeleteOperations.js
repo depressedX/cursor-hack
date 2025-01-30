@@ -10,7 +10,15 @@ import '../core/position.js';
 define(
 			de[943],
 			he([1, 0, 37, 655, 346, 435, 1192, 17, 48]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*replaceCommand*/,
+ w /*cursorCommon*/,
+ E /*cursorColumns*/,
+ C /*cursorMoveOperations*/,
+ d /*range*/,
+ m /*position*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Etb = void 0),

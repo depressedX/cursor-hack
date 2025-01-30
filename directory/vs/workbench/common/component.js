@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './memento.js';
 import '../../platform/theme/common/themeService.js';
-define(de[969], he([1, 0, 282, 35]), function (ce, e, t, i) {
+define(de[969], he([1, 0, 282, 35]), function (ce /*require*/,
+ e /*exports*/,
+ t /*memento*/,
+ i /*themeService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$fEb = void 0);
 			class w extends i.$pP {

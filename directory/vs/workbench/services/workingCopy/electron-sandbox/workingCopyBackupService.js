@@ -14,7 +14,19 @@ import './workingCopyBackupTracker.js';
 define(
 			de[3916],
 			he([1, 0, 4, 1912, 9, 20, 335, 22, 34, 151, 55, 52, 3915]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*workingCopyBackupService*/,
+ w /*uri*/,
+ E /*extensions*/,
+ C /*workingCopyBackup*/,
+ d /*files*/,
+ m /*log*/,
+ r /*environmentService*/,
+ u /*contributions*/,
+ a /*lifecycle*/,
+ h /*workingCopyBackupTracker*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Xdd = void 0);

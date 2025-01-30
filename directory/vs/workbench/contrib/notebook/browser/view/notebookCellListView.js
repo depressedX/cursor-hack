@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../base/browser/ui/list/listView.js';
 import '../../../../../editor/common/model/prefixSumComputer.js';
-define(de[3102], he([1, 0, 539, 589]), function (ce, e, t, i) {
+define(de[3102], he([1, 0, 539, 589]), function (ce /*require*/,
+ e /*exports*/,
+ t /*listView*/,
+ i /*prefixSumComputer*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$x2b = e.$w2b = void 0);

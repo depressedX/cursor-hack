@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../common/notebookCommon.js';
 import '../common/notebookEditorInput.js';
 import '../common/notebookRange.js';
-define(de[108], he([1, 0, 70, 360, 442]), function (ce, e, t, i, w) {
+define(de[108], he([1, 0, 70, 360, 442]), function (ce /*require*/,
+ e /*exports*/,
+ t /*notebookCommon*/,
+ i /*notebookEditorInput*/,
+ w /*notebookRange*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.CellFoldingState =

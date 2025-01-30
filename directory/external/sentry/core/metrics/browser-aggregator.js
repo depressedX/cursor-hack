@@ -9,7 +9,14 @@ import './utils.js';
 define(
 			de[2121],
 			he([1, 0, 80, 301, 880, 1439, 1440, 886]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*spanUtils*/,
+ w /*constants*/,
+ E /*envelope*/,
+ C /*instance*/,
+ d /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.BrowserMetricsAggregator = void 0);

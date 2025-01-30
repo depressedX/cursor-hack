@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/uint.js';
 import '../../view/renderingContext.js';
-define(de[2544], he([1, 0, 210, 746]), function (ce, e, t, i) {
+define(de[2544], he([1, 0, 210, 746]), function (ce /*require*/,
+ e /*exports*/,
+ t /*uint*/,
+ i /*renderingContext*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Dub = void 0);
 			class w {

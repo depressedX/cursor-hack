@@ -13,7 +13,18 @@ import '../../hover/browser/hoverTypes.js';
 define(
 			de[3607],
 			he([1, 0, 3, 56, 46, 38, 17, 785, 1218, 448, 601, 368]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*editorBrowser*/,
+ w /*editorExtensions*/,
+ E /*editorOptions*/,
+ C /*range*/,
+ d /*colorDetector*/,
+ m /*colorHoverParticipant*/,
+ r /*contentHoverController2*/,
+ u /*hoverOperation*/,
+ a /*hoverTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$xhc = void 0);

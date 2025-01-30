@@ -10,7 +10,15 @@ import './userDataProfile.js';
 define(
 			de[681],
 			he([1, 0, 3, 1174, 5, 21, 6, 1639, 129]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*storage*/,
+ w /*instantiation*/,
+ E /*storage*/,
+ C /*event*/,
+ d /*storageIpc*/,
+ m /*userDataProfile*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_wc = e.$$wc = e.$0wc = void 0),

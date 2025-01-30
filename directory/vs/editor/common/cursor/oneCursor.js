@@ -8,7 +8,13 @@ import '../model.js';
 define(
 			de[2760],
 			he([1, 0, 346, 48, 17, 104, 64]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cursorCommon*/,
+ i /*position*/,
+ w /*range*/,
+ E /*selection*/,
+ C /*model*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Uvb = void 0);

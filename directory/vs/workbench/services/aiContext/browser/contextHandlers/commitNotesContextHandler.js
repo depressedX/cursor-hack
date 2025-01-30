@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../../proto/aiserver/v1/context_pb.js';
 import '../../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
 import '../../../../contrib/aiCommitNotes/browser/commitNotesService.js';
-define(de[3240], he([1, 0, 228, 134, 1703]), function (ce, e, t, i, w) {
+define(de[3240], he([1, 0, 228, 134, 1703]), function (ce /*require*/,
+ e /*exports*/,
+ t /*context_pb*/,
+ i /*reactiveStorageTypes*/,
+ w /*commitNotesService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$TZc = void 0);
 			class E {

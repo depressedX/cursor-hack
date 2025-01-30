@@ -4,7 +4,12 @@ import '../../../../base/common/event.js';
 import '../../../../base/common/iterator.js';
 import '../../../../base/common/map.js';
 import './testTypes.js';
-define(de[3179], he([1, 0, 6, 103, 59, 185]), function (ce, e, t, i, w, E) {
+define(de[3179], he([1, 0, 6, 103, 59, 185]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*iterator*/,
+ w /*map*/,
+ E /*testTypes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$KLc = void 0);
 			class C extends E.$t4 {

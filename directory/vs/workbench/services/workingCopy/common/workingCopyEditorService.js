@@ -9,7 +9,14 @@ import '../../editor/common/editorService.js';
 define(
 			de[403],
 			he([1, 0, 6, 5, 20, 44, 3, 18]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*instantiation*/,
+ w /*extensions*/,
+ E /*editor*/,
+ C /*lifecycle*/,
+ d /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$cZ = e.$bZ = void 0),

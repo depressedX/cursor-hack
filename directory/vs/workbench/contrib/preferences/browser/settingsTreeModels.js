@@ -23,7 +23,25 @@ define(
 				1, 0, 24, 37, 28, 9, 10, 1745, 468, 131, 78, 261, 3, 6, 81, 61, 30, 133,
 				62,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*strings*/,
+ w /*types*/,
+ E /*uri*/,
+ C /*configuration*/,
+ d /*settingsLayout*/,
+ m /*preferences*/,
+ r /*preferences*/,
+ u /*environmentService*/,
+ a /*configuration*/,
+ h /*lifecycle*/,
+ c /*event*/,
+ n /*configurationRegistry*/,
+ g /*language*/,
+ p /*platform*/,
+ o /*userDataProfile*/,
+ f /*productService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$GCc =

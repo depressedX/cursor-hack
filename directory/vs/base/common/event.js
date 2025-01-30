@@ -8,7 +8,13 @@ import './stopwatch.js';
 define(
 			de[6],
 			he([1, 0, 29, 288, 3, 273, 162]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*functional*/,
+ w /*lifecycle*/,
+ E /*linkedList*/,
+ C /*stopwatch*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Be =

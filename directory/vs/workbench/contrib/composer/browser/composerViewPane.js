@@ -22,7 +22,24 @@ define(
 				1, 0, 10, 8, 49, 72, 5, 39, 41, 32, 35, 146, 60, 219, 209, 506, 169,
 				1075,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*configuration*/,
+ i /*contextkey*/,
+ w /*contextView*/,
+ E /*hover*/,
+ C /*instantiation*/,
+ d /*keybinding*/,
+ m /*opener*/,
+ r /*telemetry*/,
+ u /*themeService*/,
+ a /*viewPane*/,
+ h /*views*/,
+ c /*composer*/,
+ n /*composerDataService*/,
+ g /*composerViews*/,
+ p /*constants*/,
+ o /*renderComposerPane*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerViewPane = void 0);

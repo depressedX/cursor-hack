@@ -4,7 +4,12 @@ import '../../../../base/browser/dom.js';
 import '../../../../base/common/errors.js';
 import '../../../../base/common/lifecycle.js';
 import '../../editorExtensions.js';
-define(de[2799], he([1, 0, 7, 29, 3, 46]), function (ce, e, t, i, w, E) {
+define(de[2799], he([1, 0, 7, 29, 3, 46]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*errors*/,
+ w /*lifecycle*/,
+ E /*editorExtensions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Qvb = void 0);
 			class C extends w.$1c {

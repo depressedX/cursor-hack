@@ -10,7 +10,15 @@ import '../utils/create-tag-name.js';
 define(
 			de[2656],
 			he([1, 0, 2, 2, 369, 115, 13, 494, 1161]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*utils*/,
+ E /*api*/,
+ C /*solid*/,
+ d /*polymorphic*/,
+ m /*create-tag-name*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$aob = r);
 				function r(u) {

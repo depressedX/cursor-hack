@@ -12,7 +12,17 @@ import '../../../services/ai/browser/gitContextService.js';
 define(
 			de[1300],
 			he([1, 0, 3, 42, 204, 20, 5, 45, 32, 25, 359]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*resolverService*/,
+ w /*outlineModel*/,
+ E /*extensions*/,
+ C /*instantiation*/,
+ d /*reactiveStorageService*/,
+ m /*telemetry*/,
+ r /*workspace*/,
+ u /*gitContextService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Med = e.$Led = void 0),

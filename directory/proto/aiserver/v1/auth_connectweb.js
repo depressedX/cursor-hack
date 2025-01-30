@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './auth_pb.js';
 import '../../../external/bufbuild/protobuf.js';
-define(de[1469], he([1, 0, 1468, 86]), function (ce, e, t, i) {
+define(de[1469], he([1, 0, 1468, 86]), function (ce /*require*/,
+ e /*exports*/,
+ t /*auth_pb*/,
+ i /*protobuf*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$I0 = void 0),

@@ -8,7 +8,13 @@ import './list-collection.js';
 define(
 		de[1569],
 		he([1, 0, 115, 13, 115, 927, 1490]),
-		function (ce, e, t, i, w, E, C) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*solid*/,
+ w /*api*/,
+ E /*api*/,
+ C /*list-collection*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Wmb = d);
 			function d(m) {

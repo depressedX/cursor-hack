@@ -7,7 +7,12 @@ import './scope.js';
 define(
 			de[234],
 			he([1, 0, 80, 733, 578, 732]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*carrier*/,
+ E /*scope*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.getCurrentScope = C),

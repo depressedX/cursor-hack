@@ -12,7 +12,16 @@ import './colors.js';
 define(
 			de[1683],
 			he([1, 0, 3, 77, 755, 2906, 1681, 5, 1682, 6, 2832]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*hotReloadHelpers*/,
+ E /*multiDiffEditorWidgetImpl*/,
+ C /*multiDiffEditorViewModel*/,
+ d /*instantiation*/,
+ m /*diffEditorItemTemplate*/,
+ r /*event*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$IGc = void 0);

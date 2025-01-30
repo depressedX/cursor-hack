@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import '../core/index.js';
-define(de[2137], he([1, 0, 144]), function (ce, e, t) {
+define(de[2137], he([1, 0, 144]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.metrics = void 0);

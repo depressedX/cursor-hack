@@ -14,7 +14,19 @@ import '../../../../../base/common/network.js';
 define(
 			de[1934],
 			he([1, 0, 46, 149, 3, 69, 8, 5, 90, 45, 10, 3987, 23]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*lazy*/,
+ w /*lifecycle*/,
+ E /*languageFeatures*/,
+ C /*contextkey*/,
+ d /*instantiation*/,
+ m /*markers*/,
+ r /*reactiveStorageService*/,
+ u /*configuration*/,
+ a /*partialApplyHoverWidget*/,
+ h /*network*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

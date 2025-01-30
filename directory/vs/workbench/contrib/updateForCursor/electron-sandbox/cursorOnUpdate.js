@@ -9,7 +9,14 @@ import '../common/cursorOnUpdate.js';
 define(
 			de[3210],
 			he([1, 0, 20, 5, 41, 62, 21, 1782]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*instantiation*/,
+ w /*opener*/,
+ E /*productService*/,
+ C /*storage*/,
+ d /*cursorOnUpdate*/) {
 				"use strict";
 				var m;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

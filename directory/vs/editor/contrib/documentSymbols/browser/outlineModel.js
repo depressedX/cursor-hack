@@ -17,7 +17,22 @@ import '../../../common/services/languageFeatures.js';
 define(
 			de[204],
 			he([1, 0, 24, 33, 29, 103, 59, 37, 48, 17, 391, 5, 20, 67, 3, 69]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*cancellation*/,
+ w /*errors*/,
+ E /*iterator*/,
+ C /*map*/,
+ d /*strings*/,
+ m /*position*/,
+ r /*range*/,
+ u /*languageFeatureDebounce*/,
+ a /*instantiation*/,
+ h /*extensions*/,
+ c /*model*/,
+ n /*lifecycle*/,
+ g /*languageFeatures*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0Db = e.$9Db = e.$8Db = e.$7Db = e.$6Db = e.$5Db = void 0);

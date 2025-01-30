@@ -9,7 +9,14 @@ import './textLength.js';
 define(
 			de[490],
 			he([1, 0, 229, 29, 48, 2549, 17, 458]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*errors*/,
+ w /*position*/,
+ E /*positionToOffset*/,
+ C /*range*/,
+ d /*textLength*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$AL = e.$zL = e.$yL = e.$xL = e.$wL = e.$vL = void 0);

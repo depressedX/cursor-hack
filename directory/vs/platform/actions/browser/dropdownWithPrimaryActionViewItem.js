@@ -14,7 +14,19 @@ import '../../accessibility/common/accessibility.js';
 define(
 			de[607],
 			he([1, 0, 7, 114, 198, 437, 27, 92, 8, 39, 40, 35, 91]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*keyboardEvent*/,
+ w /*actionViewItems*/,
+ E /*dropdownActionViewItem*/,
+ C /*keyCodes*/,
+ d /*menuEntryActionViewItem*/,
+ m /*contextkey*/,
+ r /*keybinding*/,
+ u /*notification*/,
+ a /*themeService*/,
+ h /*accessibility*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$OYb = void 0),

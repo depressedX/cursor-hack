@@ -12,7 +12,17 @@ import '../../../../platform/theme/common/iconRegistry.js';
 define(
 			de[1243],
 			he([1, 0, 23, 9, 4, 44, 223, 154, 54, 14, 79]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*uri*/,
+ w /*nls*/,
+ E /*editor*/,
+ C /*editorInput*/,
+ d /*extensionManagementUtil*/,
+ m /*path*/,
+ r /*codicons*/,
+ u /*iconRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$KQb = void 0);

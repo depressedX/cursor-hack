@@ -9,7 +9,14 @@ import './theme.js';
 define(
 			de[35],
 			he([1, 0, 14, 6, 3, 5, 30, 212]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*instantiation*/,
+ C /*platform*/,
+ d /*theme*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pP = e.$nP = e.$lP = e.$kP = e.$iP = void 0),

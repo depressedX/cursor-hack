@@ -4,7 +4,12 @@ import '../../dom.js';
 import '../sash/sash.js';
 import '../../../common/event.js';
 import '../../../common/lifecycle.js';
-define(de[930], he([1, 0, 7, 277, 6, 3]), function (ce, e, t, i, w, E) {
+define(de[930], he([1, 0, 7, 277, 6, 3]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*sash*/,
+ w /*event*/,
+ E /*lifecycle*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$dpb = void 0);
 			class C {

@@ -12,7 +12,17 @@ import '../../../../../../editor/common/languages/textToHtmlTokenizer.js';
 define(
 			de[3096],
 			he([1, 0, 7, 432, 97, 12, 38, 17, 171, 74, 597]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*trustedTypes*/,
+ w /*color*/,
+ E /*platform*/,
+ C /*editorOptions*/,
+ d /*range*/,
+ m /*encodedTokenAttributes*/,
+ r /*languages*/,
+ u /*textToHtmlTokenizer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$I3b = void 0),

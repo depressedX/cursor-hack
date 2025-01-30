@@ -22,7 +22,24 @@ define(
 				1, 0, 3, 4, 11, 102, 20, 30, 192, 55, 44, 66, 3407, 1025, 566, 1831,
 				623, 18,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*nls*/,
+ w /*actions*/,
+ E /*descriptors*/,
+ C /*extensions*/,
+ d /*platform*/,
+ m /*editor*/,
+ r /*contributions*/,
+ u /*editor*/,
+ a /*editorGroupsService*/,
+ h /*webviewCommands*/,
+ c /*webviewEditor*/,
+ n /*webviewEditorInput*/,
+ g /*webviewEditorInputSerializer*/,
+ p /*webviewWorkbenchService*/,
+ o /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					d.$Io

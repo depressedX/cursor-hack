@@ -8,7 +8,13 @@ import '../common/testTypes.js';
 define(
 			de[1771],
 			he([1, 0, 97, 4, 51, 35, 185]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*color*/,
+ i /*nls*/,
+ w /*colorRegistry*/,
+ E /*themeService*/,
+ C /*testTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$rKc =

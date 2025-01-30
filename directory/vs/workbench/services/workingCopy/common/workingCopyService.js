@@ -9,7 +9,14 @@ import '../../../../base/common/map.js';
 define(
 			de[227],
 			he([1, 0, 5, 20, 6, 9, 3, 59]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*extensions*/,
+ w /*event*/,
+ E /*uri*/,
+ C /*lifecycle*/,
+ d /*map*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$hY = e.$gY = void 0),

@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/extensions/common/extensions.js';
-define(de[517], he([1, 0, 109]), function (ce, e, t) {
+define(de[517], he([1, 0, 109]), function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ExtensionRunningPreference = e.ExtensionHostKind = void 0),

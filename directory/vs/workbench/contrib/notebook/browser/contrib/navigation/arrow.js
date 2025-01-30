@@ -24,7 +24,26 @@ define(
 				1, 0, 15, 27, 46, 71, 4, 91, 11, 81, 8, 179, 43, 30, 427, 688, 238, 108,
 				70, 176,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*keyCodes*/,
+ w /*editorExtensions*/,
+ E /*editorContextKeys*/,
+ C /*nls*/,
+ d /*accessibility*/,
+ m /*actions*/,
+ r /*configurationRegistry*/,
+ u /*contextkey*/,
+ a /*contextkeys*/,
+ h /*keybindingsRegistry*/,
+ c /*platform*/,
+ n /*inlineChatController*/,
+ g /*notebookChatContext*/,
+ p /*coreActions*/,
+ o /*notebookBrowser*/,
+ f /*notebookCommon*/,
+ b /*notebookContextKeys*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ZFc = void 0);

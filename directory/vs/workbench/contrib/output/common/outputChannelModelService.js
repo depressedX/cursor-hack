@@ -10,7 +10,15 @@ import './outputChannelModel.js';
 define(
 			de[1853],
 			he([1, 0, 20, 78, 5, 22, 275, 19, 3525]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*environmentService*/,
+ w /*instantiation*/,
+ E /*files*/,
+ C /*date*/,
+ d /*resources*/,
+ m /*outputChannelModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$9Tc = e.$8Tc = void 0),

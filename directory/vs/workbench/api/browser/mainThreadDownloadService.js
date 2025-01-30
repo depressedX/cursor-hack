@@ -8,7 +8,13 @@ import '../../../base/common/uri.js';
 define(
 			de[3347],
 			he([1, 0, 3, 88, 101, 665, 9]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*extHost.protocol*/,
+ w /*extHostCustomers*/,
+ E /*download*/,
+ C /*uri*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Koc = void 0);

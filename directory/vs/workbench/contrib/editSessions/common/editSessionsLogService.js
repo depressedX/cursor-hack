@@ -8,7 +8,13 @@ import './editSessions.js';
 define(
 			de[3059],
 			he([1, 0, 19, 4, 113, 34, 685]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*resources*/,
+ i /*nls*/,
+ w /*environment*/,
+ E /*log*/,
+ C /*editSessions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Q1c = void 0);

@@ -9,7 +9,14 @@ import '../../../../base/common/buffer.js';
 define(
 			de[1737],
 			he([1, 0, 6, 3, 9, 22, 19, 76]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*files*/,
+ C /*resources*/,
+ d /*buffer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$c2c = void 0);

@@ -8,7 +8,13 @@ import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3423],
 			he([1, 0, 4, 10, 57, 112, 52]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*configuration*/,
+ w /*dialogs*/,
+ E /*debug*/,
+ C /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$kRc = void 0),

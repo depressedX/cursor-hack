@@ -9,7 +9,14 @@ import '../../../../../../editor/browser/editorExtensions.js';
 define(
 			de[3491],
 			he([1, 0, 3, 55, 70, 18, 108, 46]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*contributions*/,
+ w /*notebookCommon*/,
+ E /*editorService*/,
+ C /*notebookBrowser*/,
+ d /*editorExtensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let m = class extends t.$1c {

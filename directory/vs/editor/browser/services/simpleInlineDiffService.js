@@ -13,7 +13,18 @@ import '../../../platform/undoRedo/common/undoRedo.js';
 define(
 			de[545],
 			he([1, 0, 3, 47, 65, 17, 64, 42, 20, 5, 45, 155]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*uuid*/,
+ w /*codeEditorService*/,
+ E /*range*/,
+ C /*model*/,
+ d /*resolverService*/,
+ m /*extensions*/,
+ r /*instantiation*/,
+ u /*reactiveStorageService*/,
+ a /*undoRedo*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$B8b = e.$A8b = e.$z8b = e.$y8b = void 0);

@@ -8,7 +8,13 @@ import './uri.js';
 define(
 			de[94],
 			he([1, 0, 29, 274, 19, 37, 9]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*iconLabels*/,
+ w /*resources*/,
+ E /*strings*/,
+ C /*uri*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$cl = e.MarkdownStringTextNewlineStyle = void 0),

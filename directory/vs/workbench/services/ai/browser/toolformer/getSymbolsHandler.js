@@ -15,7 +15,20 @@ import '../../../../../../proto/aiserver/v1/utils_pb.js';
 define(
 			de[3966],
 			he([1, 0, 85, 25, 42, 241, 22, 124, 17, 90, 204, 33, 74, 83]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*textfiles*/,
+ i /*workspace*/,
+ w /*resolverService*/,
+ E /*magicLinkService*/,
+ C /*files*/,
+ d /*tools_pb*/,
+ m /*range*/,
+ r /*markers*/,
+ u /*outlineModel*/,
+ a /*cancellation*/,
+ h /*languages*/,
+ c /*utils_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$G8b = void 0);

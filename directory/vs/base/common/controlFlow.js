@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './errors.js';
-define(de[1132], he([1, 0, 29]), function (ce, e, t) {
+define(de[1132], he([1, 0, 29]), function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Lpb = void 0);
 			class i {

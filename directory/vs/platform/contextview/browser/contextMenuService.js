@@ -15,7 +15,20 @@ import './contextView.js';
 define(
 			de[2896],
 			he([1, 0, 7, 50, 6, 3, 92, 11, 8, 39, 40, 32, 2835, 49]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*actions*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*menuEntryActionViewItem*/,
+ d /*actions*/,
+ m /*contextkey*/,
+ r /*keybinding*/,
+ u /*notification*/,
+ a /*telemetry*/,
+ h /*contextMenuHandler*/,
+ c /*contextView*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ContextMenuMenuDelegate = e.$Q5c = void 0);

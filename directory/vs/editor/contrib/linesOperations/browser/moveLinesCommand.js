@@ -14,7 +14,19 @@ import '../../../common/languages/enterAction.js';
 define(
 			de[2778],
 			he([1, 0, 37, 771, 38, 17, 104, 532, 152, 912, 1553, 1184, 1198]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*shiftCommand*/,
+ w /*editorOptions*/,
+ E /*range*/,
+ C /*selection*/,
+ d /*languageConfiguration*/,
+ m /*languageConfigurationRegistry*/,
+ r /*indentRules*/,
+ u /*indentUtils*/,
+ a /*autoIndent*/,
+ h /*enterAction*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Sic = void 0),

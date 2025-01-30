@@ -16,7 +16,20 @@ import '../../../../css!vs/base/browser/ui/scrollbar/media/scrollbars.js';
 define(
 			de[203],
 			he([1, 0, 139, 7, 194, 168, 2679, 2680, 235, 15, 6, 3, 12, 195, 2251]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*browser*/,
+ i /*dom*/,
+ w /*fastDomNode*/,
+ E /*mouseEvent*/,
+ C /*horizontalScrollbar*/,
+ d /*verticalScrollbar*/,
+ m /*widget*/,
+ r /*async*/,
+ u /*event*/,
+ a /*lifecycle*/,
+ h /*platform*/,
+ c /*scrollable*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$8hb = e.$7hb = e.$6hb = e.$5hb = e.$4hb = e.$3hb = void 0),

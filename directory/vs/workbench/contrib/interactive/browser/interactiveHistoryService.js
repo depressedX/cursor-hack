@@ -4,7 +4,12 @@ import '../../../../base/common/history.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../../base/common/map.js';
 import '../../../../platform/instantiation/common/instantiation.js';
-define(de[987], he([1, 0, 647, 3, 59, 5]), function (ce, e, t, i, w, E) {
+define(de[987], he([1, 0, 647, 3, 59, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*history*/,
+ i /*lifecycle*/,
+ w /*map*/,
+ E /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$xnc = e.$wnc = void 0),

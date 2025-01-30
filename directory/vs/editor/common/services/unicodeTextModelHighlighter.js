@@ -8,7 +8,13 @@ import '../core/wordHelper.js';
 define(
 			de[1630],
 			he([1, 0, 17, 543, 37, 229, 409]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*range*/,
+ i /*textModelSearch*/,
+ w /*strings*/,
+ E /*assert*/,
+ C /*wordHelper*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.UnicodeHighlighterReasonKind = e.$Ywb = void 0),

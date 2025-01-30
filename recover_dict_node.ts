@@ -43,7 +43,7 @@ while (res) {
   ensureDirSync(dir);
 
   console.log("write file", filepath);
-  // writeFileSync(finalPath, fileContent, "utf-8");
+  writeFileSync(finalPath, fileContent, "utf-8");
 
   res = nextRes;
 }

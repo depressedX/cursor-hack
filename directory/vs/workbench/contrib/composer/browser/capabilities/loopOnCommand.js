@@ -10,7 +10,15 @@ import '../composerCapabilityDecorators.js';
 define(
 			de[3924],
 			he([1, 0, 262, 351, 617, 209, 126, 167, 395]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*composerCapabilities*/,
+ i /*composerCapabilitySchemas*/,
+ w /*terminalExecutionService*/,
+ E /*composerDataService*/,
+ C /*chat_pb*/,
+ d /*composer_pb*/,
+ m /*composerCapabilityDecorators*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.LoopOnCommand = void 0);

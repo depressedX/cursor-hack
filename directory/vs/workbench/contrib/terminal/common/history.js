@@ -16,7 +16,21 @@ import '../../../../base/common/path.js';
 define(
 			de[1314],
 			he([1, 0, 344, 3, 59, 10, 22, 5, 21, 117, 9, 143, 23, 12, 54]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*process*/,
+ i /*lifecycle*/,
+ w /*map*/,
+ E /*configuration*/,
+ C /*files*/,
+ d /*instantiation*/,
+ m /*storage*/,
+ r /*terminal*/,
+ u /*uri*/,
+ a /*remoteAgentService*/,
+ h /*network*/,
+ c /*platform*/,
+ n /*path*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$oUc = void 0),

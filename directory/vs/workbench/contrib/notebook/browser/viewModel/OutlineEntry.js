@@ -9,7 +9,14 @@ import '../../../../../editor/common/languages.js';
 define(
 			de[3477],
 			he([1, 0, 14, 26, 90, 284, 70, 74]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*themables*/,
+ w /*markers*/,
+ E /*notebookIcons*/,
+ C /*notebookCommon*/,
+ d /*languages*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vOb = void 0);

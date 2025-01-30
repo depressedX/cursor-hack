@@ -4,7 +4,12 @@ import '../../../../../external/solid/web.js';
 import '../../../../../external/solid/web.js';
 import '../select/hidden-select-base.js';
 import './combobox-context.js';
-define(de[2655], he([1, 0, 2, 2, 2654, 486]), function (ce, e, t, i, w, E) {
+define(de[2655], he([1, 0, 2, 2, 2654, 486]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*hidden-select-base*/,
+ E /*combobox-context*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$unb = C);
 			function C(d) {

@@ -7,7 +7,12 @@ import './tokens.js';
 define(
 			de[2694],
 			he([1, 0, 74, 388, 171, 1176]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*languages*/,
+ i /*lineTokens*/,
+ w /*encodedTokenAttributes*/,
+ E /*tokens*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$oV = void 0);
 				class C extends E.$lV {

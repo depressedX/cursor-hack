@@ -10,7 +10,15 @@ import '../../../../../platform/reactivestorage/browser/reactiveStorageService.j
 define(
 			de[3951],
 			he([1, 0, 167, 262, 395, 351, 209, 1053, 45]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*composer_pb*/,
+ i /*composerCapabilities*/,
+ w /*composerCapabilityDecorators*/,
+ E /*composerCapabilitySchemas*/,
+ C /*composerDataService*/,
+ d /*contextBankService*/,
+ m /*reactiveStorageService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.AutoContext = void 0);

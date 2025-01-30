@@ -23,7 +23,25 @@ define(
 				1, 0, 15, 29, 151, 52, 62, 32, 415, 110, 18, 520, 22, 9, 76, 174, 142,
 				3734, 24,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*errors*/,
+ w /*environmentService*/,
+ E /*lifecycle*/,
+ C /*productService*/,
+ d /*telemetry*/,
+ m /*update*/,
+ r /*native*/,
+ u /*editorService*/,
+ a /*timerService*/,
+ h /*files*/,
+ c /*uri*/,
+ n /*buffer*/,
+ g /*workspaceTrust*/,
+ p /*panecomposite*/,
+ o /*startupTimings*/,
+ f /*arrays*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Bgd = void 0);

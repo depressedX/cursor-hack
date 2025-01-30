@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './error.js';
 import './syncpromise.js';
-define(de[1426], he([1, 0, 1092, 1425]), function (ce, e, t, i) {
+define(de[1426], he([1, 0, 1092, 1425]), function (ce /*require*/,
+ e /*exports*/,
+ t /*error*/,
+ i /*syncpromise*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.makePromiseBuffer = w);

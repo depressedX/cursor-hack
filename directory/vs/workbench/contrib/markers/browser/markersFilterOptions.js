@@ -8,7 +8,13 @@ import '../../../../base/common/ternarySearchTree.js';
 define(
 			de[1247],
 			he([1, 0, 132, 215, 37, 19, 387]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*filters*/,
+ i /*glob*/,
+ w /*strings*/,
+ E /*resources*/,
+ C /*ternarySearchTree*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$CRc = e.$BRc = void 0),

@@ -4,7 +4,12 @@ import '../../../base/common/async.js';
 import '../../../base/common/lifecycle.js';
 import '../../../base/common/uri.js';
 import '../../product/common/productService.js';
-define(de[2882], he([1, 0, 15, 3, 9, 62]), function (ce, e, t, i, w, E) {
+define(de[2882], he([1, 0, 15, 3, 9, 62]), function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*productService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$4rb = e.$3rb = void 0);

@@ -18,7 +18,23 @@ import '../../../../../external/bufbuild/connect.js';
 define(
 			de[4125],
 			he([1, 0, 3, 8, 3, 20, 445, 180, 5, 45, 4124, 118, 735, 7, 7, 551, 340]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*contextkey*/,
+ w /*lifecycle*/,
+ E /*extensions*/,
+ C /*modalService*/,
+ d /*layoutService*/,
+ m /*instantiation*/,
+ r /*reactiveStorageService*/,
+ u /*entrypoint*/,
+ a /*aiService*/,
+ h /*uploadserver_pb*/,
+ c /*dom*/,
+ n /*dom*/,
+ g /*cppDebouncingService*/,
+ p /*connect*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$7Yc = void 0),

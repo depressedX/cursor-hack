@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/uri.js';
-define(de[2706], he([1, 0, 9]), function (ce, e, t) {
+define(de[2706], he([1, 0, 9]), function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$ip = e.$hp = void 0);

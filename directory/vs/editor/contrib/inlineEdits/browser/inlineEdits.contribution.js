@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../browser/editorExtensions.js';
 import './commands.js';
 import './inlineEditsController.js';
-define(de[2933], he([1, 0, 46, 2932, 1694]), function (ce, e, t, i, w) {
+define(de[2933], he([1, 0, 46, 2932, 1694]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*commands*/,
+ w /*inlineEditsController*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(0, t.$qtb)(

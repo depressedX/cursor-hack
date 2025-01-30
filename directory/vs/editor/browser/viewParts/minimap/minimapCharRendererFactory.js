@@ -7,7 +7,12 @@ import '../../../../base/common/uint.js';
 define(
 			de[2547],
 			he([1, 0, 2545, 1145, 2546, 210]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*minimapCharRenderer*/,
+ i /*minimapCharSheet*/,
+ w /*minimapPreBaked*/,
+ E /*uint*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Dvb = void 0);

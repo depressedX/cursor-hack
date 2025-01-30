@@ -7,7 +7,12 @@ import '../../../../platform/commands/common/commands.js';
 define(
 			de[3671],
 			he([1, 0, 46, 1877, 53, 31]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*TMGrammars*/,
+ w /*extensions*/,
+ E /*commands*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$IXc = void 0);

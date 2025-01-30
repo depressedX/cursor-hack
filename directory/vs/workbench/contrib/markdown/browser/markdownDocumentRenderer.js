@@ -10,7 +10,15 @@ import '../../../../editor/common/languages/textToHtmlTokenizer.js';
 define(
 			de[1738],
 			he([1, 0, 7, 920, 267, 434, 23, 37, 597]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*dompurify*/,
+ w /*markdownRenderer*/,
+ E /*marked*/,
+ C /*network*/,
+ d /*strings*/,
+ m /*textToHtmlTokenizer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mTc = void 0),

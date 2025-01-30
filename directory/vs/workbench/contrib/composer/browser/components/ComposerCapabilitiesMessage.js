@@ -10,7 +10,15 @@ import './ComposerConstantSizeStatusIndicator.js';
 define(
 			de[4397],
 			he([1, 0, 2, 2, 2, 13, 262, 573, 3205]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*composerCapabilities*/,
+ d /*ContextPills*/,
+ m /*ComposerConstantSizeStatusIndicator*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerCapabilitiesMessage = u);

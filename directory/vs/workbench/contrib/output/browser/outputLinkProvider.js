@@ -11,7 +11,16 @@ import '../../../../editor/common/services/textModelSync/textModelSync.impl.js';
 define(
 			de[3524],
 			he([1, 0, 15, 67, 25, 297, 3, 69, 540, 935]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*model*/,
+ w /*workspace*/,
+ E /*output*/,
+ C /*lifecycle*/,
+ d /*languageFeatures*/,
+ m /*defaultWorkerFactory*/,
+ r /*textModelSync.impl*/) {
 				"use strict";
 				var u;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

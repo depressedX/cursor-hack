@@ -23,7 +23,25 @@ define(
 				1, 0, 33, 6, 149, 3, 8, 5, 208, 218, 107, 4377, 94, 692, 89, 21, 28, 15,
 				153,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*event*/,
+ w /*lazy*/,
+ E /*lifecycle*/,
+ C /*contextkey*/,
+ d /*instantiation*/,
+ m /*chat*/,
+ r /*chatService*/,
+ u /*terminal*/,
+ a /*terminalChatWidget*/,
+ h /*htmlContent*/,
+ c /*terminalChat*/,
+ n /*viewsService*/,
+ g /*storage*/,
+ p /*types*/,
+ o /*async*/,
+ f /*chatAgents*/) {
 				"use strict";
 				var b;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

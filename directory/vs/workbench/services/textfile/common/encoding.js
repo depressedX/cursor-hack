@@ -9,7 +9,14 @@ import '../../../../base/common/amd.js';
 define(
 			de[842],
 			he([1, 0, 408, 76, 536, 33, 24, 455]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*stream*/,
+ i /*buffer*/,
+ w /*amdX*/,
+ E /*cancellation*/,
+ C /*arrays*/,
+ d /*amd*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5Y =

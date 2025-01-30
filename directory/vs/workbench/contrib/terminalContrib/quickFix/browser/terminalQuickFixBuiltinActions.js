@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../base/common/uri.js';
 import '../../../../../nls.js';
 import './quickFix.js';
-define(de[3164], he([1, 0, 9, 4, 998]), function (ce, e, t, i, w) {
+define(de[3164], he([1, 0, 9, 4, 998]), function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*nls*/,
+ w /*quickFix*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.QuickFixSource =

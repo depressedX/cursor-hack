@@ -14,7 +14,19 @@ import '../../base/common/severity.js';
 define(
 		de[44],
 		he([1, 0, 4, 28, 9, 3, 5, 30, 22, 23, 163, 50, 111]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*types*/,
+ w /*uri*/,
+ E /*lifecycle*/,
+ C /*instantiation*/,
+ d /*platform*/,
+ m /*files*/,
+ r /*network*/,
+ u /*errorMessage*/,
+ a /*actions*/,
+ h /*severity*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.EditorsOrder =

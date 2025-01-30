@@ -8,7 +8,13 @@ import './storedValue.js';
 define(
 			de[3177],
 			he([1, 0, 103, 3, 21, 810, 515]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*iterator*/,
+ i /*lifecycle*/,
+ w /*storage*/,
+ E /*observableValue*/,
+ C /*storedValue*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$rqc = void 0);

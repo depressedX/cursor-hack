@@ -13,7 +13,18 @@ import './genericUndoRedoElement.js';
 define(
 			de[2874],
 			he([1, 0, 5, 17, 3, 20, 42, 45, 155, 48, 8, 606]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*range*/,
+ w /*lifecycle*/,
+ E /*extensions*/,
+ C /*resolverService*/,
+ d /*reactiveStorageService*/,
+ m /*undoRedo*/,
+ r /*position*/,
+ u /*contextkey*/,
+ a /*genericUndoRedoElement*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Vdc = e.$Udc = void 0),

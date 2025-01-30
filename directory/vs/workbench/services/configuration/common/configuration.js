@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../platform/configuration/common/configurationRegistry.js';
 import '../../../../platform/configuration/common/configuration.js';
 import '../../../../platform/instantiation/common/instantiation.js';
-define(de[261], he([1, 0, 81, 10, 5]), function (ce, e, t, i, w) {
+define(de[261], he([1, 0, 81, 10, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*configurationRegistry*/,
+ i /*configuration*/,
+ w /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$TZ =

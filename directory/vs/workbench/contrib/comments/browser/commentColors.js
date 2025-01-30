@@ -4,7 +4,12 @@ import '../../../../editor/common/languages.js';
 import '../../../../editor/contrib/peekView/browser/peekView.js';
 import '../../../../nls.js';
 import '../../../../platform/theme/common/colorRegistry.js';
-define(de[1237], he([1, 0, 74, 255, 4, 51]), function (ce, e, t, i, w, E) {
+define(de[1237], he([1, 0, 74, 255, 4, 51]), function (ce /*require*/,
+ e /*exports*/,
+ t /*languages*/,
+ i /*peekView*/,
+ w /*nls*/,
+ E /*colorRegistry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$A3b = e.$z3b = e.$y3b = e.$x3b = e.$w3b = void 0),

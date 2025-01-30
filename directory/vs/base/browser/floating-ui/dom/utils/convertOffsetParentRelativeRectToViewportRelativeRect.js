@@ -9,7 +9,14 @@ import './node.js';
 define(
 			de[2664],
 			he([1, 0, 663, 538, 928, 929, 324, 594]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getBoundingClientRect*/,
+ i /*getDocumentElement*/,
+ w /*getNodeScroll*/,
+ E /*getScale*/,
+ C /*is*/,
+ d /*node*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Dmb = m);
 				function m({ rect: r, offsetParent: u, strategy: a }) {

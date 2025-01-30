@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './collections.js';
 import './navigator.js';
-define(de[647], he([1, 0, 456, 2219]), function (ce, e, t, i) {
+define(de[647], he([1, 0, 456, 2219]), function (ce /*require*/,
+ e /*exports*/,
+ t /*collections*/,
+ i /*navigator*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Kob = e.$Job = void 0);

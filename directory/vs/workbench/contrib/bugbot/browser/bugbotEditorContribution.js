@@ -9,7 +9,14 @@ import '../../../common/editor.js';
 define(
 			de[4263],
 			he([1, 0, 30, 192, 1719, 4262, 102, 44]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*editor*/,
+ w /*bugbotEditorInput*/,
+ E /*bugbotEditor*/,
+ C /*descriptors*/,
+ d /*editor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					t.$Io

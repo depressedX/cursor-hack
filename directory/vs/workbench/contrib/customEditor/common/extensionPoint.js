@@ -12,7 +12,17 @@ import '../../../services/language/common/languageService.js';
 define(
 			de[3576],
 			he([1, 0, 24, 3, 4, 102, 30, 625, 244, 175, 701]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*lifecycle*/,
+ w /*nls*/,
+ E /*descriptors*/,
+ C /*platform*/,
+ d /*customEditor*/,
+ m /*extensionFeatures*/,
+ r /*extensionsRegistry*/,
+ u /*languageService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ASc = void 0),

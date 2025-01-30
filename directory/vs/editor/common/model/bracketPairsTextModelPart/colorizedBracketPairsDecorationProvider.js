@@ -8,7 +8,13 @@ import '../../../../platform/theme/common/themeService.js';
 define(
 			de[2854],
 			he([1, 0, 6, 3, 17, 307, 35]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*range*/,
+ E /*editorColorRegistry*/,
+ C /*themeService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$uU = void 0);
 				class d extends i.$1c {

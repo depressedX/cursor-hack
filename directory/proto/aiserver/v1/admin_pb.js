@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import '../../../external/bufbuild/protobuf.js';
-define(de[2165], he([1, 0, 86]), function (ce, e, t) {
+define(de[2165], he([1, 0, 86]), function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$fab = e.$eab = e.$dab = e.$cab = e.$bab = e.$aab = void 0);

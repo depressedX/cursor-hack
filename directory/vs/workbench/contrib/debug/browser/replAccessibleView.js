@@ -11,7 +11,16 @@ import '../../../../editor/common/core/position.js';
 define(
 			de[3826],
 			he([1, 0, 178, 130, 847, 89, 8, 6, 3, 48]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*accessibleView*/,
+ i /*accessibilityConfiguration*/,
+ w /*repl*/,
+ E /*viewsService*/,
+ C /*contextkey*/,
+ d /*event*/,
+ m /*lifecycle*/,
+ r /*position*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pQc = void 0);

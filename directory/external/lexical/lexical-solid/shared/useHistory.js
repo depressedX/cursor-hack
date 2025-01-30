@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../lexical-history/api.js';
 import '../../../solid/solid.js';
-define(de[1565], he([1, 0, 922, 13]), function (ce, e, t, i) {
+define(de[1565], he([1, 0, 922, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.useHistory = w),

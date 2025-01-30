@@ -13,7 +13,18 @@ import '../common/terminalCommandGuideConfiguration.js';
 define(
 			de[3154],
 			he([1, 0, 7, 3, 4, 10, 189, 51, 306, 123, 378, 1764]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*nls*/,
+ E /*configuration*/,
+ C /*capabilities*/,
+ d /*colorRegistry*/,
+ m /*colorUtils*/,
+ r /*theme*/,
+ u /*terminalExtensions*/,
+ a /*terminalCommandGuideConfiguration*/) {
 				"use strict";
 				var h;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

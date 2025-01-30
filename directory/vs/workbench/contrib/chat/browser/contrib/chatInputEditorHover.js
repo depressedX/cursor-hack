@@ -13,7 +13,18 @@ import '../../../../../nls.js';
 define(
 			de[4074],
 			he([1, 0, 3, 17, 368, 31, 5, 208, 1353, 3011, 329, 4]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*range*/,
+ w /*hoverTypes*/,
+ E /*commands*/,
+ C /*instantiation*/,
+ d /*chat*/,
+ m /*chatAgentHover*/,
+ r /*editorHoverWrapper*/,
+ u /*chatParserTypes*/,
+ a /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$VIc = e.$UIc = void 0),

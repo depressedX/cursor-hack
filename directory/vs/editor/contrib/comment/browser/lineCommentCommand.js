@@ -11,7 +11,16 @@ import './blockCommentCommand.js';
 define(
 			de[1549],
 			he([1, 0, 120, 37, 210, 188, 48, 17, 104, 1548]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*strings*/,
+ w /*uint*/,
+ E /*editOperation*/,
+ C /*position*/,
+ d /*range*/,
+ m /*selection*/,
+ r /*blockCommentCommand*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Chc = e.Type = void 0),

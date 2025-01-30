@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './is.js';
 import './string.js';
-define(de[2074], he([1, 0, 430, 881]), function (ce, e, t, i) {
+define(de[2074], he([1, 0, 430, 881]), function (ce /*require*/,
+ e /*exports*/,
+ t /*is*/,
+ i /*string*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.applyAggregateErrorsToEvent = w);

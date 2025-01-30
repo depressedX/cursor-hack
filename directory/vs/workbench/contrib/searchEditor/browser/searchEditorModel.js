@@ -14,7 +14,19 @@ import '../../../services/search/common/search.js';
 define(
 			de[4170],
 			he([1, 0, 67, 61, 5, 1067, 335, 28, 122, 615, 6, 59, 186]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*model*/,
+ i /*language*/,
+ w /*instantiation*/,
+ E /*searchEditorSerialization*/,
+ C /*workingCopyBackup*/,
+ d /*types*/,
+ m /*textModel*/,
+ r /*constants*/,
+ u /*event*/,
+ a /*map*/,
+ h /*search*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$QOc = e.$POc = e.$OOc = void 0);

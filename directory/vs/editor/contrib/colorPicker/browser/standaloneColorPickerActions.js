@@ -11,7 +11,15 @@ import '../../../../css!vs/editor/contrib/colorPicker/browser/colorPicker.js';
 define(
 			de[2911],
 			he([1, 0, 46, 27, 4, 43, 2910, 71, 11, 1136]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*keyCodes*/,
+ w /*nls*/,
+ E /*keybindingsRegistry*/,
+ C /*standaloneColorPickerWidget*/,
+ d /*editorContextKeys*/,
+ m /*actions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ahc = void 0);

@@ -18,7 +18,22 @@ import '../../../../css!vs/editor/contrib/cHover/browser/hoverWidget.js';
 define(
 			de[866],
 			he([1, 0, 7, 159, 58, 6, 3, 56, 38, 499, 4, 31, 39, 45, 4369, 12, 2288]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*touch*/,
+ w /*constants*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*editorBrowser*/,
+ m /*editorOptions*/,
+ r /*hintLineWidget*/,
+ u /*nls*/,
+ a /*commands*/,
+ h /*keybinding*/,
+ c /*reactiveStorageService*/,
+ n /*cmdKActions*/,
+ g /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pbc = e.$mbc = void 0),

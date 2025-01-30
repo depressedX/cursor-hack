@@ -1,7 +1,9 @@
 import '../../../../../../../require.js';
 import '../../../../../../../exports.js';
 import '../../../common/notebookCommon.js';
-define(de[1837], he([1, 0, 70]), function (ce, e, t) {
+define(de[1837], he([1, 0, 70]), function (ce /*require*/,
+ e /*exports*/,
+ t /*notebookCommon*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$W3b = void 0),

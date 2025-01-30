@@ -13,7 +13,18 @@ import '../../../../base/common/hash.js';
 define(
 			de[283],
 			he([1, 0, 6, 3, 434, 5, 34, 982, 153, 441, 790, 136]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*marked*/,
+ E /*instantiation*/,
+ C /*log*/,
+ d /*annotations*/,
+ m /*chatAgents*/,
+ r /*chatModel*/,
+ u /*chatWordCounter*/,
+ a /*hash*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$cUb = e.$bUb = e.$aUb = void 0),

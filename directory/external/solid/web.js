@@ -2,7 +2,10 @@ import '../../require.js';
 import '../../exports.js';
 import './solid.js';
 import './solid.js';
-define(de[2], he([1, 0, 13, 13]), function (ce, e, t, i) {
+define(de[2], he([1, 0, 13, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.isServer =

@@ -4,7 +4,12 @@ import '../../../../../../nls.js';
 import '../../../../../../platform/actions/common/actions.js';
 import '../../../../../../platform/configuration/common/configuration.js';
 import '../../../common/notebookCommon.js';
-define(de[3469], he([1, 0, 4, 11, 10, 70]), function (ce, e, t, i, w, E) {
+define(de[3469], he([1, 0, 4, 11, 10, 70]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*configuration*/,
+ E /*notebookCommon*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.NotebookProfileType = void 0);

@@ -15,7 +15,20 @@ import '../../../../../../platform/hover/browser/hover.js';
 define(
 			de[801],
 			he([1, 0, 7, 28, 159, 95, 182, 26, 92, 11, 49, 39, 35, 72]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*types*/,
+ w /*touch*/,
+ E /*hoverDelegateFactory*/,
+ C /*iconLabels*/,
+ d /*themables*/,
+ m /*menuEntryActionViewItem*/,
+ r /*actions*/,
+ u /*contextView*/,
+ a /*keybinding*/,
+ h /*themeService*/,
+ c /*hover*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$O3b = e.$N3b = e.$M3b = void 0),

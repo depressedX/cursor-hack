@@ -15,7 +15,20 @@ import '../../lifecycle/common/lifecycle.js';
 define(
 		de[1832],
 		he([1, 0, 7, 75, 24, 12, 113, 22, 2738, 2743, 34, 30, 55, 52]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*window*/,
+ w /*arrays*/,
+ E /*platform*/,
+ C /*environment*/,
+ d /*files*/,
+ m /*localizedStrings*/,
+ r /*log*/,
+ u /*log*/,
+ a /*platform*/,
+ h /*contributions*/,
+ c /*lifecycle*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$wEb = void 0),

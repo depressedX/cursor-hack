@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../platform/theme/common/themeService.js';
 import '../../../../base/common/types.js';
-define(de[333], he([1, 0, 5, 35, 28]), function (ce, e, t, i, w) {
+define(de[333], he([1, 0, 5, 35, 28]), function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*themeService*/,
+ w /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ExtensionData =

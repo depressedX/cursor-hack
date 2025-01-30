@@ -9,7 +9,14 @@ import '../../../base/common/linkedList.js';
 define(
 			de[43],
 			he([1, 0, 343, 12, 31, 30, 3, 273]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keybindings*/,
+ i /*platform*/,
+ w /*commands*/,
+ E /*platform*/,
+ C /*lifecycle*/,
+ d /*linkedList*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$UX = e.$TX = e.KeybindingWeight = void 0);

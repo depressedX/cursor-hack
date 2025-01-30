@@ -24,7 +24,25 @@ define(
 				1, 0, 2, 2, 2, 2, 13, 193, 27, 19, 9, 47, 373, 36, 1369, 817, 298, 17,
 				1996, 2505,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*store*/,
+ m /*keyCodes*/,
+ r /*resources*/,
+ u /*uri*/,
+ a /*uuid*/,
+ h /*suggest*/,
+ c /*solid*/,
+ n /*aiEditorCodeBlock*/,
+ g /*recognizers*/,
+ p /*selectedContextData*/,
+ o /*range*/,
+ f /*useAllFilesSearch*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$hAc = l);
 				const b = (0, t.template)("<div>"),

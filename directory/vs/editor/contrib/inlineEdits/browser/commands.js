@@ -15,7 +15,20 @@ import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[2932],
 			he([1, 0, 14, 27, 77, 407, 46, 281, 71, 1604, 1694, 4, 11, 8]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*keyCodes*/,
+ w /*observable*/,
+ E /*base*/,
+ C /*editorExtensions*/,
+ d /*embeddedCodeEditorWidget*/,
+ m /*editorContextKeys*/,
+ r /*consts*/,
+ u /*inlineEditsController*/,
+ a /*nls*/,
+ h /*actions*/,
+ c /*contextkey*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$4jc = e.$3jc = e.$2jc = e.$1jc = e.$Zjc = void 0),

@@ -11,7 +11,16 @@ import '../../../common/notebookExecutionStateService.js';
 define(
 			de[3476],
 			he([1, 0, 7, 182, 3, 4, 26, 284, 70, 190]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*iconLabels*/,
+ w /*lifecycle*/,
+ E /*nls*/,
+ C /*themables*/,
+ d /*notebookIcons*/,
+ m /*notebookCommon*/,
+ r /*notebookExecutionStateService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$13b = void 0),

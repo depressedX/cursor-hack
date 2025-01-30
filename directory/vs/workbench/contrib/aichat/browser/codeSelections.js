@@ -9,7 +9,14 @@ import '../../ui/browser/aiInput/plugins/mentions/types.js';
 define(
 			de[354],
 			he([1, 0, 9, 56, 17, 104, 83, 310]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*editorBrowser*/,
+ w /*range*/,
+ E /*selection*/,
+ C /*utils_pb*/,
+ d /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Tfc = m),

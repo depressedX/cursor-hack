@@ -8,7 +8,13 @@ import './layout.js';
 define(
 			de[580],
 			he([1, 0, 2, 13, 193, 1463, 579]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*solid*/,
+ w /*store*/,
+ E /*collision*/,
+ C /*layout*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.useDragDropContext = e.DragDropProvider = e.Context = void 0);

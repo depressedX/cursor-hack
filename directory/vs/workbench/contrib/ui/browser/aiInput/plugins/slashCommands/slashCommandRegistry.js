@@ -9,7 +9,14 @@ import '../../../../../../../base/common/codicons.js';
 define(
 			de[3195],
 			he([1, 0, 2, 2, 2, 1005, 26, 14]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*types*/,
+ C /*themables*/,
+ d /*codicons*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$yac = e.$xac = void 0);

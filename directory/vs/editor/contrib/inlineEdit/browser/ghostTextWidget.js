@@ -15,7 +15,19 @@ import '../../../../css!vs/editor/contrib/inlineEdit/browser/inlineEdit.js';
 define(
 			de[2914],
 			he([1, 0, 3, 77, 48, 17, 61, 64, 533, 290, 947, 753, 608, 2306]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*position*/,
+ E /*range*/,
+ C /*language*/,
+ d /*model*/,
+ m /*lineDecorations*/,
+ r /*viewModel*/,
+ u /*ghostTextView*/,
+ a /*utils*/,
+ h /*registrations.contribution*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ejc = e.$Djc = void 0),

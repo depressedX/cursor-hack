@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../instantiation/common/extensions.js';
 import '../../instantiation/common/instantiation.js';
 import './reactiveStorageService.js';
-define(de[669], he([1, 0, 20, 5, 45]), function (ce, e, t, i, w) {
+define(de[669], he([1, 0, 20, 5, 45]), function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*instantiation*/,
+ w /*reactiveStorageService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$16b = e.$Z6b = void 0),

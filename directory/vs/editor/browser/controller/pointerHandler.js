@@ -14,7 +14,19 @@ import '../editorDom.js';
 define(
 			de[2840],
 			he([1, 0, 459, 7, 159, 75, 3, 12, 2839, 942, 498, 56, 777]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*canIUse*/,
+ i /*dom*/,
+ w /*touch*/,
+ E /*window*/,
+ C /*lifecycle*/,
+ d /*platform*/,
+ m /*mouseHandler*/,
+ r /*textAreaInput*/,
+ u /*coreCommands*/,
+ a /*editorBrowser*/,
+ h /*editorDom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$ub = e.$0ub = void 0),

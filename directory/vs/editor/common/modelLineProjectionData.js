@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../../base/common/assert.js';
 import './core/position.js';
 import './model.js';
-define(de[1629], he([1, 0, 229, 48, 64]), function (ce, e, t, i, w) {
+define(de[1629], he([1, 0, 229, 48, 64]), function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*position*/,
+ w /*model*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$wsb = e.$vsb = e.$usb = void 0);

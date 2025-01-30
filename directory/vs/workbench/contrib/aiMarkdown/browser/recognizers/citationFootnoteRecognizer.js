@@ -1,7 +1,9 @@
 import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../markdownData.js';
-define(de[2984], he([1, 0, 236]), function (ce, e, t) {
+define(de[2984], he([1, 0, 236]), function (ce /*require*/,
+ e /*exports*/,
+ t /*markdownData*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$O$b = void 0),

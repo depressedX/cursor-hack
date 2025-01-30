@@ -4,7 +4,12 @@ import './charCode.js';
 import './marshallingIds.js';
 import './path.js';
 import './platform.js';
-define(de[9], he([1, 0, 120, 221, 54, 12]), function (ce, e, t, i, w, E) {
+define(de[9], he([1, 0, 120, 221, 54, 12]), function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*marshallingIds*/,
+ w /*path*/,
+ E /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.URI = void 0),

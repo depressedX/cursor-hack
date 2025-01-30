@@ -13,7 +13,18 @@ import '../../../../../platform/hover/browser/hover.js';
 define(
 			de[1761],
 			he([1, 0, 7, 15, 275, 94, 3, 4, 10, 49, 117, 72]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*async*/,
+ w /*date*/,
+ E /*htmlContent*/,
+ C /*lifecycle*/,
+ d /*nls*/,
+ m /*configuration*/,
+ r /*contextView*/,
+ u /*terminal*/,
+ a /*hover*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$8Hb = e.DecorationSelector = void 0),

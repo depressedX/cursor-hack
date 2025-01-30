@@ -16,7 +16,20 @@ import '../../../../css!vs/base/browser/ui/dropdown/dropdown.js';
 define(
 			de[437],
 			he([1, 0, 4, 7, 114, 198, 2674, 50, 14, 26, 6, 27, 95, 317, 1509]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*dom*/,
+ w /*keyboardEvent*/,
+ E /*actionViewItems*/,
+ C /*dropdown*/,
+ d /*actions*/,
+ m /*codicons*/,
+ r /*themables*/,
+ u /*event*/,
+ a /*keyCodes*/,
+ h /*hoverDelegateFactory*/,
+ c /*hoverDelegate2*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Qob = e.$Pob = void 0),

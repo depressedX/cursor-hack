@@ -11,7 +11,16 @@ import '../../extensions/common/extensions.js';
 define(
 			de[3457],
 			he([1, 0, 4, 63, 33, 3, 11, 672, 704, 141]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*quickInput*/,
+ w /*cancellation*/,
+ E /*lifecycle*/,
+ C /*actions*/,
+ d /*languagePacks*/,
+ m /*locale*/,
+ r /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$65c = e.$55c = void 0);

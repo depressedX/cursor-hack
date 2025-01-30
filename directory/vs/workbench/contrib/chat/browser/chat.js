@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../common/chatParticipantContribTypes.js';
-define(de[208], he([1, 0, 4, 5, 981]), function (ce, e, t, i, w) {
+define(de[208], he([1, 0, 4, 5, 981]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*instantiation*/,
+ w /*chatParticipantContribTypes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$MYb = e.$LYb = e.$KYb = e.$JYb = e.$IYb = e.$GYb = void 0),

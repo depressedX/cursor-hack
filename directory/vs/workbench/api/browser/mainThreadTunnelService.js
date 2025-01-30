@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 4, 88, 3466, 101, 519, 374, 3, 40, 10, 34, 143, 30, 81, 8, 839,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*extHost.protocol*/,
+ w /*extHostTunnelService*/,
+ E /*extHostCustomers*/,
+ C /*remoteExplorerService*/,
+ d /*tunnel*/,
+ m /*lifecycle*/,
+ r /*notification*/,
+ u /*configuration*/,
+ a /*log*/,
+ h /*remoteAgentService*/,
+ c /*platform*/,
+ n /*configurationRegistry*/,
+ g /*contextkey*/,
+ p /*tunnelModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$cqc = void 0),

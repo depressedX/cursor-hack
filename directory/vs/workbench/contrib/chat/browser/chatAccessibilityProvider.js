@@ -8,7 +8,13 @@ import '../common/chatViewModel.js';
 define(
 			de[3548],
 			he([1, 0, 434, 4, 130, 178, 283]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*marked*/,
+ i /*nls*/,
+ w /*accessibilityConfiguration*/,
+ E /*accessibleView*/,
+ C /*chatViewModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$NYb = void 0);

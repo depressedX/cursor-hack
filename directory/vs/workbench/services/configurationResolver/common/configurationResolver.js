@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../base/common/errors.js';
-define(de[358], he([1, 0, 5, 29]), function (ce, e, t, i) {
+define(de[358], he([1, 0, 5, 29]), function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*errors*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Aeb = e.VariableKind = e.$zeb = void 0),

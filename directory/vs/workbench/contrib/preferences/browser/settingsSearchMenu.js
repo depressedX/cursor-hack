@@ -9,7 +9,14 @@ import '../common/preferences.js';
 define(
 			de[3122],
 			he([1, 0, 276, 437, 328, 4, 49, 468]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contextview*/,
+ i /*dropdownActionViewItem*/,
+ w /*suggestController*/,
+ E /*nls*/,
+ C /*contextView*/,
+ d /*preferences*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$Dc = void 0);

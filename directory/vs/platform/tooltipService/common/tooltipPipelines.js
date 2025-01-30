@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/platform.js';
-define(de[2869], he([1, 0, 12]), function (ce, e, t) {
+define(de[2869], he([1, 0, 12]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$sV = void 0);
 			const i = t.$m ? "\u2318" : "Ctrl";

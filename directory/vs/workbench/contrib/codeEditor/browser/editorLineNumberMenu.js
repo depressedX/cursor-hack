@@ -14,7 +14,19 @@ import '../../../../platform/registry/common/platform.js';
 define(
 			de[1236],
 			he([1, 0, 50, 3, 12, 56, 46, 11, 8, 49, 116, 5, 30]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*editorBrowser*/,
+ C /*editorExtensions*/,
+ d /*actions*/,
+ m /*contextkey*/,
+ r /*contextView*/,
+ u /*editor*/,
+ a /*instantiation*/,
+ h /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$bGc = e.$aGc = e.$_Fc = void 0);

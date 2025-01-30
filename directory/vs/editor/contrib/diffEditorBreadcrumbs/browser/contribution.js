@@ -11,7 +11,16 @@ import '../../../../base/common/event.js';
 define(
 			de[2805],
 			he([1, 0, 24, 77, 1641, 370, 69, 204, 3, 6]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*observable*/,
+ w /*hideUnchangedRegionsFeature*/,
+ E /*utils*/,
+ C /*languageFeatures*/,
+ d /*outlineModel*/,
+ m /*lifecycle*/,
+ r /*event*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let u = class extends m.$1c {

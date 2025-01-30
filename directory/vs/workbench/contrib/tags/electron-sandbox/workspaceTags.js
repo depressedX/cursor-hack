@@ -16,7 +16,21 @@ import '../../../../platform/product/common/productService.js';
 define(
 			de[1886],
 			he([1, 0, 530, 29, 22, 32, 25, 85, 1260, 768, 327, 12, 1597, 110, 62]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hash*/,
+ i /*errors*/,
+ w /*files*/,
+ E /*telemetry*/,
+ C /*workspace*/,
+ d /*textfiles*/,
+ m /*workspaceTags*/,
+ r /*diagnostics*/,
+ u /*request*/,
+ a /*platform*/,
+ h /*configRemotes*/,
+ c /*native*/,
+ n /*productService*/) {
 				"use strict";
 				var g;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

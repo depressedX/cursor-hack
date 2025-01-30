@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../../services/language/common/languageService.js';
-define(de[3397], he([1, 0, 4, 701]), function (ce, e, t, i) {
+define(de[3397], he([1, 0, 4, 701]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*languageService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Y1c = void 0),

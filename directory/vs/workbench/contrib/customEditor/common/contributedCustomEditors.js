@@ -11,7 +11,16 @@ import '../../../services/editor/common/editorResolverService.js';
 define(
 			de[3577],
 			he([1, 0, 6, 3, 4, 21, 282, 625, 3576, 231]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*nls*/,
+ E /*storage*/,
+ C /*memento*/,
+ d /*customEditor*/,
+ m /*extensionPoint*/,
+ r /*editorResolverService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$BSc = void 0),

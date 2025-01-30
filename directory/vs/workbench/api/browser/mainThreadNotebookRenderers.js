@@ -7,7 +7,12 @@ import '../../contrib/notebook/common/notebookRendererMessagingService.js';
 define(
 			de[3360],
 			he([1, 0, 3, 88, 101, 1255]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*extHost.protocol*/,
+ w /*extHostCustomers*/,
+ E /*notebookRendererMessagingService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Hpc = void 0);

@@ -12,7 +12,17 @@ import '../../../ui/browser/loadingSpinner/loadingSpinner.js';
 define(
 			de[3205],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 565, 295]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*ComposerGeneralStatusIndicator*/,
+ u /*loadingSpinner*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerConstantSizeStatusIndicator = c);

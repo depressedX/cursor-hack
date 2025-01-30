@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../platform/extensionManagement/common/configRemotes.js';
-define(de[1260], he([1, 0, 5, 1597]), function (ce, e, t, i) {
+define(de[1260], he([1, 0, 5, 1597]), function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*configRemotes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$j1c = void 0),

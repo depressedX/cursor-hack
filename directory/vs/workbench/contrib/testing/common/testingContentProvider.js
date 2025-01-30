@@ -13,7 +13,18 @@ import './testingUri.js';
 define(
 			de[3186],
 			he([1, 0, 76, 3, 37, 61, 67, 42, 4, 381, 185, 813]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*lifecycle*/,
+ w /*strings*/,
+ E /*language*/,
+ C /*model*/,
+ d /*resolverService*/,
+ m /*nls*/,
+ r /*testResultService*/,
+ u /*testTypes*/,
+ a /*testingUri*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$FMc = void 0);

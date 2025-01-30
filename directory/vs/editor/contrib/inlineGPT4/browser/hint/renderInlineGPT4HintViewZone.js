@@ -8,7 +8,13 @@ import '../../../../../base/common/platform.js';
 define(
 			de[2699],
 			he([1, 0, 2, 2, 27, 343, 12]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*keyCodes*/,
+ E /*keybindings*/,
+ C /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$1dc = e.$Zdc = void 0),

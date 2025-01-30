@@ -24,7 +24,26 @@ define(
 				1, 0, 126, 167, 124, 6, 3, 61, 45, 25, 3033, 4343, 219, 262, 395, 351,
 				225, 209, 426, 617,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*chat_pb*/,
+ i /*composer_pb*/,
+ w /*tools_pb*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*language*/,
+ m /*reactiveStorageService*/,
+ r /*workspace*/,
+ u /*serializeToolformerBubbleData*/,
+ a /*ComposerToolFormerMessage*/,
+ h /*composer*/,
+ c /*composerCapabilities*/,
+ n /*composerCapabilityDecorators*/,
+ g /*composerCapabilitySchemas*/,
+ p /*composerData*/,
+ o /*composerDataService*/,
+ f /*composerUtilsService*/,
+ b /*terminalExecutionService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ToolFormer = void 0);

@@ -16,7 +16,21 @@ import '../common/authentication.js';
 define(
 			de[3246],
 			he([1, 0, 3, 4, 11, 31, 57, 20, 40, 63, 21, 260, 621, 822, 357]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*nls*/,
+ w /*actions*/,
+ E /*commands*/,
+ C /*dialogs*/,
+ d /*extensions*/,
+ m /*notification*/,
+ r /*quickInput*/,
+ u /*storage*/,
+ a /*activity*/,
+ h /*authenticationAccessService*/,
+ c /*authenticationUsageService*/,
+ n /*authentication*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$kyc = void 0),

@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../lexical-text/api.js';
 import '../../lexical-utils/api.js';
 import '../../../solid/solid.js';
-define(de[2607], he([1, 0, 1159, 304, 13]), function (ce, e, t, i, w) {
+define(de[2607], he([1, 0, 1159, 304, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*api*/,
+ w /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.canShowPlaceholderFromCurrentEditorState = E),

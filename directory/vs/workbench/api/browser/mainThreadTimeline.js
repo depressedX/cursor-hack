@@ -9,7 +9,14 @@ import '../../../base/common/marshalling.js';
 define(
 			de[3373],
 			he([1, 0, 6, 34, 88, 101, 814, 197]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*log*/,
+ w /*extHost.protocol*/,
+ E /*extHostCustomers*/,
+ C /*timeline*/,
+ d /*marshalling*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nqc = void 0);

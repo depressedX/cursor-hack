@@ -10,7 +10,15 @@ import '../../../../base/common/lifecycle.js';
 define(
 			de[2930],
 			he([1, 0, 6, 65, 765, 501, 178, 8, 3]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*codeEditorService*/,
+ w /*inlineCompletionContextKeys*/,
+ E /*inlineCompletionsController*/,
+ C /*accessibleView*/,
+ d /*contextkey*/,
+ m /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Xhc = void 0);

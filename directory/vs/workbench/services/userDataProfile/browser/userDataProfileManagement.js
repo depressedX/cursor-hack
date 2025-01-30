@@ -23,7 +23,25 @@ define(
 				1, 0, 33, 29, 3, 82, 4, 57, 20, 34, 62, 327, 32, 129, 25, 78, 53, 87,
 				133,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*errors*/,
+ w /*lifecycle*/,
+ E /*objects*/,
+ C /*nls*/,
+ d /*dialogs*/,
+ m /*extensions*/,
+ r /*log*/,
+ u /*productService*/,
+ a /*request*/,
+ h /*telemetry*/,
+ c /*userDataProfile*/,
+ n /*workspace*/,
+ g /*environmentService*/,
+ p /*extensions*/,
+ o /*host*/,
+ f /*userDataProfile*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mxc = void 0);

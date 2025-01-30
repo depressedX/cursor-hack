@@ -8,7 +8,13 @@ import './keybindingCancellation.js';
 define(
 			de[439],
 			he([1, 0, 37, 17, 33, 3, 2806]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*range*/,
+ w /*cancellation*/,
+ E /*lifecycle*/,
+ C /*keybindingCancellation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ozb = e.$Nzb = e.$Mzb = e.CodeEditorStateFlag = void 0),

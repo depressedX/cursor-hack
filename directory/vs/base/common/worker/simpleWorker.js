@@ -10,7 +10,15 @@ import '../strings.js';
 define(
 			de[1584],
 			he([1, 0, 120, 29, 6, 3, 23, 12, 37]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*errors*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*network*/,
+ d /*platform*/,
+ m /*strings*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.SimpleWorkerServer = e.SimpleWorkerClient = void 0),

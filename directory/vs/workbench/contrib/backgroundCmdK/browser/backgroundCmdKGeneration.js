@@ -9,7 +9,14 @@ import '../../../../editor/common/services/resolverService.js';
 define(
 			de[1717],
 			he([1, 0, 3, 47, 193, 6, 64, 42]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*uuid*/,
+ w /*store*/,
+ E /*event*/,
+ C /*model*/,
+ d /*resolverService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_ec = void 0);

@@ -3,7 +3,11 @@ import '../../../../../../../exports.js';
 import '../../../../../../base/common/path.js';
 import './types.js';
 import './constants.js';
-define(de[3200], he([1, 0, 54, 444, 1271]), function (ce, e, t, i, w) {
+define(de[3200], he([1, 0, 54, 444, 1271]), function (ce /*require*/,
+ e /*exports*/,
+ t /*path*/,
+ i /*types*/,
+ w /*constants*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Z_b = E);
 			async function E(C, d, m, r) {

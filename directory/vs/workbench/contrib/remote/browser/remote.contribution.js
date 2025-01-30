@@ -12,7 +12,17 @@ import './remoteConnectionHealth.js';
 define(
 			de[4032],
 			he([1, 0, 55, 30, 3590, 52, 3591, 4031, 3634, 1058, 3561]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contributions*/,
+ i /*platform*/,
+ w /*showCandidate*/,
+ E /*lifecycle*/,
+ C /*tunnelFactory*/,
+ d /*remote*/,
+ m /*remoteIndicator*/,
+ r /*remoteExplorer*/,
+ u /*remoteConnectionHealth*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const a = i.$Io.as(t.Extensions.Workbench);

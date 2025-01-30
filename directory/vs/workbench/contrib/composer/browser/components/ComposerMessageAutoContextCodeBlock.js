@@ -15,7 +15,20 @@ import '../hooks/useComposerDataHandle.js';
 define(
 			de[4286],
 			he([1, 0, 2, 2, 2, 2, 13, 36, 225, 14, 1379, 1975, 9, 177]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*solid*/,
+ m /*composerData*/,
+ r /*codicons*/,
+ u /*ComposerMessageToolCallPill*/,
+ a /*ComposerReferenceComponents*/,
+ h /*uri*/,
+ c /*useComposerDataHandle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerMessageAutoContextCodeBlock = void 0);

@@ -4,7 +4,12 @@ import '../../instantiation/common/extensions.js';
 import '../../product/common/productService.js';
 import '../../instantiation/common/instantiation.js';
 import '../../notification/common/notification.js';
-define(de[668], he([1, 0, 20, 62, 5, 40]), function (ce, e, t, i, w, E) {
+define(de[668], he([1, 0, 20, 62, 5, 40]), function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*productService*/,
+ w /*instantiation*/,
+ E /*notification*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$kcc = void 0),

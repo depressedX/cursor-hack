@@ -17,7 +17,22 @@ import '../../../../platform/storage/common/storage.js';
 define(
 			de[3330],
 			he([1, 0, 4, 63, 392, 132, 53, 419, 424, 1815, 10, 28, 40, 57, 35, 21]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*quickInput*/,
+ w /*pickerQuickAccess*/,
+ E /*filters*/,
+ C /*extensions*/,
+ d /*taskService*/,
+ m /*tasks*/,
+ r /*taskQuickPick*/,
+ u /*configuration*/,
+ a /*types*/,
+ h /*notification*/,
+ c /*dialogs*/,
+ n /*themeService*/,
+ g /*storage*/) {
 				"use strict";
 				var p;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

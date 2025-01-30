@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import '../lexical-selection/api.js';
 import '../lexical/api.js';
-define(de[2594], he([1, 0, 921, 164]), function (ce, e, t, i) {
+define(de[2594], he([1, 0, 921, 164]), function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*api*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$generateNodesFromDOM = w),

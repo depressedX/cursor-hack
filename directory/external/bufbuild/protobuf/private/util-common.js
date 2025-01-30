@@ -7,7 +7,12 @@ import '../is-message.js';
 define(
 			de[2037],
 			he([1, 0, 1083, 526, 429, 524]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*enum*/,
+ i /*scalars*/,
+ w /*scalar*/,
+ E /*is-message*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.makeUtilCommon = C);

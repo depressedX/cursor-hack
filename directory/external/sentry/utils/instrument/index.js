@@ -8,7 +8,13 @@ import './handlers.js';
 define(
 			de[2088],
 			he([1, 0, 2080, 2087, 2077, 2078, 726]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*console*/,
+ i /*fetch*/,
+ w /*globalError*/,
+ E /*globalUnhandledRejection*/,
+ C /*handlers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.addFetchEndInstrumentationHandler =

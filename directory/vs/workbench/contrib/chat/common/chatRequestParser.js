@@ -11,7 +11,16 @@ import './languageModelToolsService.js';
 define(
 			de[1022],
 			he([1, 0, 289, 48, 17, 153, 329, 829, 503, 569]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*offsetRange*/,
+ i /*position*/,
+ w /*range*/,
+ E /*chatAgents*/,
+ C /*chatParserTypes*/,
+ d /*chatSlashCommands*/,
+ m /*chatVariables*/,
+ r /*languageModelToolsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$G2 = void 0);
 				const u = /^@([\w_\-\.]+)(?=(\s|$|\b))/i,

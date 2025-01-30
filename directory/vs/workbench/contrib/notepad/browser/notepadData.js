@@ -14,7 +14,19 @@ import '../../composer/browser/constants.js';
 define(
 			de[1870],
 			he([1, 0, 193, 47, 83, 298, 140, 21, 25, 205, 299, 225, 169]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*store*/,
+ i /*uuid*/,
+ w /*utils_pb*/,
+ E /*selectedContextData*/,
+ C /*chatData*/,
+ d /*storage*/,
+ m /*workspace*/,
+ r /*reactiveStorageTypes*/,
+ u /*utils*/,
+ a /*composerData*/,
+ h /*constants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$q9b = void 0),

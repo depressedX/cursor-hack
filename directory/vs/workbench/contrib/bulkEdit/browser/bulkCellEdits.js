@@ -12,7 +12,17 @@ import '../../../services/editor/common/editorService.js';
 define(
 			de[572],
 			he([1, 0, 24, 37, 28, 9, 199, 108, 70, 509, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*strings*/,
+ w /*types*/,
+ E /*uri*/,
+ C /*bulkEditService*/,
+ d /*notebookBrowser*/,
+ m /*notebookCommon*/,
+ r /*notebookEditorModelResolverService*/,
+ u /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$iJb = e.$hJb = void 0);

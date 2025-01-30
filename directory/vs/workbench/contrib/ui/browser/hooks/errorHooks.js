@@ -4,7 +4,12 @@ import '../../../../../../external/solid/solid.js';
 import '../../../../../../proto/aiserver/v1/utils_pb.js';
 import '../../../../../base/common/constants.js';
 import '../../../../../base/common/platform.js';
-define(de[3197], he([1, 0, 13, 83, 58, 12]), function (ce, e, t, i, w, E) {
+define(de[3197], he([1, 0, 13, 83, 58, 12]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*utils_pb*/,
+ w /*constants*/,
+ E /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$9ac = C);
 			function C(d) {

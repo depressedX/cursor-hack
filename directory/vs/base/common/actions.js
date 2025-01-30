@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './event.js';
 import './lifecycle.js';
 import '../../nls.js';
-define(de[50], he([1, 0, 6, 3, 4]), function (ce, e, t, i, w) {
+define(de[50], he([1, 0, 6, 3, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$vj = e.$uj = e.$tj = e.$sj = e.$rj = void 0),

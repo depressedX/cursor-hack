@@ -4,7 +4,12 @@ import '../../../base/common/event.js';
 import '../../../base/common/lifecycle.js';
 import '../../instantiation/common/instantiation.js';
 import './userDataSync.js';
-define(de[1212], he([1, 0, 6, 3, 5, 150]), function (ce, e, t, i, w, E) {
+define(de[1212], he([1, 0, 6, 3, 5, 150]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*instantiation*/,
+ E /*userDataSync*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$wwc = e.$vwc = void 0),

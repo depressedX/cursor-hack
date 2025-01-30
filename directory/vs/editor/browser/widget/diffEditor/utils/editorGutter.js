@@ -8,7 +8,13 @@ import '../../../../common/core/offsetRange.js';
 define(
 			de[2690],
 			he([1, 0, 7, 3, 77, 196, 289]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*observable*/,
+ E /*lineRange*/,
+ C /*offsetRange*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gyb = void 0);

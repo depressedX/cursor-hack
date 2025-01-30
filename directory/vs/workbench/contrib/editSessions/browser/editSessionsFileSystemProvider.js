@@ -8,7 +8,13 @@ import '../../../../base/common/errors.js';
 define(
 			de[3058],
 			he([1, 0, 3, 6, 22, 685, 29]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*event*/,
+ w /*files*/,
+ E /*editSessions*/,
+ C /*errors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$S1c = void 0);

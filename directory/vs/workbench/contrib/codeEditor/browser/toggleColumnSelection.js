@@ -12,7 +12,17 @@ import '../../../../editor/common/core/selection.js';
 define(
 			de[3021],
 			he([1, 0, 4, 11, 10, 8, 65, 38, 498, 48, 104]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*configuration*/,
+ E /*contextkey*/,
+ C /*codeEditorService*/,
+ d /*editorOptions*/,
+ m /*coreCommands*/,
+ r /*position*/,
+ u /*selection*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$WXc = void 0);

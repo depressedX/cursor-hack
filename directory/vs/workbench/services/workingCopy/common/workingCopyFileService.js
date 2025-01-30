@@ -15,7 +15,20 @@ import './storedFileWorkingCopySaveParticipant.js';
 define(
 			de[336],
 			he([1, 0, 5, 20, 6, 15, 24, 3, 22, 33, 227, 68, 3856, 3853]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*extensions*/,
+ w /*event*/,
+ E /*async*/,
+ C /*arrays*/,
+ d /*lifecycle*/,
+ m /*files*/,
+ r /*cancellation*/,
+ u /*workingCopyService*/,
+ a /*uriIdentity*/,
+ h /*workingCopyFileOperationParticipant*/,
+ c /*storedFileWorkingCopySaveParticipant*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jZ = e.$iZ = void 0),

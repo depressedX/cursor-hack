@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../utils/index.js';
 import '../debug-build.js';
-define(de[2102], he([1, 0, 80, 263]), function (ce, e, t, i) {
+define(de[2102], he([1, 0, 80, 263]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*debug-build*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.START_DELAY = e.MIN_DELAY = void 0),

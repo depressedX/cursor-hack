@@ -8,7 +8,13 @@ import '../../../services/editor/common/editorResolverService.js';
 define(
 			de[625],
 			he([1, 0, 24, 4, 8, 5, 231]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*nls*/,
+ w /*contextkey*/,
+ E /*instantiation*/,
+ C /*editorResolverService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nnc =

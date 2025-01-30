@@ -12,7 +12,17 @@ import '../../../services/notebook/common/notebookDocumentService.js';
 define(
 			de[70],
 			he([1, 0, 76, 215, 103, 266, 23, 54, 12, 8, 834]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*glob*/,
+ w /*iterator*/,
+ E /*mime*/,
+ C /*network*/,
+ d /*path*/,
+ m /*platform*/,
+ r /*contextkey*/,
+ u /*notebookDocumentService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$96 =

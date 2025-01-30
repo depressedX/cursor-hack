@@ -14,7 +14,19 @@ import './ComposerToolbarSimpleButton.js';
 define(
 			de[4282],
 			he([1, 0, 2, 2, 2, 13, 36, 167, 4281, 28, 41, 177, 485]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*solid*/,
+ d /*composer_pb*/,
+ m /*ComposerDiffReviewPure*/,
+ r /*types*/,
+ u /*opener*/,
+ a /*useComposerDataHandle*/,
+ h /*ComposerToolbarSimpleButton*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerDiffReviewMessage = void 0);

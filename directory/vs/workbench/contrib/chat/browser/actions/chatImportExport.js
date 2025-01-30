@@ -16,7 +16,21 @@ import '../../../../services/editor/common/editorService.js';
 define(
 			de[3809],
 			he([1, 0, 76, 19, 4, 11, 57, 22, 402, 208, 552, 207, 441, 218, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*resources*/,
+ w /*nls*/,
+ E /*actions*/,
+ C /*dialogs*/,
+ d /*files*/,
+ m /*chatActions*/,
+ r /*chat*/,
+ u /*chatEditorInput*/,
+ a /*chatContextKeys*/,
+ h /*chatModel*/,
+ c /*chatService*/,
+ n /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$JIc = o);
 				const g = "chat.json",

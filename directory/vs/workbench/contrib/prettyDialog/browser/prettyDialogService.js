@@ -13,7 +13,18 @@ import '../../../../base/common/event.js';
 define(
 			de[4305],
 			he([1, 0, 20, 45, 216, 559, 3, 4304, 5, 7, 180, 6]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*reactiveStorageService*/,
+ w /*tracing*/,
+ E /*prettyDialog*/,
+ C /*lifecycle*/,
+ d /*renderPrettyDialog*/,
+ m /*instantiation*/,
+ r /*dom*/,
+ u /*layoutService*/,
+ a /*event*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$hzc = void 0),

@@ -12,7 +12,17 @@ import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[1603],
 			he([1, 0, 33, 29, 9, 17, 67, 31, 69, 1599, 10]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*errors*/,
+ w /*uri*/,
+ E /*range*/,
+ C /*model*/,
+ d /*commands*/,
+ m /*languageFeatures*/,
+ r /*defaultDocumentColorProvider*/,
+ u /*configuration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$VBb = a),

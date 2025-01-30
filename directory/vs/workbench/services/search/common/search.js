@@ -13,7 +13,18 @@ import '../../../../base/common/async.js';
 define(
 			de[186],
 			he([1, 0, 24, 215, 82, 249, 37, 5, 54, 29, 1862, 15]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*glob*/,
+ w /*objects*/,
+ E /*extpath*/,
+ C /*strings*/,
+ d /*instantiation*/,
+ m /*path*/,
+ r /*errors*/,
+ u /*searchExtTypes*/,
+ a /*async*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$M7 =

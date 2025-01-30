@@ -9,7 +9,14 @@ import '../../../platform/languagePacks/common/languagePacks.js';
 define(
 			de[3356],
 			he([1, 0, 88, 101, 9, 22, 3, 672]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extHost.protocol*/,
+ i /*extHostCustomers*/,
+ w /*uri*/,
+ E /*files*/,
+ C /*lifecycle*/,
+ d /*languagePacks*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vmc = void 0);

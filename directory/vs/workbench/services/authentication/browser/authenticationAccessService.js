@@ -9,7 +9,14 @@ import '../../../../platform/storage/common/storage.js';
 define(
 			de[621],
 			he([1, 0, 6, 3, 20, 5, 62, 21]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*extensions*/,
+ E /*instantiation*/,
+ C /*productService*/,
+ d /*storage*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$esb = e.$dsb = void 0),

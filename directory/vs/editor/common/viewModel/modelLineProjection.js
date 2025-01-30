@@ -8,7 +8,13 @@ import '../viewModel.js';
 define(
 			de[2766],
 			he([1, 0, 388, 48, 64, 590, 290]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lineTokens*/,
+ i /*position*/,
+ w /*model*/,
+ E /*textModelEvents*/,
+ C /*viewModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$iwb = d);
 				function d(n, g) {

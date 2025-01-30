@@ -10,7 +10,15 @@ import '../is-message.js';
 define(
 			de[2034],
 			he([1, 0, 1085, 1086, 526, 451, 1399, 429, 524]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*binary-encoding*/,
+ i /*field-wrapper*/,
+ w /*scalars*/,
+ E /*assert*/,
+ C /*reflect*/,
+ d /*scalar*/,
+ m /*is-message*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.makeBinaryFormat = n),

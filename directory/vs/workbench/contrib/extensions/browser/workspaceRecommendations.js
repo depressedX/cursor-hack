@@ -16,7 +16,21 @@ import '../../../services/extensionManagement/common/extensionManagement.js';
 define(
 			de[3300],
 			he([1, 0, 119, 24, 553, 40, 314, 4, 6, 828, 25, 68, 22, 15, 157]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensionManagement*/,
+ i /*arrays*/,
+ w /*extensionRecommendations*/,
+ E /*notification*/,
+ C /*extensionRecommendations*/,
+ d /*nls*/,
+ m /*event*/,
+ r /*workspaceExtensionsConfig*/,
+ u /*workspace*/,
+ a /*uriIdentity*/,
+ h /*files*/,
+ c /*async*/,
+ n /*extensionManagement*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$FTc = void 0);

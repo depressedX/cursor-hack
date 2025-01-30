@@ -4,7 +4,12 @@ import '../../../../base/common/event.js';
 import '../../../../platform/registry/common/platform.js';
 import '../../../../platform/contextkey/common/contextkey.js';
 import '../../../../platform/instantiation/common/instantiation.js';
-define(de[297], he([1, 0, 6, 30, 8, 5]), function (ce, e, t, i, w, E) {
+define(de[297], he([1, 0, 6, 30, 8, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*platform*/,
+ w /*contextkey*/,
+ E /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$q8 =

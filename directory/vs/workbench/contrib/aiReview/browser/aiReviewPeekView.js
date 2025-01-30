@@ -16,7 +16,21 @@ import './renderAiReviewPeekHead.js';
 define(
 			de[4241],
 			he([1, 0, 97, 3, 17, 7, 98, 255, 5, 45, 35, 4240, 66, 18, 4136]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*color*/,
+ i /*lifecycle*/,
+ w /*range*/,
+ E /*dom*/,
+ C /*editorCommon*/,
+ d /*peekView*/,
+ m /*instantiation*/,
+ r /*reactiveStorageService*/,
+ u /*themeService*/,
+ a /*renderAiReviewPeekBody*/,
+ h /*editorGroupsService*/,
+ c /*editorService*/,
+ n /*renderAiReviewPeekHead*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$yed = p),

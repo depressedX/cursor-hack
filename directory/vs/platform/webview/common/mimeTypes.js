@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/mime.js';
 import '../../../base/common/path.js';
-define(de[2888], he([1, 0, 266, 54]), function (ce, e, t, i) {
+define(de[2888], he([1, 0, 266, 54]), function (ce /*require*/,
+ e /*exports*/,
+ t /*mime*/,
+ i /*path*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$c6c = E);
 			const w = new Map([

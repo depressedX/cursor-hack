@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/glob.js';
 import '../../../../base/common/path.js';
 import './notebookCommon.js';
-define(de[1849], he([1, 0, 215, 54, 70]), function (ce, e, t, i, w) {
+define(de[1849], he([1, 0, 215, 54, 70]), function (ce /*require*/,
+ e /*exports*/,
+ t /*glob*/,
+ i /*path*/,
+ w /*notebookCommon*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$LIb = void 0),

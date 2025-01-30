@@ -10,7 +10,15 @@ import '../../../base/common/objects.js';
 define(
 		de[57],
 		he([1, 0, 19, 111, 4, 5, 222, 12, 82]),
-		function (ce, e, t, i, w, E, C, d, m) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*resources*/,
+ i /*severity*/,
+ w /*nls*/,
+ E /*instantiation*/,
+ C /*labels*/,
+ d /*platform*/,
+ m /*objects*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ConfirmResult = e.$IO = e.$HO = e.$GO = void 0),

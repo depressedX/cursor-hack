@@ -9,7 +9,14 @@ import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3362],
 			he([1, 0, 33, 3, 9, 88, 803, 101]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*extHost.protocol*/,
+ C /*quickDiff*/,
+ d /*extHostCustomers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$hoc = void 0);

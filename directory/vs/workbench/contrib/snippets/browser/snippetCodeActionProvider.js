@@ -13,7 +13,18 @@ import './snippets.js';
 define(
 			de[3268],
 			he([1, 0, 3, 104, 69, 291, 4, 10, 5, 1289, 1754, 510]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*selection*/,
+ w /*languageFeatures*/,
+ E /*types*/,
+ C /*nls*/,
+ d /*configuration*/,
+ m /*instantiation*/,
+ r /*fileTemplateSnippets*/,
+ u /*surroundWithSnippet*/,
+ a /*snippets*/) {
 				"use strict";
 				var h, c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

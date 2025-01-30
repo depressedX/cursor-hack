@@ -16,7 +16,21 @@ import '../../../../platform/notification/common/notification.js';
 define(
 			de[3169],
 			he([1, 0, 14, 10, 63, 117, 514, 689, 4, 35, 26, 145, 79, 54, 40]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*configuration*/,
+ w /*quickInput*/,
+ E /*terminal*/,
+ C /*terminalIcon*/,
+ d /*terminalIcons*/,
+ m /*nls*/,
+ r /*themeService*/,
+ u /*themables*/,
+ a /*terminal*/,
+ h /*iconRegistry*/,
+ c /*path*/,
+ n /*notification*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jUc = void 0),

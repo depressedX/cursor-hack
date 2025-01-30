@@ -14,7 +14,19 @@ import '../is-message.js';
 define(
 			de[2035],
 			he([1, 0, 451, 525, 1084, 1087, 1398, 1399, 1086, 526, 526, 429, 524]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*proto-int64*/,
+ w /*proto-base64*/,
+ E /*extensions*/,
+ C /*extension-accessor*/,
+ d /*reflect*/,
+ m /*field-wrapper*/,
+ r /*scalars*/,
+ u /*scalars*/,
+ a /*scalar*/,
+ h /*is-message*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.makeJsonFormat = b);

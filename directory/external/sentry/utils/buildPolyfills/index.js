@@ -9,7 +9,14 @@ import './_optionalChainDelete.js';
 define(
 			de[2066],
 			he([1, 0, 2064, 1418, 2063, 1419, 1420, 2065]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*_asyncNullishCoalesce*/,
+ i /*_asyncOptionalChain*/,
+ w /*_asyncOptionalChainDelete*/,
+ E /*_nullishCoalesce*/,
+ C /*_optionalChain*/,
+ d /*_optionalChainDelete*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e._optionalChainDelete =

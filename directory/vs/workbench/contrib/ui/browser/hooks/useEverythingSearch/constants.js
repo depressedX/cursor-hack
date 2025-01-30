@@ -1,7 +1,9 @@
 import '../../../../../../../require.js';
 import '../../../../../../../exports.js';
 import '../../../../../../base/common/network.js';
-define(de[1271], he([1, 0, 23]), function (ce, e, t) {
+define(de[1271], he([1, 0, 23]), function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$M_b = e.$L_b = e.$K_b = e.$J_b = e.$I_b = e.$H_b = void 0),

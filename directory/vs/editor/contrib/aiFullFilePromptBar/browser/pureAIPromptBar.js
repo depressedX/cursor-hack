@@ -22,7 +22,25 @@ define(
 			he([
 				1, 0, 2, 2, 2, 2, 2, 2, 13, 160, 14, 54, 12, 9, 36, 156, 428, 422, 147,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*hoverWidget*/,
+ u /*codicons*/,
+ a /*path*/,
+ h /*platform*/,
+ c /*uri*/,
+ n /*solid*/,
+ g /*pureIcon*/,
+ p /*useIsUsingFileIconTheme*/,
+ o /*useVSHoverTooltip*/,
+ f /*simpleButton*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$nlc = I);
 				const b = (0, t.template)("<span>"),

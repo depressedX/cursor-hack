@@ -9,7 +9,14 @@ import '../../../common/contributions.js';
 define(
 			de[3415],
 			he([1, 0, 29, 3, 65, 588, 5, 55]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*lifecycle*/,
+ w /*codeEditorService*/,
+ E /*editorFeatures*/,
+ C /*instantiation*/,
+ d /*contributions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let m = class extends i.$1c {

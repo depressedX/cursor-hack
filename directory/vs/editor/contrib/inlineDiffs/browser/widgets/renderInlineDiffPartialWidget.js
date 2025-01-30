@@ -12,7 +12,16 @@ import '../../../../../css!vs/editor/contrib/inlineDiffs/browser/widgets/inlineD
 define(
 			de[2956],
 			he([1, 0, 2, 2, 2, 13, 58, 534, 212, 270, 906]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*constants*/,
+ d /*inlineDiffTypes*/,
+ m /*theme*/,
+ r /*aiConfigHelper*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$udc = h);
 				const u = (0, t.template)(

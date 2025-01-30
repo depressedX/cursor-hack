@@ -8,7 +8,13 @@ import '../common/mainProcessService.js';
 define(
 			de[230],
 			he([1, 0, 305, 102, 20, 5, 371]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*ipc*/,
+ i /*descriptors*/,
+ w /*extensions*/,
+ E /*instantiation*/,
+ C /*mainProcessService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Vbd = void 0),

@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../../platform/storage/common/storage.js';
 import '../../base/common/types.js';
 import '../../base/common/errors.js';
-define(de[282], he([1, 0, 21, 28, 29]), function (ce, e, t, i, w) {
+define(de[282], he([1, 0, 21, 28, 29]), function (ce /*require*/,
+ e /*exports*/,
+ t /*storage*/,
+ i /*types*/,
+ w /*errors*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$eEb = void 0);
 			class E {

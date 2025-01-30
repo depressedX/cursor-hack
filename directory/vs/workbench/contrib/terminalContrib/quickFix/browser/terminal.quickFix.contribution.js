@@ -19,7 +19,21 @@ define(
 			he([
 				1, 0, 27, 3, 4, 20, 5, 43, 363, 378, 237, 998, 3315, 3164, 3332, 2499,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*lifecycle*/,
+ w /*nls*/,
+ E /*extensions*/,
+ C /*instantiation*/,
+ d /*keybindingsRegistry*/,
+ m /*terminalActions*/,
+ r /*terminalExtensions*/,
+ u /*terminalContextKey*/,
+ a /*quickFix*/,
+ h /*quickFixAddon*/,
+ c /*terminalQuickFixBuiltinActions*/,
+ n /*terminalQuickFixService*/) {
 				"use strict";
 				var g;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/iterator.js';
 import './testTypes.js';
 import './testingStates.js';
-define(de[1773], he([1, 0, 103, 185, 563]), function (ce, e, t, i, w) {
+define(de[1773], he([1, 0, 103, 185, 563]), function (ce /*require*/,
+ e /*exports*/,
+ t /*iterator*/,
+ i /*testTypes*/,
+ w /*testingStates*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$D4 = void 0);
 			const E = (a) => "getOwnDuration" in a,

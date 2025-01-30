@@ -14,7 +14,19 @@ import '../../../../base/common/async.js';
 define(
 			de[1004],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 13, 7, 15]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*solid*/,
+ a /*dom*/,
+ h /*async*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$q$b = p);
 				const c = (0, t.template)("<div><div>"),

@@ -9,7 +9,14 @@ import './strings.js';
 define(
 			de[222],
 			he([1, 0, 24, 249, 54, 12, 19, 37]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*extpath*/,
+ w /*path*/,
+ E /*platform*/,
+ C /*resources*/,
+ d /*strings*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wO = m),

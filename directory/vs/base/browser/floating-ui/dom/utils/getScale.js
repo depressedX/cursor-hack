@@ -7,7 +7,12 @@ import './unwrapElement.js';
 define(
 			de[929],
 			he([1, 0, 1572, 324, 900, 1574]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getCssDimensions*/,
+ i /*is*/,
+ w /*math*/,
+ E /*unwrapElement*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tmb = void 0),

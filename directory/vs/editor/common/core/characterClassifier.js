@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/uint.js';
-define(de[654], he([1, 0, 210]), function (ce, e, t) {
+define(de[654], he([1, 0, 210]), function (ce /*require*/,
+ e /*exports*/,
+ t /*uint*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$OL = e.$NL = void 0);

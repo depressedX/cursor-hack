@@ -13,7 +13,18 @@ import '../../../services/userDataProfile/browser/iconSelectBox.js';
 define(
 			de[3752],
 			he([1, 0, 7, 160, 1506, 149, 3, 72, 5, 106, 79, 1896]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*hoverWidget*/,
+ w /*codiconsLibrary*/,
+ E /*lazy*/,
+ C /*lifecycle*/,
+ d /*hover*/,
+ m /*instantiation*/,
+ r /*defaultStyles*/,
+ u /*iconRegistry*/,
+ a /*iconSelectBox*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jVc = void 0);

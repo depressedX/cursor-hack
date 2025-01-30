@@ -21,7 +21,22 @@ define(
 				1, 0, 7, 432, 24, 3, 26, 56, 1208, 281, 38, 48, 462, 533, 598, 1219,
 				2320,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*trustedTypes*/,
+ w /*arrays*/,
+ E /*lifecycle*/,
+ C /*themables*/,
+ d /*editorBrowser*/,
+ m /*viewLine*/,
+ r /*embeddedCodeEditorWidget*/,
+ u /*editorOptions*/,
+ a /*position*/,
+ h /*stringBuilder*/,
+ c /*lineDecorations*/,
+ n /*viewLineRenderer*/,
+ g /*foldingDecorations*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ikc = e.$hkc = void 0),

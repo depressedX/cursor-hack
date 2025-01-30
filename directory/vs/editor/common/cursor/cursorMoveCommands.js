@@ -9,7 +9,14 @@ import '../core/range.js';
 define(
 			de[1193],
 			he([1, 0, 28, 346, 1192, 944, 48, 17]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*types*/,
+ i /*cursorCommon*/,
+ w /*cursorMoveOperations*/,
+ E /*cursorWordOperations*/,
+ C /*position*/,
+ d /*range*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.CursorMove = e.$Htb = void 0),

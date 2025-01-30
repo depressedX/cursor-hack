@@ -8,7 +8,13 @@ import '../notebookBrowser.js';
 define(
 			de[3504],
 			he([1, 0, 7, 194, 345, 35, 108]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*fastDomNode*/,
+ w /*pixelRatio*/,
+ E /*themeService*/,
+ C /*notebookBrowser*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$o4b = void 0);

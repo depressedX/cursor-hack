@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/charCode.js';
 import '../../../../base/common/search.js';
-define(de[1550], he([1, 0, 120, 1507]), function (ce, e, t, i) {
+define(de[1550], he([1, 0, 120, 1507]), function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*search*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$01b = e.$91b = void 0),

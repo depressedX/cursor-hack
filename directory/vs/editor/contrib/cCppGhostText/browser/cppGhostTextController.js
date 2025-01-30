@@ -14,7 +14,19 @@ import '../../../../platform/reactivestorage/common/reactiveStorageTypes.js';
 define(
 			de[1345],
 			he([1, 0, 149, 3, 46, 17, 71, 3936, 8, 5, 45, 58, 134]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lazy*/,
+ i /*lifecycle*/,
+ w /*editorExtensions*/,
+ E /*range*/,
+ C /*editorContextKeys*/,
+ d /*cppGhostTextWidget*/,
+ m /*contextkey*/,
+ r /*instantiation*/,
+ u /*reactiveStorageService*/,
+ a /*constants*/,
+ h /*reactiveStorageTypes*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

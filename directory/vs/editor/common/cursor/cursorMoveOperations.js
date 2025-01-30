@@ -11,7 +11,16 @@ import '../model.js';
 define(
 			de[1192],
 			he([1, 0, 37, 210, 435, 48, 17, 1528, 346, 64]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*uint*/,
+ w /*cursorColumns*/,
+ E /*position*/,
+ C /*range*/,
+ d /*cursorAtomicMoveOperations*/,
+ m /*cursorCommon*/,
+ r /*model*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Dtb = e.$Ctb = void 0),

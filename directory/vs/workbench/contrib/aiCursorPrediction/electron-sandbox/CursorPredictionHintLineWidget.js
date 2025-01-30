@@ -9,7 +9,14 @@ import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[2965],
 			he([1, 0, 3, 56, 7, 35, 38, 10]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*editorBrowser*/,
+ w /*dom*/,
+ E /*themeService*/,
+ C /*editorOptions*/,
+ d /*configuration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0ed = void 0),

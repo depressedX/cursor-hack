@@ -16,7 +16,21 @@ import '../../../services/views/common/viewsService.js';
 define(
 			de[1909],
 			he([1, 0, 3, 77, 4, 10, 1335, 443, 353, 630, 563, 421, 381, 185, 89]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*nls*/,
+ E /*configuration*/,
+ C /*testCoverageBars*/,
+ d /*configuration*/,
+ m /*constants*/,
+ r /*testCoverageService*/,
+ u /*testingStates*/,
+ a /*testResult*/,
+ h /*testResultService*/,
+ c /*testTypes*/,
+ n /*viewsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$CMc = e.$BMc = e.$AMc = void 0);

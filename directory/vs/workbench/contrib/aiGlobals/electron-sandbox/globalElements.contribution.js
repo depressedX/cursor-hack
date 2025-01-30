@@ -16,7 +16,20 @@ import './globalElementsActions.js';
 define(
 			de[4333],
 			he([1, 0, 30, 55, 52, 25, 96, 21, 31, 45, 180, 5, 4332, 371, 3940]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*contributions*/,
+ w /*lifecycle*/,
+ E /*workspace*/,
+ C /*layoutService*/,
+ d /*storage*/,
+ m /*commands*/,
+ r /*reactiveStorageService*/,
+ u /*layoutService*/,
+ a /*instantiation*/,
+ h /*globalElementsComponent*/,
+ c /*mainProcessService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Nfd = void 0);

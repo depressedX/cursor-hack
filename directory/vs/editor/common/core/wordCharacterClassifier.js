@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/charCode.js';
 import '../../../base/common/map.js';
 import './characterClassifier.js';
-define(de[747], he([1, 0, 120, 59, 654]), function (ce, e, t, i, w) {
+define(de[747], he([1, 0, 120, 59, 654]), function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*map*/,
+ w /*characterClassifier*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$PL = e.WordCharacterClass = void 0),

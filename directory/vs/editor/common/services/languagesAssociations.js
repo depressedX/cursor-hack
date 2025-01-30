@@ -10,7 +10,15 @@ import '../languages/modesRegistry.js';
 define(
 			de[671],
 			he([1, 0, 215, 266, 23, 54, 19, 37, 172]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*glob*/,
+ i /*mime*/,
+ w /*network*/,
+ E /*path*/,
+ C /*resources*/,
+ d /*strings*/,
+ m /*modesRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$hYb = h),

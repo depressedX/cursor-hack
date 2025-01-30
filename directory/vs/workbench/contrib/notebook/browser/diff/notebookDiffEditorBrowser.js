@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../platform/contextkey/common/contextkey.js';
 import '../../../../../nls.js';
-define(de[556], he([1, 0, 8, 4]), function (ce, e, t, i) {
+define(de[556], he([1, 0, 8, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*contextkey*/,
+ i /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$IEc =

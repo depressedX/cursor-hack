@@ -7,7 +7,12 @@ import '../../chat/common/chatWordCounter.js';
 define(
 			de[1734],
 			he([1, 0, 188, 64, 15, 790]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editOperation*/,
+ i /*model*/,
+ w /*async*/,
+ E /*chatWordCounter*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_Yb = C),

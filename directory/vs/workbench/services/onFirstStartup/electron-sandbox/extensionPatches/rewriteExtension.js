@@ -13,7 +13,18 @@ import '../../../../../base/common/semver/semver.js';
 define(
 			de[3516],
 			he([1, 0, 76, 19, 3510, 3511, 3512, 3513, 3514, 3515, 3509, 464]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*resources*/,
+ w /*devContainers*/,
+ E /*openRemoteSsh*/,
+ C /*otherPython*/,
+ d /*python*/,
+ m /*remoteSsh*/,
+ r /*wsl*/,
+ u /*basedPyright*/,
+ a /*semver*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Icd = void 0),

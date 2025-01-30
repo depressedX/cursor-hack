@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import '../../base/common/glob.js';
 import '../../base/common/path.js';
-define(de[933], he([1, 0, 215, 54]), function (ce, e, t, i) {
+define(de[933], he([1, 0, 215, 54]), function (ce /*require*/,
+ e /*exports*/,
+ t /*glob*/,
+ i /*path*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$3L = w),

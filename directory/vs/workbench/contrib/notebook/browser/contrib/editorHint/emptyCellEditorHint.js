@@ -18,7 +18,23 @@ import '../../../../../services/editor/common/editorService.js';
 define(
 			de[3984],
 			he([1, 0, 23, 46, 31, 10, 8, 49, 72, 39, 62, 45, 32, 1933, 108, 66, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*editorExtensions*/,
+ w /*commands*/,
+ E /*configuration*/,
+ C /*contextkey*/,
+ d /*contextView*/,
+ m /*hover*/,
+ r /*keybinding*/,
+ u /*productService*/,
+ a /*reactiveStorageService*/,
+ h /*telemetry*/,
+ c /*emptyTextEditorHint*/,
+ n /*notebookBrowser*/,
+ g /*editorGroupsService*/,
+ p /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$KFc = void 0);

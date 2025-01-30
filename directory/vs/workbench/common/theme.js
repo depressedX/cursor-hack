@@ -4,7 +4,12 @@ import '../../nls.js';
 import '../../platform/theme/common/colorRegistry.js';
 import '../../base/common/color.js';
 import '../../platform/theme/common/theme.js';
-define(de[123], he([1, 0, 4, 51, 97, 212]), function (ce, e, t, i, w, E) {
+define(de[123], he([1, 0, 4, 51, 97, 212]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*colorRegistry*/,
+ w /*color*/,
+ E /*theme*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$_Gb =

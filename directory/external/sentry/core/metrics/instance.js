@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import './constants.js';
 import './utils.js';
-define(de[1440], he([1, 0, 880, 886]), function (ce, e, t, i) {
+define(de[1440], he([1, 0, 880, 886]), function (ce /*require*/,
+ e /*exports*/,
+ t /*constants*/,
+ i /*utils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.METRIC_MAP =

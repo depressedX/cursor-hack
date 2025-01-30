@@ -13,7 +13,17 @@ import '../../../../css!vs/base/browser/ui/toolbar/toolbar.js';
 define(
 			de[461],
 			he([1, 0, 105, 437, 50, 14, 26, 6, 3, 4, 95, 2258]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actionbar*/,
+ i /*dropdownActionViewItem*/,
+ w /*actions*/,
+ E /*codicons*/,
+ C /*themables*/,
+ d /*event*/,
+ m /*lifecycle*/,
+ r /*nls*/,
+ u /*hoverDelegateFactory*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$kpb = e.$jpb = void 0),

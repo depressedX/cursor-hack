@@ -8,7 +8,13 @@ import '../../solid/solid.js';
 define(
 			de[2601],
 			he([1, 0, 924, 164, 181, 304, 13]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*api*/,
+ w /*LexicalComposerContext*/,
+ E /*api*/,
+ C /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.CheckListPlugin = d),

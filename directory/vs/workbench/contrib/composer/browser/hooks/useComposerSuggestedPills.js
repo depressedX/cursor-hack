@@ -14,7 +14,19 @@ import '../../../../../base/common/resources.js';
 define(
 			de[4151],
 			he([1, 0, 13, 9, 15, 1273, 299, 1007, 9, 36, 270, 58, 19]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*uri*/,
+ w /*async*/,
+ E /*getUnrepeatedFileNames*/,
+ C /*utils*/,
+ d /*chatAndComposerSuggestedFileReranking*/,
+ m /*uri*/,
+ r /*solid*/,
+ u /*aiConfigHelper*/,
+ a /*constants*/,
+ h /*resources*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.useComposerSuggestedPills = p);

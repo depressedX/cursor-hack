@@ -15,7 +15,20 @@ import './hallucinatedFunction.js';
 define(
 			de[1706],
 			he([1, 0, 3, 6, 5, 20, 17, 47, 64, 45, 19, 2972, 2971, 2970]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*event*/,
+ w /*instantiation*/,
+ E /*extensions*/,
+ C /*range*/,
+ d /*uuid*/,
+ m /*model*/,
+ r /*reactiveStorageService*/,
+ u /*resources*/,
+ a /*hallucinatedFunctionImplementation*/,
+ h /*hallucinatedFunctionChatMessage*/,
+ c /*hallucinatedFunction*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ucc = e.$Tcc = void 0),

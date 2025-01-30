@@ -21,7 +21,24 @@ define(
 			he([
 				1, 0, 24, 103, 3, 273, 12, 9, 74, 4, 10, 5, 34, 41, 63, 1033, 1783, 131,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*iterator*/,
+ w /*lifecycle*/,
+ E /*linkedList*/,
+ C /*platform*/,
+ d /*uri*/,
+ m /*languages*/,
+ r /*nls*/,
+ u /*configuration*/,
+ a /*instantiation*/,
+ h /*log*/,
+ c /*opener*/,
+ n /*quickInput*/,
+ g /*configuration*/,
+ p /*urlGlob*/,
+ o /*preferences*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ExternalUriOpenerService = e.IExternalUriOpenerService = void 0),

@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../../proto/aiserver/v1/interpreter_pb.js';
-define(de[1707], he([1, 0, 1115]), function (ce, e, t) {
+define(de[1707], he([1, 0, 1115]), function (ce /*require*/,
+ e /*exports*/,
+ t /*interpreter_pb*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$aHb = i),

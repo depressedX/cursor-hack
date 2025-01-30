@@ -10,7 +10,15 @@ import './userDataSync.js';
 define(
 			de[2938],
 			he([1, 0, 6, 3, 12, 113, 21, 32, 150]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*environment*/,
+ C /*storage*/,
+ d /*telemetry*/,
+ m /*userDataSync*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$J5c = void 0);

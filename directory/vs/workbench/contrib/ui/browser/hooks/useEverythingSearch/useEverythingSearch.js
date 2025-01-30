@@ -13,7 +13,18 @@ import './types.js';
 define(
 			de[1071],
 			he([1, 0, 13, 33, 36, 3202, 3919, 3198, 3199, 3201, 3200, 444]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*cancellation*/,
+ w /*solid*/,
+ E /*searchFiles*/,
+ C /*searchFolders*/,
+ d /*searchGit*/,
+ m /*searchNotepads*/,
+ r /*searchSymbols*/,
+ u /*searchSemantics*/,
+ a /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$1_b = h);
 				function h(c, n, g, p) {

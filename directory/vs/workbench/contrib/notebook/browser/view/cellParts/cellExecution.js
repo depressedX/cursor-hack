@@ -10,7 +10,15 @@ import '../../../common/notebookExecutionStateService.js';
 define(
 			de[4094],
 			he([1, 0, 7, 15, 3, 201, 294, 482, 190]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*async*/,
+ w /*lifecycle*/,
+ E /*numbers*/,
+ C /*cellPart*/,
+ d /*codeCellViewModel*/,
+ m /*notebookExecutionStateService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$K3b = void 0),

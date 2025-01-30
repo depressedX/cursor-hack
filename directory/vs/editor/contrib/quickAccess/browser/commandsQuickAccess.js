@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/iconLabels.js';
 import '../../../../platform/action/common/action.js';
 import '../../../../platform/quickinput/browser/commandsQuickAccess.js';
-define(de[2900], he([1, 0, 274, 599, 679]), function (ce, e, t, i, w) {
+define(de[2900], he([1, 0, 274, 599, 679]), function (ce /*require*/,
+ e /*exports*/,
+ t /*iconLabels*/,
+ i /*action*/,
+ w /*commandsQuickAccess*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$NMc = void 0);
 			class E extends w.$P0b {

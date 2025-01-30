@@ -8,7 +8,13 @@ import '../../../../base/common/constants.js';
 define(
 			de[2957],
 			he([1, 0, 58, 81, 134, 30, 58]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*constants*/,
+ i /*configurationRegistry*/,
+ w /*reactiveStorageTypes*/,
+ E /*platform*/,
+ C /*constants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const d = E.$Io.as(i.$No.Configuration);

@@ -14,7 +14,19 @@ import '../../../../common/editor/diffEditorInput.js';
 define(
 			de[3864],
 			he([1, 0, 4, 1336, 32, 35, 844, 220, 21, 116, 231, 44, 296]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*binaryEditor*/,
+ w /*telemetry*/,
+ E /*themeService*/,
+ C /*fileEditorInput*/,
+ d /*files*/,
+ m /*storage*/,
+ r /*editor*/,
+ u /*editorResolverService*/,
+ a /*editor*/,
+ h /*diffEditorInput*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

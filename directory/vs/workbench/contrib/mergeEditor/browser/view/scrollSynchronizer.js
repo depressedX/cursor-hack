@@ -8,7 +8,13 @@ import '../../../../../base/common/controlFlow.js';
 define(
 			de[3085],
 			he([1, 0, 3, 77, 98, 686, 1132]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*editorCommon*/,
+ E /*mapping*/,
+ C /*controlFlow*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ORc = void 0);

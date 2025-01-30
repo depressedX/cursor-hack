@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import './getOppositeAlignmentPlacement.js';
 import './getOppositePlacement.js';
-define(de[2198], he([1, 0, 1120, 1121]), function (ce, e, t, i) {
+define(de[2198], he([1, 0, 1120, 1121]), function (ce /*require*/,
+ e /*exports*/,
+ t /*getOppositeAlignmentPlacement*/,
+ i /*getOppositePlacement*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$1lb = w);
 			function w(E) {

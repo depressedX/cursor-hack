@@ -15,7 +15,20 @@ import '../../../services/preferences/common/preferencesEditorInput.js';
 define(
 			de[3848],
 			he([1, 0, 6, 3, 12, 19, 129, 150, 89, 141, 18, 87, 1310, 1312]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*resources*/,
+ C /*userDataProfile*/,
+ d /*userDataSync*/,
+ m /*viewsService*/,
+ r /*extensions*/,
+ u /*editorService*/,
+ a /*host*/,
+ h /*keybindingsEditorInput*/,
+ c /*preferencesEditorInput*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$f1c = void 0);

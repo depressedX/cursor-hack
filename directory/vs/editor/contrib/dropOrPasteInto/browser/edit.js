@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../browser/services/bulkEditService.js';
 import '../../snippet/browser/snippetParser.js';
-define(de[1181], he([1, 0, 199, 389]), function (ce, e, t, i) {
+define(de[1181], he([1, 0, 199, 389]), function (ce /*require*/,
+ e /*exports*/,
+ t /*bulkEditService*/,
+ i /*snippetParser*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Jzb = w),

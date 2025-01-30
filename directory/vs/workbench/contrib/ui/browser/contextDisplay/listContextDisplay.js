@@ -18,7 +18,22 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/contextDisplay/listCo
 define(
 			de[1070],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 13, 19, 36, 156, 564, 818, 2515]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*solid*/,
+ a /*resources*/,
+ h /*solid*/,
+ c /*pureIcon*/,
+ n /*badge*/,
+ g /*HighlightedLabel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$1cc = s);
 				const p = (0, t.template)("<div>"),

@@ -25,7 +25,26 @@ define(
 				1, 0, 2, 2, 2, 2, 2, 2, 13, 26, 36, 2997, 4350, 4230, 4341, 135, 331,
 				4138, 722, 7, 2373,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*themables*/,
+ u /*solid*/,
+ a /*constants*/,
+ h /*settingsFeaturesTab*/,
+ c /*settingsGeneralTab*/,
+ n /*settingsModelsTab*/,
+ g /*scrollableDiv*/,
+ p /*useThemeHooks*/,
+ o /*settingsBetaTab*/,
+ f /*hooks*/,
+ b /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ODc = $);
 				const s = (0, t.template)(

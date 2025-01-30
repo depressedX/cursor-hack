@@ -10,7 +10,15 @@ import './lib/whenActivated.js';
 define(
 			de[2095],
 			he([1, 0, 366, 635, 637, 576, 729, 2057, 730]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*types*/,
+ i /*bindReporter*/,
+ w /*initMetric*/,
+ E /*observe*/,
+ C /*onHidden*/,
+ d /*interactionCountPolyfill*/,
+ m /*whenActivated*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.onINP = e.INPThresholds = void 0),

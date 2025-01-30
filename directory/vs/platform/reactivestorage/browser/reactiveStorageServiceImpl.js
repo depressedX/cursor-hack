@@ -16,7 +16,21 @@ import '../../../base/common/event.js';
 define(
 			de[1679],
 			he([1, 0, 45, 205, 193, 3, 21, 5, 59, 47, 58, 13, 34, 2729, 6]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*reactiveStorageService*/,
+ i /*reactiveStorageTypes*/,
+ w /*store*/,
+ E /*lifecycle*/,
+ C /*storage*/,
+ d /*instantiation*/,
+ m /*map*/,
+ r /*uuid*/,
+ u /*constants*/,
+ a /*solid*/,
+ h /*log*/,
+ c /*devOnlyRedisStorageService*/,
+ n /*event*/) {
 				"use strict";
 				var g;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

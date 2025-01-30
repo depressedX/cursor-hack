@@ -8,7 +8,13 @@ import './bugBotLinterPreviewBoxWidget.js';
 define(
 			de[1989],
 			he([1, 0, 149, 3, 8, 5, 4269]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lazy*/,
+ i /*lifecycle*/,
+ w /*contextkey*/,
+ E /*instantiation*/,
+ C /*bugBotLinterPreviewBoxWidget*/) {
 				"use strict";
 				var d;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

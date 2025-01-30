@@ -9,7 +9,14 @@ import './shadowWorkspaceServer.js';
 define(
 			de[3707],
 			he([1, 0, 3, 20, 5, 151, 1871, 3706]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*extensions*/,
+ w /*instantiation*/,
+ E /*environmentService*/,
+ C /*shadowWorkspaceServerService*/,
+ d /*shadowWorkspaceServer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Kdd = void 0);

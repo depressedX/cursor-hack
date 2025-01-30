@@ -9,7 +9,14 @@ import '../modelLineProjectionData.js';
 define(
 			de[2767],
 			he([1, 0, 120, 37, 38, 654, 590, 1629]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*strings*/,
+ w /*editorOptions*/,
+ E /*characterClassifier*/,
+ C /*textModelEvents*/,
+ d /*modelLineProjectionData*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Svb = void 0),

@@ -16,7 +16,21 @@ import '../../../../contrib/composer/browser/composer.js';
 define(
 			de[3976],
 			he([1, 0, 124, 22, 398, 241, 167, 209, 271, 45, 426, 225, 193, 42, 219]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*files*/,
+ w /*toolsV2HandlerRegistryService*/,
+ E /*magicLinkService*/,
+ C /*composer_pb*/,
+ d /*composerDataService*/,
+ m /*selectedContext*/,
+ r /*reactiveStorageService*/,
+ u /*composerUtilsService*/,
+ a /*composerData*/,
+ h /*store*/,
+ c /*resolverService*/,
+ n /*composer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$_yc = void 0);

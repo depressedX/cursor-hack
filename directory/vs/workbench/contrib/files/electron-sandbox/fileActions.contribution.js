@@ -24,7 +24,26 @@ define(
 				1, 0, 4, 25, 12, 23, 110, 43, 71, 27, 382, 18, 3063, 11, 100, 1993, 44,
 				8, 93, 66,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*workspace*/,
+ w /*platform*/,
+ E /*network*/,
+ C /*native*/,
+ d /*keybindingsRegistry*/,
+ m /*editorContextKeys*/,
+ r /*keyCodes*/,
+ u /*files*/,
+ a /*editorService*/,
+ h /*fileCommands*/,
+ c /*actions*/,
+ n /*contextkeys*/,
+ g /*fileActions.contribution*/,
+ p /*editor*/,
+ o /*contextkey*/,
+ f /*listService*/,
+ b /*editorGroupsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (t = mt(t));
 				const s = "revealFileInOS",

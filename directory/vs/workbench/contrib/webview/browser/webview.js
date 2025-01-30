@@ -10,7 +10,15 @@ import '../../../common/memento.js';
 define(
 			de[355],
 			he([1, 0, 24, 19, 47, 8, 5, 21, 282]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*resources*/,
+ w /*uuid*/,
+ E /*contextkey*/,
+ C /*instantiation*/,
+ d /*storage*/,
+ m /*memento*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6Ib =

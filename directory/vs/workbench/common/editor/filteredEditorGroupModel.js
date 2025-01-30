@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../editor.js';
 import '../../../base/common/event.js';
 import '../../../base/common/lifecycle.js';
-define(de[1700], he([1, 0, 44, 6, 3]), function (ce, e, t, i, w) {
+define(de[1700], he([1, 0, 44, 6, 3]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editor*/,
+ i /*event*/,
+ w /*lifecycle*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$jtc = e.$itc = void 0);

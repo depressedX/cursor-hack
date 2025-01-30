@@ -12,7 +12,17 @@ import '../../common/notebookLoggingService.js';
 define(
 			de[3531],
 			he([1, 0, 3, 4, 31, 174, 1308, 70, 190, 243, 557]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*nls*/,
+ w /*commands*/,
+ E /*workspaceTrust*/,
+ C /*notebookKernelQuickPickStrategy*/,
+ d /*notebookCommon*/,
+ m /*notebookExecutionStateService*/,
+ r /*notebookKernelService*/,
+ u /*notebookLoggingService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$LGc = void 0),

@@ -9,7 +9,14 @@ import '../utils/getSide.js';
 define(
 			de[2204],
 			he([1, 0, 645, 1495, 2198, 2202, 1121, 487]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*detectOverflow*/,
+ i /*getAlignmentSides*/,
+ w /*getExpandedPlacements*/,
+ E /*getOppositeAxisPlacements*/,
+ C /*getOppositePlacement*/,
+ d /*getSide*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.flip = void 0);

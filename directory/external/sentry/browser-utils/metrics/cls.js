@@ -9,7 +9,14 @@ import './web-vitals/lib/onHidden.js';
 define(
 			de[2131],
 			he([1, 0, 144, 80, 878, 885, 1102, 729]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*debug-build*/,
+ E /*instrument*/,
+ C /*utils*/,
+ d /*onHidden*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.trackClsAsStandaloneSpan = m);

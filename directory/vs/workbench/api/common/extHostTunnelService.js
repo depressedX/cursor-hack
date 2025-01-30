@@ -14,7 +14,19 @@ import './extHostTypes.js';
 define(
 			de[3466],
 			he([1, 0, 33, 6, 3, 4, 5, 34, 374, 88, 2941, 2942, 1028]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*nls*/,
+ C /*instantiation*/,
+ d /*log*/,
+ m /*tunnel*/,
+ r /*extHost.protocol*/,
+ u /*extHostInitDataService*/,
+ a /*extHostRpcService*/,
+ h /*extHostTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$4pc = e.$3pc = e.TunnelDtoConverter = void 0),

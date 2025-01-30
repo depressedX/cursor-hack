@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/resources.js';
-define(de[3674], he([1, 0, 19]), function (ce, e, t) {
+define(de[3674], he([1, 0, 19]), function (ce /*require*/,
+ e /*exports*/,
+ t /*resources*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$wyc = void 0),

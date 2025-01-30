@@ -12,7 +12,17 @@ import '../../../../base/common/lifecycle.js';
 define(
 			de[3550],
 			he([1, 0, 267, 94, 178, 130, 208, 207, 441, 283, 3]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*markdownRenderer*/,
+ i /*htmlContent*/,
+ w /*accessibleView*/,
+ E /*accessibilityConfiguration*/,
+ C /*chat*/,
+ d /*chatContextKeys*/,
+ m /*chatModel*/,
+ r /*chatViewModel*/,
+ u /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$QIc = void 0);

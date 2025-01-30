@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../../../external/bufbuild/protobuf.js';
 import './utils_pb.js';
 import './chat_pb.js';
-define(de[581], he([1, 0, 86, 83, 126]), function (ce, e, t, i, w) {
+define(de[581], he([1, 0, 86, 83, 126]), function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*utils_pb*/,
+ w /*chat_pb*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$YC =

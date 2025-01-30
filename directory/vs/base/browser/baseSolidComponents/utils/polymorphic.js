@@ -9,7 +9,14 @@ import '../../../../../external/solid/web.js';
 define(
 			de[494],
 			he([1, 0, 2, 2, 369, 1493, 13, 2]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*utils*/,
+ E /*props*/,
+ C /*solid*/,
+ d /*web*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5kb = m),

@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../../proto/aiserver/v1/tools_pb.js';
 import '../../../../../platform/workspace/common/workspace.js';
 import '../simpleChunkingService.js';
-define(de[3665], he([1, 0, 124, 25, 1038]), function (ce, e, t, i, w) {
+define(de[3665], he([1, 0, 124, 25, 1038]), function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*workspace*/,
+ w /*simpleChunkingService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$M8b = void 0);
 			let E = class {

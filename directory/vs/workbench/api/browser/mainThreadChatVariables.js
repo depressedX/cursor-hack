@@ -8,7 +8,13 @@ import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3339],
 			he([1, 0, 3, 197, 88, 503, 101]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*marshalling*/,
+ w /*extHost.protocol*/,
+ E /*chatVariables*/,
+ C /*extHostCustomers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Gmc = void 0);

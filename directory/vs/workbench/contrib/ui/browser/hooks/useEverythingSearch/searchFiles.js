@@ -10,7 +10,15 @@ import './utils.js';
 define(
 			de[3202],
 			he([1, 0, 322, 3, 19, 63, 1271, 444, 819]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fuzzyScorer*/,
+ i /*lifecycle*/,
+ w /*resources*/,
+ E /*quickInput*/,
+ C /*constants*/,
+ d /*types*/,
+ m /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$U_b = r);
 				async function r(u, a, h, c) {

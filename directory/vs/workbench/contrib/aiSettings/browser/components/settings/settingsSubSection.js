@@ -14,7 +14,19 @@ import '../../../../ui/browser/hooks/useThemeHooks.js';
 define(
 			de[1064],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 2998, 36, 1006, 331]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*settingsGroup*/,
+ u /*solid*/,
+ a /*checkbox*/,
+ h /*useThemeHooks*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$YCc = p);
 				const c = (0, t.template)("<p>"),

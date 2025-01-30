@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../core/selection.js';
-define(de[655], he([1, 0, 104]), function (ce, e, t) {
+define(de[655], he([1, 0, 104]), function (ce /*require*/,
+ e /*exports*/,
+ t /*selection*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Atb = e.$ztb = e.$ytb = e.$xtb = e.$wtb = void 0);

@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/color.js';
 import '../../encodedTokenAttributes.js';
-define(de[913], he([1, 0, 97, 171]), function (ce, e, t, i) {
+define(de[913], he([1, 0, 97, 171]), function (ce /*require*/,
+ e /*exports*/,
+ t /*color*/,
+ i /*encodedTokenAttributes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$L2b = e.$K2b = e.$J2b = e.$G2b = e.$F2b = e.$D2b = void 0),

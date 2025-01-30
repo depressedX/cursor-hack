@@ -10,7 +10,15 @@ import '../common/remoteAuthorityResolver.js';
 define(
 			de[2788],
 			he([1, 0, 15, 29, 6, 3, 23, 62, 211]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*errors*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*network*/,
+ d /*productService*/,
+ m /*remoteAuthorityResolver*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$dcd = void 0),

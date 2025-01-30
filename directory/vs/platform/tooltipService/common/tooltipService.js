@@ -12,7 +12,17 @@ import '../../actions/common/actions.js';
 define(
 			de[308],
 			he([1, 0, 20, 5, 3, 21, 2869, 136, 31, 58, 11]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*instantiation*/,
+ w /*lifecycle*/,
+ E /*storage*/,
+ C /*tooltipPipelines*/,
+ d /*hash*/,
+ m /*commands*/,
+ r /*constants*/,
+ u /*actions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6X = e.$5X = void 0);

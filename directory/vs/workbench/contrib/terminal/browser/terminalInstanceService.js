@@ -15,7 +15,20 @@ import '../../../../base/common/async.js';
 define(
 			de[4373],
 			he([1, 0, 107, 20, 3, 117, 5, 1074, 8, 6, 237, 30, 78, 15]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*terminal*/,
+ i /*extensions*/,
+ w /*lifecycle*/,
+ E /*terminal*/,
+ C /*instantiation*/,
+ d /*terminalInstance*/,
+ m /*contextkey*/,
+ r /*event*/,
+ u /*terminalContextKey*/,
+ a /*platform*/,
+ h /*environmentService*/,
+ c /*async*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$sVc = void 0);

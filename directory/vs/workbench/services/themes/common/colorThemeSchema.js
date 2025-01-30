@@ -8,7 +8,13 @@ import '../../../../platform/theme/common/tokenClassificationRegistry.js';
 define(
 			de[1321],
 			he([1, 0, 4, 30, 250, 51, 778]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*platform*/,
+ w /*jsonContributionRegistry*/,
+ E /*colorRegistry*/,
+ C /*tokenClassificationRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Yvc = e.$Xvc = e.$Wvc = void 0),

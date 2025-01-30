@@ -12,7 +12,17 @@ import '../../../../platform/opener/common/opener.js';
 define(
 			de[4357],
 			he([1, 0, 65, 48, 11, 1780, 1369, 41, 69, 33, 41]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codeEditorService*/,
+ i /*position*/,
+ w /*actions*/,
+ E /*constants*/,
+ C /*aiEditorCodeBlock*/,
+ d /*opener*/,
+ m /*languageFeatures*/,
+ r /*cancellation*/,
+ u /*opener*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ZAc = void 0);

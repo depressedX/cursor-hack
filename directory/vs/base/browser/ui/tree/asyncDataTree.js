@@ -16,7 +16,21 @@ import '../../../common/types.js';
 define(
 			de[1170],
 			he([1, 0, 539, 411, 1165, 1169, 264, 15, 14, 26, 29, 6, 103, 3, 28]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*listView*/,
+ i /*abstractTree*/,
+ w /*indexTreeModel*/,
+ E /*objectTree*/,
+ C /*tree*/,
+ d /*async*/,
+ m /*codicons*/,
+ r /*themables*/,
+ u /*errors*/,
+ a /*event*/,
+ h /*iterator*/,
+ c /*lifecycle*/,
+ n /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Gpb = e.$Fpb = void 0);

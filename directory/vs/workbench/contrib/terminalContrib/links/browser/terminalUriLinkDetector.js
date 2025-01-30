@@ -11,7 +11,16 @@ import '../../../../../platform/terminal/common/terminal.js';
 define(
 			de[3163],
 			he([1, 0, 23, 9, 1535, 68, 25, 513, 562, 117]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*uri*/,
+ w /*linkComputer*/,
+ E /*uriIdentity*/,
+ C /*workspace*/,
+ d /*links*/,
+ m /*terminalLinkHelpers*/,
+ r /*terminal*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mWc = void 0);

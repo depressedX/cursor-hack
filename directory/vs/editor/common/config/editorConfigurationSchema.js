@@ -9,7 +9,14 @@ import '../../../platform/registry/common/platform.js';
 define(
 			de[602],
 			he([1, 0, 1525, 38, 910, 4, 81, 30]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*diffEditor*/,
+ i /*editorOptions*/,
+ w /*textModelDefaults*/,
+ E /*nls*/,
+ C /*configurationRegistry*/,
+ d /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$DAb = void 0),

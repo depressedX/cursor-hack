@@ -24,7 +24,25 @@ define(
 				1, 0, 7, 33, 3, 77, 319, 9, 542, 281, 953, 608, 38, 48, 17, 172, 122,
 				67, 5, 2308,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*cancellation*/,
+ w /*lifecycle*/,
+ E /*observable*/,
+ C /*derived*/,
+ d /*uri*/,
+ m /*observableCodeEditor*/,
+ r /*embeddedCodeEditorWidget*/,
+ u /*diffProviderFactoryService*/,
+ a /*registrations.contribution*/,
+ h /*editorOptions*/,
+ c /*position*/,
+ n /*range*/,
+ g /*modesRegistry*/,
+ p /*textModel*/,
+ o /*model*/,
+ f /*instantiation*/) {
 				"use strict";
 				var b, s;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

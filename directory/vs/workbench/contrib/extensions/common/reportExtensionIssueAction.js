@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../../../base/common/actions.js';
 import '../../issue/common/issue.js';
-define(de[3065], he([1, 0, 4, 50, 376]), function (ce, e, t, i, w) {
+define(de[3065], he([1, 0, 4, 50, 376]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*issue*/) {
 			"use strict";
 			var E;
 			Object.defineProperty(e, "__esModule", { value: !0 }),

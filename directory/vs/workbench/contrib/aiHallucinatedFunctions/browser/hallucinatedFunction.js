@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../../external/solid/solid.js';
 import '../../../../base/common/uuid.js';
-define(de[2970], he([1, 0, 13, 47]), function (ce, e, t, i) {
+define(de[2970], he([1, 0, 13, 47]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*uuid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Scc = void 0);
 			class w {

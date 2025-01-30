@@ -13,7 +13,18 @@ import '../../../../../../proto/aiserver/v1/utils_pb.js';
 define(
 			de[2007],
 			he([1, 0, 2, 2, 2, 13, 272, 58, 36, 385, 298, 83]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*repository_pb*/,
+ d /*constants*/,
+ m /*solid*/,
+ r /*useKeyboardShortcut*/,
+ u /*selectedContextData*/,
+ a /*utils_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Pbc = e.$Obc = void 0),

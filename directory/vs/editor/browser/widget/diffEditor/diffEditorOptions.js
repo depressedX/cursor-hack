@@ -10,7 +10,15 @@ import '../../../../platform/accessibility/common/accessibility.js';
 define(
 			de[1680],
 			he([1, 0, 77, 457, 210, 1216, 1525, 38, 91]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*observable*/,
+ i /*utils*/,
+ w /*uint*/,
+ E /*diffEditorViewZones*/,
+ C /*diffEditor*/,
+ d /*editorOptions*/,
+ m /*accessibility*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6xb = void 0);

@@ -8,7 +8,13 @@ import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[3587],
 			he([1, 0, 20, 143, 151, 165, 25]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*remoteAgentService*/,
+ w /*environmentService*/,
+ E /*pathService*/,
+ C /*workspace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Hdd = void 0);

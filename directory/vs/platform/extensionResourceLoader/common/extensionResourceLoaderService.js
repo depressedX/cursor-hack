@@ -12,7 +12,17 @@ import './extensionResourceLoader.js';
 define(
 			de[2898],
 			he([1, 0, 20, 22, 62, 327, 21, 113, 10, 33, 546]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*files*/,
+ w /*productService*/,
+ E /*request*/,
+ C /*storage*/,
+ d /*environment*/,
+ m /*configuration*/,
+ r /*cancellation*/,
+ u /*extensionResourceLoader*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ybd = void 0);

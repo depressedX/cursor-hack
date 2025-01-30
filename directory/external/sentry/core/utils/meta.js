@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import './traceData.js';
-define(de[2130], he([1, 0, 1452]), function (ce, e, t) {
+define(de[2130], he([1, 0, 1452]), function (ce /*require*/,
+ e /*exports*/,
+ t /*traceData*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.getTraceMetaTags = i);

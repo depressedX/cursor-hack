@@ -8,7 +8,13 @@ import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1275],
 			he([1, 0, 15, 33, 6, 3, 5]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*cancellation*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$3oc = e.$2oc = void 0),

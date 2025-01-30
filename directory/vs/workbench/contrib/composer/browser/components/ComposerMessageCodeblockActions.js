@@ -10,7 +10,15 @@ import '../../../controlCommon/browser/solid.js';
 define(
 			de[4284],
 			he([1, 0, 2, 13, 14, 225, 485, 1004, 36]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*solid*/,
+ w /*codicons*/,
+ E /*composerData*/,
+ C /*ComposerToolbarSimpleButton*/,
+ d /*AutoCollapseDivGroup*/,
+ m /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerMessageCodeblockActions = r);

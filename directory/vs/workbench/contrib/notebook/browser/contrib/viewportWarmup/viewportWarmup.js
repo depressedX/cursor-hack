@@ -12,7 +12,17 @@ import '../../../common/notebookService.js';
 define(
 			de[4093],
 			he([1, 0, 15, 3, 91, 108, 330, 482, 70, 442, 161]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*accessibility*/,
+ E /*notebookBrowser*/,
+ C /*notebookEditorExtensions*/,
+ d /*codeCellViewModel*/,
+ m /*notebookCommon*/,
+ r /*notebookRange*/,
+ u /*notebookService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let a = class extends i.$1c {

@@ -9,7 +9,14 @@ import './node.js';
 define(
 			de[2667],
 			he([1, 0, 663, 538, 928, 1575, 324, 594]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getBoundingClientRect*/,
+ i /*getDocumentElement*/,
+ w /*getNodeScroll*/,
+ E /*getWindowScrollBarX*/,
+ C /*is*/,
+ d /*node*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Kmb = m);
 				function m(r, u, a) {

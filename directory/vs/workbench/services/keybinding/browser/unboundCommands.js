@@ -4,7 +4,12 @@ import '../../../../platform/commands/common/commands.js';
 import '../../../../base/common/arrays.js';
 import '../../../../editor/browser/editorExtensions.js';
 import '../../../../platform/actions/common/actions.js';
-define(de[1824], he([1, 0, 31, 24, 46, 11]), function (ce, e, t, i, w, E) {
+define(de[1824], he([1, 0, 31, 24, 46, 11]), function (ce /*require*/,
+ e /*exports*/,
+ t /*commands*/,
+ i /*arrays*/,
+ w /*editorExtensions*/,
+ E /*actions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$pvc = C);
 			function C(d) {

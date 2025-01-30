@@ -24,7 +24,26 @@ define(
 				1, 0, 6, 23, 9, 3, 5, 21, 30, 297, 3524, 42, 34, 52, 89, 1853, 61, 8,
 				1852, 1019,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*network*/,
+ w /*uri*/,
+ E /*lifecycle*/,
+ C /*instantiation*/,
+ d /*storage*/,
+ m /*platform*/,
+ r /*output*/,
+ u /*outputLinkProvider*/,
+ a /*resolverService*/,
+ h /*log*/,
+ c /*lifecycle*/,
+ n /*viewsService*/,
+ g /*outputChannelModelService*/,
+ p /*language*/,
+ o /*contextkey*/,
+ f /*logsActions*/,
+ b /*defaultLogLevels*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$bUc = void 0);

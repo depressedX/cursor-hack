@@ -8,7 +8,13 @@ import '../scrollableDiv.js';
 define(
 			de[4320],
 			he([1, 0, 2, 2, 13, 450, 135]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*solid*/,
+ E /*aiInput2*/,
+ C /*scrollableDiv*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$sbc = void 0);

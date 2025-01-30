@@ -11,7 +11,15 @@ import '../../../../css!vs/editor/contrib/tooltipUi/browser/tooltipUiWidgets.js'
 define(
 			de[1610],
 			he([1, 0, 7, 56, 3, 65, 58, 31, 38, 2323]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*editorBrowser*/,
+ w /*lifecycle*/,
+ E /*codeEditorService*/,
+ C /*constants*/,
+ d /*commands*/,
+ m /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Klc = r),

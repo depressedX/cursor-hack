@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './private/assert.js';
 import './private/extensions.js';
-define(de[1398], he([1, 0, 451, 1087]), function (ce, e, t, i) {
+define(de[1398], he([1, 0, 451, 1087]), function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*extensions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.getExtension = w),

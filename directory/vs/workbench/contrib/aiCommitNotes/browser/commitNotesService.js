@@ -8,7 +8,13 @@ import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[1703],
 			he([1, 0, 5, 280, 25, 3, 20]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*aiEverythingProviderService*/,
+ w /*workspace*/,
+ E /*lifecycle*/,
+ C /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$g0b = e.$f0b = e.$e0b = void 0),

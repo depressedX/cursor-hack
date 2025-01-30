@@ -14,7 +14,18 @@ import '../../../../css!vs/base/browser/ui/icons/iconSelectBox.js';
 define(
 			de[2685],
 			he([1, 0, 7, 127, 292, 203, 6, 3, 26, 4, 195, 410, 2241]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*aria*/,
+ w /*inputBox*/,
+ E /*scrollableElement*/,
+ C /*event*/,
+ d /*lifecycle*/,
+ m /*themables*/,
+ r /*nls*/,
+ u /*scrollable*/,
+ a /*highlightedLabel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Zob = void 0),

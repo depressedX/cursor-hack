@@ -11,7 +11,15 @@ import '../../css!vs/workbench/browser/media/style.js';
 define(
 			de[2952],
 			he([1, 0, 35, 123, 12, 7, 139, 51, 75, 2333]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*themeService*/,
+ i /*theme*/,
+ w /*platform*/,
+ E /*dom*/,
+ C /*browser*/,
+ d /*colorRegistry*/,
+ m /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, t.$oP)((r, u) => {

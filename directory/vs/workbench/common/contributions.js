@@ -13,7 +13,18 @@ import '../services/editor/common/editorPaneService.js';
 define(
 			de[55],
 			he([1, 0, 5, 52, 30, 15, 240, 34, 113, 59, 3, 1798]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*lifecycle*/,
+ w /*platform*/,
+ E /*async*/,
+ C /*performance*/,
+ d /*log*/,
+ m /*environment*/,
+ r /*map*/,
+ u /*lifecycle*/,
+ a /*editorPaneService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$t6 = e.$s6 = e.$r6 = e.WorkbenchPhase = e.Extensions = void 0);

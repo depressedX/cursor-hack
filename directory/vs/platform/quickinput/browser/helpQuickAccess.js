@@ -9,7 +9,14 @@ import '../common/quickInput.js';
 define(
 			de[2782],
 			he([1, 0, 4, 30, 3, 39, 348, 63]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*platform*/,
+ w /*lifecycle*/,
+ E /*keybinding*/,
+ C /*quickAccess*/,
+ d /*quickInput*/) {
 				"use strict";
 				var m;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

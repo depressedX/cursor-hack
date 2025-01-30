@@ -8,7 +8,13 @@ import './protocol/async-iterable.js';
 define(
 			de[2044],
 			he([1, 0, 86, 213, 202, 1077, 575]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*connect-error*/,
+ w /*code*/,
+ E /*any-client*/,
+ C /*async-iterable*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createCallbackClient = d);

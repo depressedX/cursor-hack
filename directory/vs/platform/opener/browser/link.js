@@ -14,7 +14,18 @@ import '../../../css!vs/platform/opener/browser/link.js';
 define(
 			de[497],
 			he([1, 0, 7, 265, 114, 159, 6, 27, 3, 41, 95, 72, 2329]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*keyboardEvent*/,
+ E /*touch*/,
+ C /*event*/,
+ d /*keyCodes*/,
+ m /*lifecycle*/,
+ r /*opener*/,
+ u /*hoverDelegateFactory*/,
+ a /*hover*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.Link = void 0);

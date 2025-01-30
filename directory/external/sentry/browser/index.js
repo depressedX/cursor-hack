@@ -14,7 +14,19 @@ import './profiling/integration.js';
 define(
 		de[1105],
 		he([1, 0, 2145, 2136, 2135, 2134, 144, 2137, 1459, 2141, 144, 2143, 2139]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*exports*/,
+ i /*reportingobserver*/,
+ w /*httpclient*/,
+ E /*contextlines*/,
+ C /*index*/,
+ d /*metrics*/,
+ m /*request*/,
+ r /*browserTracingIntegration*/,
+ u /*index*/,
+ a /*offline*/,
+ h /*integration*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.browserProfilingIntegration =

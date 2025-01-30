@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import './editorGroupsService.js';
 import './editorService.js';
-define(de[446], he([1, 0, 66, 18]), function (ce, e, t, i) {
+define(de[446], he([1, 0, 66, 18]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editorGroupsService*/,
+ i /*editorService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$a8 = w),

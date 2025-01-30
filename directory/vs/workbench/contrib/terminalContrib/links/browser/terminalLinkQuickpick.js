@@ -17,7 +17,22 @@ import '../../../../../platform/accessibility/browser/accessibleView.js';
 define(
 			de[3270],
 			he([1, 0, 7, 6, 4, 63, 107, 3, 15, 473, 997, 513, 73, 19, 5, 178]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*nls*/,
+ E /*quickInput*/,
+ C /*terminal*/,
+ d /*lifecycle*/,
+ m /*async*/,
+ r /*quickaccess*/,
+ u /*terminalLinkParsing*/,
+ a /*links*/,
+ h /*label*/,
+ c /*resources*/,
+ n /*instantiation*/,
+ g /*accessibleView*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$sWc = void 0);

@@ -18,7 +18,23 @@ import '../../../../base/common/arraysFind.js';
 define(
 			de[1667],
 			he([1, 0, 15, 33, 14, 26, 322, 3, 37, 17, 98, 74, 204, 1665, 4, 69, 214]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*cancellation*/,
+ w /*codicons*/,
+ E /*themables*/,
+ C /*fuzzyScorer*/,
+ d /*lifecycle*/,
+ m /*strings*/,
+ r /*range*/,
+ u /*editorCommon*/,
+ a /*languages*/,
+ h /*outlineModel*/,
+ c /*editorNavigationQuickAccess*/,
+ n /*nls*/,
+ g /*languageFeatures*/,
+ p /*arraysFind*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

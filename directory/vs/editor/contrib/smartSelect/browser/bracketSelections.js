@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/linkedList.js';
 import '../../../common/core/position.js';
 import '../../../common/core/range.js';
-define(de[1556], he([1, 0, 273, 48, 17]), function (ce, e, t, i, w) {
+define(de[1556], he([1, 0, 273, 48, 17]), function (ce /*require*/,
+ e /*exports*/,
+ t /*linkedList*/,
+ i /*position*/,
+ w /*range*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$RCb = void 0);
 			class E {

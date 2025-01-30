@@ -4,7 +4,11 @@ import '../../../base/common/codicons.js';
 import '../../../base/common/themables.js';
 import '../../../base/common/severity.js';
 import '../../../css!vs/platform/severityIcon/browser/media/severityIcon.js';
-define(de[673], he([1, 0, 14, 26, 111, 2330]), function (ce, e, t, i, w) {
+define(de[673], he([1, 0, 14, 26, 111, 2330]), function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*themables*/,
+ w /*severity*/) {
 		"use strict";
 		Object.defineProperty(e, "__esModule", { value: !0 }),
 			(e.SeverityIcon = void 0),

@@ -12,7 +12,16 @@ import '../../../../../css!vs/workbench/contrib/chat/browser/chatContentParts/me
 define(
 			de[3007],
 			he([1, 0, 7, 183, 6, 94, 3, 251, 5, 106, 2390]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*button*/,
+ w /*event*/,
+ E /*htmlContent*/,
+ C /*lifecycle*/,
+ d /*markdownRenderer*/,
+ m /*instantiation*/,
+ r /*defaultStyles*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fUb = void 0),

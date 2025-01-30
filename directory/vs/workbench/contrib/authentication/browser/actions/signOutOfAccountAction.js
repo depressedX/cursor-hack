@@ -10,7 +10,15 @@ import '../../../../services/authentication/common/authentication.js';
 define(
 		de[3245],
 		he([1, 0, 111, 4, 11, 57, 621, 822, 357]),
-		function (ce, e, t, i, w, E, C, d, m) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*severity*/,
+ i /*nls*/,
+ w /*actions*/,
+ E /*dialogs*/,
+ C /*authenticationAccessService*/,
+ d /*authenticationUsageService*/,
+ m /*authentication*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$_Zc = void 0),

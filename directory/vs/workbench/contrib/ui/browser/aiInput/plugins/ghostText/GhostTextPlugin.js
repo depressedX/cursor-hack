@@ -8,7 +8,13 @@ import './GhostTextNode.js';
 define(
 			de[3190],
 			he([1, 0, 181, 304, 158, 13, 1775]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalComposerContext*/,
+ i /*api*/,
+ w /*lexical*/,
+ E /*solid*/,
+ C /*GhostTextNode*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Fac = d);
 				function d(m) {

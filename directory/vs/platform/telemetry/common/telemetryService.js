@@ -15,7 +15,20 @@ import './telemetryUtils.js';
 define(
 		de[2819],
 		he([1, 0, 3, 82, 12, 37, 4, 10, 81, 372, 62, 30, 32, 269]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*objects*/,
+ w /*platform*/,
+ E /*strings*/,
+ C /*nls*/,
+ d /*configuration*/,
+ m /*configurationRegistry*/,
+ r /*product*/,
+ u /*productService*/,
+ a /*platform*/,
+ h /*telemetry*/,
+ c /*telemetryUtils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$NJ = void 0),

@@ -12,7 +12,17 @@ import './taskService.js';
 define(
 			de[1816],
 			he([1, 0, 4, 82, 12, 28, 47, 570, 424, 699, 419]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*objects*/,
+ w /*platform*/,
+ E /*types*/,
+ C /*uuid*/,
+ d /*problemMatcher*/,
+ m /*tasks*/,
+ r /*taskDefinitionRegistry*/,
+ u /*taskService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.TaskConfigSource =

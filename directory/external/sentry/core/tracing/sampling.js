@@ -7,7 +7,12 @@ import '../utils/parseSampleRate.js';
 define(
 			de[1444],
 			he([1, 0, 80, 263, 638, 1098]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*debug-build*/,
+ w /*hasTracingEnabled*/,
+ E /*parseSampleRate*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.sampleSpan = C);

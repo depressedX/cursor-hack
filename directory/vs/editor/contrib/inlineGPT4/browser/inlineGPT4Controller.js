@@ -15,7 +15,20 @@ import './cancel/inlineGPT4CancelVZ.js';
 define(
 			de[1344],
 			he([1, 0, 3, 71, 5, 45, 118, 2874, 64, 6, 48, 2754, 2753, 2752]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*editorContextKeys*/,
+ w /*instantiation*/,
+ E /*reactiveStorageService*/,
+ C /*aiService*/,
+ d /*inlineGPT4Service*/,
+ m /*model*/,
+ r /*event*/,
+ u /*position*/,
+ a /*inlineGPT4LoadingVZ*/,
+ h /*inlineGPT4HintViewZone*/,
+ c /*inlineGPT4CancelVZ*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

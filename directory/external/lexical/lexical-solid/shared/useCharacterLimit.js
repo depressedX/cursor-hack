@@ -9,7 +9,14 @@ import '../../../solid/solid.js';
 define(
 			de[2608],
 			he([1, 0, 164, 2593, 1159, 304, 1414, 13]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*api*/,
+ w /*api*/,
+ E /*api*/,
+ C /*utils*/,
+ d /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.useCharacterLimit = m),

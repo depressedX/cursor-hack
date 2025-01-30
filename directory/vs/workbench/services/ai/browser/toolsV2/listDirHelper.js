@@ -4,7 +4,12 @@ import '../../../../../../external/bufbuild/protobuf.js';
 import '../../../../../../proto/aiserver/v1/tools_pb.js';
 import '../../../../../base/common/uri.js';
 import '../../../../../base/common/async.js';
-define(de[1790], he([1, 0, 86, 124, 9, 15]), function (ce, e, t, i, w, E) {
+define(de[1790], he([1, 0, 86, 124, 9, 15]), function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*tools_pb*/,
+ w /*uri*/,
+ E /*async*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$3cc = u);
 			const C = 1024 * 1024,

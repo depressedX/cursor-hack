@@ -9,7 +9,14 @@ import '../runTestService.js';
 define(
 			de[3980],
 			he([1, 0, 241, 124, 1011, 5, 20, 1887]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*magicLinkService*/,
+ i /*tools_pb*/,
+ w /*toolformerHandlerRegistryService*/,
+ E /*instantiation*/,
+ C /*extensions*/,
+ d /*runTestService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$dd = e.$0dd = void 0),

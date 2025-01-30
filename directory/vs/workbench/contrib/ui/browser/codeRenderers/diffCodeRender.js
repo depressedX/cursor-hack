@@ -15,7 +15,19 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/codeRenderers/diffCod
 define(
 			de[4180],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 9, 309, 36, 27, 2513]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*uri*/,
+ u /*diffEditorWidget*/,
+ a /*solid*/,
+ h /*keyCodes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$nzc = p);
 				const c = (0, t.template)("<div>"),

@@ -16,7 +16,21 @@ import './layout.js';
 define(
 			de[2163],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 13, 580, 891, 579]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*web*/,
+ a /*solid*/,
+ h /*drag-drop-context*/,
+ c /*style*/,
+ n /*layout*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.DragOverlay = void 0);

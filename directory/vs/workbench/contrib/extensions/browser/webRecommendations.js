@@ -8,7 +8,13 @@ import '../../../services/extensionManagement/common/extensionManagement.js';
 define(
 			de[3299],
 			he([1, 0, 553, 62, 314, 4, 157]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensionRecommendations*/,
+ i /*productService*/,
+ w /*extensionRecommendations*/,
+ E /*nls*/,
+ C /*extensionManagement*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$MTc = void 0);

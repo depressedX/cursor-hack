@@ -7,7 +7,12 @@ import '../../../solid/web.js';
 define(
 			de[2613],
 			he([1, 0, 13, 2599, 304, 2]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*api*/,
+ w /*api*/,
+ E /*web*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.usePlainTextSetup = C);

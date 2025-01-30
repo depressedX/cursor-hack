@@ -14,7 +14,19 @@ import '../../../../platform/instantiation/common/descriptors.js';
 define(
 			de[3728],
 			he([1, 0, 4, 28, 19, 175, 333, 6, 3, 244, 94, 30, 102]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*types*/,
+ w /*resources*/,
+ E /*extensionsRegistry*/,
+ C /*workbenchThemeService*/,
+ d /*event*/,
+ m /*lifecycle*/,
+ r /*extensionFeatures*/,
+ u /*htmlContent*/,
+ a /*platform*/,
+ h /*descriptors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jwc = void 0),

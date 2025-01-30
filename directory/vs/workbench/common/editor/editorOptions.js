@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../platform/editor/common/editor.js';
 import '../editor.js';
-define(de[549], he([1, 0, 116, 44]), function (ce, e, t, i) {
+define(de[549], he([1, 0, 116, 44]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editor*/,
+ i /*editor*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.applyTextEditorOptions = w);

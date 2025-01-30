@@ -13,7 +13,17 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/loadingStateButton/lo
 define(
 			de[1073],
 			he([1, 0, 2, 2, 2, 2, 2, 13, 147, 58, 14, 2520]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*solid*/,
+ m /*simpleButton*/,
+ r /*constants*/,
+ u /*codicons*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$18b = void 0);

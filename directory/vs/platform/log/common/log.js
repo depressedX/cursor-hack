@@ -15,7 +15,20 @@ import '../../instantiation/common/instantiation.js';
 define(
 			de[34],
 			he([1, 0, 4, 163, 6, 136, 3, 59, 12, 19, 28, 9, 8, 5]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*errorMessage*/,
+ w /*event*/,
+ E /*hash*/,
+ C /*lifecycle*/,
+ d /*map*/,
+ m /*platform*/,
+ r /*resources*/,
+ u /*types*/,
+ a /*uri*/,
+ h /*contextkey*/,
+ c /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ak =

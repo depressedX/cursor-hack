@@ -20,7 +20,24 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/simpleButton/simpleBu
 define(
 			de[147],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 13, 26, 14, 36, 295, 7, 2528]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*web*/,
+ a /*web*/,
+ h /*solid*/,
+ c /*themables*/,
+ n /*codicons*/,
+ g /*solid*/,
+ p /*loadingSpinner*/,
+ o /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$sdc = e.$rdc = void 0);

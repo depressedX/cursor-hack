@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './arrays.js';
 import './charCode.js';
 import './strings.js';
-define(de[387], he([1, 0, 24, 120, 37]), function (ce, e, t, i, w) {
+define(de[387], he([1, 0, 24, 120, 37]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*charCode*/,
+ w /*strings*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Si = e.$Ri = e.$Qi = e.$Pi = e.$Oi = void 0);

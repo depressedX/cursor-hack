@@ -12,7 +12,17 @@ import '../../../../platform/markers/common/markerService.js';
 define(
 			de[988],
 			he([1, 0, 19, 17, 90, 24, 59, 6, 136, 37, 667]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*resources*/,
+ i /*range*/,
+ w /*markers*/,
+ E /*arrays*/,
+ C /*map*/,
+ d /*event*/,
+ m /*hash*/,
+ r /*strings*/,
+ u /*markerService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wRc = e.$vRc = e.$uRc = e.$tRc = e.$sRc = void 0),

@@ -14,7 +14,18 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/collapsible/collapsib
 define(
 			de[696],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 295, 2514]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*codicons*/,
+ u /*themables*/,
+ a /*loadingSpinner*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Zcc = n);
 				const h = (0, t.template)("<div>"),

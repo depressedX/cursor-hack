@@ -11,7 +11,16 @@ import './webview.js';
 define(
 			de[3406],
 			he([1, 0, 7, 194, 6, 3, 47, 8, 96, 355]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*fastDomNode*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*uuid*/,
+ d /*contextkey*/,
+ m /*layoutService*/,
+ r /*webview*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$g6c = void 0);

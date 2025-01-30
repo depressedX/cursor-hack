@@ -21,7 +21,24 @@ define(
 			he([
 				1, 0, 9, 61, 31, 5, 333, 18, 44, 841, 74, 171, 1878, 97, 22, 19, 23, 37,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*language*/,
+ w /*commands*/,
+ E /*instantiation*/,
+ C /*workbenchThemeService*/,
+ d /*editorService*/,
+ m /*editor*/,
+ r /*textMateTokenizationFeature*/,
+ u /*languages*/,
+ a /*encodedTokenAttributes*/,
+ h /*TMHelper*/,
+ c /*color*/,
+ n /*files*/,
+ g /*resources*/,
+ p /*network*/,
+ o /*strings*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class f {

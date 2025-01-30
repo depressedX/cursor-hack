@@ -10,7 +10,15 @@ import './strings.js';
 define(
 			de[322],
 			he([1, 0, 120, 535, 132, 136, 54, 12, 37]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*comparers*/,
+ w /*filters*/,
+ E /*hash*/,
+ C /*path*/,
+ d /*platform*/,
+ m /*strings*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ds = a),

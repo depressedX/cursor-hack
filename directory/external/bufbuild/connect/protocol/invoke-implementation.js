@@ -8,7 +8,13 @@ import '../interceptor.js';
 define(
 			de[1090],
 			he([1, 0, 86, 213, 202, 1393, 1386]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*connect-error*/,
+ w /*code*/,
+ E /*normalize*/,
+ C /*interceptor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.invokeUnaryImplementation = d),

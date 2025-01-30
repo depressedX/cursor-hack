@@ -4,7 +4,12 @@ import '../../../../../base/browser/dom.js';
 import '../../../../../base/common/lifecycle.js';
 import '../../../../../base/common/observable.js';
 import '../model/lineRange.js';
-define(de[1251], he([1, 0, 7, 3, 77, 507]), function (ce, e, t, i, w, E) {
+define(de[1251], he([1, 0, 7, 3, 77, 507]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*observable*/,
+ E /*lineRange*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$3Zb = void 0);
 			class C extends i.$1c {

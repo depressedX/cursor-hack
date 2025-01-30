@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../core/index.js';
 import './ipc.js';
-define(de[2149], he([1, 0, 144, 890]), function (ce, e, t, i) {
+define(de[2149], he([1, 0, 144, 890]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*ipc*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.metrics = void 0);

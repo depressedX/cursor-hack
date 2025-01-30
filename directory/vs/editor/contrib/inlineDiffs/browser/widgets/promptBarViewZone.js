@@ -17,7 +17,21 @@ import '../../../../../css!vs/editor/contrib/inlineDiffs/browser/widgets/inlineD
 define(
 			de[2001],
 			he([1, 0, 7, 3, 65, 71, 4366, 31, 8, 5, 39, 45, 205, 670, 18, 906]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*codeEditorService*/,
+ E /*editorContextKeys*/,
+ C /*renderPromptBarViewZone*/,
+ d /*commands*/,
+ m /*contextkey*/,
+ r /*instantiation*/,
+ u /*keybinding*/,
+ a /*reactiveStorageService*/,
+ h /*reactiveStorageTypes*/,
+ c /*reactiveStorageTypes2*/,
+ n /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Tdc = void 0),

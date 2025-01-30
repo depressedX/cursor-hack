@@ -11,7 +11,16 @@ import '../../services/userActivity/common/userActivityService.js';
 define(
 			de[3749],
 			he([1, 0, 6, 3, 9, 41, 101, 88, 87, 1040]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*opener*/,
+ C /*extHostCustomers*/,
+ d /*extHost.protocol*/,
+ m /*host*/,
+ r /*userActivityService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Roc = void 0);

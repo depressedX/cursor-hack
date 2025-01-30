@@ -7,7 +7,12 @@ import './popper-root.js';
 define(
 		de[1164],
 		he([1, 0, 2642, 896, 2643, 2669]),
-		function (ce, e, t, i, w, E) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*popper-arrow*/,
+ i /*popper-context*/,
+ w /*popper-positioner*/,
+ E /*popper-root*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				Yi(t, e),

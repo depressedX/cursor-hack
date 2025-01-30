@@ -9,7 +9,14 @@ import './headers.js';
 define(
 			de[2048],
 			he([1, 0, 86, 202, 1388, 213, 1079, 574]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*protobuf*/,
+ i /*code*/,
+ w /*http-status*/,
+ E /*connect-error*/,
+ C /*content-type*/,
+ d /*headers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.validateResponse = m),

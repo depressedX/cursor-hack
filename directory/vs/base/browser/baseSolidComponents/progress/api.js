@@ -8,7 +8,13 @@ import './progress-value-label.js';
 define(
 			de[2623],
 			he([1, 0, 2618, 2619, 2620, 2621, 2622]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*progress-fill*/,
+ i /*progress-label*/,
+ w /*progress-root*/,
+ E /*progress-track*/,
+ C /*progress-value-label*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ValueLabel = e.Track = e.Root = e.Label = e.Fill = void 0),

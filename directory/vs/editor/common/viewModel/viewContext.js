@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../editorTheme.js';
-define(de[2579], he([1, 0, 2558]), function (ce, e, t) {
+define(de[2579], he([1, 0, 2558]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editorTheme*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$xub = void 0);
 			class i {

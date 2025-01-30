@@ -15,7 +15,19 @@ import '../../../../../css!vs/workbench/contrib/terminalContrib/chat/browser/med
 define(
 			de[4377],
 			he([1, 0, 7, 6, 3, 649, 4, 8, 5, 153, 1357, 692, 2004, 2495]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*symbols*/,
+ C /*nls*/,
+ d /*contextkey*/,
+ m /*instantiation*/,
+ r /*chatAgents*/,
+ u /*inlineChatWidget*/,
+ a /*terminalChat*/,
+ h /*terminalStickyScrollContribution*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$3Vc = void 0);

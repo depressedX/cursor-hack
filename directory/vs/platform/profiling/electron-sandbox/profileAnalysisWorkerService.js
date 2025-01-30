@@ -9,7 +9,14 @@ import '../../telemetry/common/telemetry.js';
 define(
 			de[1651],
 			he([1, 0, 540, 20, 5, 34, 2747, 32]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*defaultWorkerFactory*/,
+ i /*extensions*/,
+ w /*instantiation*/,
+ E /*log*/,
+ C /*profilingTelemetrySpec*/,
+ d /*telemetry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$acd = e.ProfilingOutput = void 0);

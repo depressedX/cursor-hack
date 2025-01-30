@@ -4,7 +4,12 @@ import '../../../../../../external/solid/solid.js';
 import '../../../../../../proto/aiserver/v1/chat_pb.js';
 import './useComposerDataHandle.js';
 import '../../../controlCommon/browser/solid.js';
-define(de[858], he([1, 0, 13, 126, 177, 36]), function (ce, e, t, i, w, E) {
+define(de[858], he([1, 0, 13, 126, 177, 36]), function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*chat_pb*/,
+ w /*useComposerDataHandle*/,
+ E /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.useComposerChatStatus = C);

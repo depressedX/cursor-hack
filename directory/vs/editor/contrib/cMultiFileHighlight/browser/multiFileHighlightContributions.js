@@ -9,7 +9,14 @@ import '../../inlineDiffs/browser/utils.js';
 define(
 			de[2860],
 			he([1, 0, 46, 3, 5, 2859, 45, 1554]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*lifecycle*/,
+ w /*instantiation*/,
+ E /*multiFileHighlightWidget*/,
+ C /*reactiveStorageService*/,
+ d /*utils*/) {
 				"use strict";
 				var m;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

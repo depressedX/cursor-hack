@@ -14,7 +14,19 @@ import '../../../../../../base/common/resources.js';
 define(
 			de[3489],
 			he([1, 0, 55, 1622, 70, 90, 10, 3, 108, 330, 138, 51, 19]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contributions*/,
+ i /*markerNavigationService*/,
+ w /*notebookCommon*/,
+ E /*markers*/,
+ C /*configuration*/,
+ d /*lifecycle*/,
+ m /*notebookBrowser*/,
+ r /*notebookEditorExtensions*/,
+ u /*decorators*/,
+ a /*colorRegistry*/,
+ h /*resources*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let c = class {

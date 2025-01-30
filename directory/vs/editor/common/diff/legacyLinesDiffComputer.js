@@ -11,7 +11,16 @@ import '../core/lineRange.js';
 define(
 			de[1533],
 			he([1, 0, 120, 745, 1147, 342, 37, 17, 229, 196]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*diff*/,
+ w /*linesDiffComputer*/,
+ E /*rangeMapping*/,
+ C /*strings*/,
+ d /*range*/,
+ m /*assert*/,
+ r /*lineRange*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$HL = e.$GL = void 0),

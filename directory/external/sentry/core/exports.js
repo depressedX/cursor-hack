@@ -9,7 +9,14 @@ import './utils/prepareEvent.js';
 define(
 			de[734],
 			he([1, 0, 80, 879, 234, 263, 887, 1101]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*constants*/,
+ w /*currentScopes*/,
+ E /*debug-build*/,
+ C /*session*/,
+ d /*prepareEvent*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.captureException = m),

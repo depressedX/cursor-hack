@@ -24,7 +24,23 @@ define(
 				1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26, 123, 36, 140, 502, 58, 7, 907, 1141,
 				1142,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*codicons*/,
+ u /*themables*/,
+ a /*theme*/,
+ h /*solid*/,
+ c /*chatData*/,
+ n /*icons*/,
+ g /*constants*/,
+ p /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$J0b = b);
 				const o = (0, t.template)("<span>"),

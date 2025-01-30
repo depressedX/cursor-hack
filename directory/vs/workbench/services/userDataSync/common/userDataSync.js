@@ -10,7 +10,15 @@ import '../../../../platform/action/common/actionCommonCategories.js';
 define(
 			de[522],
 			he([1, 0, 5, 150, 8, 4, 14, 79, 99]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*userDataSync*/,
+ w /*contextkey*/,
+ E /*nls*/,
+ C /*codicons*/,
+ d /*iconRegistry*/,
+ m /*actionCommonCategories*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$2xc =

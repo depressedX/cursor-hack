@@ -10,7 +10,15 @@ import '../../../../../services/cursorAuth/browser/authenticationService.js';
 define(
 			de[4137],
 			he([1, 0, 2, 2, 2, 2, 13, 722, 232]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*hooks*/,
+ m /*authenticationService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$jDc = u);
 				const r = (0, t.template)(

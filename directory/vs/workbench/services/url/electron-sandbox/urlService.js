@@ -15,7 +15,20 @@ import '../../../../platform/log/common/log.js';
 define(
 			de[3746],
 			he([1, 0, 465, 9, 371, 2881, 41, 23, 62, 20, 305, 110, 2882, 34]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*url*/,
+ i /*uri*/,
+ w /*mainProcessService*/,
+ E /*urlIpc*/,
+ C /*opener*/,
+ d /*network*/,
+ m /*productService*/,
+ r /*extensions*/,
+ u /*ipc*/,
+ a /*native*/,
+ h /*urlService*/,
+ c /*log*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$rdd = void 0);

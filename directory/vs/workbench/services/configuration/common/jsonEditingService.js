@@ -15,7 +15,20 @@ import '../../../../platform/instantiation/common/extensions.js';
 define(
 			de[3704],
 			he([1, 0, 4, 187, 586, 15, 188, 17, 104, 85, 22, 42, 423, 20]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*json*/,
+ w /*jsonEdit*/,
+ E /*async*/,
+ C /*editOperation*/,
+ d /*range*/,
+ m /*selection*/,
+ r /*textfiles*/,
+ u /*files*/,
+ a /*resolverService*/,
+ h /*jsonEditing*/,
+ c /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wvc = void 0),

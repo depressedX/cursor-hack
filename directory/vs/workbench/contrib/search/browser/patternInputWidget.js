@@ -17,7 +17,22 @@ import '../../../../base/browser/ui/hover/hoverDelegateFactory.js';
 define(
 			de[1748],
 			he([1, 0, 7, 268, 235, 14, 6, 27, 4, 413, 664, 10, 8, 39, 106, 95]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*toggle*/,
+ w /*widget*/,
+ E /*codicons*/,
+ C /*event*/,
+ d /*keyCodes*/,
+ m /*nls*/,
+ r /*contextScopedHistoryWidget*/,
+ u /*historyWidgetKeybindingHint*/,
+ a /*configuration*/,
+ h /*contextkey*/,
+ c /*keybinding*/,
+ n /*defaultStyles*/,
+ g /*hoverDelegateFactory*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nOc = e.$mOc = e.$lOc = void 0),

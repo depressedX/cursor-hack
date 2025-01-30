@@ -10,7 +10,15 @@ import '../../window.js';
 define(
 			de[2669],
 			he([1, 0, 2, 2668, 115, 13, 896, 2179, 75]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*dom*/,
+ w /*api*/,
+ E /*solid*/,
+ C /*popper-context*/,
+ d /*utils*/,
+ m /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Nmb = r);
 				function r(u) {

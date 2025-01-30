@@ -11,7 +11,16 @@ import '../../../../services/extensions/common/extensionsRegistry.js';
 define(
 			de[3325],
 			he([1, 0, 3, 19, 26, 4, 8, 34, 569, 175]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*resources*/,
+ w /*themables*/,
+ E /*nls*/,
+ C /*contextkey*/,
+ d /*log*/,
+ m /*languageModelToolsService*/,
+ r /*extensionsRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$YIc = void 0),

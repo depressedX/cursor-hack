@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/observable.js';
 import '../../../../nls.js';
-define(de[443], he([1, 0, 77, 4]), function (ce, e, t, i) {
+define(de[443], he([1, 0, 77, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*observable*/,
+ i /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$SJc =

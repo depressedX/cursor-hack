@@ -14,7 +14,19 @@ import '../../../../../services/workspaces/browser/sourceFilesService.js';
 define(
 			de[3919],
 			he([1, 0, 322, 59, 12, 19, 9, 63, 44, 1271, 444, 819, 632]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fuzzyScorer*/,
+ i /*map*/,
+ w /*platform*/,
+ E /*resources*/,
+ C /*uri*/,
+ d /*quickInput*/,
+ m /*editor*/,
+ r /*constants*/,
+ u /*types*/,
+ a /*utils*/,
+ h /*sourceFilesService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$V_b = c);
 				async function c(n, g, p) {

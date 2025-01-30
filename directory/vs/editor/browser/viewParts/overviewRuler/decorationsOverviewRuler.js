@@ -12,7 +12,17 @@ import '../../../../base/common/arrays.js';
 define(
 			de[2850],
 			he([1, 0, 194, 97, 303, 48, 74, 307, 38, 290, 24]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*color*/,
+ w /*viewPart*/,
+ E /*position*/,
+ C /*languages*/,
+ d /*editorColorRegistry*/,
+ m /*editorOptions*/,
+ r /*viewModel*/,
+ u /*arrays*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Gvb = void 0);

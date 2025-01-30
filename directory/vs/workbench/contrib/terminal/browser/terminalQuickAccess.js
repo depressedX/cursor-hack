@@ -17,7 +17,22 @@ import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1802],
 			he([1, 0, 4, 392, 132, 107, 31, 145, 35, 26, 689, 514, 469, 117, 18, 5]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*pickerQuickAccess*/,
+ w /*filters*/,
+ E /*terminal*/,
+ C /*commands*/,
+ d /*terminal*/,
+ m /*themeService*/,
+ r /*themables*/,
+ u /*terminalIcons*/,
+ a /*terminalIcon*/,
+ h /*terminalStrings*/,
+ c /*terminal*/,
+ n /*editorService*/,
+ g /*instantiation*/) {
 				"use strict";
 				var p;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

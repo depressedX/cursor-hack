@@ -14,7 +14,19 @@ import './utils.js';
 define(
 			de[1447],
 			he([1, 0, 80, 234, 263, 1099, 1095, 453, 301, 639, 1100, 1446, 1096]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*currentScopes*/,
+ w /*debug-build*/,
+ E /*envelope*/,
+ C /*metric-summary*/,
+ d /*semanticAttributes*/,
+ m /*spanUtils*/,
+ r /*dynamicSamplingContext*/,
+ u /*logSpans*/,
+ a /*measurement*/,
+ h /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.SentrySpan = void 0);

@@ -8,7 +8,13 @@ import '../common/window.js';
 define(
 			de[676],
 			he([1, 0, 139, 7, 75, 320, 253]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*browser*/,
+ i /*dom*/,
+ w /*window*/,
+ E /*globals*/,
+ C /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$18c = e.$Z8c = e.ApplyZoomTarget = void 0),

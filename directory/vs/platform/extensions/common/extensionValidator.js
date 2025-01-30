@@ -9,7 +9,14 @@ import './extensionsApiProposals.js';
 define(
 		de[772],
 		he([1, 0, 19, 111, 4, 464, 109, 1179]),
-		function (ce, e, t, i, w, E, C, d) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*resources*/,
+ i /*severity*/,
+ w /*nls*/,
+ E /*semver*/,
+ C /*extensions*/,
+ d /*extensionsApiProposals*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$sq = u),

@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './errors.js';
 import './keyCodes.js';
 import './platform.js';
-define(de[343], he([1, 0, 29, 27, 12]), function (ce, e, t, i, w) {
+define(de[343], he([1, 0, 29, 27, 12]), function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*keyCodes*/,
+ w /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$xs = e.$ws = e.$vs = e.$us = e.$ts = void 0),

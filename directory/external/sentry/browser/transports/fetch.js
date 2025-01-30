@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../browser-utils/index.js';
 import '../../core/index.js';
 import '../../utils/index.js';
-define(de[1104], he([1, 0, 641, 144, 80]), function (ce, e, t, i, w) {
+define(de[1104], he([1, 0, 641, 144, 80]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*index*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.makeFetchTransport = E);

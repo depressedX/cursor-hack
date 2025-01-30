@@ -13,7 +13,18 @@ import '../../../../base/common/platform.js';
 define(
 			de[246],
 			he([1, 0, 83, 58, 47, 116, 41, 140, 169, 298, 7, 12]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*utils_pb*/,
+ i /*constants*/,
+ w /*uuid*/,
+ E /*editor*/,
+ C /*opener*/,
+ d /*chatData*/,
+ m /*constants*/,
+ r /*selectedContextData*/,
+ u /*dom*/,
+ a /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.getAgenticModeToggleButtonId =

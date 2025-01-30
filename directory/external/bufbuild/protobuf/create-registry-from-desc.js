@@ -21,7 +21,23 @@ define(
 				1, 0, 451, 406, 874, 723, 1405, 1401, 875, 1402, 1403, 1404, 1083, 1407,
 				724, 1409, 524,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*proto3*/,
+ w /*proto2*/,
+ E /*names*/,
+ C /*timestamp_pb*/,
+ d /*duration_pb*/,
+ m /*any_pb*/,
+ r /*empty_pb*/,
+ u /*field_mask_pb*/,
+ a /*struct_pb*/,
+ h /*enum*/,
+ c /*wrappers_pb*/,
+ n /*descriptor_pb*/,
+ g /*create-descriptor-set*/,
+ p /*is-message*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.createRegistryFromDescriptors = b);

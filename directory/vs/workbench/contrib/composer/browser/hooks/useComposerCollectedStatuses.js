@@ -8,7 +8,13 @@ import './useComposerDataHandle.js';
 define(
 			de[1366],
 			he([1, 0, 13, 4156, 225, 36, 177]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*useReactiveCodeBlocksOfStatuses*/,
+ w /*composerData*/,
+ E /*solid*/,
+ C /*useComposerDataHandle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.useComposerCollectedStatuses = d);

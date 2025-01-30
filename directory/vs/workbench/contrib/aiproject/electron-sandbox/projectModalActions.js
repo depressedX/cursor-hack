@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../platform/actions/common/actions.js';
 import '../../../../platform/telemetry/common/telemetry.js';
 import '../../../services/ai/browser/modalService.js';
-define(de[3227], he([1, 0, 11, 32, 445]), function (ce, e, t, i, w) {
+define(de[3227], he([1, 0, 11, 32, 445]), function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*telemetry*/,
+ w /*modalService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Gfd = e.$Ffd = void 0);

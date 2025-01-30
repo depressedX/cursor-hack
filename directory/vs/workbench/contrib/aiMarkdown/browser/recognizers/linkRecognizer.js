@@ -4,7 +4,12 @@ import '../../../../../../external/solid/web.js';
 import '../../../../../../external/solid/web.js';
 import '../../../../../../external/solid/web.js';
 import '../markdownData.js';
-define(de[2989], he([1, 0, 2, 2, 2, 236]), function (ce, e, t, i, w, E) {
+define(de[2989], he([1, 0, 2, 2, 2, 236]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*markdownData*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$R$b = void 0);
 			const C = (0, t.template)('<span class="markdown-link">');

@@ -13,7 +13,18 @@ import '../notebookViewEvents.js';
 define(
 			de[855],
 			he([1, 0, 6, 47, 10, 108, 1959, 70, 42, 155, 65, 990]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*uuid*/,
+ w /*configuration*/,
+ E /*notebookBrowser*/,
+ C /*baseCellViewModel*/,
+ d /*notebookCommon*/,
+ m /*resolverService*/,
+ r /*undoRedo*/,
+ u /*codeEditorService*/,
+ a /*notebookViewEvents*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$41b = void 0),

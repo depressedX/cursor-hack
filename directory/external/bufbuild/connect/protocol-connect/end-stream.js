@@ -7,7 +7,12 @@ import '../code.js';
 define(
 			de[1410],
 			he([1, 0, 1089, 876, 213, 202]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*error-json*/,
+ i /*http-headers*/,
+ w /*connect-error*/,
+ E /*code*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.endStreamFlag = void 0),

@@ -12,7 +12,17 @@ import '../../../base/common/errors.js';
 define(
 		de[3217],
 		he([1, 0, 4, 11, 372, 57, 110, 163, 62, 12, 29]),
-		function (ce, e, t, i, w, E, C, d, m, r, u) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*product*/,
+ E /*dialogs*/,
+ C /*native*/,
+ d /*errorMessage*/,
+ m /*productService*/,
+ r /*platform*/,
+ u /*errors*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$gdd = e.$fdd = e.$edd = e.$ddd = void 0),

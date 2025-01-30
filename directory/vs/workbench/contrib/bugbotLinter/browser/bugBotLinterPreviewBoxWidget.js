@@ -12,7 +12,16 @@ import '../../../../css!vs/workbench/contrib/bugbotLinter/browser/bugBotLinterSt
 define(
 			de[4269],
 			he([1, 0, 7, 3, 56, 5, 850, 4268, 45, 13, 1522]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*editorBrowser*/,
+ E /*instantiation*/,
+ C /*bugBotLinterService*/,
+ d /*renderBugBotLinterPreviewBox*/,
+ m /*reactiveStorageService*/,
+ r /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$DAc = void 0),

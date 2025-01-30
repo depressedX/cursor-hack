@@ -4,7 +4,12 @@ import '../../../../platform/log/common/log.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../../platform/configuration/common/configuration.js';
 import '../../../../base/common/linkedList.js';
-define(de[3856], he([1, 0, 34, 3, 10, 273]), function (ce, e, t, i, w, E) {
+define(de[3856], he([1, 0, 34, 3, 10, 273]), function (ce /*require*/,
+ e /*exports*/,
+ t /*log*/,
+ i /*lifecycle*/,
+ w /*configuration*/,
+ E /*linkedList*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$9Y = void 0);
 			let C = class extends i.$1c {

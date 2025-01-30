@@ -12,7 +12,17 @@ import '../../inlineDiffs/browser/controllers/inlineDiffController.js';
 define(
 			de[4220],
 			he([1, 0, 2, 13, 36, 19, 480, 4219, 385, 534, 851]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*solid*/,
+ w /*solid*/,
+ E /*resources*/,
+ C /*fastEditService*/,
+ d /*pureAIPromptBar*/,
+ m /*useKeyboardShortcut*/,
+ r /*inlineDiffTypes*/,
+ u /*inlineDiffController*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$olc = a),

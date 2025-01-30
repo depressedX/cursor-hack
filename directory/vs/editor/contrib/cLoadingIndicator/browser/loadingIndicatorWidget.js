@@ -10,7 +10,14 @@ import '../../../../css!vs/editor/contrib/cLoadingIndicator/browser/loadingIndic
 define(
 			de[2857],
 			he([1, 0, 7, 159, 97, 3, 56, 35, 2289]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*touch*/,
+ w /*color*/,
+ E /*lifecycle*/,
+ C /*editorBrowser*/,
+ d /*themeService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Slc = void 0),

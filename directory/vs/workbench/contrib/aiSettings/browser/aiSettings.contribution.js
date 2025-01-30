@@ -11,7 +11,14 @@ import './aiSettingsActions.js';
 define(
 			de[4353],
 			he([1, 0, 30, 44, 192, 1383, 102, 1383, 1997, 1998]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*editor*/,
+ w /*editor*/,
+ E /*aiSettingsEditor*/,
+ C /*descriptors*/,
+ d /*aiSettingsEditor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					t.$Io

@@ -18,7 +18,23 @@ import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[1964],
 			he([1, 0, 148, 3, 33, 322, 59, 65, 22, 20, 5, 45, 721, 118, 560, 47, 25]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*aiserver_pb*/,
+ i /*lifecycle*/,
+ w /*cancellation*/,
+ E /*fuzzyScorer*/,
+ C /*map*/,
+ d /*codeEditorService*/,
+ m /*files*/,
+ r /*extensions*/,
+ u /*instantiation*/,
+ a /*reactiveStorageService*/,
+ h /*anythingQuickAccess*/,
+ c /*aiService*/,
+ n /*recentFilesTrackerService*/,
+ g /*uuid*/,
+ p /*workspace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Vcc = void 0),

@@ -10,7 +10,14 @@ import '../../../../css!vs/editor/contrib/wordHighlighter/browser/highlightDecor
 define(
 			de[1695],
 			he([1, 0, 64, 122, 74, 4, 51, 35, 2326]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*model*/,
+ i /*textModel*/,
+ w /*languages*/,
+ E /*nls*/,
+ C /*colorRegistry*/,
+ d /*themeService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mPb = f),

@@ -9,7 +9,14 @@ import '../../../../services/selectedContext/browser/utils.js';
 define(
 			de[3616],
 			he([1, 0, 2, 2, 13, 58, 236, 299]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*solid*/,
+ E /*constants*/,
+ C /*markdownData*/,
+ d /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$a$b = void 0);

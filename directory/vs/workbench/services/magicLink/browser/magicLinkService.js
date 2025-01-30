@@ -15,7 +15,20 @@ import '../../../contrib/aichat/browser/chatDataService.js';
 define(
 			de[241],
 			he([1, 0, 3, 59, 9, 69, 42, 22, 20, 5, 45, 465, 25, 337]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*map*/,
+ w /*uri*/,
+ E /*languageFeatures*/,
+ C /*resolverService*/,
+ d /*files*/,
+ m /*extensions*/,
+ r /*instantiation*/,
+ u /*reactiveStorageService*/,
+ a /*url*/,
+ h /*workspace*/,
+ c /*chatDataService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$r8b = e.$q8b = void 0);

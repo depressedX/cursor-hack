@@ -14,7 +14,19 @@ import './testProviders/mochaProvider.js';
 define(
 			de[1887],
 			he([1, 0, 20, 5, 10, 61, 25, 42, 85, 110, 697, 3703, 3702]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*instantiation*/,
+ w /*configuration*/,
+ E /*language*/,
+ C /*workspace*/,
+ d /*resolverService*/,
+ m /*textfiles*/,
+ r /*native*/,
+ u /*simpleTestService*/,
+ a /*vitestProvider*/,
+ h /*mochaProvider*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$9dd = e.$8dd = void 0),

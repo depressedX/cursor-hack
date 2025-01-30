@@ -85,7 +85,8 @@ define(
 				2805, 1983, 2003, 3937, 3167, 1348, 2860, 2858, 4367, 2879, 3935, 1241,
 				761, 1135, 2244,
 			]),
-			function (ce, e) {
+			function (ce /*require*/,
+ e /*exports*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 			},

@@ -10,7 +10,14 @@ import '../../../../css!vs/base/browser/ui/radio/radio.js';
 define(
 			de[2683],
 			he([1, 0, 235, 6, 7, 183, 3, 95, 2249]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*widget*/,
+ i /*event*/,
+ w /*dom*/,
+ E /*button*/,
+ C /*lifecycle*/,
+ d /*hoverDelegateFactory*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$cpb = void 0);

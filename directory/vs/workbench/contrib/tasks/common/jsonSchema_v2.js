@@ -11,7 +11,16 @@ import '../../../../base/common/codicons.js';
 define(
 		de[3327],
 		he([1, 0, 4, 82, 1813, 570, 699, 1796, 1795, 14]),
-		function (ce, e, t, i, w, E, C, d, m, r) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*objects*/,
+ w /*jsonSchemaCommon*/,
+ E /*problemMatcher*/,
+ C /*taskDefinitionRegistry*/,
+ d /*configurationResolverUtils*/,
+ m /*configurationResolverSchema*/,
+ r /*codicons*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$1Wc = A),

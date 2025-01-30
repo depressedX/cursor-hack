@@ -17,7 +17,22 @@ import '../../../services/host/browser/host.js';
 define(
 			de[3387],
 			he([1, 0, 50, 3, 1501, 4, 57, 5, 110, 62, 84, 21, 112, 517, 53, 87]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*lifecycle*/,
+ w /*ports*/,
+ E /*nls*/,
+ C /*dialogs*/,
+ d /*instantiation*/,
+ m /*native*/,
+ r /*productService*/,
+ u /*progress*/,
+ a /*storage*/,
+ h /*debug*/,
+ c /*extensionHostKind*/,
+ n /*extensions*/,
+ g /*host*/) {
 				"use strict";
 				var p;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

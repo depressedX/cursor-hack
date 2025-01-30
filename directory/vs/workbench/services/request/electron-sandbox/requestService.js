@@ -9,7 +9,14 @@ import '../../../../platform/native/common/native.js';
 define(
 			de[3592],
 			he([1, 0, 10, 34, 2792, 20, 327, 110]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*configuration*/,
+ i /*log*/,
+ w /*requestService*/,
+ E /*extensions*/,
+ C /*request*/,
+ d /*native*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ydd = void 0);

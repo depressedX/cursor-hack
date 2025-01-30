@@ -8,7 +8,13 @@ import '../../../../platform/keybinding/common/baseResolvedKeybinding.js';
 define(
 			de[3394],
 			he([1, 0, 120, 27, 343, 12, 1187]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*keyCodes*/,
+ w /*keybindings*/,
+ E /*platform*/,
+ C /*baseResolvedKeybinding*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$A4c = e.$z4c = void 0);

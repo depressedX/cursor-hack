@@ -12,7 +12,17 @@ import '../../../../platform/product/common/productService.js';
 define(
 			de[3307],
 			he([1, 0, 151, 30, 81, 53, 31, 22, 76, 9, 62]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*environmentService*/,
+ i /*platform*/,
+ w /*configurationRegistry*/,
+ E /*extensions*/,
+ C /*commands*/,
+ d /*files*/,
+ m /*buffer*/,
+ r /*uri*/,
+ u /*productService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$igd = void 0);

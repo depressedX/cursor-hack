@@ -25,7 +25,26 @@ define(
 			1, 0, 7, 114, 268, 24, 15, 14, 6, 27, 3, 12, 111, 26, 4, 63, 1625, 10, 72,
 			8, 1138,
 		]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*keyboardEvent*/,
+ w /*toggle*/,
+ E /*arrays*/,
+ C /*async*/,
+ d /*codicons*/,
+ m /*event*/,
+ r /*keyCodes*/,
+ u /*lifecycle*/,
+ a /*platform*/,
+ h /*severity*/,
+ c /*themables*/,
+ n /*nls*/,
+ g /*quickInput*/,
+ p /*quickInputUtils*/,
+ o /*configuration*/,
+ f /*hover*/,
+ b /*contextkey*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Hxc =

@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './protocol-connect/transport.js';
 import './protocol/universal-handler-client.js';
 import './router.js';
-define(de[2054], he([1, 0, 2049, 2026, 1412]), function (ce, e, t, i, w) {
+define(de[2054], he([1, 0, 2049, 2026, 1412]), function (ce /*require*/,
+ e /*exports*/,
+ t /*transport*/,
+ i /*universal-handler-client*/,
+ w /*router*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.createRouterTransport = E);

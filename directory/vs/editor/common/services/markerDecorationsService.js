@@ -17,7 +17,22 @@ import '../../../base/common/collections.js';
 define(
 			de[2855],
 			he([1, 0, 90, 3, 64, 946, 35, 307, 67, 17, 23, 6, 51, 58, 59, 456]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*markers*/,
+ i /*lifecycle*/,
+ w /*model*/,
+ E /*intervalTree*/,
+ C /*themeService*/,
+ d /*editorColorRegistry*/,
+ m /*model*/,
+ r /*range*/,
+ u /*network*/,
+ a /*event*/,
+ h /*colorRegistry*/,
+ c /*constants*/,
+ n /*map*/,
+ g /*collections*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$RAc = void 0);

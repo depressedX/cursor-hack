@@ -24,7 +24,26 @@ define(
 				1, 0, 214, 15, 27, 3, 210, 655, 38, 248, 48, 17, 104, 98, 64, 543, 1688,
 				2583, 1550, 8,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arraysFind*/,
+ i /*async*/,
+ w /*keyCodes*/,
+ E /*lifecycle*/,
+ C /*uint*/,
+ d /*replaceCommand*/,
+ m /*editorOptions*/,
+ r /*cursorEvents*/,
+ u /*position*/,
+ a /*range*/,
+ h /*selection*/,
+ c /*editorCommon*/,
+ n /*model*/,
+ g /*textModelSearch*/,
+ p /*findDecorations*/,
+ o /*replaceAllCommand*/,
+ f /*replacePattern*/,
+ b /*contextkey*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$k2b =

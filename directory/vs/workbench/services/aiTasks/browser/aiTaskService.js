@@ -22,7 +22,24 @@ define(
 				1, 0, 3, 20, 45, 1054, 529, 148, 47, 118, 32, 340, 401, 59, 516, 341,
 				191, 2195,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*extensions*/,
+ w /*reactiveStorageService*/,
+ E /*toolformerService*/,
+ C /*result*/,
+ d /*aiserver_pb*/,
+ m /*uuid*/,
+ r /*aiService*/,
+ u /*telemetry*/,
+ a /*connect*/,
+ h /*aiErrorService*/,
+ c /*map*/,
+ n /*aiTaskServiceInterface*/,
+ g /*aiserver_connectweb*/,
+ p /*utils*/,
+ o /*externalTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$GAc = void 0);

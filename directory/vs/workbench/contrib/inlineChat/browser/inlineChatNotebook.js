@@ -14,7 +14,19 @@ import '../../notebook/browser/diff/notebookMultiDiffEditor.js';
 define(
 			de[4102],
 			he([1, 0, 29, 3, 23, 19, 427, 798, 293, 70, 18, 1361, 1320]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*lifecycle*/,
+ w /*network*/,
+ E /*resources*/,
+ C /*inlineChatController*/,
+ d /*inlineChatSessionService*/,
+ m /*notebookEditorService*/,
+ r /*notebookCommon*/,
+ u /*editorService*/,
+ a /*notebookDiffEditor*/,
+ h /*notebookMultiDiffEditor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jJc = void 0);

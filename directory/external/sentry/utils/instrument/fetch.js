@@ -9,7 +9,14 @@ import './handlers.js';
 define(
 			de[2087],
 			he([1, 0, 430, 528, 1433, 1093, 365, 726]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*is*/,
+ i /*object*/,
+ w /*supports*/,
+ E /*time*/,
+ C /*worldwide*/,
+ d /*handlers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.addFetchInstrumentationHandler = m),

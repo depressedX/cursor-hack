@@ -23,7 +23,25 @@ define(
 				1, 0, 76, 33, 6, 3, 162, 28, 9, 31, 34, 1027, 991, 161, 101, 622, 88,
 				197, 24,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*cancellation*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*stopwatch*/,
+ d /*types*/,
+ m /*uri*/,
+ r /*commands*/,
+ u /*log*/,
+ a /*mainThreadNotebookDto*/,
+ h /*notebookCellStatusBarService*/,
+ c /*notebookService*/,
+ n /*extHostCustomers*/,
+ g /*proxyIdentifier*/,
+ p /*extHost.protocol*/,
+ o /*marshalling*/,
+ f /*arrays*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Cpc = void 0);

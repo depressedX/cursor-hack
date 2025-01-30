@@ -23,7 +23,25 @@ define(
 				1, 0, 76, 29, 6, 3, 23, 82, 28, 10, 32, 416, 70, 557, 161, 170, 848,
 				1052, 334,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*errors*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*network*/,
+ d /*objects*/,
+ m /*types*/,
+ r /*configuration*/,
+ u /*telemetry*/,
+ a /*editorModel*/,
+ h /*notebookCommon*/,
+ c /*notebookLoggingService*/,
+ n /*notebookService*/,
+ g /*filesConfigurationService*/,
+ p /*fileWorkingCopy*/,
+ o /*storedFileWorkingCopy*/,
+ f /*workingCopy*/) {
 				"use strict";
 				var b;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -20,7 +20,22 @@ define(
 			he([
 				1, 0, 4, 7, 93, 5, 123, 2951, 1227, 49, 28, 100, 3, 682, 39, 10, 2351,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*dom*/,
+ w /*listService*/,
+ E /*instantiation*/,
+ C /*theme*/,
+ d /*notificationsViewer*/,
+ m /*notificationsActions*/,
+ r /*contextView*/,
+ u /*types*/,
+ a /*contextkeys*/,
+ h /*lifecycle*/,
+ c /*notificationsCommands*/,
+ n /*keybinding*/,
+ g /*configuration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$g3c = void 0);

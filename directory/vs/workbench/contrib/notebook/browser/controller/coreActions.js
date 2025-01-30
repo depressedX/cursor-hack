@@ -17,7 +17,22 @@ import '../../../../../base/common/resources.js';
 define(
 			de[238],
 			he([1, 0, 9, 4, 11, 8, 43, 108, 176, 442, 18, 44, 293, 32, 221, 19]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*nls*/,
+ w /*actions*/,
+ E /*contextkey*/,
+ C /*keybindingsRegistry*/,
+ d /*notebookBrowser*/,
+ m /*notebookContextKeys*/,
+ r /*notebookRange*/,
+ u /*editorService*/,
+ a /*editor*/,
+ h /*notebookEditorService*/,
+ c /*telemetry*/,
+ n /*marshallingIds*/,
+ g /*resources*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$D5b =

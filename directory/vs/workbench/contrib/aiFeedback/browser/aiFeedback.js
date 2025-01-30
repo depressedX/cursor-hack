@@ -13,7 +13,18 @@ import '../../../services/editor/common/editorService.js';
 define(
 			de[4312],
 			he([1, 0, 5, 180, 3, 30, 4311, 55, 52, 31, 1705, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*layoutService*/,
+ w /*lifecycle*/,
+ E /*platform*/,
+ C /*entrypoint*/,
+ d /*contributions*/,
+ m /*lifecycle*/,
+ r /*commands*/,
+ u /*aiFeedbackOpenService*/,
+ a /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let h = class extends w.$1c {

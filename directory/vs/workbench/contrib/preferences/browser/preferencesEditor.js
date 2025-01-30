@@ -10,7 +10,15 @@ import '../../../services/preferences/common/preferencesModels.js';
 define(
 			de[3758],
 			he([1, 0, 3, 10, 5, 25, 3757, 131, 838]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*configuration*/,
+ w /*instantiation*/,
+ E /*workspace*/,
+ C /*preferencesRenderers*/,
+ d /*preferences*/,
+ m /*preferencesModels*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$sCc = void 0);

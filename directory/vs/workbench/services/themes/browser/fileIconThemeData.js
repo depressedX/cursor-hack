@@ -12,7 +12,17 @@ import '../../../../base/browser/window.js';
 define(
 			de[1889],
 			he([1, 0, 4, 54, 19, 187, 333, 754, 7, 21, 75]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*path*/,
+ w /*resources*/,
+ E /*json*/,
+ C /*workbenchThemeService*/,
+ d /*jsonErrorMessages*/,
+ m /*dom*/,
+ r /*storage*/,
+ u /*window*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fwc = e.$ewc = void 0),

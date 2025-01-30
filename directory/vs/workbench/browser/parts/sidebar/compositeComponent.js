@@ -17,7 +17,22 @@ import '../../../../platform/progress/common/progress.js';
 define(
 			de[3595],
 			he([1, 0, 2, 2, 2, 2, 2, 13, 7, 1035, 128, 105, 707, 436, 106, 84]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*solid*/,
+ m /*dom*/,
+ r /*types*/,
+ u /*serviceCollection*/,
+ a /*actionbar*/,
+ h /*progressIndicator*/,
+ c /*progressbar*/,
+ n /*defaultStyles*/,
+ g /*progress*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$1uc = f);
 				const p = (0, t.template)("<div>"),

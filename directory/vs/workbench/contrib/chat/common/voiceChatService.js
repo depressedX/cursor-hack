@@ -12,7 +12,17 @@ import '../../speech/common/speechService.js';
 define(
 			de[1755],
 			he([1, 0, 4, 6, 3, 37, 8, 5, 153, 329, 511]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*strings*/,
+ C /*contextkey*/,
+ d /*instantiation*/,
+ m /*chatAgents*/,
+ r /*chatParserTypes*/,
+ u /*speechService*/) {
 				"use strict";
 				var a;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

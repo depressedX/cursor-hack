@@ -8,7 +8,13 @@ import '../../common/testingUri.js';
 define(
 			de[1002],
 			he([1, 0, 221, 17, 259, 185, 813]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*marshallingIds*/,
+ i /*range*/,
+ w /*testId*/,
+ E /*testTypes*/,
+ C /*testingUri*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jLc =

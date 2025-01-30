@@ -17,7 +17,22 @@ import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3438],
 			he([1, 0, 6, 3, 9, 8, 116, 5, 117, 107, 833, 690, 237, 66, 18, 52]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*contextkey*/,
+ C /*editor*/,
+ d /*instantiation*/,
+ m /*terminal*/,
+ r /*terminal*/,
+ u /*terminalEditorInput*/,
+ a /*terminalUri*/,
+ h /*terminalContextKey*/,
+ c /*editorGroupsService*/,
+ n /*editorService*/,
+ g /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$XUc = void 0);

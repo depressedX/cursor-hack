@@ -7,7 +7,12 @@ import '../../../../base/common/codicons.js';
 define(
 			de[1743],
 			he([1, 0, 11, 558, 467, 14]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*constants*/,
+ w /*notepad*/,
+ E /*codicons*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wAc = void 0);

@@ -22,7 +22,24 @@ define(
 				1, 0, 33, 132, 103, 3, 65, 38, 17, 588, 74, 69, 1596, 373, 1673, 1221,
 				1609, 121,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*filters*/,
+ w /*iterator*/,
+ E /*lifecycle*/,
+ C /*codeEditorService*/,
+ d /*editorOptions*/,
+ m /*range*/,
+ r /*editorFeatures*/,
+ u /*languages*/,
+ a /*languageFeatures*/,
+ h /*completionModel*/,
+ c /*suggest*/,
+ n /*suggestMemory*/,
+ g /*suggestModel*/,
+ p /*wordDistance*/,
+ o /*clipboardService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wkc = void 0);

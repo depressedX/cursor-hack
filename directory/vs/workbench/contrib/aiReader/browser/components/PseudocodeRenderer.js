@@ -18,7 +18,23 @@ import '../../../controlCommon/browser/solid.js';
 define(
 			de[4133],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 26, 9, 17, 116, 41, 3020, 502, 36]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*themables*/,
+ u /*uri*/,
+ a /*range*/,
+ h /*editor*/,
+ c /*opener*/,
+ n /*pseudocodeBlock*/,
+ g /*icons*/,
+ p /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$wZc = y);
 				const o = (0, t.template)("<div>"),

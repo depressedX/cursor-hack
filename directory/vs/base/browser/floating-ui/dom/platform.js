@@ -12,7 +12,17 @@ import './utils/is.js';
 define(
 			de[1576],
 			he([1, 0, 2664, 2666, 662, 2659, 538, 2661, 2667, 929, 324]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*convertOffsetParentRelativeRectToViewportRelativeRect*/,
+ i /*getClippingRect*/,
+ w /*getComputedStyle*/,
+ E /*getDimensions*/,
+ C /*getDocumentElement*/,
+ d /*getOffsetParent*/,
+ m /*getRectRelativeToOffsetParent*/,
+ r /*getScale*/,
+ u /*is*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Lmb = void 0),

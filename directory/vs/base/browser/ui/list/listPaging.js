@@ -10,7 +10,14 @@ import '../../../../css!vs/base/browser/ui/list/list.js';
 define(
 			de[1578],
 			he([1, 0, 24, 33, 6, 3, 278, 7, 1512]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*cancellation*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*listWidget*/,
+ d /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$8ob = void 0);

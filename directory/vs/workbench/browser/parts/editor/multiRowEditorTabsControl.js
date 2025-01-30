@@ -8,7 +8,13 @@ import '../../../common/editor/filteredEditorGroupModel.js';
 define(
 			de[4009],
 			he([1, 0, 7, 5, 1935, 3, 1700]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*instantiation*/,
+ w /*multiEditorTabsControl*/,
+ E /*lifecycle*/,
+ C /*filteredEditorGroupModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$mtc = void 0);

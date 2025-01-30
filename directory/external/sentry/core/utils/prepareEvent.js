@@ -9,7 +9,14 @@ import './applyScopeDataToEvent.js';
 define(
 			de[1101],
 			he([1, 0, 80, 879, 234, 1437, 732, 1450]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*constants*/,
+ w /*currentScopes*/,
+ E /*eventProcessors*/,
+ C /*scope*/,
+ d /*applyScopeDataToEvent*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.prepareEvent = m),

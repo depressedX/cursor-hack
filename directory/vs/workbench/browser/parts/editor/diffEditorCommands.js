@@ -15,7 +15,20 @@ import '../../../services/editor/common/editorService.js';
 define(
 			de[1916],
 			he([1, 0, 27, 19, 9, 125, 4, 11, 8, 43, 1338, 100, 296, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*resources*/,
+ w /*uri*/,
+ E /*textResourceConfiguration*/,
+ C /*nls*/,
+ d /*actions*/,
+ m /*contextkey*/,
+ r /*keybindingsRegistry*/,
+ u /*textDiffEditor*/,
+ a /*contextkeys*/,
+ h /*diffEditorInput*/,
+ c /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$RVb =

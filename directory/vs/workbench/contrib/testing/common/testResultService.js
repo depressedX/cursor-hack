@@ -17,7 +17,22 @@ import './testTypes.js';
 define(
 			de[381],
 			he([1, 0, 214, 15, 6, 288, 3, 47, 8, 5, 32, 380, 420, 421, 1774, 185]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arraysFind*/,
+ i /*async*/,
+ w /*event*/,
+ E /*functional*/,
+ C /*lifecycle*/,
+ d /*uuid*/,
+ m /*contextkey*/,
+ r /*instantiation*/,
+ u /*telemetry*/,
+ a /*testingContextKeys*/,
+ h /*testProfileService*/,
+ c /*testResult*/,
+ n /*testResultStorage*/,
+ g /*testTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Lqc = e.$Kqc = void 0);

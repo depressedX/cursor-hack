@@ -10,7 +10,15 @@ import './observableInternal/logging.js';
 define(
 			de[77],
 			he([1, 0, 407, 319, 1133, 457, 1503, 2221, 742]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*base*/,
+ i /*derived*/,
+ w /*autorun*/,
+ E /*utils*/,
+ C /*promise*/,
+ d /*api*/,
+ m /*logging*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.observableValueOpts =

@@ -13,7 +13,18 @@ import '../../../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3468],
 			he([1, 0, 15, 3, 9, 30, 55, 112, 70, 611, 190, 52]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*platform*/,
+ C /*contributions*/,
+ d /*debug*/,
+ m /*notebookCommon*/,
+ r /*notebookExecutionService*/,
+ u /*notebookExecutionStateService*/,
+ a /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let h = class extends i.$1c {

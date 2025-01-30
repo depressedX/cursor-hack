@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../debug-build.js';
 import '../logger.js';
 import '../stacktrace.js';
-define(de[726], he([1, 0, 577, 527, 725]), function (ce, e, t, i, w) {
+define(de[726], he([1, 0, 577, 527, 725]), function (ce /*require*/,
+ e /*exports*/,
+ t /*debug-build*/,
+ i /*logger*/,
+ w /*stacktrace*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.addHandler = d),

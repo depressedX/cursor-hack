@@ -10,7 +10,15 @@ import '../view/cellParts/cellActionView.js';
 define(
 			de[3110],
 			he([1, 0, 7, 3, 173, 11, 49, 5, 801]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*toolbar*/,
+ E /*actions*/,
+ C /*contextView*/,
+ d /*instantiation*/,
+ m /*cellActionView*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$p4b = void 0),

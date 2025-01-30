@@ -17,7 +17,21 @@ import '../../../../css!vs/workbench/browser/parts/editor/renderEditorEmptyScree
 define(
 			de[4223],
 			he([1, 0, 2, 2, 2, 13, 147, 14, 222, 73, 256, 36, 571, 141, 60, 2347]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*simpleButton*/,
+ d /*codicons*/,
+ m /*labels*/,
+ r /*label*/,
+ u /*workspaces*/,
+ a /*solid*/,
+ h /*windowActions*/,
+ c /*extensions*/,
+ n /*views*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Cuc = s);
 				const g = (0, t.template)(

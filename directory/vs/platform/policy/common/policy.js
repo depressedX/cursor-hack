@@ -4,7 +4,12 @@ import '../../../base/common/event.js';
 import '../../../base/common/iterator.js';
 import '../../../base/common/lifecycle.js';
 import '../../instantiation/common/instantiation.js';
-define(de[940], he([1, 0, 6, 103, 3, 5]), function (ce, e, t, i, w, E) {
+define(de[940], he([1, 0, 6, 103, 3, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*iterator*/,
+ w /*lifecycle*/,
+ E /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Mo = e.$Lo = e.$Ko = void 0),

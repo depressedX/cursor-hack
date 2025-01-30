@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../uint8arrays/alloc.js';
 import '../uint8arrays/concat.js';
 import '../uint8arrays/equals.js';
-define(de[2025], he([1, 0, 1394, 2024, 2022]), function (ce, e, t, i, w) {
+define(de[2025], he([1, 0, 1394, 2024, 2022]), function (ce /*require*/,
+ e /*exports*/,
+ t /*alloc*/,
+ i /*concat*/,
+ w /*equals*/) {
 			"use strict";
 			var E;
 			Object.defineProperty(e, "__esModule", { value: !0 }),

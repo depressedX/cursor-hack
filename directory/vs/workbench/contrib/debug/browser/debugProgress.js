@@ -8,7 +8,13 @@ import '../../../services/views/common/viewsService.js';
 define(
 			de[3816],
 			he([1, 0, 6, 3, 84, 112, 89]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*progress*/,
+ E /*debug*/,
+ C /*viewsService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$JQc = void 0);

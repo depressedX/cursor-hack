@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../nls.js';
 import '../../../../../platform/terminal/common/terminal.js';
-define(de[809], he([1, 0, 4, 117]), function (ce, e, t, i) {
+define(de[809], he([1, 0, 4, 117]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*terminal*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$gIb = e.$fIb = e.TerminalSuggestSettingId = void 0);

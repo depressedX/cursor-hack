@@ -12,7 +12,16 @@ import '../../../../css!vs/base/browser/solidComponents/switch/switch.js';
 define(
 			de[650],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 2230]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$dob = void 0);

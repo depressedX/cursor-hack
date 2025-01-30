@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './LexicalComposerContext.js';
 import './shared/useHistory.js';
 import '../lexical-history/api.js';
-define(de[2610], he([1, 0, 181, 1565, 922]), function (ce, e, t, i, w) {
+define(de[2610], he([1, 0, 181, 1565, 922]), function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalComposerContext*/,
+ i /*useHistory*/,
+ w /*api*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.createEmptyHistoryState = void 0),

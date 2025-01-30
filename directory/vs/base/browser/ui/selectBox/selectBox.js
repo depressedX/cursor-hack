@@ -9,7 +9,13 @@ import '../../../../css!vs/base/browser/ui/selectBox/selectBox.js';
 define(
 			de[596],
 			he([1, 0, 278, 2684, 2677, 235, 12, 2252]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*listWidget*/,
+ i /*selectBoxCustom*/,
+ w /*selectBoxNative*/,
+ E /*widget*/,
+ C /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5ib = e.$4ib = void 0),

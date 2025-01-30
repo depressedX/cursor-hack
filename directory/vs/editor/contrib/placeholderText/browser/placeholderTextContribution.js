@@ -10,7 +10,15 @@ import '../../../common/config/editorOptions.js';
 define(
 			de[1185],
 			he([1, 0, 7, 433, 3, 77, 319, 542, 38]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*equals*/,
+ w /*lifecycle*/,
+ E /*observable*/,
+ C /*derived*/,
+ d /*observableCodeEditor*/,
+ m /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ujc = void 0);

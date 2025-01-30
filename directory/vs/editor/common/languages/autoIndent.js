@@ -8,7 +8,13 @@ import './supports/indentationLineProcessor.js';
 define(
 			de[1184],
 			he([1, 0, 37, 532, 912, 38, 1151]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*languageConfiguration*/,
+ w /*indentRules*/,
+ E /*editorOptions*/,
+ C /*indentationLineProcessor*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Itb = m),

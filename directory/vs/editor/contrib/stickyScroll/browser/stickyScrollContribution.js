@@ -7,7 +7,12 @@ import '../../../../platform/actions/common/actions.js';
 define(
 			de[3612],
 			he([1, 0, 46, 3611, 1317, 11]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*stickyScrollActions*/,
+ w /*stickyScrollController*/,
+ E /*actions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, t.$qtb)(

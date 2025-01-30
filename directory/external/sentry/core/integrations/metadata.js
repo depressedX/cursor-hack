@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../utils/index.js';
 import '../integration.js';
 import '../metadata.js';
-define(de[2112], he([1, 0, 80, 316, 1438]), function (ce, e, t, i, w) {
+define(de[2112], he([1, 0, 80, 316, 1438]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*integration*/,
+ w /*metadata*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.moduleMetadataIntegration = void 0),

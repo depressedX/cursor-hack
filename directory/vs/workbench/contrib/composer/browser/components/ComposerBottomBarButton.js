@@ -14,7 +14,19 @@ import '../../../../../base/common/themables.js';
 define(
 			de[1778],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 311, 13, 26]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*useComposerHoverTooltip*/,
+ a /*solid*/,
+ h /*themables*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerBottomBarButton = p);

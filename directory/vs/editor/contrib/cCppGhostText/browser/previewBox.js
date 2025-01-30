@@ -8,7 +8,13 @@ import './utils.js';
 define(
 			de[2697],
 			he([1, 0, 17, 1155, 48, 9, 1547]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*range*/,
+ i /*lightweightTextModel*/,
+ w /*position*/,
+ E /*uri*/,
+ C /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Flc = r);
 				const d = (c, n, g, p = !1) => {

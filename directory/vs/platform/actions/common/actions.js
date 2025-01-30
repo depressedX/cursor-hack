@@ -12,7 +12,17 @@ import '../../keybinding/common/keybindingsRegistry.js';
 define(
 			de[11],
 			he([1, 0, 50, 26, 6, 3, 273, 31, 8, 5, 43]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*themables*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*linkedList*/,
+ d /*commands*/,
+ m /*contextkey*/,
+ r /*instantiation*/,
+ u /*keybindingsRegistry*/) {
 				"use strict";
 				var a;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

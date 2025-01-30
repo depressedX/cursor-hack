@@ -13,7 +13,18 @@ import '../core/position.js';
 define(
 			de[780],
 			he([1, 0, 4, 29, 104, 64, 155, 9, 1589, 76, 19, 48]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*errors*/,
+ w /*selection*/,
+ E /*model*/,
+ C /*undoRedo*/,
+ d /*uri*/,
+ m /*textChange*/,
+ r /*buffer*/,
+ u /*resources*/,
+ a /*position*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$zU = e.$xU = e.$wU = e.$vU = void 0),

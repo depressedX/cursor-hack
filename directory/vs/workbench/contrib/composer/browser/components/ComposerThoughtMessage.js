@@ -11,7 +11,15 @@ import '../../../../../css!vs/workbench/contrib/composer/browser/components/Comp
 define(
 			de[4280],
 			he([1, 0, 2, 2, 13, 338, 36, 696, 177, 2417]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*solid*/,
+ E /*markdown*/,
+ C /*solid*/,
+ d /*collapsible*/,
+ m /*useComposerDataHandle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerThoughtMessage = u);

@@ -13,7 +13,18 @@ import '../../../ui/browser/scrollableDiv.js';
 define(
 			de[4274],
 			he([1, 0, 2, 2, 2, 13, 41, 338, 36, 696, 1070, 135]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*opener*/,
+ d /*markdown*/,
+ m /*solid*/,
+ r /*collapsible*/,
+ u /*listContextDisplay*/,
+ a /*scrollableDiv*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerContextStep = c);

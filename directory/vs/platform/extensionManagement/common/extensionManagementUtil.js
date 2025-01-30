@@ -11,7 +11,16 @@ import '../../telemetry/common/telemetryUtils.js';
 define(
 			de[154],
 			he([1, 0, 37, 119, 109, 12, 9, 29, 344, 269]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*extensionManagement*/,
+ w /*extensions*/,
+ E /*platform*/,
+ C /*uri*/,
+ d /*errors*/,
+ m /*process*/,
+ r /*telemetryUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$dq = e.$8p = void 0),

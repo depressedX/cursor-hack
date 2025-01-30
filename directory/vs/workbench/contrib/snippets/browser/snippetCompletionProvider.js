@@ -17,7 +17,22 @@ import '../../../../platform/commands/common/commands.js';
 define(
 			de[1752],
 			he([1, 0, 94, 37, 48, 17, 74, 61, 389, 4, 510, 805, 132, 162, 152, 31]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*htmlContent*/,
+ i /*strings*/,
+ w /*position*/,
+ E /*range*/,
+ C /*languages*/,
+ d /*language*/,
+ m /*snippetParser*/,
+ r /*nls*/,
+ u /*snippets*/,
+ a /*snippetsFile*/,
+ h /*filters*/,
+ c /*stopwatch*/,
+ n /*languageConfigurationRegistry*/,
+ g /*commands*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tYb = e.$sYb = void 0);

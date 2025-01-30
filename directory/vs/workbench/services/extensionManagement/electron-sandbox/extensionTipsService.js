@@ -10,7 +10,15 @@ import '../../../../base/common/network.js';
 define(
 			de[3293],
 			he([1, 0, 20, 230, 119, 2897, 22, 62, 23]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extensions*/,
+ i /*services*/,
+ w /*extensionManagement*/,
+ E /*extensionTipsService*/,
+ C /*files*/,
+ d /*productService*/,
+ m /*network*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let r = class extends E.$R5c {

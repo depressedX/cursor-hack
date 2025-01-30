@@ -15,7 +15,20 @@ import '../../../../base/common/strings.js';
 define(
 			de[1202],
 			he([1, 0, 117, 3, 675, 1653, 2823, 189, 2825, 6, 2821, 9, 775, 37]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*terminal*/,
+ i /*lifecycle*/,
+ w /*terminalCapabilityStore*/,
+ E /*commandDetectionCapability*/,
+ C /*cwdDetectionCapability*/,
+ d /*capabilities*/,
+ m /*partialCommandDetectionCapability*/,
+ r /*event*/,
+ u /*bufferMarkCapability*/,
+ a /*uri*/,
+ h /*terminalEnvironment*/,
+ c /*strings*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$RHb = e.ShellIntegrationOscPs = void 0),

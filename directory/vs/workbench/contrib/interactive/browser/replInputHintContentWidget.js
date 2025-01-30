@@ -16,7 +16,21 @@ import './interactiveCommon.js';
 define(
 			de[1858],
 			he([1, 0, 7, 127, 460, 6, 3, 12, 56, 38, 4, 10, 39, 130, 986]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*aria*/,
+ w /*keybindingLabel*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*platform*/,
+ m /*editorBrowser*/,
+ r /*editorOptions*/,
+ u /*nls*/,
+ a /*configuration*/,
+ h /*keybinding*/,
+ c /*accessibilityConfiguration*/,
+ n /*interactiveCommon*/) {
 				"use strict";
 				var g;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

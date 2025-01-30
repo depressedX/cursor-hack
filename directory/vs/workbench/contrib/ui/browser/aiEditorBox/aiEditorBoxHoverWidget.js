@@ -16,7 +16,20 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/aiEditorBox/aiEditorB
 define(
 			de[3188],
 			he([1, 0, 7, 159, 6, 3, 56, 38, 31, 39, 45, 169, 5, 4, 2506]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*touch*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*editorBrowser*/,
+ d /*editorOptions*/,
+ m /*commands*/,
+ r /*keybinding*/,
+ u /*reactiveStorageService*/,
+ a /*constants*/,
+ h /*instantiation*/,
+ c /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$dAc = e.$aAc = void 0),

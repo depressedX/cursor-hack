@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/iterator.js';
 import '../../../base/common/lifecycle.js';
 import '../../../base/common/linkedList.js';
-define(de[409], he([1, 0, 103, 3, 273]), function (ce, e, t, i, w) {
+define(de[409], he([1, 0, 103, 3, 273]), function (ce /*require*/,
+ e /*exports*/,
+ t /*iterator*/,
+ i /*lifecycle*/,
+ w /*linkedList*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$TK = e.$SK = void 0),

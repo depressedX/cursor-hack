@@ -16,7 +16,19 @@ define(
 			he([
 				1, 0, 2200, 645, 2208, 2203, 2204, 2205, 2206, 2201, 2209, 2207, 1124,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*computePosition*/,
+ i /*detectOverflow*/,
+ w /*arrow*/,
+ E /*autoPlacement*/,
+ C /*flip*/,
+ d /*hide*/,
+ m /*inline*/,
+ r /*offset*/,
+ u /*shift*/,
+ a /*size*/,
+ h /*rectToClientRect*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.rectToClientRect =

@@ -17,7 +17,22 @@ import '../common/chatParticipantContribTypes.js';
 define(
 			de[4065],
 			he([1, 0, 8, 5, 128, 21, 32, 51, 35, 217, 282, 1288, 552, 481, 153, 981]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contextkey*/,
+ i /*instantiation*/,
+ w /*serviceCollection*/,
+ E /*storage*/,
+ C /*telemetry*/,
+ d /*colorRegistry*/,
+ m /*themeService*/,
+ r /*editorPane*/,
+ u /*memento*/,
+ a /*chatClear*/,
+ h /*chatEditorInput*/,
+ c /*chatWidget*/,
+ n /*chatAgents*/,
+ g /*chatParticipantContribTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ZYb = void 0);

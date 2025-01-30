@@ -22,7 +22,24 @@ define(
 				1, 0, 124, 33, 3, 22, 5, 63, 25, 721, 819, 287, 398, 241, 42, 821, 54,
 				271,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*cancellation*/,
+ w /*lifecycle*/,
+ E /*files*/,
+ C /*instantiation*/,
+ d /*quickInput*/,
+ m /*workspace*/,
+ r /*anythingQuickAccess*/,
+ u /*utils*/,
+ a /*aiFeatureStatusService*/,
+ h /*toolsV2HandlerRegistryService*/,
+ c /*magicLinkService*/,
+ n /*resolverService*/,
+ g /*errors*/,
+ p /*path*/,
+ o /*selectedContext*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$4yc = void 0);

@@ -8,7 +8,13 @@ import '../../../common/views.js';
 define(
 			de[3009],
 			he([1, 0, 6, 3, 10, 35, 60]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*configuration*/,
+ E /*themeService*/,
+ C /*views*/) {
 				"use strict";
 				var d;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

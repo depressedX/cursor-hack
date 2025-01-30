@@ -7,7 +7,12 @@ import '../carrier.js';
 define(
 			de[2104],
 			he([1, 0, 80, 1441, 732, 578]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*defaultScopes*/,
+ w /*scope*/,
+ E /*carrier*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.AsyncContextStack = void 0),

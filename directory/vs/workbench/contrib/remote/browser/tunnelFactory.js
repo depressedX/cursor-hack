@@ -13,7 +13,18 @@ import '../../../services/remote/common/tunnelModel.js';
 define(
 			de[3591],
 			he([1, 0, 4, 374, 3, 286, 41, 9, 519, 34, 8, 839]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*tunnel*/,
+ w /*lifecycle*/,
+ E /*environmentService*/,
+ C /*opener*/,
+ d /*uri*/,
+ m /*remoteExplorerService*/,
+ r /*log*/,
+ u /*contextkey*/,
+ a /*tunnelModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pXc = void 0),

@@ -22,7 +22,24 @@ define(
 				1, 0, 2, 2, 2, 2, 2, 2, 13, 160, 792, 262, 696, 1070, 422, 135, 693,
 				216,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*hoverWidget*/,
+ u /*ComposerToolCallBlockContainer*/,
+ a /*composerCapabilities*/,
+ h /*collapsible*/,
+ c /*listContextDisplay*/,
+ n /*useVSHoverTooltip*/,
+ g /*scrollableDiv*/,
+ p /*useMeasureWidthHeight*/,
+ o /*tracing*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerSearchToolCallBlock = y);

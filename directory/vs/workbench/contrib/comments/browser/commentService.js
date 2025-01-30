@@ -18,7 +18,23 @@ import '../../../../editor/common/services/model.js';
 define(
 			de[447],
 			he([1, 0, 5, 6, 3, 17, 33, 3028, 96, 10, 791, 8, 21, 505, 34, 983, 67]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*range*/,
+ C /*cancellation*/,
+ d /*commentMenus*/,
+ m /*layoutService*/,
+ r /*configuration*/,
+ u /*commentsConfiguration*/,
+ a /*contextkey*/,
+ h /*storage*/,
+ c /*commentContextKeys*/,
+ n /*log*/,
+ g /*commentsModel*/,
+ p /*model*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$72b = e.$62b = void 0),

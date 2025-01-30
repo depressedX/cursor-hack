@@ -7,7 +7,12 @@ import '../../proto3.js';
 define(
 			de[2040],
 			he([1, 0, 339, 1406, 1088, 406]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*message*/,
+ i /*type_pb*/,
+ w /*source_context_pb*/,
+ E /*proto3*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.Mixin = e.Method = e.Api = void 0);

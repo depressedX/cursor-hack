@@ -13,7 +13,17 @@ import '../../../../css!vs/editor/browser/viewParts/indentGuides/indentGuides.js
 define(
 			de[2848],
 			he([1, 0, 591, 307, 35, 38, 48, 24, 28, 1543, 1150, 2266]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dynamicViewOverlay*/,
+ i /*editorColorRegistry*/,
+ w /*themeService*/,
+ E /*editorOptions*/,
+ C /*position*/,
+ d /*arrays*/,
+ m /*types*/,
+ r /*guidesTextModelPart*/,
+ u /*textModelGuides*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tvb = void 0);

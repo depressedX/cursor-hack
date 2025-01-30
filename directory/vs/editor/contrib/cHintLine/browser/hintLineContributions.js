@@ -16,7 +16,21 @@ import '../../../../base/common/constants.js';
 define(
 			de[1348],
 			he([1, 0, 46, 3, 8, 5, 38, 149, 499, 1554, 45, 765, 19, 479, 58]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*lifecycle*/,
+ w /*contextkey*/,
+ E /*instantiation*/,
+ C /*editorOptions*/,
+ d /*lazy*/,
+ m /*hintLineWidget*/,
+ r /*utils*/,
+ u /*reactiveStorageService*/,
+ a /*inlineCompletionContextKeys*/,
+ h /*resources*/,
+ c /*cmdKService*/,
+ n /*constants*/) {
 				"use strict";
 				var g;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

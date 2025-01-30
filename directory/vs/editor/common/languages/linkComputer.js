@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/charCode.js';
 import '../core/characterClassifier.js';
-define(de[1535], he([1, 0, 120, 654]), function (ce, e, t, i) {
+define(de[1535], he([1, 0, 120, 654]), function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*characterClassifier*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$1wb = e.$Zwb = e.State = void 0),

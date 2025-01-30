@@ -12,7 +12,16 @@ import '../../../../css!vs/workbench/browser/parts/sidebar/media/sidebarpart.js'
 define(
 			de[1854],
 			he([1, 0, 4, 11, 96, 27, 43, 99, 142, 60, 1140]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*layoutService*/,
+ E /*keyCodes*/,
+ C /*keybindingsRegistry*/,
+ d /*actionCommonCategories*/,
+ m /*panecomposite*/,
+ r /*views*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ruc = void 0);

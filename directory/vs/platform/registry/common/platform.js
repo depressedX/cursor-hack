@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/assert.js';
 import '../../../base/common/types.js';
-define(de[30], he([1, 0, 229, 28]), function (ce, e, t, i) {
+define(de[30], he([1, 0, 229, 28]), function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Io = void 0),

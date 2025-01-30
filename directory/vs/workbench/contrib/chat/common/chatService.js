@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/uri.js';
 import '../../../../editor/common/core/range.js';
 import '../../../../platform/instantiation/common/instantiation.js';
-define(de[218], he([1, 0, 9, 17, 5]), function (ce, e, t, i, w) {
+define(de[218], he([1, 0, 9, 17, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*range*/,
+ w /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$K2 =

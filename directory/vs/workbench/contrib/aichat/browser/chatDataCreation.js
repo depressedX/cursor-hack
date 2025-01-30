@@ -14,7 +14,19 @@ import '../../composer/browser/utils.js';
 define(
 			de[1869],
 			he([1, 0, 21, 25, 140, 193, 47, 58, 83, 298, 1626, 205, 246]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*storage*/,
+ i /*workspace*/,
+ w /*chatData*/,
+ E /*store*/,
+ C /*uuid*/,
+ d /*constants*/,
+ m /*utils_pb*/,
+ r /*selectedContextData*/,
+ u /*stateMigrations*/,
+ a /*reactiveStorageTypes*/,
+ h /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$qIb = c),

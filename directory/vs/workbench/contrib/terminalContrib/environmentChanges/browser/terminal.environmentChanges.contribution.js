@@ -13,7 +13,18 @@ import '../../../../services/editor/common/editorService.js';
 define(
 			de[4042],
 			he([1, 0, 9, 6, 67, 42, 4, 5, 1654, 363, 145, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*event*/,
+ w /*model*/,
+ E /*resolverService*/,
+ C /*nls*/,
+ d /*instantiation*/,
+ m /*environmentVariable*/,
+ r /*terminalActions*/,
+ u /*terminal*/,
+ a /*editorService*/) {
 				"use strict";
 				var h;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

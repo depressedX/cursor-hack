@@ -13,7 +13,18 @@ import '../../../ai/browser/fastContextService.js';
 define(
 			de[1876],
 			he([1, 0, 228, 3, 42, 25, 1038, 529, 1012, 9, 107, 400]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*context_pb*/,
+ i /*lifecycle*/,
+ w /*resolverService*/,
+ E /*workspace*/,
+ C /*simpleChunkingService*/,
+ d /*result*/,
+ m /*simpleSerialProcessor*/,
+ r /*uri*/,
+ u /*terminal*/,
+ a /*fastContextService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$PZc = void 0);

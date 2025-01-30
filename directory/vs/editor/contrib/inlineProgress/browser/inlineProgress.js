@@ -16,7 +16,20 @@ import '../../../../css!vs/editor/contrib/inlineProgress/browser/inlineProgressW
 define(
 			de[1220],
 			he([1, 0, 7, 15, 14, 3, 37, 26, 56, 38, 17, 64, 122, 5, 2311]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*async*/,
+ w /*codicons*/,
+ E /*lifecycle*/,
+ C /*strings*/,
+ d /*themables*/,
+ m /*editorBrowser*/,
+ r /*editorOptions*/,
+ u /*range*/,
+ a /*model*/,
+ h /*textModel*/,
+ c /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Pzb = void 0),

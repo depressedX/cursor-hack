@@ -7,7 +7,12 @@ import './list-keyboard-delegate.js';
 define(
 		de[2648],
 		he([1, 0, 115, 13, 927, 1491]),
-		function (ce, e, t, i, w, E) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*solid*/,
+ w /*api*/,
+ E /*list-keyboard-delegate*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Ymb = C);
 			function C(d, m, r) {

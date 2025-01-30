@@ -9,7 +9,14 @@ import '../../../../platform/opener/common/opener.js';
 define(
 			de[3619],
 			he([1, 0, 58, 11, 10, 57, 40, 41]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*constants*/,
+ i /*actions*/,
+ w /*configuration*/,
+ E /*dialogs*/,
+ C /*notification*/,
+ d /*opener*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Lyc = void 0);

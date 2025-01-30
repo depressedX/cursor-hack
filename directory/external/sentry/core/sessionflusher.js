@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import '../utils/index.js';
 import './currentScopes.js';
-define(de[1443], he([1, 0, 80, 234]), function (ce, e, t, i) {
+define(de[1443], he([1, 0, 80, 234]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*currentScopes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.SessionFlusher = void 0);

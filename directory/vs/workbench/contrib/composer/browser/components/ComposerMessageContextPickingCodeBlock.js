@@ -21,7 +21,24 @@ define(
 			he([
 				1, 0, 2, 2, 2, 2, 2, 2, 13, 36, 225, 26, 14, 1379, 156, 54, 299, 177,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*solid*/,
+ u /*composerData*/,
+ a /*themables*/,
+ h /*codicons*/,
+ c /*ComposerMessageToolCallPill*/,
+ n /*pureIcon*/,
+ g /*path*/,
+ p /*utils*/,
+ o /*useComposerDataHandle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerMessageContextPickingCodeBlock = void 0);

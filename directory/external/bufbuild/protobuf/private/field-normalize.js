@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import './field.js';
 import './names.js';
 import '../scalar.js';
-define(de[1397], he([1, 0, 2029, 723, 429]), function (ce, e, t, i, w) {
+define(de[1397], he([1, 0, 2029, 723, 429]), function (ce /*require*/,
+ e /*exports*/,
+ t /*field*/,
+ i /*names*/,
+ w /*scalar*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.normalizeFieldInfos = E);

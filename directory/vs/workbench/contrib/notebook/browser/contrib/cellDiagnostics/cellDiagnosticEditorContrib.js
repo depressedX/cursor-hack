@@ -13,7 +13,18 @@ import '../../../../chat/common/chatAgents.js';
 define(
 			de[4092],
 			he([1, 0, 3, 90, 190, 10, 70, 330, 103, 482, 6, 153]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*markers*/,
+ w /*notebookExecutionStateService*/,
+ E /*configuration*/,
+ C /*notebookCommon*/,
+ d /*notebookEditorExtensions*/,
+ m /*iterator*/,
+ r /*codeCellViewModel*/,
+ u /*event*/,
+ a /*chatAgents*/) {
 				"use strict";
 				var h;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

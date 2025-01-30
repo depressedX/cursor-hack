@@ -13,7 +13,18 @@ import '../cellPart.js';
 define(
 			de[3773],
 			he([1, 0, 24, 3, 38, 10, 8, 5, 35, 447, 1899, 294]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*lifecycle*/,
+ w /*editorOptions*/,
+ E /*configuration*/,
+ C /*contextkey*/,
+ d /*instantiation*/,
+ m /*themeService*/,
+ r /*commentService*/,
+ u /*commentThreadWidget*/,
+ a /*cellPart*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$G3b = void 0);

@@ -4,7 +4,12 @@ import '../../../base/common/codicons.js';
 import '../../../base/common/uri.js';
 import '../../../nls.js';
 import '../../../base/common/themables.js';
-define(de[955], he([1, 0, 14, 9, 4, 26]), function (ce, e, t, i, w, E) {
+define(de[955], he([1, 0, 14, 9, 4, 26]), function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*uri*/,
+ w /*nls*/,
+ E /*themables*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$4J = C),

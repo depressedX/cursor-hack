@@ -10,7 +10,15 @@ import './userDataSyncStoreService.js';
 define(
 			de[2940],
 			he([1, 0, 6, 3, 9, 10, 62, 21, 966]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*configuration*/,
+ C /*productService*/,
+ d /*storage*/,
+ m /*userDataSyncStoreService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$l9c = e.$k9c = e.$j9c = e.$i9c = void 0);

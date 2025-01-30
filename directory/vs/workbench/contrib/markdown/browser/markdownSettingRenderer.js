@@ -12,7 +12,17 @@ import '../../../../base/common/network.js';
 define(
 			de[3759],
 			he([1, 0, 4, 131, 1042, 10, 49, 198, 32, 121, 23]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*preferences*/,
+ w /*settingsTreeModels*/,
+ E /*configuration*/,
+ C /*contextView*/,
+ d /*actionViewItems*/,
+ m /*telemetry*/,
+ r /*clipboardService*/,
+ u /*network*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$Xc = void 0),

@@ -13,7 +13,18 @@ import '../../../../platform/configuration/common/configuration.js';
 define(
 			de[3428],
 			he([1, 0, 3, 350, 4, 30, 55, 81, 602, 52, 53, 10]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*folding*/,
+ w /*nls*/,
+ E /*platform*/,
+ C /*contributions*/,
+ d /*configurationRegistry*/,
+ m /*editorConfigurationSchema*/,
+ r /*lifecycle*/,
+ u /*extensions*/,
+ a /*configuration*/) {
 				"use strict";
 				var h;
 				Object.defineProperty(e, "__esModule", { value: !0 }), (w = mt(w));

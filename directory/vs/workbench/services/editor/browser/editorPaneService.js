@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../common/editorPaneService.js';
 import '../../../browser/editor.js';
 import '../../../../platform/instantiation/common/extensions.js';
-define(de[3874], he([1, 0, 1798, 192, 20]), function (ce, e, t, i, w) {
+define(de[3874], he([1, 0, 1798, 192, 20]), function (ce /*require*/,
+ e /*exports*/,
+ t /*editorPaneService*/,
+ i /*editor*/,
+ w /*extensions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$PAc = void 0);
 			class E {

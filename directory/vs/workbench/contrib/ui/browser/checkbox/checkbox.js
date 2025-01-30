@@ -8,7 +8,12 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/checkbox/checkbox.js'
 define(
 			de[1006],
 			he([1, 0, 2, 2, 2, 13, 2512]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$XCc = void 0);

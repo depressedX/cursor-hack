@@ -23,7 +23,25 @@ define(
 				1, 0, 27, 77, 407, 46, 71, 1154, 765, 501, 1344, 373, 4, 11, 10, 8, 43,
 				1279, 137,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*observable*/,
+ w /*base*/,
+ E /*editorExtensions*/,
+ C /*editorContextKeys*/,
+ d /*commandIds*/,
+ m /*inlineCompletionContextKeys*/,
+ r /*inlineCompletionsController*/,
+ u /*inlineGPT4Controller*/,
+ a /*suggest*/,
+ h /*nls*/,
+ c /*actions*/,
+ n /*configuration*/,
+ g /*contextkey*/,
+ p /*keybindingsRegistry*/,
+ o /*aiReactiveContextKeys.contribution*/,
+ f /*aiMiscServices*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$hec =

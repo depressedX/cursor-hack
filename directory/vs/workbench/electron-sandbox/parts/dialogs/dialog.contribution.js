@@ -17,7 +17,22 @@ import '../../../../base/common/lazy.js';
 define(
 			de[3444],
 			he([1, 0, 121, 10, 57, 39, 180, 34, 110, 62, 55, 2945, 3219, 3, 5, 149]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*clipboardService*/,
+ i /*configuration*/,
+ w /*dialogs*/,
+ E /*keybinding*/,
+ C /*layoutService*/,
+ d /*log*/,
+ m /*native*/,
+ r /*productService*/,
+ u /*contributions*/,
+ a /*dialogHandler*/,
+ h /*dialogHandler*/,
+ c /*lifecycle*/,
+ n /*instantiation*/,
+ g /*lazy*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$idd = void 0);

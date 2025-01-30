@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './platform.js';
 import '../../nls.js';
-define(de[592], he([1, 0, 12, 4]), function (ce, e, t, i) {
+define(de[592], he([1, 0, 12, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$5ob = e.$4ob = e.$3ob = e.$2ob = e.$1ob = void 0),

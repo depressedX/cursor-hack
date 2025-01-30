@@ -11,7 +11,16 @@ import '../../registry/common/platform.js';
 define(
 			de[1636],
 			he([1, 0, 15, 33, 6, 3, 5, 348, 63, 30]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*cancellation*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*instantiation*/,
+ d /*quickAccess*/,
+ m /*quickInput*/,
+ r /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$T9b = void 0);

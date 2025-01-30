@@ -17,7 +17,22 @@ import '../../../../../editor/browser/widget/codeEditor/codeEditorWidget.js';
 define(
 			de[3020],
 			he([1, 0, 46, 65, 8, 5, 31, 394, 375, 35, 40, 91, 152, 69, 308, 206]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*codeEditorService*/,
+ w /*contextkey*/,
+ E /*instantiation*/,
+ C /*commands*/,
+ d /*menuPreventer*/,
+ m /*contextmenu*/,
+ r /*themeService*/,
+ u /*notification*/,
+ a /*accessibility*/,
+ h /*languageConfigurationRegistry*/,
+ c /*languageFeatures*/,
+ n /*tooltipService*/,
+ g /*codeEditorWidget*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$vZc = e.$uZc = e.$tZc = void 0),

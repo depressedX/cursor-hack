@@ -4,7 +4,12 @@ import '../../../../base/browser/dom.js';
 import '../../../../nls.js';
 import './searchModel.js';
 import '../../../services/search/common/search.js';
-define(de[483], he([1, 0, 7, 4, 405, 186]), function (ce, e, t, i, w, E) {
+define(de[483], he([1, 0, 7, 4, 405, 186]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*nls*/,
+ w /*searchModel*/,
+ E /*search*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$oOc = void 0),

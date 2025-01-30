@@ -12,7 +12,17 @@ import '../../../../services/outline/browser/outline.js';
 define(
 			de[4090],
 			he([1, 0, 4, 11, 8, 1958, 1031, 108, 284, 70, 475]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*contextkey*/,
+ E /*notebookOutline*/,
+ C /*foldingController*/,
+ d /*notebookBrowser*/,
+ m /*notebookIcons*/,
+ r /*notebookCommon*/,
+ u /*outline*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$R4b = e.$Q4b = e.$P4b = e.$O4b = void 0),

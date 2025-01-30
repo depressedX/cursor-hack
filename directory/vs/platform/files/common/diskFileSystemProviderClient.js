@@ -12,7 +12,17 @@ import './watcher.js';
 define(
 			de[1614],
 			he([1, 0, 76, 163, 29, 6, 3, 408, 47, 22, 938]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*errorMessage*/,
+ w /*errors*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*stream*/,
+ m /*uuid*/,
+ r /*files*/,
+ u /*watcher*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ueb = e.$Teb = void 0),

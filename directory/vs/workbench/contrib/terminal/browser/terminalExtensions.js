@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/registry/common/platform.js';
-define(de[378], he([1, 0, 30]), function (ce, e, t) {
+define(de[378], he([1, 0, 30]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.TerminalExtensionsRegistry = void 0),

@@ -9,7 +9,14 @@ import './lineAlignment.js';
 define(
 			de[3087],
 			he([1, 0, 7, 24, 507, 508, 1740, 3084]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*arrays*/,
+ w /*lineRange*/,
+ E /*utils*/,
+ C /*conflictActions*/,
+ d /*lineAlignment*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$SRc = e.$RRc = e.$QRc = void 0);

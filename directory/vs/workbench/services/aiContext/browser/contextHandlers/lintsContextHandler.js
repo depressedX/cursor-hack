@@ -11,7 +11,16 @@ import '../../../../../base/common/result.js';
 define(
 			de[3242],
 			he([1, 0, 3, 42, 25, 6, 90, 19, 83, 529]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*resolverService*/,
+ w /*workspace*/,
+ E /*event*/,
+ C /*markers*/,
+ d /*resources*/,
+ m /*utils_pb*/,
+ r /*result*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$KZc = void 0);

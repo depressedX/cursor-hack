@@ -11,7 +11,16 @@ import '../../solid/solid.js';
 define(
 			de[1160],
 			he([1, 0, 2, 2, 181, 2156, 2607, 2158, 2613, 13]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*LexicalComposerContext*/,
+ E /*useLexicalEditable*/,
+ C /*useCanShowPlaceholder*/,
+ d /*useDecorators*/,
+ m /*usePlainTextSetup*/,
+ r /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.PlainTextPlugin = u),

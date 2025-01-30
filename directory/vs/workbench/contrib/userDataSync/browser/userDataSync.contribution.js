@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 55, 30, 52, 4051, 150, 40, 3, 4, 12, 3848, 50, 62, 31, 87, 522,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*contributions*/,
+ i /*platform*/,
+ w /*lifecycle*/,
+ E /*userDataSync*/,
+ C /*userDataSync*/,
+ d /*notification*/,
+ m /*lifecycle*/,
+ r /*nls*/,
+ u /*platform*/,
+ a /*userDataSyncTrigger*/,
+ h /*actions*/,
+ c /*productService*/,
+ n /*commands*/,
+ g /*host*/,
+ p /*userDataSync*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let o = class extends m.$1c {

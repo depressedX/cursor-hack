@@ -4,7 +4,12 @@ import '../../../../nls.js';
 import '../../../../platform/terminal/common/capabilities/capabilities.js';
 import '../../../../base/common/arrays.js';
 import '../../../../base/common/htmlContent.js';
-define(de[1261], he([1, 0, 4, 189, 24, 94]), function (ce, e, t, i, w, E) {
+define(de[1261], he([1, 0, 4, 189, 24, 94]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*capabilities*/,
+ w /*arrays*/,
+ E /*htmlContent*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$ZUc = C),

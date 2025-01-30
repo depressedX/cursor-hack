@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 3, 4, 5, 53, 175, 166, 91, 274, 136, 6, 20, 103, 109, 1028, 123,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*nls*/,
+ w /*instantiation*/,
+ E /*extensions*/,
+ C /*extensionsRegistry*/,
+ d /*statusbar*/,
+ m /*accessibility*/,
+ r /*iconLabels*/,
+ u /*hash*/,
+ a /*event*/,
+ h /*extensions*/,
+ c /*iterator*/,
+ n /*extensions*/,
+ g /*extHostTypes*/,
+ p /*theme*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$smc = e.StatusBarUpdateKind = e.$rmc = void 0),

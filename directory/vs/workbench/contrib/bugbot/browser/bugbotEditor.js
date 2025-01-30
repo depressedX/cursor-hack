@@ -9,7 +9,14 @@ import './renderBugbotEditor.js';
 define(
 			de[4262],
 			he([1, 0, 217, 32, 35, 21, 5, 4261]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorPane*/,
+ i /*telemetry*/,
+ w /*themeService*/,
+ E /*storage*/,
+ C /*instantiation*/,
+ d /*renderBugbotEditor*/) {
 				"use strict";
 				var m;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

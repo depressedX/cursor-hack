@@ -17,7 +17,22 @@ import '../../../services/ai/browser/backendClient.js';
 define(
 			de[1009],
 			he([1, 0, 736, 1489, 1488, 6, 3, 11, 20, 5, 45, 134, 21, 789, 137, 285]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*review_pb*/,
+ i /*server_config_connectweb*/,
+ w /*server_config_pb*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*actions*/,
+ m /*extensions*/,
+ r /*instantiation*/,
+ u /*reactiveStorageService*/,
+ a /*reactiveStorageTypes*/,
+ h /*storage*/,
+ c /*constants*/,
+ n /*aiMiscServices*/,
+ g /*backendClient*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gdc = e.$fdc = void 0),

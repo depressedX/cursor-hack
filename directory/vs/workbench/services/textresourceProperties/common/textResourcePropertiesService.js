@@ -11,7 +11,16 @@ import '../../remote/common/remoteAgentService.js';
 define(
 			de[3708],
 			he([1, 0, 10, 125, 12, 23, 21, 78, 20, 143]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*configuration*/,
+ i /*textResourceConfiguration*/,
+ w /*platform*/,
+ E /*network*/,
+ C /*storage*/,
+ d /*environmentService*/,
+ m /*extensions*/,
+ r /*remoteAgentService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Qvc = void 0);

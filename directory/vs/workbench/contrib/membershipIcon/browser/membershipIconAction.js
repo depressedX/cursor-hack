@@ -4,7 +4,12 @@ import '../../../../base/common/keyCodes.js';
 import '../../../../platform/actions/common/actions.js';
 import '../../../services/aiSettings/browser/aiSettingsService.js';
 import '../../../../platform/keybinding/common/keybindingsRegistry.js';
-define(de[3648], he([1, 0, 27, 11, 315, 43]), function (ce, e, t, i, w, E) {
+define(de[3648], he([1, 0, 27, 11, 315, 43]), function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*actions*/,
+ w /*aiSettingsService*/,
+ E /*keybindingsRegistry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$FZc = void 0);
 			class C extends i.$3X {

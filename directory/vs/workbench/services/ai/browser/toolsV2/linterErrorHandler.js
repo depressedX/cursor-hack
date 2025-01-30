@@ -7,7 +7,12 @@ import '../../../../../../proto/aiserver/v1/tools_pb.js';
 define(
 			de[1283],
 			he([1, 0, 90, 770, 75, 124]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*markers*/,
+ i /*markerService*/,
+ w /*window*/,
+ E /*tools_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$6yc = void 0),

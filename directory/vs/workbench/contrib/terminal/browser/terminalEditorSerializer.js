@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import './terminal.js';
-define(de[3142], he([1, 0, 107]), function (ce, e, t) {
+define(de[3142], he([1, 0, 107]), function (ce /*require*/,
+ e /*exports*/,
+ t /*terminal*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$SUc = void 0);
 			let i = class {

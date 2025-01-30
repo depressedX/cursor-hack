@@ -15,7 +15,20 @@ import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[1633],
 			he([1, 0, 7, 203, 14, 26, 6, 94, 3, 251, 38, 930, 4, 5]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*scrollableElement*/,
+ w /*codicons*/,
+ E /*themables*/,
+ C /*event*/,
+ d /*htmlContent*/,
+ m /*lifecycle*/,
+ r /*markdownRenderer*/,
+ u /*editorOptions*/,
+ a /*resizable*/,
+ h /*nls*/,
+ c /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ADb = e.$zDb = void 0),

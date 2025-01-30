@@ -9,7 +9,14 @@ import '../../../../ui/browser/simpleButton/simpleButton.js';
 define(
 			de[4229],
 			he([1, 0, 2, 2, 2, 2, 815, 147]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*ModalComponent*/,
+ d /*simpleButton*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$BDc = r);
 				const m = (0, t.template)(

@@ -8,7 +8,13 @@ import '../../services/statusbar/browser/statusbar.js';
 define(
 			de[3622],
 			he([1, 0, 88, 101, 3, 1872, 166]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extHost.protocol*/,
+ i /*extHostCustomers*/,
+ w /*lifecycle*/,
+ E /*statusBarExtensionPoint*/,
+ C /*statusbar*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$qoc = void 0);

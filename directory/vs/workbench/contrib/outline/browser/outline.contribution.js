@@ -15,7 +15,19 @@ import './outlineActions.js';
 define(
 			de[4303],
 			he([1, 0, 4, 60, 3834, 30, 81, 864, 102, 14, 79, 475, 802, 3833]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*views*/,
+ w /*outlinePane*/,
+ E /*platform*/,
+ C /*configurationRegistry*/,
+ d /*explorerViewlet*/,
+ m /*descriptors*/,
+ r /*codicons*/,
+ u /*iconRegistry*/,
+ a /*outline*/,
+ h /*outline*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const c = (0, u.$$O)(

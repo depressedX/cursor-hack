@@ -12,7 +12,17 @@ import '../../../ui/browser/loadingSpinner/loadingSpinner.js';
 define(
 			de[1272],
 			he([1, 0, 2, 2, 2, 2, 2, 13, 14, 26, 295]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*solid*/,
+ m /*codicons*/,
+ r /*themables*/,
+ u /*loadingSpinner*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$$Yc = n);
 				const a = (0, t.template)('<div class="ai-preview-section-loading">'),

@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../extensions/common/extensionsRegistry.js';
 import '../../language/common/languageService.js';
-define(de[1877], he([1, 0, 4, 175, 701]), function (ce, e, t, i, w) {
+define(de[1877], he([1, 0, 4, 175, 701]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*extensionsRegistry*/,
+ w /*languageService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Jyc = void 0),

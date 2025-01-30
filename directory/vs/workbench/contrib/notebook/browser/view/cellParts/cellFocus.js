@@ -2,7 +2,10 @@ import '../../../../../../../require.js';
 import '../../../../../../../exports.js';
 import '../../../../../../base/browser/dom.js';
 import '../cellPart.js';
-define(de[3097], he([1, 0, 7, 294]), function (ce, e, t, i) {
+define(de[3097], he([1, 0, 7, 294]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*cellPart*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$L3b = void 0),

@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import './strings.js';
-define(de[1507], he([1, 0, 37]), function (ce, e, t) {
+define(de[1507], he([1, 0, 37]), function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$7pb = i),

@@ -17,7 +17,22 @@ import './icons.js';
 define(
 			de[4144],
 			he([1, 0, 2, 2, 2, 2, 2, 13, 312, 36, 9, 41, 116, 26, 14, 502]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*solid*/,
+ m /*codeBlock*/,
+ r /*solid*/,
+ u /*uri*/,
+ a /*opener*/,
+ h /*editor*/,
+ c /*themables*/,
+ n /*codicons*/,
+ g /*icons*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$b_b = l);
 				const p = (0, t.template)("<div>"),

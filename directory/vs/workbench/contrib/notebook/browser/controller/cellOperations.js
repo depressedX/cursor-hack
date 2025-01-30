@@ -14,7 +14,19 @@ import '../../../../../nls.js';
 define(
 			de[624],
 			he([1, 0, 199, 48, 17, 64, 172, 572, 108, 1029, 70, 442, 4]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*bulkEditService*/,
+ i /*position*/,
+ w /*range*/,
+ E /*model*/,
+ C /*modesRegistry*/,
+ d /*bulkCellEdits*/,
+ m /*notebookBrowser*/,
+ r /*notebookCellTextModel*/,
+ u /*notebookCommon*/,
+ a /*notebookRange*/,
+ h /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$E5b = c),

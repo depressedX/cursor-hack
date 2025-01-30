@@ -15,7 +15,20 @@ import '../../../../services/extensions/common/extensions.js';
 define(
 			de[3305],
 			he([1, 0, 275, 3, 4, 11, 57, 5, 62, 63, 621, 822, 357, 53]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*date*/,
+ i /*lifecycle*/,
+ w /*nls*/,
+ E /*actions*/,
+ C /*dialogs*/,
+ d /*instantiation*/,
+ m /*productService*/,
+ r /*quickInput*/,
+ u /*authenticationAccessService*/,
+ a /*authenticationUsageService*/,
+ h /*authentication*/,
+ c /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$a1c = void 0);

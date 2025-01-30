@@ -17,7 +17,22 @@ import '../../utils/browser/copyToClipboard.js';
 define(
 			de[4127],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 14, 26, 694, 36, 331, 1008]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*solid*/,
+ u /*codicons*/,
+ a /*themables*/,
+ h /*useMarkdownHover*/,
+ c /*solid*/,
+ n /*useThemeHooks*/,
+ g /*copyToClipboard*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Z$b = f);
 				const p = (0, t.template)("<div><span>"),

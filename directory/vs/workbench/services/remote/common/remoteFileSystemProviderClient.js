@@ -8,7 +8,13 @@ import '../../../../platform/files/common/diskFileSystemProviderClient.js';
 define(
 			de[3588],
 			he([1, 0, 29, 3, 23, 12, 1614]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*lifecycle*/,
+ w /*network*/,
+ E /*platform*/,
+ C /*diskFileSystemProviderClient*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Web = e.$Veb = void 0),

@@ -9,7 +9,13 @@ import '../../../../../css!vs/workbench/contrib/onboarding/browser/components/sp
 define(
 			de[3120],
 			he([1, 0, 2, 2, 2, 2, 13, 2470]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.SparkleDivColor = void 0),

@@ -15,7 +15,20 @@ import '../../../../../platform/opener/common/opener.js';
 define(
 			de[3679],
 			he([1, 0, 7, 3, 6, 5, 233, 9, 22, 17, 54, 4, 218, 41]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*event*/,
+ E /*instantiation*/,
+ C /*labels*/,
+ d /*uri*/,
+ m /*files*/,
+ r /*range*/,
+ u /*path*/,
+ a /*nls*/,
+ h /*chatService*/,
+ c /*opener*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$4Tb = void 0),

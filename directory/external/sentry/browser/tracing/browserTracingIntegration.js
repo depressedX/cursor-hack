@@ -10,7 +10,15 @@ import './request.js';
 define(
 			de[2141],
 			he([1, 0, 641, 144, 80, 452, 386, 2140, 1459]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*index*/,
+ E /*debug-build*/,
+ C /*helpers*/,
+ d /*backgroundtab*/,
+ m /*request*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.browserTracingIntegration = e.BROWSER_TRACING_INTEGRATION_ID =

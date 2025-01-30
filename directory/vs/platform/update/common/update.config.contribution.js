@@ -4,7 +4,12 @@ import '../../../base/common/platform.js';
 import '../../../nls.js';
 import '../../configuration/common/configurationRegistry.js';
 import '../../registry/common/platform.js';
-define(de[2877], he([1, 0, 12, 4, 81, 30]), function (ce, e, t, i, w, E) {
+define(de[2877], he([1, 0, 12, 4, 81, 30]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*nls*/,
+ w /*configurationRegistry*/,
+ E /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				E.$Io

@@ -11,7 +11,16 @@ import '../../../../platform/keybinding/common/keybindingsRegistry.js';
 define(
 			de[2802],
 			he([1, 0, 27, 46, 655, 1192, 17, 71, 4, 43]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*editorExtensions*/,
+ w /*replaceCommand*/,
+ E /*cursorMoveOperations*/,
+ C /*range*/,
+ d /*editorContextKeys*/,
+ m /*nls*/,
+ r /*keybindingsRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (m = mt(m));
 				class u extends i.$itb {

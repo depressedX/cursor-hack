@@ -11,7 +11,16 @@ import '../common/core/selection.js';
 define(
 			de[542],
 			he([1, 0, 433, 3, 77, 407, 319, 38, 48, 104]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*equals*/,
+ i /*lifecycle*/,
+ w /*observable*/,
+ E /*base*/,
+ C /*derived*/,
+ d /*editorOptions*/,
+ m /*position*/,
+ r /*selection*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Vwb = void 0),

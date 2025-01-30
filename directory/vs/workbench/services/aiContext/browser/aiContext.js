@@ -4,7 +4,12 @@ import '../../../../platform/instantiation/common/instantiation.js';
 import '../../../../../proto/aiserver/v1/context_pb.js';
 import '../../../../../proto/aiserver/v1/utils_pb.js';
 import '../../../../base/common/uuid.js';
-define(de[471], he([1, 0, 5, 228, 83, 47]), function (ce, e, t, i, w, E) {
+define(de[471], he([1, 0, 5, 228, 83, 47]), function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*context_pb*/,
+ w /*utils_pb*/,
+ E /*uuid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$D7b = e.$C7b = e.$B7b = void 0),

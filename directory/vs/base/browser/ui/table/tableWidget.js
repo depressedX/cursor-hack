@@ -12,7 +12,16 @@ import '../../../../css!vs/base/browser/ui/table/table.js';
 define(
 			de[1167],
 			he([1, 0, 7, 317, 95, 278, 279, 6, 3, 195, 2256]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*hoverDelegate2*/,
+ w /*hoverDelegateFactory*/,
+ E /*listWidget*/,
+ C /*splitview*/,
+ d /*event*/,
+ m /*lifecycle*/,
+ r /*scrollable*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ipb = void 0);

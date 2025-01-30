@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/filters.js';
 import '../../../../base/common/strings.js';
-define(de[1725], he([1, 0, 132, 37]), function (ce, e, t, i) {
+define(de[1725], he([1, 0, 132, 37]), function (ce /*require*/,
+ e /*exports*/,
+ t /*filters*/,
+ i /*strings*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$0oc = void 0),

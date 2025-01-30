@@ -10,7 +10,15 @@ import '../../nls.js';
 define(
 			de[540],
 			he([1, 0, 432, 29, 23, 1584, 3, 24, 4]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*trustedTypes*/,
+ i /*errors*/,
+ w /*network*/,
+ E /*simpleWorker*/,
+ C /*lifecycle*/,
+ d /*arrays*/,
+ m /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$hjb = void 0),

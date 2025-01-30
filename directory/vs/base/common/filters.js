@@ -7,7 +7,12 @@ import './strings.js';
 define(
 			de[132],
 			he([1, 0, 120, 59, 2218, 37]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*map*/,
+ w /*korean*/,
+ E /*strings*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5k = e.FuzzyScore = e.$Tk = e.$Sk = void 0),

@@ -1,7 +1,9 @@
 import '../../../../require.js';
 import '../../../../exports.js';
 import '../../../base/common/process.js';
-define(de[372], he([1, 0, 344]), function (ce, e, t) {
+define(de[372], he([1, 0, 344]), function (ce /*require*/,
+ e /*exports*/,
+ t /*process*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 });
 			let i;

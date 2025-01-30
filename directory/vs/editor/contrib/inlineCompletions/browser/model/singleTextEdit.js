@@ -10,7 +10,15 @@ import './ghostText.js';
 define(
 			de[1196],
 			he([1, 0, 745, 37, 17, 458, 490, 64, 917]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*diff*/,
+ i /*strings*/,
+ w /*range*/,
+ E /*textLength*/,
+ C /*textEdit*/,
+ d /*model*/,
+ m /*ghostText*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$LCb = r),

@@ -8,7 +8,13 @@ import '../../../../platform/actions/common/actions.js';
 define(
 			de[3263],
 			he([1, 0, 4, 39, 18, 99, 11]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*keybinding*/,
+ w /*editorService*/,
+ E /*actionCommonCategories*/,
+ C /*actions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class d extends C.$3X {

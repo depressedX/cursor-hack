@@ -12,7 +12,17 @@ import '../../../../../proto/aiserver/v1/aiserver_pb.js';
 define(
 			de[1930],
 			he([1, 0, 5, 350, 20, 118, 3, 83, 42, 25, 148]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*folding*/,
+ w /*extensions*/,
+ E /*aiService*/,
+ C /*lifecycle*/,
+ d /*utils_pb*/,
+ m /*resolverService*/,
+ r /*workspace*/,
+ u /*aiserver_pb*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$sec = e.$rec = void 0),

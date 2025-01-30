@@ -11,7 +11,16 @@ import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3358],
 			he([1, 0, 6, 3, 760, 2784, 211, 773, 88, 101]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*ipc.net*/,
+ E /*managedSocket*/,
+ C /*remoteAuthorityResolver*/,
+ d /*remoteSocketFactoryService*/,
+ m /*extHost.protocol*/,
+ r /*extHostCustomers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$eoc = e.$doc = void 0);

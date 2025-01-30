@@ -10,7 +10,15 @@ import '../../../platform/environment/common/environment.js';
 define(
 			de[3357],
 			he([1, 0, 101, 34, 3, 88, 9, 31, 113]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extHostCustomers*/,
+ i /*log*/,
+ w /*lifecycle*/,
+ E /*extHost.protocol*/,
+ C /*uri*/,
+ d /*commands*/,
+ m /*environment*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0nc = void 0);

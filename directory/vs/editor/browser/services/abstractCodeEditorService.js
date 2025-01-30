@@ -12,7 +12,17 @@ import '../../../platform/theme/common/themeService.js';
 define(
 			de[2842],
 			he([1, 0, 7, 6, 3, 273, 37, 9, 98, 64, 35]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*linkedList*/,
+ C /*strings*/,
+ d /*uri*/,
+ m /*editorCommon*/,
+ r /*model*/,
+ u /*themeService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nvc = e.$mvc = e.$lvc = e.$kvc = void 0),

@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../common/range.js';
-define(de[2222], he([1, 0, 902]), function (ce, e, t) {
+define(de[2222], he([1, 0, 902]), function (ce /*require*/,
+ e /*exports*/,
+ t /*range*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$uib = void 0),

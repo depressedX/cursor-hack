@@ -8,7 +8,13 @@ import '../utils/math.js';
 define(
 			de[2207],
 			he([1, 0, 645, 582, 583, 487, 1123]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*detectOverflow*/,
+ i /*getAlignment*/,
+ w /*getMainAxisFromPlacement*/,
+ E /*getSide*/,
+ C /*math*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.size = void 0);

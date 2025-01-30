@@ -12,7 +12,17 @@ import './extensionRunningLocation.js';
 define(
 			de[2006],
 			he([1, 0, 58, 23, 10, 109, 34, 78, 517, 384, 1294]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*constants*/,
+ i /*network*/,
+ w /*configuration*/,
+ E /*extensions*/,
+ C /*log*/,
+ d /*environmentService*/,
+ m /*extensionHostKind*/,
+ r /*extensionManifestPropertiesService*/,
+ u /*extensionRunningLocation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$T4c = void 0),

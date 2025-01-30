@@ -15,7 +15,20 @@ import '../../../../../platform/quickinput/common/quickInput.js';
 define(
 			de[3496],
 			he([1, 0, 7, 4, 3, 706, 556, 108, 161, 26, 284, 114, 27, 63]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*nls*/,
+ w /*lifecycle*/,
+ E /*diffElementViewModel*/,
+ C /*notebookDiffEditorBrowser*/,
+ d /*notebookBrowser*/,
+ m /*notebookService*/,
+ r /*themables*/,
+ u /*notebookIcons*/,
+ a /*keyboardEvent*/,
+ h /*keyCodes*/,
+ c /*quickInput*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$8Ec = e.$7Ec = void 0),

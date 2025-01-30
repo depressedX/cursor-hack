@@ -9,7 +9,14 @@ import '../textModelSearch.js';
 define(
 			de[1628],
 			he([1, 0, 120, 48, 17, 64, 2567, 543]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*position*/,
+ w /*range*/,
+ E /*model*/,
+ C /*rbTreeBase*/,
+ d /*textModelSearch*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$8U = e.$7U = e.$6U = void 0),

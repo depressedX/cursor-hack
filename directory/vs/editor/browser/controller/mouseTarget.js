@@ -15,7 +15,20 @@ import '../../../base/common/lazy.js';
 define(
 			de[1662],
 			he([1, 0, 56, 777, 303, 1208, 38, 48, 17, 435, 7, 1528, 64, 149]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorBrowser*/,
+ i /*editorDom*/,
+ w /*viewPart*/,
+ E /*viewLine*/,
+ C /*editorOptions*/,
+ d /*position*/,
+ m /*range*/,
+ r /*cursorColumns*/,
+ u /*dom*/,
+ a /*cursorAtomicMoveOperations*/,
+ h /*model*/,
+ c /*lazy*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Xub = e.$Wub = e.$Vub = e.$Uub = void 0),

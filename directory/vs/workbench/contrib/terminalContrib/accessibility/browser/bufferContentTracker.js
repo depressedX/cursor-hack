@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../base/common/lifecycle.js';
 import '../../../../../platform/configuration/common/configuration.js';
 import '../../../../../platform/terminal/common/terminal.js';
-define(de[3152], he([1, 0, 3, 10, 117]), function (ce, e, t, i, w) {
+define(de[3152], he([1, 0, 3, 10, 117]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*configuration*/,
+ w /*terminal*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$KVc = void 0);
 			let E = class extends t.$1c {

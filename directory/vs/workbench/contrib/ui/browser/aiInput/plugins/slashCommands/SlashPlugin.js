@@ -25,7 +25,26 @@ define(
 				1, 0, 2, 2, 2, 2, 2, 2, 2, 2, 181, 164, 13, 756, 36, 817, 1069, 1005,
 				1270, 3195, 2509,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*web*/,
+ u /*LexicalComposerContext*/,
+ a /*api*/,
+ h /*solid*/,
+ c /*LexicalTypeaheadMenuPlugin*/,
+ n /*solid*/,
+ g /*recognizers*/,
+ p /*InputBoxMenu*/,
+ o /*types*/,
+ f /*SlashCommandNode*/,
+ b /*slashCommandRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.default = S);
 				const s = (0, t.template)('<span class="secondary-text">'),

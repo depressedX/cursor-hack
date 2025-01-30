@@ -15,7 +15,20 @@ import '../tokens/lineTokens.js';
 define(
 			de[1590],
 			he([1, 0, 15, 29, 12, 162, 531, 196, 289, 171, 1175, 2565, 1152, 388]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*errors*/,
+ w /*platform*/,
+ E /*stopwatch*/,
+ C /*eolCounter*/,
+ d /*lineRange*/,
+ m /*offsetRange*/,
+ r /*encodedTokenAttributes*/,
+ u /*nullTokenize*/,
+ a /*fixedArray*/,
+ h /*contiguousMultilineTokensBuilder*/,
+ c /*lineTokens*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$iV = e.$hV = e.$gV = e.$fV = e.$eV = e.$dV = void 0);

@@ -9,7 +9,14 @@ import './lib/whenActivated.js';
 define(
 			de[2099],
 			he([1, 0, 366, 635, 728, 883, 637, 730]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*types*/,
+ i /*bindReporter*/,
+ w /*getActivationStart*/,
+ E /*getNavigationEntry*/,
+ C /*initMetric*/,
+ d /*whenActivated*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.onTTFB = e.TTFBThresholds = void 0),

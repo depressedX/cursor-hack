@@ -18,7 +18,22 @@ import '../../../../css!vs/workbench/contrib/debug/browser/media/callStackEditor
 define(
 			de[796],
 			he([1, 0, 24, 6, 3, 210, 17, 64, 4, 34, 51, 35, 26, 68, 352, 112, 2426]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*uint*/,
+ C /*range*/,
+ d /*model*/,
+ m /*nls*/,
+ r /*log*/,
+ u /*colorRegistry*/,
+ a /*themeService*/,
+ h /*themables*/,
+ c /*uriIdentity*/,
+ n /*debugIcons*/,
+ g /*debug*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$iGc = e.$gGc = e.$fGc = e.$eGc = e.$dGc = e.$cGc = void 0),

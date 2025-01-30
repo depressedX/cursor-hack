@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../proto2.js';
 import '../../message.js';
-define(de[724], he([1, 0, 874, 339]), function (ce, e, t, i) {
+define(de[724], he([1, 0, 874, 339]), function (ce /*require*/,
+ e /*exports*/,
+ t /*proto2*/,
+ i /*message*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.GeneratedCodeInfo_Annotation_Semantic =

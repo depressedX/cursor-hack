@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../connect-error.js';
 import '../code.js';
-define(de[1081], he([1, 0, 213, 202]), function (ce, e, t, i) {
+define(de[1081], he([1, 0, 213, 202]), function (ce /*require*/,
+ e /*exports*/,
+ t /*connect-error*/,
+ i /*code*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.validateReadWriteMaxBytes = d),

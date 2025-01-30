@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './lazy.js';
 import './stream.js';
-define(de[76], he([1, 0, 149, 408]), function (ce, e, t, i) {
+define(de[76], he([1, 0, 149, 408]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lazy*/,
+ i /*stream*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Te = void 0),

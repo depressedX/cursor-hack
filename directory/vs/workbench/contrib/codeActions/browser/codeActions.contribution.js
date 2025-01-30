@@ -13,7 +13,18 @@ import './documentationContribution.js';
 define(
 			de[3414],
 			he([1, 0, 81, 5, 30, 55, 3396, 3397, 175, 52, 3017, 3018]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*configurationRegistry*/,
+ i /*instantiation*/,
+ w /*platform*/,
+ E /*contributions*/,
+ C /*codeActionsExtensionPoint*/,
+ d /*documentationExtensionPoint*/,
+ m /*extensionsRegistry*/,
+ r /*lifecycle*/,
+ u /*codeActionsContribution*/,
+ a /*documentationContribution*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const h = m.$n2.registerExtensionPoint(C.$X1c),

@@ -10,7 +10,15 @@ import '../../common/config/fontInfo.js';
 define(
 			de[600],
 			he([1, 0, 7, 345, 6, 3, 2542, 38, 463]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*pixelRatio*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*charWidthReader*/,
+ d /*editorOptions*/,
+ m /*fontInfo*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$osb = e.$nsb = void 0);

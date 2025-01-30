@@ -4,7 +4,12 @@ import '../../../../../../proto/aiserver/v1/tools_pb.js';
 import '../../../../../base/common/lifecycle.js';
 import '../../../../../platform/instantiation/common/extensions.js';
 import '../../../../../platform/instantiation/common/instantiation.js';
-define(de[398], he([1, 0, 124, 3, 20, 5]), function (ce, e, t, i, w, E) {
+define(de[398], he([1, 0, 124, 3, 20, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*lifecycle*/,
+ w /*extensions*/,
+ E /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Xyc =

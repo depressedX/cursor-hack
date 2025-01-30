@@ -13,7 +13,18 @@ import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[4213],
 			he([1, 0, 30, 192, 44, 102, 4212, 231, 5, 3, 55, 52]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*editor*/,
+ w /*editor*/,
+ E /*descriptors*/,
+ C /*inlineMultiDiffEditor*/,
+ d /*editorResolverService*/,
+ m /*instantiation*/,
+ r /*lifecycle*/,
+ u /*contributions*/,
+ a /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					t.$Io

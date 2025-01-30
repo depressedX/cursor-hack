@@ -13,7 +13,18 @@ import '../notebookBrowser.js';
 define(
 			de[1959],
 			he([1, 0, 6, 3, 266, 17, 104, 98, 543, 1026, 427, 108]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*mime*/,
+ E /*range*/,
+ C /*selection*/,
+ d /*editorCommon*/,
+ m /*textModelSearch*/,
+ r /*toggleWordWrap*/,
+ u /*inlineChatController*/,
+ a /*notebookBrowser*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$11b = void 0),

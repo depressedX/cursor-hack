@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/event.js';
 import './foldingRanges.js';
 import '../../../../base/common/hash.js';
-define(de[1551], he([1, 0, 6, 659, 136]), function (ce, e, t, i, w) {
+define(de[1551], he([1, 0, 6, 659, 136]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*foldingRanges*/,
+ w /*hash*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$CNb = void 0),

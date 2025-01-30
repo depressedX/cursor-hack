@@ -8,7 +8,13 @@ import '../../../common/notebookCommon.js';
 define(
 			de[3495],
 			he([1, 0, 4, 11, 10, 238, 70]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*configuration*/,
+ E /*coreActions*/,
+ C /*notebookCommon*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$YFc = void 0);

@@ -9,7 +9,13 @@ import '../../../../../css!vs/workbench/contrib/ui/browser/aiInput/FullInputBox.
 define(
 			de[4319],
 			he([1, 0, 181, 158, 13, 36, 450, 1523]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalComposerContext*/,
+ i /*lexical*/,
+ w /*solid*/,
+ E /*solid*/,
+ C /*aiInput2*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$rbc = void 0);

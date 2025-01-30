@@ -8,7 +8,13 @@ import '../../../../platform/log/common/log.js';
 define(
 			de[1793],
 			he([1, 0, 5, 15, 20, 162, 34]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*async*/,
+ w /*extensions*/,
+ E /*stopwatch*/,
+ C /*log*/) {
 				"use strict";
 				var d;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

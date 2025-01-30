@@ -14,7 +14,19 @@ import '../../extensionManagement/common/extensionManagement.js';
 define(
 			de[3790],
 			he([1, 0, 143, 951, 12, 9, 133, 1044, 78, 34, 20, 704, 157]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*remoteAgentService*/,
+ i /*remoteExtensionsScanner*/,
+ w /*platform*/,
+ E /*uri*/,
+ C /*userDataProfile*/,
+ d /*remoteUserDataProfiles*/,
+ m /*environmentService*/,
+ r /*log*/,
+ u /*extensions*/,
+ a /*locale*/,
+ h /*extensionManagement*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (w = mt(w));
 				let c = class {

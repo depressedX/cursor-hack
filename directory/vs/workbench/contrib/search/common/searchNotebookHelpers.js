@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../services/search/common/search.js';
 import '../../../../editor/common/core/range.js';
-define(de[1864], he([1, 0, 186, 17]), function (ce, e, t, i) {
+define(de[1864], he([1, 0, 186, 17]), function (ce /*require*/,
+ e /*exports*/,
+ t /*search*/,
+ i /*range*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$T7 = void 0),

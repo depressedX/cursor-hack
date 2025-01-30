@@ -14,7 +14,19 @@ import '../../../../base/common/event.js';
 define(
 			de[315],
 			he([1, 0, 58, 3, 11, 20, 5, 180, 45, 134, 21, 232, 6]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*constants*/,
+ i /*lifecycle*/,
+ w /*actions*/,
+ E /*extensions*/,
+ C /*instantiation*/,
+ d /*layoutService*/,
+ m /*reactiveStorageService*/,
+ r /*reactiveStorageTypes*/,
+ u /*storage*/,
+ a /*authenticationService*/,
+ h /*event*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$V6b = e.$U6b = e.$T6b = e.$S6b = e.$R6b = void 0),

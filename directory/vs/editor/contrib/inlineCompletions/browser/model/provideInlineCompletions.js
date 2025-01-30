@@ -14,7 +14,19 @@ import '../../../snippet/browser/snippetParser.js';
 define(
 			de[1594],
 			he([1, 0, 229, 15, 33, 59, 29, 48, 17, 2564, 490, 753, 389]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*async*/,
+ w /*cancellation*/,
+ E /*map*/,
+ C /*errors*/,
+ d /*position*/,
+ m /*range*/,
+ r /*fixBrackets*/,
+ u /*textEdit*/,
+ a /*utils*/,
+ h /*snippetParser*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$KCb = e.$JCb = e.$ICb = void 0),

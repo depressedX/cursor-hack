@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/hash.js';
-define(de[4003], he([1, 0, 136]), function (ce, e, t) {
+define(de[4003], he([1, 0, 136]), function (ce /*require*/,
+ e /*exports*/,
+ t /*hash*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$L3c = i),

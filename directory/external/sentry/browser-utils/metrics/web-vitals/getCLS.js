@@ -9,7 +9,14 @@ import './onFCP.js';
 define(
 			de[2098],
 			he([1, 0, 635, 637, 576, 729, 1091, 2097]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*bindReporter*/,
+ i /*initMetric*/,
+ w /*observe*/,
+ E /*onHidden*/,
+ C /*runOnce*/,
+ d /*onFCP*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.onCLS = e.CLSThresholds = void 0),

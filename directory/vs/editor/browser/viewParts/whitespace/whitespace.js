@@ -11,7 +11,15 @@ import '../../../../css!vs/editor/browser/viewParts/whitespace/whitespace.js';
 define(
 			de[2852],
 			he([1, 0, 591, 38, 37, 120, 598, 48, 307, 2278]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dynamicViewOverlay*/,
+ i /*editorOptions*/,
+ w /*strings*/,
+ E /*charCode*/,
+ C /*viewLineRenderer*/,
+ d /*position*/,
+ m /*editorColorRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Nvb = void 0),

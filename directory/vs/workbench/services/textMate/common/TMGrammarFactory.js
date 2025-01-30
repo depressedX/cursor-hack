@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../base/common/lifecycle.js';
 import './TMScopeRegistry.js';
-define(de[3675], he([1, 0, 3, 3674]), function (ce, e, t, i) {
+define(de[3675], he([1, 0, 3, 3674]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*TMScopeRegistry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$yyc = e.$xyc = void 0),

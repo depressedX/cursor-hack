@@ -9,7 +9,14 @@ import './entrypoint.js';
 define(
 			de[4337],
 			he([1, 0, 445, 3, 20, 180, 5, 4336]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*modalService*/,
+ i /*lifecycle*/,
+ w /*extensions*/,
+ E /*layoutService*/,
+ C /*instantiation*/,
+ d /*entrypoint*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let m = class extends i.$1c {

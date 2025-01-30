@@ -8,7 +8,13 @@ import '../../../../platform/native/common/native.js';
 define(
 			de[4419],
 			he([1, 0, 256, 371, 20, 305, 110]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*workspaces*/,
+ i /*mainProcessService*/,
+ w /*extensions*/,
+ E /*ipc*/,
+ C /*native*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$qdd = void 0);

@@ -7,7 +7,12 @@ import '../../instantiation/common/instantiation.js';
 define(
 			de[1624],
 			he([1, 0, 1559, 755, 77, 5]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hotReload*/,
+ i /*hotReloadHelpers*/,
+ w /*observable*/,
+ E /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$jc = C),

@@ -24,7 +24,26 @@ define(
 				1, 0, 24, 15, 76, 33, 6, 136, 103, 3, 387, 23, 240, 19, 408, 4, 22,
 				2731, 34, 29,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*async*/,
+ w /*buffer*/,
+ E /*cancellation*/,
+ C /*event*/,
+ d /*hash*/,
+ m /*iterator*/,
+ r /*lifecycle*/,
+ u /*ternarySearchTree*/,
+ a /*network*/,
+ h /*performance*/,
+ c /*resources*/,
+ n /*stream*/,
+ g /*nls*/,
+ p /*files*/,
+ o /*io*/,
+ f /*log*/,
+ b /*errors*/) {
 				"use strict";
 				var s;
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$sr = void 0);

@@ -10,7 +10,15 @@ import './tokenizer.js';
 define(
 			de[1538],
 			he([1, 0, 658, 914, 657, 492, 2563, 2562, 915]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*ast*/,
+ i /*beforeEditPositionMapper*/,
+ w /*smallImmutableSet*/,
+ E /*length*/,
+ C /*concat23Trees*/,
+ d /*nodeReader*/,
+ m /*tokenizer*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$6O = r);
 				function r(a, h, c, n) {

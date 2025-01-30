@@ -4,7 +4,12 @@ import '../../../../../../../external/solid/web.js';
 import './ComposerSearchToolCallBlock.js';
 import '../../../../../../platform/tracing/common/tracing.js';
 import '../../../../../../../external/solid/solid.js';
-define(de[4209], he([1, 0, 2, 861, 216, 13]), function (ce, e, t, i, w, E) {
+define(de[4209], he([1, 0, 2, 861, 216, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*ComposerSearchToolCallBlock*/,
+ w /*tracing*/,
+ E /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ComposerGrepSearchToolCallBlock = d);

@@ -18,7 +18,23 @@ import '../../../../platform/opener/browser/link.js';
 define(
 			de[3614],
 			he([1, 0, 7, 33, 27, 3, 46, 71, 1177, 1316, 4, 11, 184, 8, 5, 43, 497]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*cancellation*/,
+ w /*keyCodes*/,
+ E /*lifecycle*/,
+ C /*editorExtensions*/,
+ d /*editorContextKeys*/,
+ m /*inlayHints*/,
+ r /*inlayHintsController*/,
+ u /*nls*/,
+ a /*actions*/,
+ h /*accessibilitySignalService*/,
+ c /*contextkey*/,
+ n /*instantiation*/,
+ g /*keybindingsRegistry*/,
+ p /*link*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

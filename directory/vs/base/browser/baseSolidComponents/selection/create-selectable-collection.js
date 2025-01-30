@@ -8,7 +8,13 @@ import '../utils/api.js';
 define(
 		de[2647],
 		he([1, 0, 115, 13, 7, 1568, 115]),
-		function (ce, e, t, i, w, E, C) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*solid*/,
+ w /*dom*/,
+ E /*create-type-select*/,
+ C /*api*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Smb = d),

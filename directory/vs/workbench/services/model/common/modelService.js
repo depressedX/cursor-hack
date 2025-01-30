@@ -11,7 +11,16 @@ import '../../../../platform/instantiation/common/instantiation.js';
 define(
 			de[3586],
 			he([1, 0, 67, 960, 125, 10, 20, 155, 165, 5]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*model*/,
+ i /*modelService*/,
+ w /*textResourceConfiguration*/,
+ E /*configuration*/,
+ C /*extensions*/,
+ d /*undoRedo*/,
+ m /*pathService*/,
+ r /*instantiation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Rvc = void 0);

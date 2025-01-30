@@ -17,7 +17,22 @@ import '../../../controlCommon/browser/solid.js';
 define(
 			de[1364],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 2, 13, 26, 79, 14, 9, 23, 36]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*web*/,
+ r /*solid*/,
+ u /*themables*/,
+ a /*iconRegistry*/,
+ h /*codicons*/,
+ c /*uri*/,
+ n /*network*/,
+ g /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Fbc = void 0),

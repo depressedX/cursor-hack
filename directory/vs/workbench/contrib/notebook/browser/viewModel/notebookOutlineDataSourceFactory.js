@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../base/common/lifecycle.js';
 import '../../../../../platform/instantiation/common/instantiation.js';
 import './notebookOutlineDataSource.js';
-define(de[1306], he([1, 0, 3, 5, 3520]), function (ce, e, t, i, w) {
+define(de[1306], he([1, 0, 3, 5, 3520]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*instantiation*/,
+ w /*notebookOutlineDataSource*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$H4b = e.$G4b = void 0);

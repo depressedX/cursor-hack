@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../base/common/strings.js';
 import '../../../../../nls.js';
-define(de[3215], he([1, 0, 37, 4]), function (ce, e, t, i) {
+define(de[3215], he([1, 0, 37, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 });
 			const w = (C) => encodeURIComponent(JSON.stringify({ profile: C })),

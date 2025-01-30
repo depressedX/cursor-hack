@@ -10,7 +10,14 @@ import '../../../../css!vs/editor/contrib/codelens/browser/codelensWidget.js';
 define(
 			de[2909],
 			he([1, 0, 7, 182, 210, 56, 17, 122, 2292]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*iconLabels*/,
+ w /*uint*/,
+ E /*editorBrowser*/,
+ C /*range*/,
+ d /*textModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$OBb = e.$NBb = void 0),

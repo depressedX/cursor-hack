@@ -9,7 +9,14 @@ import './debugModel.js';
 define(
 			de[3682],
 			he([1, 0, 112, 3, 34, 91, 10, 300]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*debug*/,
+ i /*lifecycle*/,
+ w /*log*/,
+ E /*accessibility*/,
+ C /*configuration*/,
+ d /*debugModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$qRc = void 0);

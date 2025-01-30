@@ -16,7 +16,21 @@ import '../../../services/workingCopy/common/workingCopyEditorService.js';
 define(
 			de[3877],
 			he([1, 0, 3, 23, 19, 9, 5, 849, 625, 360, 355, 1831, 623, 335, 403]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*network*/,
+ w /*resources*/,
+ E /*uri*/,
+ C /*instantiation*/,
+ d /*customEditorInput*/,
+ m /*customEditor*/,
+ r /*notebookEditorInput*/,
+ u /*webview*/,
+ a /*webviewEditorInputSerializer*/,
+ h /*webviewWorkbenchService*/,
+ c /*workingCopyBackup*/,
+ n /*workingCopyEditorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Yoc = e.$Xoc = void 0);

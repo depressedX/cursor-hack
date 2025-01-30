@@ -17,7 +17,22 @@ import '../hooks/useComposerDataHandle.js';
 define(
 			de[4206],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 9, 23, 26, 14, 135, 36, 177]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*uri*/,
+ u /*network*/,
+ a /*themables*/,
+ h /*codicons*/,
+ c /*scrollableDiv*/,
+ n /*solid*/,
+ g /*useComposerDataHandle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerInputImages = l);

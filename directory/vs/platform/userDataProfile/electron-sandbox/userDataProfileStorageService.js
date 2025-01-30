@@ -9,7 +9,14 @@ import '../../ipc/common/mainProcessService.js';
 define(
 			de[2935],
 			he([1, 0, 681, 20, 21, 34, 129, 371]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*userDataProfileStorageService*/,
+ i /*extensions*/,
+ w /*storage*/,
+ E /*log*/,
+ C /*userDataProfile*/,
+ d /*mainProcessService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ocd = void 0);

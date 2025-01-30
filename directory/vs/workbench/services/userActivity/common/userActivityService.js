@@ -9,7 +9,14 @@ import './userActivityRegistry.js';
 define(
 			de[1040],
 			he([1, 0, 15, 6, 3, 20, 5, 1894]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*extensions*/,
+ C /*instantiation*/,
+ d /*userActivityRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Qoc = e.$Poc = void 0);

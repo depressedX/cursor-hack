@@ -7,7 +7,12 @@ import './uint.js';
 define(
 			de[37],
 			he([1, 0, 744, 120, 149, 210]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cache*/,
+ i /*charCode*/,
+ w /*lazy*/,
+ E /*uint*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$kg =

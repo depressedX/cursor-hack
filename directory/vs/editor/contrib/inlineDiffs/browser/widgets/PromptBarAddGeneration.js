@@ -12,7 +12,17 @@ import '../../../../../workbench/contrib/ui/browser/menu/hooks.js';
 define(
 			de[4184],
 			he([1, 0, 2, 2, 2, 2, 2, 14, 26, 1976, 364]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*codicons*/,
+ m /*themables*/,
+ r /*MenuPickerWrapper*/,
+ u /*hooks*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Pdc = void 0);

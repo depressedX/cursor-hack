@@ -13,7 +13,18 @@ import '../common/notebookExecutionStateService.js';
 define(
 			de[835],
 			he([1, 0, 345, 6, 3, 28, 600, 65, 463, 10, 70, 190]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*pixelRatio*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*types*/,
+ C /*fontMeasurements*/,
+ d /*codeEditorService*/,
+ m /*fontInfo*/,
+ r /*configuration*/,
+ u /*notebookCommon*/,
+ a /*notebookExecutionStateService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$XIb = e.$WIb = void 0);

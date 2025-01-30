@@ -17,7 +17,22 @@ import '../../../../base/common/themables.js';
 define(
 			de[4071],
 			he([1, 0, 54, 24, 29, 103, 3, 9, 208, 1060, 153, 329, 1355, 89, 569, 26]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*path*/,
+ i /*arrays*/,
+ w /*errors*/,
+ E /*iterator*/,
+ C /*lifecycle*/,
+ d /*uri*/,
+ m /*chat*/,
+ r /*chatDynamicVariables*/,
+ u /*chatAgents*/,
+ a /*chatParserTypes*/,
+ h /*chatContextAttachments*/,
+ c /*viewsService*/,
+ n /*languageModelToolsService*/,
+ g /*themables*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$RIc = void 0);

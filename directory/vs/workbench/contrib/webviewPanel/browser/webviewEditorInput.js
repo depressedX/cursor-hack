@@ -8,7 +8,13 @@ import '../../../common/editor/editorInput.js';
 define(
 			de[566],
 			he([1, 0, 23, 9, 47, 44, 223]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*uri*/,
+ w /*uuid*/,
+ E /*editor*/,
+ C /*editorInput*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$W4b = void 0);

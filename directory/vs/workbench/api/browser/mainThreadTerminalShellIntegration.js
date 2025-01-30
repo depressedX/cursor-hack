@@ -12,7 +12,17 @@ import '../common/extHostTypes.js';
 define(
 			de[3465],
 			he([1, 0, 6, 3, 9, 189, 88, 107, 78, 101, 1028]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*capabilities*/,
+ C /*extHost.protocol*/,
+ d /*terminal*/,
+ m /*environmentService*/,
+ r /*extHostCustomers*/,
+ u /*extHostTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Hoc = void 0);

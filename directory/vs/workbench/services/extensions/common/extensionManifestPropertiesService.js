@@ -17,7 +17,22 @@ import '../../../../base/common/platform.js';
 define(
 			de[384],
 			he([1, 0, 10, 109, 175, 154, 24, 62, 5, 20, 3, 1059, 28, 174, 34, 12]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*configuration*/,
+ i /*extensions*/,
+ w /*extensionsRegistry*/,
+ E /*extensionManagementUtil*/,
+ C /*arrays*/,
+ d /*productService*/,
+ m /*instantiation*/,
+ r /*extensions*/,
+ u /*lifecycle*/,
+ a /*workspaceTrust*/,
+ h /*types*/,
+ c /*workspaceTrust*/,
+ n /*log*/,
+ g /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$KSb = e.$JSb = void 0),

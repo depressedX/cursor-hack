@@ -7,7 +7,12 @@ import '../viewModel.js';
 define(
 			de[533],
 			he([1, 0, 37, 210, 1545, 290]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*strings*/,
+ i /*uint*/,
+ w /*linePart*/,
+ E /*viewModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Hub = e.$Gub = e.$Fub = void 0),

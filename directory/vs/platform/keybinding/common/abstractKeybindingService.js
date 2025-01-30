@@ -12,7 +12,17 @@ import './keybindingResolver.js';
 define(
 			de[2735],
 			he([1, 0, 24, 15, 29, 6, 1502, 27, 3, 4, 390]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*async*/,
+ w /*errors*/,
+ E /*event*/,
+ C /*ime*/,
+ d /*keyCodes*/,
+ m /*lifecycle*/,
+ r /*nls*/,
+ u /*keybindingResolver*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Fvc = void 0),

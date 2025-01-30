@@ -9,7 +9,14 @@ import '../common/commentsConfiguration.js';
 define(
 			de[1726],
 			he([1, 0, 7, 95, 275, 3, 12, 791]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*hoverDelegateFactory*/,
+ w /*date*/,
+ E /*lifecycle*/,
+ C /*platform*/,
+ d /*commentsConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$r3b = void 0),

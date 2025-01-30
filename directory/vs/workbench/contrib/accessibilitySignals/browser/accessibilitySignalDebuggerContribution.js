@@ -4,7 +4,12 @@ import '../../../../base/common/lifecycle.js';
 import '../../../../base/common/observable.js';
 import '../../../../platform/accessibilitySignal/browser/accessibilitySignalService.js';
 import '../../debug/common/debug.js';
-define(de[3050], he([1, 0, 3, 77, 184, 112]), function (ce, e, t, i, w, E) {
+define(de[3050], he([1, 0, 3, 77, 184, 112]), function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*accessibilitySignalService*/,
+ E /*debug*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$w2c = void 0);
 			let C = class extends t.$1c {

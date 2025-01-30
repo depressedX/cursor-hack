@@ -2,7 +2,10 @@ import '../../../../require.js';
 import '../../../../exports.js';
 import '../languages.js';
 import '../encodedTokenAttributes.js';
-define(de[1175], he([1, 0, 74, 171]), function (ce, e, t, i) {
+define(de[1175], he([1, 0, 74, 171]), function (ce /*require*/,
+ e /*exports*/,
+ t /*languages*/,
+ i /*encodedTokenAttributes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$$U = void 0),

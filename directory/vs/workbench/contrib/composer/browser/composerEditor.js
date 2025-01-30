@@ -20,7 +20,23 @@ define(
 			he([
 				1, 0, 14, 3, 23, 9, 5, 21, 32, 35, 217, 223, 219, 209, 1075, 506, 45,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*lifecycle*/,
+ w /*network*/,
+ E /*uri*/,
+ C /*instantiation*/,
+ d /*storage*/,
+ m /*telemetry*/,
+ r /*themeService*/,
+ u /*editorPane*/,
+ a /*editorInput*/,
+ h /*composer*/,
+ c /*composerDataService*/,
+ n /*renderComposerPane*/,
+ g /*composerViews*/,
+ p /*reactiveStorageService*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

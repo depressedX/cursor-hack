@@ -8,7 +8,13 @@ import '../../common/core/stringBuilder.js';
 define(
 			de[1183],
 			he([1, 0, 194, 432, 29, 38, 462]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*trustedTypes*/,
+ w /*errors*/,
+ E /*editorOptions*/,
+ C /*stringBuilder*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Bub = e.$Aub = void 0);

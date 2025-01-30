@@ -8,7 +8,13 @@ import '../model/editStack.js';
 define(
 			de[2875],
 			he([1, 0, 67, 42, 3, 155, 780]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*model*/,
+ i /*resolverService*/,
+ w /*lifecycle*/,
+ E /*undoRedo*/,
+ C /*editStack*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$yvc = void 0);

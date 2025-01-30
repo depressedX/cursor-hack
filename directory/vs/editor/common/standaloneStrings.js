@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import '../../nls.js';
-define(de[761], he([1, 0, 4]), function (ce, e, t) {
+define(de[761], he([1, 0, 4]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.StandaloneServicesNLS =

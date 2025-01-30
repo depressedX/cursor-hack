@@ -10,7 +10,15 @@ import '../../../base/common/cancellation.js';
 define(
 			de[3343],
 			he([1, 0, 9, 6, 3, 88, 101, 472, 33]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*extHost.protocol*/,
+ C /*extHostCustomers*/,
+ d /*decorations*/,
+ m /*cancellation*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ymc = void 0);

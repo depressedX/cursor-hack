@@ -10,7 +10,15 @@ import '../../model/mirrorTextModel.js';
 define(
 			de[935],
 			he([1, 0, 15, 3, 9, 48, 17, 409, 2568]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*lifecycle*/,
+ w /*uri*/,
+ E /*position*/,
+ C /*range*/,
+ d /*wordHelper*/,
+ m /*mirrorTextModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$yxb = e.$xxb = e.$wxb = e.$vxb = e.$uxb = void 0),

@@ -10,7 +10,15 @@ import './notepadData.js';
 define(
 			de[3618],
 			he([1, 0, 3, 20, 21, 25, 558, 467, 1870]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*extensions*/,
+ w /*storage*/,
+ E /*workspace*/,
+ C /*constants*/,
+ d /*notepad*/,
+ m /*notepadData*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$zAc = void 0);

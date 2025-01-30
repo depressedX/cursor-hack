@@ -12,7 +12,17 @@ import '../../services/extensions/common/extHostCustomers.js';
 define(
 			de[3375],
 			he([1, 0, 7, 3, 19, 9, 65, 831, 88, 355, 101]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*resources*/,
+ E /*uri*/,
+ C /*codeEditorService*/,
+ d /*mainThreadWebviews*/,
+ m /*extHost.protocol*/,
+ r /*webview*/,
+ u /*extHostCustomers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Omc = void 0);

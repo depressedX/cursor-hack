@@ -14,7 +14,19 @@ import '../../../inlineChat/browser/inlineChatController.js';
 define(
 			de[1358],
 			he([1, 0, 14, 27, 65, 104, 4, 11, 43, 402, 208, 207, 427]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*keyCodes*/,
+ w /*codeEditorService*/,
+ E /*selection*/,
+ C /*nls*/,
+ d /*actions*/,
+ m /*keybindingsRegistry*/,
+ r /*chatActions*/,
+ u /*chat*/,
+ a /*chatContextKeys*/,
+ h /*inlineChatController*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$o9b = void 0),

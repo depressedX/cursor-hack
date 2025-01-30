@@ -19,7 +19,24 @@ import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[1799],
 			he([1, 0, 255, 5, 17, 7, 35, 18, 97, 66, 45, 309, 67, 61, 9, 11, 92, 8]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*peekView*/,
+ i /*instantiation*/,
+ w /*range*/,
+ E /*dom*/,
+ C /*themeService*/,
+ d /*editorService*/,
+ m /*color*/,
+ r /*editorGroupsService*/,
+ u /*reactiveStorageService*/,
+ a /*diffEditorWidget*/,
+ h /*model*/,
+ c /*language*/,
+ n /*uri*/,
+ g /*actions*/,
+ p /*menuEntryActionViewItem*/,
+ o /*contextkey*/) {
 				"use strict";
 				var f;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

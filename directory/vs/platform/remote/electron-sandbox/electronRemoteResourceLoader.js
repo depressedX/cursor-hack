@@ -11,7 +11,16 @@ import '../common/electronRemoteResources.js';
 define(
 			de[2787],
 			he([1, 0, 76, 3, 266, 23, 9, 22, 371, 2783]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*lifecycle*/,
+ w /*mime*/,
+ E /*network*/,
+ C /*uri*/,
+ d /*files*/,
+ m /*mainProcessService*/,
+ r /*electronRemoteResources*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$ccd = void 0);

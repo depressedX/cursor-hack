@@ -8,7 +8,13 @@ import '../../services/environment/common/environmentService.js';
 define(
 			de[3364],
 			he([1, 0, 101, 88, 211, 3, 78]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extHostCustomers*/,
+ i /*extHost.protocol*/,
+ w /*remoteAuthorityResolver*/,
+ E /*lifecycle*/,
+ C /*environmentService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$joc = void 0);

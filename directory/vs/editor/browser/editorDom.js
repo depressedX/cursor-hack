@@ -9,7 +9,14 @@ import '../../platform/theme/common/colorRegistry.js';
 define(
 			de[777],
 			he([1, 0, 7, 757, 168, 15, 3, 51]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*globalPointerMoveMonitor*/,
+ w /*mouseEvent*/,
+ E /*async*/,
+ C /*lifecycle*/,
+ d /*colorRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$oub =

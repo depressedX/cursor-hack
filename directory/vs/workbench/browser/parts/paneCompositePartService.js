@@ -16,7 +16,21 @@ import './sidebar/sidebarPart2.js';
 define(
 			de[4122],
 			he([1, 0, 6, 28, 20, 5, 1938, 1939, 1940, 60, 142, 3, 10, 58, 4121]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*types*/,
+ w /*extensions*/,
+ E /*instantiation*/,
+ C /*auxiliaryBarPart*/,
+ d /*panelPart*/,
+ m /*sidebarPart*/,
+ r /*views*/,
+ u /*panecomposite*/,
+ a /*lifecycle*/,
+ h /*configuration*/,
+ c /*constants*/,
+ n /*sidebarPart2*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$0uc = void 0);

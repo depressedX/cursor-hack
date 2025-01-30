@@ -9,7 +9,14 @@ import '../../../ui/browser/hooks/useKeyboardShortcut.js';
 define(
 			de[4183],
 			he([1, 0, 13, 58, 169, 177, 36, 385]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*constants*/,
+ w /*constants*/,
+ E /*useComposerDataHandle*/,
+ C /*solid*/,
+ d /*useKeyboardShortcut*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.useComposerPlaceholder = void 0);

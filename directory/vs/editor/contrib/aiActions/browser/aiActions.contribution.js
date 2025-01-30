@@ -18,7 +18,23 @@ import '../../../../platform/workspace/common/workspace.js';
 define(
 			de[1241],
 			he([1, 0, 33, 58, 46, 65, 71, 69, 414, 11, 31, 169, 48, 126, 42, 3, 25]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*constants*/,
+ w /*editorExtensions*/,
+ E /*codeEditorService*/,
+ C /*editorContextKeys*/,
+ d /*languageFeatures*/,
+ m /*goToSymbol*/,
+ r /*actions*/,
+ u /*commands*/,
+ a /*constants*/,
+ h /*position*/,
+ c /*chat_pb*/,
+ n /*resolverService*/,
+ g /*lifecycle*/,
+ p /*workspace*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gmc =

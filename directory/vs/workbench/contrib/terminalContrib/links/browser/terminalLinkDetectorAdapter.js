@@ -9,7 +9,14 @@ import './terminalLink.js';
 define(
 			de[3158],
 			he([1, 0, 6, 3, 4, 5, 513, 3157]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*nls*/,
+ E /*instantiation*/,
+ C /*links*/,
+ d /*terminalLink*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fWc = void 0);

@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import './inlineGPT4actions.js';
 import '../../../browser/editorExtensions.js';
 import './inlineGPT4Controller.js';
-define(de[3935], he([1, 0, 3934, 46, 1344]), function (ce, e, t, i, w) {
+define(de[3935], he([1, 0, 3934, 46, 1344]), function (ce /*require*/,
+ e /*exports*/,
+ t /*inlineGPT4actions*/,
+ i /*editorExtensions*/,
+ w /*inlineGPT4Controller*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(0, i.$qtb)(

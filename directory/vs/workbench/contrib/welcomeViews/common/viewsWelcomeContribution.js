@@ -10,7 +10,15 @@ import '../../../services/extensions/common/extensions.js';
 define(
 			de[3316],
 			he([1, 0, 4, 3, 8, 1786, 30, 60, 53]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*lifecycle*/,
+ w /*contextkey*/,
+ E /*viewsWelcomeExtensionPoint*/,
+ C /*platform*/,
+ d /*views*/,
+ m /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$BYc = void 0),

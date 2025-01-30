@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../extensions/common/extensionsRegistry.js';
 import '../../../../platform/theme/common/tokenClassificationRegistry.js';
-define(de[3715], he([1, 0, 4, 175, 778]), function (ce, e, t, i, w) {
+define(de[3715], he([1, 0, 4, 175, 778]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*extensionsRegistry*/,
+ w /*tokenClassificationRegistry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$pmc = void 0),

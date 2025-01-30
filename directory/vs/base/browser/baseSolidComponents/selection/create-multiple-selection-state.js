@@ -7,7 +7,12 @@ import './types.js';
 define(
 		de[2645],
 		he([1, 0, 115, 13, 2644, 739]),
-		function (ce, e, t, i, w, E) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*api*/,
+ i /*solid*/,
+ w /*create-controllable-selection-signal*/,
+ E /*types*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Qmb = d);
 			function C(m, r) {

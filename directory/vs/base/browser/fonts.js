@@ -1,7 +1,9 @@
 import '../../../require.js';
 import '../../../exports.js';
 import '../common/platform.js';
-define(de[661], he([1, 0, 12]), function (ce, e, t) {
+define(de[661], he([1, 0, 12]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$njb = void 0),

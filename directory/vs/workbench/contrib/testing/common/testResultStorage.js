@@ -16,7 +16,21 @@ import './testResult.js';
 define(
 			de[1774],
 			he([1, 0, 76, 3, 28, 9, 113, 22, 5, 34, 21, 68, 25, 515, 421]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*lifecycle*/,
+ w /*types*/,
+ E /*uri*/,
+ C /*environment*/,
+ d /*files*/,
+ m /*instantiation*/,
+ r /*log*/,
+ u /*storage*/,
+ a /*uriIdentity*/,
+ h /*workspace*/,
+ c /*storedValue*/,
+ n /*testResult*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Jqc = e.$Iqc = e.$Hqc = e.$Gqc = e.$Fqc = void 0),

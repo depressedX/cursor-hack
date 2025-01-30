@@ -9,7 +9,14 @@ import '../../../../platform/userDataSync/common/userDataSyncAccount.js';
 define(
 			de[3798],
 			he([1, 0, 150, 230, 2939, 965, 2940, 1212]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*userDataSync*/,
+ i /*services*/,
+ w /*userDataSyncServiceIpc*/,
+ E /*userDataSyncMachines*/,
+ C /*userDataSyncIpc*/,
+ d /*userDataSyncAccount*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, i.$Wbd)(t.$5Rb, "userDataSync", { channelClientCtor: w.$n9c }),

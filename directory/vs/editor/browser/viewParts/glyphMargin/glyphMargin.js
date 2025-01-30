@@ -12,7 +12,16 @@ import '../../../../css!vs/editor/browser/viewParts/glyphMargin/glyphMargin.js';
 define(
 			de[1191],
 			he([1, 0, 194, 24, 591, 303, 38, 48, 17, 64, 2265]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*arrays*/,
+ w /*dynamicViewOverlay*/,
+ E /*viewPart*/,
+ C /*editorOptions*/,
+ d /*position*/,
+ m /*range*/,
+ r /*model*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$svb = e.$rvb = e.$qvb = e.$pvb = e.$ovb = void 0);

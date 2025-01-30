@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../utils/index.js';
 import './currentScopes.js';
 import './debug-build.js';
-define(de[2118], he([1, 0, 80, 234, 263]), function (ce, e, t, i, w) {
+define(de[2118], he([1, 0, 80, 234, 263]), function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*currentScopes*/,
+ w /*debug-build*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.profiler = void 0);

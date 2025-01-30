@@ -14,7 +14,18 @@ import '../../../../css!vs/editor/contrib/anchorSelect/browser/anchorSelect.js';
 define(
 			de[2800],
 			he([1, 0, 127, 94, 27, 46, 104, 71, 64, 4, 8, 43, 2284]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*aria*/,
+ i /*htmlContent*/,
+ w /*keyCodes*/,
+ E /*editorExtensions*/,
+ C /*selection*/,
+ d /*editorContextKeys*/,
+ m /*model*/,
+ r /*nls*/,
+ u /*contextkey*/,
+ a /*keybindingsRegistry*/) {
 				"use strict";
 				var h;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -14,7 +14,19 @@ import '../../../controlCommon/browser/solid.js';
 define(
 			de[4289],
 			he([1, 0, 2, 2, 2, 2, 13, 126, 167, 4272, 4274, 177, 36]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*chat_pb*/,
+ m /*composer_pb*/,
+ r /*ComposerAdvancedContextFollowup*/,
+ u /*ComposerContextStep*/,
+ a /*useComposerDataHandle*/,
+ h /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerUsesCodebaseStatus = void 0);

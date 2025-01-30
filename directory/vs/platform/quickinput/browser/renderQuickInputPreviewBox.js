@@ -8,7 +8,13 @@ import '../../../base/browser/webConstants.js';
 define(
 			de[2751],
 			he([1, 0, 2, 2, 2749, 75, 740]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*QuickInputPreviewBox*/,
+ E /*window*/,
+ C /*webConstants*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Jxc = d);
 				function d(m, r, u) {

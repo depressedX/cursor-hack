@@ -8,7 +8,13 @@ import '../../files/common/files.js';
 define(
 			de[2794],
 			he([1, 0, 24, 29, 3, 82, 22]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*errors*/,
+ w /*lifecycle*/,
+ E /*objects*/,
+ C /*files*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ErrorEvent = void 0);

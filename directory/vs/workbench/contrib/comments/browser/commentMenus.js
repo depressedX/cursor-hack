@@ -2,7 +2,10 @@ import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/actions/common/actions.js';
 import '../../../../platform/actions/browser/menuEntryActionViewItem.js';
-define(de[3028], he([1, 0, 11, 92]), function (ce, e, t, i) {
+define(de[3028], he([1, 0, 11, 92]), function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*menuEntryActionViewItem*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$22b = void 0);
 			let w = class {

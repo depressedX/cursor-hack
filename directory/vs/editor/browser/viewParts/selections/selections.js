@@ -8,7 +8,12 @@ import '../../../../css!vs/editor/browser/viewParts/selections/selections.js';
 define(
 			de[2845],
 			he([1, 0, 591, 51, 35, 38, 2276]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dynamicViewOverlay*/,
+ i /*colorRegistry*/,
+ w /*themeService*/,
+ E /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Kvb = void 0);

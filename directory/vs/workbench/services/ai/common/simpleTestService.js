@@ -12,7 +12,17 @@ import '../../../../base/common/path.js';
 define(
 			de[697],
 			he([1, 0, 9, 20, 81, 5, 30, 10, 61, 25, 54]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*extensions*/,
+ w /*configurationRegistry*/,
+ E /*instantiation*/,
+ C /*platform*/,
+ d /*configuration*/,
+ m /*language*/,
+ r /*workspace*/,
+ u /*path*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$19b = void 0),

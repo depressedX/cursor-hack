@@ -8,7 +8,13 @@ import '../../../common/languages.js';
 define(
 			de[1596],
 			he([1, 0, 24, 120, 132, 37, 74]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*charCode*/,
+ w /*filters*/,
+ E /*strings*/,
+ C /*languages*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$Cb = e.$0Cb = void 0);

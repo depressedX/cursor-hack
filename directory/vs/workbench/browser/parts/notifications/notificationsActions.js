@@ -12,7 +12,16 @@ import '../../../../css!vs/workbench/browser/parts/notifications/media/notificat
 define(
 			de[1227],
 			he([1, 0, 4, 50, 682, 31, 121, 14, 79, 26, 1516]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*notificationsCommands*/,
+ E /*commands*/,
+ C /*clipboardService*/,
+ d /*codicons*/,
+ m /*iconRegistry*/,
+ r /*themables*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$c3c =

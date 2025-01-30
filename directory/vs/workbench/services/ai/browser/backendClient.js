@@ -4,7 +4,12 @@ import '../../../../../external/bufbuild/connect.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../../platform/reactivestorage/browser/reactiveStorageService.js';
 import './connectRequestService.js';
-define(de[285], he([1, 0, 340, 3, 45, 1280]), function (ce, e, t, i, w, E) {
+define(de[285], he([1, 0, 340, 3, 45, 1280]), function (ce /*require*/,
+ e /*exports*/,
+ t /*connect*/,
+ i /*lifecycle*/,
+ w /*reactiveStorageService*/,
+ E /*connectRequestService*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$q6b = void 0);
 			let C = class extends i.$1c {

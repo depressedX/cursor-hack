@@ -10,7 +10,15 @@ import './uri.js';
 define(
 			de[19],
 			he([1, 0, 120, 249, 23, 54, 12, 37, 9]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*extpath*/,
+ w /*network*/,
+ E /*path*/,
+ C /*platform*/,
+ d /*strings*/,
+ m /*uri*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.DataUri =

@@ -8,7 +8,13 @@ import '../chat.js';
 define(
 			de[3012],
 			he([1, 0, 14, 4, 99, 11, 208]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*nls*/,
+ w /*actionCommonCategories*/,
+ E /*actions*/,
+ C /*chat*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$HIc = d);
 				function d() {

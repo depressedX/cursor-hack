@@ -16,7 +16,21 @@ import '../../../base/browser/dom.js';
 define(
 			de[3290],
 			he([1, 0, 4, 110, 18, 11, 99, 78, 43, 179, 27, 22, 151, 9, 7]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*native*/,
+ w /*editorService*/,
+ E /*actions*/,
+ C /*actionCommonCategories*/,
+ d /*environmentService*/,
+ m /*keybindingsRegistry*/,
+ r /*contextkeys*/,
+ u /*keyCodes*/,
+ a /*files*/,
+ h /*environmentService*/,
+ c /*uri*/,
+ n /*dom*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$3cd = e.$2cd = e.$1cd = e.$Zcd = void 0);

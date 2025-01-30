@@ -15,7 +15,20 @@ import '../common/terminal.zoom.js';
 define(
 			de[4046],
 			he([1, 0, 6, 203, 3, 12, 117, 378, 10, 363, 4, 28, 1859, 1770]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*scrollableElement*/,
+ w /*lifecycle*/,
+ E /*platform*/,
+ C /*terminal*/,
+ d /*terminalExtensions*/,
+ m /*configuration*/,
+ r /*terminalActions*/,
+ u /*nls*/,
+ a /*types*/,
+ h /*terminalConfiguration*/,
+ c /*terminal.zoom*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 });

@@ -10,7 +10,15 @@ import '../../../../../platform/files/common/files.js';
 define(
 			de[3885],
 			he([1, 0, 3, 9, 719, 19, 334, 403, 22]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*uri*/,
+ w /*textEditorService*/,
+ E /*resources*/,
+ C /*workingCopy*/,
+ d /*workingCopyEditorService*/,
+ m /*files*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$8Mc = e.$7Mc = void 0);

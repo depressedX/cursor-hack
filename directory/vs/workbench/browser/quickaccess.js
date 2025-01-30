@@ -11,7 +11,16 @@ import '../services/editor/common/editorService.js';
 define(
 			de[473],
 			he([1, 0, 4, 8, 39, 63, 3, 56, 66, 18]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*contextkey*/,
+ w /*keybinding*/,
+ E /*quickInput*/,
+ C /*lifecycle*/,
+ d /*editorBrowser*/,
+ m /*editorGroupsService*/,
+ r /*editorService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$k9b = e.$i9b = e.$h9b = e.$g9b = e.$f9b = e.$e9b = void 0),

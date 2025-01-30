@@ -21,7 +21,23 @@ define(
 		he([
 			1, 0, 7, 3, 111, 4, 11, 8, 57, 109, 5, 34, 372, 3064, 3069, 703, 87, 2446,
 		]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*severity*/,
+ E /*nls*/,
+ C /*actions*/,
+ d /*contextkey*/,
+ m /*dialogs*/,
+ r /*extensions*/,
+ u /*instantiation*/,
+ a /*log*/,
+ h /*product*/,
+ c /*issueReporterPage*/,
+ n /*issueReporterService*/,
+ g /*auxiliaryWindowService*/,
+ p /*host*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$u6c = void 0),

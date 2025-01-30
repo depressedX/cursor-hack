@@ -13,7 +13,18 @@ import '../../../../../external/solid/solid.js';
 define(
 			de[4267],
 			he([1, 0, 2, 2, 2, 36, 338, 14, 147, 385, 58, 13]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*markdown*/,
+ d /*codicons*/,
+ m /*simpleButton*/,
+ r /*useKeyboardShortcut*/,
+ u /*constants*/,
+ a /*solid*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$BAc = c);
 				const h = (0, t.template)(

@@ -3,7 +3,11 @@ import '../../../exports.js';
 import './browser.js';
 import './window.js';
 import '../common/platform.js';
-define(de[459], he([1, 0, 139, 75, 12]), function (ce, e, t, i, w) {
+define(de[459], he([1, 0, 139, 75, 12]), function (ce /*require*/,
+ e /*exports*/,
+ t /*browser*/,
+ i /*window*/,
+ w /*platform*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$Yfb = e.KeyboardSupport = void 0),

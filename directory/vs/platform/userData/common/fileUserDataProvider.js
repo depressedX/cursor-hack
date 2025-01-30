@@ -8,7 +8,13 @@ import '../../../base/common/map.js';
 define(
 			de[2883],
 			he([1, 0, 6, 3, 22, 387, 59]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*lifecycle*/,
+ w /*files*/,
+ E /*ternarySearchTree*/,
+ C /*map*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$T8c = void 0);

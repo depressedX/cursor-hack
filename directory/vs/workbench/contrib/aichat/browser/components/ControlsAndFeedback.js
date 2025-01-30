@@ -13,7 +13,18 @@ import '../../../aiMarkdown/browser/useMarkdownHover.js';
 define(
 			de[4231],
 			he([1, 0, 2, 2, 2, 2, 13, 147, 14, 1008, 36, 694]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*simpleButton*/,
+ m /*codicons*/,
+ r /*copyToClipboard*/,
+ u /*solid*/,
+ a /*useMarkdownHover*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$3ac = n);
 				const h = (0, t.template)("<div>"),

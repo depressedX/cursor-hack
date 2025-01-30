@@ -10,7 +10,15 @@ import '../../../../base/common/hash.js';
 define(
 			de[685],
 			he([1, 0, 76, 14, 4, 8, 5, 79, 136]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*buffer*/,
+ i /*codicons*/,
+ w /*nls*/,
+ E /*contextkey*/,
+ C /*instantiation*/,
+ d /*iconRegistry*/,
+ m /*hash*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$O1c =

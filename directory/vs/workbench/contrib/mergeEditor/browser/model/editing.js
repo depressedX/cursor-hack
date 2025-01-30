@@ -2,7 +2,10 @@ import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../base/common/arrays.js';
 import '../../../../../editor/common/core/range.js';
-define(de[1249], he([1, 0, 24, 17]), function (ce, e, t, i) {
+define(de[1249], he([1, 0, 24, 17]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*range*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$eZb = e.$dZb = e.$cZb = void 0);

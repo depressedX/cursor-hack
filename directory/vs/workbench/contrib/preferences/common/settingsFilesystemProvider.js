@@ -14,7 +14,19 @@ import '../../../../platform/log/common/log.js';
 define(
 			de[3536],
 			he([1, 0, 29, 3, 23, 9, 22, 131, 6, 30, 250, 76, 34]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*lifecycle*/,
+ w /*network*/,
+ E /*uri*/,
+ C /*files*/,
+ d /*preferences*/,
+ m /*event*/,
+ r /*platform*/,
+ u /*jsonContributionRegistry*/,
+ a /*buffer*/,
+ h /*log*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

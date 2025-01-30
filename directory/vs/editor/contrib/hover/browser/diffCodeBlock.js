@@ -11,7 +11,16 @@ import '../../../../platform/accessibilitySignal/browser/accessibilitySignalServ
 define(
 			de[1689],
 			he([1, 0, 46, 65, 8, 5, 375, 84, 309, 184]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*codeEditorService*/,
+ w /*contextkey*/,
+ E /*instantiation*/,
+ C /*contextmenu*/,
+ d /*progress*/,
+ m /*diffEditorWidget*/,
+ r /*accessibilitySignalService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$zbc = e.$ybc = void 0),

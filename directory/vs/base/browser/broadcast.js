@@ -4,7 +4,12 @@ import './window.js';
 import '../common/errors.js';
 import '../common/event.js';
 import '../common/lifecycle.js';
-define(de[2224], he([1, 0, 75, 29, 6, 3]), function (ce, e, t, i, w, E) {
+define(de[2224], he([1, 0, 75, 29, 6, 3]), function (ce /*require*/,
+ e /*exports*/,
+ t /*window*/,
+ i /*errors*/,
+ w /*event*/,
+ E /*lifecycle*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Efb = void 0);
 			class C extends E.$1c {

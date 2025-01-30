@@ -15,7 +15,20 @@ import '../../../suggest/browser/suggestController.js';
 define(
 			de[2928],
 			he([1, 0, 24, 214, 6, 3, 48, 17, 490, 74, 1196, 389, 1691, 328]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*arraysFind*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*position*/,
+ d /*range*/,
+ m /*textEdit*/,
+ r /*languages*/,
+ u /*singleTextEdit*/,
+ a /*snippetParser*/,
+ h /*snippetSession*/,
+ c /*suggestController*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$NDb = e.$MDb = void 0);

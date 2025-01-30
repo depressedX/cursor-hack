@@ -9,7 +9,14 @@ import '../../../../platform/layout/browser/layoutService.js';
 define(
 			de[3127],
 			he([1, 0, 201, 277, 6, 3, 10, 180]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*numbers*/,
+ i /*sash*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*configuration*/,
+ d /*layoutService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$lPc = e.$kPc = e.$jPc = void 0),

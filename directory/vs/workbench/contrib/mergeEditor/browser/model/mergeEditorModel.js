@@ -16,7 +16,21 @@ import './modifiedBaseRange.js';
 define(
 			de[3080],
 			he([1, 0, 24, 29, 77, 17, 61, 4, 155, 416, 507, 686, 3079, 508, 1250]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*errors*/,
+ w /*observable*/,
+ E /*range*/,
+ C /*language*/,
+ d /*nls*/,
+ m /*undoRedo*/,
+ r /*editorModel*/,
+ u /*lineRange*/,
+ a /*mapping*/,
+ h /*textModelDiffs*/,
+ c /*utils*/,
+ n /*modifiedBaseRange*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.MergeEditorModelState = e.$OZb = void 0);

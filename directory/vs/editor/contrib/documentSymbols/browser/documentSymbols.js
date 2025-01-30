@@ -9,7 +9,14 @@ import '../../../../platform/commands/common/commands.js';
 define(
 			de[2740],
 			he([1, 0, 33, 28, 9, 42, 204, 31]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*types*/,
+ w /*uri*/,
+ E /*resolverService*/,
+ C /*outlineModel*/,
+ d /*commands*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					d.$fk.registerCommand(

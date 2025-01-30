@@ -9,7 +9,14 @@ import './renderInlineGPT4CancelVZ.js';
 define(
 			de[2752],
 			he([1, 0, 7, 3, 39, 5, 45, 1595]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*keybinding*/,
+ E /*instantiation*/,
+ C /*reactiveStorageService*/,
+ d /*renderInlineGPT4CancelVZ*/) {
 				"use strict";
 				var m;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

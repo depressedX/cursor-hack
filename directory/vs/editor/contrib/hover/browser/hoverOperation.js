@@ -8,7 +8,13 @@ import '../../../common/config/editorOptions.js';
 define(
 			de[601],
 			he([1, 0, 15, 29, 6, 3, 38]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*errors*/,
+ w /*event*/,
+ E /*lifecycle*/,
+ C /*editorOptions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$sCb = e.$rCb = e.HoverStartSource = e.HoverStartMode = void 0);

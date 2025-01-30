@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../nls.js';
 import '../../../../base/common/color.js';
 import '../colorUtils.js';
-define(de[544], he([1, 0, 4, 97, 306]), function (ce, e, t, i, w) {
+define(de[544], he([1, 0, 4, 97, 306]), function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*color*/,
+ w /*colorUtils*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$YP =

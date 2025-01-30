@@ -13,7 +13,18 @@ import './dropIntoEditorController.js';
 define(
 			de[2919],
 			he([1, 0, 27, 46, 602, 588, 1213, 4, 81, 43, 30, 962]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*editorExtensions*/,
+ w /*editorConfigurationSchema*/,
+ E /*editorFeatures*/,
+ C /*defaultProviders*/,
+ d /*nls*/,
+ m /*configurationRegistry*/,
+ r /*keybindingsRegistry*/,
+ u /*platform*/,
+ a /*dropIntoEditorController*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(d = mt(d)),

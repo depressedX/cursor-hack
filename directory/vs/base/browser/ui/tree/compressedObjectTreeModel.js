@@ -8,7 +8,13 @@ import '../../../common/iterator.js';
 define(
 			de[2678],
 			he([1, 0, 931, 264, 24, 6, 103]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*objectTreeModel*/,
+ i /*tree*/,
+ w /*arrays*/,
+ E /*event*/,
+ C /*iterator*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Cpb = e.$Bpb = e.$Apb = void 0),

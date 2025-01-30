@@ -12,7 +12,17 @@ import '../../accessibility/browser/accessibilityConfiguration.js';
 define(
 			de[3549],
 			he([1, 0, 127, 3, 184, 5, 1650, 267, 94, 10, 130]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*aria*/,
+ i /*lifecycle*/,
+ w /*accessibilitySignalService*/,
+ E /*instantiation*/,
+ C /*progressAccessibilitySignalScheduler*/,
+ d /*markdownRenderer*/,
+ m /*htmlContent*/,
+ r /*configuration*/,
+ u /*accessibilityConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$MIc = void 0);

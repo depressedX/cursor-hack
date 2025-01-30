@@ -8,7 +8,13 @@ import '../../../terminal/browser/terminalContribExports.js';
 define(
 			de[4382],
 			he([1, 0, 178, 130, 107, 867, 1384]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*accessibleView*/,
+ i /*accessibilityConfiguration*/,
+ w /*terminal*/,
+ E /*terminalChatController*/,
+ C /*terminalContribExports*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5Vc = void 0);

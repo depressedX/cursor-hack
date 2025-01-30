@@ -12,7 +12,17 @@ import '../../../base/common/codicons.js';
 define(
 			de[3256],
 			he([1, 0, 4, 11, 27, 43, 63, 39, 31, 473, 14]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*keyCodes*/,
+ E /*keybindingsRegistry*/,
+ C /*quickInput*/,
+ d /*keybinding*/,
+ m /*commands*/,
+ r /*quickaccess*/,
+ u /*codicons*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const a = {

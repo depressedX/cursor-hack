@@ -4,7 +4,11 @@ import '../../../../../base/browser/dom.js';
 import '../../../../../base/browser/ui/hover/hoverWidget.js';
 import '../../../../../platform/keybinding/common/keybinding.js';
 import '../../../../../css!vs/workbench/contrib/chat/browser/contrib/media/editorHoverWrapper.js';
-define(de[3011], he([1, 0, 7, 160, 39, 2392]), function (ce, e, t, i, w) {
+define(de[3011], he([1, 0, 7, 160, 39, 2392]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*hoverWidget*/,
+ w /*keybinding*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$TIc = void 0),

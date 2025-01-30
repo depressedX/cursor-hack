@@ -8,7 +8,13 @@ import './suggestModel.js';
 define(
 			de[2926],
 			he([1, 0, 24, 3, 38, 654, 1221]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*lifecycle*/,
+ w /*editorOptions*/,
+ E /*characterClassifier*/,
+ C /*suggestModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$JDb = void 0);

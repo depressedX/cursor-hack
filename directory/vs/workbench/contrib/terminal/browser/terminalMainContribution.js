@@ -14,7 +14,19 @@ import '../../../services/terminal/common/embedderTerminalService.js';
 define(
 			de[3658],
 			he([1, 0, 3, 23, 73, 117, 107, 690, 469, 231, 78, 52, 1875]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*network*/,
+ w /*label*/,
+ E /*terminal*/,
+ C /*terminal*/,
+ d /*terminalUri*/,
+ m /*terminalStrings*/,
+ r /*editorResolverService*/,
+ u /*environmentService*/,
+ a /*lifecycle*/,
+ h /*embedderTerminalService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tVc = void 0);

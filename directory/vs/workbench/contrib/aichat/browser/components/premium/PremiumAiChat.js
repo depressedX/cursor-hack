@@ -23,7 +23,25 @@ define(
 				1, 0, 2, 2, 2, 2, 13, 58, 140, 4139, 4403, 1065, 36, 4249, 270, 523,
 				385, 4396, 2012,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*constants*/,
+ m /*chatData*/,
+ r /*InEditorTopBar*/,
+ u /*PremiumChatList*/,
+ a /*useCurrentTab*/,
+ h /*solid*/,
+ c /*PremiumChatHistory*/,
+ n /*aiConfigHelper*/,
+ g /*dropdown*/,
+ p /*useKeyboardShortcut*/,
+ o /*PremiumPinnedContextContainer*/,
+ f /*PremiumInputBox*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$hcc = l);
 				const b = (0, t.template)("<div>"),

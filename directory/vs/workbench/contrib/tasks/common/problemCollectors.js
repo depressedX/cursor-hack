@@ -10,7 +10,15 @@ import '../../../../base/common/platform.js';
 define(
 			de[1814],
 			he([1, 0, 9, 6, 3, 570, 90, 47, 12]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*problemMatcher*/,
+ C /*markers*/,
+ d /*uuid*/,
+ m /*platform*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$9Wc =

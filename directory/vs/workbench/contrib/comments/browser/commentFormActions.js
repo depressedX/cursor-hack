@@ -7,7 +7,12 @@ import '../common/commentCommandIds.js';
 define(
 			de[1239],
 			he([1, 0, 183, 3, 106, 1238]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*button*/,
+ i /*lifecycle*/,
+ w /*defaultStyles*/,
+ E /*commentCommandIds*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$82b = void 0);

@@ -24,7 +24,26 @@ define(
 			1, 0, 4, 30, 55, 52, 12, 119, 40, 111, 21, 141, 3073, 32, 33, 142, 60,
 			704, 62, 3458,
 		]),
-		function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+		function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*platform*/,
+ w /*contributions*/,
+ E /*lifecycle*/,
+ C /*platform*/,
+ d /*extensionManagement*/,
+ m /*notification*/,
+ r /*severity*/,
+ u /*storage*/,
+ a /*extensions*/,
+ h /*minimalTranslations*/,
+ c /*telemetry*/,
+ n /*cancellation*/,
+ g /*panecomposite*/,
+ p /*views*/,
+ o /*locale*/,
+ f /*productService*/,
+ b /*localization.contribution*/) {
 			"use strict";
 			var s;
 			Object.defineProperty(e, "__esModule", { value: !0 }),

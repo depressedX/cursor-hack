@@ -16,7 +16,21 @@ import '../../../../services/progress/browser/progressIndicator.js';
 define(
 			de[4146],
 			he([1, 0, 2, 2, 2, 2, 13, 436, 309, 1689, 128, 84, 1232, 36, 707]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*progressbar*/,
+ m /*diffEditorWidget*/,
+ r /*diffCodeBlock*/,
+ u /*serviceCollection*/,
+ a /*progress*/,
+ h /*utilities*/,
+ c /*solid*/,
+ n /*progressIndicator*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ozc = o);
 				const g = (0, t.template)("<div>"),

@@ -15,7 +15,20 @@ import '../../../common/notebookCommon.js';
 define(
 			de[836],
 			he([1, 0, 6, 4, 11, 10, 81, 8, 30, 100, 238, 176, 294, 70]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*nls*/,
+ w /*actions*/,
+ E /*configuration*/,
+ C /*configurationRegistry*/,
+ d /*contextkey*/,
+ m /*platform*/,
+ r /*contextkeys*/,
+ u /*coreActions*/,
+ a /*notebookContextKeys*/,
+ h /*cellPart*/,
+ c /*notebookCommon*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$J3b = void 0);

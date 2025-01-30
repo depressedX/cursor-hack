@@ -8,7 +8,13 @@ import './math.js';
 define(
 			de[2665],
 			he([1, 0, 662, 538, 928, 1575, 900]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*getComputedStyle*/,
+ i /*getDocumentElement*/,
+ w /*getNodeScroll*/,
+ E /*getWindowScrollBarX*/,
+ C /*math*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Fmb = d);
 				function d(m) {

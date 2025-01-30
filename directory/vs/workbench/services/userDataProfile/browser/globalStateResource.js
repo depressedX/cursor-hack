@@ -12,7 +12,17 @@ import '../../../common/views.js';
 define(
 			de[3890],
 			he([1, 0, 4, 5, 34, 21, 68, 129, 681, 247, 60]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*instantiation*/,
+ w /*log*/,
+ E /*storage*/,
+ C /*uriIdentity*/,
+ d /*userDataProfile*/,
+ m /*userDataProfileStorageService*/,
+ r /*editorCommands*/,
+ u /*views*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$jxc = e.$ixc = e.$hxc = e.$gxc = e.$fxc = void 0);

@@ -10,7 +10,15 @@ import './spanUtils.js';
 define(
 			de[1452],
 			he([1, 0, 80, 733, 578, 234, 734, 640, 301]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*carrier*/,
+ E /*currentScopes*/,
+ C /*exports*/,
+ d /*index*/,
+ m /*spanUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.getTraceData = r),

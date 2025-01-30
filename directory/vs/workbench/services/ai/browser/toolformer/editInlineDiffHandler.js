@@ -9,7 +9,14 @@ import '../../../../../base/common/arrays.js';
 define(
 			de[3963],
 			he([1, 0, 124, 42, 241, 545, 90, 24]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/,
+ i /*resolverService*/,
+ w /*magicLinkService*/,
+ E /*simpleInlineDiffService*/,
+ C /*markers*/,
+ d /*arrays*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$D8b = void 0);

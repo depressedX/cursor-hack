@@ -24,7 +24,25 @@ define(
 				1, 0, 3, 77, 7, 258, 495, 49, 31, 50, 614, 106, 173, 11, 8, 39, 32, 72,
 				95, 652,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*observable*/,
+ w /*dom*/,
+ E /*scm*/,
+ C /*countBadge*/,
+ d /*contextView*/,
+ m /*commands*/,
+ r /*actions*/,
+ u /*util*/,
+ a /*defaultStyles*/,
+ h /*toolbar*/,
+ c /*actions*/,
+ n /*contextkey*/,
+ g /*keybinding*/,
+ p /*telemetry*/,
+ o /*hover*/,
+ f /*hoverDelegateFactory*/) {
 				"use strict";
 				var b;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

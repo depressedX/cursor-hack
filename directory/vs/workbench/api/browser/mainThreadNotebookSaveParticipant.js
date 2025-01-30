@@ -10,7 +10,15 @@ import '../../contrib/notebook/common/notebookEditorModel.js';
 define(
 			de[3908],
 			he([1, 0, 4, 5, 101, 88, 15, 336, 1343]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*instantiation*/,
+ w /*extHostCustomers*/,
+ E /*extHost.protocol*/,
+ C /*async*/,
+ d /*workingCopyFileService*/,
+ m /*notebookEditorModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Qpc = void 0);

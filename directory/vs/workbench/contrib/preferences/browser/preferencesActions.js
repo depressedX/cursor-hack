@@ -18,7 +18,23 @@ import '../../../../platform/action/common/action.js';
 define(
 			de[3535],
 			he([1, 0, 50, 9, 252, 67, 61, 4, 63, 131, 31, 30, 81, 46, 11, 39, 599]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*actions*/,
+ i /*uri*/,
+ w /*getIconClasses*/,
+ E /*model*/,
+ C /*language*/,
+ d /*nls*/,
+ m /*quickInput*/,
+ r /*preferences*/,
+ u /*commands*/,
+ a /*platform*/,
+ h /*configurationRegistry*/,
+ c /*editorExtensions*/,
+ n /*actions*/,
+ g /*keybinding*/,
+ p /*action*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$pCc = void 0),

@@ -7,7 +7,12 @@ import '../../notebookBrowser.js';
 define(
 			de[1844],
 			he([1, 0, 3, 1688, 51, 108]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*findDecorations*/,
+ w /*colorRegistry*/,
+ E /*notebookBrowser*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$n2b = void 0);

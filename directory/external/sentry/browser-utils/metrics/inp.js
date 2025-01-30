@@ -7,7 +7,12 @@ import './utils.js';
 define(
 			de[2132],
 			he([1, 0, 144, 80, 885, 1102]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*instrument*/,
+ E /*utils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.startTrackingINP = m),

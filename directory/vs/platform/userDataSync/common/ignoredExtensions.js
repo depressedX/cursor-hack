@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/arrays.js';
 import '../../configuration/common/configuration.js';
 import '../../instantiation/common/instantiation.js';
-define(de[957], he([1, 0, 24, 10, 5]), function (ce, e, t, i, w) {
+define(de[957], he([1, 0, 24, 10, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*configuration*/,
+ w /*instantiation*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$VAc = e.$UAc = void 0),

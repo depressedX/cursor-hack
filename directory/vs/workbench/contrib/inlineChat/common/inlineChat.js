@@ -9,7 +9,14 @@ import '../../../../platform/theme/common/colorRegistry.js';
 define(
 			de[257],
 			he([1, 0, 4, 11, 81, 8, 30, 51]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*configurationRegistry*/,
+ E /*contextkey*/,
+ C /*platform*/,
+ d /*colorRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$yLb =

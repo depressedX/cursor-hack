@@ -13,7 +13,18 @@ import '../../../../platform/contextkey/common/contextkey.js';
 define(
 			de[1182],
 			he([1, 0, 33, 29, 28, 9, 48, 74, 69, 42, 31, 8]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*errors*/,
+ w /*types*/,
+ E /*uri*/,
+ C /*position*/,
+ d /*languages*/,
+ m /*languageFeatures*/,
+ r /*resolverService*/,
+ u /*commands*/,
+ a /*contextkey*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5jc = void 0),

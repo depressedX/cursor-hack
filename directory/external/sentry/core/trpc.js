@@ -8,7 +8,13 @@ import './tracing/index.js';
 define(
 			de[2129],
 			he([1, 0, 80, 234, 734, 453, 640]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*currentScopes*/,
+ w /*exports*/,
+ E /*semanticAttributes*/,
+ C /*index*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.trpcMiddleware = r);

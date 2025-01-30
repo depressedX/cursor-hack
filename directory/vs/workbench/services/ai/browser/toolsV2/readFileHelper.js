@@ -1,7 +1,9 @@
 import '../../../../../../require.js';
 import '../../../../../../exports.js';
 import '../../../../../../proto/aiserver/v1/tools_pb.js';
-define(de[1284], he([1, 0, 124]), function (ce, e, t) {
+define(de[1284], he([1, 0, 124]), function (ce /*require*/,
+ e /*exports*/,
+ t /*tools_pb*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ehc = E);
 			const i = 5e6,

@@ -8,7 +8,13 @@ import './listColors.js';
 define(
 			de[2828],
 			he([1, 0, 4, 306, 544, 1656, 1204]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*colorUtils*/,
+ w /*baseColors*/,
+ E /*inputColors*/,
+ C /*listColors*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$eT = e.$dT = e.$cT = e.$bT = e.$aT = e.$_S = e.$$S = void 0),

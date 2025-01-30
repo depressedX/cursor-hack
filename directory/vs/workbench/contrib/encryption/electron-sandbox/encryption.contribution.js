@@ -12,7 +12,17 @@ import '../../../services/lifecycle/common/lifecycle.js';
 define(
 			de[3425],
 			he([1, 0, 12, 3426, 113, 22, 30, 21, 55, 423, 52]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*jsonc*/,
+ w /*environment*/,
+ E /*files*/,
+ C /*platform*/,
+ d /*storage*/,
+ m /*contributions*/,
+ r /*jsonEditing*/,
+ u /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let a = class {

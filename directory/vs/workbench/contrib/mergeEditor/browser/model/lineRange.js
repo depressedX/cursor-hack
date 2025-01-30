@@ -4,7 +4,12 @@ import '../../../../../base/common/arrays.js';
 import '../../../../../base/common/errors.js';
 import '../../../../../base/common/uint.js';
 import '../../../../../editor/common/core/range.js';
-define(de[507], he([1, 0, 24, 29, 210, 17]), function (ce, e, t, i, w, E) {
+define(de[507], he([1, 0, 24, 29, 210, 17]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*errors*/,
+ w /*uint*/,
+ E /*range*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$bZb = void 0);
 			class C {

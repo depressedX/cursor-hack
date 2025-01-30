@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../languageConfiguration.js';
-define(de[2560], he([1, 0, 532]), function (ce, e, t) {
+define(de[2560], he([1, 0, 532]), function (ce /*require*/,
+ e /*exports*/,
+ t /*languageConfiguration*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$3M = void 0);
 			class i {

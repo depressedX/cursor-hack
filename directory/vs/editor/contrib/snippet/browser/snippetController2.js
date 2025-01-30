@@ -18,7 +18,23 @@ import './snippetSession.js';
 define(
 			de[254],
 			he([1, 0, 27, 3, 28, 46, 48, 71, 74, 152, 69, 373, 4, 8, 43, 34, 1691]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*lifecycle*/,
+ w /*types*/,
+ E /*editorExtensions*/,
+ C /*position*/,
+ d /*editorContextKeys*/,
+ m /*languages*/,
+ r /*languageConfigurationRegistry*/,
+ u /*languageFeatures*/,
+ a /*suggest*/,
+ h /*nls*/,
+ c /*contextkey*/,
+ n /*keybindingsRegistry*/,
+ g /*log*/,
+ p /*snippetSession*/) {
 				"use strict";
 				var o;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

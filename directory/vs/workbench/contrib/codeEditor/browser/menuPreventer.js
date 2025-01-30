@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/common/keyCodes.js';
 import '../../../../base/common/lifecycle.js';
 import '../../../../editor/browser/editorExtensions.js';
-define(de[394], he([1, 0, 27, 3, 46]), function (ce, e, t, i, w) {
+define(de[394], he([1, 0, 27, 3, 46]), function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*lifecycle*/,
+ w /*editorExtensions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$_Xb = void 0);
 			class E extends i.$1c {

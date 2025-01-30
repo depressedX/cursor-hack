@@ -14,7 +14,19 @@ import '../common/variableResolver.js';
 define(
 			de[3252],
 			he([1, 0, 15, 59, 23, 28, 56, 4, 10, 21, 25, 44, 1797]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*map*/,
+ w /*network*/,
+ E /*types*/,
+ C /*editorBrowser*/,
+ d /*nls*/,
+ m /*configuration*/,
+ r /*storage*/,
+ u /*workspace*/,
+ a /*editor*/,
+ h /*variableResolver*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$N5c = void 0),

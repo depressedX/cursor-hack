@@ -10,7 +10,15 @@ import '../../../../../common/viewModel.js';
 define(
 			de[1606],
 			he([1, 0, 432, 321, 38, 462, 533, 598, 290]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*trustedTypes*/,
+ i /*domFontInfo*/,
+ w /*editorOptions*/,
+ E /*stringBuilder*/,
+ C /*lineDecorations*/,
+ d /*viewLineRenderer*/,
+ m /*viewModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$2xb = e.$1xb = void 0),

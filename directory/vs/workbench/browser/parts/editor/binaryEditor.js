@@ -9,7 +9,14 @@ import './editorPlaceholder.js';
 define(
 			de[1336],
 			he([1, 0, 4, 6, 1225, 21, 22, 1914]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*event*/,
+ w /*binaryEditorModel*/,
+ E /*storage*/,
+ C /*files*/,
+ d /*editorPlaceholder*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$puc = void 0);

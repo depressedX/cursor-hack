@@ -4,7 +4,12 @@ import '../../../../../proto/aiserver/v1/composer_pb.js';
 import '../../../../base/common/codicons.js';
 import '../../../../base/common/constants.js';
 import '../../../../base/common/keyCodes.js';
-define(de[169], he([1, 0, 167, 14, 58, 27]), function (ce, e, t, i, w, E) {
+define(de[169], he([1, 0, 167, 14, 58, 27]), function (ce /*require*/,
+ e /*exports*/,
+ t /*composer_pb*/,
+ i /*codicons*/,
+ w /*constants*/,
+ E /*keyCodes*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.ENABLED_BETTER_MARKDOWN_PARSING =

@@ -14,7 +14,19 @@ import '../../../../base/common/types.js';
 define(
 			de[262],
 			he([1, 0, 14, 351, 3, 225, 126, 13, 193, 167, 351, 351, 28]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*composerCapabilitySchemas*/,
+ w /*lifecycle*/,
+ E /*composerData*/,
+ C /*chat_pb*/,
+ d /*solid*/,
+ m /*store*/,
+ r /*composer_pb*/,
+ u /*composerCapabilitySchemas*/,
+ a /*composerCapabilitySchemas*/,
+ h /*types*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.ComposerCapability =

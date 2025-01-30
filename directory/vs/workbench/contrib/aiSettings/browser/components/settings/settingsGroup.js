@@ -8,7 +8,12 @@ import '../../../../../../css!vs/workbench/contrib/aiSettings/browser/components
 define(
 			de[2998],
 			he([1, 0, 2, 2, 2, 2, 2372]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$UCc = d);
 				const C = (0, t.template)('<div class="settings-group">');

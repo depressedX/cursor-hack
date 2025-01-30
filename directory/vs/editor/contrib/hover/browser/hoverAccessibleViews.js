@@ -23,7 +23,25 @@ define(
 				1, 0, 4, 71, 448, 178, 49, 72, 5, 74, 936, 65, 50, 26, 14, 6, 3, 39,
 				820,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*editorContextKeys*/,
+ w /*contentHoverController2*/,
+ E /*accessibleView*/,
+ C /*contextView*/,
+ d /*hover*/,
+ m /*instantiation*/,
+ r /*languages*/,
+ u /*hoverActionIds*/,
+ a /*codeEditorService*/,
+ h /*actions*/,
+ c /*themables*/,
+ n /*codicons*/,
+ g /*event*/,
+ p /*lifecycle*/,
+ o /*keybinding*/,
+ f /*markdownHoverParticipant*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$wic = e.$vic = e.$uic = e.$tic = e.$sic = void 0);

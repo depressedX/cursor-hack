@@ -11,7 +11,16 @@ import '../../../common/core/textLength.js';
 define(
 			de[370],
 			he([1, 0, 214, 33, 3, 77, 1585, 48, 17, 458]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arraysFind*/,
+ i /*cancellation*/,
+ w /*lifecycle*/,
+ E /*observable*/,
+ C /*elementSizeObserver*/,
+ d /*position*/,
+ m /*range*/,
+ r /*textLength*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Lwb = e.$Iwb = e.$Fwb = e.$Ewb = e.$Dwb = e.$Awb = void 0),

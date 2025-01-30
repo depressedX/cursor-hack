@@ -16,7 +16,21 @@ import '../../contrib/notebook/common/notebookCommon.js';
 define(
 			de[1028],
 			he([1, 0, 24, 29, 94, 59, 266, 37, 28, 9, 47, 109, 22, 211, 70]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*errors*/,
+ w /*htmlContent*/,
+ E /*map*/,
+ C /*mime*/,
+ d /*strings*/,
+ m /*types*/,
+ r /*uri*/,
+ u /*uuid*/,
+ a /*extensions*/,
+ h /*files*/,
+ c /*remoteAuthorityResolver*/,
+ n /*notebookCommon*/) {
 				"use strict";
 				var g, p, o, f, b, s, l, y, $, v, S, I, T, P, k, L, D;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -10,7 +10,15 @@ import '../../../../base/common/performance.js';
 define(
 			de[1041],
 			he([1, 0, 5, 55, 30, 52, 12, 53, 240]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*instantiation*/,
+ i /*contributions*/,
+ w /*platform*/,
+ E /*lifecycle*/,
+ C /*platform*/,
+ d /*extensions*/,
+ m /*performance*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$nwc = e.$mwc = void 0),

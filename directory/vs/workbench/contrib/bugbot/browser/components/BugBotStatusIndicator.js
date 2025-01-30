@@ -12,7 +12,17 @@ import '../../../../../base/common/themables.js';
 define(
 			de[3003],
 			he([1, 0, 2, 2, 2, 2, 2, 2, 13, 14, 26]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*web*/,
+ d /*web*/,
+ m /*solid*/,
+ r /*codicons*/,
+ u /*themables*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Qzc = p);
 				const a = (0, t.template)("<div><span>"),

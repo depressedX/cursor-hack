@@ -8,7 +8,13 @@ import '../../contrib/interactive/browser/interactiveDocumentService.js';
 define(
 			de[3352],
 			he([1, 0, 3, 172, 88, 101, 1245]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*modesRegistry*/,
+ w /*extHost.protocol*/,
+ E /*extHostCustomers*/,
+ C /*interactiveDocumentService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Rpc = void 0);

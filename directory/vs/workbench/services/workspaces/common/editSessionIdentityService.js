@@ -9,7 +9,14 @@ import '../../extensions/common/extensions.js';
 define(
 			de[4005],
 			he([1, 0, 24, 3, 20, 34, 781, 53]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*lifecycle*/,
+ w /*extensions*/,
+ E /*log*/,
+ C /*editSessions*/,
+ d /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$cvc = void 0);

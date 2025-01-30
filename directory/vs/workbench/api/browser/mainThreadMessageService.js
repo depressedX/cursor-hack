@@ -13,7 +13,18 @@ import '../../services/extensions/common/extensions.js';
 define(
 			de[3359],
 			he([1, 0, 4, 50, 88, 101, 57, 40, 6, 31, 45, 53]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*extHost.protocol*/,
+ E /*extHostCustomers*/,
+ C /*dialogs*/,
+ d /*notification*/,
+ m /*event*/,
+ r /*commands*/,
+ u /*reactiveStorageService*/,
+ a /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$$nc = void 0),

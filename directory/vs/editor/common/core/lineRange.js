@@ -4,7 +4,12 @@ import '../../../base/common/errors.js';
 import './offsetRange.js';
 import './range.js';
 import '../../../base/common/arraysFind.js';
-define(de[196], he([1, 0, 29, 289, 17, 214]), function (ce, e, t, i, w, E) {
+define(de[196], he([1, 0, 29, 289, 17, 214]), function (ce /*require*/,
+ e /*exports*/,
+ t /*errors*/,
+ i /*offsetRange*/,
+ w /*range*/,
+ E /*arraysFind*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$sL = e.$rL = void 0);

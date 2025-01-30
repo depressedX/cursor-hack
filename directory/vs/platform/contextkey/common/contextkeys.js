@@ -3,7 +3,11 @@ import '../../../../exports.js';
 import '../../../base/common/platform.js';
 import '../../../nls.js';
 import './contextkey.js';
-define(de[179], he([1, 0, 12, 4, 8]), function (ce, e, t, i, w) {
+define(de[179], he([1, 0, 12, 4, 8]), function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*nls*/,
+ w /*contextkey*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$bMb =

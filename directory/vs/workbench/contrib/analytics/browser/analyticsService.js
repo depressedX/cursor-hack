@@ -14,7 +14,19 @@ import '../../../services/cursorAuth/browser/authenticationService.js';
 define(
 			de[3640],
 			he([1, 0, 1467, 1466, 75, 3, 20, 5, 45, 216, 137, 285, 232]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*analytics_connectweb*/,
+ i /*analytics_pb*/,
+ w /*window*/,
+ E /*lifecycle*/,
+ C /*extensions*/,
+ d /*instantiation*/,
+ m /*reactiveStorageService*/,
+ r /*tracing*/,
+ u /*aiMiscServices*/,
+ a /*backendClient*/,
+ h /*authenticationService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$izc = void 0);

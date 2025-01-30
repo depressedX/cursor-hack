@@ -8,7 +8,13 @@ import '../../../../platform/keybinding/common/keybinding.js';
 define(
 			de[2807],
 			he([1, 0, 318, 149, 393, 291, 39]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*hierarchicalKind*/,
+ i /*lazy*/,
+ w /*codeAction*/,
+ E /*types*/,
+ C /*keybinding*/) {
 				"use strict";
 				var d;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

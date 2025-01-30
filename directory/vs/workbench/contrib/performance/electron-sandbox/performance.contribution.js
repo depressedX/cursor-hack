@@ -12,7 +12,17 @@ import '../../../common/configuration.js';
 define(
 			de[3738],
 			he([1, 0, 52, 30, 55, 3736, 3737, 3735, 81, 4, 224]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*platform*/,
+ w /*contributions*/,
+ E /*startupProfiler*/,
+ C /*startupTimings*/,
+ d /*rendererAutoProfiler*/,
+ m /*configurationRegistry*/,
+ r /*nls*/,
+ u /*configuration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					i.$Io

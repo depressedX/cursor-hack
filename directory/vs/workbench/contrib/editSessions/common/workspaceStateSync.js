@@ -16,7 +16,21 @@ import '../../../services/workspaces/common/workspaceIdentityService.js';
 define(
 			de[4061],
 			he([1, 0, 33, 6, 197, 10, 113, 22, 21, 32, 68, 1222, 150, 685, 1952]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*cancellation*/,
+ i /*event*/,
+ w /*marshalling*/,
+ E /*configuration*/,
+ C /*environment*/,
+ d /*files*/,
+ m /*storage*/,
+ r /*telemetry*/,
+ u /*uriIdentity*/,
+ a /*abstractSynchronizer*/,
+ h /*userDataSync*/,
+ c /*editSessions*/,
+ n /*workspaceIdentityService*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$V1c = void 0);

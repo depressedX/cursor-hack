@@ -11,7 +11,15 @@ import '../../../../css!vs/editor/browser/viewParts/lineNumbers/lineNumbers.js';
 define(
 			de[1664],
 			he([1, 0, 12, 591, 38, 48, 17, 35, 307, 2267]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*platform*/,
+ i /*dynamicViewOverlay*/,
+ w /*editorOptions*/,
+ E /*position*/,
+ C /*range*/,
+ d /*themeService*/,
+ m /*editorColorRegistry*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$avb = void 0),

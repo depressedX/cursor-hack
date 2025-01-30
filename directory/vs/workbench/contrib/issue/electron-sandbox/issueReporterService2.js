@@ -14,7 +14,19 @@ import '../common/issue.js';
 define(
 			de[3070],
 			he([1, 0, 7, 29, 9, 4, 768, 769, 110, 35, 676, 1735, 376]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*errors*/,
+ w /*uri*/,
+ E /*nls*/,
+ C /*diagnostics*/,
+ d /*issue*/,
+ m /*native*/,
+ r /*themeService*/,
+ u /*window*/,
+ a /*baseIssueReporterService*/,
+ h /*issue*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$fgd = void 0);

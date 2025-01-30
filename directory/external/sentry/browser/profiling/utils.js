@@ -7,7 +7,12 @@ import '../helpers.js';
 define(
 			de[1103],
 			he([1, 0, 144, 80, 452, 386]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*debug-build*/,
+ E /*helpers*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.MAX_PROFILE_DURATION_MS = void 0),

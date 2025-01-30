@@ -16,7 +16,21 @@ import '../../common/chatRequestParser.js';
 define(
 			de[4073],
 			he([1, 0, 94, 3, 65, 17, 5, 51, 35, 481, 1060, 153, 980, 329, 1022]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*htmlContent*/,
+ i /*lifecycle*/,
+ w /*codeEditorService*/,
+ E /*range*/,
+ C /*instantiation*/,
+ d /*colorRegistry*/,
+ m /*themeService*/,
+ r /*chatWidget*/,
+ u /*chatDynamicVariables*/,
+ a /*chatAgents*/,
+ h /*chatColors*/,
+ c /*chatParserTypes*/,
+ n /*chatRequestParser*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				const g = "chat",

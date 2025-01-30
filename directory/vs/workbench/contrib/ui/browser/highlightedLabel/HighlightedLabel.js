@@ -12,7 +12,17 @@ import '../../../../../base/browser/ui/hover/hoverDelegateFactory.js';
 define(
 			de[818],
 			he([1, 0, 2, 2, 2, 2, 13, 7, 182, 317, 95]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*web*/,
+ C /*solid*/,
+ d /*dom*/,
+ m /*iconLabels*/,
+ r /*hoverDelegate2*/,
+ u /*hoverDelegateFactory*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tbc = h),

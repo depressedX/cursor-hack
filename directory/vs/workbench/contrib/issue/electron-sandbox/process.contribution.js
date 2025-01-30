@@ -16,7 +16,19 @@ import './issueMainService.js';
 define(
 			de[3287],
 			he([1, 0, 4, 11, 376, 31, 99, 113, 57, 110, 84, 769, 40, 3286, 1736]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*actions*/,
+ w /*issue*/,
+ E /*commands*/,
+ C /*actionCommonCategories*/,
+ d /*environment*/,
+ m /*dialogs*/,
+ r /*native*/,
+ u /*progress*/,
+ a /*issue*/,
+ h /*notification*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class c extends i.$3X {

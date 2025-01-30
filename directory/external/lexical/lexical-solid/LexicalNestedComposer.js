@@ -3,7 +3,11 @@ import '../../../exports.js';
 import '../../solid/web.js';
 import './LexicalComposerContext.js';
 import '../../solid/solid.js';
-define(de[2157], he([1, 0, 2, 181, 13]), function (ce, e, t, i, w) {
+define(de[2157], he([1, 0, 2, 181, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*LexicalComposerContext*/,
+ w /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.LexicalNestedComposer = E);

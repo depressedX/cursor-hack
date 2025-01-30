@@ -7,7 +7,12 @@ import './lazyObservableValue.js';
 define(
 			de[2221],
 			he([1, 0, 433, 407, 648, 2220]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*equals*/,
+ i /*base*/,
+ w /*debugName*/,
+ E /*lazyObservableValue*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ke = C);
 				function C(d, m) {

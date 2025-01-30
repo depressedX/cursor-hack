@@ -12,7 +12,17 @@ import '../../../../services/textfile/common/textfiles.js';
 define(
 			de[1319],
 			he([1, 0, 9, 42, 125, 5, 712, 800, 1305, 360, 85]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*resolverService*/,
+ w /*textResourceConfiguration*/,
+ E /*instantiation*/,
+ C /*multiDiffEditorInput*/,
+ d /*multiDiffSourceResolverService*/,
+ m /*notebookDiffEditorInput*/,
+ r /*notebookEditorInput*/,
+ u /*textfiles*/) {
 				"use strict";
 				var a;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

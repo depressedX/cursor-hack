@@ -24,7 +24,26 @@ define(
 				1, 0, 9, 4, 11, 31, 52, 63, 30, 465, 55, 3276, 1018, 3278, 3279, 99, 81,
 				224, 1292, 20,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*nls*/,
+ w /*actions*/,
+ E /*commands*/,
+ C /*lifecycle*/,
+ d /*quickInput*/,
+ m /*platform*/,
+ r /*url*/,
+ u /*contributions*/,
+ a /*externalUriResolver*/,
+ h /*trustedDomains*/,
+ c /*trustedDomainsFileSystemProvider*/,
+ n /*trustedDomainsValidator*/,
+ g /*actionCommonCategories*/,
+ p /*configurationRegistry*/,
+ o /*configuration*/,
+ f /*trustedDomainService*/,
+ b /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class s extends w.$3X {

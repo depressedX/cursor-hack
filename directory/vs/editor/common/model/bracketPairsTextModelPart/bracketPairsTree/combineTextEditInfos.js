@@ -3,7 +3,11 @@ import '../../../../../../exports.js';
 import '../../../../../base/common/arrays.js';
 import './beforeEditPositionMapper.js';
 import './length.js';
-define(de[1536], he([1, 0, 24, 914, 492]), function (ce, e, t, i, w) {
+define(de[1536], he([1, 0, 24, 914, 492]), function (ce /*require*/,
+ e /*exports*/,
+ t /*arrays*/,
+ i /*beforeEditPositionMapper*/,
+ w /*length*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$7O = E);
 			function E(m, r) {

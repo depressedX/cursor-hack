@@ -9,7 +9,14 @@ import '../../../../debug/browser/baseDebugView.js';
 define(
 			de[3830],
 			he([1, 0, 7, 3, 4, 72, 93, 629]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*lifecycle*/,
+ w /*nls*/,
+ E /*hover*/,
+ C /*listService*/,
+ d /*baseDebugView*/) {
 				"use strict";
 				var m;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

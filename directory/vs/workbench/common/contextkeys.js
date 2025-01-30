@@ -13,7 +13,18 @@ import '../../base/common/platform.js';
 define(
 			de[100],
 			he([1, 0, 3, 4, 8, 19, 61, 22, 67, 23, 44, 12]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*nls*/,
+ w /*contextkey*/,
+ E /*resources*/,
+ C /*language*/,
+ d /*files*/,
+ m /*model*/,
+ r /*network*/,
+ u /*editor*/,
+ a /*platform*/) {
 				"use strict";
 				var h;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

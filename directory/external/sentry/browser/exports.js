@@ -21,7 +21,23 @@ define(
 				1, 0, 144, 144, 386, 1453, 1104, 1434, 889, 1435, 2142, 1454, 1456,
 				1457, 1458, 1455, 2144,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*helpers*/,
+ E /*client*/,
+ C /*fetch*/,
+ d /*stack-parsers*/,
+ m /*eventbuilder*/,
+ r /*userfeedback*/,
+ u /*sdk*/,
+ a /*breadcrumbs*/,
+ h /*globalhandlers*/,
+ c /*httpcontext*/,
+ n /*linkederrors*/,
+ g /*browserapierrors*/,
+ p /*lazyLoadIntegration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.lazyLoadIntegration =

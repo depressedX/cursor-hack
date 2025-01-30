@@ -4,7 +4,11 @@ import '../../../../base/browser/fastDomNode.js';
 import '../../view/viewPart.js';
 import '../../../common/config/editorOptions.js';
 import '../../../../css!vs/editor/browser/viewParts/scrollDecoration/scrollDecoration.js';
-define(de[2719], he([1, 0, 194, 303, 38, 2275]), function (ce, e, t, i, w) {
+define(de[2719], he([1, 0, 194, 303, 38, 2275]), function (ce /*require*/,
+ e /*exports*/,
+ t /*fastDomNode*/,
+ i /*viewPart*/,
+ w /*editorOptions*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Jvb = void 0);
 			class E extends i.$yub {

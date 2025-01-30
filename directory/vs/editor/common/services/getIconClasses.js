@@ -9,7 +9,14 @@ import '../../../base/common/themables.js';
 define(
 			de[252],
 			he([1, 0, 23, 19, 9, 172, 22, 26]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*resources*/,
+ w /*uri*/,
+ E /*modesRegistry*/,
+ C /*files*/,
+ d /*themables*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$BDb = r),

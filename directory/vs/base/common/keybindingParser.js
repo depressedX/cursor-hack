@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './keyCodes.js';
 import './keybindings.js';
-define(de[918], he([1, 0, 27, 343]), function (ce, e, t, i) {
+define(de[918], he([1, 0, 27, 343]), function (ce /*require*/,
+ e /*exports*/,
+ t /*keyCodes*/,
+ i /*keybindings*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Xpb = void 0);
 			class w {

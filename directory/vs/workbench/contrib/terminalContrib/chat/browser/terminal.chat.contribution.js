@@ -11,7 +11,15 @@ import './terminalChatActions.js';
 define(
 			de[4385],
 			he([1, 0, 378, 4382, 867, 412, 4381, 55, 4384, 4383]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*terminalExtensions*/,
+ i /*terminalChatAccessibleView*/,
+ w /*terminalChatController*/,
+ E /*accessibleViewRegistry*/,
+ C /*terminalChatAccessibilityHelp*/,
+ d /*contributions*/,
+ m /*terminalChatEnabler*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(0, t.$qLc)(w.$4Vc.ID, w.$4Vc, !1),

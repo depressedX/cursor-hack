@@ -10,7 +10,15 @@ import './userfeedback.js';
 define(
 			de[1453],
 			he([1, 0, 144, 144, 80, 452, 889, 386, 1435]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*index*/,
+ i /*index*/,
+ w /*index*/,
+ E /*debug-build*/,
+ C /*eventbuilder*/,
+ d /*helpers*/,
+ m /*userfeedback*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.BrowserClient = void 0);

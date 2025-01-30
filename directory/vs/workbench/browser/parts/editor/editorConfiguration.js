@@ -14,7 +14,19 @@ import '../../../../platform/files/common/files.js';
 define(
 			de[3575],
 			he([1, 0, 4, 30, 3, 81, 224, 231, 53, 24, 6, 78, 22]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*platform*/,
+ w /*lifecycle*/,
+ E /*configurationRegistry*/,
+ C /*configuration*/,
+ d /*editorResolverService*/,
+ m /*extensions*/,
+ r /*arrays*/,
+ u /*event*/,
+ a /*environmentService*/,
+ h /*files*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

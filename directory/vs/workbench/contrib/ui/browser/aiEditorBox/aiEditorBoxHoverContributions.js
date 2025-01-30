@@ -15,7 +15,20 @@ import './aiEditorBoxHoverWidget.js';
 define(
 			de[3189],
 			he([1, 0, 46, 149, 3, 38, 71, 69, 8, 5, 90, 45, 10, 3188]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*editorExtensions*/,
+ i /*lazy*/,
+ w /*lifecycle*/,
+ E /*editorOptions*/,
+ C /*editorContextKeys*/,
+ d /*languageFeatures*/,
+ m /*contextkey*/,
+ r /*instantiation*/,
+ u /*markers*/,
+ a /*reactiveStorageService*/,
+ h /*configuration*/,
+ c /*aiEditorBoxHoverWidget*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

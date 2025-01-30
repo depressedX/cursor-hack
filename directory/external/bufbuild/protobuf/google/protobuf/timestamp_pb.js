@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../message.js';
 import '../../proto-int64.js';
 import '../../proto3.js';
-define(de[1405], he([1, 0, 339, 525, 406]), function (ce, e, t, i, w) {
+define(de[1405], he([1, 0, 339, 525, 406]), function (ce /*require*/,
+ e /*exports*/,
+ t /*message*/,
+ i /*proto-int64*/,
+ w /*proto3*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.Timestamp = void 0);

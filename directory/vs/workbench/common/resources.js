@@ -15,7 +15,20 @@ import '../../base/common/extpath.js';
 define(
 			de[970],
 			he([1, 0, 9, 82, 54, 6, 19, 3, 215, 25, 10, 23, 59, 249]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*uri*/,
+ i /*objects*/,
+ w /*path*/,
+ E /*event*/,
+ C /*resources*/,
+ d /*lifecycle*/,
+ m /*glob*/,
+ r /*workspace*/,
+ u /*configuration*/,
+ a /*network*/,
+ h /*map*/,
+ c /*extpath*/) {
 				"use strict";
 				var n;
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$0Y = void 0);

@@ -11,7 +11,16 @@ import '../../../../common/standalone/standaloneEnums.js';
 define(
 			de[1595],
 			he([1, 0, 2, 2, 2, 13, 27, 343, 12, 1542]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*web*/,
+ E /*solid*/,
+ C /*keyCodes*/,
+ d /*keybindings*/,
+ m /*platform*/,
+ r /*standaloneEnums*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5dc = e.$4dc = void 0),

@@ -16,7 +16,21 @@ import '../../common/chatViewModel.js';
 define(
 			de[4064],
 			he([1, 0, 7, 6, 3, 37, 17, 42, 11, 8, 5, 979, 1354, 845, 283]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*event*/,
+ w /*lifecycle*/,
+ E /*strings*/,
+ C /*range*/,
+ d /*resolverService*/,
+ m /*actions*/,
+ r /*contextkey*/,
+ u /*instantiation*/,
+ a /*chatCollections*/,
+ h /*chatMarkdownDecorationsRenderer*/,
+ c /*codeBlockPart*/,
+ n /*chatViewModel*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tUb = e.$sUb = void 0),

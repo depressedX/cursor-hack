@@ -13,7 +13,17 @@ import '../../../../css!vs/base/browser/ui/findinput/findInput.js';
 define(
 			de[932],
 			he([1, 0, 7, 1581, 292, 235, 6, 27, 4, 3, 95, 1510]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*findInputToggles*/,
+ w /*inputBox*/,
+ E /*widget*/,
+ C /*event*/,
+ d /*keyCodes*/,
+ m /*nls*/,
+ r /*lifecycle*/,
+ u /*hoverDelegateFactory*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Uob = void 0),

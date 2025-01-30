@@ -11,7 +11,16 @@ import '../../../../base/common/lifecycle.js';
 define(
 			de[3313],
 			he([1, 0, 6, 138, 21, 53, 1655, 774, 691, 3]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*decorators*/,
+ w /*storage*/,
+ E /*extensions*/,
+ C /*environmentVariableCollection*/,
+ d /*environmentVariableShared*/,
+ m /*terminalStorageKeys*/,
+ r /*lifecycle*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$JVc = void 0);

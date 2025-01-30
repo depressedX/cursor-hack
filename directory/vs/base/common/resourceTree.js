@@ -8,7 +8,13 @@ import './uri.js';
 define(
 			de[1171],
 			he([1, 0, 138, 387, 54, 19, 9]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*decorators*/,
+ i /*ternarySearchTree*/,
+ w /*path*/,
+ E /*resources*/,
+ C /*uri*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$06 = void 0),

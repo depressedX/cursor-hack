@@ -11,7 +11,16 @@ import './is-button.js';
 define(
 			de[2625],
 			he([1, 0, 2, 2, 115, 115, 13, 494, 1161, 2177]),
-			function (ce, e, t, i, w, E, C, d, m, r) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*web*/,
+ i /*web*/,
+ w /*api*/,
+ E /*api*/,
+ C /*solid*/,
+ d /*polymorphic*/,
+ m /*create-tag-name*/,
+ r /*is-button*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$ulb = u);
 				function u(a) {

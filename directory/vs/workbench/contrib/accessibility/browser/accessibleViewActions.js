@@ -15,7 +15,20 @@ import '../../../../editor/contrib/inlineCompletions/browser/controller/inlineCo
 define(
 			de[1032],
 			he([1, 0, 14, 27, 46, 4, 11, 8, 43, 417, 130, 178, 65, 501]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*codicons*/,
+ i /*keyCodes*/,
+ w /*editorExtensions*/,
+ E /*nls*/,
+ C /*actions*/,
+ d /*contextkey*/,
+ m /*keybindingsRegistry*/,
+ r /*accessibilityCommands*/,
+ u /*accessibilityConfiguration*/,
+ a /*accessibleView*/,
+ h /*codeEditorService*/,
+ c /*inlineCompletionsController*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$tpc = e.$spc = void 0);

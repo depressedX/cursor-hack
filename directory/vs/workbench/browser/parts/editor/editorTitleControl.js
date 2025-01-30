@@ -13,7 +13,17 @@ import '../../../../css!vs/workbench/browser/parts/editor/media/editortitlecontr
 define(
 			de[4012],
 			he([1, 0, 7, 5, 35, 1879, 1935, 4011, 3, 4009, 4010, 2344]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*instantiation*/,
+ w /*themeService*/,
+ E /*breadcrumbsControl*/,
+ C /*multiEditorTabsControl*/,
+ d /*singleEditorTabsControl*/,
+ m /*lifecycle*/,
+ r /*multiRowEditorTabsControl*/,
+ u /*noEditorTabsControl*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$otc = void 0);

@@ -23,7 +23,24 @@ define(
 				1, 0, 23, 56, 10, 5, 73, 32, 25, 44, 89, 483, 1368, 1067, 358, 66, 18,
 				245, 908,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*network*/,
+ i /*editorBrowser*/,
+ w /*configuration*/,
+ E /*instantiation*/,
+ C /*label*/,
+ d /*telemetry*/,
+ m /*workspace*/,
+ r /*editor*/,
+ u /*viewsService*/,
+ a /*searchActionsBase*/,
+ h /*searchEditorInput*/,
+ c /*searchEditorSerialization*/,
+ n /*configurationResolver*/,
+ g /*editorGroupsService*/,
+ p /*editorService*/,
+ o /*history*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$5Oc =

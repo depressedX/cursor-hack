@@ -17,7 +17,22 @@ import '../../../../base/common/network.js';
 define(
 			de[3054],
 			he([1, 0, 4, 6, 82, 50, 29, 163, 396, 767, 9, 41, 3, 40, 57, 23]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*event*/,
+ w /*objects*/,
+ E /*actions*/,
+ C /*errors*/,
+ d /*errorMessage*/,
+ m /*debugUtils*/,
+ r /*extensionHostDebug*/,
+ u /*uri*/,
+ a /*opener*/,
+ h /*lifecycle*/,
+ c /*notification*/,
+ n /*dialogs*/,
+ g /*network*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$WQc = void 0),

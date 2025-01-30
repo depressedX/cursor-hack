@@ -12,7 +12,17 @@ import '../../../../base/common/resourceTree.js';
 define(
 			de[614],
 			he([1, 0, 54, 11, 50, 92, 24, 198, 182, 7, 1171]),
-			function (ce, e, t, i, w, E, C, d, m, r, u) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*path*/,
+ i /*actions*/,
+ w /*actions*/,
+ E /*menuEntryActionViewItem*/,
+ C /*arrays*/,
+ d /*actionViewItems*/,
+ m /*iconLabels*/,
+ r /*dom*/,
+ u /*resourceTree*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$FPc = void 0),

@@ -24,7 +24,26 @@ define(
 				1, 0, 4, 25, 449, 18, 31, 633, 57, 11, 100, 87, 27, 8, 78, 256, 43, 179,
 				445, 99,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f, b) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*workspace*/,
+ w /*workspaceEditing*/,
+ E /*editorService*/,
+ C /*commands*/,
+ d /*workspaceCommands*/,
+ m /*dialogs*/,
+ r /*actions*/,
+ u /*contextkeys*/,
+ a /*host*/,
+ h /*keyCodes*/,
+ c /*contextkey*/,
+ n /*environmentService*/,
+ g /*workspaces*/,
+ p /*keybindingsRegistry*/,
+ o /*contextkeys*/,
+ f /*modalService*/,
+ b /*actionCommonCategories*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Ltc = e.$Ktc = e.$Jtc = e.$Itc = e.$Htc = e.$Gtc = void 0);

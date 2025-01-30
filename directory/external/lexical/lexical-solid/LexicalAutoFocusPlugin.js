@@ -2,7 +2,10 @@ import '../../../require.js';
 import '../../../exports.js';
 import './LexicalComposerContext.js';
 import '../../solid/solid.js';
-define(de[2154], he([1, 0, 181, 13]), function (ce, e, t, i) {
+define(de[2154], he([1, 0, 181, 13]), function (ce /*require*/,
+ e /*exports*/,
+ t /*LexicalComposerContext*/,
+ i /*solid*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.AutoFocusPlugin = w);

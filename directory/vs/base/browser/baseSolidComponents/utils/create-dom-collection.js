@@ -7,7 +7,12 @@ import './create-controllable-signal.js';
 define(
 			de[2615],
 			he([1, 0, 369, 302, 13, 897]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*utils*/,
+ i /*utils*/,
+ w /*solid*/,
+ E /*create-controllable-signal*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$skb = void 0),

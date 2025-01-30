@@ -4,7 +4,12 @@ import '../../../../base/common/event.js';
 import '../../../../platform/storage/common/storage.js';
 import '../../../../base/common/types.js';
 import '../../../../platform/instantiation/common/instantiation.js';
-define(de[1258], he([1, 0, 6, 21, 28, 5]), function (ce, e, t, i, w, E) {
+define(de[1258], he([1, 0, 6, 21, 28, 5]), function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*storage*/,
+ w /*types*/,
+ E /*instantiation*/) {
 			"use strict";
 			var C;
 			Object.defineProperty(e, "__esModule", { value: !0 }),

@@ -22,7 +22,25 @@ define(
 			he([
 				1, 0, 4, 12, 61, 55, 30, 32, 21, 62, 52, 40, 85, 41, 9, 344, 15, 3, 53,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o, f) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*nls*/,
+ i /*platform*/,
+ w /*language*/,
+ E /*contributions*/,
+ C /*platform*/,
+ d /*telemetry*/,
+ m /*storage*/,
+ r /*productService*/,
+ u /*lifecycle*/,
+ a /*notification*/,
+ h /*textfiles*/,
+ c /*opener*/,
+ n /*uri*/,
+ g /*process*/,
+ p /*async*/,
+ o /*lifecycle*/,
+ f /*extensions*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				class b extends o.$1c {

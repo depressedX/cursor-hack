@@ -10,7 +10,15 @@ import '../../../platform/log/common/log.js';
 define(
 			de[3378],
 			he([1, 0, 101, 88, 113, 1560, 3377, 698, 34]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*extHostCustomers*/,
+ i /*extHost.protocol*/,
+ w /*environment*/,
+ E /*console*/,
+ C /*remoteConsoleUtil*/,
+ d /*extensionDevOptions*/,
+ m /*log*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$Vmc = void 0);

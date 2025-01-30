@@ -10,7 +10,15 @@ import '../../../../platform/keybinding/common/resolvedKeybindingItem.js';
 define(
 			de[1825],
 			he([1, 0, 120, 27, 343, 592, 12, 1187, 939]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*charCode*/,
+ i /*keyCodes*/,
+ w /*keybindings*/,
+ E /*keybindingLabels*/,
+ C /*platform*/,
+ d /*baseResolvedKeybinding*/,
+ m /*resolvedKeybindingItem*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$gEc = e.$fEc = void 0);

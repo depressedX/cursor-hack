@@ -13,7 +13,18 @@ import '../../../../services/utils/browser/isPureClick.js';
 define(
 			de[4400],
 			he([1, 0, 13, 7, 58, 12, 47, 270, 177, 36, 1385, 1046]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*solid*/,
+ i /*dom*/,
+ w /*constants*/,
+ E /*platform*/,
+ C /*uuid*/,
+ d /*aiConfigHelper*/,
+ m /*useComposerDataHandle*/,
+ r /*solid*/,
+ u /*useContextPills*/,
+ a /*isPureClick*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.useComposerPills = h);

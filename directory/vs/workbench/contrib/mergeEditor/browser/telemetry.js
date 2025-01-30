@@ -1,7 +1,9 @@
 import '../../../../../require.js';
 import '../../../../../exports.js';
 import '../../../../platform/telemetry/common/telemetry.js';
-define(de[3077], he([1, 0, 32]), function (ce, e, t) {
+define(de[3077], he([1, 0, 32]), function (ce /*require*/,
+ e /*exports*/,
+ t /*telemetry*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }), (e.$NZb = void 0);
 			let i = class {

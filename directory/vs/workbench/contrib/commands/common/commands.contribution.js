@@ -9,7 +9,14 @@ import '../../../../platform/notification/common/notification.js';
 define(
 			de[3027],
 			he([1, 0, 82, 4, 11, 31, 34, 40]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*objects*/,
+ i /*nls*/,
+ w /*actions*/,
+ E /*commands*/,
+ C /*log*/,
+ d /*notification*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (i = mt(i));
 				class m extends w.$3X {

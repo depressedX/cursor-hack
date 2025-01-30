@@ -9,7 +9,13 @@ import './cellChatActions.js';
 define(
 			de[4087],
 			he([1, 0, 3, 8, 55, 153, 688, 4086]),
-			function (ce, e, t, i, w, E, C) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*lifecycle*/,
+ i /*contextkey*/,
+ w /*contributions*/,
+ E /*chatAgents*/,
+ C /*notebookChatContext*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 });
 				let d = class extends t.$1c {

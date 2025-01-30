@@ -22,7 +22,24 @@ define(
 				1, 0, 42, 125, 10, 57, 22, 73, 44, 987, 70, 360, 509, 161, 399, 18, 53,
 				170,
 			]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h, c, n, g, p, o) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*resolverService*/,
+ i /*textResourceConfiguration*/,
+ w /*configuration*/,
+ E /*dialogs*/,
+ C /*files*/,
+ d /*label*/,
+ m /*editor*/,
+ r /*interactiveHistoryService*/,
+ u /*notebookCommon*/,
+ a /*notebookEditorInput*/,
+ h /*notebookEditorModelResolverService*/,
+ c /*notebookService*/,
+ n /*customEditorLabelService*/,
+ g /*editorService*/,
+ p /*extensions*/,
+ o /*filesConfigurationService*/) {
 				"use strict";
 				var f;
 				Object.defineProperty(e, "__esModule", { value: !0 }),

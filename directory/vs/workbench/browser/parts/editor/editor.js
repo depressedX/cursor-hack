@@ -3,7 +3,11 @@ import '../../../../../exports.js';
 import '../../../../base/browser/dom.js';
 import '../../../../base/common/types.js';
 import '../../../../base/common/verifier.js';
-define(de[548], he([1, 0, 7, 28, 2225]), function (ce, e, t, i, w) {
+define(de[548], he([1, 0, 7, 28, 2225]), function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*types*/,
+ w /*verifier*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$FEb = e.$EEb = e.$DEb = void 0),

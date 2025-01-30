@@ -7,7 +7,12 @@ import '../../../../platform/telemetry/common/telemetryUtils.js';
 define(
 			de[3656],
 			he([1, 0, 21, 1640, 32, 269]),
-			function (ce, e, t, i, w, E) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*storage*/,
+ i /*commonProperties*/,
+ w /*telemetry*/,
+ E /*telemetryUtils*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }), (e.$Ndd = C);
 				function C(d, m, r, u, a, h, c, n, g, p, o, f) {

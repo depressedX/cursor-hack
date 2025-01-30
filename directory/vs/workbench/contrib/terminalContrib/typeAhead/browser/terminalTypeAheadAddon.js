@@ -13,7 +13,18 @@ import '../common/terminalTypeAheadConfiguration.js';
 define(
 			de[3173],
 			he([1, 0, 15, 97, 138, 6, 3, 37, 10, 32, 145, 1264]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*async*/,
+ i /*color*/,
+ w /*decorators*/,
+ E /*event*/,
+ C /*lifecycle*/,
+ d /*strings*/,
+ m /*configuration*/,
+ r /*telemetry*/,
+ u /*terminal*/,
+ a /*terminalTypeAheadConfiguration*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$RWc = e.CharPredictState = e.$QWc = e.$PWc = void 0);

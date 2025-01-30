@@ -10,7 +10,15 @@ import '../../../nls.js';
 define(
 			de[306],
 			he([1, 0, 229, 15, 97, 6, 250, 30, 4]),
-			function (ce, e, t, i, w, E, C, d, m) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*assert*/,
+ i /*async*/,
+ w /*color*/,
+ E /*event*/,
+ C /*jsonContributionRegistry*/,
+ d /*platform*/,
+ m /*nls*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$HP = e.$vP = e.$uP = e.ColorTransformType = void 0),

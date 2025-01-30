@@ -9,7 +9,14 @@ import './chatParticipantContribTypes.js';
 define(
 			de[1235],
 			he([1, 0, 6, 5, 21, 282, 153, 981]),
-			function (ce, e, t, i, w, E, C, d) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*event*/,
+ i /*instantiation*/,
+ w /*storage*/,
+ E /*memento*/,
+ C /*chatAgents*/,
+ d /*chatParticipantContribTypes*/) {
 				"use strict";
 				Object.defineProperty(e, "__esModule", { value: !0 }),
 					(e.$UYb = e.$TYb = void 0),

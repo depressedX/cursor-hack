@@ -14,7 +14,19 @@ import '../../../../../platform/theme/common/themeService.js';
 define(
 			de[1663],
 			he([1, 0, 7, 194, 1128, 3, 77, 370, 38, 48, 1546, 51, 35]),
-			function (ce, e, t, i, w, E, C, d, m, r, u, a, h) {
+			function (ce /*require*/,
+ e /*exports*/,
+ t /*dom*/,
+ i /*fastDomNode*/,
+ w /*scrollbarState*/,
+ E /*lifecycle*/,
+ C /*observable*/,
+ d /*utils*/,
+ m /*editorOptions*/,
+ r /*position*/,
+ u /*overviewZoneManager*/,
+ a /*colorRegistry*/,
+ h /*themeService*/) {
 				"use strict";
 				var c;
 				Object.defineProperty(e, "__esModule", { value: !0 }),
