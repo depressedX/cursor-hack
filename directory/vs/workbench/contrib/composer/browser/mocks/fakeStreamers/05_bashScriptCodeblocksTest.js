@@ -40,5 +40,4 @@ This modification adds a check after determining the TAG. If the TAG is empty (w
 
 This change ensures that even if there are no previous versions or if the version determination fails for some reason, the script will still proceed with a valid initial version number.${t.SPACE}`,
 				});
-		}),
-		
+		})

@@ -13,5 +13,4 @@ define(de[2210], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$qib = t;
-		}),
-		
+		})

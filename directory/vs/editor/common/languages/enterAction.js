@@ -35,5 +35,4 @@ define(de[1198], he([1, 0, 532, 152, 1151]), function (ce /*require*/,
 					{ indentAction: f, appendText: b, removeText: s, indentation: l }
 				);
 			}
-		}),
-		
+		})

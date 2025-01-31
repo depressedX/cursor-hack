@@ -69,5 +69,4 @@ define(de[1605], he([1, 0, 194, 303, 38, 2270]), function (ce /*require*/,
 				}
 			}
 			e.$bvb = E;
-		}),
-		
+		})

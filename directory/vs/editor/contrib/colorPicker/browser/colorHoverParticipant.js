@@ -283,5 +283,4 @@ define(
 					I.colorPresentations = L || [];
 				}
 			},
-		),
-		
+		)

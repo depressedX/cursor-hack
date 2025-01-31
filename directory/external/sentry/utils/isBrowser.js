@@ -17,5 +17,4 @@ define(de[2076], he([1, 0, 1423, 365]), function (ce /*require*/,
 					i.GLOBAL_OBJ.process.type === "renderer"
 				);
 			}
-		}),
-		
+		})

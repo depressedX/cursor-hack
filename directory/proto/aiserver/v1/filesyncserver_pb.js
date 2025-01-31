@@ -788,5 +788,4 @@ define(de[1483], he([1, 0, 86, 83]), function (ce /*require*/,
 				}
 			}
 			e.$BB = $;
-		}),
-		
+		})

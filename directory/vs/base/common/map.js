@@ -522,5 +522,4 @@ define(de[59], he([1, 0]), function (ce /*require*/,
 				for (const [$] of y) if (!l.has($)) return !1;
 				return !0;
 			}
-		}),
-		
+		})

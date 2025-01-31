@@ -17,5 +17,4 @@ define(de[2156], he([1, 0, 1464]), function (ce /*require*/,
 			function w() {
 				return (0, t.useLexicalSubscription)(i);
 			}
-		}),
-		
+		})

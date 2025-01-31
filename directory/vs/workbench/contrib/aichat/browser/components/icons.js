@@ -39,5 +39,4 @@ define(de[502], he([1, 0, 14, 79]), function (ce /*require*/,
 					t.$ak.play,
 					"Icon for running eval chats in the AI chat.",
 				));
-		}),
-		
+		})

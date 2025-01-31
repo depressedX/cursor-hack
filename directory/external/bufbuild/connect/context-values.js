@@ -22,5 +22,4 @@ define(de[1078], he([1, 0]), function (ce /*require*/,
 			function i(w, E) {
 				return { id: Symbol(E?.description), defaultValue: w };
 			}
-		}),
-		
+		})

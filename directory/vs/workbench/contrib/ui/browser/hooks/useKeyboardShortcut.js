@@ -31,5 +31,4 @@ define(de[385], he([1, 0, 13, 36]), function (ce /*require*/,
 				);
 			};
 			e.$5$b = w;
-		}),
-		
+		})

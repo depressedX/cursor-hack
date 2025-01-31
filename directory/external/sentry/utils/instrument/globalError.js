@@ -25,5 +25,4 @@ define(de[2077], he([1, 0, 365, 726]), function (ce /*require*/,
 					}),
 					(t.GLOBAL_OBJ.onerror.__SENTRY_INSTRUMENTED__ = !0);
 			}
-		}),
-		
+		})

@@ -1495,5 +1495,4 @@ define(
 					Ne([a.$ei], te.prototype, "onDidFocus", null),
 					Ne([a.$ei], te.prototype, "onDidBlur", null);
 			},
-		),
-		
+		)

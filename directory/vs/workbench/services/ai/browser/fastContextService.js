@@ -302,5 +302,4 @@ define(
 				)),
 					(0, i.$lK)(e.$26b, o, i.InstantiationType.Delayed);
 			},
-		),
-		
+		)

@@ -44,5 +44,4 @@ define(de[549], he([1, 0, 116, 44]), function (ce /*require*/,
 				const m = C.viewState;
 				return m.cursorState && (m.cursorState = []), m;
 			}
-		}),
-		
+		})

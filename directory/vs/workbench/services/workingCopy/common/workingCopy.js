@@ -12,5 +12,4 @@ define(de[334], he([1, 0]), function (ce /*require*/,
 					(i[(i.Scratchpad = 4)] = "Scratchpad");
 			})(t || (e.WorkingCopyCapabilities = t = {})),
 				(e.$OO = "");
-		}),
-		
+		})

@@ -123,5 +123,4 @@ define(
 				}),
 					(0, w.$lK)(m.$57, r.$51c, w.InstantiationType.Delayed);
 			},
-		),
-		
+		)

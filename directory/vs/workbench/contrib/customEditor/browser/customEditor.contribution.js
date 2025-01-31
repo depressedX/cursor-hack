@@ -41,5 +41,4 @@ define(
 						.registerEditorSerializer(m.$Xoc.ID, m.$Xoc),
 					(0, C.$s6)(m.$Yoc.ID, m.$Yoc, C.WorkbenchPhase.BlockStartup);
 			},
-		),
-		
+		)

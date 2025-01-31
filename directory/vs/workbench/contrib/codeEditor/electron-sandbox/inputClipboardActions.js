@@ -43,5 +43,4 @@ define(de[3026], he([1, 0, 43, 12, 27, 7]), function (ce /*require*/,
 						when: void 0,
 					});
 			}
-		}),
-		
+		})

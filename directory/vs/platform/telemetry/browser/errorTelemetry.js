@@ -43,5 +43,4 @@ define(de[2795], he([1, 0, 75, 29, 3, 2794]), function (ce /*require*/,
 			}
 		}
 		e.default = C;
-	}),
-		
+	})

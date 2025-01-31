@@ -484,5 +484,4 @@ define(de[24], he([1, 0, 29, 214]), function (ce /*require*/,
 					)
 				).find((se) => se.ok)?.element;
 			}
-		}),
-		
+		})

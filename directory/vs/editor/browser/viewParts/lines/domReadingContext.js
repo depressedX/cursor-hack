@@ -36,5 +36,4 @@ define(de[2543], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Cub = t;
-		}),
-		
+		})

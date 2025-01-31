@@ -34,5 +34,4 @@ define(de[1458], he([1, 0, 144, 80, 889]), function (ce /*require*/,
 					};
 				};
 			e.linkedErrorsIntegration = (0, t.defineIntegration)(m);
-		}),
-		
+		})

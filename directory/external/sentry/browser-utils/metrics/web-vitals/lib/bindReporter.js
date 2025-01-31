@@ -21,5 +21,4 @@ define(de[635], he([1, 0]), function (ce /*require*/,
 					};
 				};
 			e.bindReporter = i;
-		}),
-		
+		})

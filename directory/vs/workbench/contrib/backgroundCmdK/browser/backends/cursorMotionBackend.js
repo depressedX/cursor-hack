@@ -80,5 +80,4 @@ define(
 				(e.$o7b = r),
 					(e.$o7b = r = Ne([j(0, m.$Nfc), j(1, E.$MO), j(2, C.$Vi)], r));
 			},
-		),
-		
+		)

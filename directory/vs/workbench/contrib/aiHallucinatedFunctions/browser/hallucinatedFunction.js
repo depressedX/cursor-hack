@@ -43,5 +43,4 @@ define(de[2970], he([1, 0, 13, 47]), function (ce /*require*/,
 				}
 			}
 			e.$Scc = w;
-		}),
-		
+		})

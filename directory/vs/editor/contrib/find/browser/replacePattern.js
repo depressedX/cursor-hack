@@ -215,5 +215,4 @@ define(de[1550], he([1, 0, 120, 1507]), function (ce /*require*/,
 				}
 				return c.finalize();
 			}
-		}),
-		
+		})

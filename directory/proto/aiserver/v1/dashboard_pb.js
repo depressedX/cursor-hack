@@ -2575,5 +2575,4 @@ define(de[894], he([1, 0, 86, 1480]), function (ce /*require*/,
 				}
 			}
 			e.$W$ = Ie;
-		}),
-		
+		})

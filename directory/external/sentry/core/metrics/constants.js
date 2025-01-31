@@ -19,5 +19,4 @@ define(de[880], he([1, 0]), function (ce /*require*/,
 				(e.DEFAULT_BROWSER_FLUSH_INTERVAL = 5e3),
 				(e.DEFAULT_FLUSH_INTERVAL = 1e4),
 				(e.MAX_WEIGHT = 1e4);
-		}),
-		
+		})

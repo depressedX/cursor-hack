@@ -26,5 +26,4 @@ define(de[1828], he([1, 0, 296]), function (ce /*require*/,
 				}
 			}
 			e.ComposerDiffEditorInput = i;
-		}),
-		
+		})

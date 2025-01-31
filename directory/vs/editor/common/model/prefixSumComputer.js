@@ -156,5 +156,4 @@ define(de[589], he([1, 0, 24, 210]), function (ce /*require*/,
 				}
 			}
 			e.$YN = C;
-		}),
-		
+		})

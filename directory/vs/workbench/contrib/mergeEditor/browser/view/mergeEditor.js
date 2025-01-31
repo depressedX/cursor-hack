@@ -701,5 +701,4 @@ define(
 				};
 				(e.$VRc = K), (e.$VRc = K = Ne([j(0, B.$E6), j(1, b.$Li)], K));
 			},
-		),
-		
+		)

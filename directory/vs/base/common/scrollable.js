@@ -309,5 +309,4 @@ define(de[195], he([1, 0, 6, 3]), function (ce /*require*/,
 			function h(c) {
 				return 1 - a(1 - c);
 			}
-		}),
-		
+		})

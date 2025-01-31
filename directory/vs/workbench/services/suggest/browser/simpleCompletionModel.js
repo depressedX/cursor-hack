@@ -172,5 +172,4 @@ define(
 					return r.get(a) || 0;
 				}
 			},
-		),
-		
+		)

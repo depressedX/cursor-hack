@@ -141,5 +141,4 @@ define(de[2217], he([1, 0]), function (ce /*require*/,
 					: console.trace(
 							"jsonc defined in UNKNOWN context (neither requirejs or commonjs)",
 						);
-		})(),
-		
+		})()

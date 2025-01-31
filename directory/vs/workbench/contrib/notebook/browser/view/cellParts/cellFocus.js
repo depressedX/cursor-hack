@@ -34,5 +34,4 @@ define(de[3097], he([1, 0, 7, 294]), function (ce /*require*/,
 				}
 			}
 			e.$L3b = w;
-		}),
-		
+		})

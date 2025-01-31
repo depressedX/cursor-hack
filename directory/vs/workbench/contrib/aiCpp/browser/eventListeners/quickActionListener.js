@@ -152,5 +152,4 @@ define(
 					return { title: o.title, id: o.id, arguments: o.arguments ?? [] };
 				}
 			},
-		),
-		
+		)

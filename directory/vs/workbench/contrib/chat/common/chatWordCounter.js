@@ -50,5 +50,4 @@ define(de[790], he([1, 0]), function (ce /*require*/,
 			function E(C) {
 				return w(C, Number.MAX_SAFE_INTEGER).returnedWordCount;
 			}
-		}),
-		
+		})

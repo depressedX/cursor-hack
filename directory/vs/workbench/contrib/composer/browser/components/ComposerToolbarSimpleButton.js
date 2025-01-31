@@ -41,5 +41,4 @@ define(de[485], he([1, 0, 2, 2, 311, 147]), function (ce /*require*/,
 				);
 			};
 			e.ComposerToolbarSimpleButton = C;
-		}),
-		
+		})

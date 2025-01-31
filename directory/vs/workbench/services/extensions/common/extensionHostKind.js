@@ -106,5 +106,4 @@ define(de[517], he([1, 0, 109]), function (ce /*require*/,
 					return this.local ? this.local.kind : this.remote.kind;
 				}
 			}
-		}),
-		
+		})

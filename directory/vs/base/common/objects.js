@@ -169,5 +169,4 @@ define(de[82], he([1, 0, 28]), function (ce /*require*/,
 				for (const [l, y] of Object.entries(f)) s[l] = b(y, l);
 				return s;
 			}
-		}),
-		
+		})

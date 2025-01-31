@@ -128,5 +128,4 @@ define(
 				};
 				(e.$eWc = r), (e.$eWc = r = Ne([j(12, m.$gj)], r));
 			},
-		),
-		
+		)

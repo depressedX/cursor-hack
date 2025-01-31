@@ -288,5 +288,4 @@ define(
 							renderer: new C.$Ji(o),
 						});
 			},
-		),
-		
+		)

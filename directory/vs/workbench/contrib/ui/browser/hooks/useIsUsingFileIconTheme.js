@@ -21,5 +21,4 @@ define(de[428], he([1, 0, 13, 36]), function (ce /*require*/,
 				});
 				return (0, t.onCleanup)(() => r.dispose()), C;
 			}
-		}),
-		
+		})

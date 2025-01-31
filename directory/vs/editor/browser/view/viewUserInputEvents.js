@@ -91,5 +91,4 @@ define(de[1534], he([1, 0, 56, 48]), function (ce /*require*/,
 				}
 			}
 			e.$Yub = w;
-		}),
-		
+		})

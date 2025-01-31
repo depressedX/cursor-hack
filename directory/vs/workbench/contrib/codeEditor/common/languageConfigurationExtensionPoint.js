@@ -824,5 +824,4 @@ define(
 					};
 				r.$Io.as(m.$Jo.JSONContribution).registerSchema(b, s);
 			},
-		),
-		
+		)

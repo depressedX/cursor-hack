@@ -22,5 +22,4 @@ define(de[755], he([1, 0, 1559, 77]), function (ce /*require*/,
 						}),
 					).read(d);
 			}
-		}),
-		
+		})

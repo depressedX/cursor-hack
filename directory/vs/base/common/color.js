@@ -478,5 +478,4 @@ define(de[97], he([1, 0, 120]), function (ce /*require*/,
 						})((a = u.CSS || (u.CSS = {})));
 					})((r = m.Format || (m.Format = {})));
 				})(d || (e.$UL = d = {}));
-		}),
-		
+		})

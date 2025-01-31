@@ -28,5 +28,4 @@ define(de[3353], he([1, 0, 3, 73, 88, 101]), function (ce /*require*/,
 			(e.$2pc = C),
 				(e.$2pc = C =
 					Ne([(0, E.$tmc)(w.$lbb.MainThreadLabelService), j(1, i.$3N)], C));
-		}),
-		
+		})

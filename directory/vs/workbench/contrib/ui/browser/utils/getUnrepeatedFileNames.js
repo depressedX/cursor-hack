@@ -53,5 +53,4 @@ define(de[1273], he([1, 0, 54]), function (ce /*require*/,
 				const m = (0, t.$qc)(C, d);
 				return m !== "" && !m.startsWith("..") && !m.startsWith(t.sep);
 			}
-		}),
-		
+		})

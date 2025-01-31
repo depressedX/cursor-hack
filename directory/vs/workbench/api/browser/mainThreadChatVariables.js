@@ -49,5 +49,4 @@ define(
 					(e.$Gmc = d =
 						Ne([(0, C.$tmc)(w.$lbb.MainThreadChatVariables), j(1, E.$D2)], d));
 			},
-		),
-		
+		)

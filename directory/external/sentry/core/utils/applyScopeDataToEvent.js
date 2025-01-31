@@ -108,5 +108,4 @@ define(de[1450], he([1, 0, 80, 639, 301]), function (ce /*require*/,
 					g && (n.fingerprint = n.fingerprint.concat(g)),
 					n.fingerprint && !n.fingerprint.length && delete n.fingerprint;
 			}
-		}),
-		
+		})

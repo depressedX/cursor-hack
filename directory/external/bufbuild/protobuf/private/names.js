@@ -166,5 +166,4 @@ define(de[723], he([1, 0]), function (ce /*require*/,
 			e.safeObjectProperty = c;
 			const n = (g) => (m.has(g) ? a(g) : g);
 			e.safeIdentifier = n;
-		}),
-		
+		})

@@ -95,5 +95,4 @@ define(de[1842], he([1, 0, 6, 3, 70]), function (ce /*require*/,
 				}
 			}
 			e.$85 = E;
-		}),
-		
+		})

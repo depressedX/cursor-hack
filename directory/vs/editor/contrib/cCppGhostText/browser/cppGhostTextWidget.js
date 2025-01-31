@@ -1296,5 +1296,4 @@ define(
 					K.scheme === "ipynb" ||
 					K.path.toLowerCase().endsWith(".ipynb");
 			},
-		),
-		
+		)

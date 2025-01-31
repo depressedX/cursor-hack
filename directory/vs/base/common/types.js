@@ -120,5 +120,4 @@ define(de[28], he([1, 0]), function (ce /*require*/,
 			function l(y) {
 				return y;
 			}
-		}),
-		
+		})

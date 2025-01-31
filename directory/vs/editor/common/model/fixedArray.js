@@ -47,5 +47,4 @@ define(de[2565], he([1, 0, 24]), function (ce /*require*/,
 				for (let m = 0; m < E; m++) d[m] = C;
 				return d;
 			}
-		}),
-		
+		})

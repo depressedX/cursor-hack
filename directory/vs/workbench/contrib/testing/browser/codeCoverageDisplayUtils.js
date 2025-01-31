@@ -85,5 +85,4 @@ define(
 						(o.pickShowCoverage = (0, w.localize)(10631, null));
 				})(p || (e.labels = p = {}));
 			},
-		),
-		
+		)

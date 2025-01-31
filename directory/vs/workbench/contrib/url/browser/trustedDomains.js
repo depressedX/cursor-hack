@@ -136,5 +136,4 @@ define(
 					return { defaultTrustedDomains: p, trustedDomains: o };
 				}
 			},
-		),
-		
+		)

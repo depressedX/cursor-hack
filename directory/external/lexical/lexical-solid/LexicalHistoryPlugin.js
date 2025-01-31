@@ -22,5 +22,4 @@ define(de[2610], he([1, 0, 181, 1565, 922]), function (ce /*require*/,
 					return w.createEmptyHistoryState;
 				},
 			});
-		}),
-		
+		})

@@ -72,5 +72,4 @@ define(de[1527], he([1, 0, 17, 104]), function (ce /*require*/,
 				}
 			}
 			e.$Ttb = E;
-		}),
-		
+		})

@@ -178,5 +178,4 @@ define(
 						n.Observer = c;
 					})(C || (e.$pd = C = {}));
 			},
-		),
-		
+		)

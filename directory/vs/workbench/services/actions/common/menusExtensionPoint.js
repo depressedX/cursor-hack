@@ -1056,5 +1056,4 @@ define(
 							renderer: new n.$Ji(T),
 						});
 			},
-		),
-		
+		)

@@ -41,5 +41,4 @@ define(de[378], he([1, 0, 30]), function (ce /*require*/,
 				d.TerminalContributions = "terminal.contributions";
 			})(C || (C = {})),
 				t.$Io.add(C.TerminalContributions, E.INSTANCE);
-		}),
-		
+		})

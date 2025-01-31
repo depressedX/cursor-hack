@@ -72,5 +72,4 @@ define(
 					(e.$e6c = m =
 						Ne([j(1, i.$Wxb), j(2, t.$6j), j(3, w.$Uyb), j(4, E.$uZ)], m));
 			},
-		),
-		
+		)

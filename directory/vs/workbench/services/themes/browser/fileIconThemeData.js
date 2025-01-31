@@ -397,5 +397,4 @@ define(
 					return (g = g.replace(/[\s]/g, "/")), u.$Bfb.CSS.escape(g);
 				}
 			},
-		),
-		
+		)

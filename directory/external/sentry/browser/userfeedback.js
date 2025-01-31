@@ -21,5 +21,4 @@ define(de[1435], he([1, 0, 80]), function (ce /*require*/,
 			function w(E) {
 				return [{ type: "user_report" }, E];
 			}
-		}),
-		
+		})

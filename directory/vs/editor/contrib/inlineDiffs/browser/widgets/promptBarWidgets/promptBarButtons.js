@@ -759,5 +759,4 @@ define(
 							type: "secondary",
 						});
 			},
-		),
-		
+		)

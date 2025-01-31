@@ -187,5 +187,4 @@ define(de[590], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$BN = a;
-		}),
-		
+		})

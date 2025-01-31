@@ -48,5 +48,4 @@ define(de[3397], he([1, 0, 4, 701]), function (ce /*require*/,
 				deps: [i.$qYb],
 				jsonSchema: E,
 			};
-		}),
-		
+		})

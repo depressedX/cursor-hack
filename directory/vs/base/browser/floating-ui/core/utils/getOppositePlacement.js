@@ -8,5 +8,4 @@ define(de[1121], he([1, 0]), function (ce /*require*/,
 			function i(w) {
 				return w.replace(/left|right|bottom|top/g, (E) => t[E]);
 			}
-		}),
-		
+		})

@@ -1227,5 +1227,4 @@ define(
 						renderer: new s.$Ji(pe),
 					});
 			},
-		),
-		
+		)

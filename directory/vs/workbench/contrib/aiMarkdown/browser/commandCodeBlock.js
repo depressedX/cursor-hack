@@ -189,5 +189,4 @@ define(
 				}
 				const h = (c) => c !== void 0 && c.trim().length > 0;
 			},
-		),
-		
+		)

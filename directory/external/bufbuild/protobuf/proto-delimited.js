@@ -50,5 +50,4 @@ define(de[2031], he([1, 0, 1085]), function (ce /*require*/,
 						throw new Error("invalid varint");
 					},
 				});
-		}),
-		
+		})

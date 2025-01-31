@@ -65,5 +65,4 @@ define(
 				};
 				(e.$rqc = d), (e.$rqc = d = Ne([j(0, w.$lq)], d));
 			},
-		),
-		
+		)

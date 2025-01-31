@@ -50,5 +50,4 @@ define(
 					(e.$Rpc = d =
 						Ne([(0, E.$tmc)(w.$lbb.MainThreadInteractive), j(1, C.$unc)], d));
 			},
-		),
-		
+		)

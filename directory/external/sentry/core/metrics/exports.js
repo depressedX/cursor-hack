@@ -96,5 +96,4 @@ define(
 					return typeof o == "string" ? parseInt(o) : o;
 				}
 			},
-		),
-		
+		)

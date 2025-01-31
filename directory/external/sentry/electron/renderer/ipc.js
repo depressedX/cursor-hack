@@ -74,5 +74,4 @@ define(de[890], he([1, 0, 80, 2060]), function (ce /*require*/,
 			function d() {
 				return C || ((C = E()), C.sendRendererStart()), C;
 			}
-		}),
-		
+		})

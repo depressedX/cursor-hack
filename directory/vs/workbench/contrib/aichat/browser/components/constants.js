@@ -18,5 +18,4 @@ define(de[1711], he([1, 0]), function (ce /*require*/,
 				}),
 				(e.$xIb = 6),
 				(e.$yIb = 3);
-		}),
-		
+		})

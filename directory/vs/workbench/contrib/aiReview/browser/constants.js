@@ -12,5 +12,4 @@ define(de[2996], he([1, 0]), function (ce /*require*/,
 					{ backgroundColor: "#FFA07A99", label: "High" },
 					{ backgroundColor: "#DC143CAA", label: "Critical" },
 				]);
-		}),
-		
+		})

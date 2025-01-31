@@ -28,5 +28,4 @@ define(de[2119], he([1, 0, 80, 234, 263]), function (ce /*require*/,
 			function C(d) {
 				(0, i.getCurrentScope)().setClient(d);
 			}
-		}),
-		
+		})

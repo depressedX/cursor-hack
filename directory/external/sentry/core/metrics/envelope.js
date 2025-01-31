@@ -31,5 +31,4 @@ define(de[1439], he([1, 0, 80, 886]), function (ce /*require*/,
 				const m = (0, i.serializeMetricBuckets)(d);
 				return [{ type: "statsd", length: m.length }, m];
 			}
-		}),
-		
+		})

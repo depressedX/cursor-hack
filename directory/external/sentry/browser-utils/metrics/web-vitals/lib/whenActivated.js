@@ -13,5 +13,4 @@ define(de[730], he([1, 0, 366]), function (ce /*require*/,
 					: w();
 			};
 			e.whenActivated = i;
-		}),
-		
+		})

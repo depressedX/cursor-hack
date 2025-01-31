@@ -16,5 +16,4 @@ define(de[3194], he([1, 0, 3192, 3191, 3193]), function (ce /*require*/,
 					chatHistory: { typeaheadOption: i.$C_b },
 					commitNotes: { typeaheadOption: w.$D_b },
 				});
-		}),
-		
+		})

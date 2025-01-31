@@ -52,5 +52,4 @@ define(
 					return (0, t.rectToClientRect)({ width: b, height: s, x: o, y: f });
 				}
 			},
-		),
-		
+		)

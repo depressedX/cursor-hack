@@ -86,5 +86,4 @@ define(de[3326], he([1, 0, 4, 82, 570, 1813]), function (ce /*require*/,
 				}
 			}),
 			(e.default = C);
-	}),
-		
+	})

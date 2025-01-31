@@ -965,5 +965,4 @@ define(
 					)),
 				(0, s.$lK)(C.$kfc, W, s.InstantiationType.Delayed);
 		},
-	),
-		
+	)

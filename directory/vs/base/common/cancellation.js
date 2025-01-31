@@ -88,5 +88,4 @@ define(de[33], he([1, 0, 6]), function (ce /*require*/,
 					r.token
 				);
 			}
-		}),
-		
+		})

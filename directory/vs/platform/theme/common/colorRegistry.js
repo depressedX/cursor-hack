@@ -41,5 +41,4 @@ define(
 				Yi(a, e),
 				Yi(h, e);
 		},
-	),
-		
+	)

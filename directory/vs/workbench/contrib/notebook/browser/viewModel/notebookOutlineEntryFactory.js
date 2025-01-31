@@ -132,5 +132,4 @@ define(
 					return h.getText().substring(0, 100);
 				}
 			},
-		),
-		
+		)

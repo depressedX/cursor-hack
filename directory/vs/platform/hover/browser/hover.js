@@ -91,5 +91,4 @@ define(
 						showNativeHover: !0,
 					});
 			},
-		),
-		
+		)

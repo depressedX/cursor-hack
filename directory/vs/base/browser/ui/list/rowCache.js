@@ -64,5 +64,4 @@ define(de[2675], he([1, 0, 7]), function (ce /*require*/,
 				}
 			}
 			e.$vib = i;
-		}),
-		
+		})

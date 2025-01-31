@@ -144,5 +144,4 @@ define(de[468], he([1, 0, 33, 8, 5]), function (ce /*require*/,
 					a = r ?? Number.MAX_SAFE_INTEGER;
 				return u < a ? -1 : u > a ? 1 : 0;
 			}
-		}),
-		
+		})

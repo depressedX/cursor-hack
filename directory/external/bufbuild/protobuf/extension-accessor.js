@@ -78,5 +78,4 @@ define(de[1398], he([1, 0, 451, 1087]), function (ce /*require*/,
 					`extension ${r.typeName} can only be applied to message ${r.extendee.typeName}`,
 				);
 			}
-		}),
-		
+		})

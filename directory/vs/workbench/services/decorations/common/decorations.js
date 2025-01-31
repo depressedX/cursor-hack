@@ -8,5 +8,4 @@ define(de[472], he([1, 0, 5]), function (ce /*require*/,
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$sPb = void 0),
 				(e.$sPb = (0, t.$Mi)("IFileDecorationsService"));
-		}),
-		
+		})

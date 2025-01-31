@@ -195,5 +195,4 @@ define(
 						(c[(c.error = 4)] = "error");
 				})(h || (e.TextModelDiffState = h = {}));
 			},
-		),
-		
+		)

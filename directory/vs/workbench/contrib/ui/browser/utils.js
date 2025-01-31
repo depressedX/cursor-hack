@@ -127,5 +127,4 @@ define(
 								: `${Math.floor(f / 86400)} days ago`;
 				}
 			},
-		),
-		
+		)

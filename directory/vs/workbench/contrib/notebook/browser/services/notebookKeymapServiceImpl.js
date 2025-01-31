@@ -140,5 +140,4 @@ define(
 					return l ? l.indexOf("notebook-keymap") !== -1 : !1;
 				}
 			},
-		),
-		
+		)

@@ -25,5 +25,4 @@ define(de[530], he([1, 0, 76, 136]), function (ce /*require*/,
 					r = await crypto.subtle.digest("SHA-256", m);
 				return (0, i.$Fj)(r);
 			}
-		}),
-		
+		})

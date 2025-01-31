@@ -251,5 +251,4 @@ define(de[2798], he([1, 0, 498, 48, 38, 12]), function (ce /*require*/,
 				}
 			}
 			e.$Zub = C;
-		}),
-		
+		})

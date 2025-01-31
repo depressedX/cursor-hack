@@ -143,5 +143,4 @@ define(de[816], he([1, 0, 164, 228, 310]), function (ce /*require*/,
 			function a(h) {
 				return h instanceof r;
 			}
-		}),
-		
+		})

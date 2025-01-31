@@ -13,5 +13,4 @@ define(de[1124], he([1, 0]), function (ce /*require*/,
 					bottom: i.y + i.height,
 				};
 			}
-		}),
-		
+		})

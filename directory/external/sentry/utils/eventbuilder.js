@@ -104,5 +104,4 @@ define(
 					return (b.message = g), b;
 				}
 			},
-		),
-		
+		)

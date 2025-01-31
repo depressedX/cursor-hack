@@ -14,5 +14,4 @@ define(de[584], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			(e.$Rdb = t), (e.$Sdb = new t("id#"));
-		}),
-		
+		})

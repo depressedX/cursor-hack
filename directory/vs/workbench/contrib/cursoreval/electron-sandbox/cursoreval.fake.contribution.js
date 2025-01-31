@@ -27,5 +27,4 @@ define(de[3046], he([1, 0, 3, 20, 684]), function (ce /*require*/,
 				async checkoutCmdKDebugInfo(d, m) {}
 			}
 			(e.$Qfd = E), (0, i.$lK)(w.$06b, E, i.InstantiationType.Delayed);
-		}),
-		
+		})

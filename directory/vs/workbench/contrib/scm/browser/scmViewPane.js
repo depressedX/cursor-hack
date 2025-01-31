@@ -3737,5 +3737,4 @@ define(
 				}
 				(e.$cQc = fi), (0, R.$zYb)(".scm-view .scm-editor-container");
 			},
-		),
-		
+		)

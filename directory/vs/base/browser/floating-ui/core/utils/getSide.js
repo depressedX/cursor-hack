@@ -7,5 +7,4 @@ define(de[487], he([1, 0]), function (ce /*require*/,
 			function t(i) {
 				return i.split("-")[0];
 			}
-		}),
-		
+		})

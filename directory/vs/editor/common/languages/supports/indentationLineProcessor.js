@@ -146,5 +146,4 @@ define(
 					return !n && !g;
 				}
 			},
-		),
-		
+		)

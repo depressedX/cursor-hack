@@ -771,5 +771,4 @@ define(
 						(A[(A.Undefined = 4)] = "Undefined");
 				})(N || (N = {}));
 			},
-		),
-		
+		)

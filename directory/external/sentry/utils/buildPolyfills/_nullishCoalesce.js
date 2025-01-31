@@ -8,5 +8,4 @@ define(de[1419], he([1, 0]), function (ce /*require*/,
 			function t(i, w) {
 				return i ?? w();
 			}
-		}),
-		
+		})

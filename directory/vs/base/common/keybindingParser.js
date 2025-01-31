@@ -55,5 +55,4 @@ define(de[918], he([1, 0, 27, 343]), function (ce /*require*/,
 				}
 			}
 			e.$Xpb = w;
-		}),
-		
+		})

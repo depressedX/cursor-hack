@@ -31,5 +31,4 @@ define(de[2057], he([1, 0, 576]), function (ce /*require*/,
 					}));
 			};
 			e.initInteractionCountPolyfill = r;
-		}),
-		
+		})

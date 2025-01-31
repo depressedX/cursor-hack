@@ -1045,5 +1045,4 @@ $(warning) ` + pe,
 					$.localize(5179, null),
 				);
 		},
-	),
-		
+	)

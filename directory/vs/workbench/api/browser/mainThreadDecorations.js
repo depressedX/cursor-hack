@@ -106,5 +106,4 @@ define(
 					(e.$Ymc = u =
 						Ne([(0, C.$tmc)(E.$lbb.MainThreadDecorations), j(1, d.$sPb)], u));
 			},
-		),
-		
+		)

@@ -167,5 +167,4 @@ define(
 							)),
 					(0, t.$qtb)(g.ID, g, t.EditorContributionInstantiation.Eventually);
 			},
-		),
-		
+		)

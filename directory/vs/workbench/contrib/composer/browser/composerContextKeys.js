@@ -23,5 +23,4 @@ define(de[793], he([1, 0, 8]), function (ce /*require*/,
 					"currentActiveEditorIsChat",
 					!1,
 				));
-		}),
-		
+		})

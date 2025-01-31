@@ -115,5 +115,4 @@ define(
 					return h.replace(/\r\n|\r|\n/g, "");
 				}
 			},
-		),
-		
+		)

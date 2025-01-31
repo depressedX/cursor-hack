@@ -69,5 +69,4 @@ define(de[648], he([1, 0]), function (ce /*require*/,
 					p = /\/\*\*\s*@description\s*([^*]*)\*\//.exec(n);
 				return (p ? p[1] : void 0)?.trim();
 			}
-		}),
-		
+		})

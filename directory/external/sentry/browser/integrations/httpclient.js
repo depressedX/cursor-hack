@@ -212,5 +212,4 @@ define(
 					return $ ? !!$.getOptions().sendDefaultPii : !1;
 				}
 			},
-		),
-		
+		)

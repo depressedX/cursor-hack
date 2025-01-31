@@ -231,5 +231,4 @@ define(de[3102], he([1, 0, 539, 589]), function (ce /*require*/,
 				}
 			}
 			e.$x2b = E;
-		}),
-		
+		})

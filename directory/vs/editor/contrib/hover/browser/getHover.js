@@ -53,5 +53,4 @@ define(
 					return c && n;
 				}
 			},
-		),
-		
+		)

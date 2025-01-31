@@ -128,5 +128,4 @@ define(de[752], he([1, 0, 1149, 659]), function (ce /*require*/,
 				}
 				return g.toIndentRanges(u);
 			}
-		}),
-		
+		})

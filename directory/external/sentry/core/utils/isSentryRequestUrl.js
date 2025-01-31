@@ -19,5 +19,4 @@ define(de[2058], he([1, 0]), function (ce /*require*/,
 			function E(C) {
 				return C[C.length - 1] === "/" ? C.slice(0, -1) : C;
 			}
-		}),
-		
+		})

@@ -12,5 +12,4 @@ define(de[1759], he([1, 0]), function (ce /*require*/,
 					return `${u}${a}${w}\x1B[0m`;
 				};
 			e.$kVc = i;
-		}),
-		
+		})

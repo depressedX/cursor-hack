@@ -80,5 +80,4 @@ define(de[655], he([1, 0, 104]), function (ce /*require*/,
 				}
 			}
 			e.$Atb = d;
-		}),
-		
+		})

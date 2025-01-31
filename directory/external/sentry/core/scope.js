@@ -317,5 +317,4 @@ define(de[732], he([1, 0, 80, 887, 731]), function (ce /*require*/,
 				}
 			}
 			e.Scope = C;
-		}),
-		
+		})

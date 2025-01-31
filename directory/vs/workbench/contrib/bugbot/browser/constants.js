@@ -73,5 +73,4 @@ define(de[789], he([1, 0]), function (ce /*require*/,
 							"We're hoping to make the bug finder both much more accurate and much cheaper in the coming months.",
 					},
 				]);
-		}),
-		
+		})

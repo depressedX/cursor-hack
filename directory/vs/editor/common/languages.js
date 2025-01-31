@@ -482,5 +482,4 @@ define(
 					(q[(q.Invoke = 0)] = "Invoke"), (q[(q.Automatic = 1)] = "Automatic");
 				})(H || (e.InlineEditTriggerKind = H = {}));
 			},
-		),
-		
+		)

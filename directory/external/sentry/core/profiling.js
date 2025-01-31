@@ -68,5 +68,4 @@ define(de[2118], he([1, 0, 80, 234, 263]), function (ce /*require*/,
 				r._profiler.stop();
 			}
 			e.profiler = { startProfiler: C, stopProfiler: d };
-		}),
-		
+		})

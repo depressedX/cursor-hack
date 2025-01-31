@@ -213,5 +213,4 @@ define(de[1404], he([1, 0, 406, 339]), function (ce /*require*/,
 				}
 			}
 			e.ListValue = d;
-		}),
-		
+		})

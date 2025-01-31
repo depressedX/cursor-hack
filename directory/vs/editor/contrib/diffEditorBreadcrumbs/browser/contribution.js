@@ -81,5 +81,4 @@ define(
 				(u = Ne([j(1, C.$k3), j(2, d.$9Db)], u)),
 					w.$Yyb.setBreadcrumbsSourceFactory((a, h) => h.createInstance(u, a));
 			},
-		),
-		
+		)

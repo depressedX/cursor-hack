@@ -180,5 +180,4 @@ define(
 				}
 				e.ServerRuntimeClient = a;
 			},
-		),
-		
+		)

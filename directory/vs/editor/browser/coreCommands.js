@@ -2051,5 +2051,4 @@ define(
 					B(o.Handler.Paste),
 					B(o.Handler.Cut);
 			},
-		),
-		
+		)

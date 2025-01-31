@@ -1348,5 +1348,4 @@ define(
 				};
 				(0, P.$lK)(I.$lfc, q, P.InstantiationType.Delayed);
 			},
-		),
-		
+		)

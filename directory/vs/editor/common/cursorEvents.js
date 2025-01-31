@@ -15,5 +15,4 @@ define(de[248], he([1, 0]), function (ce /*require*/,
 					(i[(i.Undo = 5)] = "Undo"),
 					(i[(i.Redo = 6)] = "Redo");
 			})(t || (e.CursorChangeReason = t = {}));
-		}),
-		
+		})

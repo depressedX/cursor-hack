@@ -182,5 +182,4 @@ define(de[585], he([1, 0, 187]), function (ce /*require*/,
 `.indexOf(r.charAt(u)) !== -1
 				);
 			}
-		}),
-		
+		})

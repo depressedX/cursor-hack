@@ -26,5 +26,4 @@ define(de[1619], he([1, 0, 15]), function (ce /*require*/,
 				}
 				return t.Promises.settled(C).then(() => d);
 			}
-		}),
-		
+		})

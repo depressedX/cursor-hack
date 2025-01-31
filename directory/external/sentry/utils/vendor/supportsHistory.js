@@ -15,5 +15,4 @@ define(de[2086], he([1, 0, 365]), function (ce /*require*/,
 						"history" in i && !!i.history.pushState && !!i.history.replaceState;
 				return !C && d;
 			}
-		}),
-		
+		})

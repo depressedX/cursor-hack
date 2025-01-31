@@ -371,5 +371,4 @@ define(
 						($[($.unrecognized = 3)] = "unrecognized");
 				})(y || (e.InputState = y = {}));
 			},
-		),
-		
+		)

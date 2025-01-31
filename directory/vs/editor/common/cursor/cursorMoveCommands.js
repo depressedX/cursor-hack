@@ -757,5 +757,4 @@ define(
 					})((n = u.Unit || (u.Unit = {})));
 				})(r || (e.CursorMove = r = {}));
 			},
-		),
-		
+		)

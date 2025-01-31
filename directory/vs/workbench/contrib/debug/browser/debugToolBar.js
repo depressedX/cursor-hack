@@ -488,5 +488,4 @@ define(
 						command: { id: I.$$Gc, title: I.$KHc, icon: T.$iKb },
 					});
 			},
-		),
-		
+		)

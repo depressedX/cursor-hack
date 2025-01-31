@@ -106,5 +106,4 @@ define(
 				(e.$SAc = m),
 					(e.$SAc = m = Ne([j(0, d.$gj), j(1, C.$QO), j(2, E.$nM)], m));
 			},
-		),
-		
+		)

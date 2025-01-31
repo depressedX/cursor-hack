@@ -176,5 +176,4 @@ define(
 					(e.$QIb = (0, r.$Mi)("ICustomEditorLabelService")),
 					(0, m.$lK)(e.$QIb, c, m.InstantiationType.Delayed);
 			},
-		),
-		
+		)

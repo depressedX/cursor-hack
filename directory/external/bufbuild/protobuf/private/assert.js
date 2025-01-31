@@ -34,5 +34,4 @@ define(de[451], he([1, 0]), function (ce /*require*/,
 				if (Number.isFinite(a) && (a > i || a < w))
 					throw new Error("invalid float 32: " + a);
 			}
-		}),
-		
+		})

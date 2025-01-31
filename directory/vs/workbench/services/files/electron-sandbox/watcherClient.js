@@ -40,5 +40,4 @@ define(de[3383], he([1, 0, 305, 938]), function (ce /*require*/,
 				}
 			}
 			e.$Vcd = w;
-		}),
-		
+		})

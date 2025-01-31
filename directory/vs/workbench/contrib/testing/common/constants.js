@@ -121,5 +121,4 @@ define(de[353], he([1, 0, 274, 4, 185]), function (ce /*require*/,
 					(a.UnhideAllTestsAction = "testing.unhideAllTests"),
 					(a.UnhideTestAction = "testing.unhideTest");
 			})(u || (e.TestCommandId = u = {}));
-		}),
-		
+		})

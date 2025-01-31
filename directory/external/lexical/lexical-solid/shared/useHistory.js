@@ -22,5 +22,4 @@ define(de[1565], he([1, 0, 922, 13]), function (ce /*require*/,
 					(0, i.onCleanup)((0, t.registerExternalHistory)(C, h(), m, r, u, a));
 				});
 			}
-		}),
-		
+		})

@@ -111,5 +111,4 @@ define(de[1425], he([1, 0, 430]), function (ce /*require*/,
 				}
 			}
 			e.SyncPromise = C;
-		}),
-		
+		})

@@ -13,5 +13,4 @@ define(de[3073], he([1, 0, 4]), function (ce /*require*/,
 					installAndRestartMessage: (0, t.localize)(7419, null),
 					installAndRestart: (0, t.localize)(7420, null),
 				});
-		}),
-		
+		})

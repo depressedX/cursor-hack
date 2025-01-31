@@ -71,5 +71,4 @@ define(
 					(e.$lgd = a =
 						Ne([j(0, w.$ll), j(1, r.$iIb), j(2, C.$$m), j(3, d.$y7c)], a));
 			},
-		),
-		
+		)

@@ -144,5 +144,4 @@ define(
 					(e.$Btc = n = Ne([j(0, w.$mEb), j(1, E.$Xxb), j(2, u.$Vxb)], n)),
 					(0, m.$s6)(n.ID, n, m.WorkbenchPhase.BlockRestore);
 			},
-		),
-		
+		)

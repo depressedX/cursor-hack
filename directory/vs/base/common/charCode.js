@@ -423,5 +423,4 @@ define(de[120], he([1, 0]), function (ce /*require*/,
 					(i[(i.U_FULLWIDTH_SEMICOLON = 65307)] = "U_FULLWIDTH_SEMICOLON"),
 					(i[(i.U_FULLWIDTH_COMMA = 65292)] = "U_FULLWIDTH_COMMA");
 			})(t || (e.CharCode = t = {}));
-		}),
-		
+		})

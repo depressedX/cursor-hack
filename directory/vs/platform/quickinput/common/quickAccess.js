@@ -53,5 +53,4 @@ define(de[348], he([1, 0, 24, 3, 30]), function (ce /*require*/,
 				}
 			}
 			(e.$2r = C), w.$Io.add(e.$1r.Quickaccess, new C());
-		}),
-		
+		})

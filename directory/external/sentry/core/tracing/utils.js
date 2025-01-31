@@ -27,5 +27,4 @@ define(de[1096], he([1, 0, 80, 80]), function (ce /*require*/,
 			function d(m) {
 				return { scope: m[w], isolationScope: m[E] };
 			}
-		}),
-		
+		})

@@ -73,5 +73,4 @@ define(de[3393], he([1, 0, 918, 8]), function (ce /*require*/,
 				}
 			}
 			e.$Ovc = C;
-		}),
-		
+		})

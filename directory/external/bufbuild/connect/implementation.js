@@ -62,5 +62,4 @@ define(
 					return a;
 				}
 			},
-		),
-		
+		)

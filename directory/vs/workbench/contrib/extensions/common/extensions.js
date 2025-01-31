@@ -106,5 +106,4 @@ define(
 					(e.$4Qb = "0_update"),
 					(e.$5Qb = new C.$XX("extensionsSearchActionsMenu"));
 			},
-		),
-		
+		)

@@ -54,5 +54,4 @@ define(
 					return C().getClient();
 				}
 			},
-		),
-		
+		)

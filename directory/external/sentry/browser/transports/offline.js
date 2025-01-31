@@ -94,5 +94,4 @@ define(de[2143], he([1, 0, 144, 80, 1104]), function (ce /*require*/,
 			function c(n = w.makeFetchTransport) {
 				return h((0, t.makeOfflineTransport)(n));
 			}
-		}),
-		
+		})

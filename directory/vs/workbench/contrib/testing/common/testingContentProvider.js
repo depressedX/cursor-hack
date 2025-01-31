@@ -124,5 +124,4 @@ define(
 					(e.$FMc = h =
 						Ne([j(0, d.$MO), j(1, E.$nM), j(2, C.$QO), j(3, r.$Kqc)], h));
 			},
-		),
-		
+		)

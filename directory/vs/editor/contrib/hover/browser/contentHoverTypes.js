@@ -26,5 +26,4 @@ define(de[2585], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$YDb = i;
-		}),
-		
+		})

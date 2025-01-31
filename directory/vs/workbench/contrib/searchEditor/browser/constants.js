@@ -25,5 +25,4 @@ define(de[615], he([1, 0, 8]), function (ce /*require*/,
 				(e.$BOc = "search.action.openEditor"),
 				(e.$COc = "toggleSearchEditorContextLines"),
 				(e.$DOc = "workbench.editorinputs.searchEditorInput");
-		}),
-		
+		})

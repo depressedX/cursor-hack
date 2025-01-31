@@ -51,5 +51,4 @@ define(de[1784], he([1, 0, 120, 23, 9]), function (ce /*require*/,
 					String.fromCharCode(parseInt(u, 16)),
 				);
 			}
-		}),
-		
+		})

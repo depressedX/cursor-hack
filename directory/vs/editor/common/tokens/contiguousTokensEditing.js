@@ -75,5 +75,4 @@ define(de[1544], he([1, 0, 388]), function (ce /*require*/,
 			function w(E) {
 				return E instanceof Uint32Array ? E : new Uint32Array(E);
 			}
-		}),
-		
+		})

@@ -32,5 +32,4 @@ define(de[1145], he([1, 0]), function (ce /*require*/,
 					: w
 			);
 			e.$zvb = i;
-		}),
-		
+		})

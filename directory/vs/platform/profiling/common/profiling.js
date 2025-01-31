@@ -27,5 +27,4 @@ define(de[941], he([1, 0, 54, 5]), function (ce /*require*/,
 				}
 				E.rewriteAbsolutePaths = d;
 			})(w || (e.Utils = w = {}));
-		}),
-		
+		})

@@ -10,5 +10,4 @@ define(de[2587], he([1, 0]), function (ce /*require*/,
 				(e.$Ajc = "editor.action.inlineEdit.reject"),
 				(e.$Bjc = "editor.action.inlineEdit.jumpTo"),
 				(e.$Cjc = "editor.action.inlineEdit.jumpBack");
-		}),
-		
+		})

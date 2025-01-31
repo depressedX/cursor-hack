@@ -23,5 +23,4 @@ define(de[2148], he([1, 0, 890]), function (ce /*require*/,
 						C.sendStatus({ status: "alive", config: E });
 					}, E.pollInterval);
 			}
-		}),
-		
+		})

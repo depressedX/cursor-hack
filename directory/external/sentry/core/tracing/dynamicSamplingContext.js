@@ -69,5 +69,4 @@ define(
 					return (0, t.dynamicSamplingContextToSentryBaggageHeader)(n);
 				}
 			},
-		),
-		
+		)

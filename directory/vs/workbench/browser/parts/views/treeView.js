@@ -1832,5 +1832,4 @@ define(
 					(e.$Ttc = ke =
 						Ne([j(1, O.$3N), j(2, A.$Li), j(3, le.$c3b), j(4, U.$ik)], ke));
 			},
-		),
-		
+		)

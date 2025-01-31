@@ -9,5 +9,4 @@ define(de[1125], he([1, 0, 1123]), function (ce /*require*/,
 			function i(w, E, C) {
 				return (0, t.max)(w, (0, t.min)(E, C));
 			}
-		}),
-		
+		})

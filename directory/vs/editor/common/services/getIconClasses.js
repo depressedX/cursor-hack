@@ -89,5 +89,4 @@ define(
 					return c.replace(/[\s]/g, "/");
 				}
 			},
-		),
-		
+		)

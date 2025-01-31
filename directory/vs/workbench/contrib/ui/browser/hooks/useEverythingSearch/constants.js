@@ -26,5 +26,4 @@ define(de[1271], he([1, 0, 23]), function (ce /*require*/,
 				(e.$K_b = /\.(png|jpg|jpeg|gif|tiff)$/i),
 				(e.$L_b = 15),
 				(e.$M_b = 9e3);
-		}),
-		
+		})

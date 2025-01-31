@@ -154,5 +154,4 @@ define(
 					).ComputeDiff(!1).changes;
 				}
 			},
-		),
-		
+		)

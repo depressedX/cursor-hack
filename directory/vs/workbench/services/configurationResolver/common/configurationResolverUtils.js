@@ -13,5 +13,4 @@ define(de[1796], he([1, 0, 4]), function (ce /*require*/,
 					(w.patternErrorMessage =
 						w.patternErrorMessage || t.localize(12180, null));
 			}
-		}),
-		
+		})

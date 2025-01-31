@@ -8,5 +8,4 @@ define(de[557], he([1, 0, 5]), function (ce /*require*/,
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$P2b = void 0),
 				(e.$P2b = (0, t.$Mi)("INotebookLoggingService"));
-		}),
-		
+		})

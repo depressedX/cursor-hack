@@ -11,5 +11,4 @@ define(de[474], he([1, 0, 5]), function (ce /*require*/,
 				(e.$SO = "languageDetection"),
 				(e.$TO = "automaticlanguagedetection.likelywrong"),
 				(e.$UO = "automaticlanguagedetection.stats");
-		}),
-		
+		})

@@ -248,5 +248,4 @@ define(
 					return I;
 				}
 			},
-		),
-		
+		)

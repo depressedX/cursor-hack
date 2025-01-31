@@ -61,5 +61,4 @@ define(
 					(0, E.$lK)(C.$WO, c, E.InstantiationType.Eager),
 					(0, u.$s6)(h.$Wdd.ID, h.$Wdd, u.WorkbenchPhase.BlockStartup);
 			},
-		),
-		
+		)

@@ -14,5 +14,4 @@ define(de[2018], he([1, 0]), function (ce /*require*/,
 				const w = i?.match(e.contentTypeRegExp);
 				return w ? { binary: !w[1] } : void 0;
 			}
-		}),
-		
+		})

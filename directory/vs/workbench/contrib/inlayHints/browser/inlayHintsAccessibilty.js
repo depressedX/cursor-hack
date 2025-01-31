@@ -196,5 +196,4 @@ define(
 					),
 					(0, C.$qtb)(f.ID, f, C.EditorContributionInstantiation.Lazy);
 			},
-		),
-		
+		)

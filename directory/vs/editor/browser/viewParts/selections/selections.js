@@ -269,5 +269,4 @@ define(
 					return c < 0 ? -c : c;
 				}
 			},
-		),
-		
+		)

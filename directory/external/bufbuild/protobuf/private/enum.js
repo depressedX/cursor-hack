@@ -52,5 +52,4 @@ define(de[1083], he([1, 0, 451]), function (ce /*require*/,
 			function m(r) {
 				return "localName" in r ? r : { ...r, localName: r.name };
 			}
-		}),
-		
+		})

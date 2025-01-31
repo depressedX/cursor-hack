@@ -45,5 +45,4 @@ define(
 						.as(E.Extensions.Workbench)
 						.registerWorkbenchContribution(r, C.LifecyclePhase.Restored);
 			},
-		),
-		
+		)

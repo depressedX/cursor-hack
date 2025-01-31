@@ -27,5 +27,4 @@ define(de[2779], he([1, 0, 4, 99, 11, 34]), function (ce /*require*/,
 				}
 			}
 			e.$avc = C;
-		}),
-		
+		})

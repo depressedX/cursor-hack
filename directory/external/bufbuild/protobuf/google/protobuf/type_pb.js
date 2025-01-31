@@ -313,5 +313,4 @@ define(
 				}
 				e.Option = c;
 			},
-		),
-		
+		)

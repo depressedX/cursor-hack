@@ -1,0 +1,252 @@
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "aiserver/v1/utils.proto";
+import "aiserver/v1/tools.proto";
+
+// AI项目服务
+service AiProjectService {
+  // 初始化AI项目代理
+  rpc AiProjectAgentInit(AiProjectAgentInitRequest) returns (stream AiProjectClarificationResponse);
+  
+  // AI项目需求澄清
+  rpc AiProjectClarification(AiProjectClarificationRequest) returns (stream AiProjectClarificationResponse);
+  
+  // AI项目计划
+  rpc AiProjectPlan(AiProjectAgentPlanRequest) returns (stream AiProjectAgentPlanResponse);
+  
+  // AI项目计划反馈
+  rpc AiProjectPlanFeedback(AiProjectPlanFeedbackRequest) returns (stream AiProjectPlanFeedbackResponse);
+  
+  // AI项目任务分解
+  rpc AiProjectBreakdown(AiProjectBreakdownRequest) returns (stream AiProjectBreakdownResponse);
+  
+  // AI项目任务分解反馈
+  rpc AiProjectBreakdownFeedback(AiProjectBreakdownFeedbackRequest) returns (stream AiProjectBreakdownFeedbackResponse);
+  
+  // AI项目步骤执行
+  rpc AiProjectStep(AiProjectStepRequest) returns (stream AiProjectStepResponseWrapped);
+  
+  // AI项目步骤反馈
+  rpc AiProjectStepFeedback(AiProjectStepFeedbackRequest) returns (stream AiProjectStepFeedbackResponseWrapped);
+}
+
+// 项目步骤类型
+enum AiProjectStepType {
+  AI_PROJECT_STEP_TYPE_UNSPECIFIED = 0;
+  AI_PROJECT_STEP_TYPE_READ_WRITE_FILE = 1;
+  AI_PROJECT_STEP_TYPE_RUN_TERM = 2;
+  AI_PROJECT_STEP_TYPE_CREATE_RM_FILES = 3;
+}
+
+// 初始化请求
+message AiProjectAgentInitRequest {
+  ModelDetails model_details = 1;
+  string prompt = 2;
+}
+
+// 消息载荷
+message MessagePayload {
+  string full_user_message = 1;
+  string full_bot_message = 2;
+}
+
+// AI项目澄清
+message AiProjectClarification {
+  oneof response {
+    string output = 1;
+    string thought = 2;
+    MessagePayload message_payload = 3;
+  }
+}
+
+// 澄清请求
+message AiProjectClarificationRequest {
+  ModelDetails model_details = 1;
+  string clarification_response = 2;
+  repeated Message previous_messages = 3;
+}
+
+// 澄清响应
+message AiProjectClarificationResponse {
+  oneof response {
+    AiProjectClarification clarification = 1;
+    bool repeat_clarification = 2;
+  }
+}
+
+// 计划请求
+message AiProjectAgentPlanRequest {
+  ModelDetails model_details = 1;
+  repeated Message previous_messages = 3;
+}
+
+// 计划响应
+message AiProjectAgentPlanResponse {
+  oneof response {
+    string thought = 1;
+    string output = 2;
+    MessagePayload message_payload = 3;
+  }
+}
+
+// 计划反馈请求
+message AiProjectPlanFeedbackRequest {
+  ModelDetails model_details = 1;
+  repeated Message previous_messages = 2;
+  string feedback_or_progress = 3;
+  bool force_move_to_next_step = 4;
+}
+
+// 计划反馈响应
+message AiProjectPlanFeedbackResponse {
+  oneof response {
+    AiProjectAgentPlanResponse revised_plan = 1;
+    bool repeat_feedback = 2;
+  }
+}
+
+// 任务分解请求
+message AiProjectBreakdownRequest {
+  ModelDetails model_details = 1;
+  string description = 2;
+  string spec = 3;
+}
+
+// 任务分解响应
+message AiProjectBreakdownResponse {
+  oneof response {
+    string thought = 1;
+    Step step = 2;
+    MessagePayload message_payload = 3;
+  }
+
+  message Step {
+    int32 step_number = 1;
+    string step_description = 2;
+    AiProjectStepType step_type = 3;
+  }
+}
+
+// 任务分解反馈请求
+message AiProjectBreakdownFeedbackRequest {
+  ModelDetails model_details = 1;
+  repeated Message previous_messages = 2;
+  string feedback_or_progress = 3;
+  bool force_move_to_next_step = 4;
+}
+
+// 任务分解反馈响应
+message AiProjectBreakdownFeedbackResponse {
+  oneof response {
+    AiProjectBreakdownResponse revised_breakdown = 1;
+    bool repeat_feedback = 2;
+  }
+}
+
+// 步骤请求
+message AiProjectStepRequest {
+  ModelDetails model_details = 1;
+  string step_description = 2;
+  string project_plan = 3;
+  repeated string project_breakdown = 4;
+  AiProjectStepType step_type = 5;
+  ShellType shell_type = 6;
+}
+
+// 步骤响应
+message AiProjectStepResponse {
+  oneof response {
+    string thought = 1;
+    string output = 2;
+    MessagePayload message_payload = 3;
+    StepPayload step_payload = 5;
+  }
+  AiProjectStepType step_type = 4;
+
+  message WriteCode {
+    string filename = 1;
+  }
+
+  message ReviseCode {
+    string thought = 1;
+  }
+
+  message RunTerm {
+    string command_batch_uuid = 1;
+    string command = 2;
+    string response = 3;
+    string text = 4;
+  }
+
+  message CreatingFiles {
+    oneof payload {
+      string filename = 1;
+      string directory = 2;
+    }
+  }
+
+  message Nothing {}
+
+  message StepPayload {
+    oneof payload {
+      WriteCode write_code = 5;
+      RunTerm run_term = 6;
+      CreatingFiles creating_files = 7;
+      ReviseCode revise_code = 8;
+    }
+  }
+}
+
+// 步骤响应包装
+message AiProjectStepResponseWrapped {
+  oneof response {
+    AiProjectStepResponse real_response = 1;
+    string background_task_uuid = 2;
+  }
+}
+
+// 步骤反馈请求
+message AiProjectStepFeedbackRequest {
+  ModelDetails model_details = 1;
+  string step_description = 2;
+  string project_plan = 3;
+  repeated string project_breakdown = 4;
+  AiProjectStepType step_type = 5;
+  ShellType shell_type = 6;
+  repeated Message previous_feedback_messages = 7;
+  bool force_move_to_next_step = 8;
+  
+  message ModifyCodePayload {
+    repeated string files_to_modify = 1;
+    string feedback_text = 2;
+  }
+  
+  oneof feedback_payload {
+    ModifyCodePayload modify_code_payload = 9;
+  }
+}
+
+// 步骤反馈响应
+message AiProjectStepFeedbackResponse {
+  oneof response {
+    AiProjectStepResponse response_from_feedback = 1;
+    bool repeat_feedback = 2;
+  }
+}
+
+// 步骤反馈响应包装
+message AiProjectStepFeedbackResponseWrapped {
+  oneof response {
+    AiProjectStepFeedbackResponse real_response = 1;
+    string background_task_uuid = 2;
+  }
+}
+
+// AI项目代理写代码
+message AiProjectAgentWriteCode {
+  string code = 2;
+  string path = 3;
+  MessagePayload message_payload = 4;
+}

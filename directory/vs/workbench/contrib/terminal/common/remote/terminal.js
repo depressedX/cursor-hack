@@ -70,5 +70,4 @@ define(de[3148], he([1, 0]), function (ce /*require*/,
 					(w.AcceptDetachedInstance = "$acceptDetachedInstance"),
 					(w.FreePortKillProcess = "$freePortKillProcess");
 			})(i || (e.RemoteTerminalChannelRequest = i = {}));
-		}),
-		
+		})

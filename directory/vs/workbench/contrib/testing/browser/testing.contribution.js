@@ -292,5 +292,4 @@ define(
 					}),
 					c.$Io.as(C.$No.Configuration).registerConfiguration(I.$QJc);
 			},
-		),
-		
+		)

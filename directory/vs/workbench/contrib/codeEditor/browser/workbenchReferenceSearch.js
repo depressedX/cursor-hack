@@ -44,5 +44,4 @@ define(
 						)),
 					(0, t.$qtb)(w.$EOb.ID, u, t.EditorContributionInstantiation.Lazy);
 			},
-		),
-		
+		)

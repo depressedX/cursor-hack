@@ -265,5 +265,4 @@ define(de[1562], he([1, 0, 164, 1157]), function (ce /*require*/,
 				}
 				return s === null ? b : s;
 			}
-		}),
-		
+		})

@@ -86,5 +86,4 @@ define(
 				};
 				(e.$IGc = u), (e.$IGc = u = Ne([j(2, d.$Li)], u));
 			},
-		),
-		
+		)

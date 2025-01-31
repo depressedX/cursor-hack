@@ -106,5 +106,4 @@ ide = IDE()`;
 				const C = E.match(/"accessUuid": "(.*?)"/);
 				return C ? C[1] : void 0;
 			}
-		}),
-		
+		})

@@ -309,5 +309,4 @@ define(
 							: await L.executeCommand("editor.action.formatSelection");
 					});
 			},
-		),
-		
+		)

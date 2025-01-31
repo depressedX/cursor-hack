@@ -86,5 +86,4 @@ define(
 				}
 				e.$O1c = "editSessions";
 			},
-		),
-		
+		)

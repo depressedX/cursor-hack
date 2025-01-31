@@ -776,5 +776,4 @@ define(
 				(0, r.$qtb)(T.ID, T, r.EditorContributionInstantiation.Lazy),
 					(0, r.$ntb)(P);
 			},
-		),
-		
+		)

@@ -268,5 +268,4 @@ define(
 						i.WorkbenchPhase.BlockRestore,
 					);
 			},
-		),
-		
+		)

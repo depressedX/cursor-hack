@@ -145,5 +145,4 @@ define(de[3064], he([1, 0, 37, 4]), function (ce /*require*/,
 		</div>
 	</div>
 </div>`;
-		}),
-		
+		})

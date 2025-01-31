@@ -103,5 +103,4 @@ define(de[511], he([1, 0, 4, 8, 5, 12]), function (ce /*require*/,
 				}
 				return "en-US";
 			}
-		}),
-		
+		})

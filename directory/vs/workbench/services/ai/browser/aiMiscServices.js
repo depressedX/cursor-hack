@@ -40,5 +40,4 @@ define(de[137], he([1, 0, 5]), function (ce /*require*/,
 				(e.$qfc = (0, t.$Mi)("backgroundCmdKService")),
 				(e.$rfc = (0, t.$Mi)("quickInputService2")),
 				(e.$sfc = (0, t.$Mi)("cppSuggestionService"));
-		}),
-		
+		})

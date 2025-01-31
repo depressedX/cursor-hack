@@ -14,5 +14,4 @@ define(de[1260], he([1, 0, 5, 1597]), function (ce /*require*/,
 			async function w(E, C = !1, d) {
 				return Promise.all((0, i.$i1c)(E, C).map((m) => d(m)));
 			}
-		}),
-		
+		})

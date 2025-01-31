@@ -29,5 +29,4 @@ define(
 						channelClientCtor: C.$l9c,
 					});
 			},
-		),
-		
+		)

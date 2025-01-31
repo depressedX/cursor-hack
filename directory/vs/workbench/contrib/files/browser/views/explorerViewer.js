@@ -1323,5 +1323,4 @@ define(
 								: `${fe.length} files and folders`;
 				}
 			},
-		),
-		
+		)

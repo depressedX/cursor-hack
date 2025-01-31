@@ -185,5 +185,4 @@ define(de[1488], he([1, 0, 86, 736]), function (ce /*require*/,
 				}
 			}
 			e.$abb = d;
-		}),
-		
+		})

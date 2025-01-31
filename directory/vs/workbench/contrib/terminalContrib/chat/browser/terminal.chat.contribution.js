@@ -27,5 +27,4 @@ define(
 					E.$Whc.register(new C.$6Vc()),
 					(0, d.$s6)(m.$8Vc.Id, m.$8Vc, d.WorkbenchPhase.AfterRestored);
 			},
-		),
-		
+		)

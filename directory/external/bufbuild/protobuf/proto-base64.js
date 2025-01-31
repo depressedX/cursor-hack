@@ -78,5 +78,4 @@ define(de[1084], he([1, 0]), function (ce /*require*/,
 						return C && ((E += t[m]), (E += "="), C == 1 && (E += "=")), E;
 					},
 				});
-		}),
-		
+		})

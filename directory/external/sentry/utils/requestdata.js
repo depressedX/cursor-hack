@@ -196,5 +196,4 @@ define(
 					return { method: b.method, url: b.url, headers: s };
 				}
 			},
-		),
-		
+		)

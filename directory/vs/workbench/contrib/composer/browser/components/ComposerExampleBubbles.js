@@ -100,5 +100,4 @@ define(
 					};
 				e.ComposerExampleBubbles = u;
 			},
-		),
-		
+		)

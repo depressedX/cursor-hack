@@ -33,5 +33,4 @@ define(de[244], he([1, 0, 5, 30]), function (ce /*require*/,
 				}
 			}
 			i.$Io.add(w.ExtensionFeaturesRegistry, new E());
-		}),
-		
+		})

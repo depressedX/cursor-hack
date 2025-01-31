@@ -50,5 +50,4 @@ define(
 					(e.$tyc = r = Ne([j(0, w.$iP), j(1, E.$ik), j(2, i.$nM)], r)),
 					(0, m.$lK)(d.$hPb, r, m.InstantiationType.Delayed);
 			},
-		),
-		
+		)

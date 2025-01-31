@@ -24,5 +24,4 @@ define(de[412], he([1, 0]), function (ce /*require*/,
 						return this._implementations;
 					}
 				})());
-		}),
-		
+		})

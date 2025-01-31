@@ -254,5 +254,4 @@ define(
 					return $.replace(/\r\n|\r|\n/g, " ");
 				}
 			},
-		),
-		
+		)

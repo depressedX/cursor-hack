@@ -181,5 +181,4 @@ define(
 					return i.$7g.asBrowserUri(b).toString(!0);
 				}
 			},
-		),
-		
+		)

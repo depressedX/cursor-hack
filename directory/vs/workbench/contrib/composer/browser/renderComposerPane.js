@@ -174,5 +174,4 @@ define(
 					);
 				e.renderComposerPane = g;
 			},
-		),
-		
+		)

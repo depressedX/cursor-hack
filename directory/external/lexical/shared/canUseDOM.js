@@ -9,5 +9,4 @@ define(de[1415], he([1, 0]), function (ce /*require*/,
 					typeof window < "u" &&
 					typeof window.document < "u" &&
 					typeof window.document.createElement < "u");
-		}),
-		
+		})

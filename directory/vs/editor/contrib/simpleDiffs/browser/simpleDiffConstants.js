@@ -7,5 +7,4 @@ define(de[1555], he([1, 0]), function (ce /*require*/,
 				(e.$Ylc = e.$Xlc = void 0),
 				(e.$Xlc = "editor.action.simpleInlineDiffs.acceptAll"),
 				(e.$Ylc = "editor.action.simpleInlineDiffs.rejectAll");
-		}),
-		
+		})

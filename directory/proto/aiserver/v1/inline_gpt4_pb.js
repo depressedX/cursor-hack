@@ -149,5 +149,4 @@ define(de[1485], he([1, 0, 86, 83, 272]), function (ce /*require*/,
 						{ no: 1, name: "CONTEXT_TYPE_RECENT_LOCATIONS" },
 					],
 				);
-		}),
-		
+		})

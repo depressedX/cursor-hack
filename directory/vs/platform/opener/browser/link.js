@@ -105,5 +105,4 @@ define(
 				};
 				(e.Link = h), (e.Link = h = Ne([j(3, a.$Uyb), j(4, r.$7rb)], h));
 			},
-		),
-		
+		)

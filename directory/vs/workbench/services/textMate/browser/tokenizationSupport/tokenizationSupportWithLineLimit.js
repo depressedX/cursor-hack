@@ -39,5 +39,4 @@ define(de[3670], he([1, 0, 1175, 3, 77]), function (ce /*require*/,
 				}
 			}
 			e.$vyc = E;
-		}),
-		
+		})

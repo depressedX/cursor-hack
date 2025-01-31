@@ -47,5 +47,4 @@ define(
 				(e.$zTc = m),
 					(e.$zTc = m = Ne([j(0, t.$q2), j(1, i.$8N), j(2, C.$ik)], m));
 			},
-		),
-		
+		)

@@ -54,5 +54,4 @@ define(de[1355], he([1, 0, 3, 481]), function (ce /*require*/,
 				}
 			}
 			(e.$EIc = w), i.$XYb.CONTRIBS.push(w);
-		}),
-		
+		})

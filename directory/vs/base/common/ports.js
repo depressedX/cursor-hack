@@ -7,5 +7,4 @@ define(de[1501], he([1, 0]), function (ce /*require*/,
 			function t() {
 				return 1025 + Math.floor(64510 * Math.random());
 			}
-		}),
-		
+		})

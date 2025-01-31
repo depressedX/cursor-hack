@@ -16,5 +16,4 @@ define(de[1156], he([1, 0]), function (ce /*require*/,
 					? C
 					: w.getColorTheme().semanticHighlighting;
 			}
-		}),
-		
+		})

@@ -1009,5 +1009,4 @@ define(
 				(e.$QCc = N),
 					(e.$QCc = N = Ne([j(1, f.$iP), j(2, o.$Wxb), j(3, v.$Uyb)], N));
 			},
-		),
-		
+		)

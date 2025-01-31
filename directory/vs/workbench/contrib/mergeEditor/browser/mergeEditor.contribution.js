@@ -95,5 +95,4 @@ define(
 						.registerWorkbenchContribution(c.$URc, n.LifecyclePhase.Restored),
 					(0, m.$s6)(c.$VRc.ID, c.$VRc, m.WorkbenchPhase.BlockStartup);
 			},
-		),
-		
+		)

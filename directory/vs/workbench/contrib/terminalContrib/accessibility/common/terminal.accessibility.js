@@ -19,5 +19,4 @@ define(de[995], he([1, 0]), function (ce /*require*/,
 						"workbench.action.terminal.scrollToTopAccessibleView");
 			})(t || (e.TerminalAccessibilityCommandId = t = {})),
 				(e.$deb = [t.FocusAccessibleBuffer]);
-		}),
-		
+		})

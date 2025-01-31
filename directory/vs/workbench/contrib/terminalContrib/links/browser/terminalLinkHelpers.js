@@ -134,5 +134,4 @@ define(de[562], he([1, 0, 12, 54, 189]), function (ce /*require*/,
 			function u(a) {
 				return a === t.OperatingSystem.Windows ? i.$kc : i.$lc;
 			}
-		}),
-		
+		})

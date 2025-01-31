@@ -165,5 +165,4 @@ define(de[1159], he([1, 0, 164]), function (ce /*require*/,
 					s = u.registerNodeTransform(h, f);
 				return [b, s];
 			}
-		}),
-		
+		})

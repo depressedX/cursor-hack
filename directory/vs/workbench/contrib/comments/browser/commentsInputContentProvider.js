@@ -66,5 +66,4 @@ define(
 					(e.$mSc = a =
 						Ne([j(0, m.$MO), j(1, w.$dtb), j(2, d.$QO), j(3, C.$nM)], a));
 			},
-		),
-		
+		)

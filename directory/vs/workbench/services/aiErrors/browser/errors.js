@@ -47,5 +47,4 @@ define(de[1286], he([1, 0, 340, 83, 58]), function (ce /*require*/,
 				}
 			}
 			e.$Q6b = E;
-		}),
-		
+		})

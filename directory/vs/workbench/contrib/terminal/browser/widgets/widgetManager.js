@@ -32,5 +32,4 @@ define(de[1760], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$pLc = t;
-		}),
-		
+		})

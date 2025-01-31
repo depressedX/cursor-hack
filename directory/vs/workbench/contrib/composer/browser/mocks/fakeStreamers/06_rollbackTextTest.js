@@ -136,5 +136,4 @@ These changes simplify the rollback process to focus solely on marking a specifi
 To use this new rollback process, you would trigger the workflow with the backend tag you want to mark as bad. The workflow will then use \`setMemorydbRollbackFlags.ts\` to mark that tag as bad in MemoryDB and send a Slack notification about the action.
 You'll need to update the \`deploy.js\` script to trigger this workflow with the correct inputs when the rollback command is issued.`,
 				});
-		}),
-		
+		})

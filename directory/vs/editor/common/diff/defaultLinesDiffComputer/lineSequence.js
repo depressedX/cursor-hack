@@ -41,5 +41,4 @@ define(de[2551], he([1, 0, 120]), function (ce /*require*/,
 					C++;
 				return C;
 			}
-		}),
-		
+		})

@@ -22,5 +22,4 @@ define(de[265], he([1, 0, 6]), function (ce /*require*/,
 				}
 			}
 			e.$mib = i;
-		}),
-		
+		})

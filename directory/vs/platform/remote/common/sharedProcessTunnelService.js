@@ -9,5 +9,4 @@ define(de[1637], he([1, 0, 5]), function (ce /*require*/,
 				(e.$q9c = e.$p9c = void 0),
 				(e.$p9c = (0, t.$Mi)("sharedProcessTunnelService")),
 				(e.$q9c = "sharedProcessTunnel");
-		}),
-		
+		})

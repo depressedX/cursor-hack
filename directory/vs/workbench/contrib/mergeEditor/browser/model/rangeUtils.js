@@ -43,5 +43,4 @@ define(de[1739], he([1, 0, 48, 458]), function (ce /*require*/,
 						r.endColumn <= u.startColumn)
 				);
 			}
-		}),
-		
+		})

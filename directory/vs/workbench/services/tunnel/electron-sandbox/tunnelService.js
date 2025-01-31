@@ -134,5 +134,4 @@ define(
 						)),
 					(0, w.$lK)(E.$cO, g, w.InstantiationType.Delayed);
 			},
-		),
-		
+		)

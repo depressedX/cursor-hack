@@ -91,5 +91,4 @@ define(
 						)),
 					(0, r.$lK)(t.$2rb, n, r.InstantiationType.Eager);
 			},
-		),
-		
+		)

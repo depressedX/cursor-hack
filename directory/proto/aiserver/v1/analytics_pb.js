@@ -150,5 +150,4 @@ define(de[1466], he([1, 0, 86]), function (ce /*require*/,
 				}
 			}
 			e.$gbb = C;
-		}),
-		
+		})

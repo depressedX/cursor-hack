@@ -18,5 +18,4 @@ define(de[2793], he([1, 0]), function (ce /*require*/,
 					request: "vscode:createSharedProcessRawConnection",
 					response: "vscode:createSharedProcessRawConnectionResult",
 				});
-		}),
-		
+		})

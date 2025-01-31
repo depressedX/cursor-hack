@@ -73,5 +73,4 @@ define(de[770], he([1, 0, 83, 90]), function (ce /*require*/,
 					owner: d,
 				};
 			}
-		}),
-		
+		})

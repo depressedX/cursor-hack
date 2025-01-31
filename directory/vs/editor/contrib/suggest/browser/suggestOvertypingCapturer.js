@@ -60,5 +60,4 @@ define(de[2591], he([1, 0, 3]), function (ce /*require*/,
 				}
 			}
 			e.$dDb = i;
-		}),
-		
+		})

@@ -303,5 +303,4 @@ define(
 				}
 				d.$Io.as(C.$No.Configuration).registerConfiguration(m);
 			},
-		),
-		
+		)

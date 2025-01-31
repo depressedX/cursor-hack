@@ -1193,5 +1193,4 @@ define(de[123], he([1, 0, 4, 51, 97, 212]), function (ce /*require*/,
 					{ dark: null, light: null, hcDark: i.$OP, hcLight: i.$OP },
 					(0, t.localize)(4236, null),
 				));
-		}),
-		
+		})

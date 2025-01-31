@@ -63,5 +63,4 @@ define(
 				}
 				e.BrowserMetricsAggregator = m;
 			},
-		),
-		
+		)

@@ -70,5 +70,4 @@ define(
 				};
 				e.useComposerContextSideEffects = C;
 			},
-		),
-		
+		)

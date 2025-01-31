@@ -42,5 +42,4 @@ define(
 				};
 				(e.$NTc = C), (e.$NTc = C = Ne([j(0, i.$Bk)], C));
 			},
-		),
-		
+		)

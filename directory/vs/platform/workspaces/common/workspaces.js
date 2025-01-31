@@ -226,5 +226,4 @@ define(
 					return D;
 				}
 			},
-		),
-		
+		)

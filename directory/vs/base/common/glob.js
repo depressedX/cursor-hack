@@ -480,5 +480,4 @@ define(
 					if (W.length !== 0) return `{${W.join(",")}}`;
 				}
 			},
-		),
-		
+		)

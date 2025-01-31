@@ -6,5 +6,4 @@ define(de[3991], he([1, 0, 3990]), function (ce /*require*/,
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 });
 			const t = !0;
-		}),
-		
+		})

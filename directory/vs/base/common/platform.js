@@ -209,5 +209,4 @@ define(de[12], he([1, 0, 4]), function (ce /*require*/,
 			function L(D) {
 				return parseFloat(D) >= 20;
 			}
-		}),
-		
+		})

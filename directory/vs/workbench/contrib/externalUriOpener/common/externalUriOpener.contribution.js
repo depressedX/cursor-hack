@@ -26,5 +26,4 @@ define(
 						.as(t.$No.Configuration)
 						.registerConfiguration(E.externalUriOpenersConfigurationNode);
 			},
-		),
-		
+		)

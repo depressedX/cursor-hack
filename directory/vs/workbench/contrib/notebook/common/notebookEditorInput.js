@@ -319,5 +319,4 @@ ${D}`);
 					return !!S && typeof S == "object" && S.typeId === y.ID;
 				}
 			},
-		),
-		
+		)

@@ -646,5 +646,4 @@ define(
 				(Y = Ne([j(0, a.$Li), j(1, k.$bZ)], Y)),
 					(0, g.$s6)(Y.ID, Y, g.WorkbenchPhase.BlockRestore);
 			},
-		),
-		
+		)

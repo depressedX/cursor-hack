@@ -20,5 +20,4 @@ define(de[576], he([1, 0]), function (ce /*require*/,
 				} catch {}
 			};
 			e.observe = t;
-		}),
-		
+		})

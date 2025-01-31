@@ -27,5 +27,4 @@ define(de[802], he([1, 0, 8]), function (ce /*require*/,
 				(e.$D4b = new t.$5j("outlineFiltersOnType", !1)),
 				(e.$E4b = new t.$5j("outlineSortMode", i.ByPosition)),
 				(e.$F4b = new t.$5j("outlineAllCollapsed", !1));
-		}),
-		
+		})

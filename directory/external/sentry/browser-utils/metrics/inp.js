@@ -115,5 +115,4 @@ define(
 						(0, w.addPerformanceInstrumentationHandler)("first-input", c);
 				}
 			},
-		),
-		
+		)

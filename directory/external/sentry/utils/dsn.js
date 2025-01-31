@@ -88,5 +88,4 @@ define(de[1431], he([1, 0, 577, 527]), function (ce /*require*/,
 				const h = typeof a == "string" ? d(a) : m(a);
 				if (!(!h || !r(h))) return h;
 			}
-		}),
-		
+		})

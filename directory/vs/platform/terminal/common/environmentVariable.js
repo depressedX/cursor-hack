@@ -11,5 +11,4 @@ define(de[1654], he([1, 0]), function (ce /*require*/,
 					(i[(i.Append = 2)] = "Append"),
 					(i[(i.Prepend = 3)] = "Prepend");
 			})(t || (e.EnvironmentVariableMutatorType = t = {}));
-		}),
-		
+		})

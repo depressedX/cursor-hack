@@ -47,5 +47,4 @@ define(de[1598], he([1, 0, 28, 4]), function (ce /*require*/,
 				};
 				for (const a in d) d.hasOwnProperty(a) && u(d, a);
 			}
-		}),
-		
+		})

@@ -16,5 +16,4 @@ define(de[4155], he([1, 0, 13, 36]), function (ce /*require*/,
 					() => m.getComposerData(E())?.selectedBubbleId === C(),
 				);
 			}
-		}),
-		
+		})

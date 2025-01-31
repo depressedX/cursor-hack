@@ -87,5 +87,4 @@ define(
 				(e.$JQc = d),
 					(e.$JQc = d = Ne([j(0, E.$75), j(1, w.$8N), j(2, C.$HMb)], d));
 			},
-		),
-		
+		)

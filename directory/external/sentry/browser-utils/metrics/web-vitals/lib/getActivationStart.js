@@ -12,5 +12,4 @@ define(de[728], he([1, 0, 883]), function (ce /*require*/,
 				return (w && w.activationStart) || 0;
 			};
 			e.getActivationStart = i;
-		}),
-		
+		})

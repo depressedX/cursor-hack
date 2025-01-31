@@ -79,5 +79,4 @@ define(
 						)),
 					(0, i.$qtb)(o.CONTRIB_ID, o, i.EditorContributionInstantiation.Eager);
 			},
-		),
-		
+		)

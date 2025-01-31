@@ -179,5 +179,4 @@ define(
 				})(b || (e.SearchUIState = b = {})),
 					(e.$R7 = new u.$5j("searchState", b.Idle));
 			},
-		),
-		
+		)

@@ -11,5 +11,4 @@ define(de[1750], he([1, 0]), function (ce /*require*/,
 				HIGH_SCORING_THRESHOLD: 100,
 				HIGH_SCORING_CAP_ITEMS: 6,
 			};
-		}),
-		
+		})

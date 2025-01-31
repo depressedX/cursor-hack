@@ -667,5 +667,4 @@ define(
 					return (0, E.createStore)(L);
 				}
 			},
-		),
-		
+		)

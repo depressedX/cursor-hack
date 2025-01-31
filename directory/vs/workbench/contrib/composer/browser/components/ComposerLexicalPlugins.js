@@ -78,5 +78,4 @@ define(
 				};
 				e.ComposerArrowPlugin = d;
 			},
-		),
-		
+		)

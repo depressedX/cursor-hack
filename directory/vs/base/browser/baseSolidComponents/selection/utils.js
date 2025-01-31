@@ -26,5 +26,4 @@ define(de[2653], he([1, 0, 115, 739]), function (ce /*require*/,
 			for (const u of m) if (!r.has(u)) return !1;
 			return !0;
 		}
-	}),
-		
+	})

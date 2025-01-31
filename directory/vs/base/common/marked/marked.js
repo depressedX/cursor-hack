@@ -2109,5 +2109,4 @@ Please report this to https://github.com/markedjs/marked.`),
 				(ce.setOptions = Oe),
 				(ce.use = xe),
 				(ce.walkTokens = He);
-		}),
-		
+		})

@@ -40,5 +40,4 @@ define(de[1824], he([1, 0, 31, 24, 46, 11]), function (ce /*require*/,
 				for (const a of t.$fk.getCommands().keys()) u(a, !1);
 				return m;
 			}
-		}),
-		
+		})

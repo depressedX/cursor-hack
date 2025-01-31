@@ -21,5 +21,4 @@ define(de[2072], he([1, 0]), function (ce /*require*/,
 						? i
 						: "log";
 			}
-		}),
-		
+		})

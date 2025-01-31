@@ -418,5 +418,4 @@ define(
 						p.ClientSideToolV2.DELETE_FILE,
 					]);
 			},
-		),
-		
+		)

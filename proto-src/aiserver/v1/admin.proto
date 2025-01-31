@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+package aiserver.v1;
+
+// AdminService 提供管理员相关的操作接口
+service AdminService {
+  // DeleteUser 删除用户
+  rpc DeleteUser(DeleteUserRequest) returns (DeleteUserResponse);
+  
+  // RunTailscaleSSH 运行 Tailscale SSH
+  rpc RunTailscaleSSH(RunTailscaleSSHRequest) returns (RunTailscaleSSHResponse);
+  
+  // AddAuthIdsToTeam 将认证ID添加到团队
+  rpc AddAuthIdsToTeam(AddAuthIdsToTeamRequest) returns (AddAuthIdsToTeamResponse);
+}
+
+// DeleteUser 请求参数
+message DeleteUserRequest {
+  string auth_id = 1;
+}
+
+// DeleteUser 响应
+message DeleteUserResponse {
+}
+
+// RunTailscaleSSH 请求参数
+message RunTailscaleSSHRequest {
+}
+
+// RunTailscaleSSH 响应
+message RunTailscaleSSHResponse {
+}
+
+// AddAuthIdsToTeam 请求参数
+message AddAuthIdsToTeamRequest {
+  int32 team_id = 1;
+  repeated string auth_ids = 2;
+  repeated string workos_ids = 3;
+}
+
+// AddAuthIdsToTeam 响应
+message AddAuthIdsToTeamResponse {
+}

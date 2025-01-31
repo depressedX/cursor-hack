@@ -20,5 +20,4 @@ define(de[653], he([1, 0, 6]), function (ce /*require*/,
 				}
 			}
 			e.$rsb = new i();
-		}),
-		
+		})

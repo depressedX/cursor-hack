@@ -553,5 +553,4 @@ define(
 					return x.isDraggedOver;
 				}
 			},
-		),
-		
+		)

@@ -14,5 +14,4 @@ define(de[558], he([1, 0, 11]), function (ce /*require*/,
 				(e.$E9b = "notepad-add-context-button-in-bottom-pane"),
 				(e.$F9b = "Unnamed Notepad"),
 				(e.$G9b = 600);
-		}),
-		
+		})

@@ -45,5 +45,4 @@ define(de[2090], he([1, 0, 80, 878, 366]), function (ce /*require*/,
 			function r(...u) {
 				return C("setTimeout")(...u);
 			}
-		}),
-		
+		})

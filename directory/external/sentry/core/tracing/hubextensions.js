@@ -10,5 +10,4 @@ define(de[2122], he([1, 0, 1445]), function (ce /*require*/,
 			function i() {
 				(0, t.registerSpanErrorInstrumentation)();
 			}
-		}),
-		
+		})

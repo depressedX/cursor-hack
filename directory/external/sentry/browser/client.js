@@ -76,5 +76,4 @@ define(
 				}
 				e.BrowserClient = r;
 			},
-		),
-		
+		)

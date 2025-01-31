@@ -555,5 +555,4 @@ define(
 						.map((B) => B.getEndPosition());
 				}
 			},
-		),
-		
+		)

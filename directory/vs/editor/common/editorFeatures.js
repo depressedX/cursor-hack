@@ -13,5 +13,4 @@ define(de[588], he([1, 0]), function (ce /*require*/,
 			function w() {
 				return t.slice(0);
 			}
-		}),
-		
+		})

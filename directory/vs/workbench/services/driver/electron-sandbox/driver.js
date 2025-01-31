@@ -32,5 +32,4 @@ define(
 					Object.assign(t.$Bfb, { driver: u.createInstance(m, a) });
 				}
 			},
-		),
-		
+		)

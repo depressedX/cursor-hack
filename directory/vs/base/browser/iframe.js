@@ -79,5 +79,4 @@ define(de[1126], he([1, 0]), function (ce /*require*/,
 					.join("");
 				return BigInt(`0x${r}`).toString(32).padStart(52, "0");
 			}
-		}),
-		
+		})

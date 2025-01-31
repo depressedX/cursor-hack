@@ -369,5 +369,4 @@ define(
 						run: (I) => S.get(I)?.clearSuggestCache(),
 					});
 			},
-		),
-		
+		)

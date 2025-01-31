@@ -96,5 +96,4 @@ define(
 						t.localize(2362, null),
 					));
 			},
-		),
-		
+		)

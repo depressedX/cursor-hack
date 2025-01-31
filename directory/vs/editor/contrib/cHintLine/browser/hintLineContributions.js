@@ -178,5 +178,4 @@ define(
 							Ne([j(1, w.$6j), j(2, E.$Li), j(3, u.$0zb), j(4, c.$J7b)], f)),
 					(0, t.$qtb)(f.ID, f, t.EditorContributionInstantiation.Eventually);
 			},
-		),
-		
+		)

@@ -242,5 +242,4 @@ ${F}\`\`\``
 				const D = (M) => `agentic-mode-toggle-${M}`;
 				e.getAgenticModeToggleButtonId = D;
 			},
-		),
-		
+		)

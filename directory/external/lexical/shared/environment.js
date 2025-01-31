@@ -39,5 +39,4 @@ define(de[1416], he([1, 0, 1415]), function (ce /*require*/,
 					t.CAN_USE_DOM &&
 					/AppleWebKit\/[\d.]+/.test(navigator.userAgent) &&
 					!e.IS_CHROME);
-		}),
-		
+		})

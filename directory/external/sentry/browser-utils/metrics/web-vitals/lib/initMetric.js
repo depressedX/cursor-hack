@@ -40,5 +40,4 @@ define(
 				};
 				e.initMetric = C;
 			},
-		),
-		
+		)

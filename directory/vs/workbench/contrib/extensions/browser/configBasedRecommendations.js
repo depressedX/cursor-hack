@@ -84,5 +84,4 @@ define(
 				};
 				(e.$LTc = m), (e.$LTc = m = Ne([j(0, t.$Lp), j(1, C.$Vi)], m));
 			},
-		),
-		
+		)

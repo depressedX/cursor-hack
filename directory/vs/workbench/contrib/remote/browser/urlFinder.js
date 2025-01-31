@@ -126,5 +126,4 @@ define(de[3126], he([1, 0, 6, 3, 37]), function (ce /*require*/,
 				}
 			}
 			e.$duc = E;
-		}),
-		
+		})

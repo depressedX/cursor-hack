@@ -93,5 +93,4 @@ define(
 					return f;
 				}
 			},
-		),
-		
+		)

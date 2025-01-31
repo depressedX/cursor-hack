@@ -18,5 +18,4 @@ define(de[553], he([1, 0, 3]), function (ce /*require*/,
 				}
 			}
 			e.$DTc = i;
-		}),
-		
+		})

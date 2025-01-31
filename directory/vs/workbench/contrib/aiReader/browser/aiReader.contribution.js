@@ -120,5 +120,4 @@ define(
 						i.EditorContributionInstantiation.AfterFirstRender,
 					);
 			},
-		),
-		
+		)

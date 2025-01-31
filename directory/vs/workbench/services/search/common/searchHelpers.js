@@ -83,5 +83,4 @@ define(de[1866], he([1, 0, 17, 186]), function (ce /*require*/,
 					a = r[r.length - 1].endLineNumber;
 				return { start: u, end: a };
 			}
-		}),
-		
+		})

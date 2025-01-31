@@ -342,5 +342,4 @@ define(
 						g.localize(1342, null),
 					);
 			},
-		),
-		
+		)

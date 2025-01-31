@@ -10,5 +10,4 @@ define(de[3881], he([1, 0, 55, 3880, 1341]), function (ce /*require*/,
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(0, t.$s6)(i.$l2c.ID, i.$l2c, t.WorkbenchPhase.BlockRestore);
-		}),
-		
+		})

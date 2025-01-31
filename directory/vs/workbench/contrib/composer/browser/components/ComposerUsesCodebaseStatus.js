@@ -185,5 +185,4 @@ define(
 					};
 				e.ComposerUsesCodebaseStatus = n;
 			},
-		),
-		
+		)

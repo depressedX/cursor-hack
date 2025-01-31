@@ -121,5 +121,4 @@ define(de[982], he([1, 0, 94, 19, 9, 441]), function (ce /*require*/,
 				}
 				return { newText: a, vulnerabilities: u };
 			}
-		}),
-		
+		})

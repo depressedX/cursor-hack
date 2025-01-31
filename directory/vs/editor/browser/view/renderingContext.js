@@ -114,5 +114,4 @@ define(de[746], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$wub = m;
-		}),
-		
+		})

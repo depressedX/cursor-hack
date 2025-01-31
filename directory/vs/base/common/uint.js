@@ -24,5 +24,4 @@ define(de[210], he([1, 0]), function (ce /*require*/,
 			function w(E) {
 				return E < 0 ? 0 : E > t.MAX_UINT_32 ? t.MAX_UINT_32 : E | 0;
 			}
-		}),
-		
+		})

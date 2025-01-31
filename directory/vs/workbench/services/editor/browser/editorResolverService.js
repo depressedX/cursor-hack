@@ -684,5 +684,4 @@ define(
 							)),
 					(0, o.$lK)(h.$E6, I, o.InstantiationType.Eager);
 			},
-		),
-		
+		)

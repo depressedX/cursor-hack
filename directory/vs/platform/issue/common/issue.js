@@ -21,5 +21,4 @@ define(de[769], he([1, 0, 5]), function (ce /*require*/,
 			})(w || (e.IssueSource = w = {})),
 				(e.$4Xb = (0, t.$Mi)("issueService")),
 				(e.$5Xb = (0, t.$Mi)("processService"));
-		}),
-		
+		})

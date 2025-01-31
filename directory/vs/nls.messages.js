@@ -12,5 +12,4 @@ define(de[1558], he([1, 0]), function (ce /*require*/,
 			function i() {
 				return globalThis._VSCODE_NLS_LANGUAGE;
 			}
-		}),
-		
+		})

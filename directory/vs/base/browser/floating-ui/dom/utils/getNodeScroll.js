@@ -11,5 +11,4 @@ define(de[928], he([1, 0, 324]), function (ce /*require*/,
 					? { scrollLeft: w.scrollLeft, scrollTop: w.scrollTop }
 					: { scrollLeft: w.pageXOffset, scrollTop: w.pageYOffset };
 			}
-		}),
-		
+		})

@@ -34,5 +34,4 @@ define(de[774], he([1, 0]), function (ce /*require*/,
 					m.map((r) => [r[0], { map: w(r[1]), descriptionMap: E(r[2]) }]),
 				);
 			}
-		}),
-		
+		})

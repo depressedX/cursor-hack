@@ -198,5 +198,4 @@ define(
 					s.remove(y, (0, a.getComposerDataStorageScope)(l));
 				}
 			},
-		),
-		
+		)

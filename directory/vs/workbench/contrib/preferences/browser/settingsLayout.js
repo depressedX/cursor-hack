@@ -320,5 +320,4 @@ define(de[1745], he([1, 0, 4]), function (ce /*require*/,
 				e.$wCc.set("powershell", "PowerShell"),
 				e.$wCc.set("javascript", "JavaScript"),
 				e.$wCc.set("typescript", "TypeScript");
-		}),
-		
+		})

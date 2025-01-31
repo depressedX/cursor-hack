@@ -28,5 +28,4 @@ define(de[1263], he([1, 0]), function (ce /*require*/,
 					t.ToggleFindCaseSensitive,
 					t.SearchWorkspace,
 				]);
-		}),
-		
+		})

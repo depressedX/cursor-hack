@@ -340,5 +340,4 @@ define(de[1856], he([1, 0, 4, 97, 28]), function (ce /*require*/,
 			function g(p, o) {
 				return d(p)(o);
 			}
-		}),
-		
+		})

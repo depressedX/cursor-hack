@@ -56,5 +56,4 @@ define(de[2825], he([1, 0, 6, 3, 189]), function (ce /*require*/,
 				}
 			}
 			e.$PHb = C;
-		}),
-		
+		})

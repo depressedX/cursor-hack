@@ -150,5 +150,4 @@ define(de[2972], he([1, 0, 13, 47]), function (ce /*require*/,
 				}
 			}
 			e.$Mcc = w;
-		}),
-		
+		})

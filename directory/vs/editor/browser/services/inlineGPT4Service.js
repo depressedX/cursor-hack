@@ -380,5 +380,4 @@ define(
 					return (p.uri = g.uri), (p.triggerPosition = g.triggerPosition), p;
 				}
 			},
-		),
-		
+		)

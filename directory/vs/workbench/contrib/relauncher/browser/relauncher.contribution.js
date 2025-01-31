@@ -219,5 +219,4 @@ define(
 				$.registerWorkbenchContribution(s, n.LifecyclePhase.Restored),
 					$.registerWorkbenchContribution(y, n.LifecyclePhase.Restored);
 			},
-		),
-		
+		)

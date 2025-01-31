@@ -634,5 +634,4 @@ define(
 					return n instanceof h ? null : n;
 				}
 			},
-		),
-		
+		)

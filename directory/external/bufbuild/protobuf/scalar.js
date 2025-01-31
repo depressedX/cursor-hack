@@ -27,5 +27,4 @@ define(de[429], he([1, 0]), function (ce /*require*/,
 			(function (w) {
 				(w[(w.BIGINT = 0)] = "BIGINT"), (w[(w.STRING = 1)] = "STRING");
 			})(i || (e.LongType = i = {}));
-		}),
-		
+		})

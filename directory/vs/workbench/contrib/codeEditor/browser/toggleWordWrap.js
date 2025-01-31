@@ -277,5 +277,4 @@ define(
 						group: "5_editor",
 					});
 			},
-		),
-		
+		)

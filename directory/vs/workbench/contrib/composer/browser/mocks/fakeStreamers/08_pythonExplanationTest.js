@@ -89,5 +89,4 @@ The script is designed to:
 - Allow dry runs to verify what would be copied
 - Use azcopy's sync functionality for efficient transfers`,
 				});
-		}),
-		
+		})

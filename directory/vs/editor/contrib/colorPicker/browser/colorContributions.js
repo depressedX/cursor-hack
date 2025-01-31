@@ -80,5 +80,4 @@ define(
 					),
 					a.$5Bb.register(m.$$Bb);
 			},
-		),
-		
+		)

@@ -9,5 +9,4 @@ define(de[583], he([1, 0, 487]), function (ce /*require*/,
 			function i(w) {
 				return ["top", "bottom"].includes((0, t.$Nlb)(w)) ? "x" : "y";
 			}
-		}),
-		
+		})

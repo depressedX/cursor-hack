@@ -77,5 +77,4 @@ define(de[3469], he([1, 0, 4, 11, 10, 70]), function (ce /*require*/,
 					a.profile === C.jupyter
 				);
 			}
-		}),
-		
+		})

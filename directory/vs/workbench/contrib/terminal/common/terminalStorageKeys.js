@@ -19,5 +19,4 @@ define(de[691], he([1, 0]), function (ce /*require*/,
 					(i.PinnedRecentCommandsPrefix = "terminal.pinnedRecentCommands"),
 					(i.TerminalSuggestSize = "terminal.integrated.suggestSize");
 			})(t || (e.TerminalStorageKeys = t = {}));
-		}),
-		
+		})

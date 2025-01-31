@@ -41,5 +41,4 @@ define(
 						a.markdownCodeblocks2Test,
 					]);
 			},
-		),
-		
+		)

@@ -2918,5 +2918,4 @@ define(
 					Ft.to = Xt;
 				})(ai || (e.LanguageModelToolDescription = ai = {}));
 			},
-		),
-		
+		)

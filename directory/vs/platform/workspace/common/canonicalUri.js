@@ -8,5 +8,4 @@ define(de[1671], he([1, 0, 5]), function (ce /*require*/,
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$8oc = void 0),
 				(e.$8oc = (0, t.$Mi)("canonicalUriIdentityService"));
-		}),
-		
+		})

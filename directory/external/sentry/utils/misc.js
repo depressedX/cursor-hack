@@ -107,5 +107,4 @@ define(de[727], he([1, 0, 528, 881, 365]), function (ce /*require*/,
 			function g(p) {
 				return Array.isArray(p) ? p : [p];
 			}
-		}),
-		
+		})

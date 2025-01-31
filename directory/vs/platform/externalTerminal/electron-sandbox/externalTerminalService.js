@@ -11,5 +11,4 @@ define(de[2734], he([1, 0, 5, 230]), function (ce /*require*/,
 				(e.IExternalTerminalService = void 0),
 				(e.IExternalTerminalService = (0, t.$Mi)("externalTerminal")),
 				(0, i.$Ubd)(e.IExternalTerminalService, "externalTerminal");
-		}),
-		
+		})

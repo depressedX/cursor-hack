@@ -28,5 +28,4 @@ define(de[149], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Y = t;
-		}),
-		
+		})

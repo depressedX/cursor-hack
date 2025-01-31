@@ -21,5 +21,4 @@ define(de[1384], he([1, 0, 867, 692]), function (ce /*require*/,
 						return i.TerminalChatContextKeys;
 					},
 				});
-		}),
-		
+		})

@@ -126,5 +126,4 @@ define(
 					return n instanceof u;
 				}
 			},
-		),
-		
+		)

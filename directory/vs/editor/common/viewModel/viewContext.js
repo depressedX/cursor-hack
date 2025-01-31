@@ -21,5 +21,4 @@ define(de[2579], he([1, 0, 2558]), function (ce /*require*/,
 				}
 			}
 			e.$xub = i;
-		}),
-		
+		})

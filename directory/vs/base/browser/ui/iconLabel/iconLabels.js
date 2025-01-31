@@ -33,5 +33,4 @@ define(de[182], he([1, 0, 7, 26]), function (ce /*require*/,
 				const m = t.$("span");
 				return m.classList.add(...i.ThemeIcon.asClassNameArray(d)), m;
 			}
-		}),
-		
+		})

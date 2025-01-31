@@ -49,5 +49,4 @@ define(de[1792], he([1, 0]), function (ce /*require*/,
 				}
 				return h.sort((c, n) => n.score - c.score), h;
 			}
-		}),
-		
+		})

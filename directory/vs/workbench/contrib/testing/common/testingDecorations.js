@@ -30,5 +30,4 @@ define(de[1772], he([1, 0, 24, 5]), function (ce /*require*/,
 				}
 			}
 			(e.$XKc = w), (e.$YKc = (0, i.$Mi)("testingDecorationService"));
-		}),
-		
+		})

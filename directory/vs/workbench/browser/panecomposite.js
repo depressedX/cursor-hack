@@ -176,5 +176,4 @@ define(
 					t.$Io.add(e.$4Sb.Panels, new o()),
 					t.$Io.add(e.$4Sb.Auxiliary, new o());
 			},
-		),
-		
+		)

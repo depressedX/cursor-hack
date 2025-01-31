@@ -97,5 +97,4 @@ define(de[3921], he([1, 0, 2, 337, 236]), function (ce /*require*/,
 					d[d.length - 1].ref.appendChild(h), d.push(n);
 				},
 			};
-		}),
-		
+		})

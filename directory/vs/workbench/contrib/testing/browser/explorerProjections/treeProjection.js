@@ -222,5 +222,4 @@ define(
 				};
 				(e.$bLc = g), (e.$bLc = g = Ne([j(1, a.$sqc), j(2, u.$Kqc)], g));
 			},
-		),
-		
+		)

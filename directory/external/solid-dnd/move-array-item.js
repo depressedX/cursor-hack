@@ -10,5 +10,4 @@ define(de[2153], he([1, 0]), function (ce /*require*/,
 				return C.splice(E, 0, ...C.splice(w, 1)), C;
 			};
 			e.moveArrayItem = t;
-		}),
-		
+		})

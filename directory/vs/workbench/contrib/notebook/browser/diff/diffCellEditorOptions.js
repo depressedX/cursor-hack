@@ -47,5 +47,4 @@ define(de[1253], he([1, 0]), function (ce /*require*/,
 					renderSideBySide: !0,
 					useInlineViewWhenSpaceIsLimited: !1,
 				});
-		}),
-		
+		})

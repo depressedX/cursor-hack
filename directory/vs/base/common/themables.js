@@ -86,5 +86,4 @@ define(de[26], he([1, 0, 14]), function (ce /*require*/,
 				}
 				C.isEqual = o;
 			})(E || (e.ThemeIcon = E = {}));
-		}),
-		
+		})

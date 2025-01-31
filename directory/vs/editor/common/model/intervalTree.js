@@ -744,5 +744,4 @@ define(de[946], he([1, 0, 64]), function (ce /*require*/,
 			function x(H, q, V, G) {
 				return H === V ? q - G : H - V;
 			}
-		}),
-		
+		})

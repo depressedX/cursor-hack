@@ -162,5 +162,4 @@ define(
 				};
 				(e.$sJc = p), (e.$sJc = p = g = Ne([j(1, a.$gj), j(2, h.$uZ)], p));
 			},
-		),
-		
+		)

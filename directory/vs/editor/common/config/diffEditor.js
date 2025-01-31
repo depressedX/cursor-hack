@@ -38,5 +38,4 @@ define(de[1525], he([1, 0]), function (ce /*require*/,
 					useInlineViewWhenSpaceIsLimited: !0,
 					compactMode: !1,
 				});
-		}),
-		
+		})

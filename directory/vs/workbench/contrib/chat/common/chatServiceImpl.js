@@ -873,5 +873,4 @@ define(
 					return H;
 				}
 			},
-		),
-		
+		)

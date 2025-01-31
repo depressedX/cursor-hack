@@ -184,5 +184,4 @@ define(de[2215], he([1, 0, 83, 1131]), function (ce /*require*/,
 				}
 			}
 			e.default = w;
-		}),
-		
+		})

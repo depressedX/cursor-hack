@@ -189,5 +189,4 @@ define(
 						{ withAltMod: !0, withCtrlMod: !0, withCmdMod: !0 },
 					);
 			},
-		),
-		
+		)

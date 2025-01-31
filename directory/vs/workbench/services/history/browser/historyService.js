@@ -1377,5 +1377,4 @@ ${x.join(`
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 });
 			const t = !0;
-		}),
-		
+		})

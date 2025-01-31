@@ -75,4 +75,5 @@ function lookupRecursively() {
   walk(["$Jv", "$Mv", "$Fv", "$Gv", "$Dv", "$Ev", "$Bv", "$Cv"]);
 }
 
-lookupRecursively();
+
+import './directory/proto/aiserver/v1/admin_connectweb.js'

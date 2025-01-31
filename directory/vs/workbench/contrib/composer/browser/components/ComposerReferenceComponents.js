@@ -305,5 +305,4 @@ define(
 				};
 				e.ComposerDocsReferenceComponent = v;
 			},
-		),
-		
+		)

@@ -55,5 +55,4 @@ define(de[107], he([1, 0, 5]), function (ce /*require*/,
 			(function (u) {
 				u.Terminals = "Terminals";
 			})(r || (e.TerminalDataTransfers = r = {}));
-		}),
-		
+		})

@@ -13,5 +13,4 @@ define(de[620], he([1, 0]), function (ce /*require*/,
 					(i[(i.GPT_FOUR_EDIT = 3)] = "GPT_FOUR_EDIT"),
 					(i[(i.COMPOSER = 4)] = "COMPOSER");
 			})(t || (e.CommandType = t = {}));
-		}),
-		
+		})

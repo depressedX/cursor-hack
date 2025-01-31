@@ -435,5 +435,4 @@ define(
 					return (0, u.$ndc)(() => (0, d.createComponent)(T, {}), L, M);
 				}
 			},
-		),
-		
+		)

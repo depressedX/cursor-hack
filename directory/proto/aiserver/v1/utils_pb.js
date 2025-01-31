@@ -2443,5 +2443,4 @@ define(de[83], he([1, 0, 86]), function (ce /*require*/,
 						{ no: 2, name: "SUMMARIZATION_STRATEGY_EMBEDDED" },
 					],
 				);
-		}),
-		
+		})

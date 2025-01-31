@@ -96,5 +96,4 @@ define(de[2784], he([1, 0, 76, 6, 3, 760]), function (ce /*require*/,
 				}
 			}
 			e.$coc = m;
-		}),
-		
+		})

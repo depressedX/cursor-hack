@@ -15,5 +15,4 @@ define(de[1013], he([1, 0, 5]), function (ce /*require*/,
 					(w[(w.SearchInformation = 3)] = "SearchInformation"),
 					(w[(w.SettingInformation = 4)] = "SettingInformation");
 			})(i || (e.RelatedInformationType = i = {}));
-		}),
-		
+		})

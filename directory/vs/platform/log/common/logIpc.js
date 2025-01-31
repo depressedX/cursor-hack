@@ -170,5 +170,4 @@ define(de[1620], he([1, 0, 9, 6, 34, 3]), function (ce /*require*/,
 				}
 			}
 			e.$2J = r;
-		}),
-		
+		})

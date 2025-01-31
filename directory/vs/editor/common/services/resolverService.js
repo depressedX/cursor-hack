@@ -12,5 +12,4 @@ define(de[42], he([1, 0, 5]), function (ce /*require*/,
 			function i(w) {
 				return !!w.textEditorModel;
 			}
-		}),
-		
+		})

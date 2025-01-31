@@ -169,5 +169,4 @@ define(
 						w.EditorContributionInstantiation.AfterFirstRender,
 					);
 			},
-		),
-		
+		)

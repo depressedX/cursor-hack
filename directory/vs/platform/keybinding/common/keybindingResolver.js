@@ -226,5 +226,4 @@ define(de[390], he([1, 0, 8]), function (ce /*require*/,
 						? "built-in"
 						: "user";
 			}
-		}),
-		
+		})

@@ -14,5 +14,4 @@ define(de[594], he([1, 0, 537]), function (ce /*require*/,
 			function w(E) {
 				return i(E) ? (E.nodeName || "").toLowerCase() : "";
 			}
-		}),
-		
+		})

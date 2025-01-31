@@ -112,5 +112,4 @@ define(de[3104], he([1, 0]), function (ce /*require*/,
 					return C;
 				};
 			e.$O2b = w;
-		}),
-		
+		})

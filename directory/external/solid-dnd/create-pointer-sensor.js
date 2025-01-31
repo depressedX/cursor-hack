@@ -73,5 +73,4 @@ define(de[2161], he([1, 0, 13, 580]), function (ce /*require*/,
 					};
 			};
 			e.createPointerSensor = w;
-		}),
-		
+		})

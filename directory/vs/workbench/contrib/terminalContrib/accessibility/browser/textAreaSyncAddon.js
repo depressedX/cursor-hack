@@ -80,5 +80,4 @@ define(
 					Ne([(0, t.$fi)(50)], r.prototype, "n", null),
 					(e.$MVc = r = Ne([j(1, E.$XK), j(2, C.$gj), j(3, m.$YJ)], r));
 			},
-		),
-		
+		)

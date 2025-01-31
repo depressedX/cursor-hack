@@ -185,5 +185,4 @@ define(de[194], he([1, 0]), function (ce /*require*/,
 			function w(E) {
 				return new t(E);
 			}
-		}),
-		
+		})

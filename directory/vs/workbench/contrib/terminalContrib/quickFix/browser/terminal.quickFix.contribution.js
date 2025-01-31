@@ -95,5 +95,4 @@ define(
 						run: (f) => p.get(f)?.addon?.showMenu(),
 					});
 			},
-		),
-		
+		)

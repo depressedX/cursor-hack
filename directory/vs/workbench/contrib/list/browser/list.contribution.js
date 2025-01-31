@@ -25,5 +25,4 @@ define(de[3430], he([1, 0, 8, 55, 11, 3072]), function (ce /*require*/,
 				(e.$v2c = C = Ne([j(0, t.$6j)], C)),
 				(0, i.$s6)(C.ID, C, i.WorkbenchPhase.BlockStartup),
 				(0, w.$4X)(E.$u2c);
-		}),
-		
+		})

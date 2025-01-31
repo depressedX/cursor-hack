@@ -42,5 +42,4 @@ define(de[1094], he([1, 0, 80]), function (ce /*require*/,
 						} else c += `&${encodeURIComponent(n)}=${encodeURIComponent(u[n])}`;
 				return `${h}?${c}`;
 			}
-		}),
-		
+		})

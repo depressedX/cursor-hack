@@ -8,5 +8,4 @@ define(de[1046], he([1, 0]), function (ce /*require*/,
 				i = (w, E) =>
 					w.key === E && !w.altKey && !w.shiftKey && !w.ctrlKey && !w.metaKey;
 			e.$dcc = i;
-		}),
-		
+		})

@@ -197,5 +197,4 @@ define(
 					return !!o && !!o.target;
 				}
 			},
-		),
-		
+		)

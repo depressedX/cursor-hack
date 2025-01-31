@@ -103,5 +103,4 @@ define(de[377], he([1, 0, 8]), function (ce /*require*/,
 					AIResultsVisibleKey: new t.$5j("AIResultsVisibleKey", !1),
 					hasAIResultProvider: new t.$5j("hasAIResultProviderKey", !1),
 				});
-		}),
-		
+		})

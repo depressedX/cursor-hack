@@ -29,5 +29,4 @@ define(de[762], he([1, 0]), function (ce /*require*/,
 				}
 				i.isFileSystemDirectoryHandle = d;
 			})(t || (e.WebFileSystemAccess = t = {}));
-		}),
-		
+		})

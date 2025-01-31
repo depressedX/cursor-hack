@@ -57,5 +57,4 @@ define(
 					m((0, t.$Hfb)(typeof h == "number" ? (0, i.$Ogb)() : h) - 1, h);
 				}
 			},
-		),
-		
+		)

@@ -135,5 +135,4 @@ Error:`,
 					return "duration" in A;
 				}
 			},
-		),
-		
+		)

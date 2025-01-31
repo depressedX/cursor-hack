@@ -325,5 +325,4 @@ define(
 						: (M ? `${D.username}: ` : "") + D.response.toString();
 				}
 			},
-		),
-		
+		)

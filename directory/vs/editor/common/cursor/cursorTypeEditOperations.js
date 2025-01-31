@@ -984,5 +984,4 @@ define(
 								H.autoSurround === "languageDefined";
 				}
 			},
-		),
-		
+		)

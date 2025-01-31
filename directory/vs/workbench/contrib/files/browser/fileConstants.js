@@ -78,5 +78,4 @@ define(de[554], he([1, 0, 4, 8]), function (ce /*require*/,
 				(e.$oVb = "workbench.action.files.newUntitledFile"),
 				(e.$pVb = t.localize2(6839, "New Untitled Text File")),
 				(e.$qVb = "workbench.action.files.newFile");
-		}),
-		
+		})

@@ -2245,5 +2245,4 @@ define(
 					return rt;
 				}
 			},
-		),
-		
+		)

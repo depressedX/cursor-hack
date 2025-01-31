@@ -173,5 +173,4 @@ ${c.$p1.getSourceLabel(v.source)}${v.sourceDescription ? ` (${v.sourceDescriptio
 								y,
 							));
 			},
-		),
-		
+		)

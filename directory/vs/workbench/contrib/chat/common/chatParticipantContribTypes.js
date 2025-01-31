@@ -6,5 +6,4 @@ define(de[981], he([1, 0]), function (ce /*require*/,
 			Object.defineProperty(e, "__esModule", { value: !0 }),
 				(e.$b3 = void 0),
 				(e.$b3 = "copilot");
-		}),
-		
+		})

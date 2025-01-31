@@ -213,5 +213,4 @@ define(
 					return new E.SimpleWorkerClient(new f(), y);
 				}
 			},
-		),
-		
+		)

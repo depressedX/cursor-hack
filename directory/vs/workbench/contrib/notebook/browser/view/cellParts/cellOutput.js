@@ -812,5 +812,4 @@ define(
 					"application/vnd.code.notebook.error",
 				];
 			},
-		),
-		
+		)

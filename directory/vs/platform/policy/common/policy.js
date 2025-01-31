@@ -60,5 +60,4 @@ define(de[940], he([1, 0, 6, 103, 3, 5]), function (ce /*require*/,
 				serialize() {}
 			}
 			e.$Mo = d;
-		}),
-		
+		})

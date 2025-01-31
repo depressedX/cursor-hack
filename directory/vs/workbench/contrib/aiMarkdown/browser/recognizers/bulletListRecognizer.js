@@ -55,5 +55,4 @@ define(de[2983], he([1, 0, 236]), function (ce /*require*/,
 							(d.style.paddingBottom = "2px");
 					},
 				});
-		}),
-		
+		})

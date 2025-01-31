@@ -184,5 +184,4 @@ define(de[64], he([1, 0, 82, 670]), function (ce /*require*/,
 			function y($) {
 				return !$.isTooLargeForSyncing() && !$.isForSimpleWidget;
 			}
-		}),
-		
+		})

@@ -239,5 +239,4 @@ define(de[3139], he([1, 0]), function (ce /*require*/,
 					{ predicate: (t, i) => t === "io.micronaut", tag: "micronaut" },
 					{ predicate: (t, i) => t.startsWith("org.graalvm"), tag: "graalvm" },
 				]);
-		}),
-		
+		})

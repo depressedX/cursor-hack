@@ -122,5 +122,4 @@ define(
 					return { group: o, editor: f };
 				}
 			},
-		),
-		
+		)

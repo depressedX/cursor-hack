@@ -31,5 +31,4 @@ define(
 						.as(i.$a1.EditorFactory)
 						.registerEditorSerializer(E.$QDc.ID, d.$SDc);
 			},
-		),
-		
+		)

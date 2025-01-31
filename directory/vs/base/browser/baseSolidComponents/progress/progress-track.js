@@ -19,5 +19,4 @@ define(de[2621], he([1, 0, 2, 2, 494, 738]), function (ce /*require*/,
 					(0, i.mergeProps)({ as: "div" }, () => m.dataset(), d),
 				);
 			}
-		}),
-		
+		})

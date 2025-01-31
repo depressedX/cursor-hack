@@ -83,5 +83,4 @@ define(
 					(e.$Imc = u =
 						Ne([(0, d.$tmc)(C.$lbb.MainThreadEmbeddings), j(1, m)], u));
 			},
-		),
-		
+		)

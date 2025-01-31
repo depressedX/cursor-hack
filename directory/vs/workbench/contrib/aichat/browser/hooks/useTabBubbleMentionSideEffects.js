@@ -42,5 +42,4 @@ define(de[4401], he([1, 0, 140, 1712, 2011]), function (ce /*require*/,
 				);
 			};
 			e.$qbc = E;
-		}),
-		
+		})

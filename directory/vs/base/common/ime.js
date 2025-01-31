@@ -24,5 +24,4 @@ define(de[1502], he([1, 0, 6]), function (ce /*require*/,
 				}
 			}
 			(e.$Vpb = i), (e.IME = new i());
-		}),
-		
+		})

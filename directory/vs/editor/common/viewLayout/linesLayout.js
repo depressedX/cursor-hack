@@ -443,5 +443,4 @@ define(de[2577], he([1, 0, 37]), function (ce /*require*/,
 				}
 			}
 			e.$gwb = E;
-		}),
-		
+		})

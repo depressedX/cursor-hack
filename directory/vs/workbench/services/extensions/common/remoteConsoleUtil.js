@@ -41,5 +41,4 @@ define(de[3377], he([1, 0, 1560]), function (ce /*require*/,
 					/ $/.test(d) || (d = `${d} `),
 					E.error(d + r, ...m));
 			}
-		}),
-		
+		})

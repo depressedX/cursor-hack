@@ -194,5 +194,4 @@ define(
 					P && P.captureUserFeedback(T);
 				}
 			},
-		),
-		
+		)

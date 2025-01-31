@@ -659,5 +659,4 @@ define(de[1506], he([1, 0, 903]), function (ce /*require*/,
 					sortPercentage: (0, t.$8j)("sort-percentage", 60467),
 					attach: (0, t.$8j)("attach", 60468),
 				});
-		}),
-		
+		})

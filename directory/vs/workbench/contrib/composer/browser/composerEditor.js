@@ -187,5 +187,4 @@ define(
 				}
 				e.ComposerEditorContribution = l;
 			},
-		),
-		
+		)

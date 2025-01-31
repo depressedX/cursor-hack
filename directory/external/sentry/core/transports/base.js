@@ -82,5 +82,4 @@ define(de[2100], he([1, 0, 80, 263]), function (ce /*require*/,
 				if (!(d !== "event" && d !== "transaction"))
 					return Array.isArray(C) ? C[1] : void 0;
 			}
-		}),
-		
+		})

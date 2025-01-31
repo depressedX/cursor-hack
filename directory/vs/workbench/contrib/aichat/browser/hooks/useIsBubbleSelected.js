@@ -15,5 +15,4 @@ define(de[1233], he([1, 0, 13, 140]), function (ce /*require*/,
 				);
 			};
 			e.$4ac = w;
-		}),
-		
+		})

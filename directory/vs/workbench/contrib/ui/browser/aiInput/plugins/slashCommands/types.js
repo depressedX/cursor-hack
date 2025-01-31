@@ -20,5 +20,4 @@ define(de[1005], he([1, 0, 1776]), function (ce /*require*/,
 				}
 			}
 			e.$o_b = i;
-		}),
-		
+		})

@@ -52,5 +52,4 @@ define(
 				};
 				e.createDroppable = C;
 			},
-		),
-		
+		)

@@ -1464,5 +1464,4 @@ define(
 						g.EditorContributionInstantiation.AfterFirstRender,
 					);
 			},
-		),
-		
+		)

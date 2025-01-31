@@ -30,5 +30,4 @@ define(de[280], he([1, 0, 3, 20, 5]), function (ce /*require*/,
 				}
 			}
 			(e.$4Db = E), (0, i.$lK)(e.$3Db, E, i.InstantiationType.Delayed);
-		}),
-		
+		})

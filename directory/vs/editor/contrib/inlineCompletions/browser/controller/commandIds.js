@@ -8,5 +8,4 @@ define(de[1154], he([1, 0]), function (ce /*require*/,
 				(e.$tCb = "editor.action.inlineSuggest.commit"),
 				(e.$uCb = "editor.action.inlineSuggest.showPrevious"),
 				(e.$vCb = "editor.action.inlineSuggest.showNext");
-		}),
-		
+		})

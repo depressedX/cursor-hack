@@ -259,5 +259,4 @@ define(
 					return (0, m.memo)(() => (0, e.$Abc)(I.diff, T, I.style));
 				}
 			},
-		),
-		
+		)

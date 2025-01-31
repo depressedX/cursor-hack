@@ -416,5 +416,4 @@ define(
 				(e.$qec = p),
 					(e.$qec = p = g = Ne([j(0, C.$lq), j(1, d.$Li), j(2, h.$ik)], p));
 			},
-		),
-		
+		)

@@ -58,5 +58,4 @@ define(de[2027], he([1, 0]), function (ce /*require*/,
 				for (const h of i) u(h);
 				return r;
 			}
-		}),
-		
+		})

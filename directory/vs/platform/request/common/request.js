@@ -186,5 +186,4 @@ define(
 				}
 				b(C.ConfigurationScope.APPLICATION);
 			},
-		),
-		
+		)

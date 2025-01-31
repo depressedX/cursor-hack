@@ -35,5 +35,4 @@ define(de[884], he([1, 0, 366]), function (ce /*require*/,
 					}
 				);
 			e.getVisibilityWatcher = d;
-		}),
-		
+		})

@@ -55,5 +55,4 @@ define(
 					(e.$c5c = d =
 						Ne([j(1, E.$P8), j(2, C.$Xl), j(3, i.$nxc), j(4, t.$Vl)], d));
 			},
-		),
-		
+		)

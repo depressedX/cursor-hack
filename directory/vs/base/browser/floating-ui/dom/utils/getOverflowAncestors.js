@@ -18,5 +18,4 @@ define(de[1163], he([1, 0, 2660, 537, 324]), function (ce /*require*/,
 					? d.concat(u, u.visualViewport || [], (0, w.$jmb)(m) ? m : [])
 					: d.concat(m, E(m));
 			}
-		}),
-		
+		})

@@ -46,5 +46,4 @@ define(
 						isRTL: (a) => (0, w.$dmb)(a).direction === "rtl",
 					});
 			},
-		),
-		
+		)

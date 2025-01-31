@@ -73,5 +73,4 @@ define(
 				};
 				(e.$Qcd = u), (e.$Qcd = u = Ne([j(1, w.$ik)], u));
 			},
-		),
-		
+		)

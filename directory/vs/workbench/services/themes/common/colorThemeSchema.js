@@ -242,5 +242,4 @@ define(
 					a.registerSchema(e.$Yvc, r), a.registerSchema(e.$Wvc, m);
 				}
 			},
-		),
-		
+		)

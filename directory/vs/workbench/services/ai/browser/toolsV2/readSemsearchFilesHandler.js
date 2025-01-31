@@ -52,5 +52,4 @@ define(
 				(e.$Yyc = r),
 					(e.$Yyc = r = Ne([j(0, C.$J6b), j(1, i.$ll), j(2, E.$Vi)], r));
 			},
-		),
-		
+		)

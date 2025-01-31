@@ -610,5 +610,4 @@ define(
 					(e.$WQc = p =
 						Ne([j(4, r.$dp), j(5, a.$7rb), j(6, c.$4N), j(7, n.$GO)], p));
 			},
-		),
-		
+		)

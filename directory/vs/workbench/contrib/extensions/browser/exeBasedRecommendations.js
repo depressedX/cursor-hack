@@ -68,5 +68,4 @@ define(
 				};
 				(e.$ETc = C), (e.$ETc = C = Ne([j(0, t.$Lp)], C));
 			},
-		),
-		
+		)

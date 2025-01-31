@@ -324,5 +324,4 @@ define(
 						command: { id: l.$hHc, title: i.localize(5661, null) },
 					});
 			},
-		),
-		
+		)

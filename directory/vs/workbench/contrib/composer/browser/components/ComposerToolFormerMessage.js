@@ -1080,5 +1080,4 @@ define(
 					};
 				e.ComposerToolFormerMessage = q;
 			},
-		),
-		
+		)

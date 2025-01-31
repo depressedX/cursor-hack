@@ -62,5 +62,4 @@ define(de[483], he([1, 0, 7, 4, 405, 186]), function (ce /*require*/,
 			function c(n, g) {
 				return g ? n + " (" + g.getLabel() + ")" : n;
 			}
-		}),
-		
+		})

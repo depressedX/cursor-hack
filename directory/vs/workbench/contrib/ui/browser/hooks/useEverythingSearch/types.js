@@ -14,5 +14,4 @@ define(de[444], he([1, 0]), function (ce /*require*/,
 					(i[(i.Notepad = 4)] = "Notepad"),
 					(i[(i.Semantic = 5)] = "Semantic");
 			})(t || (e.EverythingSearchOptionType = t = {}));
-		}),
-		
+		})

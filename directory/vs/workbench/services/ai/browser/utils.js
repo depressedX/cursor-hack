@@ -15,5 +15,4 @@ define(de[191], he([1, 0, 23]), function (ce /*require*/,
 			function E(C) {
 				return [t.Schemas.file, t.Schemas.vscodeRemote].includes(C);
 			}
-		}),
-		
+		})

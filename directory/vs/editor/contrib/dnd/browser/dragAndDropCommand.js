@@ -95,5 +95,4 @@ define(de[2582], he([1, 0, 17, 104]), function (ce /*require*/,
 				}
 			}
 			e.$Ghc = w;
-		}),
-		
+		})

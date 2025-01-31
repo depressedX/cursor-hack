@@ -21,5 +21,4 @@ define(
 						t.EditorContributionInstantiation.Eventually,
 					);
 			},
-		),
-		
+		)

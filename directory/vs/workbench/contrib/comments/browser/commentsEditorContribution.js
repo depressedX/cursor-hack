@@ -304,5 +304,4 @@ define(
 					if (k) return k;
 				}
 			},
-		),
-		
+		)

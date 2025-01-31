@@ -41,5 +41,4 @@ define(de[258], he([1, 0, 5]), function (ce /*require*/,
 			})(E || (e.ISCMRepositorySortKey = E = {})),
 				(e.$d7 = (0, t.$Mi)("scmView")),
 				(e.$e7 = "workbench.editor.scmChangesEditor");
-		}),
-		
+		})

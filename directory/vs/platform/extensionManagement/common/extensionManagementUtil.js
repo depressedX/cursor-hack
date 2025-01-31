@@ -174,5 +174,4 @@ define(
 					return S.debug("ComputeTargetPlatform:", T), T;
 				}
 			},
-		),
-		
+		)

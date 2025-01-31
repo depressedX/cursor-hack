@@ -23,5 +23,4 @@ define(de[4378], he([1, 0, 2005, 11, 55]), function (ce /*require*/,
 				(0, i.$4X)(t.$1gd),
 				(0, i.$4X)(t.$5gd),
 				(0, w.$s6)(t.$3gd.ID, t.$3gd, w.WorkbenchPhase.AfterRestored);
-		}),
-		
+		})

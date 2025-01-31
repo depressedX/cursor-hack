@@ -113,5 +113,4 @@ define(de[2961], he([1, 0, 48, 17, 971]), function (ce /*require*/,
 					edit: { text: g, range: o },
 				};
 			}
-		}),
-		
+		})

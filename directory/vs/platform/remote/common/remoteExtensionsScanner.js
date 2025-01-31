@@ -9,5 +9,4 @@ define(de[951], he([1, 0, 5]), function (ce /*require*/,
 				(e.$cfb = e.$bfb = void 0),
 				(e.$bfb = (0, t.$Mi)("IRemoteExtensionsScannerService")),
 				(e.$cfb = "remoteExtensionsScanner");
-		}),
-		
+		})

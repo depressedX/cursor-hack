@@ -15,5 +15,4 @@ define(de[2024], he([1, 0, 1394, 2023]), function (ce /*require*/,
 				for (const r of E) d.set(r, m), (m += r.length);
 				return (0, i.asUint8Array)(d);
 			}
-		}),
-		
+		})

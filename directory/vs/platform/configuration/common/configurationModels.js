@@ -1082,5 +1082,4 @@ define(
 					return { added: I, removed: T, updated: P };
 				}
 			},
-		),
-		
+		)

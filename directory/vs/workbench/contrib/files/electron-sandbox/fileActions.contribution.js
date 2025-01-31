@@ -112,5 +112,4 @@ define(
 				const S = t.localize2(7039, "File");
 				(0, g.$ZMc)({ id: s, title: l, category: S }, y);
 			},
-		),
-		
+		)

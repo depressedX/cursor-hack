@@ -157,5 +157,4 @@ define(
 					return l.createInstance(g, o, s, f, b);
 				}
 			},
-		),
-		
+		)

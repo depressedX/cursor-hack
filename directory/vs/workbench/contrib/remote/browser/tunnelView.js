@@ -1786,5 +1786,4 @@ define(
 						t.localize(8866, null),
 					);
 			},
-		),
-		
+		)

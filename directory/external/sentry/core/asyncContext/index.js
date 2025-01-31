@@ -19,5 +19,4 @@ define(de[733], he([1, 0, 578, 2104]), function (ce /*require*/,
 				const d = (0, t.getSentryCarrier)(C);
 				return d.acs ? d.acs : (0, i.getStackAsyncContextStrategy)();
 			}
-		}),
-		
+		})

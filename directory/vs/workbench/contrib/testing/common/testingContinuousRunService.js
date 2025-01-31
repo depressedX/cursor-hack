@@ -145,5 +145,4 @@ define(
 					(e.$NLc = g =
 						Ne([j(0, r.$sqc), j(1, C.$lq), j(2, w.$6j), j(3, c.$Bqc)], g));
 			},
-		),
-		
+		)

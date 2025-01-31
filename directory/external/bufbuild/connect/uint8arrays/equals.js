@@ -10,5 +10,4 @@ define(de[2022], he([1, 0]), function (ce /*require*/,
 				for (let E = 0; E < i.byteLength; E++) if (i[E] !== w[E]) return !1;
 				return !0;
 			}
-		}),
-		
+		})

@@ -86,5 +86,4 @@ define(de[914], he([1, 0, 17, 492]), function (ce /*require*/,
 						(this.offsetObj = (0, i.$GM)(m));
 				}
 			}
-		}),
-		
+		})

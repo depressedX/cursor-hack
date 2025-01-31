@@ -46,5 +46,4 @@ define(de[1100], he([1, 0, 80, 263, 301]), function (ce /*require*/,
 					c = `[Tracing] Finishing "${r}" ${h ? "root " : ""}span "${m}" with ID ${u}`;
 				t.logger.log(c);
 			}
-		}),
-		
+		})

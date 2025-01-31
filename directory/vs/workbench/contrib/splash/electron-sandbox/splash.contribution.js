@@ -26,5 +26,4 @@ define(
 					(0, E.$lK)(i.$z6c, d, E.InstantiationType.Delayed),
 					(0, t.$s6)(C.$A6c.ID, C.$A6c, t.WorkbenchPhase.BlockStartup);
 			},
-		),
-		
+		)

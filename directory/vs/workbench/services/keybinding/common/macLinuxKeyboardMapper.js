@@ -802,5 +802,4 @@ define(
 							c(t.CharCode.DoubleQuote, i.KeyCode.Quote, !0);
 					})();
 			},
-		),
-		
+		)

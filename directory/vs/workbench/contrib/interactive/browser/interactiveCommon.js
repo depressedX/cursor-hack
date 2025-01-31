@@ -14,5 +14,4 @@ define(de[986], he([1, 0, 8]), function (ce /*require*/,
 					executeWithShiftEnter: "interactiveWindow.executeWithShiftEnter",
 					showExecutionHint: "interactiveWindow.showExecutionHint",
 				});
-		}),
-		
+		})

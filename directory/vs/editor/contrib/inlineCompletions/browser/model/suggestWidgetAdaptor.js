@@ -202,5 +202,4 @@ define(
 					return o === f ? !0 : !o || !f ? !1 : o.equals(f);
 				}
 			},
-		),
-		
+		)

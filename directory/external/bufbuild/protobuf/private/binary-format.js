@@ -325,5 +325,4 @@ define(
 					return [T, P];
 				}
 			},
-		),
-		
+		)

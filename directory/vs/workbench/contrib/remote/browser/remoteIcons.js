@@ -114,5 +114,4 @@ define(de[1256], he([1, 0, 4, 14, 79]), function (ce /*require*/,
 					i.$ak.circleFilled,
 					t.localize(8781, null),
 				));
-		}),
-		
+		})

@@ -70,5 +70,4 @@ define(de[563], he([1, 0, 82, 185]), function (ce /*require*/,
 				});
 			const m = () => new Uint32Array(e.$A4.length);
 			e.$C4 = m;
-		}),
-		
+		})

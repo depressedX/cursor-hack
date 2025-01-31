@@ -103,5 +103,4 @@ define(
 					)),
 					(e.REMOVE_LIST_COMMAND = (0, t.createCommand)("REMOVE_LIST_COMMAND"));
 			},
-		),
-		
+		)

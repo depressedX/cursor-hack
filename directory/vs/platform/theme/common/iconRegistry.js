@@ -242,5 +242,4 @@ define(
 					(e.$eP = E.ThemeIcon.modify(i.$ak.sync, "spin")),
 					(e.$fP = E.ThemeIcon.modify(i.$ak.loading, "spin"));
 			},
-		),
-		
+		)

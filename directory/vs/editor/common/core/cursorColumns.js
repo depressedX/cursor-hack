@@ -72,5 +72,4 @@ define(de[435], he([1, 0, 120, 37]), function (ce /*require*/,
 				}
 			}
 			e.$BM = w;
-		}),
-		
+		})

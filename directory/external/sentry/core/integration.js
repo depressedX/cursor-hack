@@ -101,5 +101,4 @@ define(de[316], he([1, 0, 80, 234, 263]), function (ce /*require*/,
 			function a(h) {
 				return h;
 			}
-		}),
-		
+		})

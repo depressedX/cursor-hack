@@ -180,5 +180,4 @@ define(
 						run: (T) => S.get(T)?.openRecentLink("localFile"),
 					});
 			},
-		),
-		
+		)

@@ -21,5 +21,4 @@ define(de[128], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Ki = t;
-		}),
-		
+		})

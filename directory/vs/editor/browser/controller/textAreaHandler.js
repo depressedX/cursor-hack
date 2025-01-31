@@ -852,5 +852,4 @@ define(
 					return B.remove(), z;
 				}
 			},
-		),
-		
+		)

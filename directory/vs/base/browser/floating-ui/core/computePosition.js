@@ -68,5 +68,4 @@ define(de[2200], he([1, 0, 2199]), function (ce /*require*/,
 				return { x: n, y: g, placement: p, strategy: m, middlewareData: o };
 			};
 			e.$bmb = i;
-		}),
-		
+		})

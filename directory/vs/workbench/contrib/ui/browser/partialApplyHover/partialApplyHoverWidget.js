@@ -241,5 +241,4 @@ define(
 					return y - $;
 				}
 			},
-		),
-		
+		)

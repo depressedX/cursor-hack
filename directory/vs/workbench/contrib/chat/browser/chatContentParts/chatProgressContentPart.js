@@ -54,5 +54,4 @@ define(
 					return (0, m.$$Tb)(h) && !h.isComplete && a.length === 0;
 				}
 			},
-		),
-		
+		)

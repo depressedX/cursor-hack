@@ -130,5 +130,4 @@ define(
 					return new m(u, a, h, c, n, g, p);
 				}
 			},
-		),
-		
+		)

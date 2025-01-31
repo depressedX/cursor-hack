@@ -16,5 +16,4 @@ define(de[513], he([1, 0, 5]), function (ce /*require*/,
 					(w.Search = "Search"),
 					(w.Url = "Url");
 			})(i || (e.TerminalBuiltinLinkType = i = {}));
-		}),
-		
+		})

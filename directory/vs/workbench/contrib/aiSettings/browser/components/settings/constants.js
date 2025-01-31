@@ -22,5 +22,4 @@ define(de[2997], he([1, 0, 14]), function (ce /*require*/,
 					help: t.$ak.question,
 				}),
 				(e.$TCc = ["general", "models", "features", "beta"]);
-		}),
-		
+		})

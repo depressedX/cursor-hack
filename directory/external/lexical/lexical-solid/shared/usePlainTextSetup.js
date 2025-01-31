@@ -21,5 +21,4 @@ define(
 						(0, t.onCleanup)((0, w.mergeRegister)((0, i.registerPlainText)(d)));
 				}
 			},
-		),
-		
+		)

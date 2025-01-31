@@ -31,5 +31,4 @@ define(de[1732], he([1, 0, 6, 30]), function (ce /*require*/,
 				}
 			}
 			(e.$tXb = new E()), i.$Io.add(w.FileContributionRegistry, e.$tXb);
-		}),
-		
+		})

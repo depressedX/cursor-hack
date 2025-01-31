@@ -771,5 +771,4 @@ define(
 					z.createTaskIdentifier = F;
 				})(U || (e.TaskDefinition = U = {}));
 			},
-		),
-		
+		)

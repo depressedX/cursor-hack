@@ -244,5 +244,4 @@ define(
 					P.isScheduled() || P.schedule();
 				});
 			},
-		),
-		
+		)

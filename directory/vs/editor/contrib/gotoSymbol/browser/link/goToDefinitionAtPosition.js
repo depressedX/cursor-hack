@@ -296,5 +296,4 @@ define(
 						m.EditorContributionInstantiation.BeforeFirstInteraction,
 					);
 			},
-		),
-		
+		)

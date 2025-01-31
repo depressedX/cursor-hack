@@ -37,5 +37,4 @@ define(
 				)),
 					(e.$yac = { edit: { typeaheadOption: e.$xac } });
 			},
-		),
-		
+		)

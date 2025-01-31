@@ -675,5 +675,4 @@ define(
 					return { primaryActions: F, secondaryActions: [...x, ...B] };
 				}
 			},
-		),
-		
+		)

@@ -43,5 +43,4 @@ define(de[1186], he([1, 0, 5]), function (ce /*require*/,
 					d === w.gnomeAny || d === w.gnomeLibsecret || d === w.gnomeKeyring
 				);
 			}
-		}),
-		
+		})

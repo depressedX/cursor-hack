@@ -99,5 +99,4 @@ define(de[525], he([1, 0, 451, 1395]), function (ce /*require*/,
 				};
 			}
 			e.protoInt64 = w();
-		}),
-		
+		})

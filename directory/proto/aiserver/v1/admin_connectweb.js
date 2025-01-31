@@ -32,5 +32,4 @@ define(de[2166], he([1, 0, 2165, 86]), function (ce /*require*/,
 						},
 					},
 				});
-		}),
-		
+		})

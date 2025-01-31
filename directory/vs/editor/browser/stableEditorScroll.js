@@ -79,5 +79,4 @@ define(de[491], he([1, 0, 98]), function (ce /*require*/,
 				}
 			}
 			e.$vwb = w;
-		}),
-		
+		})

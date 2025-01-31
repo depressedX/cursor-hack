@@ -1273,5 +1273,4 @@ define(de[529], he([1, 0]), function (ce /*require*/,
 						});
 				},
 			]);
-		}),
-		
+		})

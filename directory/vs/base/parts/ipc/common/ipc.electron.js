@@ -18,5 +18,4 @@ define(de[2227], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$grb = t;
-		}),
-		
+		})

@@ -35,5 +35,4 @@ define(de[3511], he([1, 0]), function (ce /*require*/,
 					{ relativeFilePath: "out/extension.js", replaceFn: i },
 				],
 			};
-		}),
-		
+		})

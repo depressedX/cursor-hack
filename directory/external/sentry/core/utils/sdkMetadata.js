@@ -20,5 +20,4 @@ define(de[2103], he([1, 0, 80]), function (ce /*require*/,
 					}),
 					(w._metadata = m);
 			}
-		}),
-		
+		})

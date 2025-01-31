@@ -31,5 +31,4 @@ define(
 						(0, w.localize)(1360, null),
 					);
 			},
-		),
-		
+		)

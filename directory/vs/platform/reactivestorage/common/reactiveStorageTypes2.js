@@ -99,5 +99,4 @@ define(de[670], he([1, 0, 47]), function (ce /*require*/,
 				}
 			}
 			e.$KN = i;
-		}),
-		
+		})

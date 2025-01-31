@@ -32,5 +32,4 @@ define(de[1768], he([1, 0]), function (ce /*require*/,
 					t.HideSuggestWidget,
 					t.ClearSuggestCache,
 				]);
-		}),
-		
+		})

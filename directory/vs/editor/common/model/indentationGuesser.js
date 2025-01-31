@@ -97,5 +97,4 @@ define(de[2566], he([1, 0, 120]), function (ce /*require*/,
 				}
 				return { insertSpaces: f, tabSize: b };
 			}
-		}),
-		
+		})

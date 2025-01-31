@@ -92,5 +92,4 @@ define(de[1322], he([1, 0, 4, 30, 250, 79]), function (ce /*require*/,
 			function m() {
 				i.$Io.as(w.$Jo.JSONContribution).registerSchema(C, d);
 			}
-		}),
-		
+		})

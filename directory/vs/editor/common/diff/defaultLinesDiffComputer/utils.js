@@ -65,5 +65,4 @@ define(de[911], he([1, 0, 120]), function (ce /*require*/,
 				}
 			}
 			e.$bxb = E;
-		}),
-		
+		})

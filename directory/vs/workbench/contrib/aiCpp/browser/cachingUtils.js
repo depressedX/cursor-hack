@@ -206,5 +206,4 @@ define(de[2958], he([1, 0, 1498, 1228]), function (ce /*require*/,
 				const l = f.slice(s);
 				return b.length === l.length;
 			}
-		}),
-		
+		})

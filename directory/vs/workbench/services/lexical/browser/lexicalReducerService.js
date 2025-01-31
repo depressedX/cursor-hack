@@ -25,5 +25,4 @@ define(de[1298], he([1, 0, 5]), function (ce /*require*/,
 					(C.DeleteTask = "DocAgentDeleteTask");
 			})(E || (e.DocAgentLexicalReducers = E = {})),
 				(e.$p_b = (0, t.$Mi)("lexicalReducerService"));
-		}),
-		
+		})

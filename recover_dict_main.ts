@@ -36,12 +36,17 @@ while (res) {
   const tailPosition = nextRes ? nextRes.index : raw.length;
   let fileContent = raw.slice(position, tailPosition);
 
+  if (fileContent.endsWith(",\n\t\t")) {
+    fileContent = fileContent.replace(/,\n\t\t$/, "\n");
+  }
+
   // 对 fileContent 处理, 为形参添加注释
   const FUNCTION_REG = /function \(([^\(]*)\)/g;
   const functionParameters = FUNCTION_REG.exec(fileContent)?.[1];
   if (functionParameters) {
     const functionParametersStart = fileContent.indexOf(functionParameters);
-    const functionParametersEnd = functionParametersStart + functionParameters.length;
+    const functionParametersEnd =
+      functionParametersStart + functionParameters.length;
     const params = functionParameters
       .split(",")
       .map((paramStr, i) => {
@@ -52,13 +57,16 @@ while (res) {
 
         const shortDepSig = depSig.slice(depSig.lastIndexOf("/") + 1);
         let res = `${paramStr} /*${shortDepSig}*/`;
-        if (res.startsWith('\n')) {
+        if (res.startsWith("\n")) {
           res = res.slice(1);
         }
         return res;
       })
       .join(",\n");
-    fileContent = fileContent.slice(0, functionParametersStart) + params + fileContent.slice(functionParametersEnd);
+    fileContent =
+      fileContent.slice(0, functionParametersStart) +
+      params +
+      fileContent.slice(functionParametersEnd);
   }
 
   fileContent = importStatements.join("\n") + "\n" + fileContent;

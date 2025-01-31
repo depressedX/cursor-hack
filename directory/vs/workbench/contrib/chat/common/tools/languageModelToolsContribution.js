@@ -165,5 +165,4 @@ define(
 				};
 				(e.$YIc = h), (e.$YIc = h = Ne([j(0, m.$E2), j(1, d.$ik)], h));
 			},
-		),
-		
+		)

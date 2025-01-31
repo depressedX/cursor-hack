@@ -118,5 +118,4 @@ define(de[741], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.Lock = E;
-		}),
-		
+		})

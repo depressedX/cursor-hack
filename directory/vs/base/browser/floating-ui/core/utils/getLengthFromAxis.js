@@ -7,5 +7,4 @@ define(de[1119], he([1, 0]), function (ce /*require*/,
 			function t(i) {
 				return i === "y" ? "height" : "width";
 			}
-		}),
-		
+		})

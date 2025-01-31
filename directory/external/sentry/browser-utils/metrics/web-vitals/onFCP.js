@@ -51,5 +51,4 @@ define(
 				};
 				e.onFCP = m;
 			},
-		),
-		
+		)

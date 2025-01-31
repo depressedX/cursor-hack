@@ -70,5 +70,4 @@ define(de[1560], he([1, 0, 9]), function (ce /*require*/,
 			function m(r) {
 				return `color: ${r}`;
 			}
-		}),
-		
+		})

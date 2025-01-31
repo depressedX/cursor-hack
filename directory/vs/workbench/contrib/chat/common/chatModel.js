@@ -870,5 +870,4 @@ ${z.message}`
 						: (0, c.localize)(4763, null, U.size);
 				}
 			},
-		),
-		
+		)

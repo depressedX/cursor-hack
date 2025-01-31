@@ -41,5 +41,4 @@ define(de[919], he([1, 0, 12]), function (ce /*require*/,
 			function C(d) {
 				d && (delete d.DEBUG, t.$n && delete d.LD_PRELOAD);
 			}
-		}),
-		
+		})

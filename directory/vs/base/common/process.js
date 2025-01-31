@@ -54,5 +54,4 @@ define(de[344], he([1, 0, 12]), function (ce /*require*/,
 							},
 						});
 			(e.cwd = i.cwd), (e.env = i.env), (e.$ic = i.platform), (e.$jc = i.arch);
-		}),
-		
+		})

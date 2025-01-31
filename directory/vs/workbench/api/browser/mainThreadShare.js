@@ -58,5 +58,4 @@ define(
 					(e.$Pqc = m =
 						Ne([(0, d.$tmc)(E.$lbb.MainThreadShare), j(1, C.$Oqc)], m));
 			},
-		),
-		
+		)

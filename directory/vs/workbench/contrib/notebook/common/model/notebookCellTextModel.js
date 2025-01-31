@@ -392,5 +392,4 @@ define(
 					} else return o.runStartTimeAdjustment;
 				}
 			},
-		),
-		
+		)

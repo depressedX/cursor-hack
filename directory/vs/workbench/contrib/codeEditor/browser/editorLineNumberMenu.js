@@ -136,5 +136,4 @@ define(
 						C.EditorContributionInstantiation.AfterFirstRender,
 					);
 			},
-		),
-		
+		)

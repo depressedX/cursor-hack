@@ -20,5 +20,4 @@ define(de[212], he([1, 0]), function (ce /*require*/,
 			function w(E) {
 				return E === t.DARK || E === t.HIGH_CONTRAST_DARK;
 			}
-		}),
-		
+		})

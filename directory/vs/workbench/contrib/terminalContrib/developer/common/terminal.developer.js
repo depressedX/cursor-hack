@@ -13,5 +13,4 @@ define(de[1765], he([1, 0]), function (ce /*require*/,
 					(i.ShowTextureAtlas = "workbench.action.terminal.showTextureAtlas"),
 					(i.RestartPtyHost = "workbench.action.terminal.restartPtyHost");
 			})(t || (e.TerminalDeveloperCommandId = t = {}));
-		}),
-		
+		})

@@ -244,5 +244,4 @@ define(de[2567], he([1, 0]), function (ce /*require*/,
 								(p = p.parent);
 				}
 			}
-		}),
-		
+		})

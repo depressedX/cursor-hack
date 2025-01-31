@@ -260,5 +260,4 @@ define(
 					(e.$t6 = o.INSTANCE.getWorkbenchContribution.bind(o.INSTANCE)),
 					w.$Io.add(h.Workbench, o.INSTANCE);
 			},
-		),
-		
+		)

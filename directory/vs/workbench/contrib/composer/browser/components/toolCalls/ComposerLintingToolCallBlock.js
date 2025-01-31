@@ -227,5 +227,4 @@ define(
 					};
 				e.ComposerLintingToolCallBlock = v;
 			},
-		),
-		
+		)

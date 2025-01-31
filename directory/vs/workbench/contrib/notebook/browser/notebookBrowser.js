@@ -157,5 +157,4 @@ define(de[108], he([1, 0, 70, 360, 442]), function (ce /*require*/,
 					(s[(s.Expanded = 1)] = "Expanded"),
 					(s[(s.Collapsed = 2)] = "Collapsed");
 			})(b || (e.CellFoldingState = b = {}));
-		}),
-		
+		})

@@ -47,5 +47,4 @@ define(de[2205], he([1, 0, 645, 1494]), function (ce /*require*/,
 				},
 			});
 			e.hide = C;
-		}),
-		
+		})

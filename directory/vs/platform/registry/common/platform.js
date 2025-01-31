@@ -29,5 +29,4 @@ define(de[30], he([1, 0, 229, 28]), function (ce /*require*/,
 				}
 			}
 			e.$Io = new w();
-		}),
-		
+		})

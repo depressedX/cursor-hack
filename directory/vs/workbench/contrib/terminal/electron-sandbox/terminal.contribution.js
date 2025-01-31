@@ -34,5 +34,4 @@ define(
 				(0, C.$s6)(a.$ogd.ID, a.$ogd, C.WorkbenchPhase.BlockStartup),
 					h.registerWorkbenchContribution(m.$lgd, u.LifecyclePhase.Restored);
 			},
-		),
-		
+		)

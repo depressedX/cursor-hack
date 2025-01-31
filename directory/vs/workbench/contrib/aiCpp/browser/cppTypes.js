@@ -7,5 +7,4 @@ define(de[1704], he([1, 0]), function (ce /*require*/,
 				(e.$Bcc = e.$Acc = void 0),
 				(e.$Acc = { current: !1 }),
 				(e.$Bcc = "cpp-suggestion-green-background");
-		}),
-		
+		})

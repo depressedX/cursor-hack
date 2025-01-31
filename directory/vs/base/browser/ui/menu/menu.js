@@ -1147,5 +1147,4 @@ ${k(c.$ak.menuSubmenu)}
 					return N;
 				}
 			},
-		),
-		
+		)

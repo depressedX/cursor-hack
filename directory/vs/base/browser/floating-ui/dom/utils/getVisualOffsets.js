@@ -21,5 +21,4 @@ define(de[1573], he([1, 0, 75, 537, 324]), function (ce /*require*/,
 							y: u.visualViewport?.offsetTop || 0,
 						};
 			}
-		}),
-		
+		})

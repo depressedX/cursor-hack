@@ -113,5 +113,4 @@ define(
 						.replace(new RegExp(`(file://)?/*${p}/*`, "ig"), "app:///");
 				}
 			},
-		),
-		
+		)

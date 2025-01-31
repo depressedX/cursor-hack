@@ -370,5 +370,4 @@ define(
 						g.localize(1359, null),
 					));
 			},
-		),
-		
+		)

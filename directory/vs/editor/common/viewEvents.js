@@ -201,5 +201,4 @@ define(de[493], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Wsb = l;
-		}),
-		
+		})

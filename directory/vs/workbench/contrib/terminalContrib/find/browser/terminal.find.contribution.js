@@ -276,5 +276,4 @@ define(
 						run: (f, b, s) => (0, r.$6Oc)(s, { query: f.selection }),
 					});
 			},
-		),
-		
+		)

@@ -104,5 +104,4 @@ define(de[3804], he([1, 0, 58, 1326, 145]), function (ce /*require*/,
 					{ question: "How do I use Cursor with my codebase?", priority: 100 },
 					{ question: "How do I learn new skills with Cursor?", priority: 100 },
 				].sort((E, C) => E.priority - C.priority));
-		}),
-		
+		})

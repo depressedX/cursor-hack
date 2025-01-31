@@ -12,5 +12,4 @@ define(de[1394], he([1, 0]), function (ce /*require*/,
 			function i(w = 0) {
 				return new Uint8Array(w);
 			}
-		}),
-		
+		})

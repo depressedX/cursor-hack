@@ -7,5 +7,4 @@ define(de[705], he([1, 0]), function (ce /*require*/,
 				(e.$0Sb = e.$9Sb = void 0),
 				(e.$9Sb = "rendererLog"),
 				(e.$0Sb = "workbench.action.showWindowLog");
-		}),
-		
+		})

@@ -346,5 +346,4 @@ define(
 						group: o.Share,
 					});
 			},
-		),
-		
+		)

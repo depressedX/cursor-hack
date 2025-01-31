@@ -31,5 +31,4 @@ define(de[2578], he([1, 0, 17]), function (ce /*require*/,
 				}
 			}
 			e.$pub = i;
-		}),
-		
+		})

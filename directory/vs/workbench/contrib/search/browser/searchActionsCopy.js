@@ -210,5 +210,4 @@ define(
 					return (0, a.$rOc)($)?.getControl().getSelection()[0];
 				}
 			},
-		),
-		
+		)

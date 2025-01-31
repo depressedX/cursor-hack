@@ -787,5 +787,4 @@ define(
 					(0, k.$cwc)(),
 					(0, y.$lK)(E.$rRb, _, y.InstantiationType.Eager);
 			},
-		),
-		
+		)

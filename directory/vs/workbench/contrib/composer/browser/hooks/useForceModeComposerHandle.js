@@ -21,5 +21,4 @@ define(de[4153], he([1, 0, 13, 36]), function (ce /*require*/,
 							d.allComposersData.selectedComposerHandle,
 				);
 			}
-		}),
-		
+		})

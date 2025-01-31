@@ -200,5 +200,4 @@ define(
 						.as(E.Extensions.Workbench)
 						.registerWorkbenchContribution(s, C.LifecyclePhase.Eventually);
 			},
-		),
-		
+		)

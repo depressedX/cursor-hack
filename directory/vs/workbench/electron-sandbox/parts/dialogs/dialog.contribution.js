@@ -106,5 +106,4 @@ define(
 						)),
 					(0, u.$s6)(p.ID, p, u.WorkbenchPhase.BlockStartup);
 			},
-		),
-		
+		)

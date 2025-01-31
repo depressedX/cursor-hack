@@ -95,5 +95,4 @@ define(de[2107], he([1, 0, 80, 316, 263]), function (ce /*require*/,
 			function h(c) {
 				return c.exception && c.exception.values && c.exception.values[0];
 			}
-		}),
-		
+		})

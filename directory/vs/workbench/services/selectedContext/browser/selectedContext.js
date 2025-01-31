@@ -13,5 +13,4 @@ define(de[271], he([1, 0, 5, 20, 3920]), function (ce /*require*/,
 				(e.$Q9b = void 0),
 				(e.$Q9b = (0, t.$Mi)("selectedContextService")),
 				(0, i.$lK)(e.$Q9b, w.$P9b, i.InstantiationType.Delayed);
-		}),
-		
+		})

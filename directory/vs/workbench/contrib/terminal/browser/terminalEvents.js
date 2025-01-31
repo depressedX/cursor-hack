@@ -45,5 +45,4 @@ define(de[3144], he([1, 0, 6, 3]), function (ce /*require*/,
 					{ dispose: () => u.dispose(), event: a.event }
 				);
 			}
-		}),
-		
+		})

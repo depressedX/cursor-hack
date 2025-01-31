@@ -77,5 +77,4 @@ define(de[1838], he([1, 0, 6, 3, 70]), function (ce /*require*/,
 				}
 			}
 			e.$m2b = E;
-		}),
-		
+		})

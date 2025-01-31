@@ -30,5 +30,4 @@ define(de[1146], he([1, 0, 37, 435]), function (ce /*require*/,
 					w(C.substring(0, r), d, m) + C.substring(r)
 				);
 			}
-		}),
-		
+		})

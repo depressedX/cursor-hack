@@ -171,5 +171,4 @@ define(
 					A && (0, C.updateMetricSummaryOnSpan)(A, P, k, L, D, M, N);
 				}
 			},
-		),
-		
+		)

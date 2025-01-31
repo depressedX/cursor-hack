@@ -74,5 +74,4 @@ define(
 					return { group: n, order: g };
 				}
 			},
-		),
-		
+		)

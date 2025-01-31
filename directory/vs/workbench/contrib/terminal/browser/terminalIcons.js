@@ -83,5 +83,4 @@ define(de[689], he([1, 0, 14, 4, 79]), function (ce /*require*/,
 					t.$ak.searchFuzzy,
 					(0, i.localize)(10067, null),
 				));
-		}),
-		
+		})

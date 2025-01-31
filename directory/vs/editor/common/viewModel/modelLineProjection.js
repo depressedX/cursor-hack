@@ -291,5 +291,4 @@ define(
 					return new Array(n + 1).join(" ");
 				}
 			},
-		),
-		
+		)

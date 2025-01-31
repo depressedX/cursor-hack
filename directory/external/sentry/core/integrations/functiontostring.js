@@ -31,5 +31,4 @@ define(de[2109], he([1, 0, 80, 234, 316]), function (ce /*require*/,
 					},
 				});
 			e.functionToStringIntegration = (0, w.defineIntegration)(m);
-		}),
-		
+		})

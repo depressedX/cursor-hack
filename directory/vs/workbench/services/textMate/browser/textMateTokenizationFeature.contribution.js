@@ -25,5 +25,4 @@ define(
 					(0, t.$lK)(i.$N6b, w.$Kyc, t.InstantiationType.Eager),
 					(0, E.$s6)(C.ID, C, E.WorkbenchPhase.BlockRestore);
 			},
-		),
-		
+		)

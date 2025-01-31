@@ -83,5 +83,4 @@ define(de[264], he([1, 0, 431]), function (ce /*require*/,
 				}
 			}
 			e.$npb = m;
-		}),
-		
+		})

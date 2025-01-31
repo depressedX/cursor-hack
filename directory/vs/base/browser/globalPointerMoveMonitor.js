@@ -58,5 +58,4 @@ define(de[757], he([1, 0, 7, 3]), function (ce /*require*/,
 				}
 			}
 			e.$Thb = w;
-		}),
-		
+		})

@@ -28,5 +28,4 @@ define(de[98], he([1, 0]), function (ce /*require*/,
 					(E.Paste = "paste"),
 					(E.Cut = "cut");
 			})(w || (e.Handler = w = {}));
-		}),
-		
+		})

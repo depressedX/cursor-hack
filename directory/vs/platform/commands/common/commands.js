@@ -70,5 +70,4 @@ define(
 					})()),
 					e.$fk.registerCommand("noop", () => {});
 			},
-		),
-		
+		)

@@ -25,5 +25,4 @@ define(de[524], he([1, 0, 339]), function (ce /*require*/,
 						? !0
 						: C.typeName == E.typeName;
 			}
-		}),
-		
+		})

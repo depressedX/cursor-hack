@@ -12,5 +12,4 @@ define(de[2703], he([1, 0]), function (ce /*require*/,
 			function i(w) {
 				return w && w.hasOwnProperty("workspace");
 			}
-		}),
-		
+		})

@@ -32,5 +32,4 @@ define(de[1150], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$DN = w;
-		}),
-		
+		})

@@ -12,5 +12,4 @@ define(de[661], he([1, 0, 12]), function (ce /*require*/,
 					: t.$m
 						? "-apple-system, BlinkMacSystemFont, sans-serif"
 						: 'system-ui, "Ubuntu", "Droid Sans", sans-serif');
-		}),
-		
+		})

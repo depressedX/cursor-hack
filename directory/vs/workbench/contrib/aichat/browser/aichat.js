@@ -32,5 +32,4 @@ define(de[418], he([1, 0, 58, 8, 5, 205]), function (ce /*require*/,
 				(e.$sgc = new i.$5j("aichatDisplayHistory", !1)),
 				(e.$tgc = new i.$5j("activeAIChatEditor", !1)),
 				(e.$ugc = new i.$5j("aichatPosition", E.AIPanePosition.SIDEBAR));
-		}),
-		
+		})

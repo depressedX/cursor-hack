@@ -29,5 +29,4 @@ define(
 						.as(d.$a1.EditorFactory)
 						.registerEditorSerializer(w.$jzc.TypeID, w.$kzc);
 			},
-		),
-		
+		)

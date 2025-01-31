@@ -476,5 +476,4 @@ define(
 						f.localize(1102, null),
 					);
 			},
-		),
-		
+		)

@@ -12,5 +12,4 @@ define(de[1766], he([1, 0]), function (ce /*require*/,
 					(i.OpenFileLink = "workbench.action.terminal.openFileLink"),
 					(i.OpenWebLink = "workbench.action.terminal.openUrlLink");
 			})(t || (e.TerminalLinksCommandId = t = {}));
-		}),
-		
+		})

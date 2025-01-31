@@ -22,5 +22,4 @@ define(de[376], he([1, 0, 5]), function (ce /*require*/,
 				(e.$6Xb = (0, t.$Mi)("issueFormService")),
 				(e.$7Xb = (0, t.$Mi)("workbenchIssueService")),
 				(e.$8Xb = (0, t.$Mi)("workbenchProcessService"));
-		}),
-		
+		})

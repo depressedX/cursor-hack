@@ -1468,5 +1468,4 @@ define(de[2194], he([1, 0]), function (ce /*require*/,
 	var rc = ka();
 	define("vs/base/browser/dompurify/dompurify", function () {
 		return rc;
-	}),
-		
+	})

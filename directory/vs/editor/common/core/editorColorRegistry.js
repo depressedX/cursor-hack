@@ -530,5 +530,4 @@ define(de[307], he([1, 0, 4, 97, 51, 35]), function (ce /*require*/,
 							`.monaco-editor .inputarea.ime-input { background-color: ${h}; }`,
 						);
 				});
-		}),
-		
+		})

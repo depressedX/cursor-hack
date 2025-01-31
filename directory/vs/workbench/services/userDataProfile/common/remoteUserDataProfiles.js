@@ -157,5 +157,4 @@ define(
 				)),
 					(0, i.$lK)(e.$nxc, n, i.InstantiationType.Delayed);
 			},
-		),
-		
+		)

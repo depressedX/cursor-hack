@@ -130,5 +130,4 @@ define(de[921], he([1, 0, 1561, 1562, 1157]), function (ce /*require*/,
 						return w.getStyleObjectFromCSS;
 					},
 				});
-		}),
-		
+		})

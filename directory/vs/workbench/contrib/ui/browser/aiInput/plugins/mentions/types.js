@@ -193,5 +193,4 @@ define(de[310], he([1, 0, 1776]), function (ce /*require*/,
 				(e.$y_b = "PR (Diff with Main Branch)"),
 				(e.$z_b = 8),
 				(e.$A_b = 3);
-		}),
-		
+		})

@@ -38,5 +38,4 @@ define(de[5], he([1, 0]), function (ce /*require*/,
 			function E(C) {
 				return C;
 			}
-		}),
-		
+		})

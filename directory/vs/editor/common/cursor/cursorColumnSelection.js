@@ -120,5 +120,4 @@ define(de[2722], he([1, 0, 346, 48, 17]), function (ce /*require*/,
 				}
 			}
 			e.$vtb = E;
-		}),
-		
+		})

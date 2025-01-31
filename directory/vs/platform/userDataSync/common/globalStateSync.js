@@ -540,5 +540,4 @@ define(
 					(e.$hyc = D =
 						Ne([j(1, n.$lq), j(2, u.$Ti), j(3, a.$ll), j(4, h.$ik)], D));
 			},
-		),
-		
+		)

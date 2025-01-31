@@ -103,5 +103,4 @@ define(
 					(e.$ATc = n =
 						Ne([j(0, i.$q2), j(1, t.$MQb), j(2, m.$4N), j(3, u.$asb)], n));
 			},
-		),
-		
+		)

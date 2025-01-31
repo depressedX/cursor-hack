@@ -44,5 +44,4 @@ define(de[3143], he([1, 0]), function (ce /*require*/,
 				let h = `\x1B]${r};${u}`;
 				return a && (h += `;${a}`), (h += "\x07"), h;
 			}
-		}),
-		
+		})

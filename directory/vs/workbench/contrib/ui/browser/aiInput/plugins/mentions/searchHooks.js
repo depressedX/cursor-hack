@@ -1841,5 +1841,4 @@ define(
 					return se && ae++, re && ae++, le + oe + ae;
 				}
 			},
-		),
-		
+		)

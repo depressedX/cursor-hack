@@ -90,5 +90,4 @@ define(de[1440], he([1, 0, 880, 886]), function (ce /*require*/,
 					[t.DISTRIBUTION_METRIC_TYPE]: C,
 					[t.SET_METRIC_TYPE]: d,
 				});
-		}),
-		
+		})

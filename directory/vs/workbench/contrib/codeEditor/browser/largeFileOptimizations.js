@@ -75,5 +75,4 @@ define(
 						E.EditorContributionInstantiation.AfterFirstRender,
 					);
 			},
-		),
-		
+		)

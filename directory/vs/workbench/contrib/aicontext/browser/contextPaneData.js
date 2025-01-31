@@ -63,5 +63,4 @@ define(de[1714], he([1, 0, 193, 21, 7]), function (ce /*require*/,
 				const [h, c] = (0, t.createStore)(a);
 				return [h, c];
 			}
-		}),
-		
+		})

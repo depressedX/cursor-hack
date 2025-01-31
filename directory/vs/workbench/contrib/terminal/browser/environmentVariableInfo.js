@@ -129,5 +129,4 @@ define(
 				return p.extensions.find((o) => o.id === g)?.displayName || g;
 			}
 		},
-	),
-		
+	)

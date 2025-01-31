@@ -854,5 +854,4 @@ define(
 					return oe[oe.length - 1];
 				}
 			},
-		),
-		
+		)

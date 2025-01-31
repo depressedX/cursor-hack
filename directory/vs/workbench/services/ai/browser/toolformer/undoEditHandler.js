@@ -105,5 +105,4 @@ define(
 					(e.$R8b = m =
 						Ne([j(0, E.$MO), j(1, d.$GN), j(2, w.$z8b), j(3, C.$aM)], m));
 			},
-		),
-		
+		)

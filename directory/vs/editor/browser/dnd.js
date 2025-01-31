@@ -70,5 +70,4 @@ define(
 					return c;
 				}
 			},
-		),
-		
+		)

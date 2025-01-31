@@ -487,5 +487,4 @@ define(
 						.as(a.Extensions.Workbench)
 						.registerWorkbenchContribution(k, l.LifecyclePhase.Eventually);
 			},
-		),
-		
+		)

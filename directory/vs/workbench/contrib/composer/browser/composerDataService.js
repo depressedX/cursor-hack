@@ -1778,5 +1778,4 @@ define(
 							)),
 					(0, d.$lK)(e.IComposerDataService, N, d.InstantiationType.Eager);
 			},
-		),
-		
+		)

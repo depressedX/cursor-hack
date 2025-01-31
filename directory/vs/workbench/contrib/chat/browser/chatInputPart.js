@@ -719,5 +719,4 @@ define(
 				const _ = ".interactive-input-editor";
 				(0, K.$zYb)(_);
 			},
-		),
-		
+		)

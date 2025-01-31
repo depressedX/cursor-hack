@@ -2453,5 +2453,4 @@ What is the name of the project/library/technology?`,
 				);
 			}
 		},
-	),
-		
+	)

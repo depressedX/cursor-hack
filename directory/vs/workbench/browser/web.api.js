@@ -18,5 +18,4 @@ define(de[2947], he([1, 0]), function (ce /*require*/,
 					(w.HIGH_CONTRAST_LIGHT = "hcLight"),
 					(w.HIGH_CONTRAST_DARK = "hcDark");
 			})(i || (e.ColorScheme = i = {}));
-		}),
-		
+		})

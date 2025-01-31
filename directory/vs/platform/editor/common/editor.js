@@ -45,5 +45,4 @@ define(de[116], he([1, 0]), function (ce /*require*/,
 					(m.NAVIGATION = "code.navigation"),
 					(m.JUMP = "code.jump");
 			})(d || (e.TextEditorSelectionSource = d = {}));
-		}),
-		
+		})

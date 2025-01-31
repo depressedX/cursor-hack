@@ -15,5 +15,4 @@ define(de[3513], he([1, 0]), function (ce /*require*/,
 				extensionMaxVersionToFixInclusive: "2023.22.1",
 				fixes: [{ relativeFilePath: "out/client/extension.js", replaceFn: t }],
 			};
-		}),
-		
+		})

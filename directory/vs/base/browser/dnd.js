@@ -58,5 +58,4 @@ define(de[323], he([1, 0, 7, 3, 266]), function (ce /*require*/,
 						d.dataTransfer.setDragImage(h, -10, -10),
 						setTimeout(() => h.remove(), 0));
 			}
-		}),
-		
+		})

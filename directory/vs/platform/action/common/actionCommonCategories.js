@@ -15,5 +15,4 @@ define(de[99], he([1, 0, 4]), function (ce /*require*/,
 					Preferences: (0, t.localize2)(1648, "Preferences"),
 					Developer: (0, t.localize2)(1649, "Developer"),
 				}));
-		}),
-		
+		})

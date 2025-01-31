@@ -130,5 +130,4 @@ define(de[1500], he([1, 0]), function (ce /*require*/,
 								"perf-util defined in UNKNOWN context (neither requirejs or commonjs)",
 							),
 							(i.perf = t(i)));
-		})(),
-		
+		})()

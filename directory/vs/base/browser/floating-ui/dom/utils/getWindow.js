@@ -11,5 +11,4 @@ define(de[537], he([1, 0, 7]), function (ce /*require*/,
 			function i(w) {
 				return w.ownerDocument?.defaultView || t.getWindow(w);
 			}
-		}),
-		
+		})

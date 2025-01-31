@@ -33,5 +33,4 @@ define(de[1392], he([1, 0, 202, 213]), function (ce /*require*/,
 						}
 					: { timeoutMs: r };
 			}
-		}),
-		
+		})

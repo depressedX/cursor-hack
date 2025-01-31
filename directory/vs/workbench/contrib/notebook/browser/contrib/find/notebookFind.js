@@ -191,5 +191,4 @@ define(
 						return T ? (T.replace(P?.searchString), !0) : !1;
 					});
 			},
-		),
-		
+		)

@@ -55,5 +55,4 @@ define(de[1463], he([1, 0, 579]), function (ce /*require*/,
 				return u.droppable;
 			};
 			e.mostIntersecting = E;
-		}),
-		
+		})

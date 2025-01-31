@@ -43,5 +43,4 @@ define(de[4147], he([1, 0, 2, 13, 36]), function (ce /*require*/,
 				);
 			};
 			e.ComposerDataHandlerProvider = E;
-		}),
-		
+		})

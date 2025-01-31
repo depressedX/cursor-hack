@@ -292,5 +292,4 @@ define(
 				)),
 					(0, r.$lK)(e.$Vcc, o, r.InstantiationType.Delayed);
 			},
-		),
-		
+		)

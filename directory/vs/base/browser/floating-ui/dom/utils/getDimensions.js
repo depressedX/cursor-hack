@@ -9,5 +9,4 @@ define(de[2659], he([1, 0, 1572]), function (ce /*require*/,
 			function i(w) {
 				return (0, t.$rmb)(w);
 			}
-		}),
-		
+		})

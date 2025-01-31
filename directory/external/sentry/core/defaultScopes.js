@@ -22,5 +22,4 @@ define(de[1441], he([1, 0, 80, 732]), function (ce /*require*/,
 					() => new i.Scope(),
 				);
 			}
-		}),
-		
+		})

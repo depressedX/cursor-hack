@@ -44,5 +44,4 @@ define(de[3236], he([1, 0, 228, 530]), function (ce /*require*/,
 					c = C(h);
 				return JSON.stringify(a) === JSON.stringify(c);
 			}
-		}),
-		
+		})

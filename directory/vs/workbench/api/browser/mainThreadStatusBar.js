@@ -67,5 +67,4 @@ define(
 					(e.$qoc = d =
 						Ne([(0, i.$tmc)(t.$lbb.MainThreadStatusBar), j(1, E.$rmc)], d));
 			},
-		),
-		
+		)

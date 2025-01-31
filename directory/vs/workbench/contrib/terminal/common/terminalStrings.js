@@ -71,5 +71,4 @@ define(de[469], he([1, 0, 4]), function (ce /*require*/,
 						"Scroll To Next Command",
 					),
 				});
-		}),
-		
+		})

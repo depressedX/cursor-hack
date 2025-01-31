@@ -75,5 +75,4 @@ define(de[2628], he([1, 0, 115, 7]), function (ce /*require*/,
 			disableBodyPointerEvents: o,
 			restoreBodyPointerEvents: f,
 		};
-	}),
-		
+	})

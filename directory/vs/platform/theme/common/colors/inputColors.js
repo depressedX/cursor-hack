@@ -411,5 +411,4 @@ define(
 						t.localize(2291, null),
 					));
 			},
-		),
-		
+		)

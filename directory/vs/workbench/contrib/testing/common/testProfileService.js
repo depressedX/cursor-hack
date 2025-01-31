@@ -209,5 +209,4 @@ define(
 							: delete f[b.controllerId][b.profileId];
 				};
 			},
-		),
-		
+		)

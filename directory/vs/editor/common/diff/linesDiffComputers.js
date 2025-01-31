@@ -13,5 +13,4 @@ define(de[587], he([1, 0, 1533, 1532]), function (ce /*require*/,
 					getLegacy: () => new t.$GL(),
 					getDefault: () => new i.$nxb(),
 				});
-		}),
-		
+		})

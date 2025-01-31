@@ -105,5 +105,4 @@ define(
 				};
 				e.ComposerCapabilityMessageRenderer = d;
 			},
-		),
-		
+		)

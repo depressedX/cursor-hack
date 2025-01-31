@@ -36,5 +36,4 @@ define(
 					a.registerWorkbenchContribution(d.$EXc, E.LifecyclePhase.Eventually),
 					a.registerWorkbenchContribution(u.$HXc, E.LifecyclePhase.Restored);
 			},
-		),
-		
+		)

@@ -41,5 +41,4 @@ define(de[4152], he([1, 0, 13, 177, 36]), function (ce /*require*/,
 				}));
 			};
 			e.useComposerSupports = E;
-		}),
-		
+		})

@@ -723,5 +723,4 @@ define(
 			(O = Ne([j(0, P.$7qc), j(1, b.$aM)], O)),
 				A.registerWorkbenchContribution(O, g.LifecyclePhase.Restored);
 		},
-	),
-		
+	)

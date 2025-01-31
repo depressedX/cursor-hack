@@ -26,5 +26,4 @@ define(de[2960], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Oed = t;
-		}),
-		
+		})

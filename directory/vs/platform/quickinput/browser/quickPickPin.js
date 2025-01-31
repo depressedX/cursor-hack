@@ -105,5 +105,4 @@ define(
 					return b ? JSON.parse(b) : [];
 				}
 			},
-		),
-		
+		)

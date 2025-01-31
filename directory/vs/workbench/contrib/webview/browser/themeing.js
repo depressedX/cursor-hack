@@ -120,5 +120,4 @@ define(
 						h.fromTheme = c;
 					})(a || (a = {}));
 			},
-		),
-		
+		)

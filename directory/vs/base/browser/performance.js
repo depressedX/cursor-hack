@@ -130,5 +130,4 @@ define(de[1127], he([1, 0]), function (ce /*require*/,
 					(T.total = 0), (T.min = Number.MAX_VALUE), (T.max = 0);
 				}
 			})(t || (e.inputLatency = t = {}));
-		}),
-		
+		})

@@ -224,5 +224,4 @@ define(de[1629], he([1, 0, 229, 48, 64]), function (ce /*require*/,
 				}
 			}
 			e.$wsb = r;
-		}),
-		
+		})

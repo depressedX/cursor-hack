@@ -325,5 +325,4 @@ define(
 					(e.$0Fc = v = Ne([j(0, f.$EY)], v)),
 					(0, r.$s6)(v.ID, v, r.WorkbenchPhase.AfterRestored);
 			},
-		),
-		
+		)

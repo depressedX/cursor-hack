@@ -43,5 +43,4 @@ define(de[2092], he([1, 0, 80, 366]), function (ce /*require*/,
 				(0, t.fill)(i.WINDOW.history, "pushState", m),
 					(0, t.fill)(i.WINDOW.history, "replaceState", m);
 			}
-		}),
-		
+		})

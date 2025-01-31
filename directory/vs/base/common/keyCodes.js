@@ -1377,5 +1377,4 @@ define(de[27], he([1, 0]), function (ce /*require*/,
 				return (n | p) >>> 0;
 			}
 			(e.$ps = h.CtrlCmd | t.KeyM), (e.$qs = h.CtrlCmd | t.KeyR);
-		}),
-		
+		})

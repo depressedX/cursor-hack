@@ -81,5 +81,4 @@ define(de[345], he([1, 0, 7, 6, 3]), function (ce /*require*/,
 				}
 			}
 			e.$sjb = new d();
-		}),
-		
+		})

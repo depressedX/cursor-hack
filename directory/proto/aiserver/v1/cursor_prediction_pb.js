@@ -126,5 +126,4 @@ define(de[1473], he([1, 0, 86]), function (ce /*require*/,
 						{ no: 1, name: "HEURISTIC_DISABLE_IN_LAST_CPP_SUGGESTION" },
 					],
 				);
-		}),
-		
+		})

@@ -49,5 +49,4 @@ define(de[888], he([1, 0, 80, 301]), function (ce /*require*/,
 				recordException(C, d) {}
 			}
 			e.SentryNonRecordingSpan = w;
-		}),
-		
+		})

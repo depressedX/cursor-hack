@@ -53,5 +53,4 @@ define(de[1130], he([1, 0, 1129, 1499]), function (ce /*require*/,
 			function d(m, r, u) {
 				return e.$oqb.diff(m, r, u);
 			}
-		}),
-		
+		})

@@ -597,5 +597,4 @@ define(
 					return M === "/" ? D.replaceAll("\\", "/") : D.replaceAll("/", "\\");
 				}
 			},
-		),
-		
+		)

@@ -15,5 +15,4 @@ define(de[4154], he([1, 0, 225, 36]), function (ce /*require*/,
 					? E.composerDataService.selectedChatId
 					: E.composerDataService.selectedComposerId;
 			}
-		}),
-		
+		})

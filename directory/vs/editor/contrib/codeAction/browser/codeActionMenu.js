@@ -118,5 +118,4 @@ define(
 					return p;
 				}
 			},
-		),
-		
+		)

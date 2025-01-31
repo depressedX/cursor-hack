@@ -461,5 +461,4 @@ define(
 							T.registerSchema(I, P);
 					})();
 			},
-		),
-		
+		)

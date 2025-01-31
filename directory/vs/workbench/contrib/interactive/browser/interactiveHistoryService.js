@@ -52,5 +52,4 @@ define(de[987], he([1, 0, 647, 3, 59, 5]), function (ce /*require*/,
 				}
 			}
 			e.$xnc = C;
-		}),
-		
+		})

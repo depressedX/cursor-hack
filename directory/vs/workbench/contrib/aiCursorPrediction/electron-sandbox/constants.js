@@ -8,5 +8,4 @@ define(de[2967], he([1, 0]), function (ce /*require*/,
 				(e.$$ed = 500),
 				(e.$_ed = 0.1),
 				(e.$afd = "default");
-		}),
-		
+		})

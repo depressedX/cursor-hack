@@ -616,5 +616,4 @@ define(
 					return `${(0, T.$d2c)().format(G).replace(q, "-")}`;
 				}
 			},
-		),
-		
+		)

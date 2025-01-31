@@ -55,5 +55,4 @@ define(de[131], he([1, 0, 5, 44]), function (ce /*require*/,
 				(e.$0Z = "workbench.settings.openDefaultSettings"),
 				(e.$$Z = "workbench.settings.useSplitJSON"),
 				(e.$_Z = "settings");
-		}),
-		
+		})

@@ -110,5 +110,4 @@ define(de[2222], he([1, 0, 902]), function (ce /*require*/,
 				}
 			}
 			e.$uib = d;
-		}),
-		
+		})

@@ -133,5 +133,4 @@ define(
 				}
 				e.default = m;
 			},
-		),
-		
+		)

@@ -11,5 +11,4 @@ define(de[3099], he([1, 0]), function (ce /*require*/,
 					(i[(i.ContributedTextItem = 1)] = "ContributedTextItem"),
 					(i[(i.ContributedCommandItem = 2)] = "ContributedCommandItem");
 			})(t || (e.ClickTargetType = t = {}));
-		}),
-		
+		})

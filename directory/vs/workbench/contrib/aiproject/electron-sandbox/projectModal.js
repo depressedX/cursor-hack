@@ -87,5 +87,4 @@ define(
 						)),
 					(0, m.$lK)(r.$38b, n, m.InstantiationType.Delayed);
 			},
-		),
-		
+		)

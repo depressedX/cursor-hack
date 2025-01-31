@@ -36,5 +36,4 @@ define(de[453], he([1, 0]), function (ce /*require*/,
 				(e.SEMANTIC_ATTRIBUTE_CACHE_ITEM_SIZE = "cache.item_size"),
 				(e.SEMANTIC_ATTRIBUTE_HTTP_REQUEST_METHOD = "http.request.method"),
 				(e.SEMANTIC_ATTRIBUTE_URL_FULL = "url.full");
-		}),
-		
+		})

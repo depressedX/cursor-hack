@@ -73,5 +73,4 @@ define(
 					return Promise.race([a, r]).finally(u);
 				}
 			},
-		),
-		
+		)

@@ -135,5 +135,4 @@ define(
 						.as(m.Extensions.Workbench)
 						.registerWorkbenchContribution(n.$nEc, E.LifecyclePhase.Eventually);
 			},
-		),
-		
+		)

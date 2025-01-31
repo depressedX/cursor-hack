@@ -61,5 +61,4 @@ define(
 				};
 				e.onCLS = m;
 			},
-		),
-		
+		)

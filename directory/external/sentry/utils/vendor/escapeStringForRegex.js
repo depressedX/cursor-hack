@@ -8,5 +8,4 @@ define(de[2073], he([1, 0]), function (ce /*require*/,
 			function t(i) {
 				return i.replace(/[|\\{}()[\]^$+*?.]/g, "\\$&").replace(/-/g, "\\x2d");
 			}
-		}),
-		
+		})

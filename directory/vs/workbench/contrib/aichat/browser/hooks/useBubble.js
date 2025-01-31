@@ -17,5 +17,4 @@ define(de[1712], he([1, 0, 13, 140]), function (ce /*require*/,
 				);
 			};
 			e.$abc = w;
-		}),
-		
+		})

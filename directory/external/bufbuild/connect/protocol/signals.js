@@ -49,5 +49,4 @@ define(de[1082], he([1, 0, 213, 202]), function (ce /*require*/,
 				const m = new Error("This operation was aborted");
 				return (m.name = "AbortError"), m;
 			}
-		}),
-		
+		})

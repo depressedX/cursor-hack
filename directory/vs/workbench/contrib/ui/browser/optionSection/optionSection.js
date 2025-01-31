@@ -25,5 +25,4 @@ define(de[3206], he([1, 0, 2, 2, 2524]), function (ce /*require*/,
 						);
 					})();
 			e.$xfd = E;
-		}),
-		
+		})

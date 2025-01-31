@@ -60,5 +60,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 This should give anyone reading your README a clear understanding of what your project is about and how it's structured.`,
 				});
-		}),
-		
+		})

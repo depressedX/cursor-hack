@@ -38,5 +38,4 @@ define(de[1716], he([1, 0, 21]), function (ce /*require*/,
 			function E(C, d = "project") {
 				return C.get(`${d}PaneQuery`, t.StorageScope.APPLICATION, "");
 			}
-		}),
-		
+		})

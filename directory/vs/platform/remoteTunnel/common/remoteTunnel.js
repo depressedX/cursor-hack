@@ -35,5 +35,4 @@ define(de[1638], he([1, 0, 5, 4]), function (ce /*require*/,
 				(e.$y9c = e.$w9c + ".preventSleep"),
 				(e.$z9c = "remoteTunnelService"),
 				(e.$A9c = (0, i.localize)(2063, null));
-		}),
-		
+		})

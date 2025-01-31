@@ -35,5 +35,4 @@ define(de[2125], he([1, 0, 2120, 1449]), function (ce /*require*/,
 				timing: m,
 				getMetricsAggregatorForClient: r,
 			};
-		}),
-		
+		})

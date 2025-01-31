@@ -57,5 +57,4 @@ define(de[1033], he([1, 0, 81, 224, 4, 30]), function (ce /*require*/,
 							e.externalUriOpenersConfigurationNode,
 						);
 			}
-		}),
-		
+		})

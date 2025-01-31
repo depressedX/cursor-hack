@@ -88,5 +88,4 @@ define(de[1791], he([1, 0, 83]), function (ce /*require*/,
 				}
 			}
 			e.$M6b = i;
-		}),
-		
+		})

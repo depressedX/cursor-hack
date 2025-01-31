@@ -21,5 +21,4 @@ define(de[1267], he([1, 0, 420, 259, 380]), function (ce /*require*/,
 				];
 			};
 			e.$UKc = E;
-		}),
-		
+		})

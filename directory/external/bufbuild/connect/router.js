@@ -79,5 +79,4 @@ define(
 					return { options: c, protocols: n };
 				}
 			},
-		),
-		
+		)

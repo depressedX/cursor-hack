@@ -25,5 +25,4 @@ define(de[311], he([1, 0, 160, 422]), function (ce /*require*/,
 				};
 			};
 			e.useComposerHoverTooltip = w;
-		}),
-		
+		})

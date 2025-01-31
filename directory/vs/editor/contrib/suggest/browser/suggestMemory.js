@@ -236,5 +236,4 @@ define(
 					(e.$uDb = (0, r.$Mi)("ISuggestMemories")),
 					(0, m.$lK)(e.$uDb, p, m.InstantiationType.Delayed);
 			},
-		),
-		
+		)

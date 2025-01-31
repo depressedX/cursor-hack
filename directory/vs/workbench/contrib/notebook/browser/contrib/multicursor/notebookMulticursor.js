@@ -655,5 +655,4 @@ define(
 					(0, s.$4X)(U),
 					(0, M.$s6)(z.ID, z, M.WorkbenchPhase.BlockRestore);
 			},
-		),
-		
+		)

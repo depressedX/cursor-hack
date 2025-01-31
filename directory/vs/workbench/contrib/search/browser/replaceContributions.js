@@ -20,5 +20,4 @@ define(
 						(0, E.$s6)(w.$YNc.ID, w.$YNc, E.WorkbenchPhase.BlockStartup);
 				}
 			},
-		),
-		
+		)

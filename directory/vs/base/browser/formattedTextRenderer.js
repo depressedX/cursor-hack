@@ -140,5 +140,4 @@ define(de[595], he([1, 0, 7]), function (ce /*require*/,
 						return d.Invalid;
 				}
 			}
-		}),
-		
+		})

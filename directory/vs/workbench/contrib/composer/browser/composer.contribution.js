@@ -71,5 +71,4 @@ define(
 						r.EditorContributionInstantiation.AfterFirstRender,
 					);
 			},
-		),
-		
+		)

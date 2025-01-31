@@ -33,5 +33,4 @@ define(de[3508], he([1, 0, 7]), function (ce /*require*/,
 				}
 			}
 			e.default = i;
-		}),
-		
+		})

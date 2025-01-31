@@ -26,5 +26,4 @@ define(de[1557], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$lkc = w;
-		}),
-		
+		})

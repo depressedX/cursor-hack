@@ -292,5 +292,4 @@ define(
 					};
 				e.ComposerMessageContextPickingCodeBlock = y;
 			},
-		),
-		
+		)

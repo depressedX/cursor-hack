@@ -71,5 +71,4 @@ define(
 				(e.$yAc = o),
 					t.$Io.as(m.Extensions.ViewsRegistry).registerViews([new o()], r.$sAc);
 			},
-		),
-		
+		)

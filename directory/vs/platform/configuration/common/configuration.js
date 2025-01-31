@@ -162,5 +162,4 @@ define(de[10], he([1, 0, 28, 9, 5]), function (ce /*require*/,
 			function p(o) {
 				return o.replace(/[\[\]]/g, "");
 			}
-		}),
-		
+		})

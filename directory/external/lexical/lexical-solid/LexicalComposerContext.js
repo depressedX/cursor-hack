@@ -26,5 +26,4 @@ define(de[181], he([1, 0, 13]), function (ce /*require*/,
 				return E;
 			};
 			e.useLexicalComposerContext = w;
-		}),
-		
+		})

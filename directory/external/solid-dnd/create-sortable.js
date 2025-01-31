@@ -90,5 +90,4 @@ define(
 				};
 				e.createSortable = u;
 			},
-		),
-		
+		)

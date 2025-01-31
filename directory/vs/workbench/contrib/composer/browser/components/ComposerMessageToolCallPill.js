@@ -558,5 +558,4 @@ define(
 				};
 				e.ComposerMessageToolCallPill = P;
 			},
-		),
-		
+		)

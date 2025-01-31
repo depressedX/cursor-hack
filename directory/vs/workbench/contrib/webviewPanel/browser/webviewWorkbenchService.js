@@ -256,5 +256,4 @@ define(
 					(e.$snc = l =
 						Ne([j(0, g.$EY), j(1, p.$IY), j(2, u.$Li), j(3, h.$3Ib)], l));
 			},
-		),
-		
+		)

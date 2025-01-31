@@ -51,5 +51,4 @@ define(de[687], he([1, 0, 4, 8]), function (ce /*require*/,
 					description: (0, t.localize)(7688, null),
 				})),
 				(e.$g1b = "mergeEditorCloseWithConflicts");
-		}),
-		
+		})

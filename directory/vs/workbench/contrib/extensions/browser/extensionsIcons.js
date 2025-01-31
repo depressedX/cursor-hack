@@ -155,5 +155,4 @@ define(de[466], he([1, 0, 14, 4, 79]), function (ce /*require*/,
 					t.$ak.history,
 					(0, i.localize)(6441, null),
 				));
-		}),
-		
+		})

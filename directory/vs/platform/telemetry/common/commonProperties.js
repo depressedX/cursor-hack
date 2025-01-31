@@ -54,5 +54,4 @@ define(de[1640], he([1, 0, 12, 344, 47]), function (ce /*require*/,
 				const u = r.toLowerCase();
 				return m.some((a) => u === a);
 			}
-		}),
-		
+		})

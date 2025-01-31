@@ -306,5 +306,4 @@ define(de[88], he([1, 0, 622]), function (ce /*require*/,
 					ExtHostLocalization: (0, t.$sO)("ExtHostLocalization"),
 					ExtHostCursor: (0, t.$sO)("ExtHostCursor"),
 				});
-		}),
-		
+		})

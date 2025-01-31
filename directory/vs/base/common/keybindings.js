@@ -165,5 +165,4 @@ define(de[343], he([1, 0, 29, 27, 12]), function (ce /*require*/,
 			e.$ws = a;
 			class h {}
 			e.$xs = h;
-		}),
-		
+		})

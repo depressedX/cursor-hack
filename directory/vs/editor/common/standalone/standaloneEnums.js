@@ -676,5 +676,4 @@ define(de[1542], he([1, 0]), function (ce /*require*/,
 					(W[(W.Indent = 2)] = "Indent"),
 					(W[(W.DeepIndent = 3)] = "DeepIndent");
 			})(J || (e.WrappingIndent = J = {}));
-		}),
-		
+		})

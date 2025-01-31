@@ -271,5 +271,4 @@ define(
 					return S && k.getElement().classList.add(S), k;
 				}
 			},
-		),
-		
+		)

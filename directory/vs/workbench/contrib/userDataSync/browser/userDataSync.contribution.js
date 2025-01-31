@@ -117,5 +117,4 @@ define(
 					f.registerWorkbenchContribution(a.$f1c, w.LifecyclePhase.Eventually),
 					f.registerWorkbenchContribution(o, w.LifecyclePhase.Eventually);
 			},
-		),
-		
+		)

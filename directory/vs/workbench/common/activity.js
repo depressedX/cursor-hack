@@ -7,5 +7,4 @@ define(de[968], he([1, 0]), function (ce /*require*/,
 				(e.$6qc = e.$5qc = void 0),
 				(e.$5qc = "workbench.actions.manage"),
 				(e.$6qc = "workbench.actions.accounts");
-		}),
-		
+		})

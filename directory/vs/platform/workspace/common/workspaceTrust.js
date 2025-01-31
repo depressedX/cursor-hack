@@ -25,5 +25,4 @@ define(de[174], he([1, 0, 5]), function (ce /*require*/,
 					(E[(E.Cancel = 3)] = "Cancel");
 			})(w || (e.WorkspaceTrustUriResponse = w = {})),
 				(e.$qO = (0, t.$Mi)("workspaceTrustRequestService"));
-		}),
-		
+		})

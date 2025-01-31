@@ -17,5 +17,4 @@ define(de[1547], he([1, 0]), function (ce /*require*/,
 				).join(E);
 			};
 			e.$Elc = i;
-		}),
-		
+		})

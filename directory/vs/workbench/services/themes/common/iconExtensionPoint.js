@@ -172,5 +172,4 @@ define(
 					return m.$lc.join(p.identifier.value, o);
 				}
 			},
-		),
-		
+		)

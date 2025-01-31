@@ -1242,5 +1242,4 @@ define(
 					(0, o.$s6)(_.$oRc.ID, _.$oRc, o.WorkbenchPhase.AfterRestored),
 					(0, o.$s6)(Q.$qRc.ID, Q.$qRc, o.WorkbenchPhase.AfterRestored);
 			},
-		),
-		
+		)

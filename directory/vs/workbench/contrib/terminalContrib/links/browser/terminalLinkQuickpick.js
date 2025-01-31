@@ -257,5 +257,4 @@ define(
 					(e.$sWc = p =
 						Ne([j(0, h.$3N), j(1, E.$DJ), j(2, g.$HLb), j(3, n.$Li)], p));
 			},
-		),
-		
+		)

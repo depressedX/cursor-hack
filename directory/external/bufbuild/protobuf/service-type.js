@@ -17,5 +17,4 @@ define(de[1408], he([1, 0]), function (ce /*require*/,
 				(w[(w.NoSideEffects = 1)] = "NoSideEffects"),
 					(w[(w.Idempotent = 2)] = "Idempotent");
 			})(i || (e.MethodIdempotency = i = {}));
-		}),
-		
+		})

@@ -38,5 +38,4 @@ define(de[1088], he([1, 0, 339, 406]), function (ce /*require*/,
 				}
 			}
 			e.SourceContext = w;
-		}),
-		
+		})

@@ -230,5 +230,4 @@ define(de[548], he([1, 0, 7, 28, 2225]), function (ce /*require*/,
 					? { ...a, viewState: r.activeEditorPane?.getViewState() }
 					: a || Object.create(null);
 			}
-		}),
-		
+		})

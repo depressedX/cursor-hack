@@ -504,5 +504,4 @@ define(
 					return D.join(". ");
 				}
 			},
-		),
-		
+		)

@@ -44,5 +44,4 @@ define(de[1948], he([1, 0, 633, 4]), function (ce /*require*/,
 						return C.getCwd();
 				}
 			}
-		}),
-		
+		})

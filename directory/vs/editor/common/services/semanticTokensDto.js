@@ -90,5 +90,4 @@ define(de[1591], he([1, 0, 76, 12]), function (ce /*require*/,
 				}
 				return { id: n, type: "delta", deltas: o };
 			}
-		}),
-		
+		})

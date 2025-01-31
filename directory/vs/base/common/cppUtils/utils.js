@@ -426,5 +426,4 @@ define(de[646], he([1, 0, 901, 1130]), function (ce /*require*/,
 					L > D && (D = L), { startLineNumber: L, endLineNumberExclusive: D }
 				);
 			}
-		}),
-		
+		})

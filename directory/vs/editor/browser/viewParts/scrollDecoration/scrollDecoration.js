@@ -57,5 +57,4 @@ define(de[2719], he([1, 0, 194, 303, 38, 2275]), function (ce /*require*/,
 				}
 			}
 			e.$Jvb = E;
-		}),
-		
+		})

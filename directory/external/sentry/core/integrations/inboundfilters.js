@@ -163,5 +163,4 @@ Url: ${o(b)}`),
 									s.stacktrace || (s.type && s.type !== "Error") || s.value,
 							);
 			}
-		}),
-		
+		})

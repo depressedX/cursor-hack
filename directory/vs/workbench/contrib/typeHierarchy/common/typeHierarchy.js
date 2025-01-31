@@ -138,5 +138,4 @@ define(
 						if (l) return l.provideSubtypes(s, i.CancellationToken.None);
 					});
 			},
-		),
-		
+		)

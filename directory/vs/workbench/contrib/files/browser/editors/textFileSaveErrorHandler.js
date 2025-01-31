@@ -439,5 +439,4 @@ define(
 					return await ie.openEditor({ resource: X }, _), _.closeEditor(ee);
 				}
 			},
-		),
-		
+		)

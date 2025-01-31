@@ -778,5 +778,4 @@ define(
 					};
 				e.ComposerBelowChatHistory = D;
 			},
-		),
-		
+		)

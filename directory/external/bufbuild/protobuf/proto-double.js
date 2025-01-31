@@ -10,5 +10,4 @@ define(de[2030], he([1, 0]), function (ce /*require*/,
 					POSITIVE_INFINITY: Number.POSITIVE_INFINITY,
 					NEGATIVE_INFINITY: Number.NEGATIVE_INFINITY,
 				});
-		}),
-		
+		})

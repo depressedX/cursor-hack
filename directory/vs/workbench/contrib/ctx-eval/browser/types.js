@@ -11,5 +11,4 @@ define(de[1729], he([1, 0]), function (ce /*require*/,
 					(i[(i.advancedContextChat = 1)] = "advancedContextChat"),
 					(i[(i.longContextChat = 2)] = "longContextChat");
 			})(t || (e.ChatKind = t = {}));
-		}),
-		
+		})

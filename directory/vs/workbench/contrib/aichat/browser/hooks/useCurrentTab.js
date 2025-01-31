@@ -16,5 +16,4 @@ define(de[1065], he([1, 0, 13, 140, 36]), function (ce /*require*/,
 				return (0, t.createMemo)(() => C.chatDataService.selectedTab);
 			};
 			e.$lbc = E;
-		}),
-		
+		})

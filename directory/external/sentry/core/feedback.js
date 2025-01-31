@@ -37,5 +37,4 @@ define(de[2105], he([1, 0, 80, 234]), function (ce /*require*/,
 					p = (d && d.getClient()) || (0, i.getClient)();
 				return p && p.emit("beforeSendFeedback", g, C), d.captureEvent(g, C);
 			}
-		}),
-		
+		})

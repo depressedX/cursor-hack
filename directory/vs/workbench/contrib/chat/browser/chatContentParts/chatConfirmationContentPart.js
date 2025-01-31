@@ -68,5 +68,4 @@ define(
 				};
 				(e.$gUb = r), (e.$gUb = r = Ne([j(2, E.$Li), j(3, d.$J2)], r));
 			},
-		),
-		
+		)

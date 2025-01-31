@@ -94,5 +94,4 @@ define(de[253], he([1, 0, 12]), function (ce /*require*/,
 			function p(o = 0) {
 				return Math.pow(1.2, o);
 			}
-		}),
-		
+		})

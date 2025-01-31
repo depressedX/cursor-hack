@@ -107,5 +107,4 @@ define(de[1155], he([1, 0, 646, 48]), function (ce /*require*/,
 				const p = (0, t.$tqb)(n.getValue(), g);
 				return new w(p, n.uri, n.getVersionId() + 1);
 			}
-		}),
-		
+		})

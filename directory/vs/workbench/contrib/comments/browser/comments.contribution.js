@@ -244,5 +244,4 @@ define(
 					$.$Whc.register(new v.$oSc()),
 					$.$Whc.register(new S.$qSc());
 			},
-		),
-		
+		)

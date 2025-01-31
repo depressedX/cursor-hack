@@ -12,5 +12,4 @@ define(de[3002], he([1, 0]), function (ce /*require*/,
 					(i.STORAGE_ID = "workbench.panel.aitasks"),
 					(i.Id = "aitasks");
 			})(t || (e.IAitasksPaneConstants = t = {}));
-		}),
-		
+		})

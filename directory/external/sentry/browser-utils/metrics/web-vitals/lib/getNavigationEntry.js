@@ -12,5 +12,4 @@ define(de[883], he([1, 0, 366]), function (ce /*require*/,
 				performance.getEntriesByType &&
 				performance.getEntriesByType("navigation")[0];
 			e.getNavigationEntry = i;
-		}),
-		
+		})

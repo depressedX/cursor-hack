@@ -49,5 +49,4 @@ define(de[1818], he([1, 0, 175, 145, 5, 9]), function (ce /*require*/,
 						E.URI.isUri(r.icon.dark))
 				);
 			}
-		}),
-		
+		})

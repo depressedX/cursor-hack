@@ -81,5 +81,4 @@ define(de[201], he([1, 0]), function (ce /*require*/,
 					k = (y * I - $ * v) * T;
 				return P >= 0 && k >= 0 && P + k < 1;
 			}
-		}),
-		
+		})

@@ -20,5 +20,4 @@ define(de[2917], he([1, 0, 46, 2916, 1690]), function (ce /*require*/,
 					w.$Jjc,
 					t.EditorContributionInstantiation.Eventually,
 				);
-		}),
-		
+		})

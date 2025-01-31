@@ -42,5 +42,4 @@ define(de[321], he([1, 0, 194]), function (ce /*require*/,
 						(E.style.lineHeight = ""),
 						(E.style.letterSpacing = ""));
 			}
-		}),
-		
+		})

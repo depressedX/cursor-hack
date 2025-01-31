@@ -900,5 +900,4 @@ define(
 					return G === "line" ? "bar" : G;
 				}
 			},
-		),
-		
+		)

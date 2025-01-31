@@ -105,5 +105,4 @@ define(de[207], he([1, 0, 4, 8]), function (ce /*require*/,
 					type: "boolean",
 					description: (0, t.localize)(4760, null),
 				}));
-		}),
-		
+		})

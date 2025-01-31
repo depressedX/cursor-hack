@@ -30,5 +30,4 @@ define(de[475], he([1, 0, 5]), function (ce /*require*/,
 			(function (C) {
 				(C.Collapsed = "alwaysCollapse"), (C.Expanded = "alwaysExpand");
 			})(E || (e.OutlineConfigCollapseItemsValues = E = {}));
-		}),
-		
+		})

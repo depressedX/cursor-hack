@@ -1273,5 +1273,4 @@ define(
 				};
 				He = Ne([j(0, me.$d6b), j(1, o.$ek), j(2, k.$uZ)], He);
 			},
-		),
-		
+		)

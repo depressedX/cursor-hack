@@ -70,5 +70,4 @@ define(de[2144], he([1, 0, 144, 386]), function (ce /*require*/,
 					a = (u && u.cdnBaseUrl) || "https://browser.sentry-cdn.com";
 				return new URL(`/${t.SDK_VERSION}/${m}.min.js`, a).toString();
 			}
-		}),
-		
+		})

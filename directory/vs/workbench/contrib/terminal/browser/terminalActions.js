@@ -2130,5 +2130,4 @@ define(
 					return (0, m.$lg)(Me) ? Me : void 0;
 				}
 			},
-		),
-		
+		)

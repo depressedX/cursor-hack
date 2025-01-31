@@ -501,5 +501,4 @@ define(
 					return v.getColumn(new m.$Kub(P, I), T);
 				}
 			},
-		),
-		
+		)

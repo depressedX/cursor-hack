@@ -47,5 +47,4 @@ define(de[2765], he([1, 0, 64]), function (ce /*require*/,
 				}
 			}
 			e.$pwb = w;
-		}),
-		
+		})

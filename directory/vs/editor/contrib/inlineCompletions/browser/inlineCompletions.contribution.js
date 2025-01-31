@@ -39,5 +39,4 @@ define(
 					i.$5Bb.register(E.$Vhc),
 					m.$Whc.register(new C.$Xhc());
 			},
-		),
-		
+		)

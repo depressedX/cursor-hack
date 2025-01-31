@@ -40,5 +40,4 @@ define(
 						)),
 					(0, C.$lK)(t.$QO, u, C.InstantiationType.Delayed);
 			},
-		),
-		
+		)

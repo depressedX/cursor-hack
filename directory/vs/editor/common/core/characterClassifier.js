@@ -47,5 +47,4 @@ define(de[654], he([1, 0, 210]), function (ce /*require*/,
 				}
 			}
 			e.$OL = E;
-		}),
-		
+		})

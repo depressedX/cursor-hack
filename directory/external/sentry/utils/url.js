@@ -42,5 +42,4 @@ define(de[1427], he([1, 0]), function (ce /*require*/,
 						"";
 				return `${d ? `${d}://` : ""}${u}${r}`;
 			}
-		}),
-		
+		})

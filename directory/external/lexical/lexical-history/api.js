@@ -289,5 +289,4 @@ define(de[922], he([1, 0, 304, 164]), function (ce /*require*/,
 			function l() {
 				return { current: null, redoStack: [], undoStack: [] };
 			}
-		}),
-		
+		})

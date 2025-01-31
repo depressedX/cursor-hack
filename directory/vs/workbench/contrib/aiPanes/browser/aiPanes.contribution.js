@@ -258,5 +258,4 @@ define(
 					(0, m.$s6)(B.ID, B, m.WorkbenchPhase.BlockStartup),
 					(0, L.$lK)(e.$Wzc, B, k.InstantiationType.Delayed);
 			},
-		),
-		
+		)

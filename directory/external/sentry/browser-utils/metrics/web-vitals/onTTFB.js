@@ -49,5 +49,4 @@ define(
 					};
 				e.onTTFB = r;
 			},
-		),
-		
+		)

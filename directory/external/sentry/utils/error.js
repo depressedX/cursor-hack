@@ -15,5 +15,4 @@ define(de[1092], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.SentryError = t;
-		}),
-		
+		})

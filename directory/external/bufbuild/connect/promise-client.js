@@ -128,5 +128,4 @@ define(
 					return { [Symbol.asyncIterator]: () => ({ next: () => p.next() }) };
 				}
 			},
-		),
-		
+		)

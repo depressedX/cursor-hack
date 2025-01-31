@@ -73,5 +73,4 @@ define(de[2074], he([1, 0, 430, 881]), function (ce /*require*/,
 					(a) => (a.value && (a.value = (0, i.truncate)(a.value, u)), a),
 				);
 			}
-		}),
-		
+		})

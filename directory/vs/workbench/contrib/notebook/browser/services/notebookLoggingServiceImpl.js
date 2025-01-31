@@ -37,5 +37,4 @@ define(de[3094], he([1, 0, 4, 3, 34]), function (ce /*require*/,
 				}
 			};
 			(e.$SGc = C), (e.$SGc = C = Ne([j(0, w.$jk)], C));
-		}),
-		
+		})

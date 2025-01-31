@@ -484,5 +484,4 @@ define(
 						: t.$Te.fromString(U(B(M.decode(H.buffer))));
 				}
 			},
-		),
-		
+		)

@@ -351,5 +351,4 @@ define(
 						run: function () {},
 					});
 			},
-		),
-		
+		)

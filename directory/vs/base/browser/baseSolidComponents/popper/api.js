@@ -20,5 +20,4 @@ define(
 				Yi(w, e),
 				Yi(E, e);
 		},
-	),
-		
+	)

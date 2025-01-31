@@ -30,5 +30,4 @@ define(
 							[new C.$Ji(E.ComposerDiffEditorInput)],
 						);
 			},
-		),
-		
+		)

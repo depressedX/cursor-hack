@@ -54,5 +54,4 @@ define(
 				};
 				(e.$UYb = m), (e.$UYb = m = Ne([j(0, w.$lq)], m));
 			},
-		),
-		
+		)

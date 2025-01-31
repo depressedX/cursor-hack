@@ -18,5 +18,4 @@ define(de[578], he([1, 0, 80]), function (ce /*require*/,
 					(C[t.SDK_VERSION] = C[t.SDK_VERSION] || {})
 				);
 			}
-		}),
-		
+		})

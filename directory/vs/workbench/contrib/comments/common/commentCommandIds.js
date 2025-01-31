@@ -19,5 +19,4 @@ define(de[1238], he([1, 0]), function (ce /*require*/,
 					(i.ExpandAll = "workbench.action.expandAllComments"),
 					(i.ExpandUnresolved = "workbench.action.expandUnresolvedComments");
 			})(t || (e.CommentCommandId = t = {}));
-		}),
-		
+		})

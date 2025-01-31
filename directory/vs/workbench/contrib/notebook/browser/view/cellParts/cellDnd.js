@@ -385,5 +385,4 @@ define(
 						o.revealCellRangeInView(D);
 				}
 			},
-		),
-		
+		)

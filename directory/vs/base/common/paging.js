@@ -160,5 +160,4 @@ define(de[1504], he([1, 0, 24, 33, 29]), function (ce /*require*/,
 					getPage: (n, g) => h.getPage(n, g).then((p) => p.map(c)),
 				};
 			}
-		}),
-		
+		})

@@ -17,5 +17,4 @@ define(de[189], he([1, 0]), function (ce /*require*/,
 			(function (w) {
 				(w.Windows = "windows"), (w.NoProblemsReported = "noProblemsReported");
 			})(i || (e.CommandInvalidationReason = i = {}));
-		}),
-		
+		})

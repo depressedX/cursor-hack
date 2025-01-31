@@ -110,5 +110,4 @@ define(de[579], he([1, 0]), function (ce /*require*/,
 			const a = (h, c) =>
 				!(c.x < h.left || c.x > h.right || c.y > h.bottom || c.y < h.top);
 			e.layoutContainsPoint = a;
-		}),
-		
+		})

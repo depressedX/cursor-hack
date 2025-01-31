@@ -254,5 +254,4 @@ define(de[119], he([1, 0, 12, 4, 109, 5]), function (ce /*require*/,
 				(e.$Lp = (0, E.$Mi)("IExtensionTipsService")),
 				(e.$Mp = (0, i.localize2)(1792, "Extensions")),
 				(e.$Np = (0, i.localize2)(1793, "Preferences"));
-		}),
-		
+		})

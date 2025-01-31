@@ -276,5 +276,4 @@ define(
 					if (!h.ThemeIcon.isThemeIcon(l)) return l;
 				}
 			},
-		),
-		
+		)

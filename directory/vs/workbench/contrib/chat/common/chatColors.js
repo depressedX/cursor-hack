@@ -66,5 +66,4 @@ define(de[980], he([1, 0, 97, 4, 51]), function (ce /*require*/,
 					w.$IP,
 					(0, i.localize)(4742, null),
 				));
-		}),
-		
+		})

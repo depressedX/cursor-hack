@@ -54,5 +54,4 @@ define(de[127], he([1, 0, 7, 2231]), function (ce /*require*/,
 					(c.style.visibility = "hidden"),
 					(c.style.visibility = "visible");
 			}
-		}),
-		
+		})

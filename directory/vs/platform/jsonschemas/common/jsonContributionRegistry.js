@@ -43,5 +43,4 @@ define(de[250], he([1, 0, 6, 2217, 30]), function (ce /*require*/,
 			}
 			const d = new C();
 			w.$Io.add(e.$Jo.JSONContribution, d);
-		}),
-		
+		})

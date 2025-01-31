@@ -47,5 +47,4 @@ define(de[111], he([1, 0, 37]), function (ce /*require*/,
 					w.toString = a;
 				})(i || (i = {})),
 				(e.default = i);
-		}),
-		
+		})

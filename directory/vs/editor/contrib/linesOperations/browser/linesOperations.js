@@ -1179,5 +1179,4 @@ define(
 					X.titleBoundary.isSupported() && (0, w.$ntb)(X),
 					ee.isSupported() && (0, w.$ntb)(ee);
 			},
-		),
-		
+		)

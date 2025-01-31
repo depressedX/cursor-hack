@@ -15,5 +15,4 @@ define(de[971], he([1, 0]), function (ce /*require*/,
 					(w[(w.NotAccepted = 1)] = "NotAccepted"),
 					(w[(w.AcceptedAll = 2)] = "AcceptedAll");
 			})(i || (e.AcceptResult = i = {}));
-		}),
-		
+		})

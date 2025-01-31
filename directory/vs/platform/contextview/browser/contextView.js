@@ -9,5 +9,4 @@ define(de[49], he([1, 0, 5]), function (ce /*require*/,
 				(e.$Xxb = e.$Wxb = void 0),
 				(e.$Wxb = (0, t.$Mi)("contextViewService")),
 				(e.$Xxb = (0, t.$Mi)("contextMenuService"));
-		}),
-		
+		})

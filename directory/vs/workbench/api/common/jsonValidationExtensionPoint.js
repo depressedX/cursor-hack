@@ -127,5 +127,4 @@ define(
 						renderer: new r.$Ji(c),
 					});
 			},
-		),
-		
+		)

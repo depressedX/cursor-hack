@@ -53,5 +53,4 @@ define(de[4010], he([1, 0, 1055, 7, 1515]), function (ce /*require*/,
 				}
 			}
 			e.$ntc = w;
-		}),
-		
+		})

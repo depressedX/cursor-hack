@@ -28,5 +28,4 @@ define(de[1245], he([1, 0, 6, 3, 5]), function (ce /*require*/,
 				}
 			}
 			e.$vnc = E;
-		}),
-		
+		})

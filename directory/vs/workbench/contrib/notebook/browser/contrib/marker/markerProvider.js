@@ -111,5 +111,4 @@ define(
 					(0, t.$s6)(c.ID, c, t.WorkbenchPhase.BlockRestore),
 					(0, r.$PKb)(n.id, n);
 			},
-		),
-		
+		)

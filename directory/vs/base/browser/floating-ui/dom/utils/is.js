@@ -68,5 +68,4 @@ define(de[324], he([1, 0, 662, 537, 594]), function (ce /*require*/,
 			function h(c) {
 				return ["html", "body", "#document"].includes((0, w.$fmb)(c));
 			}
-		}),
-		
+		})

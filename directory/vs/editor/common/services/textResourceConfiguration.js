@@ -9,5 +9,4 @@ define(de[125], he([1, 0, 5]), function (ce /*require*/,
 				(e.$YO = e.$XO = void 0),
 				(e.$XO = (0, t.$Mi)("textResourceConfigurationService")),
 				(e.$YO = (0, t.$Mi)("textResourcePropertiesService"));
-		}),
-		
+		})

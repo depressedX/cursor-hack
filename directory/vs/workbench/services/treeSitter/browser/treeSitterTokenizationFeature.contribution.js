@@ -27,5 +27,4 @@ define(
 					(0, t.$lK)(E.$nV, w.$MAc, t.InstantiationType.Eager),
 					(0, i.$s6)(d.ID, d, i.WorkbenchPhase.BlockRestore);
 			},
-		),
-		
+		)

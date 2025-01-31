@@ -325,5 +325,4 @@ define(
 				};
 				(y = Ne([j(1, C.$Li)], y)), r.$XYb.CONTRIBS.push(y);
 			},
-		),
-		
+		)

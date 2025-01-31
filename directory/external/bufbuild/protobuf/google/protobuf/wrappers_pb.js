@@ -577,5 +577,4 @@ define(
 				}
 				e.BytesValue = n;
 			},
-		),
-		
+		)

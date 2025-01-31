@@ -13,5 +13,4 @@ define(de[2657], he([1, 0, 2656]), function (ce /*require*/,
 						return t.$aob;
 					},
 				});
-		}),
-		
+		})

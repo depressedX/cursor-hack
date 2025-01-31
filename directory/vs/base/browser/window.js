@@ -16,5 +16,4 @@ define(de[75], he([1, 0]), function (ce /*require*/,
 			function i(w) {
 				return w === e.$Bfb ? !1 : typeof w?.vscodeWindowId == "number";
 			}
-		}),
-		
+		})

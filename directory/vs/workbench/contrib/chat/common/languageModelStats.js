@@ -147,5 +147,4 @@ define(
 							access: { canToggle: !1 },
 						});
 			},
-		),
-		
+		)

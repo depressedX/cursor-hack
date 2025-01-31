@@ -42,5 +42,4 @@ define(de[2050], he([1, 0, 86]), function (ce /*require*/,
 				}
 			}
 			e.Status = i;
-		}),
-		
+		})

@@ -21,5 +21,4 @@ define(de[909], he([1, 0, 6]), function (ce /*require*/,
 							this.a !== i && ((this.a = i), this.b.fire(this.a));
 					}
 				})());
-		}),
-		
+		})

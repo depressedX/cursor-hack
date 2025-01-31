@@ -105,5 +105,4 @@ define(de[3105], he([1, 0, 6, 3, 82]), function (ce /*require*/,
 				}
 			}
 			e.$q4b = E;
-		}),
-		
+		})

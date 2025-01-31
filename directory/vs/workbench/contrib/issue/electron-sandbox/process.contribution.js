@@ -145,5 +145,4 @@ define(
 						p.get(a.$5Xb).getSystemStatus(),
 					);
 			},
-		),
-		
+		)

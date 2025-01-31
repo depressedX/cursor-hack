@@ -152,5 +152,4 @@ ${c(b, f)}
 					return { href: o, dimensions: f };
 				}
 			},
-		),
-		
+		)

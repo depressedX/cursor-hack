@@ -65,5 +65,4 @@ define(
 					return { range: r.range, newText: h.asyncIterable };
 				}
 			},
-		),
-		
+		)

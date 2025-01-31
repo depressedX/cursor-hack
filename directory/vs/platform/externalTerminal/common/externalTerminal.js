@@ -9,5 +9,4 @@ define(de[1612], he([1, 0, 5]), function (ce /*require*/,
 				(e.DEFAULT_TERMINAL_OSX = e.IExternalTerminalService = void 0),
 				(e.IExternalTerminalService = (0, t.$Mi)("externalTerminal")),
 				(e.DEFAULT_TERMINAL_OSX = "Terminal.app");
-		}),
-		
+		})

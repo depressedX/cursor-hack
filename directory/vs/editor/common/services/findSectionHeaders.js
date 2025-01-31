@@ -75,5 +75,4 @@ define(de[2569], he([1, 0]), function (ce /*require*/,
 				const u = r.startsWith("-");
 				return (r = r.replace(i, "")), { text: r, hasSeparatorLine: u };
 			}
-		}),
-		
+		})

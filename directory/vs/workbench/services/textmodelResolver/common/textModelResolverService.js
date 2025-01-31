@@ -179,5 +179,4 @@ define(
 						)),
 					(0, h.$lK)(r.$MO, f, h.InstantiationType.Delayed);
 			},
-		),
-		
+		)

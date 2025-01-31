@@ -54,5 +54,4 @@ define(de[1786], he([1, 0, 4]), function (ce /*require*/,
 				},
 			});
 			e.$AYc = { extensionPoint: "viewsWelcome", jsonSchema: w };
-		}),
-		
+		})

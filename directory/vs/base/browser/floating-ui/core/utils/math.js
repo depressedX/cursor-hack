@@ -7,5 +7,4 @@ define(de[1123], he([1, 0]), function (ce /*require*/,
 				(e.max = e.min = void 0),
 				(e.min = Math.min),
 				(e.max = Math.max);
-		}),
-		
+		})

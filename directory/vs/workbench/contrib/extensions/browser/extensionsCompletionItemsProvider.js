@@ -105,5 +105,4 @@ define(
 				};
 				(e.$YTc = r), (e.$YTc = r = Ne([j(0, C.$Hp), j(1, m.$k3)], r));
 			},
-		),
-		
+		)

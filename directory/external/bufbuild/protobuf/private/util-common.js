@@ -194,5 +194,4 @@ define(
 					return r instanceof Uint8Array ? r : new Uint8Array(r);
 				}
 			},
-		),
-		
+		)

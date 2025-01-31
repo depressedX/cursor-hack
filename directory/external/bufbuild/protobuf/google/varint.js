@@ -125,5 +125,4 @@ define(de[1395], he([1, 0]), function (ce /*require*/,
 				if (n & 128) throw new Error("invalid varint");
 				return this.assertBounds(), g >>> 0;
 			}
-		}),
-		
+		})

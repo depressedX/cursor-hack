@@ -620,5 +620,4 @@ define(
 						.as(C.Extensions.Workbench)
 						.registerWorkbenchContribution(m.$E5c, d.LifecyclePhase.Restored);
 			},
-		),
-		
+		)

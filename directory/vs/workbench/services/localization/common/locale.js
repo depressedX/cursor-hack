@@ -9,5 +9,4 @@ define(de[704], he([1, 0, 5]), function (ce /*require*/,
 				(e.$8Sb = e.$7Sb = void 0),
 				(e.$7Sb = (0, t.$Mi)("localizationService")),
 				(e.$8Sb = (0, t.$Mi)("activeLanguageService"));
-		}),
-		
+		})

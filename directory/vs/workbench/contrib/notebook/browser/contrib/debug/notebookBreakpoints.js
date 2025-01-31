@@ -121,5 +121,4 @@ define(
 						.as(d.Extensions.Workbench)
 						.registerWorkbenchContribution(n, c.LifecyclePhase.Restored);
 			},
-		),
-		
+		)

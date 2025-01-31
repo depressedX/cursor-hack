@@ -82,5 +82,4 @@ define(de[2102], he([1, 0, 80, 263]), function (ce /*require*/,
 					return m.flushAtStartup && g(), { send: p, flush: (o) => r.flush(o) };
 				};
 			}
-		}),
-		
+		})

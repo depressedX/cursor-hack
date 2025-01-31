@@ -30,5 +30,4 @@ New grammar file: ${E.location.toString()}`);
 				}
 			}
 			e.$wyc = i;
-		}),
-		
+		})

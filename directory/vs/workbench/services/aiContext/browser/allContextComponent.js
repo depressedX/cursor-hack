@@ -2140,5 +2140,4 @@ ${te.item.item.value.contents}`;
 					})();
 				}
 			},
-		),
-		
+		)

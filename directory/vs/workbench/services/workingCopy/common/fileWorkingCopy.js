@@ -9,5 +9,4 @@ define(de[848], he([1, 0]), function (ce /*require*/,
 			(function (i) {
 				(i[(i.Save = 1)] = "Save"), (i[(i.Backup = 2)] = "Backup");
 			})(t || (e.SnapshotContext = t = {}));
-		}),
-		
+		})

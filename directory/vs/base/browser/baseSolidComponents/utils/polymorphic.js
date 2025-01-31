@@ -84,5 +84,4 @@ define(
 					return (0, E.$4kb)([c, n], { reverseEventHandlers: !0 });
 				}
 			},
-		),
-		
+		)

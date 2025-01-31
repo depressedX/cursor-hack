@@ -57,5 +57,4 @@ define(de[415], he([1, 0, 5]), function (ce /*require*/,
 					Ready: (C) => ({ type: i.Ready, update: C }),
 				}),
 				(e.$_rb = (0, t.$Mi)("updateService"));
-		}),
-		
+		})

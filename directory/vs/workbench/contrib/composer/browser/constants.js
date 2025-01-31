@@ -201,5 +201,4 @@ define(de[169], he([1, 0, 167, 14, 58, 27]), function (ce /*require*/,
 				(e.COMPOSER_STREAM_RETRY_MAX_ATTEMPTS = 3),
 				(e.COMPOSER_STREAM_CHUNK_TIMEOUT_MS = 1e4),
 				(e.ENABLED_BETTER_MARKDOWN_PARSING = !1);
-		}),
-		
+		})

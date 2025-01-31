@@ -81,5 +81,4 @@ define(
 					return (0, C.$G6)(a.priority) < (0, C.$G6)(h.priority);
 				}
 			},
-		),
-		
+		)

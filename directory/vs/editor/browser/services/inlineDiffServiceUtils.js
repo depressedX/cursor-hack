@@ -290,5 +290,4 @@ define(
 					return v;
 				}
 			},
-		),
-		
+		)

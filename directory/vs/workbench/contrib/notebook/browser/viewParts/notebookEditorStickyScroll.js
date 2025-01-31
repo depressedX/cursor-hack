@@ -385,5 +385,4 @@ define(
 					return s.checkCollapsedStickyLines(k, M, y);
 				}
 			},
-		),
-		
+		)

@@ -23,5 +23,4 @@ define(de[868], he([1, 0]), function (ce /*require*/,
 				(e.headerStatusDetailsBin = "Grpc-Status-Details-Bin"),
 				(e.headerMessageType = "Grpc-Message-Type"),
 				(e.headerUserAgent = "User-Agent");
-		}),
-		
+		})

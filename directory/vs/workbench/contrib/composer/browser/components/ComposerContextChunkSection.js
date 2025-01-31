@@ -303,5 +303,4 @@ define(
 					};
 				e.ComposerContextChunkSection = f;
 			},
-		),
-		
+		)

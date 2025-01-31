@@ -24,5 +24,4 @@ define(de[1566], he([1, 0, 369]), function (ce /*require*/,
 					? C.metaKey && !C.ctrlKey
 					: C.ctrlKey && !C.metaKey;
 			}
-		}),
-		
+		})

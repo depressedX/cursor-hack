@@ -85,5 +85,4 @@ define(de[1585], he([1, 0, 3, 6, 7]), function (ce /*require*/,
 				}
 			}
 			e.$isb = E;
-		}),
-		
+		})

@@ -1716,5 +1716,4 @@ define(
 					?.reconnectionProperties?.data;
 			}
 		},
-	),
-		
+	)

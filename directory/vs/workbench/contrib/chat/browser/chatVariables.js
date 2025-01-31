@@ -196,5 +196,4 @@ define(
 				(e.$RIc = p),
 					(e.$RIc = p = Ne([j(0, m.$GYb), j(1, c.$HMb), j(2, n.$E2)], p));
 			},
-		),
-		
+		)

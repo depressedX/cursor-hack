@@ -8,5 +8,4 @@ define(de[900], he([1, 0]), function (ce /*require*/,
 				(e.min = Math.min),
 				(e.max = Math.max),
 				(e.$qmb = Math.round);
-		}),
-		
+		})

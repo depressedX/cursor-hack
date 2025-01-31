@@ -283,5 +283,4 @@ define(de[117], he([1, 0, 5, 8, 30]), function (ce /*require*/,
 			w.$Io.add(e.$WJ.Backend, new l()),
 				(e.$XJ = (0, t.$Mi)("localPtyService")),
 				(e.$YJ = (0, t.$Mi)("terminalLogService"));
-		}),
-		
+		})

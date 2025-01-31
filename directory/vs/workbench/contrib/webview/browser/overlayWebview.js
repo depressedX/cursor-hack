@@ -339,5 +339,4 @@ define(
 					return { top: g, right: p, bottom: o, left: f };
 				}
 			},
-		),
-		
+		)

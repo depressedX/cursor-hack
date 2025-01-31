@@ -30,5 +30,4 @@ define(
 					(e.$5zc = E = Ne([j(0, i.$adc), j(1, w.$0zb)], E)),
 					(0, t.$s6)(E.ID, E, t.WorkbenchPhase.BlockStartup);
 			},
-		),
-		
+		)

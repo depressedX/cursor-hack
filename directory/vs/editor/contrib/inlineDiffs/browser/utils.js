@@ -8,5 +8,4 @@ define(de[1554], he([1, 0]), function (ce /*require*/,
 				const w = i.nonPersistentStorage.multiEditState;
 				return w != null && w.active;
 			}
-		}),
-		
+		})

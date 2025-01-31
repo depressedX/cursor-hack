@@ -211,5 +211,4 @@ define(
 					return B;
 				}
 			},
-		),
-		
+		)

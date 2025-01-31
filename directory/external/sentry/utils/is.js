@@ -96,5 +96,4 @@ define(de[430], he([1, 0]), function (ce /*require*/,
 					(b.__isVue || b._isVue)
 				);
 			}
-		}),
-		
+		})

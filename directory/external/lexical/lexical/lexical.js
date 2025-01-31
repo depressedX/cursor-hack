@@ -7326,5 +7326,4 @@ define(
 				return Qe instanceof ot;
 			}
 		},
-	),
-		
+	)

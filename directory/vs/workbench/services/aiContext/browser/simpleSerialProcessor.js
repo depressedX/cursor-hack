@@ -92,5 +92,4 @@ define(de[1012], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Dcc = i;
-		}),
-		
+		})

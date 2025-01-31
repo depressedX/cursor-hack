@@ -547,5 +547,4 @@ define(
 					if (ue !== fe) return $e.slice(0, ye) + fe + ue + $e.slice(ye + 2);
 				}
 			},
-		),
-		
+		)

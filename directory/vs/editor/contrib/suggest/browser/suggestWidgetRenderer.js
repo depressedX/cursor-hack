@@ -250,5 +250,4 @@ define(
 					return S.replace(/\r\n|\r|\n/g, "");
 				}
 			},
-		),
-		
+		)

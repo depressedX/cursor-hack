@@ -632,5 +632,4 @@ define(
 						}),
 					(0, n.$s6)(O.ID, O, n.WorkbenchPhase.BlockStartup);
 			},
-		),
-		
+		)

@@ -123,5 +123,4 @@ define(de[455], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$X = i;
-		}),
-		
+		})

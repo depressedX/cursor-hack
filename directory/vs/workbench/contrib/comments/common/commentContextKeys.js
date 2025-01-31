@@ -51,5 +51,4 @@ define(de[505], he([1, 0, 4, 8]), function (ce /*require*/,
 						description: t.localize(5117, null),
 					}));
 			})(w || (e.CommentContextKeys = w = {}));
-		}),
-		
+		})

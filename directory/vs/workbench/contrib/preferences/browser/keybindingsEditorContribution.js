@@ -218,5 +218,4 @@ define(
 					r.EditorContributionInstantiation.AfterFirstRender,
 				);
 			},
-		),
-		
+		)

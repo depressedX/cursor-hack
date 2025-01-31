@@ -64,5 +64,4 @@ define(de[40], he([1, 0, 6, 111, 5]), function (ce /*require*/,
 			worked(h) {}
 		}
 		e.$7N = u;
-	}),
-		
+	})

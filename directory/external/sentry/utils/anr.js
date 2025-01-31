@@ -45,5 +45,4 @@ define(de[2079], he([1, 0, 1424, 528, 725]), function (ce /*require*/,
 					in_app: u ? (0, t.filenameIsInApp)(u) : void 0,
 				});
 			}
-		}),
-		
+		})

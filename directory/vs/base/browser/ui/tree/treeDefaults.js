@@ -20,5 +20,4 @@ define(de[2592], he([1, 0, 50, 4]), function (ce /*require*/,
 				}
 			}
 			e.$Jpb = w;
-		}),
-		
+		})

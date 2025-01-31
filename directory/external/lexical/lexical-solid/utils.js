@@ -7,5 +7,4 @@ define(de[1414], he([1, 0]), function (ce /*require*/,
 			function t(i) {
 				return typeof i == "function" ? i() : i;
 			}
-		}),
-		
+		})

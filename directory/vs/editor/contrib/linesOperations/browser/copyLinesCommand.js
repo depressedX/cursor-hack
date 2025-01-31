@@ -83,5 +83,4 @@ define(de[2588], he([1, 0, 17, 104]), function (ce /*require*/,
 				}
 			}
 			e.$Ric = w;
-		}),
-		
+		})

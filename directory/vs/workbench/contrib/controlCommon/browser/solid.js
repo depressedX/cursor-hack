@@ -506,5 +506,4 @@ define(
 					return at ? { close: at } : { close: () => {} };
 				}
 			},
-		),
-		
+		)

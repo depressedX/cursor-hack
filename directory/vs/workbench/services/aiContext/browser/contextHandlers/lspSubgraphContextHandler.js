@@ -45,5 +45,4 @@ define(
 					(e.$SZc = C =
 						Ne([j(1, t.$b0b), j(2, i.$MO), j(3, w.$Nfc), j(4, E.$0zb)], C));
 			},
-		),
-		
+		)

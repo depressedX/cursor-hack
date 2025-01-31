@@ -64,5 +64,4 @@ define(de[2562], he([1, 0, 492]), function (ce /*require*/,
 			function E(C) {
 				return C.length > 0 ? C[C.length - 1] : void 0;
 			}
-		}),
-		
+		})

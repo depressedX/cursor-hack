@@ -55,5 +55,4 @@ define(de[2560], he([1, 0, 532]), function (ce /*require*/,
 				}
 			}
 			e.$3M = i;
-		}),
-		
+		})

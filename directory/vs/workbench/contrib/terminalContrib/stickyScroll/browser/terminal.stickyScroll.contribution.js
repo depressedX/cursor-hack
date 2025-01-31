@@ -49,5 +49,4 @@ define(
 						menu: [{ id: i.$XX.TerminalStickyScrollContext }],
 					});
 			},
-		),
-		
+		)

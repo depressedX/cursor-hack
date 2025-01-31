@@ -96,5 +96,4 @@ define(de[2571], he([1, 0, 6, 3, 171]), function (ce /*require*/,
 					(this.c = !0), m && !this.a && this.D(this.f.register(this.g, m));
 				}
 			}
-		}),
-		
+		})

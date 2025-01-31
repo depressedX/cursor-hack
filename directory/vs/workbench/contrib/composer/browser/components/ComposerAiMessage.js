@@ -875,5 +875,4 @@ define(
 					};
 				e.ComposerAiMessage = q;
 			},
-		),
-		
+		)

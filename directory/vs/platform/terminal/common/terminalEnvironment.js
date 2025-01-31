@@ -35,5 +35,4 @@ define(de[775], he([1, 0, 12]), function (ce /*require*/,
 			function C(d) {
 				return !d.strictEnv;
 			}
-		}),
-		
+		})

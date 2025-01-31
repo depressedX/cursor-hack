@@ -172,5 +172,4 @@ define(de[3374], he([1, 0, 76, 88]), function (ce /*require*/,
 						: void 0;
 				return { message: JSON.parse(m, a), arrayBuffers: u };
 			}
-		}),
-		
+		})

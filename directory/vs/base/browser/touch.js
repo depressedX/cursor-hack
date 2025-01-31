@@ -242,5 +242,4 @@ define(
 				}
 				(e.$Qhb = u), Ne([E.$ei], u, "isTouchDevice", null);
 			},
-		),
-		
+		)

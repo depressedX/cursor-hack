@@ -2642,5 +2642,4 @@ define(
 					oe.onSubmit({ editMode: T.EditMode.SingleFile });
 				};
 			},
-		),
-		
+		)

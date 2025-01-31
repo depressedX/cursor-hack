@@ -374,5 +374,4 @@ TODO
 					},
 					{ model: "claude-3-opus-200k", chatKind: i.ChatKind.longContextChat },
 				]);
-		}),
-		
+		})

@@ -76,5 +76,4 @@ define(
 					});
 				e.browserProfilingIntegration = (0, t.defineIntegration)(r);
 			},
-		),
-		
+		)

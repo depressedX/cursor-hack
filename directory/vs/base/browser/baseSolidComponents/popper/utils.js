@@ -46,5 +46,4 @@ define(de[2179], he([1, 0]), function (ce /*require*/,
 							: `${u} "right"`
 					: `${u} center`;
 			}
-		}),
-		
+		})

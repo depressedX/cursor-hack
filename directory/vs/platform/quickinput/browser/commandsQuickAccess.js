@@ -366,5 +366,4 @@ define(
 				(e.$Q0b = v),
 					(e.$Q0b = v = s = Ne([j(0, o.$lq), j(1, a.$gj), j(2, g.$ik)], v));
 			},
-		),
-		
+		)

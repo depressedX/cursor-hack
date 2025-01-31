@@ -1423,5 +1423,4 @@ define(
 					return ne.type === h.Or ? ne.expr : [ne];
 				}
 			},
-		),
-		
+		)

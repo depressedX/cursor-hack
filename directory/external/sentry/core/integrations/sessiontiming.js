@@ -29,5 +29,4 @@ define(de[2115], he([1, 0, 80, 316]), function (ce /*require*/,
 					};
 				};
 			e.sessionTimingIntegration = (0, i.defineIntegration)(E);
-		}),
-		
+		})

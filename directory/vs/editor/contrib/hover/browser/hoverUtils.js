@@ -17,5 +17,4 @@ define(de[937], he([1, 0, 7]), function (ce /*require*/,
 					C > d.top + d.height
 				);
 			}
-		}),
-		
+		})

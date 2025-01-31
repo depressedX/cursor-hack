@@ -79,5 +79,4 @@ define(
 						d =
 							Ne([(0, w.$tmc)(i.$lbb.MainThreadDialogs), j(1, E.$IO)], m));
 			},
-		),
-		
+		)

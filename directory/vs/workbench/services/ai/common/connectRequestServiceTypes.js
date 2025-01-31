@@ -94,5 +94,4 @@ define(
 						[S.$bbb.typeName]: S.$bbb,
 					});
 			},
-		),
-		
+		)

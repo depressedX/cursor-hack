@@ -59,5 +59,4 @@ define(de[3151], he([1, 0, 1762]), function (ce /*require*/,
 				}
 			}
 			e.$ngd = i;
-		}),
-		
+		})

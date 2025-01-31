@@ -13,5 +13,4 @@ define(de[2162], he([1, 0, 2, 2161]), function (ce /*require*/,
 				(0, i.createPointerSensor)(E.window), (0, t.memo)(() => E.children)
 			);
 			e.DragDropSensors = w;
-		}),
-		
+		})

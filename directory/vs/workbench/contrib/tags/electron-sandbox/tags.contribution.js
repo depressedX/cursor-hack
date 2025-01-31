@@ -19,5 +19,4 @@ define(
 						.as(i.Extensions.Workbench)
 						.registerWorkbenchContribution(w.$rgd, E.LifecyclePhase.Eventually);
 			},
-		),
-		
+		)

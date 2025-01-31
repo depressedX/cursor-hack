@@ -18,5 +18,4 @@ define(de[1894], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Ooc = new t();
-		}),
-		
+		})

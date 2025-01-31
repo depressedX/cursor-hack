@@ -26,5 +26,4 @@ define(de[1730], he([1, 0, 112]), function (ce /*require*/,
 					];
 				return w.createOverlay(m);
 			}
-		}),
-		
+		})

@@ -1303,5 +1303,4 @@ define(
 						)),
 					(0, g.$lK)(e.$R0b, x, g.InstantiationType.Delayed);
 			},
-		),
-		
+		)

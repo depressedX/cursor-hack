@@ -30,5 +30,4 @@ define(de[1086], he([1, 0, 429, 524]), function (ce /*require*/,
 				"google.protobuf.StringValue": t.ScalarType.STRING,
 				"google.protobuf.BytesValue": t.ScalarType.BYTES,
 			};
-		}),
-		
+		})

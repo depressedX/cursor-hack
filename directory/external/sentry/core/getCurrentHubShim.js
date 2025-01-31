@@ -52,5 +52,4 @@ define(de[2126], he([1, 0, 1442, 234, 734]), function (ce /*require*/,
 					r = d.getSession();
 				m && r && m.captureSession(r);
 			}
-		}),
-		
+		})

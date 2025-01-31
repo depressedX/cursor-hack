@@ -30,5 +30,4 @@ define(de[1545], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Eub = i;
-		}),
-		
+		})

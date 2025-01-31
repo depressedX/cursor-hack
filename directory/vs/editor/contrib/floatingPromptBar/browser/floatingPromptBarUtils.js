@@ -20,5 +20,4 @@ define(de[2698], he([1, 0, 19]), function (ce /*require*/,
 						E.nonPersistentReactiveStorage.topPromptBarData.lastGenerationUUID,
 				);
 			}
-		}),
-		
+		})

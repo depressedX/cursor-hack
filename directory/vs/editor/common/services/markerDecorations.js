@@ -22,5 +22,4 @@ define(de[496], he([1, 0, 5, 17]), function (ce /*require*/,
 					(typeof E.lastBubble > "u" || typeof E.lastBubble == "boolean")
 				);
 			}
-		}),
-		
+		})

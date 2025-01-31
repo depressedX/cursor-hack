@@ -79,5 +79,4 @@ define(de[3714], he([1, 0, 97, 51, 307]), function (ce /*require*/,
 				"ansiBrightWhite",
 			];
 			for (const r of m) C(r, "terminal." + r);
-		}),
-		
+		})

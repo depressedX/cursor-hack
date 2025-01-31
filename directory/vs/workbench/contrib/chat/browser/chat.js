@@ -21,5 +21,4 @@ define(de[208], he([1, 0, 4, 5, 981]), function (ce /*require*/,
 				(e.$KYb = (0, i.$Mi)("chatCodeBlockContextProviderService")),
 				(e.$LYb = (0, t.localize)(4635, null)),
 				(e.$MYb = `workbench.panel.chat.view.${w.$b3}`);
-		}),
-		
+		})

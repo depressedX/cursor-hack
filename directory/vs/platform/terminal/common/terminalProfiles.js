@@ -98,5 +98,4 @@ define(de[955], he([1, 0, 14, 9, 4, 26]), function (ce /*require*/,
 					? typeof h.path == "string" && typeof h.scheme == "string"
 					: !1;
 			}
-		}),
-		
+		})

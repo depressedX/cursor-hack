@@ -15,5 +15,4 @@ define(de[1265], he([1, 0, 259]), function (ce /*require*/,
 				}
 				return C.collapsed;
 			}
-		}),
-		
+		})

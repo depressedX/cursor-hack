@@ -22,5 +22,4 @@ define(de[3063], he([1, 0, 15, 23]), function (ce /*require*/,
 					m.scheme === i.Schemas.file && C.showItemInFolder(m.fsPath);
 				}
 			}
-		}),
-		
+		})

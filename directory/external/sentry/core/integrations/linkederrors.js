@@ -32,5 +32,4 @@ define(de[2111], he([1, 0, 80, 316]), function (ce /*require*/,
 					};
 				};
 			e.linkedErrorsIntegration = (0, i.defineIntegration)(d);
-		}),
-		
+		})

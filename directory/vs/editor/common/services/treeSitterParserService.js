@@ -9,5 +9,4 @@ define(de[763], he([1, 0, 5]), function (ce /*require*/,
 				(e.$nV = e.$mV = void 0),
 				(e.$mV = "editor.experimental.preferTreeSitter"),
 				(e.$nV = (0, t.$Mi)("treeSitterParserService"));
-		}),
-		
+		})

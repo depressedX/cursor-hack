@@ -9,5 +9,4 @@ define(de[717], he([1, 0, 5]), function (ce /*require*/,
 				(e.$b2c = e.$a2c = void 0),
 				(e.$a2c = (0, t.$Mi)("workingCopyHistoryService")),
 				(e.$b2c = 20);
-		}),
-		
+		})

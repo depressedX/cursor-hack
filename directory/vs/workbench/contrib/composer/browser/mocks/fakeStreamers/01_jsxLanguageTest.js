@@ -39,5 +39,4 @@ This layout maintains the sandwiching effect you were looking for, regardless of
 
 Is this layout more in line with what you were expecting? Let me know if you need any further adjustments or explanations.`,
 				});
-		}),
-		
+		})

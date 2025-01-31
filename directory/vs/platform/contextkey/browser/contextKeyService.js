@@ -421,5 +421,4 @@ define(
 							console.log(JSON.stringify(L, void 0, 2));
 					});
 			},
-		),
-		
+		)

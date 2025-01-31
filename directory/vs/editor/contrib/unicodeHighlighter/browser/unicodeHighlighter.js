@@ -704,5 +704,4 @@ define(
 					),
 					o.$5Bb.register(N);
 			},
-		),
-		
+		)

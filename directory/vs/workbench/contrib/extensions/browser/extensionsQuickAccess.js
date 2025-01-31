@@ -118,5 +118,4 @@ define(
 					f?.search(p), f?.focus();
 				}
 			},
-		),
-		
+		)

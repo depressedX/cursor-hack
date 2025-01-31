@@ -66,5 +66,4 @@ define(de[368], he([1, 0]), function (ce /*require*/,
 						return this._participants;
 					}
 				})());
-		}),
-		
+		})

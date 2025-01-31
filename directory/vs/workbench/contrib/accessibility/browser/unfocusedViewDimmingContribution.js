@@ -115,5 +115,4 @@ define(
 					return typeof a == "number" ? a : h;
 				}
 			},
-		),
-		
+		)

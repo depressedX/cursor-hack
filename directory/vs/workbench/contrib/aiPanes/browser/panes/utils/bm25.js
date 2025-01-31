@@ -105,5 +105,4 @@ define(de[2994], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.default = i;
-		}),
-		
+		})

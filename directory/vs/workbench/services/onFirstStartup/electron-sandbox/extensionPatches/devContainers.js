@@ -16,5 +16,4 @@ define(de[3510], he([1, 0]), function (ce /*require*/,
 					{ relativeFilePath: "dist/extension/extension.js", replaceFn: t },
 				],
 			};
-		}),
-		
+		})

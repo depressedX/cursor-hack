@@ -143,5 +143,4 @@ define(
 						((0, c.$s6)(l.ID, l, c.WorkbenchPhase.BlockRestore),
 						(0, C.$ntb)(y));
 			},
-		),
-		
+		)

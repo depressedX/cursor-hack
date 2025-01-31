@@ -54,5 +54,4 @@ define(
 				};
 				e.onFID = r;
 			},
-		),
-		
+		)

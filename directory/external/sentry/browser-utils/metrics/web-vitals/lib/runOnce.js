@@ -12,5 +12,4 @@ define(de[1091], he([1, 0]), function (ce /*require*/,
 				};
 			};
 			e.runOnce = t;
-		}),
-		
+		})

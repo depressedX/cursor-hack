@@ -1014,5 +1014,4 @@ define(
 						.as(O.Extensions.Workbench)
 						.registerWorkbenchContribution(ye, B.LifecyclePhase.Eventually);
 			},
-		),
-		
+		)

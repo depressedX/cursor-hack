@@ -9,5 +9,4 @@ define(de[1611], he([1, 0, 5]), function (ce /*require*/,
 				(e.$v7c = e.$u7c = void 0),
 				(e.$u7c = (0, t.$Mi)("extensionHostStarter")),
 				(e.$v7c = "extensionHostStarter");
-		}),
-		
+		})

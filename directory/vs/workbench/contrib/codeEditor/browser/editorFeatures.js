@@ -49,5 +49,4 @@ define(
 				(m = Ne([j(0, w.$dtb), j(1, C.$Li)], m)),
 					(0, d.$s6)(m.ID, m, d.WorkbenchPhase.BlockRestore);
 			},
-		),
-		
+		)

@@ -288,5 +288,4 @@ define(
 					(e.$fgd = n =
 						Ne([j(5, m.$y7c), j(6, h.$6Xb), j(7, d.$5Xb), j(8, r.$iP)], n));
 			},
-		),
-		
+		)

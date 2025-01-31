@@ -38,5 +38,4 @@ define(de[2548], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$BGc = t;
-		}),
-		
+		})

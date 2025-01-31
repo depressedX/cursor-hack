@@ -35,5 +35,4 @@ define(de[1095], he([1, 0, 80]), function (ce /*require*/,
 					]);
 				} else n.set(h, [g, { min: r, max: r, count: 1, sum: r, tags: a }]);
 			}
-		}),
-		
+		})

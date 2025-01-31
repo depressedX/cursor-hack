@@ -74,5 +74,4 @@ define(
 						return (0, i.$xk)(a.getLevel());
 					});
 			},
-		),
-		
+		)

@@ -1362,5 +1362,4 @@ define(
 					: await Promise.all(se.getSessions().map((oe) => le(oe)));
 			}
 		},
-	),
-		
+	)

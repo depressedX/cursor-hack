@@ -59,5 +59,4 @@ define(de[143], he([1, 0, 5, 15]), function (ce /*require*/,
 						);
 					}
 				})());
-		}),
-		
+		})

@@ -330,5 +330,4 @@ define(
 				(e.$Ecc = c),
 					(e.$Ecc = c = Ne([j(4, a.$ycc), j(5, E.$dtb), j(6, m.$Cxb)], c));
 			},
-		),
-		
+		)

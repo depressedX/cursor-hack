@@ -128,5 +128,4 @@ define(
 					};
 				e.ComposerMessageAutoContextCodeBlock = p;
 			},
-		),
-		
+		)

@@ -116,5 +116,4 @@ define(de[2555], he([1, 0, 587]), function (ce /*require*/,
 				}
 				return { identical: c, quitEarly: h.hitTimeout, changes: n(h.changes) };
 			}
-		}),
-		
+		})

@@ -146,5 +146,4 @@ define(de[2959], he([1, 0]), function (ce /*require*/,
 						throw new Error("Unexpected state: DONE");
 				}
 			}
-		}),
-		
+		})

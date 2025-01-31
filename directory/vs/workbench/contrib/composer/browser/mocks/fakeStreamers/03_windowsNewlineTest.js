@@ -20,5 +20,4 @@ console.log('You');\r
 \`\`\`\r
 hi${t.SPACE}`,
 				});
-		}),
-		
+		})

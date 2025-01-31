@@ -16,5 +16,4 @@ define(de[1462], he([1, 0, 144, 890]), function (ce /*require*/,
 					async (d) => (C.sendEnvelope(d.body), { statusCode: 200 }),
 				);
 			}
-		}),
-		
+		})

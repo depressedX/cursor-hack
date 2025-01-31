@@ -170,5 +170,4 @@ define(
 					(e.$Lqc = o =
 						Ne([j(0, m.$6j), j(1, n.$Gqc), j(2, h.$Bqc), j(3, u.$km)], o));
 			},
-		),
-		
+		)

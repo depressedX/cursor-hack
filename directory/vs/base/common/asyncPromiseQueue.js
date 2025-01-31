@@ -59,5 +59,4 @@ define(de[1497], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Kpb = t;
-		}),
-		
+		})

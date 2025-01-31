@@ -69,5 +69,4 @@ define(
 			};
 			(e.$Mlc = u), (e.$Mlc = u = d = Ne([j(1, E.$Li), j(2, w.$ek)], u));
 		},
-	),
-		
+	)

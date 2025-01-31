@@ -2843,5 +2843,4 @@ ${_.content}
 					)),
 				(0, E.$lK)(e.IComposerUtilsService, ie, C.InstantiationType.Delayed);
 		},
-	),
-		
+	)

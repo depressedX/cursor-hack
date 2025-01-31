@@ -1140,5 +1140,4 @@ define(
 					T?.classList.remove("hidden");
 				}
 			},
-		),
-		
+		)

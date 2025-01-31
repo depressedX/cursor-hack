@@ -1,0 +1,502 @@
+syntax = "proto3";
+
+package aiserver.v1;
+
+enum LintSeverity {
+  LINT_SEVERITY_UNSPECIFIED = 0;
+  LINT_SEVERITY_ERROR = 1;
+  LINT_SEVERITY_WARNING = 2;
+  LINT_SEVERITY_INFO = 3;
+  LINT_SEVERITY_HINT = 4;
+  LINT_SEVERITY_AI = 5;
+}
+
+enum FeatureType {
+  FEATURE_TYPE_UNSPECIFIED = 0;
+  FEATURE_TYPE_EDIT = 1;
+  FEATURE_TYPE_GENERATE = 2;
+  FEATURE_TYPE_INLINE_LONG_COMPLETION = 3;
+}
+
+enum EmbeddingModel {
+  EMBEDDING_MODEL_UNSPECIFIED = 0;
+  EMBEDDING_MODEL_VOYAGE_CODE_2 = 1;
+  EMBEDDING_MODEL_TEXT_EMBEDDINGS_LARGE_3 = 2;
+  EMBEDDING_MODEL_QWEN_1_5B_CUSTOM = 3;
+}
+
+message CursorPosition {
+  int32 line = 1;
+  int32 column = 2;
+}
+
+message SelectionWithOrientation {
+  int32 selection_start_line_number = 1;
+  int32 selection_start_column = 2;
+  int32 position_line_number = 3;
+  int32 position_column = 4;
+}
+
+message SimplestRange {
+  int32 start_line = 1;
+  int32 end_line_inclusive = 2;
+}
+
+message ComputeLinesDiffOriginalAndModified {
+  repeated string original = 1;
+  repeated string modified = 2;
+}
+
+message GitDiff {
+  enum DiffType {
+    DIFF_TYPE_UNSPECIFIED = 0;
+    DIFF_TYPE_DIFF_TO_HEAD = 1;
+    DIFF_TYPE_DIFF_FROM_BRANCH_TO_MAIN = 2;
+  }
+  repeated FileDiff diffs = 1;
+  DiffType diff_type = 2;
+}
+
+message FileDiff {
+  string from = 1;
+  string to = 2;
+  repeated Chunk chunks = 3;
+
+  message Chunk {
+    string content = 1;
+    repeated string lines = 2;
+    int32 old_start = 3;
+    int32 old_lines = 4;
+    int32 new_start = 5;
+    int32 new_lines = 6;
+  }
+}
+
+message SimpleRange {
+  int32 start_line_number = 1;
+  int32 start_column = 2;
+  int32 end_line_number_inclusive = 3;
+  int32 end_column = 4;
+}
+
+message SimpleFileChunk {
+  string relative_workspace_path = 1;
+  SimplestRange range = 2;
+  string chunk_hash = 3;
+}
+
+message CmdKDebugInfo {
+  string remote_url = 1;
+  string commit_id = 2;
+  string git_patch = 3;
+  repeated UnsavedFiles unsaved_files = 4;
+  int64 unix_timestamp_ms = 5;
+  repeated OpenEditor open_editors = 6;
+  repeated CppFileDiffHistory file_diff_histories = 7;
+  string branch_name = 8;
+  string branch_notes = 9;
+  string global_notes = 10;
+  repeated PastThought past_thoughts = 11;
+  string branch_notes_rich = 12;
+  string base_branch_name = 13;
+  string base_branch_commit_id = 14;
+
+  message UnsavedFiles {
+    string relative_workspace_path = 1;
+    string contents = 2;
+  }
+
+  message OpenEditor {
+    string relative_workspace_path = 1;
+    int32 editor_group_index = 2;
+    int32 editor_group_id = 3;
+    bool is_active = 4;
+  }
+
+  message CppFileDiffHistory {
+    string file_name = 1;
+    repeated string diff_history = 2;
+  }
+
+  message PastThought {
+    string text = 1;
+    int64 time_in_unix_seconds = 2;
+  }
+}
+
+message LineRange {
+  int32 start_line_number = 1;
+  int32 end_line_number_inclusive = 2;
+}
+
+message CursorRange {
+  CursorPosition start_position = 1;
+  CursorPosition end_position = 2;
+}
+
+message DetailedLine {
+  string text = 1;
+  double line_number = 2;
+  bool is_signature = 3;
+}
+
+message CodeBlock {
+  string relative_workspace_path = 1;
+  optional string file_contents = 2;
+  optional int32 file_contents_length = 9;
+  CursorRange range = 3;
+  string contents = 4;
+  Signatures signatures = 5;
+  optional string override_contents = 6;
+  optional string original_contents = 7;
+  repeated DetailedLine detailed_lines = 8;
+
+  message Signatures {
+    repeated CursorRange ranges = 1;
+  }
+}
+
+message File {
+  string relative_workspace_path = 1;
+  string contents = 2;
+}
+
+message Diagnostic {
+  enum DiagnosticSeverity {
+    DIAGNOSTIC_SEVERITY_UNSPECIFIED = 0;
+    DIAGNOSTIC_SEVERITY_ERROR = 1;
+    DIAGNOSTIC_SEVERITY_WARNING = 2;
+    DIAGNOSTIC_SEVERITY_INFORMATION = 3;
+    DIAGNOSTIC_SEVERITY_HINT = 4;
+  }
+
+  string message = 1;
+  CursorRange range = 2;
+  DiagnosticSeverity severity = 3;
+  repeated RelatedInformation related_information = 4;
+
+  message RelatedInformation {
+    string message = 1;
+    CursorRange range = 2;
+  }
+}
+
+message Lint {
+  string message = 1;
+  SimpleRange range = 2;
+  LintSeverity severity = 3;
+}
+
+message BM25Chunk {
+  string content = 1;
+  SimplestRange range = 2;
+  int32 score = 3;
+  string relative_path = 4;
+}
+
+message CurrentFileInfo {
+  string relative_workspace_path = 1;
+  string contents = 2;
+  bool rely_on_filesync = 18;
+  optional string sha_256_hash = 17;
+  repeated NotebookCell cells = 16;
+  repeated BM25Chunk top_chunks = 10;
+  int32 contents_start_at_line = 9;
+  CursorPosition cursor_position = 3;
+  repeated DataframeInfo dataframes = 4;
+  int32 total_number_of_lines = 8;
+  string language_id = 5;
+  CursorRange selection = 6;
+  optional int32 alternative_version_id = 11;
+  repeated Diagnostic diagnostics = 7;
+  optional int32 file_version = 14;
+  repeated int32 cell_start_lines = 15;
+  string workspace_root_path = 19;
+
+  message NotebookCell {}
+}
+
+message AzureState {
+  string api_key = 1;
+  string base_url = 2;
+  string deployment = 3;
+  bool use_azure = 4;
+}
+
+message ModelDetails {
+  optional string model_name = 1;
+  optional string api_key = 2;
+  optional bool enable_ghost_mode = 3;
+  optional AzureState azure_state = 4;
+  optional bool enable_slow_pool = 5;
+  optional string openai_api_base_url = 6;
+}
+
+message DataframeInfo {
+  string name = 1;
+  string shape = 2;
+  int32 data_dimensionality = 3;
+  repeated Column columns = 6;
+  int32 row_count = 7;
+  string index_column = 8;
+
+  message Column {
+    string key = 1;
+    string type = 2;
+  }
+}
+
+message LinterError {
+  string message = 1;
+  CursorRange range = 2;
+  optional string source = 3;
+  repeated Diagnostic.RelatedInformation related_information = 4;
+  optional Diagnostic.DiagnosticSeverity severity = 5;
+}
+
+message LinterErrors {
+  string relative_workspace_path = 1;
+  repeated LinterError errors = 2;
+  string file_contents = 3;
+}
+
+message LinterErrorsWithoutFileContents {
+  string relative_workspace_path = 1;
+  repeated LinterError errors = 2;
+}
+
+message ExplicitContext {
+  string context = 1;
+  optional string repo_context = 2;
+}
+
+message PureMessage {
+  enum MessageType {
+    MESSAGE_TYPE_UNSPECIFIED = 0;
+    MESSAGE_TYPE_SYSTEM = 1;
+    MESSAGE_TYPE_USER = 2;
+    MESSAGE_TYPE_ASSISTANT = 3;
+  }
+  MessageType message_type = 1;
+  string content = 2;
+}
+
+message DocumentSymbol {
+  enum SymbolKind {
+    SYMBOL_KIND_UNSPECIFIED = 0;
+    SYMBOL_KIND_FILE = 1;
+    SYMBOL_KIND_MODULE = 2;
+    SYMBOL_KIND_NAMESPACE = 3;
+    SYMBOL_KIND_PACKAGE = 4;
+    SYMBOL_KIND_CLASS = 5;
+    SYMBOL_KIND_METHOD = 6;
+    SYMBOL_KIND_PROPERTY = 7;
+    SYMBOL_KIND_FIELD = 8;
+    SYMBOL_KIND_CONSTRUCTOR = 9;
+    SYMBOL_KIND_ENUM = 10;
+    SYMBOL_KIND_INTERFACE = 11;
+    SYMBOL_KIND_FUNCTION = 12;
+    SYMBOL_KIND_VARIABLE = 13;
+    SYMBOL_KIND_CONSTANT = 14;
+    SYMBOL_KIND_STRING = 15;
+    SYMBOL_KIND_NUMBER = 16;
+    SYMBOL_KIND_BOOLEAN = 17;
+    SYMBOL_KIND_ARRAY = 18;
+    SYMBOL_KIND_OBJECT = 19;
+    SYMBOL_KIND_KEY = 20;
+    SYMBOL_KIND_NULL = 21;
+    SYMBOL_KIND_ENUM_MEMBER = 22;
+    SYMBOL_KIND_STRUCT = 23;
+    SYMBOL_KIND_EVENT = 24;
+    SYMBOL_KIND_OPERATOR = 25;
+    SYMBOL_KIND_TYPE_PARAMETER = 26;
+  }
+
+  string name = 1;
+  string detail = 2;
+  SymbolKind kind = 3;
+  string container_name = 5;
+  Range range = 6;
+  Range selection_range = 7;
+  repeated DocumentSymbol children = 8;
+
+  message Range {
+    int32 start_line_number = 1;
+    int32 start_column = 2;
+    int32 end_line_number = 3;
+    int32 end_column = 4;
+  }
+}
+
+message HoverDetails {
+  string code_details = 1;
+  repeated string markdown_blocks = 2;
+}
+
+message UriComponents {
+  string scheme = 1;
+  optional string authority = 2;
+  optional string path = 3;
+  optional string query = 4;
+  optional string fragment = 5;
+}
+
+message DocumentSymbolWithText {
+  DocumentSymbol symbol = 1;
+  string relative_workspace_path = 2;
+  string text_in_symbol_range = 3;
+  UriComponents uri_components = 4;
+}
+
+message ErrorDetails {
+  enum Error {
+    ERROR_UNSPECIFIED = 0;
+    ERROR_BAD_API_KEY = 1;
+    ERROR_BAD_USER_API_KEY = 42;
+    ERROR_NOT_LOGGED_IN = 2;
+    ERROR_INVALID_AUTH_ID = 3;
+    ERROR_NOT_HIGH_ENOUGH_PERMISSIONS = 4;
+    ERROR_AGENT_REQUIRES_LOGIN = 18;
+    ERROR_BAD_MODEL_NAME = 5;
+    ERROR_NOT_FOUND = 39;
+    ERROR_DEPRECATED = 40;
+    ERROR_USER_NOT_FOUND = 6;
+    ERROR_FREE_USER_RATE_LIMIT_EXCEEDED = 7;
+    ERROR_PRO_USER_RATE_LIMIT_EXCEEDED = 8;
+    ERROR_FREE_USER_USAGE_LIMIT = 9;
+    ERROR_PRO_USER_USAGE_LIMIT = 10;
+    ERROR_RESOURCE_EXHAUSTED = 41;
+    ERROR_AUTH_TOKEN_NOT_FOUND = 11;
+    ERROR_AUTH_TOKEN_EXPIRED = 12;
+    ERROR_OPENAI = 13;
+    ERROR_OPENAI_RATE_LIMIT_EXCEEDED = 14;
+    ERROR_OPENAI_ACCOUNT_LIMIT_EXCEEDED = 15;
+    ERROR_TASK_UUID_NOT_FOUND = 16;
+    ERROR_TASK_NO_PERMISSIONS = 17;
+    ERROR_AGENT_ENGINE_NOT_FOUND = 19;
+    ERROR_MAX_TOKENS = 20;
+    ERROR_PRO_USER_ONLY = 23;
+    ERROR_API_KEY_NOT_SUPPORTED = 24;
+    ERROR_USER_ABORTED_REQUEST = 21;
+    ERROR_TIMEOUT = 25;
+    ERROR_GENERIC_RATE_LIMIT_EXCEEDED = 22;
+    ERROR_SLASH_EDIT_FILE_TOO_LONG = 26;
+    ERROR_FILE_UNSUPPORTED = 27;
+    ERROR_GPT_4_VISION_PREVIEW_RATE_LIMIT = 28;
+    ERROR_CUSTOM_MESSAGE = 29;
+    ERROR_OUTDATED_CLIENT = 30;
+    ERROR_CLAUDE_IMAGE_TOO_LARGE = 31;
+    ERROR_GITGRAPH_NOT_FOUND = 32;
+    ERROR_FILE_NOT_FOUND = 33;
+    ERROR_API_KEY_RATE_LIMIT = 34;
+    ERROR_DEBOUNCED = 35;
+    ERROR_BAD_REQUEST = 36;
+    ERROR_REPOSITORY_SERVICE_REPOSITORY_IS_NOT_INITIALIZED = 37;
+    ERROR_UNAUTHORIZED = 38;
+  }
+  Error error = 1;
+  CustomErrorDetails details = 2;
+  optional bool is_expected = 3;
+}
+
+message CustomErrorDetails {
+  string title = 1;
+  string detail = 2;
+  optional bool allow_command_links_potentially_unsafe_please_only_use_for_handwritten_trusted_markdown = 3;
+  optional bool is_retryable = 4;
+  optional bool show_request_id = 5;
+  optional bool should_show_immediate_error = 6;
+}
+
+message ImageProto {
+  bytes data = 1;
+  Dimension dimension = 2;
+
+  message Dimension {
+    int32 width = 1;
+    int32 height = 2;
+  }
+}
+
+message ChatQuote {
+  string markdown = 1;
+  string bubble_id = 2;
+  int32 section_index = 3;
+}
+
+message ChatExternalLink {
+  string url = 1;
+  string uuid = 2;
+}
+
+message ComposerExternalLink {
+  string url = 1;
+  string uuid = 2;
+}
+
+message CmdKExternalLink {
+  string url = 1;
+  string uuid = 2;
+}
+
+message CommitNote {
+  string note = 1;
+  string commit_hash = 2;
+}
+
+message CommitNoteWithEmbeddings {
+  string note = 1;
+  string commit_hash = 2;
+  repeated double embeddings = 3;
+}
+
+message CommitDiffString {
+  string diff = 1;
+}
+
+message FullCommitNotes {
+  repeated CommitNote notes = 1;
+  string commit_hash = 2;
+  string repo_url = 3;
+  string files_changed_relative_path = 4;
+}
+
+message CrossExtHostHeader {
+  string key = 1;
+  string value = 2;
+}
+
+message CrossExtHostHeaders {
+  repeated CrossExtHostHeader headers = 1;
+}
+
+message SimpleUnaryCrossExtensionHostMessage {
+  bytes message = 1;
+  CrossExtHostHeaders header = 2;
+  CrossExtHostHeaders trailer = 3;
+  bool is_error = 4;
+  string connect_error = 5;
+}
+
+message CodeChunk {
+  string relative_workspace_path = 1;
+  int32 start_line_number = 2;
+  repeated string lines = 3;
+  optional SummarizationStrategy summarization_strategy = 4;
+  string language_identifier = 5;
+  optional Intent intent = 6;
+  optional bool is_final_version = 7;
+  optional bool is_first_version = 8;
+
+  enum Intent {
+    INTENT_UNSPECIFIED = 0;
+    INTENT_COMPOSER_FILE = 1;
+    INTENT_COMPRESSED_COMPOSER_FILE = 2;
+  }
+
+  enum SummarizationStrategy {
+    SUMMARIZATION_STRATEGY_NONE_UNSPECIFIED = 0;
+    SUMMARIZATION_STRATEGY_SUMMARIZED = 1;
+    SUMMARIZATION_STRATEGY_EMBEDDED = 2;
+  }
+}

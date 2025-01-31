@@ -113,5 +113,4 @@ define(
 							)),
 					(0, t.$qtb)(n.ID, n, t.EditorContributionInstantiation.Eventually);
 			},
-		),
-		
+		)

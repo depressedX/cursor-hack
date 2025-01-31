@@ -18,5 +18,4 @@ define(de[3509], he([1, 0]), function (ce /*require*/,
 				extensionId: "detachhead.basedpyright",
 				fixes: [{ relativeFilePath: "package.json", replaceFn: t }],
 			};
-		}),
-		
+		})

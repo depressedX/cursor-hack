@@ -50,5 +50,4 @@ define(de[2593], he([1, 0, 164]), function (ce /*require*/,
 			function E(C) {
 				return C instanceof i;
 			}
-		}),
-		
+		})

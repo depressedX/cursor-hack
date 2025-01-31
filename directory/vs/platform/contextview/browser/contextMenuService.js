@@ -104,5 +104,4 @@ define(
 					p.transform = f;
 				})(g || (e.ContextMenuMenuDelegate = g = {}));
 			},
-		),
-		
+		)

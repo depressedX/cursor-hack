@@ -173,5 +173,4 @@ define(de[298], he([1, 0, 9, 310, 272]), function (ce /*require*/,
 						return i.TypeaheadOptionType.code;
 				}
 			}
-		}),
-		
+		})

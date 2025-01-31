@@ -7,5 +7,4 @@ define(de[2226], he([1, 0]), function (ce /*require*/,
 				(e.$_qb = e.$$qb = void 0),
 				(e.$$qb = "vscode:contextmenu"),
 				(e.$_qb = "vscode:onCloseContextMenu");
-		}),
-		
+		})

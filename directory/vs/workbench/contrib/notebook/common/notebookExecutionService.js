@@ -14,5 +14,4 @@ define(de[611], he([1, 0, 5]), function (ce /*require*/,
 					(w[(w.ExecutionState = 3)] = "ExecutionState");
 			})(i || (e.CellExecutionUpdateType = i = {})),
 				(e.$c6 = (0, t.$Mi)("INotebookExecutionService"));
-		}),
-		
+		})

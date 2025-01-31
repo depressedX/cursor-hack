@@ -52,5 +52,4 @@ define(de[2780], he([1, 0, 4, 12, 81, 30]), function (ce /*require*/,
 					},
 				};
 			m.registerConfiguration(r);
-		}),
-		
+		})

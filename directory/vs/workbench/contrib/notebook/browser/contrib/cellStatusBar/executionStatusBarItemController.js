@@ -301,5 +301,4 @@ Renderer Duration: ${f(N[B])}
 				};
 				v = o = Ne([j(2, n.$d6), j(3, g.$MIb)], v);
 			},
-		),
-		
+		)

@@ -32,5 +32,4 @@ define(de[1757], he([1, 0]), function (ce /*require*/,
 			(function (C) {
 				(C[(C.Started = 1)] = "Started"), (C[(C.Active = 2)] = "Active");
 			})(E || (e.TaskExecuteKind = E = {}));
-		}),
-		
+		})

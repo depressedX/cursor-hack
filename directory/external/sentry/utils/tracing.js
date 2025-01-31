@@ -46,5 +46,4 @@ define(de[2085], he([1, 0, 1430, 727]), function (ce /*require*/,
 				let u = "";
 				return r !== void 0 && (u = r ? "-1" : "-0"), `${d}-${m}${u}`;
 			}
-		}),
-		
+		})

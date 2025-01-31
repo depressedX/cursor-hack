@@ -1910,5 +1910,4 @@ define(
 				return `${Ee.displayName}, ${Be ? `${Be}, ` : ""}${Ee.version}, ${Ie}, ${Ee.description} ${Se ? `, ${Se}` : ""}`;
 			}
 		},
-	),
-		
+	)

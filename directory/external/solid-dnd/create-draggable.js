@@ -63,5 +63,4 @@ define(
 				};
 				e.createDraggable = C;
 			},
-		),
-		
+		)

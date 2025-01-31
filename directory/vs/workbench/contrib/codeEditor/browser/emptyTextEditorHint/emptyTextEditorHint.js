@@ -422,5 +422,4 @@ define(
 				}
 				(0, h.$qtb)(R.ID, R, h.EditorContributionInstantiation.Eager);
 			},
-		),
-		
+		)

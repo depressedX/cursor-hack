@@ -6,5 +6,4 @@ define(de[3620], he([1, 0, 3619, 626]), function (ce /*require*/,
  e /*exports*/) {
 			"use strict";
 			Object.defineProperty(e, "__esModule", { value: !0 });
-		}),
-		
+		})

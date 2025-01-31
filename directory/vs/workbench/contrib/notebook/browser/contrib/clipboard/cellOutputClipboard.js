@@ -53,5 +53,4 @@ define(de[1837], he([1, 0, 70]), function (ce /*require*/,
 				"text/markdown",
 				"application/json",
 			];
-		}),
-		
+		})

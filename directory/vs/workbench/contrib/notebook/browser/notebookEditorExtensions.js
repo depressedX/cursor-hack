@@ -36,5 +36,4 @@ define(de[330], he([1, 0]), function (ce /*require*/,
 				}
 				E.getSomeEditorContributions = d;
 			})(w || (e.NotebookEditorExtensionsRegistry = w = {}));
-		}),
-		
+		})

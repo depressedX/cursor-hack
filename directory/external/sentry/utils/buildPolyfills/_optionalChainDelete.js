@@ -11,5 +11,4 @@ define(de[2065], he([1, 0, 1420]), function (ce /*require*/,
 				const E = (0, t._optionalChain)(w);
 				return E ?? !0;
 			}
-		}),
-		
+		})

@@ -21,5 +21,4 @@ define(de[870], he([1, 0]), function (ce /*require*/,
 				}
 				return (d.supported = C), d;
 			}
-		}),
-		
+		})

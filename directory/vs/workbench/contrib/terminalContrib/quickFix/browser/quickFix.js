@@ -15,5 +15,4 @@ define(de[998], he([1, 0, 5]), function (ce /*require*/,
 					(w[(w.Port = 2)] = "Port"),
 					(w[(w.VscodeCommand = 3)] = "VscodeCommand");
 			})(i || (e.TerminalQuickFixType = i = {}));
-		}),
-		
+		})

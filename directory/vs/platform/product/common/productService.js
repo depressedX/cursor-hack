@@ -19,5 +19,4 @@ define(de[62], he([1, 0, 9, 5]), function (ce /*require*/,
 					"shadow-workspaces",
 				);
 			}
-		}),
-		
+		})

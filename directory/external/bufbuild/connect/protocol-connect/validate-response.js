@@ -63,5 +63,4 @@ define(
 					return { compression: g, ...m(u, h, c, n) };
 				}
 			},
-		),
-		
+		)

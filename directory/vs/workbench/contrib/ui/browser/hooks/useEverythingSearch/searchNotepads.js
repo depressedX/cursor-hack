@@ -38,5 +38,4 @@ define(de[3199], he([1, 0, 322, 63, 444]), function (ce /*require*/,
 					.filter((u) => u.labelMatches?.length || !C)
 					.sort((u, a) => a.score - u.score);
 			}
-		}),
-		
+		})

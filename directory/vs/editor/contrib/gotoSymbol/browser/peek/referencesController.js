@@ -421,5 +421,4 @@ define(
 							T(P, (D) => D.openReference(L[0], !1, !0));
 					});
 			},
-		),
-		
+		)

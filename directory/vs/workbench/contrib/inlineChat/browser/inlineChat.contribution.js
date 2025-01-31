@@ -114,5 +114,4 @@ define(
 					o.$Whc.register(new c.$lJc()),
 					o.$Whc.register(new y.$mJc());
 			},
-		),
-		
+		)

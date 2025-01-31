@@ -319,5 +319,4 @@ define(de[134], he([1, 0]), function (ce /*require*/,
 						"composerEditHistoryDiffFormatter.processModelChange"),
 					(A.GetModelValue = "composerEditHistoryDiffFormatter.getModelValue");
 			})(N || (e.ComposerEditHistoryActions = N = {}));
-		}),
-		
+		})

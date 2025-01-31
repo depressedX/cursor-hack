@@ -67,5 +67,4 @@ define(de[933], he([1, 0, 215, 54]), function (ce /*require*/,
 						? C.some(E)
 						: !!C.notebookType;
 			}
-		}),
-		
+		})

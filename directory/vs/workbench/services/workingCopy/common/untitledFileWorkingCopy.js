@@ -157,5 +157,4 @@ define(
 				(e.$Kpc = h),
 					(e.$Kpc = h = Ne([j(8, C.$gY), j(9, u.$WO), j(10, r.$ik)], h));
 			},
-		),
-		
+		)

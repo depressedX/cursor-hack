@@ -14,5 +14,4 @@ define(de[1421], he([1, 0]), function (ce /*require*/,
 			function i() {
 				return "npm";
 			}
-		}),
-		
+		})

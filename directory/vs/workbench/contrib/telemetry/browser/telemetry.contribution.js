@@ -347,5 +347,4 @@ define(
 			R.registerWorkbenchContribution(N, w.LifecyclePhase.Restored),
 				R.registerWorkbenchContribution(A, w.LifecyclePhase.Eventually);
 		},
-	),
-		
+	)

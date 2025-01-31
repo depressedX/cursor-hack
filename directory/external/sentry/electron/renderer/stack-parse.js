@@ -31,5 +31,4 @@ define(de[1461], he([1, 0, 1105, 80]), function (ce /*require*/,
 					return (0, i.stripSentryFramesAndReverse)(u);
 				};
 			e.electronRendererStackParser = d;
-		}),
-		
+		})

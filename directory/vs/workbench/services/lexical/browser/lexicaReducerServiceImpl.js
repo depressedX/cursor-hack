@@ -49,5 +49,4 @@ define(de[3408], he([1, 0, 3, 1298]), function (ce /*require*/,
 				}
 			}
 			e.$Myc = w;
-		}),
-		
+		})

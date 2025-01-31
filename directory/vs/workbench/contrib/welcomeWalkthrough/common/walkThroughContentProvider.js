@@ -119,5 +119,4 @@ define(
 					(e.$nYc = n =
 						Ne([j(0, t.$MO), j(1, E.$nM), j(2, i.$QO), j(3, a.$Li)], n));
 			},
-		),
-		
+		)

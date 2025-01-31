@@ -58,5 +58,4 @@ define(de[829], he([1, 0, 6, 3, 5, 53]), function (ce /*require*/,
 				}
 			};
 			(e.$M2 = C), (e.$M2 = C = Ne([j(0, E.$q2)], C));
-		}),
-		
+		})

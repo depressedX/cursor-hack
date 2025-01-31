@@ -185,5 +185,4 @@ define(
 				};
 				(e.$_Kc = n), (e.$_Kc = n = Ne([j(1, a.$sqc), j(2, u.$Kqc)], n));
 			},
-		),
-		
+		)

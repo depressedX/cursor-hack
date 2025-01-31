@@ -45,5 +45,4 @@ define(de[2046], he([1, 0, 86, 574, 1080]), function (ce /*require*/,
 					{ ...m, init: { ...m.init, method: "GET" }, url: n, header: g }
 				);
 			}
-		}),
-		
+		})

@@ -97,5 +97,4 @@ define(de[819], he([1, 0, 9]), function (ce /*require*/,
 					.map((c) => (c.type === void 0 ? c.resource : void 0))
 					.filter((c) => c !== void 0);
 			}
-		}),
-		
+		})

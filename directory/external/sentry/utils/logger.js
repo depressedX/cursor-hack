@@ -66,5 +66,4 @@ define(de[527], he([1, 0, 577, 365]), function (ce /*require*/,
 				);
 			}
 			e.logger = (0, i.getGlobalSingleton)("logger", C);
-		}),
-		
+		})

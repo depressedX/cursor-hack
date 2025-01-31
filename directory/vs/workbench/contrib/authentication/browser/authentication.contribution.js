@@ -180,5 +180,4 @@ define(
 					(e.$b1c = y = Ne([j(0, h.$$7), j(1, c.$5rb)], y)),
 					(0, u.$s6)(y.ID, y, u.WorkbenchPhase.AfterRestored);
 			},
-		),
-		
+		)

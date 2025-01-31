@@ -558,5 +558,4 @@ define(de[1179], he([1, 0]), function (ce /*require*/,
 				},
 			};
 			e.allApiProposals = Object.freeze(t);
-		}),
-		
+		})

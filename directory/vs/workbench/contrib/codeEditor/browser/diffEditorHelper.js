@@ -120,5 +120,4 @@ define(
 						]),
 					m.$Whc.register(new n.$MXc());
 			},
-		),
-		
+		)

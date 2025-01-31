@@ -55,5 +55,4 @@ define(
 				};
 				(e.$Qpc = u), (e.$Qpc = u = Ne([w.$umc, j(1, i.$Li), j(2, d.$iZ)], u));
 			},
-		),
-		
+		)

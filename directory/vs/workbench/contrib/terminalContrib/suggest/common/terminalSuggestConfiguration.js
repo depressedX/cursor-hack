@@ -87,5 +87,4 @@ define(de[809], he([1, 0, 4, 117]), function (ce /*require*/,
 						default: { pwshCode: !0, pwshGit: !0 },
 					},
 				});
-		}),
-		
+		})

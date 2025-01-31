@@ -412,5 +412,4 @@ define(
 					return Math.sqrt(P * P + k * k);
 				}
 			},
-		),
-		
+		)

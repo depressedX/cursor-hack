@@ -57,5 +57,4 @@ define(
 					(0, w.$s6)(a.$D2c.ID, a.$D2c, w.WorkbenchPhase.AfterRestored),
 					(0, w.$s6)(i.$3Lb.ID, i.$3Lb, w.WorkbenchPhase.AfterRestored);
 			},
-		),
-		
+		)

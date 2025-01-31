@@ -20,5 +20,4 @@ define(de[3928], he([1, 0, 20, 3927, 3]), function (ce /*require*/,
 				runRecentEvalChats() {}
 			}
 			(0, t.$lK)(i.$p0b, E, t.InstantiationType.Delayed);
-		}),
-		
+		})

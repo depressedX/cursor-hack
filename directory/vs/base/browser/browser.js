@@ -119,5 +119,4 @@ define(de[139], he([1, 0, 75, 6]), function (ce /*require*/,
 			function p(o) {
 				return o.navigator?.windowControlsOverlay?.getTitlebarAreaRect();
 			}
-		}),
-		
+		})

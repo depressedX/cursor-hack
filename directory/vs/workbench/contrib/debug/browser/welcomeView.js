@@ -189,5 +189,4 @@ define(
 						group: h.ViewContentGroups.Debug,
 					});
 			},
-		),
-		
+		)

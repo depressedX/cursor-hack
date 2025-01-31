@@ -70,5 +70,4 @@ define(de[3515], he([1, 0, 1851]), function (ce /*require*/,
 					{ relativeFilePath: "scripts/wslDownload.sh", replaceFn: C },
 				],
 			};
-		}),
-		
+		})

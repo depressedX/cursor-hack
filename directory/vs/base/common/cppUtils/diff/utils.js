@@ -9,5 +9,4 @@ define(de[1499], he([1, 0]), function (ce /*require*/,
 				else if (i) for (let E in i) i.hasOwnProperty(E) && (w[E] = i[E]);
 				return w;
 			}
-		}),
-		
+		})

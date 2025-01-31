@@ -10,5 +10,4 @@ define(de[2738], he([1, 0, 4]), function (ce /*require*/,
 				w = t.localize(1942, null),
 				E = t.localize(1943, null);
 			e.default = { open: i, close: w, find: E };
-		}),
-		
+		})

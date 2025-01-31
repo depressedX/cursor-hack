@@ -41,5 +41,4 @@ define(de[690], he([1, 0, 23, 9, 107]), function (ce /*require*/,
 					for (const a of r) if (a.resource.path === u.path) return a;
 				}
 			}
-		}),
-		
+		})

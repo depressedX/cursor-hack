@@ -58,5 +58,4 @@ define(de[1617], he([1, 0, 276, 3, 180, 7]), function (ce /*require*/,
 				}
 			}
 			e.$myc = d;
-		}),
-		
+		})

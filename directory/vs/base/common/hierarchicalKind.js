@@ -35,5 +35,4 @@ define(de[318], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$1L = t;
-		}),
-		
+		})

@@ -64,5 +64,4 @@ define(
 							f.createInstance(o.$VZc, b),
 					});
 			},
-		),
-		
+		)

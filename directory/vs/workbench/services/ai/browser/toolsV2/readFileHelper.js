@@ -53,5 +53,4 @@ define(de[1284], he([1, 0, 124]), function (ce /*require*/,
 						}
 					: { relativeWorkspacePath: d, contents: c.value.toString() };
 			}
-		}),
-		
+		})

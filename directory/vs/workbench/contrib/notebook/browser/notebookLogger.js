@@ -22,5 +22,4 @@ define(de[3092], he([1, 0]), function (ce /*require*/,
 			function w(...E) {
 				i.debug(...E);
 			}
-		}),
-		
+		})

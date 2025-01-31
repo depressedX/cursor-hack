@@ -64,5 +64,4 @@ define(de[442], he([1, 0]), function (ce /*require*/,
 			function d(m, r) {
 				return r.start >= m.start && r.end <= m.end;
 			}
-		}),
-		
+		})

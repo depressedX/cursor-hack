@@ -274,5 +274,4 @@ define(
 					(e.$0Mc = p =
 						Ne([j(8, C.$Cxb), j(9, u.$QO), j(10, E.$MO), j(11, d.$GN)], p));
 			},
-		),
-		
+		)

@@ -302,5 +302,4 @@ define(
 					return new c.$KK(f(s));
 				}
 			},
-		),
-		
+		)

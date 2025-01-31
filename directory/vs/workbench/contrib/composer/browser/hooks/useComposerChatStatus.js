@@ -75,5 +75,4 @@ define(de[858], he([1, 0, 13, 126, 177, 36]), function (ce /*require*/,
 										: "cancelled",
 				);
 			}
-		}),
-		
+		})

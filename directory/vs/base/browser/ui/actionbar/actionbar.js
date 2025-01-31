@@ -416,5 +416,4 @@ define(
 					return n;
 				}
 			},
-		),
-		
+		)

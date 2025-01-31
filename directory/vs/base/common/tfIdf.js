@@ -105,5 +105,4 @@ define(de[1505], he([1, 0]), function (ce /*require*/,
 				if (d > 0) for (const m of C) m.score /= d;
 				return C;
 			}
-		}),
-		
+		})

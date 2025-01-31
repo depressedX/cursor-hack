@@ -31,5 +31,4 @@ define(de[673], he([1, 0, 14, 26, 111, 2330]), function (ce /*require*/,
 			}
 			C.className = d;
 		})(E || (e.SeverityIcon = E = {}));
-	}),
-		
+	})

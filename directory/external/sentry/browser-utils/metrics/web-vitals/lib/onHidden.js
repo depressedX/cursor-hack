@@ -19,5 +19,4 @@ define(de[729], he([1, 0, 366]), function (ce /*require*/,
 					addEventListener("pagehide", E, !0));
 			};
 			e.onHidden = i;
-		}),
-		
+		})

@@ -63,5 +63,4 @@ define(de[2598], he([1, 0, 2597]), function (ce /*require*/,
 						return t.copyToClipboard;
 					},
 				});
-		}),
-		
+		})

@@ -49,5 +49,4 @@ define(de[459], he([1, 0, 139, 75, 12]), function (ce /*require*/,
 						i.$Bfb.PointerEvent &&
 						("ontouchstart" in i.$Bfb || navigator.maxTouchPoints > 0),
 				});
-		}),
-		
+		})

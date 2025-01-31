@@ -66,5 +66,4 @@ define(
 					};
 				e.onLCP = h;
 			},
-		),
-		
+		)

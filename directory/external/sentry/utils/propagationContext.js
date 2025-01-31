@@ -13,5 +13,4 @@ define(de[2082], he([1, 0, 727]), function (ce /*require*/,
 					spanId: (0, t.uuid4)().substring(16),
 				};
 			}
-		}),
-		
+		})

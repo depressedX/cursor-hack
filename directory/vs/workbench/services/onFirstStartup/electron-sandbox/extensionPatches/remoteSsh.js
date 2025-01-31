@@ -96,5 +96,4 @@ define(de[3514], he([1, 0, 1851]), function (ce /*require*/,
 				extensionId: "ms-vscode-remote.remote-ssh",
 				fixes: [{ relativeFilePath: "out/extension.js", replaceFn: d }],
 			};
-		}),
-		
+		})

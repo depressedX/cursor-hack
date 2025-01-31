@@ -23,5 +23,4 @@ define(de[1442], he([1, 0, 80, 234]), function (ce /*require*/,
 					(m.emit && m.emit("beforeAddBreadcrumb", n, d),
 					r.addBreadcrumb(n, a));
 			}
-		}),
-		
+		})

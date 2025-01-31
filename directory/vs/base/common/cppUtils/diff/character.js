@@ -22,5 +22,4 @@ define(de[1498], he([1, 0, 1129]), function (ce /*require*/,
 						])
 					: e.$Sqb.diff(w, E, C);
 			}
-		}),
-		
+		})

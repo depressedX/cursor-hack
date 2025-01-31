@@ -44,5 +44,4 @@ define(de[1093], he([1, 0, 365]), function (ce /*require*/,
 							: ((e._browserPerformanceTimeOriginMode = "navigationStart"), h)
 						: ((e._browserPerformanceTimeOriginMode = "dateNow"), r);
 				})());
-		}),
-		
+		})

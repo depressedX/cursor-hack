@@ -17,5 +17,4 @@ define(de[2016], he([1, 0]), function (ce /*require*/,
 					C = !w[2];
 				return { text: E, binary: C };
 			}
-		}),
-		
+		})

@@ -66,5 +66,4 @@ define(
 					return (0, t.memo)(c);
 				}
 			},
-		),
-		
+		)

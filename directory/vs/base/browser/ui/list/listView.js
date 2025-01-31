@@ -1160,5 +1160,4 @@ define(
 					Ne([r.$ei], T.prototype, "onTouchStart", null),
 					Ne([r.$ei], T.prototype, "onTap", null);
 			},
-		),
-		
+		)

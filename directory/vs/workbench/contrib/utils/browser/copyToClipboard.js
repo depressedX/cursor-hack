@@ -18,5 +18,4 @@ define(de[1008], he([1, 0, 7]), function (ce /*require*/,
 				return C.document.body.removeChild(d), !0;
 			};
 			e.$Y$b = i;
-		}),
-		
+		})

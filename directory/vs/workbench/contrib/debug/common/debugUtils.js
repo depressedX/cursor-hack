@@ -307,5 +307,4 @@ define(
 							k.sourceReference === L.sourceReference;
 				e.$x3 = P;
 			},
-		),
-		
+		)

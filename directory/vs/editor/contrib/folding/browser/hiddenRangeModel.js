@@ -100,5 +100,4 @@ define(de[2584], he([1, 0, 214, 6, 17, 531]), function (ce /*require*/,
 				const a = (0, t.$ob)(r, (h) => u < h.startLineNumber) - 1;
 				return a >= 0 && r[a].endLineNumber >= u ? r[a] : null;
 			}
-		}),
-		
+		})

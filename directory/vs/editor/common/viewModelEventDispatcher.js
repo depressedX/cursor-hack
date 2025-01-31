@@ -370,5 +370,4 @@ define(de[751], he([1, 0, 6, 3]), function (ce /*require*/,
 				}
 			}
 			e.$$vb = b;
-		}),
-		
+		})

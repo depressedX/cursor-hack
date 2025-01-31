@@ -52,5 +52,4 @@ define(
 				const r = () => (0, i.useContext)(d) || null;
 				e.useSortableContext = r;
 			},
-		),
-		
+		)

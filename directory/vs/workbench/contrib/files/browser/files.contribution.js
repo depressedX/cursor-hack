@@ -700,5 +700,4 @@ define(
 						mimetypes: ["text/x-code-binary"],
 					});
 			},
-		),
-		
+		)

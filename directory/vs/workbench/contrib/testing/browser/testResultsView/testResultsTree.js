@@ -844,5 +844,4 @@ define(
 					return Z === -1 ? Q : Q.slice(0, Z);
 				};
 			},
-		),
-		
+		)

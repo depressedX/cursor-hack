@@ -75,5 +75,4 @@ define(de[1878], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$PXc = w;
-		}),
-		
+		})

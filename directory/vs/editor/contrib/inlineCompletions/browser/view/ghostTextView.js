@@ -386,5 +386,4 @@ define(
 				}
 				e.$N1b = (0, t.$bjb)("editorGhostText", { createHTML: (v) => v });
 			},
-		),
-		
+		)

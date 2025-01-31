@@ -82,5 +82,4 @@ define(
 					(e.$58 = new E.$5j("isCurrentProfileTransient", !1)),
 					(e.$68 = new E.$5j("hasProfiles", !1));
 			},
-		),
-		
+		)

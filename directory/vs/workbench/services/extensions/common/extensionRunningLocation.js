@@ -47,5 +47,4 @@ define(de[1294], he([1, 0, 517]), function (ce /*require*/,
 				}
 			}
 			e.$h2 = E;
-		}),
-		
+		})

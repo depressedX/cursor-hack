@@ -42,5 +42,4 @@ define(
 						t.EditorContributionInstantiation.Eventually,
 					);
 			},
-		),
-		
+		)

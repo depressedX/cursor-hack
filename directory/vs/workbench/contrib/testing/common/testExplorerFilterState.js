@@ -116,5 +116,4 @@ define(
 				})(c || (e.TestFilterTerm = c = {}));
 				const n = [c.Failed, c.Executed, c.CurrentDoc, c.OpenedFiles, c.Hidden];
 			},
-		),
-		
+		)

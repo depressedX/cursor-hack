@@ -619,5 +619,4 @@ define(
 					return L.startLineNumber === L.endLineNumber;
 				}
 			},
-		),
-		
+		)

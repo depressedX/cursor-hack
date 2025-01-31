@@ -13,5 +13,4 @@ define(de[2177], he([1, 0]), function (ce /*require*/,
 					? t.indexOf(w.type) !== -1
 					: !1;
 		}
-	}),
-		
+	})

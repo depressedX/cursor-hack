@@ -41,5 +41,4 @@ define(
 				};
 				(e.$MTc = d), (e.$MTc = d = Ne([j(0, i.$Bk), j(1, C.$EQb)], d));
 			},
-		),
-		
+		)

@@ -116,5 +116,4 @@ define(de[1027], he([1, 0, 70, 611]), function (ce /*require*/,
 				}
 				E.fromCellEditOperationDto = o;
 			})(w || (e.NotebookDto = w = {}));
-		}),
-		
+		})

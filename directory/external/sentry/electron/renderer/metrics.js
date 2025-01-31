@@ -51,5 +51,4 @@ define(de[2149], he([1, 0, 144, 890]), function (ce /*require*/,
 				gauge: m,
 				timing: r,
 			};
-		}),
-		
+		})

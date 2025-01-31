@@ -13,5 +13,4 @@ define(de[1386], he([1, 0]), function (ce /*require*/,
 						.reduce((E, C) => C(E), i) ?? i
 				);
 			}
-		}),
-		
+		})

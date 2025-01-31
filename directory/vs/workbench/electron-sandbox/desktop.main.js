@@ -351,5 +351,4 @@ define(
 				return new se(le).open();
 			}
 		},
-	),
-		
+	)

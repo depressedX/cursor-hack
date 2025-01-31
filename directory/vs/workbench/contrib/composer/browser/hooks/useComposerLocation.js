@@ -15,5 +15,4 @@ define(de[1969], he([1, 0, 13, 36]), function (ce /*require*/,
 					C.composerViewsService.getComposerLocation(E().data.composerId),
 				);
 			}
-		}),
-		
+		})

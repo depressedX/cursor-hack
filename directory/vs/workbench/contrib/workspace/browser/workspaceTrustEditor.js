@@ -1164,5 +1164,4 @@ define(
 					return ve.replace(ge, "$1[$2]($3)$4");
 				}
 			},
-		),
-		
+		)

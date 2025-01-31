@@ -207,5 +207,4 @@ define(
 						return await S.serializer.notebookToData(I);
 					});
 			},
-		),
-		
+		)

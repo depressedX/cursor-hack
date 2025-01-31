@@ -28,5 +28,4 @@ define(de[3215], he([1, 0, 37, 4]), function (ce /*require*/,
 </checklist>
 </vertically-centered>
 `;
-		}),
-		
+		})

@@ -424,5 +424,4 @@ define(
 				typeof importScripts == "function" &&
 					(globalThis.monaco = (0, d.$5wb)());
 			},
-		),
-		
+		)

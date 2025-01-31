@@ -161,5 +161,4 @@ define(de[2036], he([1, 0, 451, 525, 429]), function (ce /*require*/,
 					}
 				return new Uint8Array(r);
 			}
-		}),
-		
+		})

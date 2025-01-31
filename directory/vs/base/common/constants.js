@@ -378,5 +378,4 @@ define(de[58], he([1, 0]), function (ce /*require*/,
 				(e.$QX = "cursorPrediction"),
 				(e.$RX = "auto (default)"),
 				(e.$SX = "workbench.action.webview.doNotIgnoreMenuShortcuts");
-		}),
-		
+		})

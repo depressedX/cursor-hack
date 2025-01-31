@@ -17,5 +17,4 @@ define(de[910], he([1, 0]), function (ce /*require*/,
 						independentColorPoolPerBracketType: !1,
 					},
 				});
-		}),
-		
+		})

@@ -65,5 +65,4 @@ define(
 				};
 				(e.$uvc = a), (e.$uvc = a = r = Ne([j(0, m.$7Z)], a));
 			},
-		),
-		
+		)

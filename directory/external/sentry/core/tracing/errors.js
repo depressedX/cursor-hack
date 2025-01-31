@@ -39,5 +39,4 @@ define(
 				}
 				r.tag = "sentry_tracingErrorCallback";
 			},
-		),
-		
+		)

@@ -63,5 +63,4 @@ define(de[2116], he([1, 0, 80, 316, 1438]), function (ce /*require*/,
 						);
 			}
 			const C = "_sentryBundlerPluginAppKey:";
-		}),
-		
+		})

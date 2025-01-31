@@ -37,5 +37,4 @@ define(de[2017], he([1, 0]), function (ce /*require*/,
 			function w() {
 				return { serialize: i, parse: t };
 			}
-		}),
-		
+		})

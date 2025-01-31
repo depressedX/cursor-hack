@@ -333,5 +333,4 @@ define(
 						[a.SymbolKind.Constant]: (0, n.localize)(1398, null),
 					};
 			},
-		),
-		
+		)

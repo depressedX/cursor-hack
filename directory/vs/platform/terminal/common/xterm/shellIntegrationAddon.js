@@ -371,5 +371,4 @@ define(
 					return { id: $, hidden: v };
 				}
 			},
-		),
-		
+		)

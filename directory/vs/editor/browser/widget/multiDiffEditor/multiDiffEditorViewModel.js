@@ -143,5 +143,4 @@ define(
 				};
 				(e.$Gnc = a), (e.$Gnc = a = Ne([j(2, r.$Li), j(3, m.$QO)], a));
 			},
-		),
-		
+		)

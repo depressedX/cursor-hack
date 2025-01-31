@@ -68,5 +68,4 @@ define(
 				(e.$D2c = u),
 					(e.$D2c = u = Ne([j(0, d.$IY), j(1, E.$XK), j(2, C.$gj)], u));
 			},
-		),
-		
+		)

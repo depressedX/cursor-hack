@@ -22,5 +22,4 @@ define(de[445], he([1, 0, 5]), function (ce /*require*/,
 				w.LOGOUT = "logout";
 			})(i || (e.DangerousActionType = i = {})),
 				(e.$78b = (0, t.$Mi)("indexPopupService"));
-		}),
-		
+		})

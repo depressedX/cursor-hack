@@ -527,5 +527,4 @@ define(
 			}),
 				(e.default = q);
 		},
-	),
-		
+	)

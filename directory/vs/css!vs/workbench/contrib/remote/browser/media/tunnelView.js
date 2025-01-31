@@ -1,3 +1,2 @@
 import '../../../../workbench.desktop.main.js';
-define(de[2483], he([16]), {}),
-		
+define(de[2483], he([16]), {})

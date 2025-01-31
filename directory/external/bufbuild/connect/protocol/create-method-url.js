@@ -10,5 +10,4 @@ define(de[871], he([1, 0]), function (ce /*require*/,
 					d = typeof E == "string" ? E : E.name;
 				return i.toString().replace(/\/?$/, `/${C}/${d}`);
 			}
-		}),
-		
+		})

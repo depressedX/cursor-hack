@@ -122,5 +122,4 @@ define(
 						description: "char-delete diff-range-empty",
 					}));
 			},
-		),
-		
+		)

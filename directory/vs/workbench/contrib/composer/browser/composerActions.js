@@ -1406,5 +1406,4 @@ ${hi}
 					Ne([(0, S.$KOb)("composer.openAsBar")], Je.prototype, "run", null),
 					(0, f.$4X)(Je);
 			},
-		),
-		
+		)

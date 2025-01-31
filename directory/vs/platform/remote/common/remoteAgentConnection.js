@@ -750,5 +750,4 @@ define(
 					return `${Date.now() - Y} ms`;
 				}
 			},
-		),
-		
+		)

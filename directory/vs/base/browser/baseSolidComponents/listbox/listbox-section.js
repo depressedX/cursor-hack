@@ -16,5 +16,4 @@ define(de[2641], he([1, 0, 2, 2, 115]), function (ce /*require*/,
 					(0, i.mergeProps)({ as: "li", role: "presentation" }, C),
 				);
 			}
-		}),
-		
+		})

@@ -148,5 +148,4 @@ define(
 					extraString: (0, h.$sc)(v.uri.path ?? ""),
 				});
 			},
-		),
-		
+		)

@@ -253,5 +253,4 @@ define(
 					n.addSearchParam = f;
 				})(c || (e.COI = c = {}));
 			},
-		),
-		
+		)

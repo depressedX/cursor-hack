@@ -52,5 +52,4 @@ define(
 						(0, t.localize)(7357, null),
 					));
 			},
-		),
-		
+		)

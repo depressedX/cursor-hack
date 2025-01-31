@@ -1630,5 +1630,4 @@ define(de[13], he([1, 0]), function (ce /*require*/,
 				);
 			}
 			let ii;
-		}),
-		
+		})

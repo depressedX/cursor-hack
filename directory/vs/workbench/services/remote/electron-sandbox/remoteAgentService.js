@@ -120,5 +120,4 @@ define(
 				)),
 					(0, a.$s6)(b.ID, b, a.WorkbenchPhase.BlockRestore);
 			},
-		),
-		
+		)

@@ -3530,5 +3530,4 @@ define(
 						(St[(St.Automatic = 1)] = "Automatic");
 				})(Mr || (e.InlineEditTriggerKind = Mr = {}));
 			},
-		),
-		
+		)

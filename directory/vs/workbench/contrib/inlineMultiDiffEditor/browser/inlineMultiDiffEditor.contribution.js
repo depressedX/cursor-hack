@@ -73,5 +73,4 @@ define(
 					.registerWorkbenchContribution(h, a.LifecyclePhase.Restored),
 					t.$Io.as(w.$a1.EditorFactory).registerEditorSerializer(C.$$Zc.ID, c);
 			},
-		),
-		
+		)

@@ -120,5 +120,4 @@ define(de[1251], he([1, 0, 7, 3, 77, 507]), function (ce /*require*/,
 					(this.gutterItemView = r), (this.domNode = u);
 				}
 			}
-		}),
-		
+		})

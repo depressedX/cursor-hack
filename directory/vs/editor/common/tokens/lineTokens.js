@@ -234,5 +234,4 @@ define(de[388], he([1, 0, 171]), function (ce /*require*/,
 					u = r.findTokenIndexAtOffset(d.column - 1);
 				return r.getStandardTokenType(u);
 			}
-		}),
-		
+		})

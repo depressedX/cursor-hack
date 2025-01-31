@@ -25,5 +25,4 @@ define(de[417], he([1, 0]), function (ce /*require*/,
 					(i.AccessibilityHelpOpenHelpLink =
 						"editor.action.accessibilityHelpOpenHelpLink");
 			})(t || (e.AccessibilityCommandId = t = {}));
-		}),
-		
+		})

@@ -159,5 +159,4 @@ define(
 					Ne([E.$ei], m.prototype, "filesToMerge", null),
 					Ne([E.$ei], m.prototype, "filesToWait", null);
 			},
-		),
-		
+		)

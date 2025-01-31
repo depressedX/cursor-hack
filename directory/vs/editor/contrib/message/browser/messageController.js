@@ -244,5 +244,4 @@ define(
 				}
 				(0, r.$qtb)(s.ID, s, r.EditorContributionInstantiation.Lazy);
 			},
-		),
-		
+		)

@@ -30,5 +30,4 @@ define(de[422], he([1, 0, 317, 13]), function (ce /*require*/,
 					{ showHover: u, hideHover: a, hoverWidget: C }
 				);
 			}
-		}),
-		
+		})

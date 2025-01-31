@@ -118,5 +118,4 @@ define(
 					return a.weight2 - h.weight2;
 				}
 			},
-		),
-		
+		)

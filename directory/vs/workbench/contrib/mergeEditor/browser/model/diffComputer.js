@@ -137,5 +137,4 @@ define(
 					return new C.$yZb(a.originalRange, a.modifiedRange);
 				}
 			},
-		),
-		
+		)

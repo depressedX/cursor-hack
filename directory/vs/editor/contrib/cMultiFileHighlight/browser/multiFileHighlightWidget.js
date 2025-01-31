@@ -70,5 +70,4 @@ define(
 				};
 				(e.$Qlc = u), (e.$Qlc = u = Ne([j(2, m.$iP)], u));
 			},
-		),
-		
+		)

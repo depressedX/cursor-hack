@@ -10,5 +10,4 @@ define(de[1494], he([1, 0]), function (ce /*require*/,
 					(t, i) => t.concat(i, `${i}-start`, `${i}-end`),
 					[],
 				));
-		}),
-		
+		})

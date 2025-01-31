@@ -77,5 +77,4 @@ define(de[211], he([1, 0, 29, 5]), function (ce /*require*/,
 				const a = u.indexOf("+");
 				return a === -1 ? u : u.substring(0, a);
 			}
-		}),
-		
+		})

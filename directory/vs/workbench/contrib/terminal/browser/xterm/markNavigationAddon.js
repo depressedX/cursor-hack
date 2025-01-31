@@ -443,5 +443,4 @@ define(
 					return p(f) ? f.line : f;
 				}
 			},
-		),
-		
+		)

@@ -49,5 +49,4 @@ define(de[3197], he([1, 0, 13, 83, 58, 12]), function (ce /*require*/,
 					allowCommandLinksPotentiallyUnsafe: a,
 				};
 			}
-		}),
-		
+		})

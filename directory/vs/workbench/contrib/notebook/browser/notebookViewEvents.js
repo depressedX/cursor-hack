@@ -29,5 +29,4 @@ define(de[990], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$KIb = E;
-		}),
-		
+		})

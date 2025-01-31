@@ -10,5 +10,4 @@ define(de[916], he([1, 0]), function (ce /*require*/,
 				(i[(i.InProgress = 1)] = "InProgress"),
 					(i[(i.Completed = 2)] = "Completed");
 			})(t || (e.BackgroundTokenizationState = t = {}));
-		}),
-		
+		})

@@ -17,5 +17,4 @@ define(de[638], he([1, 0, 234]), function (ce /*require*/,
 					(C.enableTracing || "tracesSampleRate" in C || "tracesSampler" in C)
 				);
 			}
-		}),
-		
+		})

@@ -291,5 +291,4 @@ define(
 					return A !== void 0 ? (R) => v(A, R) : (R) => R();
 				}
 			},
-		),
-		
+		)

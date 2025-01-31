@@ -88,5 +88,4 @@ define(de[1401], he([1, 0, 339, 525, 406]), function (ce /*require*/,
 				}
 			}
 			e.Duration = E;
-		}),
-		
+		})

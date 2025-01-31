@@ -62,5 +62,4 @@ define(
 					r.infinite().show(500);
 				}
 			},
-		),
-		
+		)

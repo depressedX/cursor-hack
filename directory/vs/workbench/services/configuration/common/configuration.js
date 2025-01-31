@@ -92,5 +92,4 @@ define(de[261], he([1, 0, 81, 10, 5]), function (ce /*require*/,
 	"tasks": []
 }`),
 				(e.$TZ = "workbench.settings.applyToAllProfiles");
-		}),
-		
+		})

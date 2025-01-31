@@ -16,5 +16,4 @@ define(de[972], he([1, 0]), function (ce /*require*/,
 					"related-files": "References",
 					"related-commits": "Related commits",
 				});
-		}),
-		
+		})

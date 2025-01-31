@@ -33,5 +33,4 @@ define(de[260], he([1, 0, 5]), function (ce /*require*/,
 			e.$9qc = E;
 			class C extends i {}
 			e.$0qc = C;
-		}),
-		
+		})

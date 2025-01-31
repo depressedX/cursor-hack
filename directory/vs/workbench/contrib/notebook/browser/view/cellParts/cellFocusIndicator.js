@@ -131,5 +131,4 @@ define(de[3474], he([1, 0, 7, 194, 294, 70]), function (ce /*require*/,
 				}
 			}
 			e.$S3b = C;
-		}),
-		
+		})

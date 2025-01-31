@@ -23,5 +23,4 @@ define(de[1741], he([1, 0, 201]), function (ce /*require*/,
 					};
 				return u(), w.onDidScroll(() => u());
 			}
-		}),
-		
+		})

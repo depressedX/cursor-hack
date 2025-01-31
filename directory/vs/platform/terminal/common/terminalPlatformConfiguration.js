@@ -360,5 +360,4 @@ define(
 						b.updateConfigurations({ add: [g], remove: l ? [l] : [] });
 				}
 			},
-		),
-		
+		)

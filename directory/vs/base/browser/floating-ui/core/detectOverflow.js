@@ -59,5 +59,4 @@ define(de[645], he([1, 0, 1122, 1124]), function (ce /*require*/,
 					right: (S.right - l.right + f.right) / v.x,
 				};
 			}
-		}),
-		
+		})

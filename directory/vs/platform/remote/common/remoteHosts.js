@@ -40,5 +40,4 @@ define(de[438], he([1, 0, 23]), function (ce /*require*/,
 					? { host: a[1], port: parseInt(a[2], 10) }
 					: { host: m, port: void 0 };
 			}
-		}),
-		
+		})

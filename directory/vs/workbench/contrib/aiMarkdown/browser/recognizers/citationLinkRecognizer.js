@@ -80,5 +80,4 @@ define(de[2985], he([1, 0, 2, 2, 236]), function (ce /*require*/,
 					C[C.length - 1].ref.appendChild(f);
 				},
 			};
-		}),
-		
+		})

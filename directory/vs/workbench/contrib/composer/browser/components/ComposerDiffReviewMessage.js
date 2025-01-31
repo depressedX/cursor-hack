@@ -278,5 +278,4 @@ define(
 					};
 				e.ComposerDiffReviewMessage = g;
 			},
-		),
-		
+		)

@@ -59,5 +59,4 @@ define(de[157], he([1, 0, 5, 119, 23, 4]), function (ce /*require*/,
 			})(d || (e.EnablementState = d = {})),
 				(e.$IQb = (0, t.$Mi)("extensionEnablementService")),
 				(e.$JQb = (0, t.$Mi)("IWebExtensionsScannerService"));
-		}),
-		
+		})

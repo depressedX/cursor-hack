@@ -830,5 +830,4 @@ define(
 					};
 				e.ComposerHumanMessage = O;
 			},
-		),
-		
+		)

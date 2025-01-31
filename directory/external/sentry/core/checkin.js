@@ -18,5 +18,4 @@ define(de[1436], he([1, 0, 80]), function (ce /*require*/,
 			function w(E) {
 				return [{ type: "check_in" }, E];
 			}
-		}),
-		
+		})

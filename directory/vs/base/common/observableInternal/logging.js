@@ -212,5 +212,4 @@ define(de[742], he([1, 0]), function (ce /*require*/,
 				for (; g.length < p; ) g += " ";
 				return g;
 			}
-		}),
-		
+		})

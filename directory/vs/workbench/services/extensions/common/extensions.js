@@ -280,5 +280,4 @@ Its package.json#enabledApiProposals-property declares: ${s.enabledApiProposals?
 				}
 				e.$z2 = b;
 			},
-		),
-		
+		)

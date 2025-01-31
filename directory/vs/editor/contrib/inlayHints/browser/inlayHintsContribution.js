@@ -22,5 +22,4 @@ define(
 					),
 					i.$5Bb.register(E.$shc);
 			},
-		),
-		
+		)

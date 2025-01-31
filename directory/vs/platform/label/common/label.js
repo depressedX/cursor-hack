@@ -14,5 +14,4 @@ define(de[73], he([1, 0, 5]), function (ce /*require*/,
 					(w[(w.MEDIUM = 1)] = "MEDIUM"),
 					(w[(w.LONG = 2)] = "LONG");
 			})(i || (e.Verbosity = i = {}));
-		}),
-		
+		})

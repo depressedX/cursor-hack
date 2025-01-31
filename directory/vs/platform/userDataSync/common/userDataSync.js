@@ -306,5 +306,4 @@ define(
 					(e.$$Rb = "vscode-userdata-sync"),
 					(e.$_Rb = "preview");
 			},
-		),
-		
+		)

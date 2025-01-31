@@ -40,5 +40,4 @@ define(de[2811], he([1, 0, 3, 56, 46, 38]), function (ce /*require*/,
 				C,
 				w.EditorContributionInstantiation.BeforeFirstInteraction,
 			);
-		}),
-		
+		})

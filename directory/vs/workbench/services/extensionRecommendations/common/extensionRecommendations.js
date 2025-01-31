@@ -19,5 +19,4 @@ define(de[314], he([1, 0, 5]), function (ce /*require*/,
 			})(i || (e.ExtensionRecommendationReason = i = {})),
 				(e.$9Qb = (0, t.$Mi)("extensionRecommendationsService")),
 				(e.$0Qb = (0, t.$Mi)("IExtensionIgnoredRecommendationsService"));
-		}),
-		
+		})

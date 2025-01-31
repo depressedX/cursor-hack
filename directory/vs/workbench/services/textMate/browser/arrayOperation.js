@@ -60,5 +60,4 @@ define(de[3659], he([1, 0, 24]), function (ce /*require*/,
 				}
 			}
 			e.$Gyc = C;
-		}),
-		
+		})

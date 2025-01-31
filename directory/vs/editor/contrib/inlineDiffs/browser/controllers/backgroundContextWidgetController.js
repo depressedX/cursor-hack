@@ -70,5 +70,4 @@ define(
 					(e.$Wlc = m = d = Ne([j(1, E.$Li), j(2, C.$0zb)], m)),
 					(0, i.$qtb)(m.ID, m, i.EditorContributionInstantiation.Eventually);
 			},
-		),
-		
+		)

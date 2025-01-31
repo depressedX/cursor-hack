@@ -41,5 +41,4 @@ define(de[2071], he([1, 0]), function (ce /*require*/,
 				else h ? (u.all = r + t(h, r)) : d === 429 && (u.all = r + 60 * 1e3);
 				return u;
 			}
-		}),
-		
+		})

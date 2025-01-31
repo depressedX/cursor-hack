@@ -186,5 +186,4 @@ define(
 					(e.$ioc = m =
 						Ne([(0, w.$tmc)(i.$lbb.MainThreadQuickOpen), j(1, t.$DJ)], m));
 			},
-		),
-		
+		)

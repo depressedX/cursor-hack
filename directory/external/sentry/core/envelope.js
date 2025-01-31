@@ -81,5 +81,4 @@ define(
 					return (0, t.createEnvelope)(p, b);
 				}
 			},
-		),
-		
+		)

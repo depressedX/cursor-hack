@@ -186,5 +186,4 @@ define(
 					return O.groups.reduce((B, U) => B + U.resources.length, 0);
 				}
 			},
-		),
-		
+		)

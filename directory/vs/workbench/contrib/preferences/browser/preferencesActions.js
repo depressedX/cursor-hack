@@ -131,5 +131,4 @@ define(
 						return s;
 					});
 			},
-		),
-		
+		)

@@ -20,5 +20,4 @@ define(de[245], he([1, 0, 5]), function (ce /*require*/,
 					(E[(E.EDITOR_GROUP = 1)] = "EDITOR_GROUP"),
 					(E[(E.EDITOR = 2)] = "EDITOR");
 			})(w || (e.GoScope = w = {}));
-		}),
-		
+		})

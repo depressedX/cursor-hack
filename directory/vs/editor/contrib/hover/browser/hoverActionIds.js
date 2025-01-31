@@ -42,5 +42,4 @@ define(de[936], he([1, 0, 4]), function (ce /*require*/,
 				(e.$pCb =
 					"editor.action.decreaseHoverVerbosityLevelFromAccessibleView"),
 				(e.$qCb = t.localize(1171, null));
-		}),
-		
+		})

@@ -1221,5 +1221,4 @@ define(de[2], he([1, 0, 13, 13]), function (ce /*require*/,
 					}
 				});
 			}
-		}),
-		
+		})

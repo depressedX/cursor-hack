@@ -31,5 +31,4 @@ define(de[2586], he([1, 0, 104]), function (ce /*require*/,
 				}
 			}
 			e.$Nic = i;
-		}),
-		
+		})

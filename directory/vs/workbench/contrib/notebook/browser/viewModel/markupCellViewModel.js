@@ -265,5 +265,4 @@ define(
 					(e.$41b = h =
 						Ne([j(5, w.$gj), j(6, m.$MO), j(7, r.$GN), j(8, u.$dtb)], h));
 			},
-		),
-		
+		)

@@ -732,5 +732,4 @@ define(de[54], he([1, 0, 344]), function (ce /*require*/,
 				(e.$wc = g ? e.$kc.toNamespacedPath : e.$lc.toNamespacedPath),
 				(e.sep = g ? e.$kc.sep : e.$lc.sep),
 				(e.$yc = g ? e.$kc.delimiter : e.$lc.delimiter);
-		}),
-		
+		})

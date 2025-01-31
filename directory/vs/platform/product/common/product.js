@@ -60,5 +60,4 @@ define(de[372], he([1, 0, 344]), function (ce /*require*/,
 							serverLicenseUrl: "https://github.com/getcursor/cursor/",
 						});
 			e.default = i;
-		}),
-		
+		})

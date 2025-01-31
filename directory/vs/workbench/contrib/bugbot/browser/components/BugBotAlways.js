@@ -1254,5 +1254,4 @@ define(
 					return V ? Math.floor(V.charLength / 3.2) > G : !1;
 				}
 			},
-		),
-		
+		)

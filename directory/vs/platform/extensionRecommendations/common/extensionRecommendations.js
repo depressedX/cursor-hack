@@ -36,5 +36,4 @@ define(de[666], he([1, 0, 5]), function (ce /*require*/,
 					(C.Accepted = "reacted");
 			})(E || (e.RecommendationsNotificationResult = E = {})),
 				(e.$HTc = (0, t.$Mi)("IExtensionRecommendationNotificationService"));
-		}),
-		
+		})

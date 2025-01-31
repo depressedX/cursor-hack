@@ -71,5 +71,4 @@ define(de[1240], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$12b = i;
-		}),
-		
+		})

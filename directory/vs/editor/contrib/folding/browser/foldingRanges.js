@@ -298,5 +298,4 @@ define(de[659], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$BNb = C;
-		}),
-		
+		})

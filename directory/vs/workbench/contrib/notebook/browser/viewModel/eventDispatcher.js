@@ -38,5 +38,4 @@ define(de[3107], he([1, 0, 6, 3, 990]), function (ce /*require*/,
 				}
 			}
 			e.$E1b = E;
-		}),
-		
+		})

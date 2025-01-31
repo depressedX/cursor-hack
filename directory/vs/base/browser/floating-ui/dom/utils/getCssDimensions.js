@@ -20,5 +20,4 @@ define(de[1572], he([1, 0, 662, 324, 900]), function (ce /*require*/,
 					c = (0, w.$qmb)(m) !== a || (0, w.$qmb)(r) !== h;
 				return c && ((m = a), (r = h)), { width: m, height: r, fallback: c };
 			}
-		}),
-		
+		})

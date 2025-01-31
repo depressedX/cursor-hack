@@ -334,5 +334,4 @@ define(
 					return k;
 				}
 			},
-		),
-		
+		)

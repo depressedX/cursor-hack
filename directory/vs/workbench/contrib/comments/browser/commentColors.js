@@ -73,5 +73,4 @@ define(de[1237], he([1, 0, 74, 255, 4, 51]), function (ce /*require*/,
 			function n(g, p) {
 				return h(g, p, a);
 			}
-		}),
-		
+		})

@@ -57,5 +57,4 @@ define(de[1104], he([1, 0, 641, 144, 80]), function (ce /*require*/,
 				}
 				return (0, i.createTransport)(C, u);
 			}
-		}),
-		
+		})

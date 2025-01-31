@@ -1991,5 +1991,4 @@ define(de[724], he([1, 0, 874, 339]), function (ce /*require*/,
 						{ no: 2, name: "ALIAS" },
 					],
 				);
-		}),
-		
+		})

@@ -23,5 +23,4 @@ define(de[1553], he([1, 0]), function (ce /*require*/,
 				for (let m = 0; m < w; m++) d += " ";
 				return d;
 			}
-		}),
-		
+		})

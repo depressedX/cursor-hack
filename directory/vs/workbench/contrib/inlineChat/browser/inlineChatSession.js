@@ -498,5 +498,4 @@ define(
 						(S[(S.Rejected = 2)] = "Rejected");
 				})(v || (e.HunkState = v = {}));
 			},
-		),
-		
+		)

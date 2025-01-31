@@ -284,5 +284,4 @@ define(
 						.replace(/([A-Z])/g, ([y]) => `-${y.toLowerCase()}`);
 				}
 			},
-		),
-		
+		)

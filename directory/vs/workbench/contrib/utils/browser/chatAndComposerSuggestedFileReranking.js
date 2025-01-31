@@ -26,5 +26,4 @@ define(de[1007], he([1, 0]), function (ce /*require*/,
 			async function w(E, C, d, m, r, u, a, h, c, n) {
 				return [];
 			}
-		}),
-		
+		})

@@ -66,5 +66,4 @@ define(
 				(e.$MIc = h),
 					(e.$MIc = h = Ne([j(0, w.$Owb), j(1, E.$Li), j(2, r.$gj)], h));
 			},
-		),
-		
+		)

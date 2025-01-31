@@ -52,5 +52,4 @@ define(
 					return f;
 				}
 			},
-		),
-		
+		)

@@ -19,5 +19,4 @@ define(de[891], he([1, 0, 579]), function (ce /*require*/,
 			const E = (C) =>
 				(0, t.transformsAreEqual)(C, (0, t.noopTransform)()) ? {} : w(C);
 			e.maybeTransformStyle = E;
-		}),
-		
+		})

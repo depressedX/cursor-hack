@@ -33,5 +33,4 @@ define(de[795], he([1, 0]), function (ce /*require*/,
 					};
 				};
 			(e.createComposerFakeStreamer = C), (e.SPACE = " ");
-		}),
-		
+		})

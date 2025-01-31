@@ -107,5 +107,4 @@ define(
 					return o.dispose(), b;
 				}
 			},
-		),
-		
+		)

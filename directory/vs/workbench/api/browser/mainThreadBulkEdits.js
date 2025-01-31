@@ -102,5 +102,4 @@ define(
 					return n;
 				}
 			},
-		),
-		
+		)

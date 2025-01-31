@@ -111,5 +111,4 @@ define(de[1157], he([1, 0, 164, 1413]), function (ce /*require*/,
 				for (const c in a) c && (h += `${c}: ${a[c]};`);
 				return h;
 			}
-		}),
-		
+		})

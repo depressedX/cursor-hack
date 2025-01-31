@@ -13,5 +13,4 @@ define(de[1232], he([1, 0, 9]), function (ce /*require*/,
 					E += w.charAt(Math.floor(Math.random() * w.length));
 				return t.URI.parse(`aichat-code-block-anysphere://${E}`);
 			}
-		}),
-		
+		})

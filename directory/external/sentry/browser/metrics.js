@@ -29,5 +29,4 @@ define(de[2137], he([1, 0, 144]), function (ce /*require*/,
 				gauge: C,
 				timing: d,
 			};
-		}),
-		
+		})

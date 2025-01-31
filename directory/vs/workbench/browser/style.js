@@ -57,5 +57,4 @@ define(
 								u.addRule(`body { background-color: ${a}; }`);
 					});
 			},
-		),
-		
+		)

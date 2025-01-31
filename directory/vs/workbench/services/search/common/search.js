@@ -377,5 +377,4 @@ define(
 				}
 				e.$M7 = { matchLines: 100, charsPerLine: 1e4 };
 			},
-		),
-		
+		)

@@ -16,5 +16,4 @@ define(de[243], he([1, 0, 5]), function (ce /*require*/,
 			})(i || (e.ProxyKernelState = i = {})),
 				(e.$f6 = (0, t.$Mi)("INotebookKernelService")),
 				(e.$g6 = (0, t.$Mi)("INotebookKernelHistoryService"));
-		}),
-		
+		})

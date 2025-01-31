@@ -22,5 +22,4 @@ define(de[698], he([1, 0, 23]), function (ce /*require*/,
 					isExtensionDevTestFromCli: u,
 				};
 			}
-		}),
-		
+		})

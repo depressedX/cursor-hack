@@ -55,5 +55,4 @@ define(
 					(e.$hoc = m =
 						Ne([(0, d.$tmc)(E.$lbb.MainThreadQuickDiff), j(1, C.$8mc)], m));
 			},
-		),
-		
+		)

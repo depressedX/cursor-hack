@@ -30,5 +30,4 @@ define(de[2015], he([1, 0, 202, 213]), function (ce /*require*/,
 						}
 					: { timeoutMs: parseInt(d[0]) };
 			}
-		}),
-		
+		})

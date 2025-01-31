@@ -65,5 +65,4 @@ define(
 					(0, i.$4X)(g.$XPc),
 					(0, m.$s6)(g.$WPc.ID, g.$WPc, m.WorkbenchPhase.BlockStartup);
 			},
-		),
-		
+		)

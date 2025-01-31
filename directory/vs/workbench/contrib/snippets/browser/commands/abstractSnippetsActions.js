@@ -24,5 +24,4 @@ define(de[994], he([1, 0, 46, 4, 11]), function (ce /*require*/,
 				}
 			}
 			e.$GFc = d;
-		}),
-		
+		})

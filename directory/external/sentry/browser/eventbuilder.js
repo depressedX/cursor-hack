@@ -182,5 +182,4 @@ define(de[889], he([1, 0, 144, 80]), function (ce /*require*/,
 						if ($ instanceof Error) return $;
 					}
 			}
-		}),
-		
+		})

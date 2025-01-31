@@ -207,5 +207,4 @@ define(de[1524], he([1, 0]), function (ce /*require*/,
 				i("lightbulb.enabled", (d, m, r) => {
 					typeof d == "boolean" && r("lightbulb.enabled", d ? void 0 : "off");
 				});
-		}),
-		
+		})

@@ -21,5 +21,4 @@ define(de[1282], he([1, 0, 5]), function (ce /*require*/,
 						"http://localhost:9013",
 						"http://localhost:9014",
 					];
-		}),
-		
+		})

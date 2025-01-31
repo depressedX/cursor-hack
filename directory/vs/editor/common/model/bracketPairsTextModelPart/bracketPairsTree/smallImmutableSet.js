@@ -97,5 +97,4 @@ define(de[657], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$2M = w;
-		}),
-		
+		})

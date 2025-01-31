@@ -3041,5 +3041,4 @@ define(
 					p.localize(8115, null),
 				);
 			},
-		),
-		
+		)

@@ -188,5 +188,4 @@ define(
 					return Object.keys(s).some((l) => f.includes(l));
 				}
 			},
-		),
-		
+		)

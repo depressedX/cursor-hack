@@ -134,5 +134,4 @@ define(de[761], he([1, 0, 4]), function (ce /*require*/,
 			(function (h) {
 				h.bulkEditServiceSummary = t.localize(856, null);
 			})(a || (e.StandaloneServicesNLS = a = {}));
-		}),
-		
+		})

@@ -15,5 +15,4 @@ define(de[1389], he([1, 0]), function (ce /*require*/,
 				(e.paramCompression = "compression"),
 				(e.paramBase64 = "base64"),
 				(e.paramMessage = "message");
-		}),
-		
+		})

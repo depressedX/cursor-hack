@@ -31,5 +31,4 @@ define(de[2106], he([1, 0, 80, 316]), function (ce /*require*/,
 					};
 				};
 			e.debugIntegration = (0, i.defineIntegration)(E);
-		}),
-		
+		})

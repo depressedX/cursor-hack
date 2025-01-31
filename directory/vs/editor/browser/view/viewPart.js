@@ -49,5 +49,4 @@ define(de[303], he([1, 0, 750]), function (ce /*require*/,
 				}
 			}
 			e.$zub = E;
-		}),
-		
+		})

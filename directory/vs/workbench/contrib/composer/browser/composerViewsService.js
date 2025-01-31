@@ -842,5 +842,4 @@ define(
 							)),
 					(0, m.$lK)(y.IComposerViewsService, D, m.InstantiationType.Delayed);
 			},
-		),
-		
+		)

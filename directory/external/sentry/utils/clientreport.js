@@ -19,5 +19,4 @@ define(de[2084], he([1, 0, 1432, 1093]), function (ce /*require*/,
 				];
 				return (0, t.createEnvelope)(C ? { dsn: C } : {}, [m]);
 			}
-		}),
-		
+		})

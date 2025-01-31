@@ -382,5 +382,4 @@ define(
 					Ne([C.$ei], c.prototype, "filesToDiff", null),
 					Ne([C.$ei], c.prototype, "filesToMerge", null);
 			},
-		),
-		
+		)

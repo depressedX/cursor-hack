@@ -30,5 +30,4 @@ define(
 					(e.$Q1b = d =
 						Ne([j(1, i.$nM), j(2, w.$QO), j(3, E.$RO), j(4, C.$XK)], d));
 			},
-		),
-		
+		)

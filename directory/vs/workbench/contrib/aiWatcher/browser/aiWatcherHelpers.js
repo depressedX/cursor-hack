@@ -125,5 +125,4 @@ define(de[975], he([1, 0, 17, 3, 901]), function (ce /*require*/,
 						a.endColumn,
 					);
 			}
-		}),
-		
+		})

@@ -130,5 +130,4 @@ define(
 					mac: { primary: o.mac.primary | r.KeyMod.Shift },
 				});
 			},
-		),
-		
+		)

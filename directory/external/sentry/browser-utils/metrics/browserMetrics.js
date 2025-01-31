@@ -440,5 +440,4 @@ define(
 						(U["ttfb.requestTime"] = { value: F - x, unit: "millisecond" }));
 				}
 			},
-		),
-		
+		)

@@ -71,5 +71,4 @@ define(
 					a.$Whc.register(new h.$tic()),
 					a.$Whc.register(new h.$wic());
 			},
-		),
-		
+		)

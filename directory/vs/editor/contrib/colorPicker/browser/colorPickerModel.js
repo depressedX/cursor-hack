@@ -67,5 +67,4 @@ define(de[2581], he([1, 0, 6]), function (ce /*require*/,
 				}
 			}
 			e.$1Bb = i;
-		}),
-		
+		})

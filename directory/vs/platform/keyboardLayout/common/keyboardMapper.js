@@ -25,5 +25,4 @@ define(de[2737], he([1, 0]), function (ce /*require*/,
 				}
 			}
 			e.$Gvc = t;
-		}),
-		
+		})

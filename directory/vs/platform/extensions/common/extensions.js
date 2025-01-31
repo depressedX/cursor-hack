@@ -177,5 +177,4 @@ define(de[109], he([1, 0, 37, 5, 438]), function (ce /*require*/,
 				return o.map((f) => f.split("@")[0]);
 			}
 			e.$Pn = (0, i.$Mi)("IBuiltinExtensionsScannerService");
-		}),
-		
+		})

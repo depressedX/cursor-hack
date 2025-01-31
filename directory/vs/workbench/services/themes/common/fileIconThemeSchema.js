@@ -245,5 +245,4 @@ define(
 					i.$Io.as(w.$Jo.JSONContribution).registerSchema(C, d);
 				}
 			},
-		),
-		
+		)

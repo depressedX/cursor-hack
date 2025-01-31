@@ -276,5 +276,4 @@ define(
 						addEventListener("click", b, { once: !1, capture: !0 });
 				}
 			},
-		),
-		
+		)

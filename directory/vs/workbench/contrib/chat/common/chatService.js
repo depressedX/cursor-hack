@@ -69,5 +69,4 @@ define(de[218], he([1, 0, 9, 17, 5]), function (ce /*require*/,
 			})(u || (e.ChatCopyKind = u = {})),
 				(e.$J2 = (0, w.$Mi)("IChatService")),
 				(e.$K2 = "accessibility.voice.keywordActivation");
-		}),
-		
+		})

@@ -26,5 +26,4 @@ define(de[873], he([1, 0]), function (ce /*require*/,
 				(e.uResponseUnsupportedMediaType = { status: 415 }),
 				(e.uResponseMethodNotAllowed = { status: 405 }),
 				(e.uResponseVersionNotSupported = { status: 505 });
-		}),
-		
+		})

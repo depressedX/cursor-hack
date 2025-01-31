@@ -23,5 +23,4 @@ define(de[574], he([1, 0]), function (ce /*require*/,
 				(e.headerTimeout = "Connect-Timeout-Ms"),
 				(e.headerProtocolVersion = "Connect-Protocol-Version"),
 				(e.headerUserAgent = "User-Agent");
-		}),
-		
+		})
