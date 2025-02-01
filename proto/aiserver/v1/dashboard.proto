@@ -1,0 +1,680 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "usage.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service DashboardService {
+
+  rpc GetTeams(GetTeamsRequest) returns (GetTeamsResponse);
+
+  rpc GetActivationCheckoutUrl(GetActivationCheckoutUrlRequest) returns (GetActivationCheckoutUrlResponse);
+
+  rpc GetTeamCustomerPortalUrl(GetTeamCustomerPortalUrlRequest) returns (GetTeamCustomerPortalUrlResponse);
+
+  rpc GetTeamMembers(GetTeamMembersRequest) returns (GetTeamMembersResponse);
+
+  rpc SendTeamInvite(SendTeamInviteRequest) returns (SendTeamInviteResponse);
+
+  rpc GetTeamInviteLink(GetTeamInviteLinkRequest) returns (GetTeamInviteLinkResponse);
+
+  rpc AcceptInvite(AcceptInviteRequest) returns (AcceptInviteResponse);
+
+  rpc CreateTeam(CreateTeamRequest) returns (CreateTeamResponse);
+
+  rpc ChangeSeat(ChangeSeatRequest) returns (ChangeSeatResponse);
+
+  rpc ChangeTeamSubscription(ChangeTeamSubscriptionRequest) returns (ChangeTeamSubscriptionResponse);
+
+  rpc UpdateRole(UpdateRoleRequest) returns (UpdateRoleResponse);
+
+  rpc RemoveMember(RemoveMemberRequest) returns (RemoveMemberResponse);
+
+  rpc GetTeamUsage(GetTeamUsageRequest) returns (GetTeamUsageResponse);
+
+  rpc GetDailyTeamUsage(GetDailyTeamUsageRequest) returns (GetDailyTeamUsageResponse);
+
+  rpc GetSignUpType(GetSignUpTypeRequest) returns (GetSignUpTypeResponse);
+
+  rpc GetHardLimit(GetHardLimitRequest) returns (GetHardLimitResponse);
+
+  rpc SetHardLimit(SetHardLimitRequest) returns (SetHardLimitResponse);
+
+  rpc DeleteAccount(DeleteAccountRequest) returns (DeleteAccountResponse);
+
+  rpc GetMonthlyInvoice(GetMonthlyInvoiceRequest) returns (GetMonthlyInvoiceResponse);
+
+  rpc GetPricingHistory(GetPricingHistoryRequest) returns (GetPricingHistoryResponse);
+
+  rpc CreateTeamWithFreeTrial(CreateTeamWithFreeTrialRequest) returns (CreateTeamWithFreeTrialResponse);
+
+  rpc GetTeamHasValidPaymentMethod(GetTeamHasValidPaymentMethodRequest) returns (GetTeamHasValidPaymentMethodResponse);
+
+  rpc GetTeamPrivacyModeForced(GetTeamPrivacyModeForcedRequest) returns (GetTeamPrivacyModeForcedResponse);
+
+  rpc SwitchTeamPrivacyMode(SwitchTeamPrivacyModeRequest) returns (SwitchTeamPrivacyModeResponse);
+
+  rpc UpdateFastRequests(UpdateFastRequestsRequest) returns (UpdateFastRequestsResponse);
+
+  rpc GetFastRequests(GetFastRequestsRequest) returns (GetFastRequestsResponse);
+
+  rpc GetDownloadLink(GetDownloadLinkRequest) returns (GetDownloadLinkResponse);
+
+  rpc GetSsoConfigurationLinks(GetSsoConfigurationLinksRequest) returns (GetSsoConfigurationLinksResponse);
+
+  rpc SetAdminOnlyUsagePricing(SetAdminOnlyUsagePricingRequest) returns (SetAdminOnlyUsagePricingResponse);
+
+  rpc GetYearlyUpgradeEligibility(GetYearlyUpgradeEligibilityRequest) returns (GetYearlyUpgradeEligibilityResponse);
+
+  rpc UpgradeToYearly(UpgradeToYearlyRequest) returns (UpgradeToYearlyResponse);
+
+  rpc GetUsageBasedPremiumRequests(GetUsageBasedPremiumRequestsRequest) returns (GetUsageBasedPremiumRequestsResponse);
+
+  rpc SetUsageBasedPremiumRequests(SetUsageBasedPremiumRequestsRequest) returns (SetUsageBasedPremiumRequestsResponse);
+}
+
+
+enum TeamRole {
+  TEAM_ROLE_UNSPECIFIED = 0;
+  TEAM_ROLE_OWNER = 1;
+  TEAM_ROLE_MEMBER = 2;
+  TEAM_ROLE_FREE_OWNER = 3;
+}
+
+
+
+message UpdateFastRequestsRequest {
+  int32 request_quota = 1;
+  
+}
+  
+
+
+message UpdateFastRequestsResponse {
+  
+}
+  
+
+
+message GetFastRequestsRequest {
+  
+}
+  
+
+
+message GetFastRequestsResponse {
+  int32 request_quota = 1;
+  
+}
+  
+
+
+message DeleteAccountRequest {
+  
+}
+  
+
+
+message DeleteAccountResponse {
+  
+}
+  
+
+
+message SwitchTeamPrivacyModeRequest {
+  int32 team_id = 1;
+  bool privacy_mode_forced = 2;
+  
+}
+  
+
+
+message SwitchTeamPrivacyModeResponse {
+  
+}
+  
+
+
+message GetTeamPrivacyModeForcedRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetTeamPrivacyModeForcedResponse {
+  bool privacy_mode_forced = 1;
+  
+}
+  
+
+
+message GetTeamHasValidPaymentMethodRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetTeamHasValidPaymentMethodResponse {
+  bool has_valid_payment_method = 1;
+  int32 trial_days_remaining = 2;
+  
+}
+  
+
+
+message CreateTeamWithFreeTrialRequest {
+  string name = 1;
+  optional bool privacy_mode_forced = 2;
+  
+}
+  
+
+
+message CreateTeamWithFreeTrialResponse {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetPricingHistoryRequest {
+  
+}
+  
+
+
+message GetPricingHistoryResponse {
+  PricingDescription pricing_history = 1;
+  
+  message PricingDescription {
+    string description = 1;
+    string id = 2;
+    string changelog = 3;
+    int64 created_at = 4;
+    
+  }
+    
+}
+  
+
+
+message GetMonthlyInvoiceRequest {
+  optional int32 team_id = 1;
+  int32 month = 2;
+  int32 year = 3;
+  
+}
+  
+
+
+message GetMonthlyInvoiceResponse {
+  InvoiceItem items = 1;
+  PricingDescription pricing_description = 2;
+  UsageEvent usage_events = 3;
+  bool is_usage_events_maybe_cutoff = 4;
+  
+  message InvoiceItem {
+    string description = 1;
+    int32 cents = 2;
+    
+  }
+    
+  
+  
+  message PricingDescription {
+    string description = 1;
+    string id = 2;
+    
+  }
+    
+}
+  
+
+
+message GetHardLimitRequest {
+  optional int32 team_id = 1;
+  
+}
+  
+
+
+message GetHardLimitResponse {
+  int32 hard_limit = 1;
+  bool no_usage_based_allowed = 2;
+  
+}
+  
+
+
+message SetHardLimitRequest {
+  optional int32 team_id = 1;
+  int32 hard_limit = 2;
+  bool no_usage_based_allowed = 3;
+  
+}
+  
+
+
+message SetHardLimitResponse {
+  
+}
+  
+
+
+message Team {
+  string name = 1;
+  int32 id = 2;
+  TeamRole role = 3;
+  int32 seats = 4;
+  bool has_billing = 5;
+  int32 request_quota_per_seat = 6;
+  bool privacy_mode_forced = 7;
+  bool allow_sso = 8;
+  bool admin_only_usage_pricing = 9;
+  
+}
+  
+
+
+message GetTeamsRequest {
+  
+}
+  
+
+
+message GetTeamsResponse {
+  Team teams = 1;
+  
+}
+  
+
+
+message GetActivationCheckoutUrlRequest {
+  int32 team_id = 1;
+  int32 seats = 2;
+  bool yearly = 3;
+  int32 request_quota_per_seat = 4;
+  
+}
+  
+
+
+message GetActivationCheckoutUrlResponse {
+  string checkout_url = 1;
+  
+}
+  
+
+
+message GetTeamCustomerPortalUrlRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetTeamCustomerPortalUrlResponse {
+  string portal_url = 1;
+  
+}
+  
+
+
+message GetTeamMembersRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message TeamMember {
+  string name = 1;
+  string email = 4;
+  int32 id = 2;
+  TeamRole role = 3;
+  
+}
+  
+
+
+message GetTeamMembersResponse {
+  TeamMember team_members = 1;
+  int32 user_id = 2;
+  
+}
+  
+
+
+message GetTeamInviteLinkRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetTeamInviteLinkResponse {
+  string invite_link = 1;
+  
+}
+  
+
+
+message SendTeamInviteRequest {
+  int32 team_id = 1;
+  string email = 2;
+  TeamRole role = 3;
+  
+}
+  
+
+
+message SendTeamInviteResponse {
+  int64 valid_until = 1;
+  
+}
+  
+
+
+message AcceptInviteRequest {
+  string invite_code = 1;
+  
+}
+  
+
+
+message AcceptInviteResponse {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message CreateTeamRequest {
+  string name = 1;
+  optional bool privacy_mode_forced = 2;
+  
+}
+  
+
+
+message CreateTeamResponse {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message UpdateRoleRequest {
+  int32 team_id = 1;
+  int32 user_id = 2;
+  TeamRole role = 3;
+  
+}
+  
+
+
+message UpdateRoleResponse {
+  
+}
+  
+
+
+message RemoveMemberRequest {
+  int32 team_id = 1;
+  int32 user_id = 2;
+  
+}
+  
+
+
+message RemoveMemberResponse {
+  
+}
+  
+
+
+message ChangeSeatRequest {
+  int32 team_id = 1;
+  int32 new_seats = 2;
+  
+}
+  
+
+
+message ChangeSeatResponse {
+  bool success = 1;
+  
+}
+  
+
+
+message ChangeTeamSubscriptionRequest {
+  int32 team_id = 1;
+  int32 new_num_seats = 2;
+  int32 new_request_quota_per_seat = 3;
+  
+}
+  
+
+
+message ChangeTeamSubscriptionResponse {
+  bool success = 1;
+  
+}
+  
+
+
+message GetTeamUsageRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetTeamUsageResponse {
+  TeamMemberUsage team_member_usage = 1;
+  
+}
+  
+
+
+message TeamMemberUsage {
+  int32 id = 1;
+  TeamMemberUsageData usage_data = 2;
+  
+}
+  
+
+
+message TeamMemberUsageData {
+  string model_type = 1;
+  int32 num_requests = 2;
+  int32 num_tokens = 3;
+  int32 max_token_usage = 4;
+  int32 max_request_usage = 5;
+  string last_usage = 6;
+  optional int32 copilot_usage = 7;
+  optional int32 docs_count = 8;
+  
+}
+  
+
+
+message GetSignUpTypeRequest {
+  
+}
+  
+
+
+message GetSignUpTypeResponse {
+  SignUpType sign_up_type = 1;
+  
+  enum SignUpType {
+    SIGN_UP_TYPE_UNSPECIFIED = 0;
+    SIGN_UP_TYPE_AUTH_0 = 1;
+    SIGN_UP_TYPE_GOOGLE = 2;
+    SIGN_UP_TYPE_GITHUB = 3;
+    SIGN_UP_TYPE_WORKOS = 4;
+  }
+  
+}
+  
+
+
+message GetDailyTeamUsageRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetDailyTeamUsageResponse {
+  DailyTeamMemberUsage daily_team_member_usage = 1;
+  
+}
+  
+
+
+message DailyTeamMemberUsage {
+  int32 id = 1;
+  DailyUsageData daily_usage_data = 2;
+  optional string last_usage = 3;
+  
+}
+  
+
+
+message DailyUsageData {
+  string date = 1;
+  optional int32 copilot_usage = 4;
+  ModelUsageData model_usage_data = 2;
+  
+}
+  
+
+
+message ModelUsageData {
+  string model_type = 1;
+  int32 num_requests = 2;
+  int32 num_tokens = 3;
+  
+}
+  
+
+
+message GetDownloadLinkRequest {
+  Platform platform = 1;
+  
+  enum Platform {
+    PLATFORM_UNSPECIFIED = 0;
+    PLATFORM_MAC_APPLE_SILICON = 1;
+    PLATFORM_MAC_INTEL = 2;
+    PLATFORM_MAC_UNIVERSAL = 3;
+    PLATFORM_WINDOWS = 4;
+    PLATFORM_LINUX = 5;
+  }
+  
+}
+  
+
+
+message GetDownloadLinkResponse {
+  string cached_download_link = 1;
+  
+}
+  
+
+
+message GetSsoConfigurationLinksRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetSsoConfigurationLinksResponse {
+  string sso_url = 1;
+  string domain_verification_url = 2;
+  string sso_status = 3;
+  
+}
+  
+
+
+message SetAdminOnlyUsagePricingRequest {
+  int32 team_id = 1;
+  bool admin_only_usage_pricing = 2;
+  
+}
+  
+
+
+message SetAdminOnlyUsagePricingResponse {
+  
+}
+  
+
+
+message GetYearlyUpgradeEligibilityRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetYearlyUpgradeEligibilityResponse {
+  bool eligible = 1;
+  
+}
+  
+
+
+message UpgradeToYearlyRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message UpgradeToYearlyResponse {
+  
+}
+  
+
+
+message GetUsageBasedPremiumRequestsRequest {
+  int32 team_id = 1;
+  
+}
+  
+
+
+message GetUsageBasedPremiumRequestsResponse {
+  bool usage_based_premium_requests = 1;
+  
+}
+  
+
+
+message SetUsageBasedPremiumRequestsRequest {
+  int32 team_id = 1;
+  bool usage_based_premium_requests = 2;
+  
+}
+  
+
+
+message SetUsageBasedPremiumRequestsResponse {
+  
+}
+  
+

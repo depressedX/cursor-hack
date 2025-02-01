@@ -1,0 +1,127 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+
+
+message UsageEventDetails {
+  Chat chat = 1;
+  ContextChat context_chat = 2;
+  CmdK cmd_k = 3;
+  TerminalCmdK terminal_cmd_k = 4;
+  AiReviewAcceptedComment ai_review_accepted_comment = 5;
+  InterpreterChat interpreter_chat = 6;
+  SlashEdit slash_edit = 7;
+  Composer composer = 8;
+  FastApply fast_apply = 9;
+  WarmComposer warm_composer = 10;
+  BugFinderTriggerV1 bug_finder_trigger_v1 = 11;
+  ToolCallComposer tool_call_composer = 12;
+  
+  message BugFinderTriggerV1 {
+    bool in_background_subsidized = 1;
+    int32 cost_cents = 2;
+    bool is_fast = 3;
+    
+  }
+    
+  
+  
+  message Chat {
+    string model_intent = 1;
+    
+  }
+    
+  
+  
+  message FastApply {
+    bool is_optimistic = 1;
+    bool willing_to_pay_extra_for_speed = 2;
+    
+  }
+    
+  
+  
+  message Composer {
+    string model_intent = 1;
+    
+  }
+    
+  
+  
+  message ToolCallComposer {
+    string model_intent = 1;
+    
+  }
+    
+  
+  
+  message WarmComposer {
+    string model_intent = 1;
+    
+  }
+    
+  
+  
+  message ContextChat {
+    string model_intent = 1;
+    
+  }
+    
+  
+  
+  message CmdK {
+    string model_intent = 1;
+    
+  }
+    
+  
+  
+  message TerminalCmdK {
+    string model_intent = 1;
+    
+  }
+    
+  
+  
+  message AiReviewAcceptedComment {
+    
+  }
+    
+  
+  
+  message InterpreterChat {
+    string model_intent = 1;
+    
+  }
+    
+  
+  
+  message SlashEdit {
+    string model_intent = 1;
+    
+  }
+    
+}
+  
+
+
+message UsageEvent {
+  int64 timestamp = 1;
+  UsageEventDetails details = 2;
+  optional string subscription_product_id = 3;
+  optional string usage_price_id = 4;
+  bool is_slow = 5;
+  string status = 6;
+  
+}
+  
+

@@ -1,0 +1,52 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+
+
+message LspSubgraphPosition {
+  int32 line = 1;
+  int32 character = 2;
+  
+}
+  
+
+
+message LspSubgraphRange {
+  int32 start_line = 1;
+  int32 start_character = 2;
+  int32 end_line = 3;
+  int32 end_character = 4;
+  
+}
+  
+
+
+message LspSubgraphContextItem {
+  optional string uri = 1;
+  string type = 2;
+  string content = 3;
+  optional LspSubgraphRange range = 4;
+  
+}
+  
+
+
+message LspSubgraphFullContext {
+  string uri = 1;
+  string symbol_name = 2;
+  LspSubgraphPosition positions = 3;
+  LspSubgraphContextItem context_items = 4;
+  float score = 5;
+  
+}
+  
+

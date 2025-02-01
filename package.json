@@ -18,5 +18,11 @@
     "tsx": "^4.19.2",
     "util": "^0.12.5",
     "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "@biomejs/js-api": "^0.7.1",
+    "@biomejs/wasm-nodejs": "^1.9.4",
+    "@connectrpc/connect": "^1.6.1",
+    "glob": "^11.0.1"
   }
 }

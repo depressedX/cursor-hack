@@ -1,0 +1,1471 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "utils.proto";
+import "repository.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+
+
+enum ClientSideToolV2 {
+  CLIENT_SIDE_TOOL_V2_UNSPECIFIED = 0;
+  CLIENT_SIDE_TOOL_V2_READ_SEMSEARCH_FILES = 1;
+  CLIENT_SIDE_TOOL_V2_READ_FILE_FOR_IMPORTS = 2;
+  CLIENT_SIDE_TOOL_V2_RIPGREP_SEARCH = 3;
+  CLIENT_SIDE_TOOL_V2_RUN_TERMINAL_COMMAND = 4;
+  CLIENT_SIDE_TOOL_V2_READ_FILE = 5;
+  CLIENT_SIDE_TOOL_V2_LIST_DIR = 6;
+  CLIENT_SIDE_TOOL_V2_EDIT_FILE = 7;
+  CLIENT_SIDE_TOOL_V2_FILE_SEARCH = 8;
+  CLIENT_SIDE_TOOL_V2_SEMANTIC_SEARCH_FULL = 9;
+  CLIENT_SIDE_TOOL_V2_CREATE_FILE = 10;
+  CLIENT_SIDE_TOOL_V2_DELETE_FILE = 11;
+  CLIENT_SIDE_TOOL_V2_REAPPLY = 12;
+  CLIENT_SIDE_TOOL_V2_GET_RELATED_FILES = 13;
+  CLIENT_SIDE_TOOL_V2_PARALLEL_APPLY = 14;
+  CLIENT_SIDE_TOOL_V2_RUN_TERMINAL_COMMAND_V2 = 15;
+}
+
+
+
+enum ShellType {
+  SHELL_TYPE_UNSPECIFIED = 0;
+  SHELL_TYPE_BASH = 1;
+  SHELL_TYPE_POWERSHELL = 2;
+}
+
+
+
+enum BuiltinTool {
+  BUILTIN_TOOL_UNSPECIFIED = 0;
+  BUILTIN_TOOL_SEARCH = 1;
+  BUILTIN_TOOL_READ_CHUNK = 2;
+  BUILTIN_TOOL_GOTODEF = 3;
+  BUILTIN_TOOL_EDIT = 4;
+  BUILTIN_TOOL_UNDO_EDIT = 5;
+  BUILTIN_TOOL_END = 6;
+  BUILTIN_TOOL_NEW_FILE = 7;
+  BUILTIN_TOOL_ADD_TEST = 8;
+  BUILTIN_TOOL_RUN_TEST = 9;
+  BUILTIN_TOOL_DELETE_TEST = 10;
+  BUILTIN_TOOL_SAVE_FILE = 11;
+  BUILTIN_TOOL_GET_TESTS = 12;
+  BUILTIN_TOOL_GET_SYMBOLS = 13;
+  BUILTIN_TOOL_SEMANTIC_SEARCH = 14;
+  BUILTIN_TOOL_GET_PROJECT_STRUCTURE = 15;
+  BUILTIN_TOOL_CREATE_RM_FILES = 16;
+  BUILTIN_TOOL_RUN_TERMINAL_COMMANDS = 17;
+  BUILTIN_TOOL_NEW_EDIT = 18;
+  BUILTIN_TOOL_READ_WITH_LINTER = 19;
+}
+
+
+
+enum RunTerminalCommandEndedReason {
+  RUN_TERMINAL_COMMAND_ENDED_REASON_UNSPECIFIED = 0;
+  RUN_TERMINAL_COMMAND_ENDED_REASON_EXECUTION_COMPLETED = 1;
+  RUN_TERMINAL_COMMAND_ENDED_REASON_EXECUTION_ABORTED = 2;
+  RUN_TERMINAL_COMMAND_ENDED_REASON_EXECUTION_FAILED = 3;
+  RUN_TERMINAL_COMMAND_ENDED_REASON_ERROR_OCCURRED_CHECKING_REASON = 4;
+}
+
+
+
+message ReapplyParams {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message ReapplyResult {
+  EditFileResult.FileDiff diff = 1;
+  bool is_applied = 2;
+  bool apply_failed = 3;
+  LinterError linter_errors = 4;
+  
+}
+  
+
+
+message GetRelatedFilesParams {
+  string target_files = 1;
+  
+}
+  
+
+
+message GetRelatedFilesResult {
+  File files = 1;
+  
+  message File {
+    string uri = 1;
+    float score = 2;
+    
+  }
+    
+}
+  
+
+
+message ReapplyStream {
+  
+}
+  
+
+
+message RunTerminalCommandArguments {
+  string command = 1;
+  string explanation = 2;
+  
+}
+  
+
+
+message SemanticSearchArguments {
+  string query = 1;
+  string target_directories = 2;
+  string explanation = 3;
+  
+}
+  
+
+
+message ToolResultError {
+  string client_visible_error_message = 1;
+  string model_visible_error_message = 2;
+  
+}
+  
+
+
+message ClientSideToolV2Call {
+  ClientSideToolV2 tool = 1;
+  ReadSemsearchFilesParams read_semsearch_files_params = 2;
+  ReadFileForImportsParams read_file_for_imports_params = 4;
+  RipgrepSearchParams ripgrep_search_params = 5;
+  RunTerminalCommandParams run_terminal_command_params = 7;
+  ReadFileParams read_file_params = 8;
+  ListDirParams list_dir_params = 12;
+  EditFileParams edit_file_params = 13;
+  ToolCallFileSearchParams file_search_params = 16;
+  SemanticSearchFullParams semantic_search_full_params = 17;
+  CreateFileParams create_file_params = 18;
+  DeleteFileParams delete_file_params = 19;
+  ReapplyParams reapply_params = 20;
+  GetRelatedFilesParams get_related_files_params = 21;
+  ParallelApplyParams parallel_apply_params = 22;
+  RunTerminalCommandV2Params run_terminal_command_v2_params = 23;
+  string tool_call_id = 3;
+  optional double timeout_ms = 6;
+  string name = 9;
+  string raw_args = 10;
+  bool is_streaming = 14;
+  bool is_last_message = 15;
+  
+}
+  
+
+
+message ClientSideToolV2Result {
+  ClientSideToolV2 tool = 1;
+  ReadSemsearchFilesResult read_semsearch_files_result = 2;
+  ReadFileForImportsResult read_file_for_imports_result = 3;
+  RipgrepSearchResult ripgrep_search_result = 4;
+  RunTerminalCommandResult run_terminal_command_result = 5;
+  ReadFileResult read_file_result = 6;
+  ListDirResult list_dir_result = 9;
+  EditFileResult edit_file_result = 10;
+  ToolCallFileSearchResult file_search_result = 11;
+  SemanticSearchFullResult semantic_search_full_result = 18;
+  CreateFileResult create_file_result = 19;
+  DeleteFileResult delete_file_result = 20;
+  ReapplyResult reapply_result = 21;
+  GetRelatedFilesResult get_related_files_result = 22;
+  ParallelApplyResult parallel_apply_result = 23;
+  RunTerminalCommandV2Result run_terminal_command_v2_result = 24;
+  optional ToolResultError error = 8;
+  
+}
+  
+
+
+message StreamedBackPartialToolCall {
+  ClientSideToolV2 tool = 1;
+  string tool_call_id = 2;
+  string name = 3;
+  
+}
+  
+
+
+message StreamedBackToolCall {
+  ClientSideToolV2 tool = 1;
+  string tool_call_id = 2;
+  ReadSemsearchFilesStream read_semsearch_files_stream = 3;
+  ReadFileForImportsStream read_file_for_imports_stream = 4;
+  RipgrepSearchStream ripgrep_search_stream = 5;
+  RunTerminalCommandStream run_terminal_command_stream = 6;
+  ReadFileStream read_file_stream = 7;
+  ListDirStream list_dir_stream = 12;
+  EditFileStream edit_file_stream = 13;
+  ToolCallFileSearchStream file_search_stream = 14;
+  SemanticSearchFullStream semantic_search_full_stream = 19;
+  CreateFileStream create_file_stream = 20;
+  DeleteFileStream delete_file_stream = 21;
+  ReapplyStream reapply_stream = 22;
+  GetRelatedFilesStream get_related_files_stream = 23;
+  ParallelApplyStream parallel_apply_stream = 24;
+  RunTerminalCommandV2Stream run_terminal_command_v2_stream = 25;
+  string name = 8;
+  string raw_args = 9;
+  optional ToolResultError error = 10;
+  
+}
+  
+
+
+message EditFileParams {
+  string relative_workspace_path = 1;
+  string language = 2;
+  string contents = 3;
+  bool blocking = 4;
+  optional string instructions = 5;
+  
+}
+  
+
+
+message EditFileResult {
+  FileDiff diff = 1;
+  bool is_applied = 2;
+  bool apply_failed = 3;
+  LinterError linter_errors = 4;
+  
+  message FileDiff {
+    ChunkDiff chunks = 1;
+    Editor editor = 2;
+    bool hit_timeout = 3;
+    
+    enum Editor {
+      EDITOR_UNSPECIFIED = 0;
+      EDITOR_AI = 1;
+      EDITOR_HUMAN = 2;
+    }
+    
+    
+    
+    message ChunkDiff {
+      string diff_string = 1;
+      int32 old_start = 2;
+      int32 new_start = 3;
+      int32 old_lines = 4;
+      int32 new_lines = 5;
+      int32 lines_removed = 6;
+      int32 lines_added = 7;
+      
+    }
+      
+  }
+    
+}
+  
+
+
+message EditFileStream {
+  
+}
+  
+
+
+message ToolCallFileSearchParams {
+  string query = 1;
+  
+}
+  
+
+
+message ToolCallGetRelatedFilesParams {
+  string target_files = 1;
+  
+}
+  
+
+
+message ToolCallFileSearchStream {
+  string query = 1;
+  
+}
+  
+
+
+message ToolCallFileSearchResult {
+  File files = 1;
+  optional bool limit_hit = 2;
+  int32 num_results = 3;
+  
+  message File {
+    string uri = 1;
+    
+  }
+    
+}
+  
+
+
+message ListDirParams {
+  string directory_path = 1;
+  
+}
+  
+
+
+message ListDirResult {
+  File files = 1;
+  string directory_relative_workspace_path = 2;
+  
+  message File {
+    string name = 1;
+    bool is_directory = 2;
+    optional int64 size = 3;
+    optional google.protobuf.Timestamp last_modified = 4;
+    optional int32 num_children = 5;
+    optional int32 num_lines = 6;
+    
+  }
+    
+}
+  
+
+
+message ListDirStream {
+  
+}
+  
+
+
+message ReadFileParams {
+  string relative_workspace_path = 1;
+  bool read_entire_file = 2;
+  optional int32 start_line_one_indexed = 3;
+  optional int32 end_line_one_indexed_inclusive = 4;
+  bool file_is_allowed_to_be_read_entirely = 5;
+  
+}
+  
+
+
+message ReadFileResult {
+  string contents = 1;
+  bool did_downgrade_to_line_range = 2;
+  bool did_shorten_line_range = 3;
+  bool did_set_default_line_range = 4;
+  optional string full_file_contents = 5;
+  optional string outline = 6;
+  optional int32 start_line_one_indexed = 7;
+  optional int32 end_line_one_indexed_inclusive = 8;
+  string relative_workspace_path = 9;
+  bool did_shorten_char_range = 10;
+  
+}
+  
+
+
+message ReadFileStream {
+  
+}
+  
+
+
+message RipgrepSearchParams {
+  ITextQueryBuilderOptionsProto options = 1;
+  IPatternInfoProto pattern_info = 2;
+  
+  message IPatternInfoProto {
+    string pattern = 1;
+    optional bool is_reg_exp = 2;
+    optional bool is_word_match = 3;
+    optional string word_separators = 4;
+    optional bool is_multiline = 5;
+    optional bool is_unicode = 6;
+    optional bool is_case_sensitive = 7;
+    INotebookPatternInfoProto notebook_info = 8;
+    
+    message INotebookPatternInfoProto {
+      optional bool is_in_notebook_markdown_input = 1;
+      optional bool is_in_notebook_markdown_preview = 2;
+      optional bool is_in_notebook_cell_input = 3;
+      optional bool is_in_notebook_cell_output = 4;
+      
+    }
+      
+  }
+    
+  
+  
+  message ITextQueryBuilderOptionsProto {
+    ITextSearchPreviewOptionsProto preview_options = 1;
+    optional string file_encoding = 2;
+    optional int32 surrounding_context = 3;
+    optional bool is_smart_case = 4;
+    INotebookSearchConfigProto notebook_search_config = 5;
+    ExcludePatternProto exclude_pattern = 6;
+    ISearchPathPatternBuilderProto include_pattern = 7;
+    optional bool expand_patterns = 8;
+    optional int32 max_results = 9;
+    optional int32 max_file_size = 10;
+    optional bool disregard_ignore_files = 11;
+    optional bool disregard_global_ignore_files = 12;
+    optional bool disregard_parent_ignore_files = 13;
+    optional bool disregard_exclude_settings = 14;
+    optional bool disregard_search_exclude_settings = 15;
+    optional bool ignore_symlinks = 16;
+    optional bool only_open_editors = 17;
+    optional bool only_file_scheme = 18;
+    optional string reason = 19;
+    ExtraFileResourcesProto extra_file_resources = 20;
+    
+    message ExtraFileResourcesProto {
+      string extra_file_resources = 1;
+      
+    }
+      
+    
+    
+    message ExcludePatternProto {
+      ISearchPatternBuilderProto exclude_pattern = 1;
+      
+    }
+      
+    
+    
+    message ISearchPatternBuilderProto {
+      optional string uri = 1;
+      ISearchPathPatternBuilderProto pattern = 2;
+      
+    }
+      
+    
+    
+    message ISearchPathPatternBuilderProto {
+      optional string pattern = 1;
+      string patterns = 2;
+      
+    }
+      
+    
+    
+    message ITextSearchPreviewOptionsProto {
+      int32 match_lines = 1;
+      int32 chars_per_line = 2;
+      
+    }
+      
+    
+    
+    message INotebookSearchConfigProto {
+      bool include_markup_input = 1;
+      bool include_markup_preview = 2;
+      bool include_code_input = 3;
+      bool include_output = 4;
+      
+    }
+      
+  }
+    
+}
+  
+
+
+message RipgrepSearchResult {
+  RipgrepSearchResultInternal internal = 1;
+  
+}
+  
+
+
+message RipgrepSearchResultInternal {
+  IFileMatch results = 1;
+  optional SearchCompletionExitCode exit = 2;
+  optional bool limit_hit = 3;
+  ITextSearchCompleteMessage messages = 4;
+  IFileSearchStats file_search_stats = 5;
+  ITextSearchStats text_search_stats = 6;
+  
+  enum TextSearchCompleteMessageType {
+    TEXT_SEARCH_COMPLETE_MESSAGE_TYPE_UNSPECIFIED = 0;
+    TEXT_SEARCH_COMPLETE_MESSAGE_TYPE_INFORMATION = 1;
+    TEXT_SEARCH_COMPLETE_MESSAGE_TYPE_WARNING = 2;
+  }
+  
+  
+  
+  enum SearchCompletionExitCode {
+    SEARCH_COMPLETION_EXIT_CODE_UNSPECIFIED = 0;
+    SEARCH_COMPLETION_EXIT_CODE_NORMAL = 1;
+    SEARCH_COMPLETION_EXIT_CODE_NEW_SEARCH_STARTED = 2;
+  }
+  
+  
+  
+  message IFileMatch {
+    string resource = 1;
+    ITextSearchResult results = 2;
+    
+  }
+    
+  
+  
+  message ITextSearchResult {
+    ITextSearchMatch match = 1;
+    ITextSearchContext context = 2;
+    
+  }
+    
+  
+  
+  message ITextSearchMatch {
+    optional string uri = 1;
+    ISearchRangeSetPairing range_locations = 2;
+    string preview_text = 3;
+    optional int32 webview_index = 4;
+    optional string cell_fragment = 5;
+    
+  }
+    
+  
+  
+  message ITextSearchContext {
+    optional string uri = 1;
+    string text = 2;
+    int32 line_number = 3;
+    
+  }
+    
+  
+  
+  message ISearchRangeSetPairing {
+    ISearchRange source = 1;
+    ISearchRange preview = 2;
+    
+  }
+    
+  
+  
+  message ISearchRange {
+    int32 start_line_number = 1;
+    int32 start_column = 2;
+    int32 end_line_number = 3;
+    int32 end_column = 4;
+    
+  }
+    
+  
+  
+  message ITextSearchCompleteMessage {
+    string text = 1;
+    TextSearchCompleteMessageType type = 2;
+    optional bool trusted = 3;
+    
+  }
+    
+  
+  
+  message IFileSearchStats {
+    bool from_cache = 1;
+    ISearchEngineStats search_engine_stats = 2;
+    ICachedSearchStats cached_search_stats = 3;
+    IFileSearchProviderStats file_search_provider_stats = 4;
+    int32 result_count = 5;
+    FileSearchProviderType type = 6;
+    optional int32 sorting_time = 7;
+    
+    enum FileSearchProviderType {
+      FILE_SEARCH_PROVIDER_TYPE_UNSPECIFIED = 0;
+      FILE_SEARCH_PROVIDER_TYPE_FILE_SEARCH_PROVIDER = 1;
+      FILE_SEARCH_PROVIDER_TYPE_SEARCH_PROCESS = 2;
+    }
+    
+  }
+    
+  
+  
+  message ITextSearchStats {
+    TextSearchProviderType type = 1;
+    
+    enum TextSearchProviderType {
+      TEXT_SEARCH_PROVIDER_TYPE_UNSPECIFIED = 0;
+      TEXT_SEARCH_PROVIDER_TYPE_TEXT_SEARCH_PROVIDER = 1;
+      TEXT_SEARCH_PROVIDER_TYPE_SEARCH_PROCESS = 2;
+      TEXT_SEARCH_PROVIDER_TYPE_AI_TEXT_SEARCH_PROVIDER = 3;
+    }
+    
+  }
+    
+  
+  
+  message ISearchEngineStats {
+    int32 file_walk_time = 1;
+    int32 directories_walked = 2;
+    int32 files_walked = 3;
+    int32 cmd_time = 4;
+    optional int32 cmd_result_count = 5;
+    
+  }
+    
+  
+  
+  message ICachedSearchStats {
+    bool cache_was_resolved = 1;
+    int32 cache_lookup_time = 2;
+    int32 cache_filter_time = 3;
+    int32 cache_entry_count = 4;
+    
+  }
+    
+  
+  
+  message IFileSearchProviderStats {
+    int32 provider_time = 1;
+    int32 post_process_time = 2;
+    
+  }
+    
+}
+  
+
+
+message RipgrepSearchStream {
+  string query = 1;
+  
+}
+  
+
+
+message ReadSemsearchFilesParams {
+  RepositoryInfo repository_info = 1;
+  CodeResult code_results = 2;
+  string query = 3;
+  
+}
+  
+
+
+message MissingFile {
+  string relative_workspace_path = 1;
+  MissingReason missing_reason = 2;
+  optional int32 num_lines = 3;
+  
+  enum MissingReason {
+    MISSING_REASON_UNSPECIFIED = 0;
+    MISSING_REASON_TOO_LARGE = 1;
+    MISSING_REASON_NOT_FOUND = 2;
+  }
+  
+}
+  
+
+
+message ReadSemsearchFilesResult {
+  CodeResult code_results = 1;
+  File all_files = 2;
+  MissingFile missing_files = 3;
+  
+}
+  
+
+
+message ReadSemsearchFilesStream {
+  int32 num_files = 1;
+  
+}
+  
+
+
+message GetRelatedFilesStream {
+  string target_files = 1;
+  
+}
+  
+
+
+message SemanticSearchFullParams {
+  RepositoryInfo repository_info = 1;
+  string query = 2;
+  optional string include_pattern = 3;
+  optional string exclude_pattern = 4;
+  int32 top_k = 5;
+  
+}
+  
+
+
+message SemanticSearchFullResult {
+  CodeResult code_results = 1;
+  File all_files = 2;
+  MissingFile missing_files = 3;
+  
+}
+  
+
+
+message SemanticSearchFullStream {
+  int32 num_files = 1;
+  
+}
+  
+
+
+message ReadFileForImportsStream {
+  string relative_file_path = 1;
+  
+}
+  
+
+
+message ReadFileForImportsParams {
+  string relative_file_path = 1;
+  
+}
+  
+
+
+message ReadFileForImportsResult {
+  string contents = 1;
+  
+}
+  
+
+
+message CreateFileStream {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message CreateFileParams {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message CreateFileResult {
+  bool file_created_successfully = 1;
+  bool file_already_exists = 2;
+  
+}
+  
+
+
+message DeleteFileParams {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message DeleteFileResult {
+  bool rejected = 1;
+  bool file_non_existent = 2;
+  bool file_deleted_successfully = 3;
+  
+}
+  
+
+
+message DeleteFileStream {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message RunTerminalCommandParams {
+  string command = 1;
+  optional string cwd = 2;
+  optional bool new_session = 3;
+  bool require_user_approval = 5;
+  optional ExecutionOptions options = 4;
+  
+  message ExecutionOptions {
+    optional int32 timeout = 1;
+    optional bool skip_ai_check = 2;
+    optional int32 command_run_timeout_ms = 3;
+    optional int32 command_change_check_interval_ms = 4;
+    optional int32 ai_finish_check_max_attempts = 5;
+    optional int32 ai_finish_check_interval_ms = 6;
+    optional int32 delayer_interval_ms = 7;
+    
+  }
+    
+}
+  
+
+
+message RunTerminalCommandResult {
+  string output = 1;
+  int32 exit_code = 2;
+  optional bool rejected = 3;
+  bool popped_out_into_background = 4;
+  
+}
+  
+
+
+message RunTerminalCommandStream {
+  string command = 1;
+  
+}
+  
+
+
+message BuiltinToolCall {
+  BuiltinTool tool = 1;
+  SearchParams search_params = 2;
+  ReadChunkParams read_chunk_params = 3;
+  GotodefParams gotodef_params = 4;
+  EditParams edit_params = 5;
+  UndoEditParams undo_edit_params = 6;
+  EndParams end_params = 7;
+  NewFileParams new_file_params = 8;
+  AddTestParams add_test_params = 9;
+  RunTestParams run_test_params = 10;
+  DeleteTestParams delete_test_params = 11;
+  SaveFileParams save_file_params = 12;
+  GetTestsParams get_tests_params = 13;
+  GetSymbolsParams get_symbols_params = 14;
+  SemanticSearchParams semantic_search_params = 15;
+  GetProjectStructureParams get_project_structure_params = 16;
+  CreateRmFilesParams create_rm_files_params = 17;
+  RunTerminalCommandsParams run_terminal_commands_params = 18;
+  NewEditParams new_edit_params = 19;
+  ReadWithLinterParams read_with_linter_params = 20;
+  AddUiStepParams add_ui_step_params = 21;
+  ReadSemsearchFilesParams read_semsearch_files_params = 23;
+  ReadFileForImportsParams read_file_for_imports_params = 24;
+  CreateFileParams create_file_params = 25;
+  DeleteFileParams delete_file_params = 26;
+  optional string tool_call_id = 22;
+  
+}
+  
+
+
+message BuiltinToolResult {
+  BuiltinTool tool = 1;
+  SearchResult search_result = 2;
+  ReadChunkResult read_chunk_result = 3;
+  GotodefResult gotodef_result = 4;
+  EditResult edit_result = 5;
+  UndoEditResult undo_edit_result = 6;
+  EndResult end_result = 7;
+  NewFileResult new_file_result = 8;
+  AddTestResult add_test_result = 9;
+  RunTestResult run_test_result = 10;
+  DeleteTestResult delete_test_result = 11;
+  SaveFileResult save_file_result = 12;
+  GetTestsResult get_tests_result = 13;
+  GetSymbolsResult get_symbols_result = 14;
+  SemanticSearchResult semantic_search_result = 15;
+  GetProjectStructureResult get_project_structure_result = 16;
+  CreateRmFilesResult create_rm_files_result = 17;
+  RunTerminalCommandsResult run_terminal_commands_result = 18;
+  NewEditResult new_edit_result = 19;
+  ReadWithLinterResult read_with_linter_result = 20;
+  AddUiStepResult add_ui_step_result = 21;
+  ReadSemsearchFilesResult read_semsearch_files_result = 22;
+  CreateFileResult create_file_result = 23;
+  DeleteFileResult delete_file_result = 24;
+  
+}
+  
+
+
+message AddUiStepParams {
+  string conversation_id = 1;
+  SearchResults search_results = 2;
+  
+  message SearchResult {
+    string relative_workspace_path = 1;
+    
+  }
+    
+  
+  
+  message SearchResults {
+    SearchResult search_results = 1;
+    
+  }
+    
+}
+  
+
+
+message AddUiStepResult {
+  
+}
+  
+
+
+message ServerSideToolResult {
+  
+}
+  
+
+
+message ToolCall {
+  BuiltinToolCall builtin_tool_call = 1;
+  CustomToolCall custom_tool_call = 2;
+  
+}
+  
+
+
+message ToolResult {
+  BuiltinToolResult builtin_tool_result = 1;
+  CustomToolResult custom_tool_result = 2;
+  ErrorToolResult error_tool_result = 3;
+  
+}
+  
+
+
+message ReadWithLinterParams {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message ReadWithLinterResult {
+  string contents = 1;
+  Diagnostic diagnostics = 2;
+  
+}
+  
+
+
+message RunTerminalCommandsParams {
+  string commands = 1;
+  string commands_uuid = 2;
+  
+}
+  
+
+
+message RunTerminalCommandsResult {
+  string outputs = 1;
+  
+}
+  
+
+
+message CreateRmFilesParams {
+  string removed_file_paths = 1;
+  string created_file_paths = 2;
+  string created_directory_paths = 3;
+  
+}
+  
+
+
+message CreateRmFilesResult {
+  string created_file_paths = 1;
+  string removed_file_paths = 2;
+  
+}
+  
+
+
+message GetProjectStructureParams {
+  
+}
+  
+
+
+message GetProjectStructureResult {
+  File files = 1;
+  string root_workspace_path = 2;
+  
+  message File {
+    string relative_workspace_path = 1;
+    string outline = 2;
+    
+  }
+    
+}
+  
+
+
+message NewFileParams {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message SemanticSearchParams {
+  string query = 1;
+  optional string include_pattern = 2;
+  optional string exclude_pattern = 3;
+  int32 top_k = 4;
+  optional string index_id = 5;
+  bool grab_whole_file = 6;
+  
+}
+  
+
+
+message SemanticSearchResult {
+  Item results = 1;
+  map<string, string> files = 2;
+  
+  message Item {
+    string relative_workspace_path = 1;
+    float score = 2;
+    string content = 3;
+    SimpleRange range = 4;
+    optional string original_content = 5;
+    DetailedLine detailed_lines = 6;
+    
+  }
+    
+}
+  
+
+
+message SearchParams {
+  string query = 1;
+  bool regex = 2;
+  string include_pattern = 3;
+  string exclude_pattern = 4;
+  bool filename_search = 5;
+  
+}
+  
+
+
+message SearchToolFileSearchResult {
+  string relative_workspace_path = 1;
+  int32 num_matches = 2;
+  Line potentially_relevant_lines = 3;
+  bool cropped = 4;
+  
+  message Line {
+    int32 line_number = 1;
+    string text = 2;
+    
+  }
+    
+}
+  
+
+
+message SearchResult {
+  SearchToolFileSearchResult file_results = 1;
+  int32 num_total_matches = 2;
+  int32 num_total_matched_files = 3;
+  bool num_total_may_be_incomplete = 4;
+  bool files_only = 5;
+  
+}
+  
+
+
+message ReadChunkParams {
+  string relative_workspace_path = 1;
+  int32 start_line_number = 2;
+  optional int32 num_lines = 3;
+  
+}
+  
+
+
+message ReadChunkResult {
+  string relative_workspace_path = 1;
+  int32 start_line_number = 2;
+  string lines = 3;
+  int32 total_num_lines = 4;
+  bool cropped = 5;
+  
+}
+  
+
+
+message UndoEditParams {
+  
+}
+  
+
+
+message EndParams {
+  
+}
+  
+
+
+message NewFileResult {
+  string relative_workspace_path = 1;
+  int32 file_total_lines = 2;
+  
+}
+  
+
+
+message UndoEditResult {
+  string feedback = 1;
+  string relative_workspace_path = 4;
+  int32 context_start_line_number = 2;
+  string context_lines = 3;
+  int32 context_total_num_lines = 5;
+  int32 file_total_lines = 6;
+  
+}
+  
+
+
+message EndResult {
+  
+}
+  
+
+
+message CustomToolCall {
+  string tool_id = 1;
+  string params = 2;
+  
+}
+  
+
+
+message ScratchpadResult {
+  
+}
+  
+
+
+message CustomToolResult {
+  string tool_id = 1;
+  string result = 2;
+  
+}
+  
+
+
+message GotodefParams {
+  string relative_workspace_path = 1;
+  int32 line_number = 2;
+  string symbol = 3;
+  
+}
+  
+
+
+message GotodefToolFileSearchResult {
+  string relative_workspace_path = 1;
+  Line potentially_relevant_lines = 3;
+  
+  message Line {
+    int32 line_number = 1;
+    string text = 2;
+    
+  }
+    
+}
+  
+
+
+message GotodefResult {
+  GotodefToolFileSearchResult results = 1;
+  
+}
+  
+
+
+message ErrorToolResult {
+  string error_message = 1;
+  
+}
+  
+
+
+message NewEditParams {
+  string relative_workspace_path = 1;
+  optional int32 start_line_number = 2;
+  optional int32 end_line_number = 3;
+  string text = 4;
+  string edit_id = 5;
+  bool first_edit = 6;
+  
+}
+  
+
+
+message NewEditResult {
+  
+}
+  
+
+
+message EditParams {
+  string relative_workspace_path = 1;
+  optional int32 line_number = 2;
+  int32 replace_num_lines = 3;
+  string new_lines = 4;
+  optional bool replace_whole_file = 7;
+  string edit_id = 5;
+  FrontendEditType frontend_edit_type = 6;
+  optional bool auto_fix_all_linter_errors_in_file = 8;
+  
+  enum FrontendEditType {
+    FRONTEND_EDIT_TYPE_UNSPECIFIED = 0;
+    FRONTEND_EDIT_TYPE_INLINE_DIFFS = 1;
+    FRONTEND_EDIT_TYPE_SIMPLE = 2;
+  }
+  
+}
+  
+
+
+message EditResult {
+  string feedback = 1;
+  int32 context_start_line_number = 2;
+  string context_lines = 3;
+  string file = 4;
+  int32 file_total_lines = 5;
+  Feedback structured_feedback = 6;
+  
+  message RelatedInformation {
+    string message = 1;
+    int32 start_line_number = 2;
+    int32 end_line_number = 3;
+    string relative_workspace_path = 4;
+    
+  }
+    
+  
+  
+  message Feedback {
+    string message = 1;
+    string severity = 2;
+    int32 start_line_number = 3;
+    int32 end_line_number = 4;
+    RelatedInformation related_information = 5;
+    
+  }
+    
+}
+  
+
+
+message AddTestParams {
+  string relative_workspace_path = 1;
+  string test_name = 2;
+  string test_code = 3;
+  
+}
+  
+
+
+message AddTestResult {
+  Feedback feedback = 1;
+  
+  message RelatedInformation {
+    string message = 1;
+    int32 start_line_number = 2;
+    int32 end_line_number = 3;
+    string relative_workspace_path = 4;
+    
+  }
+    
+  
+  
+  message Feedback {
+    string message = 1;
+    string severity = 2;
+    int32 start_line_number = 3;
+    int32 end_line_number = 4;
+    RelatedInformation related_information = 5;
+    
+  }
+    
+}
+  
+
+
+message RunTestParams {
+  string relative_workspace_path = 1;
+  optional string test_name = 2;
+  
+}
+  
+
+
+message RunTestResult {
+  string result = 1;
+  
+}
+  
+
+
+message GetTestsParams {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message GetTestsResult {
+  Test tests = 1;
+  
+  message Test {
+    string name = 1;
+    string lines = 2;
+    
+  }
+    
+}
+  
+
+
+message DeleteTestParams {
+  string relative_workspace_path = 1;
+  optional string test_name = 2;
+  
+}
+  
+
+
+message DeleteTestResult {
+  
+}
+  
+
+
+message SaveFileParams {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message SaveFileResult {
+  
+}
+  
+
+
+message GetSymbolsParams {
+  string relative_workspace_path = 1;
+  optional LineRange line_range = 2;
+  bool include_children = 3;
+  
+  message LineRange {
+    int32 start_line_number = 1;
+    int32 end_line_number_inclusive = 2;
+    
+  }
+    
+}
+  
+
+
+message GetSymbolsResult {
+  DocumentSymbol symbols = 1;
+  
+}
+  
+
+
+message ParallelApplyParams {
+  string edit_plan = 1;
+  FileRegion file_regions = 2;
+  
+  message FileRegion {
+    string relative_workspace_path = 1;
+    SimpleRange range = 2;
+    
+  }
+    
+}
+  
+
+
+message ParallelApplyResult {
+  FileResult file_results = 1;
+  optional string error = 2;
+  
+  message FileResult {
+    string file_path = 1;
+    EditFileResult.FileDiff diff = 2;
+    bool is_applied = 3;
+    bool apply_failed = 4;
+    optional string error = 5;
+    LinterError linter_errors = 6;
+    
+  }
+    
+}
+  
+
+
+message ParallelApplyStream {
+  
+}
+  
+
+
+message RunTerminalCommandV2Params {
+  string command = 1;
+  optional string cwd = 2;
+  optional bool new_session = 3;
+  optional ExecutionOptions options = 4;
+  bool is_background = 5;
+  bool require_user_approval = 6;
+  
+  message ExecutionOptions {
+    optional int32 timeout = 1;
+    optional bool skip_ai_check = 2;
+    optional int32 command_run_timeout_ms = 3;
+    optional int32 command_change_check_interval_ms = 4;
+    optional int32 ai_finish_check_max_attempts = 5;
+    optional int32 ai_finish_check_interval_ms = 6;
+    optional int32 delayer_interval_ms = 7;
+    
+  }
+    
+}
+  
+
+
+message RunTerminalCommandV2Result {
+  string output = 1;
+  int32 exit_code = 2;
+  optional bool rejected = 3;
+  bool popped_out_into_background = 4;
+  bool is_running_in_background = 5;
+  bool not_interrupted = 6;
+  string resulting_working_directory = 7;
+  bool did_user_change = 8;
+  RunTerminalCommandEndedReason ended_reason = 9;
+  optional int32 exit_code_v2 = 10;
+  
+}
+  
+
+
+message RunTerminalCommandV2Stream {
+  string command = 1;
+  bool is_background = 2;
+  
+}
+  
+

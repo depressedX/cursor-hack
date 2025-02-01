@@ -1,0 +1,101 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service ShadowWorkspaceService {
+
+  rpc GetLintsForChange(GetLintsForChangeRequest) returns (GetLintsForChangeResponse);
+
+  rpc ShadowHealthCheck(ShadowHealthCheckRequest) returns (ShadowHealthCheckResponse);
+}
+
+
+message ShadowHealthCheckRequest {
+  
+}
+  
+
+
+message ShadowHealthCheckResponse {
+  
+}
+  
+
+
+message GetLintsForChangeRequest {
+  File files = 1;
+  bool include_quick_fixes = 2;
+  bool do_not_use_in_prod_new_files_should_be_temporarily_created_for_increased_accuracy = 3;
+  
+  message File {
+    string relative_workspace_path = 1;
+    string initial_content = 2;
+    string final_content = 3;
+    optional RangeCollection get_all_lints_not_just_delta_lints_for_ranges_in_final_model = 4;
+    
+    message RangeCollection {
+      IRange ranges = 1;
+      
+    }
+      
+    
+    
+    message IRange {
+      int32 start_line_number = 1;
+      int32 start_column = 2;
+      int32 end_line_number = 3;
+      int32 end_column = 4;
+      
+    }
+      
+  }
+    
+}
+  
+
+
+message GetLintsForChangeResponse {
+  Lint lints = 1;
+  
+  message Lint {
+    string message = 1;
+    string severity = 2;
+    string relative_workspace_path = 3;
+    int32 start_line_number_one_indexed = 4;
+    int32 start_column_one_indexed = 5;
+    int32 end_line_number_inclusive_one_indexed = 6;
+    int32 end_column_one_indexed = 7;
+    QuickFix quick_fixes = 9;
+    
+    message QuickFix {
+      string message = 1;
+      string kind = 2;
+      bool is_preferred = 3;
+      Edit edits = 4;
+      
+      message Edit {
+        string relative_workspace_path = 1;
+        string text = 2;
+        int32 start_line_number_one_indexed = 3;
+        int32 start_column_one_indexed = 4;
+        int32 end_line_number_inclusive_one_indexed = 5;
+        int32 end_column_one_indexed = 6;
+        
+      }
+        
+    }
+      
+  }
+    
+}
+  
+

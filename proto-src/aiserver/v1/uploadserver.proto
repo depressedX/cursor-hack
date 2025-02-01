@@ -1,0 +1,173 @@
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "aiserver/v1/docs.proto";
+
+// 上传状态枚举
+enum UploadStatus {
+  UPLOAD_STATUS_UNSPECIFIED = 0;
+  UPLOAD_STATUS_IN_PROGRESS = 1;
+  UPLOAD_STATUS_SUCCEEDED = 2;
+  UPLOAD_STATUS_FAILED = 3;
+  UPLOAD_STATUS_NOT_FOUND = 4;
+}
+
+// 重新抓取文档请求
+message RescrapeDocsRequest {
+  string doc_identifier = 1;
+  optional bool force_reupload = 2;
+}
+
+// 重新抓取文档请求 V2
+message RescrapeDocsRequestV2 {
+  NewDocumentationRequest new_doc_req = 1;
+  optional bool force_reupload = 2;
+}
+
+// 重新抓取文档响应
+message RescrapeDocsResponse {
+  bool success = 1;
+  optional string new_doc_identifier = 2;
+}
+
+// 获取上传状态请求
+message UploadedStatusRequest {
+  string doc_identifier = 1;
+}
+
+// 上传文档请求
+message UploadDocumentationRequest {
+  string doc_identifier = 1;
+}
+
+// 获取页面请求
+message GetPagesRequest {
+  string doc_identifier = 1;
+}
+
+// 获取文档请求
+message GetDocRequest {
+  string doc_identifier = 1;
+}
+
+// 文档信息
+message ProtoDoc {
+  int32 id = 1;
+  string uuid = 2;
+  string doc_identifier = 3;
+  string doc_name = 4;
+  string doc_url_root = 5;
+  string doc_url_prefix = 6;
+  bool is_different_prefix = 7;
+  string created_at = 8;
+  string updated_at = 9;
+  string last_uploaded_at = 10;
+  UploadedStatus upload_status = 11;
+  bool show_to_all_users = 12;
+  int32 team_id = 13;
+  string custom_instructions = 14;
+  repeated ProtoDocPage pages = 15;
+  bool publish_to_team = 16;
+}
+
+// 文档页面信息
+message ProtoDocPage {
+  string url = 1;
+  string title = 2;
+}
+
+// 页面列表
+message Pages {
+  repeated string pages = 1;
+  repeated string page_urls = 2;
+}
+
+// 标记为公开请求
+message MarkAsPublicRequest {
+  string doc_identifier = 1;
+  string password = 2;
+  string doc_name = 3;
+}
+
+// 新建文档请求
+message NewDocumentationRequest {
+  string doc_identifier = 1;
+  docs.Metadata metadata = 2;
+  repeated string ignore_prefixes = 4;
+  repeated string ignore_urls = 5;
+  optional string custom_instructions = 6;
+  optional bool publish_to_team = 7;
+  optional bool client_handles_uuid = 8;
+}
+
+// 上传响应
+message UploadResponse {
+  enum Status {
+    STATUS_UNSPECIFIED = 0;
+    STATUS_SUCCESS = 1;
+    STATUS_FAILURE = 2;
+    STATUS_ALREADY_EXISTS = 3;
+    STATUS_SIMILAR_ALREADY_EXISTS = 4;
+  }
+  Status status = 1;
+  double progress = 2;
+  string similar_doc_identifier = 3;
+  repeated string uploaded_pages = 4;
+  string doc_uuid = 5;
+}
+
+// 上传状态
+message UploadedStatus {
+  enum Status {
+    STATUS_UNSPECIFIED = 0;
+    STATUS_IN_PROGRESS = 1;
+    STATUS_SUCCEEDED = 2;
+    STATUS_FAILED = 3;
+    STATUS_NOT_FOUND = 4;
+  }
+  Status status = 1;
+  repeated string uploaded_pages = 2;
+}
+
+// 更新文档请求
+message UpsertDocsRequest {
+  optional UploadStatus upload_status = 1;
+  optional string ignore_index_prefix = 2;
+  optional int32 doc_id = 3;
+}
+
+// 更新文档响应
+message UpsertDocsResponse {
+  repeated UploadResponse responses = 1;
+}
+
+// 上传服务
+service UploadService {
+  // 上传文档
+  rpc UploadDocumentation(NewDocumentationRequest) returns (UploadResponse);
+  
+  // 获取上传文档状态
+  rpc UploadDocumentationStatus(UploadDocumentationRequest) returns (UploadedStatus);
+  
+  // 标记为公开
+  rpc MarkAsPublic(MarkAsPublicRequest) returns (UploadedStatus);
+  
+  // 获取上传状态
+  rpc UploadStatus(UploadedStatusRequest) returns (UploadedStatus);
+  
+  // 获取页面
+  rpc GetPages(GetPagesRequest) returns (Pages);
+  
+  // 获取文档
+  rpc GetDoc(GetDocRequest) returns (ProtoDoc);
+  
+  // 重新抓取文档
+  rpc RescrapeDocs(RescrapeDocsRequest) returns (RescrapeDocsResponse);
+  
+  // 重新抓取文档 V2
+  rpc RescrapeDocsV2(RescrapeDocsRequestV2) returns (RescrapeDocsResponse);
+  
+  // 更新所有文档
+  rpc UpsertAllDocs(UpsertDocsRequest) returns (UpsertDocsResponse);
+} 

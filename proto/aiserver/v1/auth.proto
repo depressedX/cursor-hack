@@ -1,0 +1,180 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service AuthService {
+
+  rpc GetEmail(GetEmailRequest) returns (GetEmailResponse);
+
+  rpc EmailValid(EmailValidRequest) returns (EmailValidResponse);
+
+  rpc DownloadUpdate(DownloadUpdateRequest) returns (DownloadUpdateResponse);
+
+  rpc MarkPrivacy(MarkPrivacyRequest) returns (MarkPrivacyResponse);
+
+  rpc SwitchCmdKFraction(SwitchCmdKFractionRequest) returns (SwitchCmdKFractionResponse);
+
+  rpc GetCustomerId(CustomerIdRequest) returns (CustomerIdResponse);
+
+  rpc GetSessionToken(GetSessionTokenRequest) returns (GetSessionTokenResponse);
+
+  rpc CheckSessionToken(CheckSessionTokenRequest) returns (CheckSessionTokenResponse);
+}
+
+
+message User {
+  string id = 2;
+  optional string email = 3;
+  optional bool email_verified = 4;
+  optional string first_name = 5;
+  optional string last_name = 6;
+  optional string created_at = 7;
+  optional string updated_at = 8;
+  
+}
+  
+
+
+message GetSessionTokenRequest {
+  User user = 1;
+  Destination destination = 2;
+  optional string stub = 3;
+  optional string code = 4;
+  
+  enum Destination {
+    DESTINATION_UNSPECIFIED = 0;
+    DESTINATION_PORTAL = 1;
+    DESTINATION_AISERVER = 2;
+    DESTINATION_AUTH_PROXY = 3;
+  }
+  
+}
+  
+
+
+message GetSessionTokenResponse {
+  string session_token = 1;
+  optional string id = 2;
+  
+}
+  
+
+
+message CheckSessionTokenRequest {
+  string session_token = 1;
+  User user = 2;
+  
+}
+  
+
+
+message CheckSessionTokenResponse {
+  bool valid = 1;
+  
+}
+  
+
+
+message CustomerIdRequest {
+  string email = 1;
+  
+}
+  
+
+
+message CustomerIdResponse {
+  optional string customer_id = 1;
+  
+}
+  
+
+
+message MarkPrivacyRequest {
+  optional bool current_privacy_mode = 2;
+  optional bool onboarding_privacy_mode = 3;
+  bool is_using_current_and_onboarding_format = 4;
+  bool privacy = 1;
+  
+}
+  
+
+
+message MarkPrivacyResponse {
+  
+}
+  
+
+
+message GetEmailRequest {
+  
+}
+  
+
+
+message GetEmailResponse {
+  string email = 1;
+  SignUpType sign_up_type = 2;
+  
+  enum SignUpType {
+    SIGN_UP_TYPE_UNSPECIFIED = 0;
+    SIGN_UP_TYPE_AUTH_0 = 1;
+    SIGN_UP_TYPE_GITHUB = 2;
+    SIGN_UP_TYPE_GOOGLE = 3;
+    SIGN_UP_TYPE_WORKOS = 4;
+  }
+  
+}
+  
+
+
+message EmailValidRequest {
+  string email = 1;
+  
+}
+  
+
+
+message EmailValidResponse {
+  bool valid = 1;
+  
+}
+  
+
+
+message DownloadUpdateRequest {
+  string machine_id = 1;
+  string application_name = 2;
+  string version = 3;
+  
+}
+  
+
+
+message DownloadUpdateResponse {
+  bool can_download = 1;
+  
+}
+  
+
+
+message SwitchCmdKFractionRequest {
+  bool use_turbo = 1;
+  
+}
+  
+
+
+message SwitchCmdKFractionResponse {
+  
+}
+  
+

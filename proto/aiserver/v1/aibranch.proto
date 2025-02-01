@@ -1,0 +1,190 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "utils.proto";
+import "shadow_workspace.proto";
+import "repository.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service AiBranchService {
+
+  rpc OpusChainGetPlan(OpusChainGetPlanRequest) returns (OpusChainGetPlanResponse);
+
+  rpc OpusChainGetFileInstruction(OpusChainGetFileInstructionRequest) returns (OpusChainGetFileInstructionResponse);
+
+  rpc OpusChainReflect(OpusChainReflectRequest) returns (OpusChainReflectResponse);
+
+  rpc OpusChainGetFilePaths(OpusChainGetFilePathsRequest) returns (OpusChainGetFilePathsResponse);
+
+  rpc RecordAcceptedPatch(RecordAcceptedPatchRequest) returns (RecordAcceptedPatchResponse);
+
+  rpc ReportModeSelection(ReportModeSelectionRequest) returns (ReportModeSelectionResponse);
+}
+
+
+message ReportModeSelectionRequest {
+  string mode = 1;
+  CmdKDebugInfo debug_info = 2;
+  
+}
+  
+
+
+message ReportModeSelectionResponse {
+  
+}
+  
+
+
+message RecordAcceptedPatchRequest {
+  string patch_uuid = 1;
+  string patch_string = 2;
+  string source = 3;
+  string reflection = 4;
+  CmdKDebugInfo debug_info = 5;
+  
+}
+  
+
+
+message RecordAcceptedPatchResponse {
+  
+}
+  
+
+
+message OpusChainGetFilePathsRequest {
+  string ans = 1;
+  
+}
+  
+
+
+message OpusChainGetFilePathsResponse {
+  Path paths = 1;
+  
+  message Path {
+    string raw_path = 1;
+    int32 interesting_lines = 2;
+    
+  }
+    
+}
+  
+
+
+message OpusChainReflectRequest {
+  string relative_workspace_path = 1;
+  string old_file_contents = 2;
+  string new_file_contents = 3;
+  string patch_string = 9;
+  string branch_notes = 4;
+  string branch_name = 5;
+  string high_level_ai_answer = 6;
+  optional string override_model = 7;
+  optional int32 override_token_limit = 8;
+  GetLintsForChangeResponse lints = 10;
+  
+}
+  
+
+
+message OpusChainReflectResponse {
+  string text = 1;
+  Decision decision = 2;
+  
+  message AcceptDecision {
+    
+  }
+    
+  
+  
+  message RetryWithoutMoreInformationDecision {
+    
+  }
+    
+  
+  
+  message RetryWithCodebaseQuestionDecision {
+    string codebase_questions = 1;
+    
+  }
+    
+  
+  
+  message Decision {
+    AcceptDecision accept = 1;
+    RetryWithoutMoreInformationDecision retry_without_more_information = 2;
+    RetryWithCodebaseQuestionDecision retry_with_codebase_question = 3;
+    
+  }
+    
+}
+  
+
+
+message OpusChainGetFileInstructionRequest {
+  string relative_workspace_path = 1;
+  string high_level_ai_answer = 2;
+  
+}
+  
+
+
+message OpusChainGetFileInstructionResponse {
+  string file_instruction = 1;
+  
+}
+  
+
+
+message OpusChainGetPlanRequest {
+  string relative_workspace_path = 1;
+  string file_contents = 2;
+  string branch_notes = 3;
+  string branch_name = 4;
+  string high_level_ai_answer = 5;
+  string originating_reflection = 9;
+  optional string override_model = 6;
+  optional int32 override_token_limit = 7;
+  CodeResult scored_codebase_context = 15;
+  optional CodebaseInformation codebase_information = 8;
+  
+  message CodebaseInformation {
+    File files = 1;
+    QA qa = 2;
+    
+    message File {
+      string relative_workspace_path = 1;
+      string contents = 2;
+      int32 interesting_lines = 3;
+      
+    }
+      
+    
+    
+    message QA {
+      string question = 1;
+      string answer = 2;
+      
+    }
+      
+  }
+    
+}
+  
+
+
+message OpusChainGetPlanResponse {
+  string text = 1;
+  
+}
+  
+

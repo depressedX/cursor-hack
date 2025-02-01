@@ -1,0 +1,46 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service CursorPredictionService {
+
+  rpc CursorPredictionConfig(CursorPredictionConfigRequest) returns (CursorPredictionConfigResponse);
+}
+
+
+message CursorPredictionConfigRequest {
+  
+}
+  
+
+
+message CursorPredictionModel {
+  string name = 1;
+  int32 radius = 2;
+  
+}
+  
+
+
+message CursorPredictionConfigResponse {
+  CursorPredictionModel models = 1;
+  string default_model = 2;
+  Heuristic heuristics = 3;
+  
+  enum Heuristic {
+    HEURISTIC_UNSPECIFIED = 0;
+    HEURISTIC_DISABLE_IN_LAST_CPP_SUGGESTION = 1;
+  }
+  
+}
+  
+

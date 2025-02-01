@@ -1,0 +1,57 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service MetricsService {
+
+  rpc ReportIncrement(ReportMetricsRequest) returns (ReportMetricsResponse);
+
+  rpc ReportDecrement(ReportMetricsRequest) returns (ReportMetricsResponse);
+
+  rpc ReportDistribution(ReportMetricsRequest) returns (ReportMetricsResponse);
+
+  rpc ReportGauge(ReportMetricsRequest) returns (ReportMetricsResponse);
+}
+
+
+message ReportInlineActionRequest {
+  string action = 1;
+  string generation_uuid = 2;
+  
+}
+  
+
+
+message ReportInlineActionResponse {
+  
+}
+  
+
+
+message ReportMetricsRequest {
+  map<string, Metric> metrics = 1;
+  
+  message Metric {
+    optional double value = 1;
+    map<string, string> tags = 2;
+    
+  }
+    
+}
+  
+
+
+message ReportMetricsResponse {
+  
+}
+  
+

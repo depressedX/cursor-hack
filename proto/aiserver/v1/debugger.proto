@@ -1,0 +1,72 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "chat.proto";
+import "utils.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service DebuggerService {
+
+  rpc GitFilter(GitFilterRequest) returns (GitFilterResponse);
+
+  rpc FileFilter(FileFilterRequest) returns (FileFilterResponse);
+
+  rpc BugAnalysis(BugAnalysisRequest) returns (BugAnalysisResponse);
+}
+
+
+message FileFilterRequest {
+  ConversationMessage.CodeChunk files = 1;
+  ConversationMessage bug_description = 2;
+  
+}
+  
+
+
+message FileFilterResponse {
+  string file_path = 1;
+  float file_score = 2;
+  
+}
+  
+
+
+message GitFilterRequest {
+  Commit commits = 1;
+  ConversationMessage bug_description = 2;
+  
+}
+  
+
+
+message GitFilterResponse {
+  string relevant_commit = 1;
+  float commit_score = 2;
+  
+}
+  
+
+
+message BugAnalysisRequest {
+  Commit relevant_commits = 1;
+  ConversationMessage bug_description_and_file_attachments = 2;
+  ModelDetails model_details = 3;
+  
+}
+  
+
+
+message BugAnalysisResponse {
+  string reasoning = 1;
+  string bug_description = 2;
+  
+}
+  
+

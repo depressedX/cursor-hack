@@ -1,0 +1,80 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "utils.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service FastSearchService {
+
+  rpc StartFastSearch(StartFastSearchRequest) returns (StartFastSearchResponse);
+
+  rpc FastSearch(FastSearchRequest) returns (FastSearchResponse);
+}
+
+
+message MinimalFileHash {
+  string relative_workspace_path = 1;
+  string hash = 2;
+  
+}
+  
+
+
+message StartFastSearchRequest {
+  string uuid = 1;
+  CursorPosition cursor_position = 2;
+  MinimalFileHash open_tabs = 3;
+  MinimalFileHash context_graph_files = 4;
+  
+}
+  
+
+
+message StartFastSearchResponse {
+  Ready ready = 1;
+  MissingFiles missing_files = 2;
+  
+  message Ready {
+    bool ready = 1;
+    
+  }
+    
+  
+  
+  message MissingFiles {
+    string file = 1;
+    
+  }
+    
+}
+  
+
+
+message FastSearchRequest {
+  string uuid = 1;
+  string query = 2;
+  
+}
+  
+
+
+message FastSearchResponse {
+  Chunk file_chunks = 1;
+  
+  message Chunk {
+    SimpleFileChunk chunk = 1;
+    float chunk_score = 2;
+    string contents = 3;
+    
+  }
+    
+}
+  
+

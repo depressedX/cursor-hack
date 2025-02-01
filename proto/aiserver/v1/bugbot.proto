@@ -1,0 +1,91 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "utils.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+
+
+message BugLocation {
+  string file = 1;
+  int32 start_line = 2;
+  int32 end_line = 3;
+  string code_lines = 4;
+  
+}
+  
+
+
+message BugReport {
+  BugLocation locations = 1;
+  string id = 2;
+  string description = 3;
+  optional float confidence = 4;
+  
+}
+  
+
+
+message BugReports {
+  BugReport bug_reports = 1;
+  
+}
+  
+
+
+message StreamBugBotRequest {
+  GitDiff git_diff = 1;
+  ModelDetails model_details = 2;
+  optional string user_instructions = 3;
+  optional string bug_detection_guidelines = 4;
+  optional int32 iterations = 5;
+  optional int32 unified_context_lines = 12;
+  bool in_background_subsidized = 6;
+  optional string session_id = 7;
+  optional string price_id = 8;
+  bool has_telemetry = 9;
+  optional string constrain_to_file = 10;
+  optional Range constrain_to_range = 11;
+  
+  message Range {
+    int32 start_line = 1;
+    int32 end_line_inclusive = 2;
+    
+  }
+    
+}
+  
+
+
+message RunBugBotPromptProps {
+  StreamBugBotRequest req = 1;
+  string seed = 2;
+  string date = 3;
+  
+}
+  
+
+
+message BugBotDiscriminatorPromptProps {
+  StreamBugBotRequest req = 1;
+  BugReport bug = 2;
+  string date = 3;
+  string seed = 4;
+  
+}
+  
+
+
+message BugBotDiscriminatorTrainingPromptProps {
+  BugBotDiscriminatorPromptProps props = 1;
+  bool is_real_bug = 2;
+  
+}
+  
+

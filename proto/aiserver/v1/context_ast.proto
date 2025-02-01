@@ -1,0 +1,72 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+
+
+message ContextAST {
+  ContainerTree files = 1;
+  
+}
+  
+
+
+message ContainerTree {
+  string relative_workspace_path = 1;
+  ContainerTreeNode nodes = 2;
+  
+}
+  
+
+
+message ContainerTreeNode {
+  Container container = 1;
+  Blob blob = 2;
+  Symbol symbol = 3;
+  
+  message Symbol {
+    string doc_string = 1;
+    string value = 2;
+    Reference references = 6;
+    double score = 7;
+    
+  }
+    
+  
+  
+  message Container {
+    string doc_string = 1;
+    string header = 2;
+    string trailer = 3;
+    aiserver.v1.ContainerTreeNode children = 5;
+    Reference references = 6;
+    double score = 7;
+    
+  }
+    
+  
+  
+  message Blob {
+    optional string value = 1;
+    
+  }
+    
+  
+  
+  message Reference {
+    string value = 1;
+    string relative_workspace_path = 2;
+    
+  }
+    
+}
+  
+

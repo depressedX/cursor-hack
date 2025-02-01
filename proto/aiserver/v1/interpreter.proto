@@ -1,0 +1,88 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "chat.proto";
+import "utils.proto";
+import "repository.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service InterpreterService {
+
+  rpc StreamInterpreter(StreamInterpreterRequest) returns (StreamInterpreterResponse);
+
+  rpc LogInterpreterExplicitUserFeedback(LogInterpreterExplicitUserFeedbackRequest) returns (LogInterpreterExplicitUserFeedbackResponse);
+}
+
+
+enum InterpreterTool {
+  INTERPRETER_TOOL_UNSPECIFIED = 0;
+  INTERPRETER_TOOL_PYTHON = 1;
+  INTERPRETER_TOOL_SHELL = 2;
+}
+
+
+
+message LogInterpreterExplicitUserFeedbackRequest {
+  string conversation_uuid = 1;
+  Feedback user_feedback = 3;
+  string user_feedback_details = 4;
+  
+  enum Feedback {
+    FEEDBACK_UNSPECIFIED = 0;
+    FEEDBACK_GOOD = 1;
+    FEEDBACK_OKAY = 2;
+    FEEDBACK_BAD = 3;
+  }
+  
+}
+  
+
+
+message LogInterpreterExplicitUserFeedbackResponse {
+  
+}
+  
+
+
+message StreamInterpreterRequest {
+  FileInfo open_files = 1;
+  ConversationMessage conversation = 2;
+  ExplicitContext explicit_context = 4;
+  ModelDetails model_details = 7;
+  string documentation_identifiers = 8;
+  optional string summary = 11;
+  optional int32 summary_up_until_index = 12;
+  optional string retry_instructions = 13;
+  optional string retry_previous_attempt = 14;
+  CodeResult scored_codebase_context = 15;
+  optional string high_level_folder_description = 16;
+  string conversation_uuid = 17;
+  CmdKDebugInfo cmd_k_debug_info = 18;
+  ChatQuote quotes = 19;
+  bool supports_shell_tool = 20;
+  string global_description = 21;
+  string terminal_cwd = 22;
+  
+  message FileInfo {
+    CurrentFileInfo file = 1;
+    int32 scroll_top_line_number = 2;
+    
+  }
+    
+}
+  
+
+
+message StreamInterpreterResponse {
+  string text = 1;
+  
+}
+  
+

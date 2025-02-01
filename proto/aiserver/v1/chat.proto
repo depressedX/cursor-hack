@@ -1,0 +1,745 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "utils.proto";
+import "tools.proto";
+import "docs.proto";
+import "repository.proto";
+import "composer.proto";
+import "shadow_workspace.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service ChatService {
+
+  rpc StreamUnifiedChat(StreamUnifiedChatRequest) returns (StreamUnifiedChatResponse);
+
+  rpc StreamUnifiedChatWithTools(StreamUnifiedChatRequestWithTools) returns (StreamUnifiedChatResponseWithTools);
+
+  rpc StreamParallelApply(StreamParallelApplyRequest) returns (StreamParallelApplyResponse);
+}
+
+
+enum ChunkType {
+  CHUNK_TYPE_UNSPECIFIED = 0;
+  CHUNK_TYPE_CODEBASE = 1;
+  CHUNK_TYPE_LONG_FILE = 2;
+  CHUNK_TYPE_DOCS = 3;
+}
+
+
+
+message StreamParallelApplyRequest {
+  CodeBlock code_block = 1;
+  File file = 2;
+  string edit_plan = 3;
+  
+}
+  
+
+
+message StreamParallelApplyResponse {
+  string text = 1;
+  
+}
+  
+
+
+message StreamUnifiedChatRequestWithTools {
+  StreamUnifiedChatRequest stream_unified_chat_request = 1;
+  ClientSideToolV2Result client_side_tool_v2_result = 2;
+  
+}
+  
+
+
+message StreamUnifiedChatResponseWithTools {
+  ClientSideToolV2Call client_side_tool_v2_call = 1;
+  StreamUnifiedChatResponse stream_unified_chat_response = 2;
+  ConversationSummary conversation_summary = 3;
+  
+}
+  
+
+
+message ConversationSummaryStrategy {
+  string plain_text_summary = 1;
+  ArbitrarySummaryPlusToolResultTruncation arbitrary_summary_plus_tool_result_truncation = 2;
+  
+  message ArbitrarySummaryPlusToolResultTruncation {
+    ConversationSummary arbitrary_summary = 1;
+    int32 tool_result_truncation_length = 2;
+    
+  }
+    
+}
+  
+
+
+message ConversationSummary {
+  string summary = 1;
+  string truncation_last_bubble_id_inclusive = 2;
+  string client_should_start_sending_from_inclusive_bubble_id = 3;
+  string previous_conversation_summary_bubble_id = 4;
+  bool includes_tool_results = 5;
+  
+}
+  
+
+
+message ContextToRank {
+  string relative_workspace_path = 1;
+  string contents = 2;
+  optional LineRange line_range = 3;
+  optional CodeBlock code_block = 4;
+  
+}
+  
+
+
+message RankedContext {
+  ContextToRank context = 1;
+  float score = 2;
+  
+}
+  
+
+
+message DocumentationCitation {
+  DocumentationChunk chunks = 1;
+  
+}
+  
+
+
+message WebCitation {
+  WebReference references = 1;
+  
+}
+  
+
+
+message WebReference {
+  string title = 2;
+  string url = 1;
+  string chunk = 3;
+  
+}
+  
+
+
+message DocsReference {
+  string title = 1;
+  string url = 2;
+  string chunk = 3;
+  string name = 4;
+  
+}
+  
+
+
+message StatusUpdate {
+  string message = 1;
+  optional string metadata = 2;
+  
+}
+  
+
+
+message StatusUpdates {
+  StatusUpdate updates = 1;
+  
+}
+  
+
+
+message RerankDocumentsRequest {
+  string query = 1;
+  Document documents = 2;
+  
+}
+  
+
+
+message RerankDocumentsResponse {
+  DocumentIdsWithScores documents = 1;
+  
+}
+  
+
+
+message Document {
+  string content = 1;
+  string id = 2;
+  
+}
+  
+
+
+message DocumentIdsWithScores {
+  string document_id = 1;
+  float score = 2;
+  
+}
+  
+
+
+message ComposerFileDiffHistory {
+  string file_name = 1;
+  string diff_history = 2;
+  double diff_history_timestamps = 3;
+  
+}
+  
+
+
+message EnvironmentInfo {
+  optional string exthost_platform = 1;
+  optional string exthost_arch = 2;
+  optional string exthost_release = 3;
+  optional string exthost_shell = 4;
+  optional string local_timestamp = 5;
+  string workspace_uris = 6;
+  
+}
+  
+
+
+message StreamUnifiedChatRequest {
+  ConversationMessage conversation = 1;
+  ConversationMessageHeader full_conversation_headers_only = 30;
+  optional bool allow_long_file_scan = 2;
+  ExplicitContext explicit_context = 3;
+  optional bool can_handle_filenames_after_language_ids = 4;
+  ModelDetails model_details = 5;
+  LinterErrors linter_errors = 6;
+  string documentation_identifiers = 7;
+  optional string use_web = 8;
+  ComposerExternalLink external_links = 9;
+  optional ConversationMessage project_context = 10;
+  RedDiff diffs_for_compressing_files = 11;
+  optional bool compress_edits = 12;
+  optional bool should_cache = 13;
+  LinterErrors multi_file_linter_errors = 14;
+  CurrentFileInfo current_file = 15;
+  optional RecentEdits recent_edits = 16;
+  optional bool use_reference_composer_diff_prompt = 17;
+  ComposerFileDiffHistory file_diff_histories = 18;
+  optional bool use_new_compression_scheme = 19;
+  ChatQuote quotes = 21;
+  RankedContext additional_ranked_context = 20;
+  bool is_chat = 22;
+  string conversation_id = 23;
+  RepositoryInfo repository_info = 24;
+  bool repository_info_should_query_staging = 25;
+  EnvironmentInfo environment_info = 26;
+  bool is_agentic = 27;
+  optional ConversationSummary conversation_summary = 28;
+  ClientSideToolV2 supported_tools = 29;
+  bool enable_yolo_mode = 31;
+  string yolo_prompt = 32;
+  
+  message RedDiff {
+    string relative_workspace_path = 1;
+    SimplestRange red_ranges = 2;
+    SimplestRange red_ranges_reversed = 3;
+    string start_hash = 4;
+    string end_hash = 5;
+    
+  }
+    
+  
+  
+  message RecentEdits {
+    CodeBlockInfo code_block_info = 1;
+    FileInfo final_file_values = 2;
+    optional string edits_belong_to_composer_generation_uuid = 3;
+    
+    message CodeBlockInfo {
+      string relative_workspace_path = 1;
+      optional string content_before = 2;
+      optional string content_after = 3;
+      optional string generation_uuid = 4;
+      optional int32 version = 5;
+      
+    }
+      
+    
+    
+    message FileInfo {
+      string relative_workspace_path = 1;
+      string content = 2;
+      
+    }
+      
+  }
+    
+}
+  
+
+
+message StreamUnifiedChatResponse {
+  string text = 1;
+  optional string server_bubble_id = 22;
+  optional string debugging_only_chat_prompt = 2;
+  optional int32 debugging_only_token_count = 3;
+  DocumentationCitation document_citation = 4;
+  optional string filled_prompt = 5;
+  optional bool is_big_file = 6;
+  optional string intermediate_text = 7;
+  optional bool is_using_slow_request = 10;
+  optional ChunkIdentity chunk_identity = 8;
+  optional DocsReference docs_reference = 9;
+  optional WebCitation web_citation = 11;
+  optional StatusUpdates status_updates = 12;
+  optional StreamedBackToolCall tool_call = 13;
+  optional bool should_break_ai_message = 14;
+  optional StreamedBackPartialToolCall partial_tool_call = 15;
+  optional FinalToolResult final_tool_result = 16;
+  optional SymbolLink symbol_link = 17;
+  optional FileLink file_link = 19;
+  optional ConversationSummary conversation_summary = 18;
+  optional ServiceStatusUpdate service_status_update = 20;
+  optional ViewableGitContext viewable_git_context = 21;
+  
+  message ChunkIdentity {
+    string file_name = 1;
+    int32 start_line = 2;
+    int32 end_line = 3;
+    string text = 4;
+    ChunkType chunk_type = 5;
+    
+  }
+    
+  
+  
+  message FinalToolResult {
+    string tool_call_id = 1;
+    ClientSideToolV2Result result = 2;
+    
+  }
+    
+}
+  
+
+
+message ServiceStatusUpdate {
+  string message = 1;
+  string codicon = 2;
+  optional bool allow_command_links_potentially_unsafe_please_only_use_for_handwritten_trusted_markdown = 3;
+  
+}
+  
+
+
+message SymbolLink {
+  string symbol_name = 1;
+  string symbol_search_string = 2;
+  string relative_workspace_path = 3;
+  int32 rough_line_number = 4;
+  
+}
+  
+
+
+message FileLink {
+  string display_name = 1;
+  string relative_workspace_path = 2;
+  
+}
+  
+
+
+message RedDiff {
+  string relative_workspace_path = 1;
+  SimplestRange red_ranges = 2;
+  SimplestRange red_ranges_reversed = 3;
+  string start_hash = 4;
+  string end_hash = 5;
+  
+}
+  
+
+
+message ConversationMessageHeader {
+  string bubble_id = 1;
+  optional string server_bubble_id = 2;
+  ConversationMessage.MessageType type = 3;
+  
+}
+  
+
+
+message DiffFile {
+  string file_details = 1;
+  string file_name = 2;
+  
+}
+  
+
+
+message ViewableCommitProps {
+  string description = 1;
+  string message = 2;
+  DiffFile files = 3;
+  
+}
+  
+
+
+message ViewablePRProps {
+  string title = 1;
+  string body = 2;
+  DiffFile files = 3;
+  
+}
+  
+
+
+message ViewableDiffProps {
+  DiffFile files = 1;
+  string diff_preface = 2;
+  
+}
+  
+
+
+message ViewableGitContext {
+  optional ViewableCommitProps commit_data = 1;
+  optional ViewablePRProps pull_request_data = 2;
+  ViewableDiffProps diff_data = 3;
+  
+}
+  
+
+
+message ConversationMessage {
+  string text = 1;
+  MessageType type = 2;
+  CodeChunk attached_code_chunks = 3;
+  CodeBlock codebase_context_chunks = 4;
+  Commit commits = 5;
+  PullRequest pull_requests = 6;
+  GitDiff git_diffs = 7;
+  SimpleFileDiff assistant_suggested_diffs = 8;
+  InterpreterResult interpreter_results = 9;
+  ImageProto images = 10;
+  string attached_folders = 11;
+  ApproximateLintError approximate_lint_errors = 12;
+  string bubble_id = 13;
+  optional string server_bubble_id = 32;
+  FolderInfo attached_folders_new = 14;
+  Lints lints = 15;
+  UserResponseToSuggestedCodeBlock user_responses_to_suggested_code_blocks = 16;
+  string relevant_files = 17;
+  ToolResult tool_results = 18;
+  NotepadContext notepads = 19;
+  optional bool is_capability_iteration = 20;
+  ComposerCapabilityRequest capabilities = 21;
+  EditTrailContext edit_trail_contexts = 22;
+  SuggestedCodeBlock suggested_code_blocks = 23;
+  RedDiff diffs_for_compressing_files = 24;
+  LinterErrorsWithoutFileContents multi_file_linter_errors = 25;
+  DiffHistoryData diff_histories = 26;
+  CodeChunk recently_viewed_files = 27;
+  RecentLocation recent_locations_history = 28;
+  bool is_agentic = 29;
+  ComposerFileDiffHistory file_diff_trajectories = 30;
+  optional ConversationSummary conversation_summary = 31;
+  bool existed_subsequent_terminal_command = 33;
+  bool existed_previous_terminal_command = 34;
+  DocsReference docs_references = 35;
+  WebReference web_references = 36;
+  optional ViewableGitContext git_context = 37;
+  ListDirResult attached_folders_list_dir_results = 38;
+  optional ConversationSummary cached_conversation_summary = 39;
+  
+  enum MessageType {
+    MESSAGE_TYPE_UNSPECIFIED = 0;
+    MESSAGE_TYPE_HUMAN = 1;
+    MESSAGE_TYPE_AI = 2;
+  }
+  
+  
+  
+  message CodeChunk {
+    string relative_workspace_path = 1;
+    int32 start_line_number = 2;
+    string lines = 3;
+    optional SummarizationStrategy summarization_strategy = 4;
+    string language_identifier = 5;
+    optional Intent intent = 6;
+    optional bool is_final_version = 7;
+    optional bool is_first_version = 8;
+    optional bool contents_are_missing = 9;
+    
+    enum Intent {
+      INTENT_UNSPECIFIED = 0;
+      INTENT_COMPOSER_FILE = 1;
+      INTENT_COMPRESSED_COMPOSER_FILE = 2;
+      INTENT_RECENTLY_VIEWED_FILE = 3;
+      INTENT_OUTLINE = 4;
+      INTENT_MENTIONED_FILE = 5;
+      INTENT_CODE_SELECTION = 6;
+    }
+    
+    
+    
+    enum SummarizationStrategy {
+      SUMMARIZATION_STRATEGY_NONE_UNSPECIFIED = 0;
+      SUMMARIZATION_STRATEGY_SUMMARIZED = 1;
+      SUMMARIZATION_STRATEGY_EMBEDDED = 2;
+    }
+    
+  }
+    
+  
+  
+  message ToolResult {
+    string tool_call_id = 1;
+    string tool_name = 2;
+    uint32 tool_index = 3;
+    string args = 4;
+    string raw_args = 5;
+    CodeChunk attached_code_chunks = 6;
+    optional string content = 7;
+    ClientSideToolV2Result result = 8;
+    optional ToolResultError error = 9;
+    
+  }
+    
+  
+  
+  message MultiRangeCodeChunk {
+    RangeWithPriority ranges = 1;
+    string content = 2;
+    string relative_workspace_path = 3;
+    
+    message RangeWithPriority {
+      SimplestRange range = 1;
+      double priority = 2;
+      
+    }
+      
+  }
+    
+  
+  
+  message NotepadContext {
+    string name = 1;
+    string text = 2;
+    CodeChunk attached_code_chunks = 3;
+    string attached_folders = 4;
+    Commit commits = 5;
+    PullRequest pull_requests = 6;
+    GitDiff git_diffs = 7;
+    ImageProto images = 8;
+    
+  }
+    
+  
+  
+  message EditLocation {
+    string relative_workspace_path = 1;
+    SimplestRange range = 3;
+    SimplestRange initial_range = 4;
+    string context_lines = 5;
+    string text = 6;
+    SimplestRange text_range = 7;
+    
+  }
+    
+  
+  
+  message EditTrailContext {
+    string unique_id = 1;
+    EditLocation edit_trail_sorted = 2;
+    
+  }
+    
+  
+  
+  message ApproximateLintError {
+    string message = 1;
+    string value = 2;
+    int32 start_line = 3;
+    int32 end_line = 4;
+    int32 start_column = 5;
+    int32 end_column = 6;
+    
+  }
+    
+  
+  
+  message Lints {
+    GetLintsForChangeResponse lints = 1;
+    string chat_codeblock_model_value = 2;
+    
+  }
+    
+  
+  
+  message RecentLocation {
+    string relative_workspace_path = 1;
+    int32 line_number = 2;
+    
+  }
+    
+}
+  
+
+
+message SearchInfo {
+  string query = 1;
+  SearchFileInfo files = 2;
+  
+}
+  
+
+
+message SearchFileInfo {
+  string relative_path = 1;
+  string content = 2;
+  
+}
+  
+
+
+message FolderInfo {
+  string relative_path = 1;
+  FolderFileInfo files = 2;
+  
+}
+  
+
+
+message FolderFileInfo {
+  string relative_path = 1;
+  string content = 2;
+  bool truncated = 3;
+  float score = 4;
+  
+}
+  
+
+
+message InterpreterResult {
+  string output = 1;
+  bool success = 2;
+  
+}
+  
+
+
+message SimpleFileDiff {
+  string relative_workspace_path = 1;
+  Chunk chunks = 3;
+  
+  message Chunk {
+    string old_lines = 1;
+    string new_lines = 2;
+    LineRange old_range = 3;
+    LineRange new_range = 4;
+    
+  }
+    
+}
+  
+
+
+message Commit {
+  string sha = 1;
+  string message = 2;
+  string description = 3;
+  FileDiff diff = 4;
+  string author = 5;
+  string date = 6;
+  
+}
+  
+
+
+message PullRequest {
+  string title = 1;
+  string body = 2;
+  FileDiff diff = 3;
+  
+}
+  
+
+
+message SuggestedCodeBlock {
+  string relative_workspace_path = 1;
+  
+}
+  
+
+
+message UserResponseToSuggestedCodeBlock {
+  UserResponseType user_response_type = 1;
+  string file_path = 2;
+  optional FileDiff user_modifications_to_suggested_code_blocks = 3;
+  
+  enum UserResponseType {
+    USER_RESPONSE_TYPE_UNSPECIFIED = 0;
+    USER_RESPONSE_TYPE_ACCEPT = 1;
+    USER_RESPONSE_TYPE_REJECT = 2;
+    USER_RESPONSE_TYPE_MODIFY = 3;
+  }
+  
+}
+  
+
+
+message ContextRerankingCandidateFile {
+  string file_name = 1;
+  string file_content = 2;
+  
+}
+  
+
+
+message ComposerFileDiff {
+  ChunkDiff chunks = 1;
+  Editor editor = 2;
+  bool hit_timeout = 3;
+  
+  enum Editor {
+    EDITOR_UNSPECIFIED = 0;
+    EDITOR_AI = 1;
+    EDITOR_HUMAN = 2;
+  }
+  
+  
+  
+  message ChunkDiff {
+    string diff_string = 1;
+    int32 old_start = 2;
+    int32 new_start = 3;
+    int32 old_lines = 4;
+    int32 new_lines = 5;
+    int32 lines_removed = 6;
+    int32 lines_added = 7;
+    
+  }
+    
+}
+  
+
+
+message DiffHistoryData {
+  string relative_workspace_path = 1;
+  ComposerFileDiff diffs = 2;
+  double timestamp = 3;
+  string unique_id = 4;
+  ComposerFileDiff start_to_end_diff = 5;
+  
+}
+  
+

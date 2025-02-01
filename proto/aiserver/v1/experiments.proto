@@ -1,0 +1,59 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service ExperimentService {
+
+  rpc Specedits1(Specedits1Request) returns (Specedits1Response);
+
+  rpc Simple(SimpleRequest) returns (SimpleResponse);
+}
+
+
+message Specedits1Request {
+  bool generate_the_whole_thing = 1;
+  
+}
+  
+
+
+message Specedits1Response {
+  string full_file = 1;
+  
+}
+  
+
+
+message SimpleRequest {
+  string name = 1;
+  
+}
+  
+
+
+message SimpleResponse {
+  
+}
+  
+
+
+message EmptyRequest {
+  
+}
+  
+
+
+message EmptyResponse {
+  
+}
+  
+

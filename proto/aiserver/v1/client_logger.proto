@@ -1,0 +1,31 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service ClientLoggerService {
+
+  rpc LogWhenTabTurnsOff(LogWhenTabTurnsOffRequest) returns (LogWhenTabTurnsOffResponse);
+}
+
+
+message LogWhenTabTurnsOffRequest {
+  string stack_trace = 1;
+  
+}
+  
+
+
+message LogWhenTabTurnsOffResponse {
+  
+}
+  
+

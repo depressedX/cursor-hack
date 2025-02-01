@@ -1,0 +1,141 @@
+syntax = "proto3";
+
+package aiserver.v1;
+
+// 定义认证服务
+service AuthService {
+  // 获取邮箱
+  rpc GetEmail(GetEmailRequest) returns (GetEmailResponse);
+  
+  // 验证邮箱
+  rpc EmailValid(EmailValidRequest) returns (EmailValidResponse);
+  
+  // 下载更新
+  rpc DownloadUpdate(DownloadUpdateRequest) returns (DownloadUpdateResponse);
+  
+  // 标记隐私设置
+  rpc MarkPrivacy(MarkPrivacyRequest) returns (MarkPrivacyResponse);
+  
+  // 切换命令K比例
+  rpc SwitchCmdKFraction(SwitchCmdKFractionRequest) returns (SwitchCmdKFractionResponse);
+  
+  // 获取客户ID
+  rpc GetCustomerId(CustomerIdRequest) returns (CustomerIdResponse);
+  
+  // 获取会话令牌
+  rpc GetSessionToken(GetSessionTokenRequest) returns (GetSessionTokenResponse);
+  
+  // 检查会话令牌
+  rpc CheckSessionToken(CheckSessionTokenRequest) returns (CheckSessionTokenResponse);
+}
+
+// 用户信息
+message User {
+  string id = 2;
+  optional string email = 3;
+  optional bool email_verified = 4;
+  optional string first_name = 5;
+  optional string last_name = 6;
+  optional string created_at = 7;
+  optional string updated_at = 8;
+}
+
+// 获取会话令牌请求
+message GetSessionTokenRequest {
+  User user = 1;
+  Destination destination = 2;
+  optional string stub = 3;
+  optional string code = 4;
+
+  enum Destination {
+    DESTINATION_UNSPECIFIED = 0;
+    DESTINATION_PORTAL = 1;
+    DESTINATION_AISERVER = 2;
+    DESTINATION_AUTH_PROXY = 3;
+  }
+}
+
+// 获取会话令牌响应
+message GetSessionTokenResponse {
+  string session_token = 1;
+  optional string id = 2;
+}
+
+// 检查会话令牌请求
+message CheckSessionTokenRequest {
+  string session_token = 1;
+  User user = 2;
+}
+
+// 检查会话令牌响应
+message CheckSessionTokenResponse {
+  bool valid = 1;
+}
+
+// 获取客户ID请求
+message CustomerIdRequest {
+  string email = 1;
+}
+
+// 获取客户ID响应
+message CustomerIdResponse {
+  optional string customer_id = 1;
+}
+
+// 标记隐私请求
+message MarkPrivacyRequest {
+  optional bool current_privacy_mode = 2;
+  optional bool onboarding_privacy_mode = 3;
+  bool is_using_current_and_onboarding_format = 4;
+  bool privacy = 1;
+}
+
+// 标记隐私响应
+message MarkPrivacyResponse {}
+
+// 获取邮箱请求
+message GetEmailRequest {}
+
+// 获取邮箱响应
+message GetEmailResponse {
+  string email = 1;
+  SignUpType sign_up_type = 2;
+
+  enum SignUpType {
+    SIGN_UP_TYPE_UNSPECIFIED = 0;
+    SIGN_UP_TYPE_AUTH_0 = 1;
+    SIGN_UP_TYPE_GITHUB = 2;
+    SIGN_UP_TYPE_GOOGLE = 3;
+    SIGN_UP_TYPE_WORKOS = 4;
+  }
+}
+
+// 验证邮箱请求
+message EmailValidRequest {
+  string email = 1;
+}
+
+// 验证邮箱响应
+message EmailValidResponse {
+  bool valid = 1;
+}
+
+// 下载更新请求
+message DownloadUpdateRequest {
+  string machine_id = 1;
+  string application_name = 2;
+  string version = 3;
+}
+
+// 下载更新响应
+message DownloadUpdateResponse {
+  bool can_download = 1;
+}
+
+// 切换命令K比例请求
+message SwitchCmdKFractionRequest {
+  bool use_turbo = 1;
+}
+
+// 切换命令K比例响应
+message SwitchCmdKFractionResponse {} 

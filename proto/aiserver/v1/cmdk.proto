@@ -1,0 +1,323 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "context.proto";
+import "utils.proto";
+import "cpp.proto";
+import "chat.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service CmdKService {
+
+  rpc StreamCmdK(StreamCmdKRequest) returns (StreamCmdKResponseContextWrapped);
+
+  rpc StreamHypermode(StreamHypermodeRequest) returns (StreamCmdKResponseContextWrapped);
+
+  rpc RerankCmdKContext(RerankCmdKContextRequest) returns (RerankCmdKContextResponse);
+
+  rpc StreamTerminalCmdK(StreamTerminalCmdKRequest) returns (StreamTerminalCmdKResponseContextWrapped);
+
+  rpc RerankTerminalCmdKContext(RerankTerminalCmdKContextRequest) returns (RerankTerminalCmdKContextResponse);
+
+  rpc GetRelevantChunks(GetRelevantChunksRequest) returns (StreamGetRelevantChunksResponseContextWrapped);
+}
+
+
+message RerankCmdKContextRequest {
+  PotentiallyCachedContextItem context_items = 1;
+  CmdKLegacyContext legacy_context = 3;
+  CmdKOptions cmd_k_options = 2;
+  
+}
+  
+
+
+message RerankCmdKContextResponse {
+  ContextStatusUpdate context_status_update = 1;
+  MissingContextItems missing_context_items = 2;
+  optional bool did_call = 3;
+  
+}
+  
+
+
+message RerankTerminalCmdKContextRequest {
+  PotentiallyCachedContextItem context_items = 1;
+  TerminalCmdKOptions cmd_k_options = 2;
+  
+}
+  
+
+
+message RerankTerminalCmdKContextResponse {
+  ContextStatusUpdate context_status_update = 1;
+  MissingContextItems missing_context_items = 2;
+  
+}
+  
+
+
+message TerminalCmdKOptions {
+  ModelDetails model_details = 3;
+  bool chat_mode = 1;
+  bool ada_cmd_k_context = 2;
+  optional bool use_web = 4;
+  
+}
+  
+
+
+message CmdKOptions {
+  ModelDetails model_details = 3;
+  bool chat_mode = 1;
+  bool ada_cmd_k_context = 2;
+  optional bool use_reranker = 4;
+  optional bool use_web = 5;
+  optional bool request_is_for_caching = 6;
+  
+}
+  
+
+
+message CmdKUpcomingEdit {
+  string original_lines = 1;
+  string relative_path = 3;
+  string extra_context_above = 4;
+  string extra_context_below = 5;
+  
+}
+  
+
+
+message CmdKPreviousEdit {
+  string original_lines = 1;
+  string new_lines = 2;
+  string relative_path = 3;
+  string extra_context_above = 4;
+  string extra_context_below = 5;
+  
+}
+  
+
+
+message StreamHypermodeRequest {
+  PotentiallyCachedContextItem context_items = 1;
+  CmdKOptions cmd_k_options = 2;
+  CmdKDebugInfo cmd_k_debug_info = 4;
+  string session_id = 6;
+  CmdKLegacyContext legacy_context = 5;
+  optional CmdKPreviousEdit previous_edit = 7;
+  CmdKPreviousEdit previous_edits = 8;
+  CmdKUpcomingEdit upcoming_edits = 12;
+  optional bool use_big_cmdk_for_multi_file_edit = 9;
+  ImageProto images = 10;
+  CmdKExternalLink links = 11;
+  CppFileDiffHistory diff_history = 13;
+  optional string hyper_model = 14;
+  optional TimingInfo timing_info = 15;
+  
+}
+  
+
+
+message StreamCmdKRequest {
+  PotentiallyCachedContextItem context_items = 1;
+  CmdKOptions cmd_k_options = 2;
+  CmdKDebugInfo cmd_k_debug_info = 4;
+  string session_id = 6;
+  CmdKLegacyContext legacy_context = 5;
+  optional CmdKPreviousEdit previous_edit = 7;
+  CmdKPreviousEdit previous_edits = 8;
+  CmdKUpcomingEdit upcoming_edits = 12;
+  optional bool use_big_cmdk_for_multi_file_edit = 9;
+  ImageProto images = 10;
+  CmdKExternalLink links = 11;
+  CppFileDiffHistory diff_history = 13;
+  optional BranchDiff diff_to_base_branch = 14;
+  optional TimingInfo timing_info = 15;
+  
+  message BranchDiff {
+    FileDiff file_diffs = 1;
+    Commit commits = 2;
+    
+    message FileDiff {
+      string file_name = 1;
+      string diff = 2;
+      bool too_big = 3;
+      
+    }
+      
+  }
+    
+}
+  
+
+
+message TimingInfo {
+  double user_input_time = 1;
+  double stream_cmdk_time = 2;
+  
+}
+  
+
+
+message StreamTerminalCmdKRequest {
+  PotentiallyCachedContextItem context_items = 1;
+  TerminalCmdKOptions cmd_k_options = 2;
+  string session_id = 6;
+  CmdKLegacyContext legacy_context = 5;
+  
+}
+  
+
+
+message CmdKLegacyContext {
+  ExplicitContext explicit_context = 4;
+  CodeBlock prompt_code_blocks = 12;
+  string documentation_identifiers = 10;
+  
+}
+  
+
+
+message StreamCmdKResponseContextWrapped {
+  StreamCmdKResponse real_response = 1;
+  ContextStatusUpdate context_status_update = 2;
+  MissingContextItems missing_context_items = 3;
+  
+}
+  
+
+
+message StreamTerminalCmdKResponseContextWrapped {
+  StreamTerminalCmdKResponse real_response = 1;
+  ContextStatusUpdate context_status_update = 2;
+  MissingContextItems missing_context_items = 3;
+  
+}
+  
+
+
+message StreamTerminalCmdKResponse {
+  TerminalCommand terminal_command = 1;
+  Chat chat = 4;
+  StatusUpdate status_update = 5;
+  
+  message TerminalCommand {
+    string partial_command = 1;
+    
+  }
+    
+  
+  
+  message Chat {
+    string text = 1;
+    
+  }
+    
+  
+  
+  message StatusUpdate {
+    string messages = 1;
+    
+  }
+    
+}
+  
+
+
+message StreamCmdKResponse {
+  EditStart edit_start = 1;
+  EditStream edit_stream = 2;
+  EditEnd edit_end = 3;
+  Chat chat = 4;
+  StatusUpdate status_update = 5;
+  
+  message EditStart {
+    int32 start_line_number = 1;
+    int32 edit_id = 2;
+    optional int32 max_end_line_number_exclusive = 3;
+    optional string file_path = 4;
+    
+  }
+    
+  
+  
+  message EditStream {
+    string text = 1;
+    int32 edit_id = 2;
+    optional string file_path = 3;
+    
+  }
+    
+  
+  
+  message EditEnd {
+    int32 end_line_number_exclusive = 1;
+    int32 edit_id = 2;
+    optional string file_path = 3;
+    
+  }
+    
+  
+  
+  message Chat {
+    string text = 1;
+    
+  }
+    
+  
+  
+  message StatusUpdate {
+    string messages = 1;
+    
+  }
+    
+}
+  
+
+
+message GetRelevantChunksRequest {
+  CodeBlock code_blocks = 1;
+  CmdKOptions cmd_k_options = 2;
+  PotentiallyCachedContextItem context_items = 3;
+  string session_id = 4;
+  CmdKLegacyContext legacy_context = 5;
+  
+}
+  
+
+
+message StreamGetRelevantChunksResponseContextWrapped {
+  GetRelevantChunksResponse real_response = 1;
+  
+}
+  
+
+
+message GetRelevantChunksResponse {
+  CodeBlocks code_blocks = 1;
+  ChainOfThoughtStream chain_of_thought_stream = 2;
+  
+  message ChainOfThoughtStream {
+    string text = 1;
+    
+  }
+    
+  
+  
+  message CodeBlocks {
+    CodeBlock code_blocks = 1;
+    
+  }
+    
+}
+  
+

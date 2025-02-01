@@ -1,0 +1,62 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service AdminService {
+
+  rpc DeleteUser(DeleteUserRequest) returns (DeleteUserResponse);
+
+  rpc RunTailscaleSSH(RunTailscaleSSHRequest) returns (RunTailscaleSSHResponse);
+
+  rpc AddAuthIdsToTeam(AddAuthIdsToTeamRequest) returns (AddAuthIdsToTeamResponse);
+}
+
+
+message DeleteUserRequest {
+  string auth_id = 1;
+  
+}
+  
+
+
+message DeleteUserResponse {
+  
+}
+  
+
+
+message RunTailscaleSSHRequest {
+  
+}
+  
+
+
+message RunTailscaleSSHResponse {
+  
+}
+  
+
+
+message AddAuthIdsToTeamRequest {
+  int32 team_id = 1;
+  string auth_ids = 2;
+  string workos_ids = 3;
+  
+}
+  
+
+
+message AddAuthIdsToTeamResponse {
+  
+}
+  
+

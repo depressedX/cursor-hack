@@ -1,0 +1,44 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "utils.proto";
+import "repository.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+
+
+message InlineGPT4PromptProtoV1 {
+  CurrentFileInfo current_file = 1;
+  
+}
+  
+
+
+message StreamInlineLongCompletionRequest {
+  CurrentFileInfo current_file = 1;
+  RepositoryInfo repositories = 6;
+  ContextBlock context_blocks = 7;
+  ExplicitContext explicit_context = 13;
+  ModelDetails model_details = 14;
+  LinterErrors linter_errors = 15;
+  
+  message ContextBlock {
+    ContextType context_type = 1;
+    CodeBlock blocks = 2;
+    
+    enum ContextType {
+      CONTEXT_TYPE_UNSPECIFIED = 0;
+      CONTEXT_TYPE_RECENT_LOCATIONS = 1;
+    }
+    
+  }
+    
+}
+  
+

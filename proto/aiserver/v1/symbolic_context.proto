@@ -1,0 +1,377 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "utils.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+
+
+message CreateExperimentalIndexRequest {
+  string files = 1;
+  string target_dir = 2;
+  string repo = 3;
+  
+}
+  
+
+
+message CreateExperimentalIndexResponse {
+  string index_id = 1;
+  
+}
+  
+
+
+message ListExperimentalIndexFilesRequest {
+  string index_id = 1;
+  
+}
+  
+
+
+message ListExperimentalIndexFilesResponse {
+  string index_id = 1;
+  IndexFileData files = 2;
+  
+}
+  
+
+
+message ListenExperimentalIndexRequest {
+  string index_id = 1;
+  
+}
+  
+
+
+message ListenExperimentalIndexResponse {
+  string index_id = 1;
+  ReadyItem ready = 2;
+  RegisterItem register = 3;
+  ChooseItem choose = 4;
+  SummarizeItem summarize = 5;
+  ErrorItem error = 6;
+  
+  message ReadyItem {
+    string index_id = 1;
+    ListenExperimentalIndexRequest request = 2;
+    
+  }
+    
+  
+  
+  message RegisterItem {
+    RegisterFileToIndexResponse response = 1;
+    RegisterFileToIndexRequest request = 2;
+    string req_uuid = 3;
+    
+  }
+    
+  
+  
+  message ChooseItem {
+    ChooseCodeReferencesResponse response = 1;
+    ChooseCodeReferencesRequest request = 2;
+    string req_uuid = 3;
+    
+  }
+    
+  
+  
+  message SummarizeItem {
+    SummarizeWithReferencesResponse response = 1;
+    SummarizeWithReferencesRequest request = 2;
+    string req_uuid = 3;
+    
+  }
+    
+  
+  
+  message ErrorItem {
+    string message = 1;
+    int32 status_code = 2;
+    RegisterFileToIndexRequest register = 3;
+    ChooseCodeReferencesRequest choose = 4;
+    SummarizeWithReferencesRequest summarize = 5;
+    string req_uuid = 6;
+    
+  }
+    
+}
+  
+
+
+message RegisterFileToIndexRequest {
+  string index_id = 1;
+  string workspace_relative_path = 2;
+  SerializedContextNode root_context_node = 3;
+  string content = 4;
+  
+}
+  
+
+
+message RegisterFileToIndexResponse {
+  string file_id = 1;
+  string root_context_node_id = 2;
+  URIResolutionAttempt dependency_resolution_attempts = 3;
+  IndexFileData file_data = 4;
+  
+}
+  
+
+
+message SetupIndexDependenciesRequest {
+  string index_id = 1;
+  string file_id = 3;
+  URIResolutionResult dependency_resolution_results = 2;
+  
+}
+  
+
+
+message SetupIndexDependenciesResponse {
+  
+}
+  
+
+
+message ComputeIndexTopoSortRequest {
+  string index_id = 1;
+  
+}
+  
+
+
+message ComputeIndexTopoSortResponse {
+  
+}
+  
+
+
+message ChooseCodeReferencesRequest {
+  string index_id = 1;
+  FileRequest file = 2;
+  NodeRequest node = 3;
+  bool recompute = 4;
+  
+  message FileRequest {
+    string file_id = 1;
+    
+  }
+    
+  
+  
+  message NodeRequest {
+    string node_id = 1;
+    
+  }
+    
+}
+  
+
+
+message ChooseCodeReferencesResponse {
+  FileResponse file = 1;
+  NodeResponse node = 2;
+  
+  message NodeResponse {
+    string node_id = 1;
+    CodeSymbolWithAction actions = 2;
+    bool skipped = 3;
+    string dependencies = 4;
+    
+  }
+    
+  
+  
+  message FileResponse {
+    string file_id = 1;
+    NodeResponse node_responses = 2;
+    
+  }
+    
+}
+  
+
+
+message RegisterCodeReferencesRequest {
+  string node_id = 1;
+  SymbolActionResults references = 2;
+  
+}
+  
+
+
+message RegisterCodeReferencesResponse {
+  string dependencies = 1;
+  
+}
+  
+
+
+message SummarizeWithReferencesRequest {
+  string index_id = 1;
+  string node_id = 2;
+  bool recompute = 3;
+  
+}
+  
+
+
+message SummarizeWithReferencesResponse {
+  Success success = 1;
+  Dependency dependency = 2;
+  string node_id = 3;
+  
+  message Success {
+    string summary = 1;
+    
+  }
+    
+  
+  
+  message Dependency {
+    string nodes = 2;
+    
+  }
+    
+}
+  
+
+
+message RequestReceivedResponse {
+  string req_uuid = 1;
+  
+}
+  
+
+
+message ReflectionData {
+  string index_id = 1;
+  string id = 2;
+  string summary = 3;
+  
+}
+  
+
+
+message IndexFileData {
+  string index_id = 1;
+  string workspace_relative_path = 2;
+  string stage = 3;
+  int32 order = 4;
+  NodeData nodes = 5;
+  
+  message NodeData {
+    string node_id = 1;
+    string stage = 2;
+    string content = 3;
+    string summary = 4;
+    
+  }
+    
+}
+  
+
+
+message SerializedContextNode {
+  string workspace_relative_path = 1;
+  int32 start_line_number = 2;
+  int32 end_line_number = 3;
+  aiserver.v1.SerializedContextNode children = 4;
+  FileCodeSnippets node_snippets = 5;
+  
+}
+  
+
+
+message URIResolutionAttempt {
+  string workspace_relative_path = 1;
+  string node_id = 2;
+  CodeSymbolWithAction symbol = 3;
+  
+}
+  
+
+
+message URIResolutionResult {
+  URIResolutionAttempt request = 1;
+  string resolved_paths = 2;
+  
+}
+  
+
+
+message ExtractPathsRequest {
+  FileCodeSnippets file_code_snippets = 1;
+  
+}
+  
+
+
+message ExtractPathsResponse {
+  CodeSymbolWithAction paths = 1;
+  
+}
+  
+
+
+message SymbolActionResults {
+  CodeSymbolWithAction action = 1;
+  SymbolActionResultReference references = 2;
+  
+}
+  
+
+
+message SymbolActionResultReference {
+  SimpleRange range = 1;
+  FileCodeSnippets reference = 2;
+  
+}
+  
+
+
+message FileCodeSnippets {
+  string relative_workspace_path = 1;
+  int32 total_lines = 2;
+  CodeSnippet snippets = 3;
+  
+}
+  
+
+
+message CodeSnippet {
+  int32 start_line_number = 1;
+  int32 end_line_number = 2;
+  string lines = 3;
+  
+}
+  
+
+
+message CodeSymbolWithAction {
+  string workspace_relative_path = 1;
+  int32 line_number = 2;
+  int32 symbol_start_column = 3;
+  int32 symbol_end_column = 4;
+  CodeSymbolAction action = 5;
+  string symbol = 6;
+  
+  enum CodeSymbolAction {
+    CODE_SYMBOL_ACTION_UNSPECIFIED = 0;
+    CODE_SYMBOL_ACTION_GO_TO_DEFINITION = 1;
+    CODE_SYMBOL_ACTION_GO_TO_IMPLEMENTATION = 2;
+    CODE_SYMBOL_ACTION_REFERENCES = 3;
+  }
+  
+}
+  
+

@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+package aiserver.v1;
+
+// 遥测服务定义
+service MetricsService {
+  // 上报增量指标
+  rpc ReportIncrement(ReportMetricsRequest) returns (ReportMetricsResponse);
+  
+  // 上报减量指标
+  rpc ReportDecrement(ReportMetricsRequest) returns (ReportMetricsResponse);
+  
+  // 上报分布指标
+  rpc ReportDistribution(ReportMetricsRequest) returns (ReportMetricsResponse);
+  
+  // 上报仪表盘指标
+  rpc ReportGauge(ReportMetricsRequest) returns (ReportMetricsResponse);
+}
+
+// 上报内联动作请求
+message ReportInlineActionRequest {
+  string action = 1;
+  string generation_uuid = 2;
+}
+
+// 上报内联动作响应
+message ReportInlineActionResponse {
+}
+
+// 上报指标请求
+message ReportMetricsRequest {
+  // 指标数据映射
+  map<string, Metric> metrics = 1;
+
+  // 指标数据结构
+  message Metric {
+    optional double value = 1;
+    map<string, string> tags = 2;
+  }
+}
+
+// 上报指标响应
+message ReportMetricsResponse {
+} 

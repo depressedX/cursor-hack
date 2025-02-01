@@ -1,0 +1,194 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "utils.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+
+
+message ComposerCapabilityRequest {
+  ComposerCapabilityType type = 1;
+  LoopOnLintsCapability loop_on_lints = 2;
+  LoopOnTestsCapability loop_on_tests = 3;
+  MegaPlannerCapability mega_planner = 4;
+  LoopOnCommandCapability loop_on_command = 5;
+  ToolCallCapability tool_call = 6;
+  DiffReviewCapability diff_review = 7;
+  ContextPickingCapability context_picking = 8;
+  EditTrailCapability edit_trail = 9;
+  AutoContextCapability auto_context = 10;
+  ContextPlannerCapability context_planner = 11;
+  RememberThisCapability remember_this = 12;
+  DecomposerCapability decomposer = 13;
+  
+  enum ComposerCapabilityType {
+    COMPOSER_CAPABILITY_TYPE_UNSPECIFIED = 0;
+    COMPOSER_CAPABILITY_TYPE_LOOP_ON_LINTS = 1;
+    COMPOSER_CAPABILITY_TYPE_LOOP_ON_TESTS = 2;
+    COMPOSER_CAPABILITY_TYPE_MEGA_PLANNER = 3;
+    COMPOSER_CAPABILITY_TYPE_LOOP_ON_COMMAND = 4;
+    COMPOSER_CAPABILITY_TYPE_TOOL_CALL = 5;
+    COMPOSER_CAPABILITY_TYPE_DIFF_REVIEW = 6;
+    COMPOSER_CAPABILITY_TYPE_CONTEXT_PICKING = 7;
+    COMPOSER_CAPABILITY_TYPE_EDIT_TRAIL = 8;
+    COMPOSER_CAPABILITY_TYPE_AUTO_CONTEXT = 9;
+    COMPOSER_CAPABILITY_TYPE_CONTEXT_PLANNER = 10;
+    COMPOSER_CAPABILITY_TYPE_DIFF_HISTORY = 11;
+    COMPOSER_CAPABILITY_TYPE_REMEMBER_THIS = 12;
+    COMPOSER_CAPABILITY_TYPE_DECOMPOSER = 13;
+    COMPOSER_CAPABILITY_TYPE_USES_CODEBASE = 14;
+    COMPOSER_CAPABILITY_TYPE_TOOL_FORMER = 15;
+  }
+  
+  
+  
+  enum ToolType {
+    TOOL_TYPE_UNSPECIFIED = 0;
+    TOOL_TYPE_ADD_FILE_TO_CONTEXT = 1;
+    TOOL_TYPE_RUN_TERMINAL_COMMAND = 2;
+    TOOL_TYPE_ITERATE = 3;
+    TOOL_TYPE_REMOVE_FILE_FROM_CONTEXT = 4;
+    TOOL_TYPE_SEMANTIC_SEARCH_CODEBASE = 5;
+  }
+  
+  
+  
+  message ToolSchema {
+    ToolType type = 1;
+    string name = 2;
+    map<string, SchemaProperty> properties = 3;
+    string required = 4;
+    
+  }
+    
+  
+  
+  message SchemaProperty {
+    string type = 1;
+    optional string description = 2;
+    
+  }
+    
+  
+  
+  message LoopOnLintsCapability {
+    LinterErrors linter_errors = 1;
+    optional string custom_instructions = 2;
+    
+  }
+    
+  
+  
+  message LoopOnTestsCapability {
+    string test_names = 1;
+    optional string custom_instructions = 2;
+    
+  }
+    
+  
+  
+  message MegaPlannerCapability {
+    optional string custom_instructions = 1;
+    
+  }
+    
+  
+  
+  message LoopOnCommandCapability {
+    string command = 1;
+    optional string custom_instructions = 2;
+    optional string output = 3;
+    optional int32 exit_code = 4;
+    
+  }
+    
+  
+  
+  message ToolCallCapability {
+    optional string custom_instructions = 1;
+    ToolSchema tool_schemas = 2;
+    string relevant_files = 3;
+    string files_in_context = 4;
+    string semantic_search_files = 5;
+    
+  }
+    
+  
+  
+  message DiffReviewCapability {
+    optional string custom_instructions = 1;
+    SimpleFileDiff diffs = 2;
+    
+    message SimpleFileDiff {
+      string relative_workspace_path = 1;
+      Chunk chunks = 3;
+      
+      message Chunk {
+        string old_lines = 1;
+        string new_lines = 2;
+        LineRange old_range = 3;
+        LineRange new_range = 4;
+        
+      }
+        
+    }
+      
+  }
+    
+  
+  
+  message DecomposerCapability {
+    optional string custom_instructions = 1;
+    
+  }
+    
+  
+  
+  message ContextPickingCapability {
+    optional string custom_instructions = 1;
+    string potential_context_files = 2;
+    CodeChunk potential_context_code_chunks = 3;
+    string files_in_context = 4;
+    
+  }
+    
+  
+  
+  message EditTrailCapability {
+    optional string custom_instructions = 1;
+    
+  }
+    
+  
+  
+  message AutoContextCapability {
+    optional string custom_instructions = 1;
+    string additional_files = 2;
+    
+  }
+    
+  
+  
+  message ContextPlannerCapability {
+    optional string custom_instructions = 1;
+    CodeChunk attached_code_chunks = 2;
+    
+  }
+    
+  
+  
+  message RememberThisCapability {
+    optional string custom_instructions = 1;
+    string memory = 2;
+    
+  }
+    
+}
+  
+

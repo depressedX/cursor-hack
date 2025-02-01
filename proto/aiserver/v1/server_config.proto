@@ -1,0 +1,60 @@
+
+syntax = "proto3";
+
+package aiserver.v1;
+
+import "review.proto";
+
+// 因为还不能检测是否依赖这个 proto 文件，所以先手动 import 一下
+import "google/protobuf/timestamp.proto";
+
+
+
+      
+service ServerConfigService {
+
+  rpc GetServerConfig(GetServerConfigRequest) returns (GetServerConfigResponse);
+}
+
+
+message IndexingConfig {
+  int32 max_concurrent_uploads = 1;
+  int32 absolute_max_number_files = 2;
+  int32 max_file_retries = 3;
+  int32 sync_concurrency = 4;
+  int32 auto_indexing_max_num_files = 5;
+  
+}
+  
+
+
+message ClientTracingConfig {
+  double global_sample_rate = 1;
+  double traces_sample_rate = 2;
+  double logger_sample_rate = 3;
+  double minidump_sample_rate = 4;
+  double error_rate_limit = 5;
+  double performance_unit_rate_limit = 6;
+  
+}
+  
+
+
+message GetServerConfigRequest {
+  bool telem_enabled = 1;
+  double bug_bot_dismissed_notification_last_10_times_unix_ms = 2;
+  double bug_bot_viewed_notification_last_10_times_unix_ms = 3;
+  
+}
+  
+
+
+message GetServerConfigResponse {
+  BugConfigResponse bug_config_response = 1;
+  bool is_dev_do_not_use_for_secret_things_because_can_be_spoofed_by_users = 2;
+  IndexingConfig indexing_config = 3;
+  ClientTracingConfig client_tracing_config = 4;
+  
+}
+  
+
