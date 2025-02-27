@@ -5,3 +5,6 @@ workbench.desktop.main.js
 workbench.desktop.main.formatted.js
 
 .idea
+
+cursor-always-local.main.js
+cursor-always-local.main.formatted.js
